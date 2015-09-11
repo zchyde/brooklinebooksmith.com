@@ -1,44 +1,39 @@
 webhook-starter
 ===============
-Barebones Webhook starter file to include grunt and bower components for Bourbon, Neat, and Bitters, plus normalize-scss, and a minimal print stylesheet.
+A fast, opinonated Webhook starter theme. 
 
-Modeled from [webhook/webhook-theme-preprocessor](https://github.com/webhook/webhook-theme-preprocessor)
+What this Theme does:
 
+* uses `node-bourbon` and `node-neat` 
+* uses `live-reload` on css changes 
+* uses `auto-prefixer` (bourbon is removing that functionality)
+* uses `browserSync` if you enable it (in the Gruntfile) 
+* installs libraries via npm, when packages exist 
+* concats/compresses js/css in development 
+* includes `enquire.js` for javascript media queries
+* includes hot-key to toggle the `visual-grid`
+* includes sensible, customizable, mobile-first `neat` breakpoints
 
+How to use it:
 
-```$ wh -f [firebase_name] -s [server_ip] create [sitename]```
-
-
-```$ cd [sitename]```
-
-
-Update your .firebase.conf file
-
-
-```$ npm install --save-dev grunt-sass html5shiv jquery node-bourbon node-neat node-sass normalize-opentype.css normalize.scss respond.js```
-
-
-```$ wh -f [firebase_name] -s [server_ip] serve```
-
-
-In your browser, load <http://localhost:2002/> and click on "Looking for the CMS?" and Choose "Start from a theme"
+* install libraries with `npm` - or, if no package, in `static/lib`
+* add path to .js libraries to `concat:dist:src` (or)
+* import .css/.scss libraries to `main.scss`
 
 
-Find "Load remote theme" and add:  
-<https://github.com/budparr/webhook-starter/archive/master.zip>
+## Install
 
-Step 7    
-```$ cd sass && gem install bitters```
+1. `wh create <sitename>`
 
-```$ bitters install```
+2. `cd <sitename>`
 
-Optional  
-add static/css/cms.css to pages/cms.html  
-```<link rel="stylesheet" href="/static/css/cms.css">```
+3. `$ npm install --save-dev grunt-sass grunt-autoprefixer grunt-browser-sync grunt-contrib-concat grunt-contrib-uglify jquery node-bourbon node-neat node-sass normalize.scss normalize-opentype.css enquire.js html5shiv respond.js`
 
+4. `wh serve`
 
----
+5. at `localhost:2002/cms` click `Start from a theme`, then paste in the url of this repo's `.zip` file (load remote theme)
 
-TODO: 
-Refine content sections  
-Refine theme initial layout (fork to a theme)
+6. quit and restart server to load new `Gruntfile`
+
+7. Bingo!
+

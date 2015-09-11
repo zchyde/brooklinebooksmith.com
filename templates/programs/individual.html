@@ -1,6 +1,6 @@
 {# ------------------------------------------------------- #}
-{# INDIVIDUAL VIEW FOR EACH blog #}
-{# This page can use any data from http:localhost:2000/cms/#/form/blog/ #}
+{# INDIVIDUAL VIEW FOR EACH programs #}
+{# This page can use any data from http:localhost:2000/cms/#/form/programs/ #}
 {# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
 {# http://paularmstrong.github.io/swig/docs/tags/ #}
 {# Learn about calling data into Webhook pages here: #}
@@ -9,10 +9,10 @@
 {# Confused what extends and blocks do? Watch a primer: #}
 {# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this blog's name to the site title defined in base.html #}
+{# This sets our page <title>. It will append this programs's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block content %}
-  <p><a href="{{ url('blog') }}">View a list of all blog</a></p>
+  <p><a href="{{ url('programs') }}">View a list of all programs</a></p>
   <h1>{{ item.name }}</h1>
   <ul>
       <li>
@@ -35,20 +35,12 @@
         {{ item.publish_date|date('F d Y') }}
       </li>
       <li>
-        <strong>Preview URL: </strong>
-        {{ item.preview_url }}
-      </li>
-      <li>
-        <strong>Slug: </strong>
-        {{ item.slug }}
-      </li>
-      <li>
-        <strong>Excerpt: </strong>
-        {{ item.excerpt|safe }}
-      </li>
-      <li>
-        <strong>Body: </strong>
-        {{ item.post|safe }}
+        <strong>Events (Program): </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.events_program %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
       </li>
   </ul>
 {% endblock %}

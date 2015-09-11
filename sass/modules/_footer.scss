@@ -19,7 +19,7 @@
 // .footer-2, .wrapper-for-content-outside-of-footer:after {
 //   height: 17em;
 
-//   @include media($large-screen) {
+//   @include media($lg) {
 //     height: 4em;
 //   }
 // }
@@ -27,8 +27,8 @@
 .footer-2 {
   $base-spacing: 1.5em !default;
   $action-color: #477DCA !default;
-  $medium-screen: em(640) !default;
-  $large-screen: em(860) !default;
+  $md: em(640) !default;
+  $lg: em(860) !default;
   $footer-background: desaturate(darken($action-color, 20%), 30%);
   $footer-color: white;
   $footer-link-color: transparentize($footer-color, 0.6);
@@ -43,7 +43,7 @@
     margin-right: 1em;
     margin-bottom: 1em;
 
-    @include media($large-screen) {
+    @include media($lg) {
       float: left;
       margin-bottom: 0;
     }
@@ -58,7 +58,7 @@
     margin: 0 0 1em 0;
     padding: 0;
     
-    @include media($large-screen) {
+    @include media($lg) {
       float: left;
       line-height: 1.8em;
       margin-left: 1em;
@@ -71,7 +71,7 @@
     list-style: none;
     padding-right: 1em;
 
-    @include media($large-screen) {
+    @include media($lg) {
       display: inline;
       text-align: left;
     }
@@ -88,7 +88,7 @@
   }
 
   .footer-secondary-links {
-    @include media($large-screen) {
+    @include media($lg) {
       float: right;
     }
 
@@ -100,7 +100,7 @@
     ul.footer-social {
       margin: 1em 0 0 0;
 
-      @include media($large-screen) {
+      @include media($lg) {
         float: right;
         margin-top: 0;
       }
