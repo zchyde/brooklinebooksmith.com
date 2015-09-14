@@ -2,7 +2,7 @@
 $visual-grid: true; 
 $visual-grid-color: yellow; 
 $visual-grid-index: front;
-$visual-grid-opacity: 0.2; 
+$visual-grid-opacity: 0.2;
 
 // base
 @import 
@@ -18,7 +18,10 @@ $visual-grid-opacity: 0.2;
   "modules/visual-grid",  
   "modules/articles",
   "modules/footer",  
-  "modules/header",
+  "modules/hero",  
+  "modules/nav-mobile",
+  "modules/nav-top",
+  "modules/nav-side",
   "modules/home",
   "modules/utilities-accessibility",
   "modules/utilities-iframes",
@@ -32,4 +35,7 @@ $visual-grid-opacity: 0.2;
     display: block;
   }
 
-
+  // body {
+  //   background-color: $brand-background-color;
+  //   color: #f1f1f1;
+  // }

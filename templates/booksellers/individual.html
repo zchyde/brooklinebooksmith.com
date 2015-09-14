@@ -1,6 +1,6 @@
 {# ------------------------------------------------------- #}
-{# INDIVIDUAL VIEW FOR EACH programs #}
-{# This page can use any data from http:localhost:2000/cms/#/form/programs/ #}
+{# INDIVIDUAL VIEW FOR EACH booksellers #}
+{# This page can use any data from http:localhost:2000/cms/#/form/booksellers/ #}
 {# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
 {# http://paularmstrong.github.io/swig/docs/tags/ #}
 {# Learn about calling data into Webhook pages here: #}
@@ -9,10 +9,10 @@
 {# Confused what extends and blocks do? Watch a primer: #}
 {# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this programs's name to the site title defined in base.html #}
+{# This sets our page <title>. It will append this booksellers's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block content %}
-  <p><a href="{{ url('programs') }}">View a list of all programs</a></p>
+  <p><a href="{{ url('booksellers') }}">View a list of all booksellers</a></p>
   <h1>{{ item.name }}</h1>
   <ul>
       <li>
@@ -35,16 +35,30 @@
         {{ item.publish_date|date('F d Y') }}
       </li>
       <li>
-        <strong>Events (Program): </strong>
+        <strong>Instructions: </strong>
+        {{ item.instructions }}
+      </li>
+      <li>
+        <strong>Image: </strong>
+        {# You can pull out a lot more information from the image property. Info here: #}
+        {# http://www.webhook.com/docs/widget-template-reference/#image #}
+        <img src="{{ item.image|imageSize(200, 200) }}" />
+      </li>
+      <li>
+        <strong>Image Attribution: </strong>
+        {{ item.image_attribution }}
+      </li>
+      <li>
+        <strong>Copy: </strong>
+        {{ item.copy|safe }}
+      </li>
+      <li>
+        <strong>Articles (Author): </strong>
         {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-        {% for relation in item.events_program %}
+        {% for relation in item.articles_author %}
           {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
           <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
         {% endfor %}
-      </li>
-      <li>
-        <strong>copy: </strong>
-        {{ item.copy|safe }}
       </li>
       <li>
         <strong>Preview URL: </strong>

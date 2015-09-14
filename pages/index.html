@@ -4,12 +4,20 @@
 
 {% block body_attributes %}class="home"{% endblock %}
 
+{% block hero %}
+        {% include "templates/partials/hero.html" %}
+      {% endblock %}
+
 {% block content %} 
 
 <main>
-  <h1>Welcome to the Webhook starter.</h1>
-  <p>Press the 'g' key to see the grid (modify it in /base/_grid-settings.scss)</p>
-  <p><a href="/cms/">Looking for the CMS?</a></p>
+<article class="hentry">
+  {# <h2 class="logo" style="font-size:1.125em;">Upcoming Eventsyo</h2>
+  <ul class="boxes">
+    <li>{% include "templates/partials/events-list-nav.html" %}</li>
+  </ul> #}
+</article>
+  
 </main>
 
 {% endblock %}

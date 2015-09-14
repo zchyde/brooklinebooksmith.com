@@ -35,6 +35,14 @@
         {{ item.publish_date|date('F d Y') }}
       </li>
       <li>
+        <strong>Related Book: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.related_book %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
         <strong>Featured Image: </strong>
         {# You can pull out a lot more information from the image property. Info here: #}
         {# http://www.webhook.com/docs/widget-template-reference/#image #}
@@ -53,18 +61,6 @@
       <li>
         <strong>Venue: </strong>
         {{ item.venue }}
-      </li>
-      <li>
-        <strong>Address: </strong>
-        <address>
-          {{ item.address.street1 }}<br/>
-          {% if item.address.street2 %}{{ item.address.street2 }}<br/>{% endif %}
-          {{ item.address.city }}, {{ item.address.state }}. {{ item.address.country }} {{ item.address.zip }}
-        </address>
-      </li>
-      <li>
-        <strong>Website: </strong>
-        {{ item.website }}
       </li>
       <li>
         <strong>Copy: </strong>
