@@ -28,7 +28,7 @@
 {% for relation in event.related_book %}
   {% set editions = relation.editions %}
   <div style="width:180px;margin:.125em auto;"><img src="{{ relation.editions[0].cover_image|imageSize(180, 'auto') }}" ></div>
-  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+  {# <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %} #}
 {% endfor %}
 
 

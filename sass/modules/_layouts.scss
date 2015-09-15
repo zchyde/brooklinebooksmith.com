@@ -1,0 +1,43 @@
+.layout-posts {
+  clear: both;
+  @include clearfix;
+  @include outer-container(80%);
+}
+
+.boxes {
+  background-color: #fff;
+  color: #555;
+  padding: 1em;
+}
+
+.boxes-2-across {
+  margin-bottom: 2em;
+  img {
+    width:100%;
+  }
+  @include span-columns(12 of 12);  
+  @include media($lg-up) {
+    @include span-columns(6 of 12);  
+    @include omega(2n);
+  }
+}
+
+.boxes-3-across {
+  margin-bottom: 2em;
+  
+  img {
+    width:100%;
+  }
+  @include span-columns(12 of 12);  
+  
+  //@include media($l-down) 
+@media screen and (min-width: $md) and (max-width: $lg)
+  {
+    @include span-columns(6 of 12);  
+    @include omega(2n);
+  }
+  @include media($lg-up) {
+    @include span-columns(4 of 12);  
+    @include omega(3n);
+  }
+}

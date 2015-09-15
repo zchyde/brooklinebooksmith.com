@@ -11,12 +11,53 @@
 {% block content %} 
 
 <main>
-<article class="hentry">
+
   {# <h2 class="logo" style="font-size:1.125em;">Upcoming Eventsyo</h2>
   <ul class="boxes">
     <li>{% include "templates/partials/events-list-nav.html" %}</li>
   </ul> #}
-</article>
+
+
+ {% set blog = cms.articles %}
+  {% set data = blog %}
+  {% set data = data|sort('publish_date', true) %}
+  {% set data = paginate(data, 15) %}
+    {% spaceless %}
+      <div class="layout-posts">
+        <h2>Updates</h2>
+        <div class="row">
+          {% for object in data %}
+          <div class="boxes boxes-2-across">
+            {% spaceless %}
+            {# <h6 class="light small">
+              {{ object.publish_date|date('F jS, Y') }}
+            </h6> #}
+            <a href="{{ url(object) }}">
+              {% if object.featured_image %}
+              <div class="image-box">
+                <img src="{{ object.featured_image|imageCrop(300, 200) }}" style="max-width:100%;border:1px solid #ddd;">
+                </div>
+              {% endif %}
+              <br />
+              <h6 class="m0" style="margin:0;">
+                {{ object.name }}
+              </h6>
+            </a>
+            {% if object.copy %}
+              {{ object.copy|safe|striptags|truncate(100) }}
+                <a href="{{ url(object) }}">read</a>
+            {% endif %}
+          {% endspaceless %}
+          </div> 
+        {% endfor %}      
+        </div>
+      </div> {#  //END has-layout #}
+    {% endspaceless %}
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+
   
 </main>
 

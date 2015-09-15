@@ -19,6 +19,7 @@ $visual-grid-opacity: 0.2;
   "modules/articles",
   "modules/footer",  
   "modules/hero",  
+  "modules/layouts",  
   "modules/nav-mobile",
   "modules/nav-top",
   "modules/nav-side",
@@ -35,7 +36,7 @@ $visual-grid-opacity: 0.2;
     display: block;
   }
 
-  // body {
-  //   background-color: $brand-background-color;
-  //   color: #f1f1f1;
-  // }
+  body {
+    background-color: #f1f1f1;
+    color: #f1f1f1;
+  }

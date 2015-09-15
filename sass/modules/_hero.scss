@@ -3,11 +3,13 @@
   $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
-  $hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  //$hero-image:'https://images.unsplash.com/uploads/1413498852637ad9a7e80/1569fece?q=80&fm=jpg&s=9d83b5a1447b7855ac9973a5ca450a99';
+  $hero-image:'http://lh3.googleusercontent.com/JDoK6qBoT0Dn8CY1PvpQ0zBCUT3OVQzNZ-5RSv-hW3hvQiNXDGbXkpzFwb8_9P1fLO8J-sGe7ZsAXR_cefCRQx2vc5_KEXVx=s1440';
 
   @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
   background-color: #324766;
-  background-position: top;
+  background-position: right top;
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 3em;
