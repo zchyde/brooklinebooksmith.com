@@ -1,1 +1,3 @@
-{{ cms.global.staging_domain }}.surge.sh
+brookline.surge.sh
+
+// for staging server, yo
