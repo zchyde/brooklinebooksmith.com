@@ -36,7 +36,17 @@ $visual-grid-opacity: 0.2;
     display: block;
   }
 
-  body {
-    background-color: #f1f1f1;
+  body.home {
+    background-color: $brand-background-color;
     color: #f1f1f1;
   }
+
+
+#mfPreviewBarShow, #mfPreviewBar {
+  display: none !important;
+}
+
+.item-nav {
+  color: #ddd;
+  padding: .5em;
+}

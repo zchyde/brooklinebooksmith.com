@@ -46,5 +46,19 @@
         {# http://www.webhook.com/docs/widget-template-reference/#image #}
         <img src="{{ cms.global.featured_image|imageSize(200, 200) }}" />
       </li>
+      <li>
+        <strong>Main Menu: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in cms.global.main_menu %}
+            <li>
+              <strong>Menu Page: </strong>
+              {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.menu_page) }}">{{ row.menu_page.name }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
   </ul>
 {% endblock %}

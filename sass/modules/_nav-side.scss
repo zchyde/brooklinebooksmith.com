@@ -7,8 +7,12 @@
 
 // =============== LEFT SIDEBAR ===============
 
+
+
+
+
 @if $include-sidebar-left != false { 
-  .content {
+  body.home .content {
     //padding: 4em;
     //margin-top: $navigation-height;
     min-width: 0;
@@ -16,67 +20,41 @@
     @include media($sidebar-left-breakpoint) {
   ///      min-width: $b-vp; // TODO: change this to more stable variable
       margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
-    }
+    }    
   }
-  .sidebar-left {
+  body.home .sidebar-left {
+
+
+  $sidebar-background-top: #000; 
+  $sidebar-background-bottom: #fff;
+  $sidebar-color: white;
+  $gradient-angle: 90deg;
+  //$sidebar-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  //$sidebar-image:'https://images.unsplash.com/uploads/1413498852637ad9a7e80/1569fece?q=80&fm=jpg&s=9d83b5a1447b7855ac9973a5ca450a99';
+  $sidebar-image:'https://storage.googleapis.com/www.brooklinebooksmith.com/webhook-uploads/1442680319832_brookline-map-361x900.png';
+
+  @include background(url($sidebar-image), linear-gradient($gradient-angle, $sidebar-background-bottom, $sidebar-background-top), no-repeat $sidebar-background-top scroll);
+
+
+
+
+
     overflow: visible;
+    background-image: url($sidebar-image);
     width: 100%; //mobile first, sidebar spans top of screen
-    height: auto;
+    height: 10em;
+    margin-top: 0;//$navigation-height;
     position: static;
+    background-position: 14% top;
+    background-size: cover;
     text-align: center;
     padding: $sidebar-padding-top 0 $sidebar-padding-bottom 0;
     background-color: $sidebar-color-background;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     //margin-top: $sidebar-margin-top;
     color: $sidebar-color;
-    display: none;
-
-    h2.logo {
-      padding-top: .25em;
-    }
-
-
-    a {
-      color: #505050; // TODO: Replace with variable
-    }
-    /* Sidebar nav */
-    .nav-sidebar {
-      list-style: none;        
-      width: 100%;
-
-    }
-    .nav-sidebar li a{
-      width: 100%;
-      text-align: right;
-      display: block;
-      padding-top: .5em;
-      padding-bottom: .5em;
-      
-    }
-    .nav-sidebar li a:hover,
-    .nav-sidebar li a:focus {
-      text-decoration: none;
-      color: lighten($sidebar-color, 5%);
-      background-color: lighten($sidebar-color-background, 95%);
-    }
-    .nav-sidebar li.active a {
-      color: darken($sidebar-color, 33%);
-    }
-    hr {
-       margin:1em auto;
-      border-top: 1px solid lighten($sidebar-color-background, 3%);
-    }
-    h1 {
-      font-size: $base-font-size * 3.25; // 16 * 2.25 = 36px
-      font-weight: 300;
-      text-transform: uppercase;    
-      @include media($breakpoint) { 
-        font-size: $base-font-size * 1.6; // 16 * 2.25 = 36px        
-      }
-      @include media($breakpoint) { 
-        font-size: $base-font-size * 2.25; // 16 * 2.25 = 36px
-      }
-    }        
+    //display: none;
+     
     @include media($breakpoint) {
       width: $sidebar-width; // larger screens show the sidebar at this width
       height: 100%;
@@ -85,6 +63,7 @@
       top: 0;//$navigation-height;
       left: 0;
       overflow-y: hidden;
+      //margin-top: $navigation-height;
       -webkit-overflow-scrolling: touch;
     }
   }
@@ -105,7 +84,7 @@
   }
 }
 .sidebar-right {
-  margin-top: $navigation-height;
+  
   clear: both;
     overflow: hidden;
     z-index: 1000;
@@ -119,13 +98,7 @@
 
     @include media($sidebar-right-breakpoint) {
       padding: 2em 3em;
-
-      section:first-child {
-        margin-top: 37% !important;
-      }
-      section:last-child {
-        margin-bottom: 10% !important;
-      }
+     
     }
     @include media($sidebar-left-breakpoint, $sidebar-right-breakpoint) {
 

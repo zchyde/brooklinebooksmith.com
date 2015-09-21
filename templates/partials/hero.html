@@ -1,12 +1,16 @@
-<div class="hero">
-  <div class="hero-inner">
-    <div class="hero-copy">
-      <h1>Holiday Gift Guide</h1>
-      <p>This space is for whatever's hot right now. Let's figure out if we want book covers, etc, or an image with copy...</p>  
+{% if getCurrentUrl() == '/hours-location/' %}
+  <div class="hero" data-search-index="false" style="background:none;">    
+    <div class="embed-containerTK">
+      <iframe style="height:460px;overflow:hidden;" width="1600" height="460" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.994813435259!2d-71.12388518459608!3d42.34263394419454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379bfdb681bc1%3A0x279c60f655491995!2sBrookline+Booksmith!5e0!3m2!1sen!2sus!4v1442837004017"></iframe>          
     </div>
   </div>
-</div>
-<div class="row" style="background-color:#f6f6f6;">
-  <img src="http://lh3.googleusercontent.com/jpD7w2YEKaYCOsdQzNuxY9n23U-3aMumAAsas74eSyNmifMC3ezeh8dTWgUl15lMGOZQm69d6Cf6sphm8KC3D2QpDSu5mnTJYA=s300" style="height:130px;padding: 1em;">
-
-</div>
+{% else %}
+  <div class="hero">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <h1>{{ item.name }}</h1>
+        <p>hero space</p>  
+      </div>
+    </div>
+  </div>
+{% endif %}

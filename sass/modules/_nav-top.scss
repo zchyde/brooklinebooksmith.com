@@ -1,52 +1,85 @@
 header.navigation {
-  
-
   background-color: $navigation-background;
-  border-bottom: 1px solid darken($navigation-background, 1);
   min-height: $navigation-height;
   width: 100%;
   z-index: 999;
+  font-family: $brand-font-family;
 
   .navigation-wrapper {
     @include clearfix;
-    @include outer-container;
+    @include outer-container(100%);
     position: relative;
     z-index: 9999;
+    padding-top:.5em;
   }
 
-  .logo {
-    //float: left;
-    max-height: $navigation-height;
-    padding-left: $navigation-padding;
-    padding-right: 2em;
 
-    img {
-      max-height: $navigation-height;
-      padding: 0.8em 0;
+  //LAYOUT
+  margin-left:0;
+  @include media($sidebar-left-breakpoint) {
+    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+  }
+  
+  .brand {
+    @include span-columns(12 of 12);
+    @include omega();    
+    h1 {      
+      padding:1.75em 0 0 .5em;
+      margin:0;            
+      line-height: 1;        
+      font-weight: 400;
+      font-size: 2em;
+    }    
+    a {
+      color: white;  
+    }
+  }
+  nav, .navigation-tools {
+    display: none;
+  }
+
+  @include media ($lg-up) { 
+    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+    //width: 100% - $sidebar-width;
+    .brand {
+      h1 {
+        font-size: 3.25em;
+        padding: .25em 0 0 .5em;
+      }
+    }
+
+  }
+
+  @include media ($xl-up) { //horizontal-bar-mode
+    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+    //width: 100% - $sidebar-width;
+    .brand {
+      @include span-columns(5.5 of 12);
+      @include omega(); 
+      h1 {
+        font-size: 3.375em;
+        line-height: $navigation-height;        
+        padding: 0 0 0 1em;  
+      }   
+    }
+    nav {
+      display: inline-block;
+      @include span-columns(5 of 12);
+      @include omega();
+      padding-top: .625em;
+      //background-color:black;
+    }
+    .navigation-tools {
+      @include span-columns(2 of 12);
+      padding-top: 1.25em;
     }
   }
 
-  // Mobile view
 
-  .navigation-menu-button {
-    color: $navigation-color;
-    display: block;
-    float: right;
-    line-height: $navigation-height;
-    margin: 0;
-    padding-right: 1em;
-    text-decoration: none;
-    text-transform: uppercase;
 
-    @include media ($horizontal-bar-mode) {
-      display: none;
-    }
 
-    &:focus,
-    &:hover {
-      color: $navigation-color-hover;
-    }
-  }
+
+
 
   // Nav menu
 
@@ -55,14 +88,12 @@ header.navigation {
     min-height: $navigation-height;
     z-index: 9999999;
 
-
     @include media ($horizontal-bar-mode) {
       float: left;
     }
   }
 
   ul.navigation-menu {
-    -webkit-transform-style: preserve-3d; // stop webkit flicker
     clear: both;
     display: none;
     margin: 0 auto;
@@ -73,7 +104,6 @@ header.navigation {
 
     &.show {
       display: block;
-      display: inline-block;
     }
 
     @include media ($horizontal-bar-mode) {
@@ -88,15 +118,12 @@ header.navigation {
   ul li.nav-link {
     background: $navigation-background;
     display: block;
-    display: inline;
     line-height: $navigation-height;
     overflow: hidden;
     padding-right: 0.8em;
     text-align: right;
     width: 100%;
     z-index: 9999;
-    font-family: $brand-font-family;
-    text-transform: lowercase;
 
     @include media ($horizontal-bar-mode) {
       background: transparent;
@@ -119,16 +146,6 @@ header.navigation {
       &:hover {
         color: $navigation-color-hover;
       }
-    }
-
-    .title {
-      font-family: $brand-font-family;
-      font-size: 1.75em;
-      color: white;
-        &:hover {
-          color: #ccc;
-        }
-      
     }
   }
 
@@ -327,5 +344,20 @@ header.navigation {
         display: block;
       }
     }
+  }
+}
+
+
+/////////////////
+body.home header.navigation {
+
+  @include media ($lg-up) { 
+    margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+    width: 100% - $sidebar-width;
+  }
+
+  @include media ($xl-up) { //horizontal-bar-mode
+    margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+    width: 100% - $sidebar-width;
   }
 }

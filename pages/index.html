@@ -1,4 +1,5 @@
 {% extends "templates/partials/base.html" %} 
+{% block body_class %}home{% endblock %}
 
 {% block title %}{% parent %}{% endblock %} 
 
@@ -18,13 +19,13 @@
   </ul> #}
 
 
- {% set blog = cms.articles %}
+ {% set blog = cms.articlesTK %}
   {% set data = blog %}
   {% set data = data|sort('publish_date', true) %}
   {% set data = paginate(data, 15) %}
     {% spaceless %}
       <div class="layout-posts">
-        <h2>Updates</h2>
+        {# <h2>Updates</h2> #}
         <div class="row">
           {% for object in data %}
           <div class="boxes boxes-2-across">

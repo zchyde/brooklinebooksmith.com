@@ -51,7 +51,7 @@ module.exports = function(grunt) {
         options: {
           watchTask: true,
           server: '.build',
-          tunnel: 'preview'    
+          tunnel: 'preview',      
         }
       }
     },
@@ -64,21 +64,21 @@ module.exports = function(grunt) {
               'static/javascript/lib/kibo.js',
               'static/javascript/main.js'
               ],
-        dest: 'static/javascript/scripts.concat.js'
+        dest: 'static/javascript/dist/scripts.concat.js'
       },
       modernize: {
         src: [
               'node_modules/html5shiv/dist/html5shiv.js',
               'node_modules/respond.js/dest/respond.src.js'
               ],
-        dest: 'static/javascript/modernize.js',
+        dest: 'static/javascript/dist/modernize.js',
           }
     },
 
     uglify: {
       my_target: {
         files: {
-          'static/javascript/scripts.min.js': 'static/javascript/scripts.concat.js'
+          'static/javascript/dist/scripts.min.js': 'static/javascript/dist/scripts.concat.js'
         }
       }
     },

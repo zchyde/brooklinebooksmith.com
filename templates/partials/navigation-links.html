@@ -1,0 +1,9 @@
+{% for link in global.main_menu %}
+
+  <li tabindex="{{loop.index}}" class="nav-link{% if getCurrentUrl() == url(link.page) %} active{% endif %}">
+    <a href="{{ url(link.menu_page) }}">
+      {{ link.menu_page.name }}
+    </a>
+  </li>
+
+{% endfor %}  

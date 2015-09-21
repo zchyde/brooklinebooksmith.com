@@ -1,14 +1,5 @@
 .sliding-panel-content {  
-  $action-color: #477DCA !default;
-  $dark-gray: #333 !default;
-  $sliding-panel-border-color: $dark-gray;
-  $sliding-panel-background: lighten($sliding-panel-border-color, 5%);
-  $sliding-panel-color: #fff;
-  $sliding-panel-border: 1px solid $sliding-panel-border-color;
-  $sliding-panel-background-hover: $action-color;
-  $sliding-panel-color-hover: #fff;
-  $sliding-panel-background-focus: lighten($sliding-panel-background, 5%);
-
+  
   @include position(fixed, 0px auto 0px 0px);
   @include size(220px 100%);
   @include transform(translateX(-220px));
@@ -17,7 +8,9 @@
   z-index: 999999;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-
+  hr {
+    border-top-color:$sliding-panel-border-color;
+  }
   ul {
     padding: 0;
     margin: 0;
@@ -65,14 +58,17 @@
 }
 
 .sliding-panel-button {
-  padding: 10px 16px;
-  display: inline-block;
+  background-color: darken($navigation-background, 12%);
+  display: block;
+  padding: .375em .5em;  
   cursor: pointer;
-  position: relative;
+  position: absolute;
   outline: none;
-
-  img {
-    height: 1.3em;
+  top:1em;
+  right: 1em;
+  z-index: 1000;
+  @include media ($xl-up) {
+    display: none;
   }
 }
 
