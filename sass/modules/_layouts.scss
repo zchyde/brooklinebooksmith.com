@@ -1,7 +1,14 @@
-.layout-posts {
+.layout-posts, .has-layout {
   clear: both;
   @include clearfix;
   @include outer-container(80%);
+}
+
+.row {
+  clear: both;
+  @include clearfix;
+  @include outer-container(60%);
+  margin: 4em auto;
 }
 
 .boxes {

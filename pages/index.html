@@ -1,5 +1,7 @@
 {% extends "templates/partials/base.html" %} 
-{% block body_class %}home{% endblock %}
+
+{% block body_class %}{% parent %} home{% endblock %}
+
 
 {% block title %}{% parent %}{% endblock %} 
 

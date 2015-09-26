@@ -7,9 +7,10 @@ $brand-font-family: 'URW Typewriter Light', $heading-font-family;
 
 // Font Sizes
 $base-font-size: 1em;
+$paragraph-font-size: 1.125rem;
 
 // Line height
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 $heading-line-height: 1.2;
 
 // Other Sizes
@@ -96,3 +97,10 @@ $sliding-panel-border: 1px solid $sliding-panel-border-color;
 $sliding-panel-background-hover: lighten($sliding-panel-background, 10%);
 $sliding-panel-color-hover: #fff;
 $sliding-panel-background-focus: lighten($sliding-panel-background, 5%);
+
+
+$footer-background: $blue;//desaturate(darken($action-color, 20%), 30%);
+$footer-color: white;
+$footer-link-color: transparentize($footer-color, 0.6);
+$footer-disclaimer-color: transparentize($footer-color, 0.6);
+

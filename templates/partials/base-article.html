@@ -27,13 +27,15 @@
     
           {% endblock %}  
           {% block content_entry_related %}{% endblock %}
-          {% include "templates/partials/image-attribution.html" %}          
-          {% block mailchimp %}
-            {% include "templates/partials/form-mailchimp-simple.html" %}
-          {% endblock %}
+          {% include "templates/partials/image-attribution.html" %}                    
         </div>
       {% endblock %}
     </article>
+    {% block mailchimp %}
+      <div class="row">
+        {% include "templates/partials/form-mailchimp-simple.html" %}
+      </div>
+    {% endblock %}
   </div>
   {% include "templates/partials/prev-next.html" %}
 {% endblock %}

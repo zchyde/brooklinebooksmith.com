@@ -4,8 +4,8 @@ body {
   font-feature-settings: "kern", "liga", "pnum";
   font-size: $base-font-size;
   line-height: $base-line-height;
+  -webkit-font-smoothing: antialiased;
 }
-
 h1,
 h2,
 h3,
@@ -18,12 +18,19 @@ h6 {
   margin: 0 0 $small-spacing;
 }
 
+//@include media($md-up) {}
+
 h1 {
   font-family: $brand-font-family;
 }
 
 p {
   margin: 0 0 $small-spacing;
+}
+
+article.hentry p{
+  font-size: $paragraph-font-size;
+  font-weight: 400;
 }
 
 a {

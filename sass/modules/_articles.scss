@@ -1,7 +1,7 @@
 article.hentry {
-  padding: 1em 1em 6em 1em;
+  padding-bottom: 6em;
   margin:auto;
-  max-width: $md;//$d-vp;
+  max-width: 96%;
   //min-height: $c-vp;
   overflow: hidden;
   header {
@@ -12,5 +12,7 @@ article.hentry {
   }
     @include media($md-up) {
     //padding: 2rem 7em; //- change padding to the screen size
+    width: 41em;
+    max-width: 86%;
   }
 }

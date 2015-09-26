@@ -66,17 +66,15 @@
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include "templates/partials/navigation.html" %}
   {% include "templates/partials/nav-side.html" %}   
-    <section class="content">    
-    
+    <section class="content">        
       {% block hero %}
       {% include "templates/partials/hero.html" %}
       {% endblock %}
       <div id="start-of-content" class="accessibility-aid"></div>
-        {% block content %}
-        {% endblock %}
-      </section> 
-
-  {# {% include "templates/partials/footer.html" %} #}
+      {% block content %}
+      {% endblock %}
+    </section> 
+  {% include "templates/partials/footer.html" %}
   {% include "templates/partials/navigation-mobile.html" %}
   {% include "templates/partials/scripts.html" %}
 </body>

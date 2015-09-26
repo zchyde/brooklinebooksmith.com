@@ -12,7 +12,7 @@
 
 
 @if $include-sidebar-left != false { 
-  body.home .content {
+  body.home .content, body.home .footer-2 {
     //padding: 4em;
     //margin-top: $navigation-height;
     min-width: 0;
@@ -20,6 +20,7 @@
     @include media($sidebar-left-breakpoint) {
   ///      min-width: $b-vp; // TODO: change this to more stable variable
       margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+      width: 100% - $sidebar-width;
     }    
   }
   body.home .sidebar-left {
