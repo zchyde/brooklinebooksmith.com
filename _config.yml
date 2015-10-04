@@ -53,6 +53,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  programs:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   -
