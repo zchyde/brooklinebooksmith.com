@@ -1,0 +1,13 @@
+{% include global/head.html %}
+<body  id="container" class="{{ page.style }}{% if page.class %} {{ page.class }}{% endif %}">
+  <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+  {% include global/navigation.html %}
+  <div id="start-of-content" class="accessibility-aid"></div>
+    <section id="main" class="content">
+      {{content}}
+    </section>
+    {% include global/footer.html %}
+    {% include global/navigation-mobile.html %}
+    {% include global/scripts.html %}
+  </body>
+</html>

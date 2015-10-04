@@ -1,0 +1,62 @@
+// visual grid
+$visual-grid: true; 
+$visual-grid-color: yellow; 
+$visual-grid-index: front;
+$visual-grid-opacity: 0.2;
+
+// base
+@import 
+  "node_modules/normalize.scss/normalize",
+  "node_modules/normalize-opentype.css/normalize-opentype",
+  "bourbon", 
+  "base/base", // includes grid-settings, which must be imported before neat
+  "neat",
+  "base/layouts";
+
+// Vendor
+@import
+"vendor/tcon-buttons";
+
+
+// modules
+@import
+  "modules/visual-grid",  
+  //"modules/articles",
+  "modules/footer",  
+  "modules/flex-boxes",  
+  "modules/cards",  
+  "modules/hero",  
+  "modules/layouts",  
+  "modules/map-drawer",
+  "modules/nav-mobile",
+  "modules/nav-top",
+  "modules/nav-side",
+  "modules/typography",
+  "modules/home",
+  "modules/utilities-accessibility",
+  "modules/utilities-iframes",
+  "modules/utilities"; 
+
+  body:before { 
+    display: none;
+  } 
+
+  body.grid:before {
+    display: block;
+  }
+
+  // body.home {
+  //   background-color: $brand-background-color;
+  //   color: #f1f1f1;
+  // }
+
+
+#mfPreviewBarShow, #mfPreviewBar {
+  display: none !important;
+}
+
+.item-nav {
+  color: #ddd;
+  padding: .5em;
+}
+

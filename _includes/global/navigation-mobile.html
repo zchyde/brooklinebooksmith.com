@@ -1,0 +1,29 @@
+<nav class="js-menu sliding-panel-content">
+  <ul>
+    
+     <li  class="nav-link{# {% if getCurrentUrl() == url(link.page) %} active{% endif %} #}">
+    <a href="/">
+      home
+    </a>
+  </li>
+
+
+    {% for link in site.navigation_global %}
+            {% include global/navigation-links.html %}
+          {% endfor %}
+    <div style="padding:.5em;">
+      {% comment %}
+        {% include "templates/partials/form-search.html" %}
+      {% endcomment %}
+    </div>
+
+
+
+
+
+
+  </ul>
+  
+</nav>
+
+<div class="js-menu-screen sliding-panel-fade-screen"></div>

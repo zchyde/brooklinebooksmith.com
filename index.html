@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  
+
+{% comment %}
+
+
+{% for event in site.events %}
+  <h2>{{ event.title }}</h2>
+
+
+  
+  {% for work in event.events %}
+    <h3>{{ work.title }}</h3>
+    <p>Composed by {{ work.composer }}</p>
+    <ul>
+    
+    </ul>
+  {% endfor %}
+{% endfor %}
+
+
+{% endcomment %}
+
+
+
+
+
+{% for post in site.events group_by: 'date' %}
+
+{{ post.date }}
+  {% if post.title %}
+    {% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+  {% endif %}
+  {% assign todays_date = site.time | date: "%Y%m%d" %}
+  <h3>{{ post_title }}</h3>
+{% for event in post.events %}
+  {% assign post_date = event.date | date: "%Y%m%d" %}
+    {% if post_date > todays_date %}
+      <h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
+      {% include events-formatting.html %}
+    {% endif %}
+{% endfor %}
+
+{% endfor %}
+
+
+
+
+
+<hr />
+
+
+
+
+
+
+
+
+
+
+</div>

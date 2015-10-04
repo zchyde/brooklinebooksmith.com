@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="has-layout layout-article">
+  <article class="hentry">
+      
+      {% comment %}
+        {% if entry.featuredImage %}
+          {% include "partials/_hero.html" %}
+        {% endif %}
+      {% endcomment %}
+    
+      <header>
+        <h2 class="entry-title">              
+          {{ page.title }}
+        </h2>
+      </header>      
+      <div class="entry-content prose">      
+        {{ content }}
+      </div>      
+    </article>
+    <aside>
+      {% if page.asideCopy %}
+        {{ page.asideCopy }}
+      {% endif %}
+    </aside>
+    
+      <div class="row">
+        {% include form-mailchimp.html %}
+      </div>
+    
+  </div>
+  {% comment %}
+    {% include "templates/partials/prev-next.html" %}
+  {% endcomment %}

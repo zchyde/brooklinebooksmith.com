@@ -1,0 +1,29 @@
+<header class="navigation" role="banner" data-search-index="false">
+    <div class="navigation-wrapper">
+      <div class="brand">
+        <h1>
+          <a href="/">
+            brookline booksmith
+          </a>
+        </h1>
+        <button type="button" class="tcon tcon-menu--xcross js-menu-trigger sliding-panel-button" aria-label="toggle menu">
+          <span class="tcon-menu__lines" aria-hidden="true"></span>
+          <span class="tcon-visuallyhiddenTK button__copy">MENU</span>
+        </button>
+      </div>
+      <nav id="js-navigation-menu" role="navigation">
+        <ul class="navigation-menu showTK">
+          {% for link in site.navigation_global %}
+            {% include global/navigation-links.html %}
+          {% endfor %}
+        </ul>
+      </nav>
+      {% comment %}
+        <div class="navigation-tools">
+        <div class="search-bar">
+          {% include "templates/partials/form-search.html" %}
+        </div>
+      </div> 
+      {% endcomment %}
+    </div>
+  </header>

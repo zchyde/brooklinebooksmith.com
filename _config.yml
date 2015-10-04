@@ -1,0 +1,71 @@
+url: brooklinebooksmith.com
+sitename: 'brookline booksmith'
+description: 'A base Jekyll theme'
+# do not include  https://github.com/...
+#Pages - store all pages in the _pages directory
+
+include: ['_pages']
+exclude: ['readme.md','license.md','gemfile', 'Gemfile.lock', 'CNAME', 'bower.json', 'node_modules', 'sass', 'gulpfile.js', 'package.json', 'javascript']
+
+permalink: pretty
+
+# Build settings
+# dev options (true/false)
+# if site is in production, 'production: true'
+production: false
+bust_css_cache: true
+
+
+# options (data)
+google_analytics_id: UA-xxxx
+typekit_id: saz8dbz
+
+include_nav-top: true
+include_nav-side-left: true
+include_nav-side-right: false
+
+navigation_global: 
+- text: Hours/Location
+  url: /hours-location/
+- text: About Us
+  url: /about-us/
+- text: Events
+  url: /events/
+- text: Programs
+  url: /programs/
+- text: GiftSmith
+  url: /giftsmith/
+
+
+directory_assets_img: /static/images/
+
+# options (social)
+# facebook_id:
+twitter_id: budparr
+
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
+  landing_pages:
+    output: true
+    permalink: /:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
+
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+  - 
+    scope:
+      path: "events" # an empty string here means all files in the project
+      type: "events" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
