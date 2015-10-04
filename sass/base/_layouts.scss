@@ -11,20 +11,25 @@
   }
 }
 
-.layout-article {
-  @include outer-container;
+@mixin layout_two_column {
+  overflow: hidden;
   aside { 
-    @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; 
+    @include span-columns(12 of 12);    
   }
   article { 
-    @include span-columns(12); padding:inherit; margin-top:inherit;
+    @include span-columns(12 of 12); 
+    max-width: 100%;
   }
-  @include media($lg) {
+  @include media($lg-up) {
     aside { 
-      @include span-columns(3); margin-top:2.5em; 
+      @include span-columns(4 of 12); 
+      @include omega();
+      //@include shift(8);     
     }
     article { 
-      @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;
+      @include span-columns(8 of 12); 
+      //@include shift(-12);     
+      //@include omega();
     }
   }
 }

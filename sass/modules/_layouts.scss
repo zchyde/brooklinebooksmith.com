@@ -1,7 +1,37 @@
+.has-layout {
+  @include outer-container;
+}
+
 .layout-posts, .has-layout {
   clear: both;
   @include clearfix;
-  @include outer-container(80%);
+  @include outer-container;
+}
+
+.layout-article {
+  @include layout_two_column;
+  aside {
+    background-color:#f6f6f6;
+    margin:0 0 3em 0; 
+    padding:2.375em;
+    font-size: .875em;
+    @include media($lg-up) {
+
+    }
+  }
+  article {
+    
+    @include media($lg-up) {
+      padding-bottom: 4em;
+    }
+  }
+  header, .entry-content {
+    padding: 0 2em;
+  
+  @include media($lg-up) {
+    padding: 0;
+  }
+  }
 }
 
 .row {

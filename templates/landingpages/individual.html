@@ -1,4 +1,10 @@
-{% extends "templates/partials/base-article.html" %}
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+
+
+
+
 
 {% block contentTK %}
   <p><a href="{{ url('landingpages') }}">View a list of all landingpages</a></p>

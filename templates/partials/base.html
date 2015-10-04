@@ -45,6 +45,10 @@
 
 {% block head_extra %}
   {# {% include "templates/partials/css-hero.html" %} #}
+
+  {% if item.featured_image %}
+  {% include "templates/partials/head-css-hero-styles.html" %}
+  {% endif %}
 {% endblock %}
 
   {% if getSetting('analytics_id')  %}
@@ -60,18 +64,17 @@
     </script>
   {% endif %}
   
-
   </head> 
 <body id="container" class="{% block body_class %}page{% endblock %}">
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include "templates/partials/navigation.html" %}
   {% include "templates/partials/nav-side.html" %}   
     <section class="content">        
-      {% block hero %}
-      {% include "templates/partials/hero.html" %}
+      {% block hero %}        
       {% endblock %}
       <div id="start-of-content" class="accessibility-aid"></div>
       {% block content %}
+        {% include "templates/partials/layout-article.html" %}
       {% endblock %}
     </section> 
   {% include "templates/partials/footer.html" %}

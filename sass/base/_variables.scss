@@ -20,18 +20,19 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$black: #222;
-$blue:#3C5A79;
+$black: #111;
+$blue: #3C5A79;
 $blue-light: #4C8DB6;
 $dark-gray: #333;
-$medium-gray: #999;
+$medium-gray: #555;
 $light-gray: #ddd;
 $brand-background-color:$blue-light;
 
 
 // Font Colors
-$base-font-color: $dark-gray;
-$action-color: $blue;
+$base-font-color: $medium-gray;
+$heading-font-color: $black;
+$action-color: $blue-light;
 
 // Border
 $base-border-color: $light-gray;
@@ -51,6 +52,9 @@ $base-timing: ease;
 
 $breakpoint: $lg-up;
 
+
+
+$hero-color: white;
 
 $navigation-padding: 1em;
 $navigation-background: $brand-background-color;//$dark-gray;
@@ -74,7 +78,7 @@ $include-sidebar-right: false;
 $include-sidebar-left: true;
 //These must be in % values to calculate widths
 $sidebar-width-home: 40.5%;
-$sidebar-width: 8%;
+$sidebar-width: 14%;
 $sidebar-right-width: 20%;
 $sidebar-left-breakpoint: $breakpoint;
 $sidebar-right-breakpoint: $breakpoint;
@@ -87,6 +91,7 @@ $sidebar-right-color: #555;
 $sidebar-margin-top:0;//$navigation-height;// $centered-navigation-height;
 $sidebar-padding-top:1em;//$navigation-height + 2em;// $centered-navigation-height;
 $sidebar-padding-bottom:1em;//$navigation-height + 2em;// $centered-navigation-height;
+
 
 
 

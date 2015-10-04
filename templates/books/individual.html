@@ -1,14 +1,4 @@
-{# ------------------------------------------------------- #}
-{# INDIVIDUAL VIEW FOR EACH books #}
-{# This page can use any data from http:localhost:2000/cms/#/form/books/ #}
-{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
-{# http://paularmstrong.github.io/swig/docs/tags/ #}
-{# Learn about calling data into Webhook pages here: #}
-{# http://www.webhook.com/docs/template-rules-and-filters/ #}
-{# ------------------------------------------------------- #}
-{# Confused what extends and blocks do? Watch a primer: #}
-{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
-{% extends "templates/partials/base.html" %}
+{% extends "templates/partials/base-article.html" %}
 {# This sets our page <title>. It will append this books's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block content %}
@@ -35,6 +25,12 @@
         {{ item.publish_date|date('F d Y') }}
       </li>
       <li>
+        <strong>book embed: </strong>
+        {# Embed.ly content usually comes with more data. Info here: #}
+{# http://www.webhook.com/docs/widget-template-reference/#embedly #}
+{{ item.book_embed.html|safe  }}
+      </li>
+      <li>
         <strong>Cover Image: </strong>
         {# You can pull out a lot more information from the image property. Info here: #}
         {# http://www.webhook.com/docs/widget-template-reference/#image #}
@@ -43,10 +39,6 @@
       <li>
         <strong>ISBN: </strong>
         {{ item.isbn }}
-      </li>
-      <li>
-        <strong>Instructions: </strong>
-        {{ item.instructions }}
       </li>
       <li>
         <strong>Subtitle: </strong>

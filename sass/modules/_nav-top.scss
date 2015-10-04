@@ -1,73 +1,81 @@
 header.navigation {
   background-color: $navigation-background;
-  min-height: $navigation-height;
+  //min-height: $navigation-height;
   width: 100%;
   z-index: 999;
   font-family: $brand-font-family;
+  background-image: url('/static/images/background_books_294456_1.png');
+  background-repeat: repeat;
+
 
   .navigation-wrapper {
     @include clearfix;
-    @include outer-container(100%);
+    @include outer-container;
     position: relative;
     z-index: 9999;
-    padding-top:.5em;
+    //padding-top:.5em;
   }
 
-
-  //LAYOUT
-  margin-left:0;
-  @include media($sidebar-left-breakpoint) {
-    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+  nav {  
+    display: none;
+    
+    //@include span-columns(12 of 12); 
   }
-  
-  .brand {
-    @include span-columns(12 of 12);
-    @include omega();    
-    h1 {      
-      padding:1.75em 0 0 .5em;
-      margin:0;            
-      line-height: 1;        
-      font-weight: 400;
-      font-size: 2em;
-    }    
+
+  .brand { 
+    padding: .5em 0;
+  h1 {      
+    text-align: left;
+    padding:.5em 0;
+    margin:0;            
+    line-height: 1;        
+    font-weight: 400;
+    font-size: 1.5em;
+    display: inline-block;
+    padding: 1em 0 1em .25em;
     a {
       color: white;  
-    }
-  }
-  nav, .navigation-tools {
-    display: none;
+    }  
+  }    
   }
 
-  @include media ($lg-up) { 
-    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
-    //width: 100% - $sidebar-width;
-    .brand {
-      h1 {
+  
+  
+  @include media ($horizontal-bar-mode) { 
+    .brand { 
+    padding: 0;
+    text-align: center;
+    h1 {        
+
         font-size: 3.25em;
-        padding: .25em 0 0 .5em;
+        padding: .5em 0 0 0;
       }
     }
-
+    
+    nav {
+      //background-color:red;
+      display: block;
+      text-align: center;
+      margin-top:0;      
+    }
   }
 
-  @include media ($xl-up) { //horizontal-bar-mode
-    //margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
-    //width: 100% - $sidebar-width;
+  @include media ($xl-up) { 
     .brand {
       @include span-columns(5.5 of 12);
-      @include omega(); 
+      @include omega();       
       h1 {
-        font-size: 3.375em;
+        text-align: left;
+        font-size: 3.125em;
         line-height: $navigation-height;        
-        padding: 0 0 0 1em;  
+        padding: 0;  
       }   
     }
     nav {
-      display: inline-block;
-      @include span-columns(5 of 12);
+      display: inline-block;      
+      @include span-columns(6 of 12);
       @include omega();
       padding-top: .625em;
-      //background-color:black;
     }
     .navigation-tools {
       @include span-columns(2 of 12);
@@ -78,70 +86,38 @@ header.navigation {
 
 
 
+  /////////////// Nav menu ///////////////
 
-
-
-  // Nav menu
-
-  nav {
-    float: none;
-    min-height: $navigation-height;
-    z-index: 9999999;
-
-    @include media ($horizontal-bar-mode) {
-      float: left;
-    }
-  }
-
+ 
   ul.navigation-menu {
-    clear: both;
-    display: none;
+    clear: both;    
     margin: 0 auto;
     overflow: visible;
     padding: 0;
     width: 100%;
     z-index: 9999;
-
-    &.show {
-      display: block;
-    }
-
-    @include media ($horizontal-bar-mode) {
-      display: inline;
-      margin: 0;
-      padding: 0;
-    }
+    text-align:center;    
   }
 
   // The nav items
 
   ul li.nav-link {
-    background: $navigation-background;
-    display: block;
-    line-height: $navigation-height;
+    //background: $navigation-background;    
+    line-height: $navigation-height *.75;
     overflow: hidden;
-    padding-right: 0.8em;
-    text-align: right;
+    padding: 0 1em;
+    text-align: center;
     width: 100%;
     z-index: 9999;
-
-    @include media ($horizontal-bar-mode) {
-      background: transparent;
-      display: inline;
+    display: inline-block;      
+    width: auto;  
+    @include media ($xl-up) { 
       line-height: $navigation-height;
-      text-decoration: none;
-      width: auto;
-    }
+    } 
 
     a {
       color: $navigation-color;
-      display: inline-block;
-      text-decoration: none;
-
-      @include media ($horizontal-bar-mode) {
-        padding-right: 1em;
-      }
-
+      text-decoration: none;      
       &:focus,
       &:hover {
         color: $navigation-color-hover;

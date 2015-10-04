@@ -58,16 +58,20 @@
 }
 
 .sliding-panel-button {
-  background-color: darken($navigation-background, 12%);
+  //background-color: darken($navigation-background, 12%);
   display: block;
   padding: .375em .5em;  
   cursor: pointer;
   position: absolute;
   outline: none;
-  top:1em;
+  top:1.25em;
+  //left: 82%;
   right: 1em;
   z-index: 1000;
-  @include media ($xl-up) {
+  // background-image: url('/static/images/noun_35466.svg');
+  // background-position: center top;
+  // background-repeat: no-repeat;
+  @include media ($horizontal-bar-mode) {
     display: none;
   }
 }
