@@ -2,33 +2,20 @@
 layout: default
 ---
 
-<div class="home">
-
-  
-
-{% comment %}
-
-
-{% for event in site.events %}
-  <h2>{{ event.title }}</h2>
-
-
-  
-  {% for work in event.events %}
-    <h3>{{ work.title }}</h3>
-    <p>Composed by {{ work.composer }}</p>
-    <ul>
-    
-    </ul>
-  {% endfor %}
-{% endfor %}
-
-
-{% endcomment %}
 
 
 
 
+
+<div class="row">
+    <button>Author Readings</button>  <button>Book Clubs</button>  <button>Kids</button>  <button>Full List</button>
+  </div>
+  <div class="flex-boxes cardsTK">
+
+
+{% assign todays_date = site.time | date: "%Y%m%d" %}
+
+<h4>date: {{ todays_date }}</h4>
 
 {% for post in site.events group_by: 'date' %}
 
@@ -36,13 +23,20 @@ layout: default
   {% if post.title %}
     {% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
   {% endif %}
-  {% assign todays_date = site.time | date: "%Y%m%d" %}
+  
   <h3>{{ post_title }}</h3>
 {% for event in post.events %}
   {% assign post_date = event.date | date: "%Y%m%d" %}
+
+
     {% if post_date > todays_date %}
+
+    <div class="flex-box">
       <h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
       {% include events-formatting.html %}
+
+      </div>
+      
     {% endif %}
 {% endfor %}
 
@@ -52,7 +46,6 @@ layout: default
 
 
 
-<hr />
 
 
 
@@ -63,4 +56,5 @@ layout: default
 
 
 
+</div>
 </div>

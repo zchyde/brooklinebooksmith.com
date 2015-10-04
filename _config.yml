@@ -5,7 +5,7 @@ description: 'A base Jekyll theme'
 #Pages - store all pages in the _pages directory
 
 include: ['_pages']
-exclude: ['readme.md','license.md','gemfile', 'Gemfile.lock', 'CNAME', 'bower.json', 'node_modules', 'sass', 'gulpfile.js', 'package.json', 'javascript']
+exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock', 'bower.json', 'node_modules', 'sass', 'gulpfile.js', 'package.json', 'javascript']
 
 permalink: pretty
 
@@ -54,18 +54,22 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
-
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages" # previously `post` in Jekyll 2.2.
+      path: "" 
+      type: "pages" 
     values:
       layout: "page"
   - 
     scope:
-      path: "events" # an empty string here means all files in the project
-      type: "events" # previously `post` in Jekyll 2.2.
+      path: "/events/" 
+      type: "events" 
+    values:
+      layout: "page"
+  - 
+    scope:
+      path: "" 
+      type: "landing_pages" 
     values:
       layout: "page"
