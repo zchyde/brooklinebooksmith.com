@@ -38,6 +38,7 @@ layout: default
 
     <div class="flex-box">
       <h5><time class="dt-start dtstart">{{ post_dates | date: "%B %-d, %Y" }}</time></h5>
+      {{ post_dates | date: "%c" }}
       {% include events-formatting.html %}
 
       </div>
