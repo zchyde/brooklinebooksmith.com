@@ -47,6 +47,9 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
+  fiction:
+    output: true
+    permalink: /:collection/:path/
   landing_pages:
     output: true
     permalink: /:path/
