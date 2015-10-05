@@ -1065,7 +1065,8 @@ html, body {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   clear: both;
-  text-align: center; }
+  text-align: center;
+  font-size: .875em; }
   .flex-boxes::after {
     clear: both;
     content: "";
