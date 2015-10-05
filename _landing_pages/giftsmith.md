@@ -1,4 +1,4 @@
 ---
-title: YOUYOU
+title: Giftsmith
 ---
-this is a test
+About our offerings
