@@ -8,3 +8,4 @@ events:
     summary: This is a test.
 ---
 
+this is the end.
