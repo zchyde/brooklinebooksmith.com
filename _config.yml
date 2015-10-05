@@ -53,6 +53,10 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+    events:
+      program: writers
+      image_path:
+
   programs:
     output: true
     permalink: /:collection/:path/
