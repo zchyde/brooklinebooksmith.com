@@ -37,7 +37,7 @@ layout: default
     {% if post_date > todays_date %}
 
     <div class="flex-box">
-      <h5><time class="dt-start dtstart">{{ post_dates | date: "%B %d, %Y" }}</time></h5>
+      <h5><time class="dt-start dtstart">{{ post_dates | date: "%B %-d, %Y" }}</time></h5>
       {% include events-formatting.html %}
 
       </div>

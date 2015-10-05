@@ -9,6 +9,9 @@ layout: default
           {% include "partials/_hero.html" %}
         {% endif %}
       {% endcomment %}
+
+
+
     
       <header>
         <h2 class="entry-title">              
@@ -16,13 +19,33 @@ layout: default
         </h2>
       </header>      
       <div class="entry-content prose">      
-        {{ content }}
+        
+
+{% assign todays_date = site.time | date: "%Y%m" %}
+
+{{ todays_date }}
+
+{% comment %}
+  {% assign events = site.events | where: , todays_date %}
+{% endcomment %}
+
+<hr />
+{% for post in site.events group_by: 'date' %}
+
+
+{% assign post_date = post.date | date: "%Y%m" %}
+
+{% if post_date == todays_date or post_date > todays_date %}
+  {{ post.title}} {{ post.date | date: "%Y-%d-%m" }} <br />
+  {% endif %}
+{% endfor %}
+
+
+
       </div>      
     </article>
     <aside>
-      {% if page.asideCopy %}
-        {{ page.asideCopy }}
-      {% endif %}
+      {{ content }}
     </aside>
     
       <div class="row">
