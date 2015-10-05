@@ -9,7 +9,7 @@
 
   <span>
     <strong>
-      {{ post_title }}
+      {{ event_title }}
     </strong>
   </span>
 
@@ -24,7 +24,7 @@
   {% if event.venue %}
   <br />
     <span class="p-location location h-card vcard">
-      {{ event.venue }}
+      venue: {{ event.venue }}
     </span>
   {% endif %}
   {% if event.address %}
