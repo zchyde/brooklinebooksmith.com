@@ -1,8 +1,11 @@
 // Typography
 $lato:'Lato';
 $base-font-family: $lato, $helvetica;
+//$heading-font-family: 'Chronica W03 Book',$base-font-family;
 $heading-font-family: $base-font-family;
-$brand-font-family: 'URW Typewriter Light', $heading-font-family;
+$brand-font-family: 'Chronica W03 Black', 'URW Typewriter Light', $heading-font-family;
+
+
 
 
 // Font Sizes
@@ -22,11 +25,12 @@ $base-z-index: 0;
 // Colors
 $black: #111;
 $blue: #3C5A79;
+$blue-dark: #284355;
 $blue-light: #4C8DB6;
 $dark-gray: #333;
 $medium-gray: #555;
 $light-gray: #ddd;
-$brand-background-color:$blue-light;
+$brand-background-color:$blue-dark;
 
 
 // Font Colors
@@ -75,7 +79,7 @@ $horizontal-bar-mode: $breakpoint;
 
 
 $include-sidebar-right: false;
-$include-sidebar-left: true;
+$include-sidebar-left: false;
 //These must be in % values to calculate widths
 $sidebar-width-home: 40.5%;
 $sidebar-width: 14%;
@@ -95,7 +99,7 @@ $sidebar-padding-bottom:1em;//$navigation-height + 2em;// $centered-navigation-h
 
 
 
-$sliding-panel-background: $black;//lighten($sliding-panel-border-color, 5%);
+$sliding-panel-background: $blue-dark;//lighten($sliding-panel-border-color, 5%);
 $sliding-panel-border-color: darken($sliding-panel-background, 3%);
 $sliding-panel-color: #ddd;
 $sliding-panel-border: 1px solid $sliding-panel-border-color;
@@ -109,3 +113,12 @@ $footer-color: white;
 $footer-link-color: transparentize($footer-color, 0.6);
 $footer-disclaimer-color: transparentize($footer-color, 0.6);
 
+
+// CARDS
+$card-border-color: $base-border-color;
+$card-border: 1px solid $card-border-color;
+$card-background: lighten($card-border-color, 10%);
+$card-header-background: $card-background;
+$card-margin: 1em;
+$card-image-hover-opacity: 0.7;
+$card-image-hover-color: #F8F2B4;

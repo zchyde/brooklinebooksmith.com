@@ -1,0 +1,14 @@
+<li>
+  {{ event.start_date|date('F dS g:i a') }}
+</li>
+<li class="brand">
+  {{ event.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
+</li>
+<li>
+  <a href="{{ url(event.program) }}">{{ event.program.name }}</a>
+</li>
+{% if event.venue != 'In-store' %}
+  <li>
+    {{ event.venue }}
+  </li>
+{% endif %}

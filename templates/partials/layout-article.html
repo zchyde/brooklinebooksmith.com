@@ -4,9 +4,9 @@
         {% if item.featured_image %}
           {% include "templates/partials/hero.html" %}
         {% endif %}
-      {% endblock %}            
-      {% block article %}  
-        {% block header %}      
+      {% endblock %}
+      {% block article %}
+        {% block header %}
           <header>
             <h2 class="entry-title">
               {% if item.display_title %}
@@ -26,14 +26,14 @@
               </div>
             {% endif %}
             {{ item.copy|safe }}
-    
-          {% endblock %}  
+
+          {% endblock %}
           {% block content_entry_related %}{% endblock %}
-          {% include "templates/partials/image-attribution.html" %}                    
+          {% include "templates/partials/image-attribution.html" %}
         </div>
       {% endblock %}
     </article>
-    <aside>
+    <aside class="page">
       {% if item.aside %}
         {{ item.aside|safe }}
       {% endif %}

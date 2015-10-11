@@ -1,14 +1,14 @@
 // visual grid
-$visual-grid: true; 
-$visual-grid-color: yellow; 
+$visual-grid: true;
+$visual-grid-color: yellow;
 $visual-grid-index: front;
 $visual-grid-opacity: 0.2;
 
 // base
-@import 
+@import
   "node_modules/normalize.scss/normalize",
   "node_modules/normalize-opentype.css/normalize-opentype",
-  "bourbon", 
+  "bourbon",
   "base/base", // includes grid-settings, which must be imported before neat
   "neat",
   "base/layouts";
@@ -20,12 +20,14 @@ $visual-grid-opacity: 0.2;
 
 // modules
 @import
-  "modules/visual-grid",  
+  //"modules/visual-grid",
   //"modules/articles",
-  "modules/footer",  
-  "modules/hero",  
-  "modules/layouts",  
-  "modules/map-drawer",
+  "modules/accordion",
+  "modules/cards",
+  "modules/footer",
+  "modules/hero",
+  "modules/layouts",
+  //"modules/map-drawer",
   "modules/nav-mobile",
   "modules/nav-top",
   "modules/nav-side",
@@ -33,17 +35,21 @@ $visual-grid-opacity: 0.2;
   "modules/home",
   "modules/utilities-accessibility",
   "modules/utilities-iframes",
-  "modules/utilities"; 
+  "modules/utilities";
 
 
-  body:before { 
+  body:before {
     display: none;
-  } 
+  }
 
   body.grid:before {
     display: block;
   }
 
+
+.brand {
+  font-family: $brand-font-family;
+}
   // body.home {
   //   background-color: $brand-background-color;
   //   color: #f1f1f1;
@@ -58,4 +64,3 @@ $visual-grid-opacity: 0.2;
   color: #ddd;
   padding: .5em;
 }
-

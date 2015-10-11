@@ -1,10 +1,10 @@
 // What this Gruntfile does:
-// * uses `node-bourbon` and `node-neat` 
-// * uses `live-reload` on css changes 
+// * uses `node-bourbon` and `node-neat`
+// * uses `live-reload` on css changes
 // * uses `auto-prefixer` (bourbon is removing that functionality)
-// * uses `browserSync` if you enable it (in the Gruntfile) 
-// * references libraries via npm, when packages exist 
-// * concats/compresses js/css in development 
+// * uses `browserSync` if you enable it (in the Gruntfile)
+// * references libraries via npm, when packages exist
+// * concats/compresses js/css in development
 
 // How to use it:
 // * install libraries with `npm` - or, if no package, in `static/lib`
@@ -15,7 +15,7 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'), // https://quickleft.com/blog/grunt-js-tips-tricks/
-    
+
     // these are the task definitions
     sass: {
       options: {
@@ -23,8 +23,25 @@ module.exports = function(grunt) {
         outputStyle: 'compressed'
         },
       dist: {
-        files: {
+        files: [
+          {
           'static/css/main.min.css' : 'sass/main.scss'
+          },
+          {
+            'static/css/screen-md.min.css' : 'sass/screen-md.scss'
+          }
+        ]
+      }
+    },
+
+    sass_md: {
+      options: {
+        //includePaths: require('node-neat').includePaths,
+        outputStyle: 'compressed'
+        },
+      dist: {
+        files: {
+          'static/css/screen-md.min.css' : 'sass/screen-md.scss'
         }
       }
     },
@@ -36,7 +53,7 @@ module.exports = function(grunt) {
       },
       dist: {
         src: 'static/css/main.css',
-        dest: 'static/css/main.css' 
+        dest: 'static/css/main.css'
       }
     },
 
@@ -51,11 +68,11 @@ module.exports = function(grunt) {
         options: {
           watchTask: true,
           server: '.build',
-          tunnel: 'preview',      
+          tunnel: 'preview',
         }
       }
     },
-    
+
     concat: {
       dist: {
         src: [
@@ -84,8 +101,8 @@ module.exports = function(grunt) {
     },
 
     // here is where the tasks above get called when files change
-    watch: { 
-      js: { 
+    watch: {
+      js: {
         files:  'static/javascript/main.js',
         tasks: ['concat', 'uglify', 'build'],
          nonull: true,
@@ -97,17 +114,17 @@ module.exports = function(grunt) {
     }
 
   });
- 
+
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-autoprefixer');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-browser-sync');
- 
+
   // NEVER REMOVE THESE LINES, OR ELSE YOUR PROJECT MAY NOT WORK
   require('./options/generatorOptions.js')(grunt);
   grunt.loadTasks('tasks');
- 
+
   // Rename webhook's default task so we can compile css first and then run it
   grunt.renameTask('default', 'wh-default');
   grunt.registerTask('default', ['sass', 'autoprefixer', 'wh-default']); // without browserSync
