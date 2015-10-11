@@ -10,7 +10,8 @@
       {% include "templates/partials/news-blocks.html" %}
     </article>
     <aside>
-      {% include "templates/partials/accordion.html" %}
+      {% set limit = '7' %}
+      {% include "templates/partials/accordion.html" with limit %}
     </aside>
   </main>
 {% endblock %}

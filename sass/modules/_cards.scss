@@ -18,13 +18,19 @@
   position: relative;
 
 
+
   .card-image {
     overflow: hidden;
-    height: 150px;
-    max-height: 150px;
+    height: 180px;
+    max-height: 180px;
     background-color: $blue;//$card-image-hover-color;
     position: relative;
     color: white;
+    //background-image: url('/static/images/background_books_294456_1.png');
+    background-image: url('/static/images/bookshelves.jpg');
+
+    background-repeat: repeat;
+
 
     h5 {
       text-align: center;
@@ -34,6 +40,7 @@
       left: 50%;
       margin-right: -50%;
       transform: translate(-50%, -50%);
+      color:#fff;
     }
 
     img {
@@ -48,7 +55,7 @@
   .card-header {
     @include transition (all 0.2s ease-in-out);
     background-color: $card-header-background;
-    border-bottom: $card-border;
+    //border-bottom: $card-border;
     border-radius: $base-border-radius $base-border-radius 0 0;
     font-weight: bold;
     line-height: 1.5em;
@@ -62,6 +69,7 @@
 
     p {
       margin: 0 0 ($base-spacing / 2);
+      color: $base-font-color;
     }
   }
 
