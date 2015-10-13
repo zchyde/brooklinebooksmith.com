@@ -42,6 +42,11 @@
   margin: 4em auto;
 }
 
+.row__clear {
+  @include clearfix;
+}
+
+
 .boxes {
   background-color: #fff;
   color: #555;

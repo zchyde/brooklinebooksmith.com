@@ -1,0 +1,44 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <div class="has-layout layout-article">
+      <article class="hentry">
+        {% block hero_inner %}
+          {% if item.featured_image %}
+            {% include "templates/partials/hero.html" %}
+          {% endif %}
+        {% endblock %}
+        {% block article %}
+          {% block header %}
+            <header>
+              <h2 class="entry-title">
+                {% if item.display_title %}
+                  {{ item.display_title }}
+                {% else %}
+                  {{ item.name }}
+                {% endif %}
+              </h2>
+              {% block header_entry %}{% endblock %}
+            </header>
+          {% endblock %}
+          <div class="entry-content prose">
+            {% block entry_content %}
+              {% include "templates/partials/events-list.html" %}
+            {% endblock %}
+          </div>
+        {% endblock %}
+      </article>
+      <aside class="page">
+        {% if item.aside %}
+          {{ item.aside|safe }}
+        {% endif %}
+        {# {% include "templates/partials/programs-list.html" %} #}
+      </aside>
+      {% block mailchimp %}
+        <div class="row">
+          {% include "templates/partials/form-mailchimp-simple.html" %}
+        </div>
+      {% endblock %}
+    </div>
+    {% include "templates/partials/prev-next.html" %}
+{% endblock %}

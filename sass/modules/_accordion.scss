@@ -82,6 +82,8 @@
     display: none;
     padding: $base-spacing/2 $gutter/4;
     width: 100%;
+    //max-height: 870px;
+    overflow: hidden;
 
     @include media($tab-mode) {
       border-bottom-left-radius: $base-border-radius;

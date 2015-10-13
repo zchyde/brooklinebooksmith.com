@@ -77,8 +77,7 @@ module.exports = function(grunt) {
       dist: {
         src: [
               'node_modules/jquery/dist/jquery.js',
-              'node_modules/enquire.js/dist/enquire.js',
-              'static/javascript/lib/kibo.js',
+              'node_modules/flickity/dist/flickity.pkgd.js',
               'static/javascript/main.js'
               ],
         dest: 'static/javascript/dist/scripts.concat.js'

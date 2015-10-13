@@ -1,5 +1,5 @@
 ul,
-ol {
+ol, accordion-tabs ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -16,12 +16,28 @@ ol {
     padding-left: $base-spacing;
   }
 }
+
+aside.page ul {
+  //list-style-type: dash;
+  li {
+    margin-bottom: $small-spacing;
+    padding-left: $base-spacing /4 ;
+    text-indent:-5px;
+  }
+  li:before {
+    content:"-"; position:relative; left:-5px;
+  }
+
+}
+
+
+
 article.hentry ul, article.hentry ol {
   font-size: $paragraph-font-size;
   margin-bottom: $small-spacing;
   padding-left: $base-spacing;
     li {
-      margin-bottom: $small-spacing * 1.5;  
+      margin-bottom: $small-spacing * 1.5;
     }
 
     ul, ol {
@@ -51,4 +67,15 @@ dl {
   dd {
     margin: 0;
   }
+}
+
+ul.inline {
+  padding:0;
+  margin:0;
+}
+ul.inline li{
+  line-height:1;
+  display: inline;
+  margin:0 2.2em 0 0;
+  padding:0;
 }

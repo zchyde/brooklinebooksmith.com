@@ -1,6 +1,6 @@
 {# //Use ID so we can show the kids section even if the name is changed #}
 {% set programs = cms.programs|where('_id', '-Jz825VggDwe3d-_27Br') %}
-{% set months = cms.event %}
+{% set months = cms.events %}
 {% set months = months|sort('publish_date') %}
 <ul>
   {% for month in months %}

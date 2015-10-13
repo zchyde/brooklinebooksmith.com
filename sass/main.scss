@@ -15,7 +15,7 @@ $visual-grid-opacity: 0.2;
 
 // Vendor
 @import
-"vendor/tcon-buttons";
+"vendor/flickity";
 
 
 // modules
@@ -55,7 +55,13 @@ $visual-grid-opacity: 0.2;
   //   color: #f1f1f1;
   // }
 
+.text-align-right {
+  text-align: right;
+}
 
+.strong {
+  font-weight: 700;
+}
 #mfPreviewBarShow, #mfPreviewBar {
   display: none !important;
 }
@@ -63,4 +69,12 @@ $visual-grid-opacity: 0.2;
 .item-nav {
   color: #ddd;
   padding: .5em;
+}
+
+.light, li .light, p .light {
+  color: lighten($base-font-color, 15%);
+}
+.flickity-enabled:focus .flickity-viewport {
+  outline: thin dotted;
+  outline: 1px auto -webkit-focus-ring-color;
 }
