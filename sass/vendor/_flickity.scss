@@ -113,7 +113,8 @@ http://flickity.metafizzy.co
 .flickity-page-dots {
   position: absolute;
   width: 100%;
-  bottom: -25px;
+  //bottom: -25px;
+  bottom: -35px; //CHANGE: BP 151018-113514
   padding: 0;
   margin: 0;
   list-style: none;
