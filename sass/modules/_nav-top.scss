@@ -4,7 +4,7 @@ header.navigation {
   width: 100%;
   z-index: 999;
   font-family: $brand-font-family;
-  background-image: url('/static/images/background_books_294456_1.png');
+  //background-image: url('/static/images/background_books_294456_1.png');
   background-repeat: repeat;
 
 
@@ -13,7 +13,7 @@ header.navigation {
     @include outer-container;
     position: relative;
     z-index: 9999;
-    //padding-top:.5em;
+    padding:1em 0;
   }
 
   nav {
@@ -23,7 +23,7 @@ header.navigation {
   }
 
   .brand {
-    padding: .5em 0;
+    padding-bottom:1.5em;
   h1 {
     text-align: left;
     padding:.5em 0;
@@ -32,9 +32,9 @@ header.navigation {
     font-weight: 400;
     font-size: 1.5em;
     display: inline-block;
-    padding: 1em 0 1em .25em;
+    //padding: 1em 0 1em .25em;
     a {
-      color: white;
+      color: $black;//white;
     }
   }
   }
@@ -43,7 +43,7 @@ header.navigation {
 
   @include media ($horizontal-bar-mode) {
     .brand {
-    padding: 0;
+    //padding: 0;
     text-align: center;
     h1 {
 
@@ -62,20 +62,23 @@ header.navigation {
 
   @include media ($xl-up) {
     .brand {
-      @include span-columns(5.5 of 12);
-      @include omega();
+      //@include span-columns(5.5 of 12);
+      //@include omega();
+      @include row();
+
       h1 {
         text-align: left;
         font-size: 3.125em;
-        line-height: $navigation-height;
-        padding: 0;
+        ////////////////////////////////line-height: $navigation-height;
+        //padding: 0;
       }
     }
     nav {
       display: inline-block;
-      @include span-columns(6 of 12);
-      @include omega();
-      padding-top: .625em;
+      //@include span-columns(6 of 12);
+      //@include omega();
+      @include row();
+      //padding-top: .625em;
     }
     .navigation-tools {
       @include span-columns(2 of 12);
@@ -103,7 +106,7 @@ header.navigation {
 
   ul li.nav-link {
     //background: $navigation-background;
-    line-height: $navigation-height *.75;
+    ////////////////////////////////line-height: $navigation-height *.75;
     overflow: hidden;
     padding: 0 1em;
     text-align: center;
@@ -112,7 +115,7 @@ header.navigation {
     display: inline-block;
     width: auto;
     @include media ($xl-up) {
-      line-height: $navigation-height;
+      ////////////////////////////////line-height: $navigation-height;
     }
 
     a {
