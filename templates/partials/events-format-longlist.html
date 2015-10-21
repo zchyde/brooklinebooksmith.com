@@ -5,7 +5,7 @@
 
       {% if row.start_date %}
         <h4>
-          {{ row.start_date|date('F dS @ g:ia') }} -  {% if row.event_name %}<a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">{{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}</a>{% endif %}
+          {{ row.start_date|date('l, F jS, g:i a') }} -  {% if row.event_name %}<a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">{{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}</a>{% endif %}
         </h4>
       {% endif %}
 

@@ -1,7 +1,7 @@
 {% if event.start_date %}
   <li>
-    {{ event.start_date|date('l') }}&nbsp;@&nbsp;{{ event.start_date|date('g:i a') }}&nbsp;<small>(<span class="light">{{ event.start_date|date('M-j') }}</span>)</small>
-    </li>
+    {{ event.start_date|date('l, F jS, g:i a') }}
+</li>
 {% endif %}
 {% if event.event_name %}
   <li class="brand">
