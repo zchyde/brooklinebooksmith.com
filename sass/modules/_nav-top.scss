@@ -7,13 +7,13 @@ header.navigation {
   //background-image: url('/static/images/background_books_294456_1.png');
   background-repeat: repeat;
 
-
+margin-bottom: 3em;
   .navigation-wrapper {
     @include clearfix;
     @include outer-container;
     position: relative;
     z-index: 9999;
-    padding:1em 0;
+    padding:3em 0;
   }
 
   nav {
@@ -34,7 +34,7 @@ header.navigation {
     display: inline-block;
     //padding: 1em 0 1em .25em;
     a {
-      color: $black;//white;
+      color: white;
     }
   }
   }

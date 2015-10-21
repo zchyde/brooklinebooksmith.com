@@ -30,7 +30,7 @@ $blue-light: #4C8DB6;
 $dark-gray: #333;
 $medium-gray: #555;
 $light-gray: #ddd;
-$brand-background-color:$blue-dark;
+$brand-background-color:$blue;
 
 $color-3: #613D45;
 $color-4: #27283F;
@@ -68,8 +68,8 @@ $breakpoint: $lg-up;
 $hero-color: white;
 
 $navigation-padding: 1em;
-$navigation-background:white;// $brand-background-color;//$dark-gray;
-$navigation-color:$black;// transparentize(white, 0.3);
+$navigation-background:$brand-background-color;//$dark-gray;
+$navigation-color:transparentize(white, 0.3);
 $navigation-color-hover: white;
 $navigation-height: 112px;
 $navigation-nav-button-background: $action-color;
