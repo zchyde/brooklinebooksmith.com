@@ -68,8 +68,8 @@ $breakpoint: $lg-up;
 $hero-color: white;
 
 $navigation-padding: 1em;
-$navigation-background: $brand-background-color;//$dark-gray;
-$navigation-color: transparentize(white, 0.3);
+$navigation-background:white;// $brand-background-color;//$dark-gray;
+$navigation-color:$black;// transparentize(white, 0.3);
 $navigation-color-hover: white;
 $navigation-height: 112px;
 $navigation-nav-button-background: $action-color;
