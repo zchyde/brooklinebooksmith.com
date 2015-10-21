@@ -13,7 +13,7 @@ margin-bottom: 3em;
     @include outer-container;
     position: relative;
     z-index: 9999;
-    padding:3em 0;
+    padding:2em 0;
   }
 
   nav {
@@ -325,7 +325,9 @@ margin-bottom: 3em;
     }
   }
 }
-
+body.home header.navigation {
+  margin-bottom: 0;
+}
 
 /////////////////
 @if $include-sidebar-left != false {
