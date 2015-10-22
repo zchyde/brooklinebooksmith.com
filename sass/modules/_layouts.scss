@@ -3,13 +3,19 @@
 }
 
 .layout-posts, .has-layout {
-  clear: both;
-  @include clearfix;
+  clear: both; //shouldn't need these - TODO: Test node_modules/node-neat/node_modules/bourbon-neat/app/assets/stylesheets/grid/_outer-container.scss
+  @include clearfix; //shouldn't need these - TODO: Test
   @include outer-container;
+  //max-width: 96%;
+  max-width: $small-screen-max-width;
+  @include media($xl-up) {
+    max-width: $max-width;
+  }
 }
 
 .layout-article {
   @include layout_two_column;
+
   aside.page {
     background-color:#f6f6f6;
     border-radius: 2px;
@@ -18,6 +24,7 @@
     color: $blue-dark;//$brown-dark;
     a {
       color: #fff;
+      @include word-wrap;
       &:hover {
         color: #333;
       }
@@ -29,7 +36,6 @@
     }
   }
   article {
-
     @include media($lg-up) {
       padding-bottom: 4em;
     }
