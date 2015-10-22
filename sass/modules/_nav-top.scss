@@ -6,8 +6,8 @@ header.navigation {
   font-family: $brand-font-family;
   //background-image: url('/static/images/background_books_294456_1.png');
   background-repeat: repeat;
+  margin-bottom: 3em;
 
-margin-bottom: 3em;
   .navigation-wrapper {
     @include clearfix;
     @include outer-container;
@@ -15,70 +15,64 @@ margin-bottom: 3em;
     z-index: 9999;
     padding:2em 0;
   }
-
   nav {
     display: none;
-
-    //@include span-columns(12 of 12);
   }
-
   .brand {
     padding-bottom:1.5em;
-  h1 {
-    text-align: left;
-    padding:.5em 0;
-    margin:0;
-    line-height: 1;
-    font-weight: 400;
-    font-size: 1.5em;
-    display: inline-block;
-    //padding: 1em 0 1em .25em;
-    a {
-      color: white;
+    h1 {
+      text-align: left;
+      padding:.5em 0;
+      margin:0;
+      line-height: 1;
+      font-weight: 400;
+      font-size: 1.5em;
+      display: inline-block;
+      padding: 1.5em 0 0 1.5em;
+      a {
+        color: white;
+      }
     }
   }
+  .location-data, a.location-data {
+    font-size: .875em;
+    text-align: left;
+    display: block;
+    color: $navigation-color;
+    padding: 0 0 0 2.625em;
   }
-
-
-
   @include media ($horizontal-bar-mode) {
+    .location-data {
+      display: none;
+    }
     .brand {
-    //padding: 0;
-    text-align: center;
-    h1 {
-
+      text-align: center;
+      h1 {
         font-size: 3.25em;
         padding: .5em 0 0 0;
       }
     }
-
     nav {
-      //background-color:red;
       display: block;
       text-align: center;
       margin-top:0;
     }
   }
-
   @include media ($xl-up) {
+    .location-data {
+      display: none;
+    }
     .brand {
-      //@include span-columns(5.5 of 12);
-      //@include omega();
       @include row();
-
       h1 {
         text-align: left;
         font-size: 3.125em;
-        ////////////////////////////////line-height: $navigation-height;
-        //padding: 0;
+        padding: .5em 0 0 0;
       }
     }
     nav {
       display: inline-block;
-      //@include span-columns(6 of 12);
-      //@include omega();
       @include row();
-      //padding-top: .625em;
     }
     .navigation-tools {
       @include span-columns(2 of 12);

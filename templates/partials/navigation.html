@@ -12,6 +12,9 @@
           {% include "templates/partials/navigation-links.html" %}
         </ul>
       </nav>
+      <div class="location-data">
+        {{ cms.global.address_for_nav|safe }}
+      </div>
       {# <div class="navigation-tools">
         <div class="search-bar">
           {% include "templates/partials/form-search.html" %}
