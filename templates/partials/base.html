@@ -20,8 +20,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>{% block title %}{{ global.name }}{% endblock %}</title>
 
-  {% set bust_cache = 'no' %}{# set to yes to generate a time stamp on the css file for cachebusting  #}
-  <link href='/static/css/main.min.css{% if bust_cache == 'yes' %}?generated={{ current_unix_date }}{% endif %}' rel='stylesheet' type="text/css" />
+  {% set bust_cache = 'yes' %}{# set to yes to generate a time stamp on the css file for cachebusting  #}
+  <link href='/static/css/main.css{% if bust_cache == 'yes' %}?generated={{ current_unix_date }}{% endif %}' rel='stylesheet' type="text/css" />
 
     {# {% include "templates/partials/meta-data.html" %} #}
 

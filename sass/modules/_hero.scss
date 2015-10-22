@@ -10,12 +10,12 @@
 //@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
 $gallery-cell-colors:
   $color-1,
-  #92B1E3,
-  $color-3,
-  #BD4C00,
   $color-2,
   $color-3,
-  #F6C05C;
+  $color-4,
+  $color-5,
+  $color-1,
+  $color-2;
 
 
   background-color:white;//$brand-background-color;
@@ -47,7 +47,7 @@ $gallery-cell-colors:
 
         &:focus,
         &:hover {
-          background-color: transparentize($color-from-list, 0.9);
+          background-color: transparentize($color-from-list, 0.2);
         }
       }
     }

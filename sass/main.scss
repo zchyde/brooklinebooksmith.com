@@ -1,8 +1,3 @@
-// visual grid
-$visual-grid: true;
-$visual-grid-color: yellow;
-$visual-grid-index: front;
-$visual-grid-opacity: 0.2;
 
 // base
 @import
@@ -21,8 +16,6 @@ $visual-grid-opacity: 0.2;
 
 // modules
 @import
-  //"modules/visual-grid",
-  //"modules/articles",
   "modules/accordion",
   "modules/cards",
   "modules/footer",

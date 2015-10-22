@@ -1,0 +1,119 @@
+{% for row in events %}
+  {% set event_date = row.start_date|date('U') %}
+  {% if event_date > current_unix_date %}
+
+
+
+
+  <div class="card" {% if row.start_date %}id="event-{{ row.start_date|date('U') }}"{% endif %}>
+
+  <div class="card-image" style="background-color:#222;{% if row.related_book_isbn %} background-image:none;{% endif %}">
+
+    {% if row.related_book_isbn %}
+
+        {% set related_book = cms.books|where('isbn', row.related_book_isbn) %}
+
+          {% for books in related_book|slice(0,1) %}
+            {% set book_image = books.book_embed.thumbnail_url %}
+            <img src="{{ book_image }}" style="width:auto;height:100%;"/>
+          {% endfor %}
+
+
+          {% if row.event_name %}
+          <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
+              <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
+                {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
+              </a>
+            </h5>
+          {% endif %}
+
+    {% else %}
+
+    {% if row.event_name %}
+    <h5 class="brand{% if row.event_name|size > '70' %} smaller{% endif %}">
+        <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
+          {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
+        </a>
+      </h5>
+    {% endif %}
+
+
+    {% endif %}
+
+    </div>
+
+
+
+
+
+      {% if row.start_date %}
+        <div class="card-header">
+          {{ row.start_date|date('l, F jS, g:i a') }}
+        </div>
+      {% endif %}
+
+      {% if row.program %}
+      <a href="{{ url(row.program) }}">
+        {{ row.program.name }}
+      </a>
+      {% endif %}
+
+
+
+
+
+      {% if row.program.copy %}
+        <div class="card-copy">
+          {{ row.program.copy|safe }}
+        </div>
+      {% endif %}
+
+
+
+
+
+      {% if row.venue && row.venue != 'In-store' %}
+          <div class="row__clear">
+            <h5>
+              {{ row.venue }}
+            </h5>
+          </div>
+      {% endif %}
+
+
+
+
+      {% if row.related_book_isbnTK %}
+        <div class="" style="float:left;width:25%;padding:0 2em 0 0">
+          {% set related_book = cms.books|where('isbn', row.related_book_isbn) %}
+            {% for books in related_book %}
+              <img src="{{ books.book_embed.thumbnail_url }}" style="width:100%;"/>
+            {% endfor %}
+        </div>
+      {% endif %}
+
+
+
+
+
+      {% if row.summary %}
+        <div class="card-copy">
+          {{ row.summary|safe }}
+        </div>
+      {% endif %}
+
+
+
+
+      <div class="card-footer">
+        <div class="addthis_sharing_toolbox addthis_default_style "{% if row.start_date %}addthis:url="{{ url(month) }}#event-{{ row.start_date|date('U') }}"{% endif %}{% if row.event_name %} addthis:title="{{ row.event_name}}"{% endif %}
+        ></div>
+      </div>
+
+      </div>
+
+
+
+
+  {% endif %}
+{% endfor %}

@@ -1,6 +1,6 @@
 {% set news = cms.global.slideshow %}
 <div class="hero">
-  <div class="hero-innerf gallery js-flickity" data-flickity-options='{ "cellAlign": "left","imagesLoaded": true, "wrapAround": true, "percentPosition": false, "autoPlay": 7200, "lazyLoad": 3 }'>
+  <div class="hero-innerf gallery js-flickity" data-flickity-options='{ "cellAlign": "left","imagesLoaded": true, "wrapAround": true, "percentPosition": false, "autoPlay": 7200, "lazyLoad": 4 }'>
   {% for object in news %}
     {% set featured_image = object.featured_image|imageSize(600, 'auto') %}
     {% set content = object.content %}

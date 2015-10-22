@@ -1,8 +1,8 @@
 {% for event in events_upcoming %}
-{% if event.event_type %}
-  {% set event_type = event.event_type[0] %}
-  {% set event_type_slug = url(event_type)|replace('events', '')|replace('/', '', 'g') %}
-{% endif %}
+  {% if event.event_type %}
+    {% set event_type = event.event_type[0] %}
+    {% set event_type_slug = url(event_type)|replace('events', '')|replace('/', '', 'g') %}
+  {% endif %}
     {% if event.end_date %}{#  use the end date so events will show until they're over. Only multi-day events have end dates #}
       {% set event_date = event.end_date|date('U') %}
     {% else %}

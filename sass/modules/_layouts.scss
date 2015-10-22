@@ -12,7 +12,16 @@
   @include layout_two_column;
   aside.page {
     background-color:#f6f6f6;
+    border-radius: 2px;
+    background-color: $color-2;
     margin:0 0 3em 0;
+    color: $blue-dark;//$brown-dark;
+    a {
+      color: #fff;
+      &:hover {
+        color: #333;
+      }
+    }
     padding:2.375em;
     font-size: .875em;
     @include media($lg-up) {

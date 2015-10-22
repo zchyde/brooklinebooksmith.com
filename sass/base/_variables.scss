@@ -25,19 +25,19 @@ $base-z-index: 0;
 // Colors
 $black: #111;
 $blue: #3C5A79;
-$blue-dark: #284355;
+$blue-dark: #2F353E;
 $blue-light: #4C8DB6;
 $dark-gray: #333;
 $medium-gray: #555;
 $light-gray: #ddd;
 $brand-background-color:$blue;
+$brown-dark:#38311C;
+$color-1:#47817A;
+$color-2:#DEC26E;
+$color-3:#E76B11;
+$color-4:#981C41;
+$color-5:#FAA73F;
 
-$color-3: #613D45;
-$color-4: #27283F;
-$color-2: darken(#3498DB, 15%);
-$color-1: #504945;
-$yellow: #F6C05C;
-$red: #c50f3c;
 
 
 // Font Colors
@@ -68,7 +68,7 @@ $breakpoint: $lg-up;
 $hero-color: white;
 
 $navigation-padding: 1em;
-$navigation-background:$brand-background-color;//$dark-gray;
+$navigation-background:$blue-dark;//$brand-background-color;//$dark-gray;
 $navigation-color:transparentize(white, 0.3);
 $navigation-color-hover: white;
 $navigation-height: 112px;
@@ -124,7 +124,7 @@ $footer-disclaimer-color: transparentize($footer-color, 0.6);
 // CARDS
 $card-border-color: $base-border-color;
 $card-border: 1px solid $card-border-color;
-$card-background: lighten($card-border-color, 10%);
+$card-background: white;//lighten($card-border-color, 10%);
 $card-header-background: $card-background;
 $card-margin: 1em;
 $card-image-hover-opacity: 0.7;

@@ -16,13 +16,13 @@
   cursor: pointer;
   margin: 0 $card-margin $base-spacing $card-margin;
   position: relative;
-
+overflow: hidden;
 
 
   .card-image {
-    overflow: hidden;
+    //overflow: hidden;
     height: 180px;
-    max-height: 180px;
+    //max-height: 180px;
     background-color: $blue;//$card-image-hover-color;
     position: relative;
     color: white;
@@ -30,17 +30,30 @@
     background-image: url('/static/images/bookshelves.jpg');
 
     background-repeat: repeat;
+    a {
+      color: white;
+    }
 
 
     h5 {
       text-align: center;
       position: absolute;
-      width: 90%;
+      width: 87.5%;
       top: 50%;
       left: 50%;
       margin-right: -50%;
       transform: translate(-50%, -50%);
       color:#fff;
+
+    }
+
+    .smaller {
+    font-size: 1.0125rem;
+    }
+    .with_book {
+      width: 55%;
+      left: 65%;
+      transform: translate(-50%, -50%);
     }
 
     img {
@@ -59,6 +72,18 @@
     border-radius: $base-border-radius $base-border-radius 0 0;
     font-weight: bold;
     line-height: 1.5em;
+    padding: ($base-spacing / 3) ($base-spacing / 2);
+  }
+
+  .card-footer {
+    @include transition (all 0.2s ease-in-out);
+    //background-color: tomato;//$card-header-background;
+    //border-bottom: $card-border;
+    border-radius: 0 0 $base-border-radius $base-border-radius;
+    //font-weight: bold;
+    line-height: 1;
+    @include clearfix;
+    width: 100%;
     padding: ($base-spacing / 3) ($base-spacing / 2);
   }
 

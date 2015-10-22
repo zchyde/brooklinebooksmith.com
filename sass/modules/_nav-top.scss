@@ -125,13 +125,15 @@ margin-bottom: 3em;
       &:hover {
         color: $navigation-color-hover;
       }
+      &.active-nav-item  {
+        //border-bottom: 2px solid lighten($navigation-background, 13%);//$color-2;//$navigation-active-link-color;
+        color: lighten($color-2, 1%);
+        padding-bottom: 0px;
+      }
     }
   }
 
-  .active-nav-item a {
-    border-bottom: 1px solid $navigation-active-link-color;
-    padding-bottom: 3px;
-  }
+
 
   // Sub menus
 
