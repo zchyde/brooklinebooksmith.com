@@ -16,46 +16,42 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'), // https://quickleft.com/blog/grunt-js-tips-tricks/
 
-    // these are the task definitions
+
+
+
+    //STYLES
     sass: {
       options: {
         includePaths: require('node-neat').includePaths,
-        outputStyle: 'compressed'
+        outputStyle: 'expanded',
+         sourceMap: false
         },
       dist: {
-        files: [
+        files:
           {
-          'static/css/main.min.css' : 'sass/main.scss'
-          },
-          {
-            'static/css/screen-md.min.css' : 'sass/screen-md.scss'
+          'static/css/main.css' : 'sass/main.scss'
           }
-        ]
       }
     },
 
-    sass_md: {
+    postcss: {
       options: {
-        //includePaths: require('node-neat').includePaths,
-        outputStyle: 'compressed'
+        map: {
+            inline: false, // save all sourcemaps as separate files...
+            annotation: 'static/css/maps/' // ...to the specified directory
         },
-      dist: {
-        files: {
-          'static/css/screen-md.min.css' : 'sass/screen-md.scss'
-        }
-      }
-    },
 
-    autoprefixer: {
-      options: {
-        browsers: ['last 2 versions', 'ie 9'],
-        map: true
+        processors: [
+          //require('pixrem')(), // add fallbacks for rem units
+          //require('autoprefixer')({browsers: 'last 2 versions'}), // add vendor prefixes
+          require('cssnano')() // minify the result
+        ]
       },
-      dist: {
-        src: 'static/css/main.css',
-        dest: 'static/css/main.css'
-      }
-    },
+    dist: {
+      src: 'static/css/main.css',
+
+    }
+  },
 
     browserSync: {
       dev: {
@@ -72,6 +68,9 @@ module.exports = function(grunt) {
         }
       }
     },
+
+
+    //SCRIPTS
 
     concat: {
       dist: {
@@ -99,6 +98,8 @@ module.exports = function(grunt) {
       }
     },
 
+
+
     // here is where the tasks above get called when files change
     watch: {
       js: {
@@ -108,17 +109,23 @@ module.exports = function(grunt) {
       },
       sass: {
         files: ['sass/*.scss','sass/**/*.scss'],
-        tasks: ['sass', 'autoprefixer', 'build-static']
+        tasks: ['sass', 'postcss', 'build-static']
       }
     }
 
+
+
+
   });
 
+
+
   grunt.loadNpmTasks('grunt-sass');
-  grunt.loadNpmTasks('grunt-autoprefixer');
+  grunt.loadNpmTasks('grunt-postcss');
+  grunt.loadNpmTasks('grunt-browser-sync');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-browser-sync');
+
 
   // NEVER REMOVE THESE LINES, OR ELSE YOUR PROJECT MAY NOT WORK
   require('./options/generatorOptions.js')(grunt);
@@ -126,7 +133,7 @@ module.exports = function(grunt) {
 
   // Rename webhook's default task so we can compile css first and then run it
   grunt.renameTask('default', 'wh-default');
-  grunt.registerTask('default', ['sass', 'autoprefixer', 'wh-default']); // without browserSync
+  grunt.registerTask('default', ['sass', 'postcss', 'wh-default']); // without browserSync
   // grunt.registerTask('default', ['sass', 'autoprefixer', 'browserSync', 'wh-default']); // with browserSync
 
   };
