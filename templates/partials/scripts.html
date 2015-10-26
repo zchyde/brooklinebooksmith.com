@@ -1,4 +1,6 @@
 <script src="/static/javascript/dist/scripts.min.js" async></script>
+<!-- AddEvent -->
+<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async></script>
 <script type="text/javascript">
   WebFontConfig = {
  google: { families: [ 'Lato:400,300,300italic,400italic,700,700italic,900,900italic:latin' ] }
@@ -32,7 +34,7 @@ var MTIProjectId='a5daadd6-309d-4dd9-9545-fec7ff3cb5e1';
         var mtiTracking = document.createElement('script');
         mtiTracking.type='text/javascript';
         mtiTracking.async='true';
-         mtiTracking.src='mtiFontTrackingCode.js';
+         mtiTracking.src='/static/javascript/mtiFontTrackingCode.js';
         (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
    })();
 </script>

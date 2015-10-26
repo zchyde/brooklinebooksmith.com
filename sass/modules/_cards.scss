@@ -12,17 +12,19 @@
   background-color: $card-background;
   border-radius: $base-border-radius;
   border: $card-border;
-  box-shadow: 0 2px 4px darken($base-background-color, 10%);
-  cursor: pointer;
-  margin: 0 $card-margin $base-spacing 0;
+  box-shadow: 0 2px 4px darken($base-background-color, 7%);
+  //cursor: pointer;
+  //margin: 0 0 $base-spacing 0;
+  margin: 0 $card-margin $base-spacing $card-margin;
   position: relative;
-overflow: hidden;
+  overflow: hidden;
 
 
   .card-image {
     //overflow: hidden;
     height: 180px;
     //max-height: 180px;
+    overflow: hidden;
     background-color: $blue;//$card-image-hover-color;
     position: relative;
     color: white;
@@ -82,6 +84,9 @@ overflow: hidden;
     border-radius: 0 0 $base-border-radius $base-border-radius;
     //font-weight: bold;
     line-height: 1;
+    height: $card-footer-height;
+    position: absolute;
+    bottom:0;
     @include clearfix;
     width: 100%;
     padding: ($base-spacing / 3) ($base-spacing / 2);
@@ -91,7 +96,7 @@ overflow: hidden;
     font-size: 0.9em;
     line-height: 1.5em;
     padding: ($base-spacing / 2) ($base-spacing / 2);
-
+      margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned
     p {
       margin: 0 0 ($base-spacing / 2);
       color: $base-font-color;
@@ -100,7 +105,7 @@ overflow: hidden;
 
   &:focus,
   &:hover {
-    cursor: pointer;
+    //cursor: pointer;
 
     img {
       opacity: $card-image-hover-opacity;

@@ -31,12 +31,12 @@
           </div>
         {% endblock %}
       </article>
-      <aside class="page">
-        {% if item.aside %}
+      {# <aside class="page"> #}
+        {# {% if item.aside %}
           {{ item.aside|safe }}
-        {% endif %}
+        {% endif %} #}
         {# {% include "templates/partials/programs-list.html" %} #}
-      </aside>
+      {# </aside> #}
       {% block mailchimp %}
         <div class="row">
           {% include "templates/partials/form-mailchimp-simple.html" %}

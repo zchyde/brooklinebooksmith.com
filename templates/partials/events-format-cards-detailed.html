@@ -6,20 +6,30 @@
 
       <div class="card-image" style="background-color:#222;{% if row.related_book_isbn %} background-image:none;{% endif %}">
 
-        {% if row.related_book_isbn %}
-          {% set related_book = cms.books|where('isbn', row.related_book_isbn) %}
-          {% for books in related_book|slice(0,1) %}
-            {% set book_image = books.book_embed.thumbnail_url %}
-            <img src="{{ book_image }}" style="width:auto;height:100%;"/>
+        {% set related_books = row.book_data %}
+        {% if related_books != '' %}
+          {% for data in related_books %}
+            {% for cell in data %}
+              {% set related_book = cms.books|where('isbn', cell) %}
+              {% for books in related_book|slice(0,2) %}
+                {% set book_image = books.book_embed.thumbnail_url %}
+                <img src="{{ book_image }}" style="width:auto;height:100%;"/>
+              {% endfor %}
+            {% endfor %}
           {% endfor %}
-          {% if row.event_name %}
-            <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
-              <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
-                {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
-              </a>
-            </h5>
+
+          {% if  related_books|size == '1' %}
+            {% if row.event_name %}
+              <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
+                <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
+                  {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
+                </a>
+                </h5>
+              {% endif %}
           {% endif %}
+
         {% else %}
+
           {% if row.event_name %}
             <h5 class="brand{% if row.event_name|size > '70' %} smaller{% endif %}">
               <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
@@ -28,14 +38,27 @@
             </h5>
           {% endif %}
         {% endif %}
-
       </div>
 
-      {% if row.start_date %}
+
         <div class="card-header">
-          {{ row.start_date|date('l, F jS, g:i a') }}
+          {% if row.start_date %}
+            <span class="date">{{ row.start_date|date('l, F jS, g:i a') }}</span>
+          {% endif %}
+          {# // SHOW TITLE HERE IF THERE's NO ROOM IN THE IMAGE AREA #}
+          {% if related_books != '' %}
+            {% if  related_books|size > '1' %}
+              {% if row.event_name %}
+                <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
+                  <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
+                    {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
+                  </a>
+                </h5>
+              {% endif %}
+            {% endif %}
+          {% endif %}
         </div>
-      {% endif %}
+
 
 
       <div class="card-copy">
@@ -62,6 +85,52 @@
         {% if row.summary %}
           {{ row.summary|safe }}
         {% endif %}
+
+            {#
+              TODO: Remove this buy link. It's just a quick reference for getting titles
+            {% include "templates/partials/book-buy-links-isbn-conversion.html" %} #}
+
+
+
+{#
+
+            {% for row in item.tabular_data %}
+                <tr>
+                  {% for cell in row %}
+                    <td>
+                      {{ cell }}
+                    </td>
+                  {% endfor %}
+                </tr>
+              {% endfor%} #}
+
+
+
+
+
+
+
+{% if row.start_dateTK %}
+  {# TODO: See if we can get addthis to calendar working #}
+  <div id="add_to_calendar-event-{{ row.start_date|date('U') }}">
+
+  </div>
+  {% include "templates/partials/event-addthis-to-calendar.html" %}
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </div>
 
 
@@ -69,6 +138,8 @@
       <div class="card-footer">
         <div class="addthis_sharing_toolbox addthis_default_style "{% if row.start_date %}addthis:url="{{ url(month) }}#event-{{ row.start_date|date('U') }}"{% endif %}{% if row.event_name %} addthis:title="{{ row.event_name}}"{% endif %}
         ></div>
+
+
       </div>
 
       </div>
@@ -78,3 +149,9 @@
 
   {% endif %}
 {% endfor %}
+
+
+{#
+TODO: SHOW BOOK GENRE
+TODO: Show notes
+#}

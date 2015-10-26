@@ -1,8 +1,0 @@
-{% for month in events_upcoming %}
-  {% set events = month.events  %}
-  {% set events = events|sort('start_date') %}
-  {# <h2><a href="{{ url(month) }}">{{ month.name }}</a></h2> #}
-  <div class="cards">
-    {% include "templates/partials/events-format-cards-detailed.html" %}
-  </div>
-{% endfor %}
