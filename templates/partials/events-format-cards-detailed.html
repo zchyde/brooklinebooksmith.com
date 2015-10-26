@@ -1,13 +1,12 @@
 {% for row in events %}
   {% set event_date = row.start_date|date('U') %}
   {% if event_date > current_unix_date %}
-
+    {% set related_books = row.book_data %}
     <div class="card" {% if row.start_date %}id="event-{{ row.start_date|date('U') }}"{% endif %}>
+      <div class="card-image" style="{% if related_books != '' %}background-color:#284356;background-image:none;{% endif %}">
 
-      <div class="card-image" style="background-color:#222;{% if row.related_book_isbn %} background-image:none;{% endif %}">
-
-        {% set related_books = row.book_data %}
         {% if related_books != '' %}
+
           {% for data in related_books %}
             {% for cell in data %}
               {% set related_book = cms.books|where('isbn', cell) %}
@@ -20,22 +19,16 @@
 
           {% if  related_books|size == '1' %}
             {% if row.event_name %}
-              <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
-                <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
-                  {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
-                </a>
-                </h5>
+              {% set room_for_image = true %}
+                {% include "templates/partials/events-format-event-name.html" %}
               {% endif %}
           {% endif %}
 
         {% else %}
 
           {% if row.event_name %}
-            <h5 class="brand{% if row.event_name|size > '70' %} smaller{% endif %}">
-              <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
-                {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
-              </a>
-            </h5>
+            {% set room_for_image = false %}
+            {% include "templates/partials/events-format-event-name.html" %}
           {% endif %}
         {% endif %}
       </div>
@@ -49,11 +42,7 @@
           {% if related_books != '' %}
             {% if  related_books|size > '1' %}
               {% if row.event_name %}
-                <h5 class="brand{% if book_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
-                  <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
-                    {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
-                  </a>
-                </h5>
+              {% include "templates/partials/events-format-event-name.html" %}
               {% endif %}
             {% endif %}
           {% endif %}

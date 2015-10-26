@@ -2,6 +2,10 @@
   @include outer-container;
 }
 
+.has-layout__wide {
+  @include outer-container(90%);
+}
+
 .layout-posts, .has-layout {
   clear: both; //shouldn't need these - TODO: Test node_modules/node-neat/node_modules/bourbon-neat/app/assets/stylesheets/grid/_outer-container.scss
   @include clearfix; //shouldn't need these - TODO: Test
@@ -29,7 +33,7 @@
         color: #333;
       }
     }
-    padding:2.375em;
+    padding:2em;
     font-size: .875em;
     @include media($lg-up) {
 

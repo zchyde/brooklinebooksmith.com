@@ -15,22 +15,26 @@
   box-shadow: 0 2px 4px darken($base-background-color, 7%);
   //cursor: pointer;
   //margin: 0 0 $base-spacing 0;
-  margin: 0 $card-margin $base-spacing $card-margin;
+  margin: $base-spacing 0;
   position: relative;
   overflow: hidden;
+@include media($lg-up) {
+margin: 0 $card-margin $base-spacing $card-margin;
 
+}
 
   .card-image {
     //overflow: hidden;
     height: 180px;
+
     //max-height: 180px;
     overflow: hidden;
-    background-color: $blue;//$card-image-hover-color;
+
     position: relative;
     color: white;
     //background-image: url('/static/images/background_books_294456_1.png');
     background-image: url('/static/images/bookshelves.jpg');
-
+    background-color: $card-background;
     background-repeat: repeat;
     a {
       color: white;
@@ -46,15 +50,19 @@
       margin-right: -50%;
       transform: translate(-50%, -50%);
       color:#fff;
-
+      //font-size: 1rem;
+      @include media($lg-up) {}
     }
 
     .smaller {
-    font-size: 1.0125rem;
+      font-size: .875rem;
+      @include media($lg-up) {
+        font-size: 1.0125rem;
+      }
     }
     .with_book {
-      width: 55%;
-      left: 65%;
+      width: 50%;
+      left: 68%;
       transform: translate(-50%, -50%);
     }
 
@@ -62,7 +70,7 @@
       @include transition (all 0.2s ease-in-out);
       border-top-left-radius: $base-border-radius;
       border-top-right-radius: $base-border-radius;
-      width: 100%;
+      //width: 100%;
       opacity: 1;
     }
   }
