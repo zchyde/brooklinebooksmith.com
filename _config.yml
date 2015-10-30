@@ -1,85 +1,72 @@
 url: brooklinebooksmith.com
-sitename: 'brookline booksmith'
-description: 'A base Jekyll theme'
-# do not include  https://github.com/...
-#Pages - store all pages in the _pages directory
-
-include: ['_pages']
-exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock', 'bower.json', 'node_modules', 'sass', 'gulpfile.js', 'package.json', 'javascript']
-
+sitename: brookline booksmith
+description: A base Jekyll theme
+include:
+  - _pages
+exclude:
+  - readme.md
+  - license.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - node_modules
+  - sass
+  - gulpfile.js
+  - package.json
+  - javascript
 permalink: pretty
-
-# Build settings
-# dev options (true/false)
-# if site is in production, 'production: true'
 production: false
 bust_css_cache: true
-
-
-# options (data)
 google_analytics_id: UA-xxxx
 typekit_id: saz8dbz
-
 include_nav-top: true
 include_nav-side-left: true
 include_nav-side-right: false
-
-navigation_global: 
-- text: Hours/Location
-  url: /hours-location/
-- text: About Us
-  url: /about-us/
-- text: Events
-  url: /events/
-- text: Programs
-  url: /programs/
-- text: GiftSmith
-  url: /giftsmith/
-
-
+navigation_global:
+  - text: Hours/Location
+    url: /hours-location/
+  - text: About Us
+    url: /about-us/
+  - text: Events
+    url: /events/
+  - text: Programs
+    url: /programs/
+  - text: GiftSmith
+    url: /giftsmith/
 directory_assets_img: /static/images/
-
-# options (social)
-# facebook_id:
 twitter_id: budparr
-
 collections:
   articles:
     output: true
-    permalink: /:collection/:path/
+    permalink: '/:collection/:path/'
   fiction:
     output: false
-    permalink: /:collection/:path/
+    permalink: '/:collection/:path/'
   landing_pages:
     output: true
-    permalink: /:path/
+    permalink: '/:path/'
   events:
     output: true
-    permalink: /:collection/:path/
+    permalink: '/:collection/:path/'
     events:
-      program: writers
-      image_path:
-
+      program: bash
+      image_path: ''
   programs:
     output: true
-    permalink: /:collection/:path/
-
+    permalink: '/:collection/:path/'
 defaults:
-  -
-    scope:
-      path: "" 
-      type: "pages" 
+  - scope:
+      path: ''
+      type: pages
     values:
-      layout: "page"
-  - 
-    scope:
-      path: "" 
-      type: "events" 
+      layout: page
+  - scope:
+      path: ''
+      type: events
     values:
-      layout: "page"
-  - 
-    scope:
-      path: "" 
-      type: "landing_pages" 
+      layout: page
+  - scope:
+      path: ''
+      type: landing_pages
     values:
-      layout: "page"
+      layout: page
