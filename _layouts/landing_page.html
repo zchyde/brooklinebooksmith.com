@@ -18,74 +18,7 @@ layout: default
           {{ page.title }}
         </h2>
       </header>
-      <div class="entry-content prose editable">
-yff
-
-{% assign books = site.landing_pages %}
-
-
-        {% for page in books %}
-        {% for book in page.books %}
-
-        {% if book.book_title %}
-      <h2>{{ book.boot_title }}</h2>
-        {% endif %}
-          {% if book.isbn %}
-          {{ book.isbn}}
-          {% endif %}
-
-          {% if book.events %}
-            {{ book.events}}
-            {% endif %}
-
-            {% if book.book_cover_path %}
-            <img src="{{ book.book_cover_path}}" style="height:150px;"/>
-              {% endif %}
-
-
-              {% if book.description %}
-
-              {{ book.description|markdownify }}
-
-              {% endif %}
-
-
-
-  {% endfor %}
-  specials
-  {% for book in page.books_specials %}
-
-  {% if book.book_title %}
-<h2>{{ book.boot_title }}</h2>
-  {% endif %}
-    {% if book.isbn %}
-    {{ book.isbn}}
-    {% endif %}
-
-    {% if book.events %}
-      {{ book.events}}
-      {% endif %}
-
-      {% if book.book_cover_path %}
-      <img src="{{ book.book_cover_path}}" style="height:150px;"/>
-        {% endif %}
-
-
-        {% if book.description %}
-
-        {{ book.description|markdownify }}
-
-        {% endif %}
-
-
-
-{% endfor %}
-          {% endfor %}
-
-
-
-
-      </div>
+      <div class="entry-content prose editable"><p>yff</p><h2>&nbsp;</h2><p>978999999 2015-12 <img style="height:150px;" src="/uploads/ebook0.3x.jpg" /></p><p>this is a nice one.</p><h2>&nbsp;</h2><p>97866633x3 2015-10 <img style="height:150px;" src="/uploads/51zhvwqbckl.jpg" /></p><p>This one is a nut case, believe me.</p><h2>&nbsp;</h2><p>98777777777 feb <img style="height:150px;" src="/uploads/unnamed.jpg" /></p><p>this one is tough. There&rsquo;s &ldquo;ENOUGH&rdquo; for everyone, but nothing for anyone else: and that&rsquo;s no joke.</p><p>specials specials</p></div>
     </article>
     <aside>
       {{ content }}
