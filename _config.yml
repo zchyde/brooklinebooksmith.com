@@ -22,6 +22,12 @@ typekit_id: saz8dbz
 include_nav-top: true
 include_nav-side-left: true
 include_nav-side-right: false
+event_category:
+  - Memoir
+  - Nonfiction
+  - Poetry
+  - "Kids & Family"
+  - Comedy
 navigation_global:
   - text: Hours/Location
     url: /hours-location/
