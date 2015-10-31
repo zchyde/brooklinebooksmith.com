@@ -17,14 +17,14 @@ layout: default
 {% for post in site.events group_by: 'date' %}
 
 
-  
 
+YAY
   {% for event in post.events %}
 
   {% if event.title %}
     {% capture event_title %}{{ event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
   {% endif %}
-  
+
 
   {% capture post_dates %}{{ event.date}} 00:00:00 -0500{% endcapture %}
 
