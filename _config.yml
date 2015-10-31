@@ -40,7 +40,7 @@ collections:
     output: true
     permalink: '/:collection/:path/'
   fiction:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
   landing_pages:
     output: true
