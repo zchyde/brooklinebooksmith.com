@@ -69,4 +69,4 @@ defaults:
       path: ''
       type: landing_pages
     values:
-      layout: page
+      layout: landing_page

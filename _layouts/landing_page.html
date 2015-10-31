@@ -1,0 +1,101 @@
+---
+layout: default
+---
+<div class="has-layout layout-article">
+  <article class="hentry">
+
+      {% comment %}
+        {% if entry.featuredImage %}
+          {% include "partials/_hero.html" %}
+        {% endif %}
+      {% endcomment %}
+
+
+
+
+      <header>
+        <h2 class="entry-title">
+          {{ page.title }}
+        </h2>
+      </header>
+      <div class="entry-content prose editable">
+yff
+
+{% assign books = site.landing_pages %}
+
+
+        {% for page in books %}
+        {% for book in page.books %}
+
+        {% if book.book_title %}
+      <h2>{{ book.boot_title }}</h2>
+        {% endif %}
+          {% if book.isbn %}
+          {{ book.isbn}}
+          {% endif %}
+
+          {% if book.events %}
+            {{ book.events}}
+            {% endif %}
+
+            {% if book.book_cover_path %}
+            <img src="{{ book.book_cover_path}}" style="height:150px;"/>
+              {% endif %}
+
+
+              {% if book.description %}
+
+              {{ book.description|markdownify }}
+
+              {% endif %}
+
+
+
+  {% endfor %}
+  specials
+  {% for book in page.books_specials %}
+
+  {% if book.book_title %}
+<h2>{{ book.boot_title }}</h2>
+  {% endif %}
+    {% if book.isbn %}
+    {{ book.isbn}}
+    {% endif %}
+
+    {% if book.events %}
+      {{ book.events}}
+      {% endif %}
+
+      {% if book.book_cover_path %}
+      <img src="{{ book.book_cover_path}}" style="height:150px;"/>
+        {% endif %}
+
+
+        {% if book.description %}
+
+        {{ book.description|markdownify }}
+
+        {% endif %}
+
+
+
+{% endfor %}
+          {% endfor %}
+
+
+
+
+      </div>
+    </article>
+    <aside>
+      {{ content }}
+    </aside>
+
+      <div class="row">
+        {% include form-mailchimp.html %}
+      </div>
+
+  </div>
+  {% comment %}
+    {% include "templates/partials/prev-next.html" %}
+  {% endcomment %}

@@ -1,5 +1,6 @@
 ---
 title: Fall Specials
+description: "great stuff this month!"
 books:
   - book_title: WWB
     isbn: '978999999'
@@ -17,15 +18,15 @@ books:
     book_cover_path: /uploads/unnamed.jpg
     description: "this one is tough. There's \"ENOUGH\" for everyone: and that's no joke."
 books_specials:
-  - book_title: 
-    isbn: 
-    events: 
-    book_cover_path: 
-    description: 
-  - book_title: 
-    isbn: 
-    events: 
-    book_cover_path: 
+  - book_title:
+    isbn:
+    events:
+    book_cover_path:
+    description:
+  - book_title:
+    isbn:
+    events:
+    book_cover_path:
     description:
 section_title: ''
 ---
