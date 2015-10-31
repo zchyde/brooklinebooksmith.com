@@ -5,19 +5,9 @@ books:
     isbn:
     events:
     book_cover_path:
-    description:
-  - book_title:
-    isbn:
-    events:
-    book_cover_path:
+    fiction:
     description:
 books_specials:
-  - book_title:
-    isbn:
-    events:
-    fiction:
-    book_cover_path:
-    description:
   - book_title:
     isbn:
     events:
