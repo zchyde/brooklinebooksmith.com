@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 books:
   - book_title: Thanks for this
     isbn: '777334444'
