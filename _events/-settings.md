@@ -6,6 +6,7 @@ events:
   - start__datetime: 2015-09-03T00:00:00.000Z
     event_cat:
     title:
+    book_cat:
     Fiction:
     book_isbn:
 ---
