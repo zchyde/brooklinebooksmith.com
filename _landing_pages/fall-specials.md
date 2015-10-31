@@ -1,11 +1,16 @@
 ---
 title: Fall Specials
 books:
-  book_title: WWB
-  isbn: '978999999'
-  events: 2015-12
-  book_cover_path: /uploads/ebook0.3x.jpg
-  description: this is a nice one.
+  -  book_title: WWB
+    isbn: '978999999'
+    events: 2015-12
+    book_cover_path: /uploads/ebook0.3x.jpg
+    description: this is a nice one.
+  - book_title: WWB
+    isbn: '978999999'
+    events: 2015-12
+    book_cover_path: /uploads/ebook0.3x.jpg
+    description: this is a nice one.
 section_title: ''
 ---
 
