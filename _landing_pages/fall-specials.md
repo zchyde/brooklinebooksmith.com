@@ -16,6 +16,17 @@ books:
     events: feb
     book_cover_path: /uploads/unnamed.jpg
     description: "this one is tough. There's \"ENOUGH\" for everyone: and that's no joke."
+books_specials:
+  - book_title: 
+    isbn: 
+    events: 
+    book_cover_path: 
+    description: 
+  - book_title: 
+    isbn: 
+    events: 
+    book_cover_path: 
+    description:
 section_title: ''
 ---
 
