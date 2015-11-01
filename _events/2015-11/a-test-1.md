@@ -1,11 +1,12 @@
 ---
 title: A Test 1
 published: true
-date: 2015-01-01T19:00:00.000Z
-program: null
+date: 2015-11-25T19:00:00.000Z
+program: writers-and-readers
 book_category:
-  - null
-venue: null
+  - ''
+venue: Coolidge Corner Theater
 book_isbn:
-  - null
+  - '4444'
 ---
+
