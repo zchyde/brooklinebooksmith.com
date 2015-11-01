@@ -1,10 +1,11 @@
 ---
 title: Aaaaa Test 1
 published: true
-date: 2015-01-01T19:00:00.000Z
-program: null
-book_category: null
-venue: null
+date: 2015-01-28T19:00:00.000Z
+program: book-club
+book_category: science
+venue: Other
 book_isbn:
-  - null
+  - ''
 ---
+
