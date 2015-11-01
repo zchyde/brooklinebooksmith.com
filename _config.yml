@@ -22,12 +22,15 @@ typekit_id: saz8dbz
 include_nav-top: true
 include_nav-side-left: true
 include_nav-side-right: false
-event_cats:
+book_cats:
   - Memoir
   - Nonfiction
   - Poetry
   - "Kids & Family"
   - Comedy
+venues:
+  - In-store
+  - "Coolidge Corner Theater"
 navigation_global:
   - text: Hours/Location
     url: /hours-location/
