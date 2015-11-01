@@ -1,10 +1,11 @@
 ---
-title: Test Event
-published: false
-date: null
+title: Test Eventssss
+published: true
+date: 2015-10-29T00:00:00.000Z
 start__datetime: 2015-09-03T00:00:00.000Z
-program: null
-book_cat: null
-venue: null
-book_isbn: null
+program: bash
+book_cat: Memoir
+venue: In-store
+book_isbn: ''
 ---
+
