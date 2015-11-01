@@ -1,6 +1,6 @@
 ---
-Event title: "Sloane Crosley, *The Clasp*"
-Start Date: October 20 2015
+event_title: "Sloane Crosley, *The Clasp*"
+start_date: October 20 2015
 Program: 
 book_isbn: 9780374124410
 Genre: 

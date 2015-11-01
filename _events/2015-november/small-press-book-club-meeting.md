@@ -1,6 +1,6 @@
 ---
-Event title: "Small Press Book Club Meeting"
-Start Date: November 19 2015
+event_title: "Small Press Book Club Meeting"
+start_date: November 19 2015
 Program: Small Press Book Club
 book_isbn: 
 Genre: 

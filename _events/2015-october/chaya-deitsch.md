@@ -1,6 +1,6 @@
 ---
-Event title: "Chaya Deitsch"
-Start Date: October 13 2015
+event_title: "Chaya Deitsch"
+start_date: October 13 2015
 Program: 
 book_isbn: 9780805243178
 Genre: 

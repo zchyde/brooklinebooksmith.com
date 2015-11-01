@@ -1,6 +1,6 @@
 ---
-Event title: "Colleen Hoover, November 9"
-Start Date: November 09 2015
+event_title: "Colleen Hoover, November 9"
+start_date: November 09 2015
 Program: 
 book_isbn: 9781501110344
 Genre: 

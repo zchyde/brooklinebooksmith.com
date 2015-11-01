@@ -1,6 +1,6 @@
 ---
-Event title: "Lucinda Franks *Timeless: Love, Morgenthau, and Me*"
-Start Date: October 06 2015
+event_title: "Lucinda Franks *Timeless: Love, Morgenthau, and Me*"
+start_date: October 06 2015
 Program: 
 book_isbn: 9781598534511
 Genre: 

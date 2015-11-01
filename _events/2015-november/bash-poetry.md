@@ -1,6 +1,6 @@
 ---
-Event title: "BASH Poetry"
-Start Date: November 13 2015
+event_title: "BASH Poetry"
+start_date: November 13 2015
 Program: BASH Poetry Reading Series
 book_isbn: 
 Genre: 

@@ -1,6 +1,6 @@
 ---
-Event title: "Children&#39;s Story Time"
-Start Date: October 25 2015
+event_title: "Children&#39;s Story Time"
+start_date: October 25 2015
 Program: Kids
 book_isbn: 
 Genre: 

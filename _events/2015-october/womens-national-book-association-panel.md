@@ -1,6 +1,6 @@
 ---
-Event title: "Women’s National Book Association Panel"
-Start Date: October 27 2015
+event_title: "Women’s National Book Association Panel"
+start_date: October 27 2015
 Program: 
 book_isbn: 
 Genre: 

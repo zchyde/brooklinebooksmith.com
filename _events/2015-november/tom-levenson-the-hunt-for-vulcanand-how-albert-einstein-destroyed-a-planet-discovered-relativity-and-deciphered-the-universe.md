@@ -1,6 +1,6 @@
 ---
-Event title: "Tom Levenson *The Hunt for Vulcan...And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe*"
-Start Date: November 12 2015
+event_title: "Tom Levenson *The Hunt for Vulcan...And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe*"
+start_date: November 12 2015
 Program: 
 book_isbn: 9780812998986
 Genre: 

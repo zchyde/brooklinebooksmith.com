@@ -1,6 +1,6 @@
 ---
 Event title: "Brandon Sanderson"
-Start Date: October 14 2015
+start_date: October 14 2015
 Program: 
 book_isbn: 9780765378552
 Genre: 

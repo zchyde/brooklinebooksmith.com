@@ -1,6 +1,6 @@
 ---
-Event title: "**B.A. Shapiro**, *The Muralist*"
-Start Date: November 03 2015
+event_title: "**B.A. Shapiro**, *The Muralist*"
+start_date: November 03 2015
 Program: 
 book_isbn: 9781616203573
 Genre: 

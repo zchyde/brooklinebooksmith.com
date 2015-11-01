@@ -1,6 +1,6 @@
 ---
-Event title: "Elvis Costello, *Unfaithful Music &amp; Disappearing Ink*"
-Start Date: October 17 2015
+event_title: "Elvis Costello, *Unfaithful Music &amp; Disappearing Ink*"
+start_date: October 17 2015
 Program: 
 book_isbn: 9780399167256
 Genre: 

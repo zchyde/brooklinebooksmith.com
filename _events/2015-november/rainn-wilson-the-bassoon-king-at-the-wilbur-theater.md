@@ -1,6 +1,6 @@
 ---
-Event title: "Rainn Wilson, *The Bassoon King* at The Wilbur Theater"
-Start Date: November 11 2015
+event_title: "Rainn Wilson, *The Bassoon King* at The Wilbur Theater"
+start_date: November 11 2015
 Program: 
 book_isbn: 9780525954538
 Genre: 

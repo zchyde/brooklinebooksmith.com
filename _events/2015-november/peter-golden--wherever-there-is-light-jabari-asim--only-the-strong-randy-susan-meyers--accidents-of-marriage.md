@@ -1,6 +1,6 @@
 ---
-Event title: "Peter Golden - *Wherever There is Light*, Jabari Asim - *Only the Strong*, Randy Susan Meyers - *Accidents of Marriage*"
-Start Date: November 04 2015
+event_title: "Peter Golden - *Wherever There is Light*, Jabari Asim - *Only the Strong*, Randy Susan Meyers - *Accidents of Marriage*"
+start_date: November 04 2015
 Program: 
 book_isbn: 978147670558397819328419479781451673050
 Genre: 

@@ -1,6 +1,6 @@
 ---
-Event title: "Hank Phillippi Ryan, *What You See*"
-Start Date: October 22 2015
+event_title: "Hank Phillippi Ryan, *What You See*"
+start_date: October 22 2015
 Program: 
 book_isbn: 9780765374950
 Genre: 

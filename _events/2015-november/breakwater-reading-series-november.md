@@ -1,6 +1,6 @@
 ---
-Event title: "Breakwater Reading Series"
-Start Date: November 20 2015
+event_title: "Breakwater Reading Series"
+start_date: November 20 2015
 Program: 
 book_isbn: 
 Genre: 

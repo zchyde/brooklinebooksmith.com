@@ -1,6 +1,6 @@
 ---
-Event title: "Sara Bareilles, *Sounds Like Me: My Life (so far) in Song*"
-Start Date: October 08 2015
+event_title: "Sara Bareilles, *Sounds Like Me: My Life (so far) in Song*"
+start_date: October 08 2015
 Program: 
 book_isbn: 9781476727776
 Genre: 
