@@ -1,5 +1,5 @@
 ---
-event_title: 'Lucinda Franks *Timeless: Love, Morgenthau, and Me*'
+title: 'Lucinda Franks *Timeless: Love, Morgenthau, and Me*'
 start_at: 2015-10-06T19:00:00.000Z
 Program: bash
 book_isbn: 9781598534511

@@ -1,5 +1,5 @@
 ---
-event_title: Joe Hill and Ben Blacker Nerdist Writers Panel Podcast
+title: Joe Hill and Ben Blacker Nerdist Writers Panel Podcast
 start_at: 2015-11-14T19:00:00.000Z
 Program: bash
 book_isbn: ''

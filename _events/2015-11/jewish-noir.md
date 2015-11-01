@@ -1,5 +1,5 @@
 ---
-event_title: Jewish Noir
+title: Jewish Noir
 start_at: 2015-11-05T19:00:00.000Z
 Program: bash
 book_isbn: 9781629631110

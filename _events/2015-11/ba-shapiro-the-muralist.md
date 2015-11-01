@@ -1,5 +1,5 @@
 ---
-event_title: '**B.A. Shapiro**, *The Muralist*'
+title: '**B.A. Shapiro**, *The Muralist*'
 start_at: 2015-11-03T19:00:00.000Z
 Program: bash
 book_isbn: 9781616203573

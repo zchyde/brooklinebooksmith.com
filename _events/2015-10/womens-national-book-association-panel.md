@@ -1,5 +1,5 @@
 ---
-event_title: Women’s National Book Association Panel
+title: Women’s National Book Association Panel
 start_at: 2015-10-27T19:00:00.000Z
 Program: bash
 book_isbn: ''

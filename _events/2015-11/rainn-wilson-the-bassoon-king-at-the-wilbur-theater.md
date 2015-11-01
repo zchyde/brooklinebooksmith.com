@@ -1,5 +1,5 @@
 ---
-event_title: 'Rainn Wilson, *The Bassoon King* at The Wilbur Theater'
+title: 'Rainn Wilson, *The Bassoon King* at The Wilbur Theater'
 start_at: 2015-11-11T19:30:00.000Z
 Program: bash
 book_isbn: 9780525954538

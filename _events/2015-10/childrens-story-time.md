@@ -1,5 +1,5 @@
 ---
-event_title: 'Children&#39;s Story Time'
+title: 'Children&#39;s Story Time'
 start_at: 2015-10-25T10:30:00.000Z
 Program: bash
 book_isbn: ''

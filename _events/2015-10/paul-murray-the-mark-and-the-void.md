@@ -1,5 +1,5 @@
 ---
-event_title: 'Paul Murray, *The Mark and the Void*'
+title: 'Paul Murray, *The Mark and the Void*'
 start_at: 2015-10-19T19:00:00.000Z
 Program: bash
 book_isbn: 9780865477551

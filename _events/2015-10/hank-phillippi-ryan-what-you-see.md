@@ -1,5 +1,5 @@
 ---
-event_title: 'Hank Phillippi Ryan, *What You See*'
+title: 'Hank Phillippi Ryan, *What You See*'
 start_at: 2015-10-22T19:00:00.000Z
 Program: bash
 book_isbn: 9780765374950

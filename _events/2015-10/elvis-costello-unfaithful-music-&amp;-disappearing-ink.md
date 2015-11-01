@@ -1,5 +1,5 @@
 ---
-event_title: 'Elvis Costello, *Unfaithful Music &amp; Disappearing Ink*'
+title: 'Elvis Costello, *Unfaithful Music &amp; Disappearing Ink*'
 start_at: 2015-10-17T19:00:00.000Z
 Program: bash
 book_isbn: 9780399167256

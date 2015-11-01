@@ -1,5 +1,5 @@
 ---
-event_title: Princess In Black Party
+title: Princess In Black Party
 start_at: 2015-10-18T14:00:00.000Z
 Program: bash
 book_isbn: 9780763665111
