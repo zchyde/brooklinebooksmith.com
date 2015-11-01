@@ -1,6 +1,6 @@
 ---
 event_title: "Jewish Noir"
-start_date: November 05 2015
+start_at: November 05 2015
 Program: 
 book_isbn: 9781629631110
 Genre: 

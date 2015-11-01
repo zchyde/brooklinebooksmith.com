@@ -1,6 +1,6 @@
 ---
 event_title: "Special Small Press Book Club!"
-start_date: October 22 2015
+start_at: October 22 2015
 Program: Small Press Book Club
 book_isbn: 
 Genre: 

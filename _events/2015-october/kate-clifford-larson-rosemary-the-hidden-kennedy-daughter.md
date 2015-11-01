@@ -1,6 +1,6 @@
 ---
 event_title: "Kate Clifford Larson, *Rosemary: The Hidden Kennedy Daughter*"
-start_date: October 07 2015
+start_at: October 07 2015
 Program: 
 book_isbn: 9780547250250
 Genre: 

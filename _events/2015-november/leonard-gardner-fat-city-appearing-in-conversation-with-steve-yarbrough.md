@@ -1,6 +1,6 @@
 ---
 event_title: "**Leonard Gardner**, *Fat City* appearing in conversation with Steve Yarbrough"
-start_date: November 02 2015
+start_at: November 02 2015
 Program: 
 book_isbn: 9781590178928
 Genre: 

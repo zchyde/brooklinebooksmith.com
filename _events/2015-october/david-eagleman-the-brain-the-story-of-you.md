@@ -1,6 +1,6 @@
 ---
 event_title: "David Eagleman, *The Brain: The Story of You*"
-start_date: October 23 2015
+start_at: October 23 2015
 Program:
 book_isbn: 9781101870532
 Genre:

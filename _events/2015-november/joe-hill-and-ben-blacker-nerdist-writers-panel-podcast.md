@@ -1,6 +1,6 @@
 ---
 event_title: "Joe Hill and Ben Blacker Nerdist Writers Panel Podcast"
-start_date: November 14 2015
+start_at: November 14 2015
 Program: 
 book_isbn: 
 Genre: 

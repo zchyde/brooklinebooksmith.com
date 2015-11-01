@@ -1,6 +1,6 @@
 ---
 event_title: "Paul Murray, *The Mark and the Void*"
-start_date: October 19 2015
+start_at: October 19 2015
 Program: 
 book_isbn: 9780865477551
 Genre: 

@@ -1,6 +1,6 @@
 ---
 event_title: "Marilynn Brass and Sheila Brass, *Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America’s Favorite Home Bakers*"
-start_date: October 15 2015
+start_at: October 15 2015
 Program: 
 book_isbn: 9781250064356
 Genre: 

@@ -1,6 +1,6 @@
 ---
 event_title: "Summer Ink Fall Reading"
-start_date: October 25 2015
+start_at: October 25 2015
 Program: 
 book_isbn: 
 Genre: 

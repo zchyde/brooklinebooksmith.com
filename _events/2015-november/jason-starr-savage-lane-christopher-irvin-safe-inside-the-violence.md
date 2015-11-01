@@ -1,6 +1,6 @@
 ---
 event_title: "Jason Starr - *Savage Lane*, Christopher Irvin - *Safe Inside the Violence*"
-start_date: November 18 2015
+start_at: November 18 2015
 Program: 
 book_isbn: 97819406106419788293326700
 Genre: 

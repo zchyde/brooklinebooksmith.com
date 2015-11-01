@@ -1,6 +1,6 @@
 ---
 event_title: "Josh Gondelman and Joe Berkowitz You Blew It!: An Awkward Look at the Many Ways in Which You’ve Already Ruined Your Life"
-start_date: October 21 2015
+start_at: October 21 2015
 Program: 
 book_isbn: 9780147515803
 Genre: 

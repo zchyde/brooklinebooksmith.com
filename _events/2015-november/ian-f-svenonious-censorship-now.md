@@ -1,6 +1,6 @@
 ---
 event_title: "Ian F. Svenonious, *Censorship Now!!*"
-start_date: November 08 2015
+start_at: November 08 2015
 Program: 
 book_isbn: 9781617754098
 Genre: 
