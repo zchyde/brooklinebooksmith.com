@@ -1,9 +1,10 @@
 ---
-event_title: "Joshua Halberstam, *The Blind Angel: New Old Chassidic Tales*"
-start_at: November 23 2015
-Program: 
+event_title: 'Joshua Halberstam, *The Blind Angel: New Old Chassidic Tales*'
+start_at: 2015-11-23T19:00:00.000Z
+Program: bash
 book_isbn: 9781592643592
-Genre: 
+Genre: ''
 Venue: In-store
 ---
+
 For twenty-five years, Rabbi Tovia Halberstam, a scion of leading Chassidic dynasties, told riveting Chassidic tales to an audience of thousands on the Yiddish radio in New York. In The Blind Angel, Rabbi Halberstam’s son, Joshua Halberstam, renders these stories for a contemporary audience while maintaining the full charm, rhythm, and authenticity of the original tales.
