@@ -1,8 +1,9 @@
 ---
-event_title: "Book Club"
-start_at: November 09 2015
-Program: Brookline Booksmith Book Club
-book_isbn: 
-Genre: 
+event_title: Book Club
+start_at: 2015-11-09T19:30:00.000Z
+Program: bash
+book_isbn: ''
+Genre: ''
 Venue: In-store
 ---
+
