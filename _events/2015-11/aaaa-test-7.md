@@ -1,10 +1,12 @@
 ---
 title: Aaaa Test 7
 published: true
-date: 2015-01-01T19:00:00.000Z
-program: null
-book_category: null
-venue: null
+date: 2015-01-14T19:00:00.000Z
+program: bash
+book_category: kidsstorytime
+venue: In-store
 book_isbn:
-  - null
+  - '9999999'
+  - '8888888'
 ---
+
