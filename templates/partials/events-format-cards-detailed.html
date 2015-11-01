@@ -3,6 +3,10 @@
   {% if event_date > current_unix_date %}
     {% set related_books = row.book_data %}
     <div class="card" {% if row.start_date %}id="event-{{ row.start_date|date('U') }}"{% endif %}>
+      {# <div class="card-meta">
+
+      </div> #}
+
       <div class="card-image" style="{% if related_books != '' %}background-color:#284356;background-image:none;{% endif %}">
 
         {% if related_books != '' %}
