@@ -1,6 +1,6 @@
 ---
 title: Breakwater Reading Series
-start_at: 2015-11-20T19:00:00.000Z
+date: 2015-11-20T19:00:00.000Z
 Program: bash
 book_isbn: ''
 Genre: ''

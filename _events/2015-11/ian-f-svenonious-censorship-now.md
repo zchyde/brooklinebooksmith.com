@@ -1,6 +1,6 @@
 ---
 title: 'Ian F. Svenonious, *Censorship Now!!*'
-start_at: 2015-11-08T18:00:00.000Z
+date: 2015-11-08T18:00:00.000Z
 Program: bash
 book_isbn: 9781617754098
 Genre: ''

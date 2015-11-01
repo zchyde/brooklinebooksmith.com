@@ -1,6 +1,6 @@
 ---
 title: 'Sara Bareilles, *Sounds Like Me: My Life (so far) in Song*'
-start_at: 2015-10-08T19:00:00.000Z
+date: 2015-10-08T19:00:00.000Z
 Program: bash
 book_isbn: 9781476727776
 Genre: ''
