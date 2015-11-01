@@ -29,6 +29,7 @@ book_cats:
   - "Kids & Family"
   - Comedy
 venues:
+  - '-'
   - In-store
   - "Coolidge Corner Theater"
   - Other
