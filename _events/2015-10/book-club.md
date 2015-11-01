@@ -1,8 +1,9 @@
 ---
-event_title: "Book Club"
-start_at: October 12 2015
-Program: Brookline Booksmith Book Club
+event_title: Book Club
+start_at: 2015-10-12T19:00:00.000Z
+Program: bash
 book_isbn: 9780804170123
-Genre:
+Genre: ''
 Venue: In-store
 ---
+
