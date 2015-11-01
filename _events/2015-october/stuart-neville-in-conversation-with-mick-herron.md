@@ -1,0 +1,9 @@
+---
+Event title: "Stuart Neville in conversation with Mick Herron"
+Start Date: October 05 2015
+Program: 
+book_isbn: 9780525426592
+Genre: 
+Venue: In-store
+---
+Summary: *Those We Left Behind* Ciaran Devine, who made Belfast headlines seven years ago as the "schoolboy killer", is about to walk free. DCI Serena Flanagan, the only officer who could convince a young Ciaran to speak, has silently harbored doubts about his confession all this time. She will soon discover that even closed cases can unleash terror on the streets of Belfast. Stuart Neville will be joined in conversation by British crime writer Mick Herron (Dead Lions).
