@@ -1,1 +1,4 @@
-{"JSON EVENTS":"Events go here"}
+---
+layout: null
+---
+{{ site.data.events | jsonify }}
