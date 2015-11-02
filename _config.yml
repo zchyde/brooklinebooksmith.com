@@ -9,6 +9,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - bower.json
+  - CNAME
   - node_modules
   - sass
   - gulpfile.js

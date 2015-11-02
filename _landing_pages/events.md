@@ -1,7 +1,7 @@
 ---
 title: Events
 ---
-*Please note that Brookline parking meters run until 8pm Monday through Saturday.*
+TEST *Please note that Brookline parking meters run until 8pm Monday through Saturday.*
 
 ### IN-STORE EVENTS
 
