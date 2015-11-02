@@ -4,78 +4,75 @@ header.navigation {
   width: 100%;
   z-index: 999;
   font-family: $brand-font-family;
-  background-image: url('/static/images/background_books_294456_1.png');
+  //background-image: url('/static/images/background_books_294456_1.png');
   background-repeat: repeat;
-
+  margin-bottom: 3em;
 
   .navigation-wrapper {
     @include clearfix;
     @include outer-container;
     position: relative;
     z-index: 9999;
-    //padding-top:.5em;
+    padding:2em 0;
   }
-
-  nav {  
+  nav {
     display: none;
-    
-    //@include span-columns(12 of 12); 
   }
-
-  .brand { 
-    padding: .5em 0;
-  h1 {      
+  .brand {
+    padding-bottom:1.5em;
+    h1 {
+      text-align: left;
+      padding:.5em 0;
+      margin:0;
+      line-height: 1;
+      font-weight: 400;
+      font-size: 1.5em;
+      display: inline-block;
+      padding: 1.5em 0 0 1.5em;
+      a {
+        color: $blue-lighter;
+      }
+    }
+  }
+  .location-data, a.location-data {
+    font-size: .875em;
     text-align: left;
-    padding:.5em 0;
-    margin:0;            
-    line-height: 1;        
-    font-weight: 400;
-    font-size: 1.5em;
-    display: inline-block;
-    padding: 1em 0 1em .25em;
-    a {
-      color: white;  
-    }  
-  }    
+    display: block;
+    color: $navigation-color;
+    padding: 0 0 0 2.625em;
   }
-
-  
-  
-  @include media ($horizontal-bar-mode) { 
-    .brand { 
-    padding: 0;
-    text-align: center;
-    h1 {        
-
+  @include media ($horizontal-bar-mode) {
+    .location-data {
+      display: none;
+    }
+    .brand {
+      text-align: center;
+      h1 {
         font-size: 3.25em;
         padding: .5em 0 0 0;
       }
     }
-    
     nav {
-      //background-color:red;
       display: block;
       text-align: center;
-      margin-top:0;      
+      margin-top:0;
     }
   }
-
-  @include media ($xl-up) { 
+  @include media ($xl-up) {
+    .location-data {
+      display: none;
+    }
     .brand {
-      @include span-columns(5.5 of 12);
-      @include omega();       
+      @include row();
       h1 {
         text-align: left;
         font-size: 3.125em;
-        line-height: $navigation-height;        
-        padding: 0;  
-      }   
+        padding: .5em 0 0 0;
+      }
     }
     nav {
-      display: inline-block;      
-      @include span-columns(6 of 12);
-      @include omega();
-      padding-top: .625em;
+      display: inline-block;
+      @include row();
     }
     .navigation-tools {
       @include span-columns(2 of 12);
@@ -88,47 +85,49 @@ header.navigation {
 
   /////////////// Nav menu ///////////////
 
- 
+
   ul.navigation-menu {
-    clear: both;    
+    clear: both;
     margin: 0 auto;
     overflow: visible;
     padding: 0;
     width: 100%;
     z-index: 9999;
-    text-align:center;    
+    text-align:center;
   }
 
   // The nav items
 
   ul li.nav-link {
-    //background: $navigation-background;    
-    line-height: $navigation-height *.75;
+    //background: $navigation-background;
+    ////////////////////////////////line-height: $navigation-height *.75;
     overflow: hidden;
     padding: 0 1em;
     text-align: center;
     width: 100%;
     z-index: 9999;
-    display: inline-block;      
-    width: auto;  
-    @include media ($xl-up) { 
-      line-height: $navigation-height;
-    } 
+    display: inline-block;
+    width: auto;
+    @include media ($xl-up) {
+      ////////////////////////////////line-height: $navigation-height;
+    }
 
     a {
       color: $navigation-color;
-      text-decoration: none;      
+      text-decoration: none;
       &:focus,
       &:hover {
         color: $navigation-color-hover;
       }
+      &.active-nav-item  {
+        //border-bottom: 2px solid lighten($navigation-background, 13%);//$color-2;//$navigation-active-link-color;
+        color: lighten($color-2, 1%);
+        padding-bottom: 0px;
+      }
     }
   }
 
-  .active-nav-item a {
-    border-bottom: 1px solid $navigation-active-link-color;
-    padding-bottom: 3px;
-  }
+
 
   // Sub menus
 
@@ -322,18 +321,22 @@ header.navigation {
     }
   }
 }
-
+body.home header.navigation {
+  margin-bottom: 0;
+}
 
 /////////////////
-body.home header.navigation {
+@if $include-sidebar-left != false {
+  body.home header.navigation {
 
-  @include media ($lg-up) { 
-    margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
-    width: 100% - $sidebar-width;
-  }
+    @include media ($lg-up) {
+      margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+      width: 100% - $sidebar-width;
+    }
 
-  @include media ($xl-up) { //horizontal-bar-mode
-    margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
-    width: 100% - $sidebar-width;
+    @include media ($xl-up) { //horizontal-bar-mode
+      margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+      width: 100% - $sidebar-width;
+    }
   }
 }

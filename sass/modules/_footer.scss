@@ -27,18 +27,19 @@ html, body {
 }
 
 .footer-2 {
-  
+
   background: $footer-background;
   padding: $base-spacing $base-spacing ($base-spacing * 2) $base-spacing;
   margin-bottom: -.375em;
   width: 100%;
   display: inline-block;
+  border-bottom: 6px solid darken($footer-background, 15%);
 
   ul {
     line-height: 1.5em;
     margin: 0 0 1em 0;
     padding: 0;
-    
+
     @include media($lg) {
       float: left;
       line-height: 1.8em;

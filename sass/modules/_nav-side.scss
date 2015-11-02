@@ -11,22 +11,22 @@
 
 
 
-@if $include-sidebar-left != false { 
+@if $include-sidebar-left != false {
   body.home .content, body.home .footer-2 {
     //padding: 4em;
     //margin-top: $navigation-height;
     min-width: 0;
-    margin-left: 0; //mobile first, nav stays on top    
+    margin-left: 0; //mobile first, nav stays on top
     @include media($sidebar-left-breakpoint) {
   ///      min-width: $b-vp; // TODO: change this to more stable variable
       margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
       width: 100% - $sidebar-width;
-    }    
+    }
   }
   body.home .sidebar-left {
 
 
-  $sidebar-background-top: #000; 
+  $sidebar-background-top: #000;
   $sidebar-background-bottom: #fff;
   $sidebar-color: white;
   $gradient-angle: 90deg;
@@ -55,7 +55,7 @@
     //margin-top: $sidebar-margin-top;
     color: $sidebar-color;
     //display: none;
-     
+
     @include media($breakpoint) {
       width: $sidebar-width; // larger screens show the sidebar at this width
       height: 100%;
@@ -85,7 +85,7 @@
   }
 }
 .sidebar-right {
-  
+
   clear: both;
     overflow: hidden;
     z-index: 1000;
@@ -99,7 +99,7 @@
 
     @include media($sidebar-right-breakpoint) {
       padding: 2em 3em;
-     
+
     }
     @include media($sidebar-left-breakpoint, $sidebar-right-breakpoint) {
 

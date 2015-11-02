@@ -27,17 +27,6 @@ venues:
   - In-store
   - "Coolidge Corner Theater"
   - Other
-navigation_global:
-  - text: Hours/Location
-    url: /hours-location/
-  - text: About Us
-    url: /about-us/
-  - text: Events
-    url: /events/
-  - text: Programs
-    url: /programs/
-  - text: GiftSmith
-    url: /giftsmith/
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:

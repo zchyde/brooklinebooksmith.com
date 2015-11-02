@@ -1,8 +1,11 @@
 // Typography
 $lato:'Lato';
 $base-font-family: $lato, $helvetica;
+//$heading-font-family: 'Chronica W03 Book',$base-font-family;
 $heading-font-family: $base-font-family;
-$brand-font-family: 'URW Typewriter Light', $heading-font-family;
+$brand-font-family: 'Chronica W03 Black', $heading-font-family;
+
+
 
 
 // Font Sizes
@@ -22,11 +25,20 @@ $base-z-index: 0;
 // Colors
 $black: #111;
 $blue: #3C5A79;
+$blue-dark: #2F353E;
 $blue-light: #4C8DB6;
+$blue-lighter:#00557F;
 $dark-gray: #333;
 $medium-gray: #555;
 $light-gray: #ddd;
-$brand-background-color:$blue-light;
+$brand-background-color:$blue;
+$brown-dark:#38311C;
+$color-1:#47817A;
+$color-2:#DEC26E;
+$color-3:#E76B11;
+$color-4:#981C41;
+$color-5:#FAA73F;
+$color-6:#FFCC62;
 
 
 // Font Colors
@@ -57,9 +69,9 @@ $breakpoint: $lg-up;
 $hero-color: white;
 
 $navigation-padding: 1em;
-$navigation-background: $brand-background-color;//$dark-gray;
-$navigation-color: transparentize(white, 0.3);
-$navigation-color-hover: white;
+$navigation-background:white;//$blue-lighter;//$blue-dark;//$brand-background-color;//$dark-gray;
+$navigation-color:$blue-lighter;//transparentize(white, 0.3);
+$navigation-color-hover: $blue-lighter;//white;
 $navigation-height: 112px;
 $navigation-nav-button-background: $action-color;
 $navigation-nav-button-background-hover: lighten($navigation-background, 10%);
@@ -75,7 +87,7 @@ $horizontal-bar-mode: $breakpoint;
 
 
 $include-sidebar-right: false;
-$include-sidebar-left: true;
+$include-sidebar-left: false;
 //These must be in % values to calculate widths
 $sidebar-width-home: 40.5%;
 $sidebar-width: 14%;
@@ -94,8 +106,8 @@ $sidebar-padding-bottom:1em;//$navigation-height + 2em;// $centered-navigation-h
 
 
 
-// NAV-MOBILE
-$sliding-panel-background: $black;//lighten($sliding-panel-border-color, 5%);
+
+$sliding-panel-background: $blue-dark;//lighten($sliding-panel-border-color, 5%);
 $sliding-panel-border-color: darken($sliding-panel-background, 3%);
 $sliding-panel-color: #ddd;
 $sliding-panel-border: 1px solid $sliding-panel-border-color;
@@ -103,7 +115,6 @@ $sliding-panel-background-hover: lighten($sliding-panel-background, 10%);
 $sliding-panel-color-hover: #fff;
 $sliding-panel-background-focus: lighten($sliding-panel-background, 5%);
 
-// FOOTER
 
 $footer-background: $blue;//desaturate(darken($action-color, 20%), 30%);
 $footer-color: white;
@@ -111,20 +122,12 @@ $footer-link-color: transparentize($footer-color, 0.6);
 $footer-disclaimer-color: transparentize($footer-color, 0.6);
 
 
-// FLEX BOXES
-
-$flex-box-border-color: $light-gray;
-$flex-box-border: 1px solid $flex-box-border-color;
-$flex-box-background: lighten($light-gray, 10%);
-$flex-box-gutter: 0.4em;
-$flex-box-width: 18em;
-$flex-box-color: transparentize($base-font-color, 0.3);
-$flex-box-top-colors: 
-  tomato, 
-  #72BFBF, 
-  #92B1E3, 
-  #E3D743,
-  #CCC,
-  #F6C05C;
-
-
+// CARDS
+$card-border-color: $base-border-color;
+$card-border: 1px solid $card-border-color;
+$card-background: white;//lighten($card-border-color, 10%);
+$card-header-background: $card-background;
+$card-margin: 1em;
+$card-image-hover-opacity: 0.7;
+$card-image-hover-color: #F8F2B4;
+$card-footer-height: 3em;
