@@ -1,0 +1,9 @@
+{% assign news = site.posts %}
+<div class="cards">
+  {% for object in news %}
+    <a href="" class="card">
+
+      {{ object.title }}
+    </a>
+  {% endfor %}
+</div>

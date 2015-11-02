@@ -1,63 +1,17 @@
 ---
 layout: default
 ---
-
-<div class="row">
-    <button>Author Readings</button>  <button>Book Clubs</button>  <button>Kids</button>  <button>Full List</button>
-  </div>
-  <div class="flex-boxes cardsTK">
+<main class="layout-article row">
+  <article class="">
+    {% include news-blocks.html %}
 
 
-{% assign todays_date = site.time | date: "%Y%m%d" %}
+  </article>
+  <aside>
+    <!-- accordian -->
+  </aside>
 
-{% comment %}
-  <h4>date: {{ todays_date }}</h4>
-{% endcomment %}
-
-{% for post in site.events group_by: 'date' %}
-
-
-
-YAY
-  {% for event in post.events %}
-
-  {% if event.title %}
-    {% capture event_title %}{{ event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
-  {% endif %}
-
-
-  {% capture post_dates %}{{ event.date}} 00:00:00 -0500{% endcapture %}
-
-    {% assign post_date = post_dates | date: "%Y%m%d" %}
-
-
-    {% if post_date > todays_date %}
-
-    <div class="flex-box">
-      <h5><time class="dt-start dtstart">{{ post_dates | date: "%B %-d, %Y" }}</time></h5>
-      {{ post_dates | date: "%r %Z" }}
-      {% include events-formatting.html %}
-
-      </div>
-
-    {% endif %}
-{% endfor %}
-
-{% endfor %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-</div>
+<form action="/search-results/" class="search-form" method="get" data-search-index="false">
+<input type="text" placeholder="search" id="tipue_search_input" name="q">
+</form>
+</main>
