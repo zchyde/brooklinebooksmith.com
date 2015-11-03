@@ -1,7 +1,7 @@
 ---
 title: Storytime
 start_at: 2015-11-29T10:30:00.-05:00
-Program: bash
+Program: kids
 book_isbn: ''
 Genre: ''
 Venue: In-store
