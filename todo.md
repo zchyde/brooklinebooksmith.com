@@ -1,0 +1,1 @@
+- [ ] Date formatting defaults to UTC in Cloudcannon. So, I use UTC in my config. Not a big deal - makes all dates the same, but current time, is then five hours off. What would happen if I was doing dates for multiple time zones?

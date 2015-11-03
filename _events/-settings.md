@@ -1,7 +1,7 @@
 ---
 title: ''
 published: false
-start_at: 2015-12-02T19:00:00.000Z
+start_at:
 program: '-settings'
 venue: '-'
 book_category: '-settings'

@@ -1,7 +1,7 @@
 ---
 title: "**Bill Nye**, *Unstoppable: Harnessing Science to Change the World*"
 published: true
-start_at: 2015-11-16T18:00:00.-05:00
+start_at: 2015-11-16T18:00:00.000Z
 Venue: In-store
 book_category: science
 book_isbn:
