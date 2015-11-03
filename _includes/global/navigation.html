@@ -13,7 +13,7 @@
       </div>
       <nav id="js-navigation-menu" role="navigation">
         <ul class="navigation-menu showTK">
-          {% for link in site.navigation_global %}
+          {% for link in site.data.navigation %}
             {% include global/navigation-links.html %}
           {% endfor %}
         </ul>
@@ -23,7 +23,7 @@
         <div class="search-bar">
           {% include "templates/partials/form-search.html" %}
         </div>
-      </div> 
+      </div>
       {% endcomment %}
     </div>
   </header>

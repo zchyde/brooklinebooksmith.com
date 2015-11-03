@@ -2,9 +2,8 @@
 title: '**Fanny Howe, Richard Hoffman, Lloyd Schwartz, Ha Jin and the Terezín Music Foundation  Liberation**: New Works on Freedom from Internationally Renowned Poets'
 published: true
 start_at: 2015-11-17T00:00:00.000Z
-program: '-settings'
 venue: Coolidge Corner Theater
-book_category: '-settings'
+book_category: 'poetrymusic'
 book_isbn:
   - '9780807000274'
 ---

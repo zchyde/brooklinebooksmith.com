@@ -2,8 +2,10 @@
 <body  id="container" class="{{ page.style }}{% if page.class %} {{ page.class }}{% endif %}">
   <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
   {% include global/navigation.html %}
-  <div id="start-of-content" class="accessibility-aid"></div>
+
     <section id="main" class="content">
+      
+      <div id="start-of-content" class="accessibility-aid"></div>
       {{content}}
     </section>
     {% include global/footer.html %}

@@ -1,5 +1,5 @@
 ---
-title: "Storytime"
+title: "**Storytime**"
 start_at: 2015-11-21T10:30:00.000Z
 program: kids
 book_isbn:

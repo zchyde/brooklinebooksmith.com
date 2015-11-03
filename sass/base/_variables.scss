@@ -69,9 +69,9 @@ $breakpoint: $lg-up;
 $hero-color: white;
 
 $navigation-padding: 1em;
-$navigation-background:white;//$blue-lighter;//$blue-dark;//$brand-background-color;//$dark-gray;
-$navigation-color:$blue-lighter;//transparentize(white, 0.3);
-$navigation-color-hover: $blue-lighter;//white;
+$navigation-background:$blue-lighter;//$blue-dark;//$brand-background-color;//$dark-gray;
+$navigation-color:white;//$blue-lighter;//transparentize(white, 0.3);
+$navigation-color-hover:white;// $blue-lighter;//white;
 $navigation-height: 112px;
 $navigation-nav-button-background: $action-color;
 $navigation-nav-button-background-hover: lighten($navigation-background, 10%);

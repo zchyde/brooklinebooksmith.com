@@ -1122,6 +1122,12 @@ http://flickity.metafizzy.co
     .card:active .card-header, a.card:active .card-header {
       background-color: white; }
 
+.event_title {
+  font-size: 1.125em; }
+
+.date {
+  color: #4C8DB6; }
+
 .content {
   min-height: 100%;
   height: auto !important;
@@ -1555,12 +1561,11 @@ html, body {
       display: none; } }
 
 header.navigation {
-  background-color: white;
+  background-color: #00557F;
   width: 100%;
   z-index: 999;
   font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  background-repeat: repeat;
-  margin-bottom: 3em; }
+  background-repeat: repeat; }
   header.navigation .navigation-wrapper {
     max-width: 75em;
     margin-left: auto;
@@ -1590,12 +1595,12 @@ header.navigation {
       display: inline-block;
       padding: 1.5em 0 0 1.5em; }
       header.navigation .brand h1 a {
-        color: #00557F; }
+        color: white; }
   header.navigation .location-data, header.navigation a.location-data {
     font-size: .875em;
     text-align: left;
     display: block;
-    color: #00557F;
+    color: white;
     padding: 0 0 0 2.625em; }
   @media screen and (min-width: 48em) {
     header.navigation .location-data {
@@ -1654,10 +1659,10 @@ header.navigation {
     display: inline-block;
     width: auto; }
     header.navigation ul li.nav-link a {
-      color: #00557F;
+      color: white;
       text-decoration: none; }
       header.navigation ul li.nav-link a:focus, header.navigation ul li.nav-link a:hover {
-        color: #00557F; }
+        color: white; }
       header.navigation ul li.nav-link a.active-nav-item {
         color: #dfc472;
         padding-bottom: 0px; }
@@ -1679,7 +1684,7 @@ header.navigation {
       bottom: auto;
       left: auto;
       content: '\25BE';
-      color: #00557F; }
+      color: white; }
   header.navigation li.more {
     overflow: visible;
     padding-right: 0; }
@@ -1729,13 +1734,13 @@ header.navigation {
             border-bottom-right-radius: 3px;
             padding-bottom: 0.7em; } }
       header.navigation ul.submenu li a {
-        background-color: #f7f7f7;
+        background-color: #004b70;
         display: inline-block;
         text-align: right;
         width: 100%; }
         @media screen and (min-width: 48em) {
           header.navigation ul.submenu li a {
-            background-color: white;
+            background-color: #00557F;
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
@@ -1759,10 +1764,10 @@ header.navigation {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
-        background: white;
+        background: #006699;
         border-radius: 6px;
-        border: 1px solid #f2f2f2;
-        color: #00557F;
+        border: 1px solid #004466;
+        color: white;
         font-size: 0.9em;
         font-style: italic;
         margin: 0;
@@ -1772,7 +1777,7 @@ header.navigation {
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
       header.navigation .search-bar form button[type=submit] {
-        background: white;
+        background: #006699;
         border: none;
         bottom: 0.3em;
         left: auto;

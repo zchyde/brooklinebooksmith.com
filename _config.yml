@@ -69,3 +69,8 @@ defaults:
       type: landing_pages
     values:
       layout: landing_page
+  - scope:
+      path: ''
+      type: programs
+    values:
+      layout: page

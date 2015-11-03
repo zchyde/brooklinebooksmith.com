@@ -2,26 +2,40 @@
 layout: default
 ---
 <div class="has-layout layout-article">
-  <article class="hentry">
+    <article class="hentry">
 
-      {% comment %}
-        {% if entry.featuredImage %}
-          {% include "partials/_hero.html" %}
+        {% if page.featured_image_path %}
+          {% include hero.html %}
         {% endif %}
-      {% endcomment %}
+
+          <header>
+            <h2 class="entry-title">
+
+                {{ page.title }}
+
+            </h2>
+
+          </header>
+
+        <div class="entry-content prose">
+
+            {% if page.lede %}
+              <div class="lede">
+                {{ page.lede |markdownify }}
+              </div>
+            {% endif %}
+            {{ page.content |safe }}
 
 
 
+          {% comment %} {% include "templates/partials/image-attribution.html" %} {% endcomment %}
+        </div>
 
-      <header>
-        <h2 class="entry-title">
-          {{ page.title }}
-        </h2>
-      </header>
-      <div class="entry-content prose editable"><p>yff</p><h2>&nbsp;</h2><p>978999999 2015-12</p><p>this is a nice one.</p><h2>&nbsp;</h2><p>97866633x3 2015-10 <img style="height:150px;" src="/uploads/51zhvwqbckl.jpg" /></p><p>This one is a nut case, believe me.</p><h2>&nbsp;</h2><p>98777777777 feb <img style="height:150px;" src="/uploads/unnamed.jpg" /></p><p>this one is tough. There&rsquo;s &ldquo;ENOUGH&rdquo; for everyone, but nothing for anyone else, no sir, not even for yo yo MA: and that&rsquo;s no joke.</p><p>specials specials</p></div>
     </article>
-    <aside>
-      {{ content }}
+    <aside class="page">
+      {% if page.aside %}
+        {{ page.aside |markdownify }}
+      {% endif %}
     </aside>
 
       <div class="row">
@@ -29,6 +43,3 @@ layout: default
       </div>
 
   </div>
-  {% comment %}
-    {% include "templates/partials/prev-next.html" %}
-  {% endcomment %}

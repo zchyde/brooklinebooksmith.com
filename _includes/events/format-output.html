@@ -1,11 +1,42 @@
+{% capture start_at %}
+<!-- Whitespace added for readability -->
+{% assign d = event.start_at | date: "%-d" %}
+{% assign m = event.start_at | date: "%B" %}
+{% case m %}
+  {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+  {% when 'September' %}Sept.
+  {% else %}{{ event.start_at | date: "%b" }}.
+  {% endcase %}
+{% case d %}
+  {% when '1' or '21' or '31' %}{{ d }}st
+  {% when '2' or '22' %}{{ d }}nd
+  {% when '3' or '23' %}{{ d }}rd
+  {% else %}{{ d }}th
+  {% endcase %} {{ event.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
+{% endcapture %}
+{% assign event_title = event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+
 {% if include.format == 'long' %}
-<h3>LONG yo</h3>
-
-{{ event.start_at | date: "%B %d, %Y %r %Z" }}<br />{{ event.title }}<hr />
-
+  <h5>{{start_at}}</h5>
+  {{ event_title }}
+  <hr />
 {% else %}
-<h2>SHOrtdude</h2>
-{{ site.time | date: "%B %d, %Y %r %Z" }} <br />
-{{ event.start_at | date: "%B %d, %Y %r %Z" }}<br />{{ event.title }}<hr />
+  <li>
+    <small class="date">{{start_at}}</small><br />
+    <span class="event_title">
+      {{ event_title }}
+    </span>
+  </li>
+  {% comment %}
+    {% if event.program %}
+      {% capture the_program %}/programs/{{ event.program }}{% endcapture %}
+      {% assign programs = site.programs | where: "id", the_program  %}
+      {% for object in programs %}
+        <br /><strong><a href="{{ object.url }}">{{object.title}}</a></strong><br />
+      {% endfor %}
+    {% endif %}
+  {% endcomment %}
 
+
+  <hr />
 {% endif %}

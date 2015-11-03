@@ -1,3 +1,3 @@
 <li class="nav-link">
-  <a href="{{site.baseurl}}{{link.url}}" class="{% if link.url contains activePage or page.url contains link.url %} active{% elsif link.url.size == nil and page.url == "/index.html" %} active{% endif %}">{{ link.text }}</a>
+  <a href="{{site.baseurl}}{{link.link}}" class="{% if link.link contains activePage or page.url contains link.link %} active{% elsif link.link.size == nil and page.url == "/index.html" %} active{% endif %}">{{ link.name }}</a>
 </li>
