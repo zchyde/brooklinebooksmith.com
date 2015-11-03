@@ -2,7 +2,7 @@
   <li class="tab-header-and-content">
     <a href="javascript:void(0)" class="is-active tab-link"> Events</a>
     <div class="tab-content">
-      {% include events/list-short-future.html %}
+      {% include events/list-future.html format_output="short" %}
       <div class="text-align-right strong">
         <a href="/events/">See All Events</a>
       </div>
@@ -11,9 +11,7 @@
   <li class="tab-header-and-content">
     <a href="javascript:void(0)" class="tab-link">For Kids</a>
     <div class="tab-content">
-        {% comment %}
-        include "templates/partials/events-upcoming-kids.html"
-        {% endcomment %}
+        {% include events/list-future.html format_output="long" program="writers-and-readers" %}
       <div class="text-align-right strong">
         <a href="/events/">See All Events</a>
       </div>

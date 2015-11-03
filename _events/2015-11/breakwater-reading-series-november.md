@@ -1,7 +1,7 @@
 ---
 title: Breakwater Reading Series
 start_at: 2015-11-20T19:00:00.000Z
-Program: bash
+program: breakwater-reading-series
 book_isbn: ''
 Genre: ''
 Venue: In-store

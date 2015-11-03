@@ -1,5 +1,5 @@
 ---
-title: 'Colleen Hoover, November 9'
+title: '**Colleen Hoover**, *November 9*'
 start_at: 2015-11-09T17:00:00.000Z
 book_isbn: 9781501110344
 Genre: 'fiction'

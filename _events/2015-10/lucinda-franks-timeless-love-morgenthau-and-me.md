@@ -1,7 +1,7 @@
 ---
 title: 'Lucinda Franks *Timeless: Love, Morgenthau, and Me*'
 start_at: 2015-10-06T19:00:00.000Z
-Program: bash
+program: bash
 book_isbn: 9781598534511
 Genre: ''
 Venue: In-store

@@ -1,6 +1,5 @@
 ---
-title: "Claire Messud, Askold Melnyczuk, Alice Rothschild and Adam Stumacher
-Extraordinary Rendition"
+title: "**Claire Messud, Askold Melnyczuk, Alice Rothschild and Adam Stumacher** *Extraordinary Rendition*"
 published: true
 start_at: 2015-11-16T19:00:00.000Z
 venue: In-store

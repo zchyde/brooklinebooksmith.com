@@ -1,0 +1,11 @@
+{% if include.format == 'long' %}
+<h3>LONG yo</h3>
+
+{{ event.start_at | date: "%B %d, %Y %r %Z" }}<br />{{ event.title }}<hr />
+
+{% else %}
+<h2>SHOrtdude</h2>
+{{ site.time | date: "%B %d, %Y %r %Z" }} <br />
+{{ event.start_at | date: "%B %d, %Y %r %Z" }}<br />{{ event.title }}<hr />
+
+{% endif %}

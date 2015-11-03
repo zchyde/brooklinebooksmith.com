@@ -1,7 +1,7 @@
 ---
 title: Women’s National Book Association Panel
 start_at: 2015-10-27T19:00:00.000Z
-Program: bash
+program: bash
 book_isbn: ''
 Genre: ''
 Venue: In-store

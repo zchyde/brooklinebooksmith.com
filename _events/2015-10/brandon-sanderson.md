@@ -1,7 +1,7 @@
 ---
 F: Brandon Sanderson
 start_at: 2015-10-14T18:00:00.000Z
-Program: bash
+program: bash
 book_isbn: 9780765378552
 Genre: ''
 Venue: Coolidge Corner Theater
