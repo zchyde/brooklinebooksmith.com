@@ -7,9 +7,9 @@
     	{% assign event_date = event.start_at | date: "%Y%m%d" %}
 
 {% if event_date >= current_date %}
-
-      today: {{ current_date }} - event: {{ event_date }} - {{ event.start_at | date: "%B %d, %Y" }} - {{ event.title }}<hr />
-
+  {{ site.time | date: "%B %d, %Y %r %Z" }} <br />
+      {{ event.start_at | date: "%B %d, %Y %r %Z" }}<br />{{ event.title }}<hr />
+<hr />
       {% comment %} {% include events/format-short.html %} {% endcomment %}
       {% endif %}
     {% endfor %}

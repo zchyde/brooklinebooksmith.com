@@ -1,6 +1,6 @@
 ---
 title: '**Leonard Gardner**, *Fat City* appearing in conversation with Steve Yarbrough'
-start_at: 2015-11-02T19:00:00.000Z
+start_at: 2015-11-02T19:00:00.-05:00
 Program: bash
 book_isbn: 9781590178928
 Genre: ''

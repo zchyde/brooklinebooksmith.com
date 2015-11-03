@@ -1,6 +1,6 @@
 ---
 title: 'Peter Golden - *Wherever There is Light*, Jabari Asim - *Only the Strong*, Randy Susan Meyers - *Accidents of Marriage*'
-start_at: 2015-11-04T19:00:00.000Z
+start_at: 2015-11-04T19:00:00.-05:00
 Program: bash
 book_isbn:
   - 9781476705583

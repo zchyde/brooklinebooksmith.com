@@ -1,6 +1,6 @@
 ---
 title: 'Elvis Costello, *Unfaithful Music &amp; Disappearing Ink*'
-start_at: 2015-10-17T19:00:00.000Z
+start_at: 2015-10-17T19:00:00.-05:00
 Program: bash
 book_isbn: 9780399167256
 Genre: ''

@@ -1,6 +1,6 @@
 ---
 title: Small Press Book Club Meeting
-start_at: 2015-11-19T19:00:00.000Z
+start_at: 2015-11-19T19:00:00.-05:00
 Program: bash
 book_isbn: ''
 Genre: ''

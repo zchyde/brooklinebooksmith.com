@@ -1,6 +1,7 @@
 url: http://staging-bbs.sonnetmedia.com
 sitename: brookline booksmith
 description: A base Jekyll theme
+timezone: America/New_York
 include:
   - _pages
 exclude:
