@@ -3,7 +3,7 @@ title: 'Tom Levenson *The Hunt for Vulcan...And How Albert Einstein Destroyed a 
 start_at: 2015-11-12T19:00:00.-05:00
 Program: bash
 book_isbn: 9780812998986
-Genre: ''
+Genre: 'science'
 Venue: In-store
 ---
 
