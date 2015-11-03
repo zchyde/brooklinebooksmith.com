@@ -1,9 +1,25 @@
-$(document).ready(function(){
-  $('.sliding-panel-button,.sliding-panel-fade-screen,.sliding-panel-close, .button__map-toggle').on('click touchstart',function (e) {
-    $('.sliding-panel-content,.sliding-panel-fade-screen').toggleClass('is-visible');
-    e.preventDefault();
-  });
+$('.sliding-panel-button,.sliding-panel-fade-screen,.sliding-panel-close, .button__map-toggle').on('click touchstart',function (e) {
+  $('.sliding-panel-content,.sliding-panel-fade-screen').toggleClass('is-visible');
+  e.preventDefault();
 });
+
+$('.accordion-tabs').each(function(index) {
+  $(this).children('li').first().children('a').addClass('is-active').next().addClass('is-open').show();
+});
+$('.accordion-tabs').on('click', 'li > a.tab-link', function(event) {
+  if (!$(this).hasClass('is-active')) {
+    event.preventDefault();
+    var accordionTabs = $(this).closest('.accordion-tabs');
+    accordionTabs.find('.is-open').removeClass('is-open').hide();
+
+    $(this).next().toggleClass('is-open').toggle();
+    accordionTabs.find('.is-active').removeClass('is-active');
+    $(this).addClass('is-active');
+  } else {
+    event.preventDefault();
+  }
+});
+
     var options = {
         valueNames: [ 'name', 'author','slug' , 'description', 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
         listClass: 'list-filter',

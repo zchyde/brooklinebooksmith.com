@@ -1,0 +1,35 @@
+{% assign events = site.events %}
+  <ul>
+    {% for event in site.events | sort: 'start_at' %}
+
+
+      {% assign current_date = site.time | date: "%Y%m%d" %}
+    	{% assign event_date = event.start_at | date: "%Y%m%d" %}
+
+{% if event_date >= current_date %}
+
+      today: {{ current_date }} - event: {{ event_date }} - {{ event.start_at | date: "%B %d, %Y" }} - {{ event.title }}<hr />
+
+      {% comment %} {% include events/format-short.html %} {% endcomment %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+
+{% comment %}
+
+..
+{% for post in site.data.events reversed | group_by: 'date' %}
+	{% if post.title %}
+		{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+	{% endif %}
+	{% assign todays_date = site.time | date: "%Y%m%d" %}
+	{% assign post_date = post.date | date: "%Y%m%d" %}
+		{% if post_date > todays_date %}
+			<h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
+			{% include snippets/events-formatting.html %}
+		{% endif %}
+
+
+{% endfor %}
+ {% endcomment %}

@@ -4,14 +4,8 @@ layout: default
 <main class="layout-article row">
   <article class="">
     {% include news-blocks.html %}
-
-
   </article>
   <aside>
-    <!-- accordian -->
+    {% include events/accordion.html %}
   </aside>
-
-<form action="/search-results/" class="search-form" method="get" data-search-index="false">
-<input type="text" placeholder="search" id="tipue_search_input" name="q">
-</form>
 </main>

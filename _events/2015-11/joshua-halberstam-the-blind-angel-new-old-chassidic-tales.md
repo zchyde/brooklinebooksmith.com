@@ -1,6 +1,6 @@
 ---
 title: 'Joshua Halberstam, *The Blind Angel: New Old Chassidic Tales*'
-date: 2015-11-23T19:00:00.000Z
+start_at: 2015-11-23T19:00:00.000Z
 Program: bash
 book_isbn: 9781592643592
 Genre: ''
