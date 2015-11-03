@@ -1,9 +1,28 @@
 {% assign news = site.posts %}
 <div class="cards">
   {% for object in news %}
-    <a href="" class="card">
+    <a href="{{ object.url }}" class="card">
 
-      {{ object.title }}
+      <div class="card-image"{% if object.featured_image_path %} style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"{% endif %}>
+
+        {% if !object.featured_image_path %}
+        <h5 class="brand">  {{ object.name }}</h5>
+      {% endif %}
+      </div>
+      {% if object.featured_image_path %}
+        <div class="card-header">
+          <h6 class="brand" style="margin:0;">{{ object.name }}</h6>
+        </div>
+        {% endif %}
+      <div class="card-copy">
+        <p>
+          {{ object.excerpt |strip_html | truncatewords: 30, '…' }}
+        </p>
+      </div>
     </a>
   {% endfor %}
+
+
+
 </div>
+

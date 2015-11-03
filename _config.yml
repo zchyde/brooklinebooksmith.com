@@ -55,6 +55,11 @@ defaults:
       layout: page
   - scope:
       path: ''
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ''
       type: events
     values:
       layout: page
