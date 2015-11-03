@@ -7,9 +7,9 @@
   <hr />
 {% else %}
   <div class="hero gradient">
-    <div class="hero-inner">
+    <div class="hero-inner" {% if page.featured_image_path %}style="background-image:url('{{ page.featured_image_path }}');height:440px;background-size:cover;"{% endif %}>
       <div class="hero-copy">
-        <!-- <h1>{{ item.name }}</h1> -->
+        {% comment %} <h1>{{ page.title }}</h1> {% endcomment %}
 
       </div>
     </div>
