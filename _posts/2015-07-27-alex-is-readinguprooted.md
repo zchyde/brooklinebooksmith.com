@@ -1,7 +1,7 @@
 ---
 title: Alex Is Reading...UPROOTED
 date: 2015-07-27T20:30:00.000Z
-featured_image_path: "/webhook-uploads/1444588552194_1441983459136_9780804179034_custom-19985fb9c9f1239e42fcfc588426613e6c0d5f58-s400-c85.jpg
+featured_image_path: "/uploads/1444588552194_1441983459136_9780804179034_custom-19985fb9c9f1239e42fcfc588426613e6c0d5f58-s400-c85.jpg
 "
 ---
 As soon as it came out, I heard about a dozen ravingly positive reviews of Naomi Novik's new adult fantasy novel [_Uprooted_](http://www.brooklinebooksmith-shop.com/book/9780804179034) (including Clarissa's--check out her shelf talker in Sci Fi). I finally pushed aside the vast piles of upcoming kids' books I absolutely have to read, and gave Novik's departure from [Napoleonic dragon battles](http://www.brooklinebooksmith-shop.com/book/9780345481283) some precious reading time. Verdict before plot: if the first fifty pages don't grab you, KEEP GOING. It will be reading time well-spent. From that moment (really, page fifty, I mean it quite literally) 'til the end of the book, _Uprooted_ is a tense, fast-pasted, highly creative and sometimes (satisfyingly) gruesome fight-for-your-life against the raging, dangerous and extraordinary power at the heart of a forbidding wood.

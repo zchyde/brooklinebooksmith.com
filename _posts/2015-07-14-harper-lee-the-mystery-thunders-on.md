@@ -1,13 +1,13 @@
 ---
 title: "Harper Lee: The Mystery Thunders On"
 date: 2015-07-14T20:27:00.000Z
-featured_image_path: /webhook-uploads/1444598841339_cover-the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg
+featured_image_path: /uploads/1444598841339_cover-the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg
 ---
 _Go Set a Watchman_ drama is all over my various Internet feeds today. If nothing else it brings up questions about what constitutes a draft, a true draft, and what is an entirely new piece altogether. I probably would have let sleeping dogs lie, but our culture has an obsession with reboots and sequels and prequels. If we can resurrect something popular from the grave, we’re going to do it, no matter what. This is not to suggest that _Watchman_’s story is similarly disheartening to, say, the threatened _Point Break_ remake, but there are similar themes at work here. There is no bad press in a situation like this; whether they like it or hate it, people will buy it. Some will buy it and never read it, fascinated by the story behind the story.
 
 Ultimately the questions surrounding this book are things that only Harper Lee can answer, and she either won’t or can’t. Last May we had an event with Marja Mills, a Chicago Tribune journalist, who lived very closely with the Lee sisters for two years in 2001\. Harper and her sister Alice welcomed Marja into their home and neighborhood, and for the next 18 months, Mills extracted a tremendous amount of information about the private lives of the Lee sisters and published it in a book _The Mockingbird Next Door: Life With Harper Lee_. Mills is a warm and personable woman, who had many sweet anecdotes about the pair of Alabama born sisters. Because Harper was and is so private and eschewed the public eye so often, it is difficult to determine her true wishes for _Go Set a Watchman_. There is, naturally, controversy surrounding the legitimacy of the memoir, but one would have to assume that Marja Mills captured a modicum of truth in her work on the Lee sisters. I would urge anyone who is even the least bit curious about Harper Lee to read Mills’ book. It is in every way a book crafted with respect and care, and through its intimacy with its subject, might shed some light on the mystery surrounding this beloved American author.
 
-<figure data-type="image">[![](http://lh3.googleusercontent.com/-PPQwzXbIKur9XAgrD1wf5ksuqtQkaTErOIGXXyrJomOzYsj9f5zNXw5HHCx1lQtcdIp90pjtP-_n0eO5l5CrFEkbATTeK8=s1200)](/webhook-uploads/1441983868462_the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg)</figure>
+<figure data-type="image">[![](http://lh3.googleusercontent.com/-PPQwzXbIKur9XAgrD1wf5ksuqtQkaTErOIGXXyrJomOzYsj9f5zNXw5HHCx1lQtcdIp90pjtP-_n0eO5l5CrFEkbATTeK8=s1200)](/uploads/1441983868462_the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg)</figure>
 
 [Buy "The Mockingbird Next Door: Life with Harper Lee" from Brookline Booksmith](http://www.brooklinebooksmith-shop.com/book/9780143127666)
 
