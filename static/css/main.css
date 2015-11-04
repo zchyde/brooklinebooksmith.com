@@ -896,7 +896,7 @@ http://flickity.metafizzy.co
 /* big buttons, no circle */
 .flickity-prev-next-button {
   display: none; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .flickity-prev-next-button {
       display: block;
       width: 100px;
@@ -1045,7 +1045,7 @@ http://flickity.metafizzy.co
   margin: 1.6em 0;
   position: relative;
   overflow: hidden; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .card, a.card {
       margin: 0 1em 1.6em 1em; } }
   .card .card-image, a.card .card-image {
@@ -1069,7 +1069,7 @@ http://flickity.metafizzy.co
       color: #fff; }
     .card .card-image .smaller, a.card .card-image .smaller {
       font-size: .875rem; }
-      @media screen and (min-width: 48em) {
+      @media screen and (min-width: 56.25em) {
         .card .card-image .smaller, a.card .card-image .smaller {
           font-size: 1.0125rem; } }
     .card .card-image .with_book, a.card .card-image .with_book {
@@ -1206,6 +1206,7 @@ html, body {
         opacity: 1; }
 
 .hero {
+  z-index: 1;
   background: url("http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png"), -webkit-linear-gradient(10deg, #20392B, #000), no-repeat;
   background: url("http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png"), linear-gradient(10deg, #20392B, #000), no-repeat;
   background-color: white;
@@ -1213,7 +1214,6 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
-  height: 270px;
   overflow: hidden; }
   .hero .gallery-cell, .hero .static-banner {
     display: inline-block;
@@ -1363,7 +1363,7 @@ html, body {
     max-width: 100%; }
     .layout-article article:last-child {
       margin-right: 0; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .layout-article aside {
       float: left;
       display: block;
@@ -1394,12 +1394,12 @@ html, body {
       word-break: break-all; }
       .layout-article aside.page a:hover {
         color: #333; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .layout-article article {
       padding-bottom: 4em; } }
   .layout-article header, .layout-article .entry-content {
     padding: 0 2em; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       .layout-article header, .layout-article .entry-content {
         padding: 0; } }
 
@@ -1438,7 +1438,7 @@ html, body {
     width: 100%; }
   .boxes-2-across:last-child {
     margin-right: 0; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .boxes-2-across {
       float: left;
       display: block;
@@ -1473,7 +1473,7 @@ html, body {
         margin-right: 0; }
       .boxes-3-across:nth-child(2n+1) {
         clear: left; } }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .boxes-3-across {
       float: left;
       display: block;
@@ -1558,13 +1558,12 @@ html, body {
   top: 1.25em;
   right: 1em;
   z-index: 1000; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     .sliding-panel-button {
       display: none; } }
 
 header.navigation {
-  background-color: #2F353E;
-  border-bottom: 1px solid #191c21;
+  background-color: transparent;
   min-height: 112px;
   width: 100%;
   z-index: 999; }
@@ -1581,9 +1580,9 @@ header.navigation {
     text-align: left;
     margin: 0;
     font-weight: 400;
-    font-size: 1.375em;
-    line-height: 1.5;
-    padding: 1em 0 .5em .625em; }
+    font-size: 1.25em;
+    line-height: 2;
+    padding: 1em 0 0 .625em; }
     header.navigation .brand h1 a {
       color: white; }
   header.navigation .location-data, header.navigation a.location-data {
@@ -1595,22 +1594,28 @@ header.navigation {
   header.navigation .navigation-tools {
     padding: .75em 0 3.25em .125em;
     float: none; }
-  @media screen and (min-width: 48em) {
+  @media screen and (min-width: 56.25em) {
     header.navigation .location-data {
-      display: none; }
-    header.navigation .brand {
-      display: none;
-      text-align: center;
       float: left;
       display: block;
       margin-right: 2.77778%;
-      width: 100%;
+      width: 31.48148%;
+      padding-left: 2em;
+      display: none; }
+      header.navigation .location-data:last-child {
+        margin-right: 0; }
+    header.navigation .brand {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 31.48148%;
       margin-right: 0; }
       header.navigation .brand:last-child {
         margin-right: 0; }
       header.navigation .brand h1 {
         line-height: 112px;
-        font-size: 1.15em; }
+        font-size: 1.5em;
+        padding: 0 0 0 1em; }
     header.navigation nav {
       display: block;
       text-align: left;
@@ -1618,7 +1623,7 @@ header.navigation {
       float: left;
       display: block;
       margin-right: 2.77778%;
-      width: 100%;
+      width: 65.74074%;
       margin-right: 0;
       font-size: .875em; }
       header.navigation nav:last-child {
@@ -1627,11 +1632,17 @@ header.navigation {
       float: left;
       display: block;
       margin-right: 2.77778%;
-      width: 100%;
+      width: 65.74074%;
       margin-right: 0;
-      height: 60px; }
+      display: block;
+      height: 60px;
+      display: none; }
       header.navigation .navigation-tools:last-child {
-        margin-right: 0; } }
+        margin-right: 0; }
+      header.navigation .navigation-tools::after {
+        clear: both;
+        content: "";
+        display: table; } }
   @media screen and (min-width: 75em) {
     header.navigation .location-data {
       display: none; }
@@ -1668,7 +1679,7 @@ header.navigation {
     float: none;
     min-height: 112px;
     z-index: 9999999; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation nav {
         float: left; } }
   header.navigation ul.navigation-menu {
@@ -1681,7 +1692,7 @@ header.navigation {
     z-index: 9999; }
     header.navigation ul.navigation-menu.show {
       display: block; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation ul.navigation-menu {
         display: inline;
         margin: 0;
@@ -1695,7 +1706,7 @@ header.navigation {
     text-align: right;
     width: 100%;
     z-index: 9999; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation ul li.nav-link {
         background: transparent;
         display: inline;
@@ -1706,17 +1717,17 @@ header.navigation {
       color: white;
       display: inline-block;
       text-decoration: none; }
-      @media screen and (min-width: 48em) {
+      @media screen and (min-width: 56.25em) {
         header.navigation ul li.nav-link a {
           padding-right: 1em; } }
       header.navigation ul li.nav-link a:focus, header.navigation ul li.nav-link a:hover {
-        color: white; }
+        color: #e6e6e6; }
   header.navigation .active-nav-item a {
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     padding-bottom: 3px; }
   header.navigation li.more.nav-link {
     padding-right: 0; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation li.more.nav-link {
         padding-right: 1em; } }
     header.navigation li.more.nav-link > ul > li:first-child a {
@@ -1741,7 +1752,7 @@ header.navigation {
     header.navigation li.more > a {
       padding-right: 1.6em;
       position: relative; }
-      @media screen and (min-width: 48em) {
+      @media screen and (min-width: 56.25em) {
         header.navigation li.more > a {
           margin-right: 1em; } }
       header.navigation li.more > a:after {
@@ -1752,28 +1763,28 @@ header.navigation {
     header.navigation li.more:focus > .submenu,
     header.navigation li.more:hover > .submenu {
       display: block; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation li.more {
         padding-right: 0.8em;
         position: relative; } }
   header.navigation ul.submenu {
     display: none;
     padding-left: 0; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation ul.submenu {
         left: -1em;
         position: absolute;
         top: 1.5em; } }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation ul.submenu .submenu {
         left: 11.8em;
         top: 0; } }
     header.navigation ul.submenu li {
       display: block;
       padding-right: 0; }
-      @media screen and (min-width: 48em) {
+      @media screen and (min-width: 56.25em) {
         header.navigation ul.submenu li {
-          line-height: 86.15385px; }
+          line-height: 56px; }
           header.navigation ul.submenu li:first-child > a {
             border-top-left-radius: 3px;
             border-top-right-radius: 3px; }
@@ -1786,9 +1797,9 @@ header.navigation {
         display: inline-block;
         text-align: right;
         width: 100%; }
-        @media screen and (min-width: 48em) {
+        @media screen and (min-width: 56.25em) {
           header.navigation ul.submenu li a {
-            background-color: #2F353E;
+            background-color: #454e5b;
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
@@ -1802,16 +1813,18 @@ header.navigation {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
-        background: #3a414d;
+        background: transparent;
         border-radius: 6px;
-        border: 1px solid #24292f;
+        border: none;
         color: white;
         font-size: 0.9em;
         font-style: italic;
         margin: 0;
         padding: 0.5em 0.8em;
         width: 100%; }
-        @media screen and (min-width: 48em) {
+        header.navigation .search-bar form input[type=search]:hover {
+          background: black; }
+        @media screen and (min-width: 56.25em) {
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
       header.navigation .search-bar form button[type=submit] {
@@ -1828,7 +1841,7 @@ header.navigation {
           height: 12px;
           opacity: 0.7;
           padding: 1px; }
-    @media screen and (min-width: 48em) {
+    @media screen and (min-width: 56.25em) {
       header.navigation .search-bar {
         display: inline-block;
         position: relative;
