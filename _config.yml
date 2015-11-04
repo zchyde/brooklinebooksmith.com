@@ -2,6 +2,7 @@ url: http://staging-bbs.sonnetmedia.com
 sitename: brookline booksmith
 description: A base Jekyll theme
 timezone: Etc/Zulu
+address_for_nav: "279 Harvard St. (at Beacon St.) &bull; 617-566-6660"
 include:
   - _pages
 exclude:

@@ -1,3 +1,14 @@
-<li class="nav-link">
-  <a href="{{site.baseurl}}{{link.link}}" class="{% if link.link contains activePage or page.url contains link.link %} active{% elsif link.link.size == nil and page.url == "/index.html" %} active{% endif %}">{{ link.name }}</a>
-</li>
+{% for link in site.data.navigation %}
+  <li class="nav-link">
+    <a href="{{site.baseurl}}{{link.link}}" class="nav-link{% if link.link contains page.url %} active{% endif %}">{{ link.name }}</a>
+  </li>
+{% endfor %}
+  <li class="nav-link more"><a href="javascript:void(0)">More</a>
+    <ul class="submenu">
+      {% for link in site.data.navigation-more %}
+        <li><a href="{{link.link}}">{{ link.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+
+

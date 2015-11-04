@@ -4,10 +4,11 @@ layout: default
 <div class="has-layout layout-article">
     <article class="hentry">
 
-        {% if page.featured_image_path %}
-          {% include hero.html %}
-        {% endif %}
-
+      {% comment %}
+      {% if page.featured_image_path %}
+        {% include hero.html %}
+      {% endif %}
+    {% endcomment %}
           <header>
             <h2 class="entry-title">
 

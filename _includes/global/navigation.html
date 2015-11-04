@@ -1,5 +1,6 @@
 <header class="navigation" role="banner" data-search-index="false">
     <div class="navigation-wrapper">
+
       <div class="brand">
         <h1>
           <a href="/">
@@ -11,19 +12,25 @@
           <span class="tcon-visuallyhiddenTK button__copy">MENU</span>
         </button>
       </div>
+
       <nav id="js-navigation-menu" role="navigation">
         <ul class="navigation-menu showTK">
-          {% for link in site.data.navigation %}
-            {% include global/navigation-links.html %}
-          {% endfor %}
+          {% include global/navigation-links.html %}
         </ul>
       </nav>
-      {% comment %}
-        <div class="navigation-tools">
+
+      <div class="location-data">
+        {{ site.address_for_nav }}
+      </div>
+
+      <div class="navigation-tools">
         <div class="search-bar">
-          {% include "templates/partials/form-search.html" %}
+          {% include form-search.html %}
         </div>
       </div>
-      {% endcomment %}
+
     </div>
   </header>
+
+
+

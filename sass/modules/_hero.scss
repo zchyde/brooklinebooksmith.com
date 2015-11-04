@@ -1,13 +1,13 @@
 .hero {
-  //$hero-background-top: #7F99BE;
-  //$hero-background-bottom: #20392B;
-  //$hero-color: white;
-  //$gradient-angle: 10deg;
+  $hero-background-top: #000;
+  $hero-background-bottom: #20392B;
+  $hero-color: white;
+  $gradient-angle: 10deg;
   //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
   //$hero-image:'https://images.unsplash.com/uploads/1413498852637ad9a7e80/1569fece?q=80&fm=jpg&s=9d83b5a1447b7855ac9973a5ca450a99';
   //$hero-image:'https://storage.googleapis.com/www.brooklinebooksmith.com/webhook-uploads/1442843154579_boy-reading.jpg';
-//  $hero-image: 'http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png';
-//@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+  $hero-image: 'http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png';
+@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
 $gallery-cell-colors:
   $color-1,
   $color-2,

@@ -19,7 +19,6 @@ $('.accordion-tabs').on('click', 'li > a.tab-link', function(event) {
     event.preventDefault();
   }
 });
-
     var options = {
         valueNames: [ 'name', 'author','slug' , 'description', 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
         listClass: 'list-filter',

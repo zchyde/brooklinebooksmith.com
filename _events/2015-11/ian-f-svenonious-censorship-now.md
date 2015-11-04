@@ -1,5 +1,5 @@
 ---
-title: 'Ian F. Svenonious, *Censorship Now!!*'
+title: '**Ian F. Svenonious**, *Censorship Now!!*'
 start_at: 2015-11-08T18:00:00.000Z
 book_isbn: 9781617754098
 Genre: 'essays-humor'
