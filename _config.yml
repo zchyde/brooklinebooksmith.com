@@ -30,6 +30,10 @@ venues:
   - In-store
   - "Coolidge Corner Theater"
   - Other
+fancy-fonts:
+  - ''
+  - 'Fredericka+the+Great'
+  - 'Cabin-sketch'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:

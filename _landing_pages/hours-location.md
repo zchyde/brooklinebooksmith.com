@@ -1,6 +1,5 @@
 ---
 title: Hours/Location
-featured_image_path: image
 aside: "279 Harvard Street   \nBrookline MA 02446-2908   \nTel: 617-566-6660   \nFax: 617-734-9125  \n\nOpen 7 days a week  \nMonday - Thursday 8:30am - 10pm   \nFriday 8:30am - 11pm   \nSaturday 9am - 11pm  \nSunday 9am - 9pm"
 ---
 
