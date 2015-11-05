@@ -7,11 +7,15 @@
   </div>
   <hr />
 {% else %}
-  <div class="hero gradient"{% if page.featured_image_path %} style="background-image:url('{{ page.featured_image_path }}');height:440px;background-size:cover;"{% endif %}>
+  <div class="hero gradient"{% if page.featured_image_pathTK %} style="background-image:url('{{ page.featured_image_path }}');height:440px;background-size:cover;"{% endif %}>
     {% include global/navigation.html %}
     <div class="hero-inner">
       <div class="hero-copy">
-        {% comment %} <h1>{{ page.title }}</h1> {% endcomment %}
+        {% if page.page_heading %}
+          <h1 class="special">
+            {{ page.page_heading }}
+          </h1>
+        {% endif %}
       </div>
     </div>
   </div>

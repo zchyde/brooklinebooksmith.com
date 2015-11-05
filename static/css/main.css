@@ -1564,6 +1564,7 @@ html, body {
 
 header.navigation {
   background-color: transparent;
+  background-color: #2F353E;
   min-height: 112px;
   width: 100%;
   z-index: 999; }
