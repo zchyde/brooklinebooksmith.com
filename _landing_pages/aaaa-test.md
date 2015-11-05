@@ -1,6 +1,6 @@
 ---
 published: true
 permalink: ''
-fancy-font: ''
+fancy-font: Fredericka+the+Great
 ---
 

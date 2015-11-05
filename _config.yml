@@ -21,7 +21,7 @@ permalink: pretty
 production: false
 bust_css_cache: true
 google_analytics_id: UA-xxxx
-typekit_id: 
+typekit_id: saz8dbz
 include_nav-top: true
 include_nav-side-left: true
 include_nav-side-right: false
@@ -31,9 +31,9 @@ venues:
   - "Coolidge Corner Theater"
   - Other
 fancy-fonts:
-  - ''
-  - 'FrederickatheGreat'
-  - 'Cabinsketch'
+  - '-'
+  - 'Fredericka+the+Great'
+  - 'Cabin-sketch'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
