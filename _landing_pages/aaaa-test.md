@@ -1,5 +1,6 @@
 ---
-published: false
-permalink: null
-fancy-font: null
+published: true
+permalink: ''
+fancy-font: Fredericka+the+Great
 ---
+
