@@ -32,8 +32,8 @@ venues:
   - Other
 fancy-fonts:
   - ''
-  - 'Fredericka+the+Great'
-  - 'Cabin-sketch'
+  - 'FrederickatheGreat'
+  - 'Cabinsketch'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
