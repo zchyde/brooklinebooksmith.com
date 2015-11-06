@@ -1,3 +1,3 @@
 ---
-title: "Kidsmith"
+title: Kidsmith
 ---
