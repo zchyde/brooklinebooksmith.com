@@ -1,4 +1,0 @@
----
-title: Essayshumor
-published: false
----
