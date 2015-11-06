@@ -1,4 +1,4 @@
 ---
+title: Science
 published: false
-permalink:
 ---
