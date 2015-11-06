@@ -1,3 +1,46 @@
 ---
 layout: default
 ---
+<div class="has-layout layout-article">
+    <article class="hentry">
+
+      {% comment %}
+      {% if page.featured_image_path %}
+        {% include hero.html %}
+      {% endif %}
+    {% endcomment %}
+          <header>
+            <h2 class="entry-title">
+
+                {{ page.title }}
+
+            </h2>
+
+          </header>
+
+        <div class="entry-content prose">
+
+            {% if page.lede %}
+              <div class="lede">
+                {{ page.lede |markdownify }}
+              </div>
+            {% endif %}
+            {{ page.content }}
+
+
+
+          {% comment %} {% include "templates/partials/image-attribution.html" %} {% endcomment %}
+        </div>
+
+    </article>
+    <aside class="page">
+      {% if page.aside %}
+        {{ page.aside |markdownify }}
+      {% endif %}
+    </aside>
+
+      <div class="row">
+        {% include form-mailchimp.html %}
+      </div>
+
+  </div>
