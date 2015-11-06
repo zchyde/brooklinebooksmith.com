@@ -31,9 +31,9 @@ venues:
   - "Coolidge Corner Theater"
   - Other
 fancy_fonts:
-+  - ''
-+  - 'Fredericka+the+Great'
-+  - 'Cabin-sketch'
+  - ''
+  - 'Fredericka+the+Great'
+  - 'Cabin-sketch'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
