@@ -5,3 +5,7 @@ book_isbn: ''
 Genre: ''
 Venue: In-store
 ---
+
+> This is a quote. And it's a nice one.
+>
+> -by john schmidt.
