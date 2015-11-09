@@ -28,11 +28,7 @@
 
 
 {% if include.format == 'long' %}
-
-{% include events/format-output-cards.html %}
-
-
-
+  {% include events/format-output-cards.html %}
 {% else %}
   <li>
     <small class="date">{{start_at}}</small><br />

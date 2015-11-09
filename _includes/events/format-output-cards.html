@@ -15,6 +15,10 @@
           {% if isbn %}
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
+              {% if book.title %}
+              <h3>{{book.title}}</h3>
+
+              {% endif %}
               {% if book.image_path %}
                 <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:100%;" />
               {% endif %}
@@ -56,7 +60,7 @@
       {% endif %}
 
       {% if event.title  %}
-      <h4>{{ event.title }}</h4>
+      <small>{{ event.title }}</small>
       {% endif %}
     </div>
 
