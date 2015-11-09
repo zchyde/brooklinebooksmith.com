@@ -16,7 +16,13 @@ layout: default
       {% endif %}
       {{ page.content }}
 
-      {% include events/cards.html %}
+
+      {% if page.include %}
+        {% include {{ page.include }} %}
+      {% endif %}
+
+
+
     </div>
     <aside>
       {% if page.aside %}

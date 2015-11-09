@@ -1,37 +1,16 @@
 <div class="card">
 
   <div class="card-header">
-    {% if book_category_title %}
+    {% if event.book_category %}
       <div class="book_category_title">{{ book_category_title }}</div>
     {% endif %}
-    {% if program_title %}
+    {% if event.program %}
       <div class="program_title">{{ program_title }}</div>
     {% endif %}
     {% if event.venue %}
       <div class="event.venue">
         {{ event.venue }}
       </div>
-    {% endif %}
-  </div>
-
-  <div class="card-image">
-    {% comment %}
-      looking for events with books. using the book_isbn value
-      Using "...size > 0" to capture null values and entries where no field is present
-      size, oddly, returns "8" where there is only one isbn (which is 13 digits)
-    {% endcomment %}
-    {% if related_books_isbn.size > 0 %}
-      {% comment %}  {% endcomment %}
-      {% for isbn in related_books_isbn %}
-        {% if isbn %}
-          {% assign related_books = site.books | where: 'isbn', isbn %}
-          {% for book in related_books %}
-            {% if book.image_path %}
-               <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:100%;" />
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
     {% endif %}
   </div>
 
@@ -47,6 +26,28 @@
   </div>
 
   <div class="card-copy">
+    {% comment %}
+      looking for events with books. using the book_isbn value
+      Using "...size > 0" to capture null values and entries where no field is present
+      size, oddly, returns "8" where there is only one isbn (which is 13 digits)
+    {% endcomment %}
+
+    {% if related_books_isbn.size > 0 %}
+      <div class="" style="float:left:margin-right:1em;">
+        {% comment %}  {% endcomment %}
+        {% for isbn in related_books_isbn %}
+          {% if isbn %}
+            {% assign related_books = site.books | where: 'isbn', isbn %}
+            {% for book in related_books %}
+              {% if book.image_path %}
+                 <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:15em;float:left;margin-right:1em;margin-bottom:2em;" />
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     {% if event.content %}
       {{ event.content | markdownify }}
     {% endif %}

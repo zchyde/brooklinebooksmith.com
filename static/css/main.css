@@ -1089,9 +1089,8 @@ http://flickity.metafizzy.co
     transition: all 0.2s ease-in-out;
     background-color: white;
     border-radius: 3px 3px 0 0;
-    font-weight: bold;
     line-height: 1.5em;
-    padding: 0.53333em 0.8em; }
+    padding: 1.06667em 1.6em; }
   .card .card-footer, a.card .card-footer {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -1102,7 +1101,7 @@ http://flickity.metafizzy.co
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 0.53333em 0.8em; }
+    padding: 1.06667em 1.6em; }
     .card .card-footer::after, a.card .card-footer::after {
       clear: both;
       content: "";
@@ -1110,7 +1109,7 @@ http://flickity.metafizzy.co
   .card .card-copy, a.card .card-copy {
     font-size: 0.875rem;
     line-height: 1.5em;
-    padding: 0.8em 0.8em;
+    padding: 1.06667em 1.6em;
     margin-bottom: 3em; }
     .card .card-copy p, a.card .card-copy p {
       font-size: 0.875rem;
@@ -1124,10 +1123,15 @@ http://flickity.metafizzy.co
       background-color: white; }
 
 .event_title {
-  font-size: 1.125em; }
+  font-size: 1.625em;
+  line-height: normal; }
+  @media screen and (min-width: 56.25em) {
+    .event_title {
+      font-size: 2.125em; } }
 
 .date {
-  color: #4C8DB6; }
+  color: #4C8DB6;
+  font-weight: bold; }
 
 .content {
   min-height: 100%;

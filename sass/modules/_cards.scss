@@ -1,4 +1,6 @@
+$card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
 .cards {
+
   @include display(flex);
   @include flex-wrap(wrap);
   @include justify-content(space-between);
@@ -80,9 +82,9 @@ margin: 0 $card-margin $base-spacing $card-margin;
     background-color: $card-header-background;
     //border-bottom: $card-border;
     border-radius: $base-border-radius $base-border-radius 0 0;
-    font-weight: bold;
+    //font-weight: bold;
     line-height: 1.5em;
-    padding: ($base-spacing / 3) ($base-spacing / 2);
+    padding: $card_padding;
   }
 
   .card-footer {
@@ -97,13 +99,13 @@ margin: 0 $card-margin $base-spacing $card-margin;
     bottom:0;
     @include clearfix;
     width: 100%;
-    padding: ($base-spacing / 3) ($base-spacing / 2);
+    padding: $card_padding;
   }
 
   .card-copy {
     font-size: 0.875rem;
     line-height: 1.5em;
-    padding: ($base-spacing / 2) ($base-spacing / 2);
+    padding: $card_padding;
       margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned
     p {
       font-size: 0.875rem;
