@@ -14,12 +14,25 @@
   {% else %}{{ d }}th
   {% endcase %} {{ event.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
 {% endcapture %}
-{% assign event_title = event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+
+{% if event.title %}
+  {% assign event_title = event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+  {% capture event_title_formatted %}
+    <h5 class="brand{% if room_for_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
+      <a href="#event-{{ event_date }}">
+        {{ event_title }}
+      </a>
+    </h5>
+  {% endcapture %}
+{% endif %}
+
 
 {% if include.format == 'long' %}
-  <h5>{{start_at}}</h5>
-  {{ event_title }}
-  <hr />
+
+{% include events/format-output-cards.html %}
+
+
+
 {% else %}
   <li>
     <small class="date">{{start_at}}</small><br />

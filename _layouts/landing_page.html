@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="has-layout layout-article">
+<div class="has-layout layout-articleTK">
     <article class="hentry">
 
       {% comment %}
@@ -28,16 +28,15 @@ layout: default
             {{ page.content }}
 
 
+{% include events/cards.html %}
+
+
+
 
           {% comment %} {% include "templates/partials/image-attribution.html" %} {% endcomment %}
         </div>
 
     </article>
-    <aside class="page">
-      {% if page.aside %}
-        {{ page.aside |markdownify }}
-      {% endif %}
-    </aside>
 
       <div class="row">
         {% include form-mailchimp.html %}

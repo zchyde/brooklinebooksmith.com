@@ -101,11 +101,12 @@ margin: 0 $card-margin $base-spacing $card-margin;
   }
 
   .card-copy {
-    font-size: 0.9em;
+    font-size: 0.875rem;
     line-height: 1.5em;
     padding: ($base-spacing / 2) ($base-spacing / 2);
       margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned
     p {
+      font-size: 0.875rem;
       margin: 0 0 ($base-spacing / 2);
       color: $base-font-color;
     }
