@@ -1,7 +1,8 @@
 ---
 title: '**B.A. Shapiro**, *The Muralist*'
 start_at: 2015-11-03T19:00:00.000Z
-book_isbn: 9781616203573
+book_isbn:
+  - 9781616203573
 Genre: 'fiction'
 Venue: In-store
 ---

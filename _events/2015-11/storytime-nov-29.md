@@ -2,7 +2,8 @@
 title: "**Storytime**"
 start_at: 2015-11-29T10:30:00.000Z
 program: kids
-book_isbn: ''
+book_isbn:
+  - ''
 Genre: ''
 Venue: In-store
 ---
