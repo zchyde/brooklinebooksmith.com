@@ -7,6 +7,7 @@ include:
   - _pages
 exclude:
   - readme.md
+  - todo.md
   - license.md
   - Gemfile
   - Gemfile.lock
@@ -18,6 +19,7 @@ exclude:
   - package.json
   - javascript
 permalink: pretty
+future: true
 production: false
 bust_css_cache: true
 google_analytics_id: UA-xxxx
@@ -46,6 +48,7 @@ collections:
   events:
     output: true
     permalink: '/:collection/:path/'
+    future: true
   programs:
     output: true
     permalink: '/:collection/:path/'
@@ -53,6 +56,7 @@ collections:
     output: false
   book_categories:
     output: true
+    permalink: '/genre/:path/'
 defaults:
   - scope:
       path: ''
