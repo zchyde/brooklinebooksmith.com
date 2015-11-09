@@ -1,3 +1,4 @@
 ---
 title: Humor
+shortname: humor
 ---

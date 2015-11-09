@@ -52,7 +52,7 @@ collections:
   books:
     output: false
   book_categories:
-    output: false
+    output: true
 defaults:
   - scope:
       path: ''

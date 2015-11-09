@@ -5,10 +5,45 @@
 
 
     <div class="card-header">
-      {% if event.genre %}
-      {{ event.genre }}
+      {% if event.book_category %}
+
+
+
+{% comment %}
+{% assign about_page = site.pages['about'] %}
+
+<h2>{{ about_page.title }}</h2>
+{{ about_page.body }}
+ {% endcomment %}
+
+
+
+
+        {% assign book_category = site.book_categories['humor'] %}
+
+        {{ site.book_categories.title }}
+
+            {% for c in book_category  %}
+
+            <h2>{{ c.title }}</h2>
+
+            {% endfor %}
+
+
+
 
         {% endif %}
+
+
+
+
+
+
+
+        {% assign venue = site.venues | where: 'name', 'In-store' %}
+
+        <h4>{{ venue }}</h4>
+
 
     </div>
 
@@ -18,7 +53,7 @@
         Using "...size > 0" to capture null values and entries where no field is present
         size, oddly, returns "8" where there is only one isbn (which is 13 digits)
       {% endcomment %}
-      {% if related_books_isbn.size > 0 %}
+      {% if related_books_isbn.size > 10000 %}
         {% comment %}  {% endcomment %}
         {% for isbn in related_books_isbn %}
           {% if isbn %}
@@ -60,7 +95,7 @@
     </div>
 
     <div class="card-header">
-      {% if start_at %}
+      {% if start_atTK %}
         <span class="date">{{ start_at }}</span>
       {% endif %}
 
@@ -75,7 +110,7 @@
 
 
     <div class="card-copy">
-      {% if event.content %}
+      {% if event.contentTK %}
         {{ event.content | markdownify }}
       {% endif %}
 
