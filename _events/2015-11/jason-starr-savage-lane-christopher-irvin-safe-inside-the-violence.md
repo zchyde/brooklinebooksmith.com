@@ -4,7 +4,7 @@ start_at: 2015-11-18T19:00:00.000Z
 book_isbn:
   - 9781940610641
   - 9788293326700
-Genre: 'mystery'
+book_category: 'mystery'
 Venue: In-store
 ---
 Jason Starr’s **Savage Lane** is his most riveting and intimate novel yet, a dark, domestic thriller and an honest, searing satire of a declining marriage, suburban life, and obsessive love.

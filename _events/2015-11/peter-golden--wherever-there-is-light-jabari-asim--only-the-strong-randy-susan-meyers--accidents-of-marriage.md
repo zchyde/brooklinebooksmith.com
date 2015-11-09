@@ -5,7 +5,7 @@ book_isbn:
   - 9781476705583
   - 9781932841947
   - 9781451673050
-Genre: 'fiction'
+book_category: 'fiction'
 Venue: In-store
 ---
 

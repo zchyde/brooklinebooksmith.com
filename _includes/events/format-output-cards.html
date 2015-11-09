@@ -3,6 +3,15 @@
 
   <div class="cardTK" style="background-color:#f2f2f2;margin-bottom:2em;border:1px solid #ddd;width:100%;padding:2em;">
 
+
+    <div class="card-header">
+      {% if event.genre %}
+      {{ event.genre }}
+
+        {% endif %}
+
+    </div>
+
     <div class="card-image">
       {% comment %}
         looking for events with books. using the book_isbn value
@@ -15,10 +24,6 @@
           {% if isbn %}
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
-              {% if book.title %}
-              <h3>{{book.title}}</h3>
-
-              {% endif %}
               {% if book.image_path %}
                 <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:100%;" />
               {% endif %}
@@ -62,6 +67,10 @@
       {% if event.title  %}
       <small>{{ event.title }}</small>
       {% endif %}
+
+
+
+
     </div>
 
 

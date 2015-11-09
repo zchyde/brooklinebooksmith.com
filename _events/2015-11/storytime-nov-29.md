@@ -4,7 +4,7 @@ start_at: 2015-11-29T10:30:00.000Z
 program: kids
 book_isbn:
   - ''
-Genre: ''
+book_category: ''
 Venue: In-store
 ---
 
