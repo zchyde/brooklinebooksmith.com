@@ -1027,10 +1027,10 @@ http://flickity.metafizzy.co
   -ms-flex-pack: justify; }
 
 .card, a.card {
-  -webkit-flex-basis: 18em;
-  -moz-flex-basis: 18em;
-  flex-basis: 18em;
-  -ms-flex-preferred-size: 18em;
+  -webkit-flex-basis: 36em;
+  -moz-flex-basis: 36em;
+  flex-basis: 36em;
+  -ms-flex-preferred-size: 36em;
   -webkit-flex-grow: 1;
   -moz-flex-grow: 1;
   flex-grow: 1;

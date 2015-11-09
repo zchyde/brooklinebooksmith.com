@@ -6,7 +6,7 @@
 
 .card, a.card {
 
-  @include flex-basis(18em);
+  @include flex-basis(36em);
   @include flex-grow(1);
   @include transition (all 0.2s ease-in-out);
   background-color: $card-background;

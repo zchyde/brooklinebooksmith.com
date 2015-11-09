@@ -1,6 +1,7 @@
 {% comment %} FORMAT DATES {% endcomment %}
   {% capture start_at %}
   <!-- Whitespace added for readability -->
+  {{ event.start_at | date: "%A" }}
   {% assign d = event.start_at | date: "%-d" %}
   {% assign m = event.start_at | date: "%B" %}
   {% case m %}
