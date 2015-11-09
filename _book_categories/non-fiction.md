@@ -1,3 +1,4 @@
 ---
 title: Nonfiction
+published: true
 ---

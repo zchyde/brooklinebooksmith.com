@@ -1,4 +1,4 @@
 ---
 title: Mystery
-published: false
+published: true
 ---

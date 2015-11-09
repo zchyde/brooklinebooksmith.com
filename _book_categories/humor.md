@@ -1,4 +1,4 @@
 ---
 title: Humor
-shortname: humor
+published: true
 ---
