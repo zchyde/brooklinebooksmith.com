@@ -1,6 +1,4 @@
 ---
 title: Events
-aside: '
-
-'
+aside: >
 ---
