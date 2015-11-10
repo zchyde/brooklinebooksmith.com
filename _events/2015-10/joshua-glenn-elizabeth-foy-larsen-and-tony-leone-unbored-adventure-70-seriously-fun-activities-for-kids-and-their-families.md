@@ -4,6 +4,6 @@ start_at: 2015-10-17T19:00:00.000Z
 program: bash
 book_isbn: 9781632860965
 Genre: ''
-Venue: In-store
+ticketed: false
 ---
 

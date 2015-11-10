@@ -2,7 +2,7 @@
 title: Breakwater Reading Series
 start_at: 2015-11-20T19:00:00.000Z
 program: breakwater-reading-series
-Venue: In-store
+ticketed: false
 book_category: ''
 book_isbn:
   - ''

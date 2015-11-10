@@ -1,7 +1,7 @@
 ---
 title: '**Ian F. Svenonious**, *Censorship Now!!*'
 start_at: 2015-11-08T18:00:00.000Z
-Venue: In-store
+ticketed: false
 book_category: 'essays-humor'
 book_isbn:
   - 9781617754098

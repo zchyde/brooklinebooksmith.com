@@ -2,7 +2,7 @@
 title: '**Suzanne Berne Sven Birkerts Joan Wickersham and Jonathan Wilson**: *Brief Encounters: A Collection of Contemporary Nonfiction*'
 published: true
 start_at: 2015-11-30T19:00:00.000Z
-venue: In-store
+ticketed: false
 book_category: non-fiction
 book_isbn:
   - '9780393350999'

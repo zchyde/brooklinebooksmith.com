@@ -5,5 +5,5 @@ program: bash
 book_isbn:
   - ''
 book_category: ''
-Venue: In-store
+ticketed: false
 ---

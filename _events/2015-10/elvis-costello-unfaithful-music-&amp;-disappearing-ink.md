@@ -4,7 +4,7 @@ start_at: 2015-10-17T19:00:00.000Z
 program: bash
 book_isbn: 9780399167256
 Genre: ''
-Venue: In-store
+ticketed: false
 ---
 
 [Buy Tickets Now!](https://www.berklee.edu/events/elvis-costello-interview-unfaithful-music-disappearing-ink)
