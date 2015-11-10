@@ -15,14 +15,12 @@ layout: default
         </div>
       {% endif %}
       {{ page.content }}
-
-
+      {% if page.image_credit %}
+        <small>{{ page.image_credit | markdownify }}</small>
+      {% endif %}
       {% if page.include %}
         {% include {{ page.include }} %}
       {% endif %}
-
-
-
     </div>
     <aside>
       {% if page.aside %}

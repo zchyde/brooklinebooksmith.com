@@ -72,6 +72,7 @@ header.navigation {
       -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale')";
       background-position: top bottom;
       background-position: center 80%;
+      background-position: center center;
 
       background-size:cover;
   }
