@@ -725,6 +725,10 @@ picture {
   margin: 0;
   max-width: 100%; }
 
+.caption, .caption p {
+  font-size: .75rem;
+  font-style: italic; }
+
 html {
   box-sizing: border-box; }
 

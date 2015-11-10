@@ -15,8 +15,10 @@ layout: default
         </div>
       {% endif %}
       {{ page.content }}
-      {% if page.image_credit %}
-        <small>{{ page.image_credit | markdownify }}</small>
+      {% if page.featured_image_credit %}
+        <div class="caption">
+          image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
       {% endif %}
       {% if page.include %}
         {% include {{ page.include }} %}
