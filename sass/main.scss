@@ -78,3 +78,8 @@
 .date {
   color: $color-4;
 }
+@media screen and (max-width: 480px) {
+  .mobile-hide {
+    display: none;
+  }
+}

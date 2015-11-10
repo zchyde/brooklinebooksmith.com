@@ -1162,7 +1162,7 @@ h1.special {
   font-size: 2.5em !important; }
   @media screen and (min-width: 56.25em) {
     h1.special {
-      font-size: 4.25em !important; } }
+      font-size: 4.125em !important; } }
 
 .content {
   min-height: 100%;
@@ -1310,7 +1310,7 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     margin: auto;
-    padding: 3em 3.5em 1em 3.5em;
+    padding: 3em 3.125em 1em 3.125em;
     text-align: center; }
     .hero .hero-inner::after {
       clear: both;
@@ -2170,3 +2170,7 @@ body.grid:before {
 
 .date {
   color: #981C41; }
+
+@media screen and (max-width: 480px) {
+  .mobile-hide {
+    display: none; } }

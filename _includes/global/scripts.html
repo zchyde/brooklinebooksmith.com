@@ -13,7 +13,7 @@
 </script>
 
 
-
+{% comment %} TODO: lighten up the Lato, if possible {% endcomment %}
 <script type="text/javascript">
   WebFontConfig = {
  google: { families: [ 'Lato:400,300,300italic,400italic,700,700italic,900,900italic:latin' ] }
@@ -28,7 +28,7 @@
     s.parentNode.insertBefore(wf, s);
   })(); </script>
 
-{% if page.fancy_font %}
-  {% capture font %}fonts/{{ page.fancy_font | replace: '+', '-' | downcase }}.html{% endcapture %}
-  {% include {{font}} %}
-{% endif %}
+  {% if page.fancy_font %}
+    {% capture font %}fonts/{{ page.fancy_font | replace: '+', '-' | downcase }}.html{% endcapture %}
+    {% include {{font}} %}
+  {% endif %}

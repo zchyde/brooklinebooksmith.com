@@ -1,5 +1,6 @@
 ---
 layout: default
+top: buddy boy
 ---
 <div class="has-layout layout-article">
   <article class="hentry">
@@ -15,6 +16,8 @@ layout: default
         </div>
       {% endif %}
       {{ page.content }}
+        {{ layout.top }}
+
       {% if page.featured_image_credit %}
         <div class="caption">
           image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}

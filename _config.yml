@@ -36,6 +36,7 @@ fancy_fonts:
   - ''
   - 'Fredericka+the+Great'
   - 'Cabin-sketch'
+  - 'Lato'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:

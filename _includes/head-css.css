@@ -1,9 +1,8 @@
-
 {% assign base_url = site.base_url %}
 {% if page.resetHeroBackgroundTop %}
   {% assign heroBackgroundTop = page.resetHeroBackgroundTop %}
 {% else %}
-{% assign heroBackgroundTop = 0.5 %}
+{% assign heroBackgroundTop = 0.78 %}
 {% endif %}
 
 {% if page.resetHeroBackgroundBottom %}
@@ -39,7 +38,7 @@ header.navigation {
     transition:opacity 0s ease-in 0s
   }
 
-  @media screen and (min-width: 46.5em) {
+
 
     .hero {
       {% if page.banner_height %}
@@ -77,6 +76,6 @@ header.navigation {
    .background-fixed {
       background-attachment: fixed;
     }
-  }
+  {% comment %} @media screen and (min-width: 46.5em) {} {% endcomment %}
 </style>
 {% endif %}
