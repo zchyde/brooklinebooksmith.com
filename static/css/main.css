@@ -1090,7 +1090,21 @@ http://flickity.metafizzy.co
     background-color: white;
     border-radius: 3px 3px 0 0;
     line-height: 1.5em;
-    padding: 1.06667em 1.6em; }
+    padding: 0 1.06667em 1.6em 1.06667em;
+    clear: both;
+    font-size: .875em; }
+    .card .card-header .flagged, .card .card-header .ticketed, a.card .card-header .flagged, a.card .card-header .ticketed {
+      border-radius: 0 0 3px 3px;
+      margin-bottom: 2em;
+      padding: .375em; }
+    .card .card-header .flagged, a.card .card-header .flagged {
+      background-color: #00557F;
+      color: white;
+      float: left; }
+    .card .card-header .ticketed, a.card .card-header .ticketed {
+      background-color: #4C8DB6;
+      color: white;
+      float: right; }
   .card .card-footer, a.card .card-footer {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -1114,7 +1128,7 @@ http://flickity.metafizzy.co
     .card .card-footer .addthis_sharing_toolbox, a.card .card-footer .addthis_sharing_toolbox {
       float: right; }
   .card .card-copy, a.card .card-copy {
-    font-size: 0.875rem;
+    font-size: 0.9375em;
     line-height: 1.5em;
     padding: 1.06667em 1.6em;
     margin-bottom: 3.5em; }

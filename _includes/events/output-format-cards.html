@@ -1,15 +1,14 @@
 <div class="card">
 
   <div class="card-header">
-    {% if event.book_category %}
-      <div class="book_category_title">{{ book_category_title }}</div>
+    {% if event.book_category != '' %}
+      <div class="flagged">{{ book_category_title }}</div>
+    {% elsif event.program %}
+      <div class="flagged">{{ program_title }}</div>
     {% endif %}
-    {% if event.program %}
-      <div class="program_title">{{ program_title }}</div>
-    {% endif %}
-    {% if event.venue %}
-      <div class="event.venue">
-        {{ event.venue }}
+    {% if event.ticketed %}
+      <div class="ticketed">
+        Ticketed Event
       </div>
     {% endif %}
   </div>

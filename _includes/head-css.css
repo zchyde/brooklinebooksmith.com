@@ -1,7 +1,5 @@
 
 {% assign base_url = site.base_url %}
-
-
 {% if page.resetHeroBackgroundTop %}
   {% assign heroBackgroundTop = page.resetHeroBackgroundTop %}
 {% else %}
@@ -13,9 +11,6 @@
 {% else %}
 {% assign heroBackgroundBottom = 0.37 %}
 {% endif %}
-
-
-
 
 
 {% assign background_image = page.featured_image_path %}
@@ -72,8 +67,11 @@ header.navigation {
       -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale')";
       background-position: top bottom;
       background-position: center 80%;
-      background-position: center center;
-
+      {% if page.featured_image_position !='' %}
+        background-position: center {{ page.featured_image_position }}%;
+      {% else %}
+        background-position: center center;
+      {% endif %}
       background-size:cover;
   }
    .background-fixed {

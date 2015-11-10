@@ -1,3 +1,0 @@
----
-title: Childrens' Story Time
----
