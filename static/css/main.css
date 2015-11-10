@@ -1097,20 +1097,27 @@ http://flickity.metafizzy.co
     transition: all 0.2s ease-in-out;
     border-radius: 0 0 3px 3px;
     line-height: 1;
-    height: 3em;
+    height: 3.5em;
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 1.06667em 1.6em; }
+    padding: 1.06667em 1.6em;
+    display: block; }
     .card .card-footer::after, a.card .card-footer::after {
       clear: both;
       content: "";
       display: table; }
+    .card .card-footer::after, a.card .card-footer::after {
+      clear: both;
+      content: "";
+      display: table; }
+    .card .card-footer .addthis_sharing_toolbox, a.card .card-footer .addthis_sharing_toolbox {
+      float: right; }
   .card .card-copy, a.card .card-copy {
     font-size: 0.875rem;
     line-height: 1.5em;
     padding: 1.06667em 1.6em;
-    margin-bottom: 3em; }
+    margin-bottom: 3.5em; }
     .card .card-copy p, a.card .card-copy p {
       font-size: 0.875rem;
       margin: 0 0 0.8em;
@@ -1132,6 +1139,12 @@ http://flickity.metafizzy.co
 .date {
   color: #4C8DB6;
   font-weight: bold; }
+
+h1.special {
+  font-size: 2.5em !important; }
+  @media screen and (min-width: 56.25em) {
+    h1.special {
+      font-size: 4.25em !important; } }
 
 .content {
   min-height: 100%;

@@ -40,7 +40,7 @@
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
               {% if book.image_path %}
-                 <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:15em;float:left;margin-right:1em;margin-bottom:2em;" />
+                 <img src="{{ book.image_path }}" alt="{{ book.title }}" style="width:auto;height:14em;float:left;margin-right:1em;margin-bottom:2em;" />
               {% endif %}
             {% endfor %}
           {% endif %}
