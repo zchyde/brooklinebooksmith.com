@@ -1,6 +1,7 @@
 ---
 title: About Us
 featured_image_path: '/uploads/1442843154579_boy-reading.jpg'
+fancy_font:
 ---
 Brookline Booksmith opened its doors in 1961 as Paperback Booksmith with the slogan "Dedicated to the fine art of browsing." And for more than 50 years the Booksmith has been exactly that. Constantly changing with the neighborhood around it, Brookline Booksmith has served the people of Brookline and Boston with its eclectic mix of titles, literate and helpful staff, and seemingly neverending schedule of book signings, talks and poetry readings.
 
