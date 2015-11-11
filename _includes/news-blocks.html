@@ -16,7 +16,12 @@
       {% endcomment %}
       <div class="card-copy">
         <h3 class="brand" style="margin-bottom:.125em;">{{ object.title }}</h3>
-        <p>posted {{ object.date | date: "%B %d" }}</p>
+        <p>posted {{ object.date | date: "%B %d" }}
+          {% if object.staff %}
+            {{ object.staff }}            
+          {% endif %}
+
+        </p>
         <p>
           {{ object.excerpt |strip_html | truncatewords: 90, '…' }}
         </p>

@@ -1,15 +1,38 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
+<div class="has-layout layout-article">
+  <article class="hentry">
+    <header>
+      <h2 class="entry-title">
+        {{ page.title }}
+      </h2>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.staff %} • {{ page.staff }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+    <div class="entry-content prose">
+      {% if page.lede %}
+        <div class="lede">
+          {{ page.lede |markdownify }}
+        </div>
+      {% endif %}
+      {{ page.content }}
+      {% if page.include %}
+        {% include {{ page.include }} %}
+      {% endif %}
+      {% if page.featured_image_credit %}
+        <div class="caption">
+          image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+      {% endif %}
+    </div>
   </article>
-
+  <aside class="page">
+    {% if page.aside %}
+      {{ page.aside | markdownify }}
+    {% endif %}
+    <br />
+  </aside>
+  <div class="row">
+    {% include form-mailchimp.html %}
+  </div>
 </div>
