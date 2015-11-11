@@ -16,9 +16,14 @@
       {% endcomment %}
       <div class="card-copy">
         <h3 class="brand" style="margin-bottom:.125em;">{{ object.title }}</h3>
-        <p>posted {{ object.date | date: "%B %d" }}{% if object.staff %},
-            {% capture related_staff %}/staff/{{ object.staff }}/{% endcapture %}
-            {% assign theauthor = site.staff | where: 'url', related_staff %}
+        <p>posted {{ object.date | date: "%B %d" }}
+
+          {% if object.staff %},
+
+          {{ object.staff }}
+
+            {% capture related_staff %}{{ object.staff | replac}}{% endcapture %}
+            {% assign theauthor = site.staff | where: 'id', related_staff %}
             {% assign post_author = theauthor[0].title %}
              by <strong>{{ post_author }}</strong>
           {% endif %}
