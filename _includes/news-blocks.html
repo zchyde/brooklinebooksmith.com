@@ -7,14 +7,18 @@
           <h5 class="brand">{{ object.name }}</h5>
         {% endunless %}
       </div>
+      {% comment %}
       {% if object.featured_image_path %}
         <div class="card-header">
-          <h6 class="brand" style="margin:0;">{{ object.name }}</h6>
+          <h6 class="brand" style="margin:0;">{{ object.title }}</h6>
         </div>
         {% endif %}
+      {% endcomment %}
       <div class="card-copy">
+        <h3 class="brand" style="margin-bottom:.125em;">{{ object.title }}</h3>
+        <p>posted {{ object.date | date: "%B %d" }}</p>
         <p>
-          {{ object.excerpt |strip_html | truncatewords: 30, '…' }}
+          {{ object.excerpt |strip_html | truncatewords: 90, '…' }}
         </p>
       </div>
     </a>

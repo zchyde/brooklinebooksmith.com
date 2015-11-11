@@ -58,6 +58,9 @@ collections:
   book_categories:
     output: true
     permalink: '/genre/:path/'
+  staff:
+    output: false
+    permalink: '/:collection/:path/'
 defaults:
   - scope:
       path: ''
@@ -82,5 +85,10 @@ defaults:
   - scope:
       path: ''
       type: programs
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: staff
     values:
       layout: page
