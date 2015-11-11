@@ -44,7 +44,7 @@ header.navigation {
       {% if page.banner_height %}
         height:{{ page.banner_height }}px;
       {% else %}
-        height: 420px;
+        height: 450px;
       {% endif %}
     }
 
