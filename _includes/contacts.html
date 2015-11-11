@@ -1,0 +1,5 @@
+{% for contact in site.data.contacts %}
+  {{ contact.name }}<br />
+  <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+  <hr />
+{% endfor %}

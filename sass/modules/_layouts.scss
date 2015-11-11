@@ -31,6 +31,9 @@
     background-color: $color-2;
     margin:0 0 3em 0;
     color: $blue-dark;//$brown-dark;
+    hr {
+        border-color: lighten($color-2, 5%);
+    }
     a {
       color: #fff;
       @include word-wrap;

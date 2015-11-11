@@ -15,6 +15,6 @@
     {% comment %} Only show future events, i.e. where the start date is greater than current {% endcomment %}
     {% if event_date >= current_date %}
     {% capture count %}{{ count | plus: '1' }}{% endcapture %}
-        {% include events/output.html format=format_style  %}      
+        {% include events/output.html format=format_style  %}
     {% endif %}
   {% endfor %}

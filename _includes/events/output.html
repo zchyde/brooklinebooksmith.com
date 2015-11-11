@@ -20,30 +20,14 @@
 {% comment %} format expandable event title TODO: we may not need this {% endcomment %}
 {% if event.title %}
   {% assign event_title = event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
-  {% capture event_title_formatted %}
-    <h5 class="brand{% if room_for_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
-      <a href="#event-{{ event_date }}">
-        {{ event_title }}
-      </a>
-    </h5>
-  {% endcapture %}
 {% endif %}
 
-
-
 {% assign venue = site.venues | where: 'name', 'In-store' %}
-
 {% assign related_books_isbn = event.book_isbn %}
 
 
 
-
-
-
-
-  {% if include.format == 'long' %}
-  {% include events/output-format-cards.html %}
-{% else %}
+{% if include.format == 'short' %}
   <li>
     <small class="date">{{start_at}}</small><br />
     <span class="event_title">
@@ -51,4 +35,6 @@
     </span>
   </li>
   <hr />
+{% else %}
+  {% include events/output-format-cards.html %}
 {% endif %}

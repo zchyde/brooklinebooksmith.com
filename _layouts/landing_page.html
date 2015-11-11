@@ -30,6 +30,9 @@ layout: default
       {{ page.aside | markdownify }}
     {% endif %}
     <br />
+    {% if page.include_aside %}
+      {% include {{ page.include_aside }} %}
+    {% endif %}
   </aside>
   <div class="row">
     {% include form-mailchimp.html %}
