@@ -1,6 +1,12 @@
+{% comment %} Determine if we're limiting the output to a particular program {% endcomment %}
+{% if include.cat %}
+{% assign news = site.categories[include.cat] %}
+{% comment %} if no program specified in the include, then show all the events {% endcomment %}
+{% else %}
 {% assign news = site.posts %}
+{% endif %}
 <div class="cards">
-  {% for object in news %}
+  {% for object in news limit:3 %}
     <a href="{{ object.url }}" class="card">
       <div class="card-image"{% if object.featured_image_path %} style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"{% endif %}>
         {% unless object.featured_image_path %}

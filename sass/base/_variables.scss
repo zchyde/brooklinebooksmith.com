@@ -31,6 +31,8 @@ $blue-lighter:#00557F;
 $dark-gray: #333;
 $medium-gray: #555;
 $light-gray: #ddd;
+$lighter-gray: #f6f6f6;
+$lightest-gray: #fefefe;
 $brand-background-color:$blue;
 $brown-dark:#38311C;
 $color-1:#47817A;
@@ -95,7 +97,7 @@ $sidebar-right-width: 20%;
 $sidebar-left-breakpoint: $breakpoint;
 $sidebar-right-breakpoint: $breakpoint;
 
-$sidebar-color-background:#f9f9f9;//darken($base-background-color, 1%);//#f6f6f6;//$nyu-gray-dark;// #f6f6f6;//transparentize(#f2f2f2, 0.5);//$navigation-background;
+$sidebar-color-background:darken($base-background-color, 3%);//#f6f6f6;//$nyu-gray-dark;// #f6f6f6;//transparentize(#f2f2f2, 0.5);//$navigation-background;
 $sidebar-color: $light-gray;
 
 $sidebar-right-color-background: transparent;//#000;

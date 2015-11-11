@@ -8,7 +8,7 @@ layout: default
         {{ page.title }}
       </h2>
     </header>
-    <div class="entry-content prose">
+    <div class="entry-content" style="width:100%;clear:both;">
       {% if page.lede %}
         <div class="lede">
           {{ page.lede |markdownify }}
@@ -19,8 +19,10 @@ layout: default
         {% include {{ page.include }} %}
       {% endif %}
       {% if page.featured_image_credit %}
-        <div class="caption">
-          image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+        <div class="row">
+          <div class="caption">
+            image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+          </div>
         </div>
       {% endif %}
     </div>

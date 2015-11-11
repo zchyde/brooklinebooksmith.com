@@ -1,10 +1,9 @@
 ---
 title: Giftsmith
-layout: page
-page_heading: '2015 Holiday Gift Guide'
-featured_image_path: '/uploads/test-photo-1421906375741-f6bda4abe433.jpeg'
+page_heading: 'Gifts and More'
+featured_image_path:
 featured_image_position: 50
-aside: "And Maybe some stuff here, or not"
+aside:
 fancy_font:
 ---
 Copy goes Here

@@ -2,7 +2,6 @@
 title: 'Alex Is Reading...LOIS LANE: FALLOUT'
 date: 2015-08-17T20:29:00.000Z
 featured_image_path: /uploads/1444597535074_cover-lois-lane-fallout.jpg
-staff: bud-parr
 ---
 
 [Lois Lane: Fallout](http://www.brooklinebooksmith-shop.com/book/9781630790059) is a YA novel about amazingly wonderful teenager Lois Lane moving to Metropolis, joining the Daily Planet’s experimental student arm, and immediately putting it at jeopardy by threatening the big, the bad, the powerful, and their crafty weapon design program that uses zombiefied teenage virtual reality MMORPG players as guinea pigs.
