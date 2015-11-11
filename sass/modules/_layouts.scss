@@ -111,3 +111,9 @@
     @include omega(3n);
   }
 }
+body.kidsmith {
+  aside.page {
+    padding:1em;
+    background-color: $base-background-color;
+  }
+}

@@ -529,7 +529,7 @@ label {
 
 input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], textarea,
 select[multiple=multiple] {
-  background-color: #fff;
+  background-color: #fafafa;
   border: 1px solid #ddd;
   border-radius: 3px;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
@@ -550,7 +550,7 @@ select[multiple=multiple] {
     outline: none; }
   input[type="color"]:disabled, input[type="date"]:disabled, input[type="datetime"]:disabled, input[type="datetime-local"]:disabled, input[type="email"]:disabled, input[type="month"]:disabled, input[type="number"]:disabled, input[type="password"]:disabled, input[type="search"]:disabled, input[type="tel"]:disabled, input[type="text"]:disabled, input[type="time"]:disabled, input[type="url"]:disabled, input[type="week"]:disabled, textarea:disabled,
   select[multiple=multiple]:disabled {
-    background-color: #f2f2f2;
+    background-color: #eeeeee;
     cursor: not-allowed; }
     input[type="color"]:disabled:hover, input[type="date"]:disabled:hover, input[type="datetime"]:disabled:hover, input[type="datetime-local"]:disabled:hover, input[type="email"]:disabled:hover, input[type="month"]:disabled:hover, input[type="number"]:disabled:hover, input[type="password"]:disabled:hover, input[type="search"]:disabled:hover, input[type="tel"]:disabled:hover, input[type="text"]:disabled:hover, input[type="time"]:disabled:hover, input[type="url"]:disabled:hover, input[type="week"]:disabled:hover, textarea:disabled:hover,
     select[multiple=multiple]:disabled:hover {
@@ -966,7 +966,7 @@ http://flickity.metafizzy.co
         border-bottom-left-radius: 3px;
         border-bottom-right-radius: 3px; } }
   .accordion-tabs .tab-link {
-    background-color: #fff;
+    background-color: #fafafa;
     border-top: none;
     color: #333;
     display: block;
@@ -1045,7 +1045,7 @@ http://flickity.metafizzy.co
   background-color: white;
   border-radius: 3px;
   border: 1px solid #ddd;
-  box-shadow: 0 2px 4px #ededed;
+  box-shadow: 0 2px 4px #e8e8e8;
   margin: 1.6em 0;
   position: relative;
   overflow: hidden; }
@@ -1561,6 +1561,10 @@ html, body {
         margin-right: 0; }
       .boxes-3-across:nth-child(3n+1) {
         clear: left; } }
+
+body.kidsmith aside.page {
+  padding: 1em;
+  background-color: #fafafa; }
 
 .sliding-panel-content {
   position: fixed;
