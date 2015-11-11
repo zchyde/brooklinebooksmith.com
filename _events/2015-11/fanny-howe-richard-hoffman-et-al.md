@@ -1,6 +1,6 @@
 ---
 title: '**Fanny Howe, Richard Hoffman, Lloyd Schwartz, Ha Jin and the Terezín Music Foundation  Liberation**: New Works on Freedom from Internationally Renowned Poets'
-published: true
+published: false
 start_at: 2015-11-17T00:00:00.000Z
 ticketed: true
 book_category: 'poetrymusic'
