@@ -2,6 +2,7 @@
 title: "Harper Lee: The Mystery Thunders On"
 date: 2015-07-14T20:27:00.000Z
 featured_image_path: /uploads/1444598841339_cover-the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg
+staff:
 ---
 _Go Set a Watchman_ drama is all over my various Internet feeds today. If nothing else it brings up questions about what constitutes a draft, a true draft, and what is an entirely new piece altogether. I probably would have let sleeping dogs lie, but our culture has an obsession with reboots and sequels and prequels. If we can resurrect something popular from the grave, we’re going to do it, no matter what. This is not to suggest that _Watchman_’s story is similarly disheartening to, say, the threatened _Point Break_ remake, but there are similar themes at work here. There is no bad press in a situation like this; whether they like it or hate it, people will buy it. Some will buy it and never read it, fascinated by the story behind the story.
 
