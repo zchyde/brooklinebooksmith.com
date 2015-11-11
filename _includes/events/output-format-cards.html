@@ -1,11 +1,35 @@
-<div class="card">
+<div class="card event" id="event-{{count}}">
 
   <div class="card-header">
-    {% if event.book_category != '' %}
-      <div class="flagged">{{ book_category_title }}</div>
-    {% elsif event.program %}
-      <div class="flagged">{{ program_title }}</div>
+
+
+
+
+    {% comment %} capture event category {% endcomment %}
+    {% if event.book_category %}
+      {% capture category_url %}/genre/{{ event.book_category }}/{% endcapture %}
+      {% assign book_category = site.book_categories | where: 'url', category_url    %}
+        {% assign book_category_title = book_category[0].title %}
+              <div class="flagged">{{ book_category_title }}</div>
     {% endif %}
+
+    
+
+
+
+    {% comment %} capture programs {% endcomment %}
+    {% if event.program %}
+      {% capture related_program %}/programs/{{ event.program }}/{% endcapture %}
+      {% assign program = site.programs | where: 'url', related_program    %}
+        {% assign program_title = program[0].title %}
+        <div class="flagged">{{ program_title }}</div>
+      {% endif %}
+
+
+
+
+
+
     {% if event.ticketed %}
       <div class="ticketed">
         Ticketed Event
@@ -21,6 +45,7 @@
       <div class="event_title">
         {{ event_title }}
       </div>
+
     {% endif %}
   </div>
 

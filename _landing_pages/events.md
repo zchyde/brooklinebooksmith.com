@@ -7,9 +7,6 @@ featured_image_credit: '[Beau Colburn](https://www.flickr.com/photos/beaucolburn
 page_heading: Upcoming Events
 fancy_font:
 include: events/cards.html
-aside: content goes here
+aside: "_Please note that Brookline parking meters run **until 8pm** Monday through Saturday._"
 ---
 
-**Please note that Brookline parking meters run
-
-<u>until 8pm</u> Monday through Saturday.**

@@ -2,8 +2,7 @@
 title: Discussion With Ha Jin  Readings by Poets Fanny Howe Richard Hoffman  Lloyd Schwartz
 published: true
 start_at: 2015-11-17T18:00:00.000Z
-program: '-settings'
-ticketed: ''
+ticketed: false
 book_category: poetrymusic
 book_isbn:
   - '9780807000274'

@@ -1,6 +1,5 @@
 ---
 layout: default
-top: buddy boy
 ---
 <div class="has-layout layout-article">
   <article class="hentry">
@@ -16,23 +15,22 @@ top: buddy boy
         </div>
       {% endif %}
       {{ page.content }}
-        {{ layout.top }}
-
+      {% if page.include %}
+        {% include {{ page.include }} %}
+      {% endif %}
       {% if page.featured_image_credit %}
         <div class="caption">
           image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
         </div>
       {% endif %}
-      {% if page.include %}
-        {% include {{ page.include }} %}
-      {% endif %}
     </div>
-    <aside>
-      {% if page.aside %}
-        {{ page.aside }}
-      {% endif %}
-    </aside>
   </article>
+  <aside class="page">
+    {% if page.aside %}
+      {{ page.aside | markdownify }}
+    {% endif %}
+    <br />
+  </aside>
   <div class="row">
     {% include form-mailchimp.html %}
   </div>

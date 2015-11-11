@@ -7,7 +7,6 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
 }
 
 .card, a.card {
-
   @include flex-basis(36em);
   @include flex-grow(1);
   @include transition (all 0.2s ease-in-out);
@@ -20,10 +19,9 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
   margin: $base-spacing 0;
   position: relative;
   overflow: hidden;
-@include media($lg-up) {
-margin: 0 $card-margin $base-spacing $card-margin;
-
-}
+  // @include media($lg-up) {
+  //   margin: 0 $card-margin $base-spacing $card-margin;
+  // }
 
   .card-image {
     //overflow: hidden;

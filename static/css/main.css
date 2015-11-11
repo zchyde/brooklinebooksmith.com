@@ -1049,9 +1049,6 @@ http://flickity.metafizzy.co
   margin: 1.6em 0;
   position: relative;
   overflow: hidden; }
-  @media screen and (min-width: 56.25em) {
-    .card, a.card {
-      margin: 0 1em 1.6em 1em; } }
   .card .card-image, a.card .card-image {
     height: 180px;
     overflow: hidden;
@@ -1162,7 +1159,7 @@ h1.special {
   font-size: 2.5em !important; }
   @media screen and (min-width: 56.25em) {
     h1.special {
-      font-size: 4.125em !important; } }
+      font-size: 4em !important; } }
 
 .content {
   min-height: 100%;
@@ -1374,6 +1371,47 @@ html, body {
   @media screen and (min-width: 75em) {
     .layout-posts, .has-layout {
       max-width: 75em; } }
+
+.layout_two_column_wide {
+  overflow: hidden; }
+  .layout_two_column_wide header {
+    float: left;
+    display: block;
+    margin-right: 2.77778%;
+    width: 100%; }
+    .layout_two_column_wide header:last-child {
+      margin-right: 0; }
+  .layout_two_column_wide aside {
+    float: left;
+    display: block;
+    margin-right: 2.77778%;
+    width: 100%; }
+    .layout_two_column_wide aside:last-child {
+      margin-right: 0; }
+  .layout_two_column_wide article {
+    float: left;
+    display: block;
+    margin-right: 2.77778%;
+    width: 100%;
+    max-width: 100%; }
+    .layout_two_column_wide article:last-child {
+      margin-right: 0; }
+  @media screen and (min-width: 56.25em) {
+    .layout_two_column_wide aside {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 40.0463%;
+      margin-right: 0; }
+      .layout_two_column_wide aside:last-child {
+        margin-right: 0; }
+    .layout_two_column_wide article {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 57.17593%; }
+      .layout_two_column_wide article:last-child {
+        margin-right: 0; } }
 
 .layout-article {
   overflow: hidden; }
@@ -2174,3 +2212,6 @@ body.grid:before {
 @media screen and (max-width: 480px) {
   .mobile-hide {
     display: none; } }
+
+body {
+  background-color: #fafafa; }

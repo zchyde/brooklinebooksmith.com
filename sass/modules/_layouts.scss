@@ -17,6 +17,11 @@
   }
 }
 
+.layout_two_column_wide {
+
+  @include layout_two_column_wide;
+}
+
 .layout-article {
   @include layout_two_column;
 
