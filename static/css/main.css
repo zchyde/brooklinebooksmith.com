@@ -1514,15 +1514,15 @@ html, body {
         margin-right: 0; } }
   .layout-article aside.page {
     border-radius: 2px;
-    background-color: #f2f2f2;
+    background-color: #e8e8e8;
     margin: 0 0 3em 0;
     color: #2F353E;
     padding: 2em;
     font-size: .875em; }
     .layout-article aside.page hr {
-      border-color: white; }
+      border-color: whitesmoke; }
     .layout-article aside.page a {
-      color: #fff;
+      color: #4C8DB6;
       overflow-wrap: break-word;
       word-wrap: break-word;
       word-break: break-all; }

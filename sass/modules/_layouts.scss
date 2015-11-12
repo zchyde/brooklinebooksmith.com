@@ -35,7 +35,7 @@
         border-color: lighten($sidebar-color-background, 5%);
     }
     a {
-      color: #fff;
+      color: $action-color;
       @include word-wrap;
       &:hover {
         color: #333;
