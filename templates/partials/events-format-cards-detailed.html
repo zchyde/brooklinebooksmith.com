@@ -9,6 +9,8 @@
 
       <div class="card-image" style="{% if related_books != '' %}background-color:#284356;background-image:none;{% endif %}">
 
+
+
         {% if related_books != '' %}
 
           {% for data in related_books %}
@@ -35,10 +37,18 @@
             {% include "templates/partials/events-format-event-name.html" %}
           {% endif %}
         {% endif %}
+      
+
+
+
+
+
       </div>
 
 
         <div class="card-header">
+
+
           {% if row.start_date %}
             <span class="date">{{ row.start_date|date('l, F jS, g:i a') }}</span>
           {% endif %}
@@ -50,11 +60,17 @@
               {% endif %}
             {% endif %}
           {% endif %}
+        
+
+
+
         </div>
 
 
 
       <div class="card-copy">
+
+      
         {% if row.program %}
           <a href="{{ url(row.program) }}">
             <strong>{{ row.program.name }}</strong>
