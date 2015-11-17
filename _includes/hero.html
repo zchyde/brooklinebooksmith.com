@@ -2,17 +2,19 @@
   <div class="hero" data-search-index="false" style="background:none;height:425px;">
     {% include global/navigation.html %}
     <div class="embed-containerTK">
-      <iframe style="height:460px;overflow:hidden;" width="1600" height="425" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.994813435259!2d-71.12388518459608!3d42.34263394419454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379bfdb681bc1%3A0x279c60f655491995!2sBrookline+Booksmith!5e0!3m2!1sen!2sus!4v1442837004017"></iframe>
+      <iframe style="height:460px;overflow:hidden;" width="1600" height="425" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.994813435259!2d-71.12388518459608!3d42.34263394419454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379bfdb681bc1%3A0x279c60f655491995!2sBrookline+Booksmith!5e0!3m2!1sen!2sus!4v1442837004017"></iframe>
     </div>
   </div>
   <hr />
 {% else %}
-  <div class="hero gradient" {% if page.featured_image_pathtk %} style="background-image:url('{{ page.featured_image_path }}');height:440px;background-size:cover;"{% endif %}>
+  <div class="hero gradient"{% if page.featured_image_pathTK %} style="background-image:url('{{ page.featured_image_path }}');height:440px;background-size:cover;"{% endif %}>
     {% include global/navigation.html %}
     <div class="hero-inner">
       <div class="hero-copy">
         {% if page.page_heading %}
-          <h1 class="special editable">Kidsmith, you know. For the Kids</h1>
+          <h1 class="special">
+            {{ page.page_heading }}
+          </h1>
         {% endif %}
         {% if page.lede %}
           {{ page.lede }}
