@@ -39,9 +39,6 @@ fancy_fonts:
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
-  articles:
-    output: true
-    permalink: '/:collection/:path/'
   landing_pages:
     output: true
     permalink: '/:path/'
