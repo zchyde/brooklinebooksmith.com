@@ -5,7 +5,6 @@ featured_image_path: /uploads/1441214423977_IMG_1046.jpg
 page_heading: "Still time for some last-minute vacation reading!"
 staff: alex-s
 ---
-
 Whew! We have been bustling this week! School is closing in on our students, and there’s still time for some last-minute vacation reading on top of those assigned books (which, by the way, you can still find at the back of the kids’ department). Meanwhile, in the book world, FALL is closing in. Fall is book season in the same way that fall is apple season–you can get new and delicious books all year around, but when fall arrives, the books come out in bushels. I have definitely caught the first hints of autumn air on my walks to work this week–and in the store, it’s getting harder to pickwhich amazing new release to talk about first.
 
 Aside from *[Percy Jackson’s Greek Heroes](http://www.brooklinebooksmith-shop.com/book/9781423183655)* and *[The Day the Crayons Came Home](http://www.brooklinebooksmith-shop.com/book/9780399172755)*, here are a few more (okay, more than a few) titles that have come out in the last month or so that we are delighted to share with you.

@@ -1,6 +1,6 @@
   {% comment %} Determine if we're limiting the output to a particular program {% endcomment %}
 {% if include.program %}
-  {% assign events = (site.events | where: "program", include.program ) %}
+  {% assign events = (site.events | where: "program", include.program) %}
 {% comment %} if no program specified in the include, then show all the events {% endcomment %}
 {% else %}
   {% assign events = site.events %}

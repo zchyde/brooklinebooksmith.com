@@ -5,3 +5,34 @@ featured_image_path: '/uploads/photo-vintage-books.jpg'
 featured_image_position: 50
 fancy_font:
 ---
+Since 2004, the Used Book Cellar, located in the basement of Brookline Booksmith, has been Boston's best-kept secret. With over 25,000 books in our inventory, you're guaranteed to find something to pique your interest. Whether you're looking for a good mystery to get you through the commute home, a picture book for your family story time, or some hard-hitting cultural analysis, there's always a good reason to stop by!
+
+How does it work?
+Bring your books to the desk in the Used Book Cellar anytime during our buying hours (Mon-Sat from 10am-4pm) and our experienced buyers will go through them. We'll tally the original price of the books we buy and give you either 15% of that total in cash (check if over $50) or 20% in store credit. You are welcome to browse the stacks while we go through your books.
+There is no limit to the number of books you may bring in at one time. Please bear in mind that the only parking available is metered and on-street, and we do not have an elevator or back entrance. We can loan you a hand cart on request. Once your books are in the store our staff can assist with transporting them up and down the stairs. Our buyers will go through any books you bring in, but all unpurchased books must be removed by the owner as we do not accept donations. For your convenience our buying guidelines are included below.
+Wondering if we'll buy something specific? Feel free to call during buying hours and speak with a used book buyer or e-mail us at ubc@brooklinebooksmith.com as our stock changes regularly. Can't make it in Mon-Sat between 10 and 4? We buy outside designated hours by appointment only. Please call or email to make an appointment.
+
+What are we looking for?:
+- Gently used and up-to-date paperback fiction and non-fiction.
+- At the buyer's discretion we consider hardcovers in graphic novels, art, cooking (published post-2010) and unique vintage editions (published pre-1980).
+
+What don't we take?:
+- Donations
+- Hardcover editions of books available in paperback (most hardcovers come out in paperback after a year.)
+- Textbooks, coursebooks & test prep books (e.g. SAT, AP, TOEFL etc.)
+- Travel guides
+- Computer/technology guides
+- Books with water damage, broken spines, dog-eared pages, highlighting, underlining or handwriting (front page notes/inscriptions are ok)
+- Books sold from our $1 racks
+- Rare, antiquarian or collectible editions
+- Wholesale lots or estates
+
+Our buyers reserve the right to pass on any book they deem unusable.
+
+Our staff cannot:
+- Make house calls
+- Leave the store or give curbside assistance
+- Issue cash or credit for books left at the store outside buying hours
+- Appraise rare, antiquarian or collectible editions.
+- Split a payment between cash and credit
+- Issue more than one sales slip per customer per day
