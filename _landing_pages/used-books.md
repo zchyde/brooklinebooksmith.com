@@ -14,7 +14,7 @@ Bring your books to the desk in the Used Book Cellar anytime during our buying h
 
 There is no limit to the number of books you may bring in at one time. Please bear in mind that the only parking available is metered and on-street, and we do not have an elevator or back entrance. We can loan you a hand cart on request. Once your books are in the store our staff can assist with transporting them up and down the stairs. Our buyers will go through any books you bring in, but all unpurchased books must be removed by the owner as we do not accept donations. For your convenience our buying guidelines are included below.
 
-Wondering if we'll buy something specific? Feel free to call during buying hours and speak with a used book buyer or e-mail us at ubc@brooklinebooksmith.com as
+Wondering if we'll buy something specific? Feel free to call during buying hours and speak with a used book buyer or e-mail us at <ubc@brooklinebooksmith.com> as
 
 our stock changes regularly. Can't make it in Mon-Sat between 10 and 4? We buy outside designated hours by appointment only. Please call or email to make an appointment.
 

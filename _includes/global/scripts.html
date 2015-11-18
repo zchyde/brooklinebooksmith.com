@@ -32,7 +32,18 @@
     s.parentNode.insertBefore(wf, s);
   })(); </script>
 
-  {% if page.fancy_font %}
-    {% capture font %}fonts/{{ page.fancy_font | replace: '+', '-' | downcase }}.html{% endcapture %}
-    {% include {{font}} %}
+  {% if page.fancy_font != '' %}
+
+    {% if page.fancy_font == 'Lato' %}
+      {% include fonts/lato.html %}
+    {% endif %}
+
+    {% if page.fancy_font == 'Cabin-sketch' %}
+      {% include fonts/cabin-sketch.html %}
+    {% endif %}
+
+    {% if page.fancy_font == 'Fredericka+the+Great' %}
+      {% include fonts/fredericka-the-great.html %}
+    {% endif %}
+
   {% endif %}
