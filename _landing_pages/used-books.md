@@ -1,20 +1,10 @@
 ---
 title: Used Book Cellar
 page_heading: Used Book Cellar
-featured_image_path: '/uploads/photo-vintage-books.jpg'
+featured_image_path: /uploads/photo-vintage-books.jpg
 featured_image_position: 50
-fancy_font:
-aside: "Buying Hours:
-Wednesday through Saturday 10am-4pm
-No appointment needed.
-No curbside service; all books must be brought inside.
-Call ahead if you need special assistance.
-
-Photo ID required.
-We offer 15% of original price in cash (checks over $50) OR 20% in store credit. Store credit can be used for anything in the store and never expires!
-
-Contact Us:  
-<ubc@brooklinebooksmith.com>"
+fancy_font: ''
+aside: "Buying Hours: \nWednesday through Saturday 10am-4pm \n\nNo appointment needed. \n\nNo curbside service; all books must be brought inside. Call ahead if you need special assistance.\n\nPhoto ID required. \n\nWe offer 15% of original price in cash (checks over $50) OR 20% in store credit. Store credit can be used for anything in the store and never expires!\n\nContact Us:   <ubc@brooklinebooksmith.com>"
 ---
 Since 2004, the Used Book Cellar, located in the basement of Brookline Booksmith, has been Boston's best-kept secret. With over 25,000 books in our inventory, you're guaranteed to find something to pique your interest. Whether you're looking for a good mystery to get you through the commute home, a picture book for your family story time, or some hard-hitting cultural analysis, there's always a good reason to stop by!
 
