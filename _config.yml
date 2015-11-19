@@ -43,16 +43,16 @@ collections:
     output: true
     permalink: '/:path/'
   events:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
     future: true
   programs:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
   books:
     output: false
   book_categories:
-    output: true
+    output: false
     permalink: '/genre/:path/'
   staff:
     output: false
