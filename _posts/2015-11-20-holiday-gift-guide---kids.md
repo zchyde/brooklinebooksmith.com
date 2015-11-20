@@ -13,9 +13,7 @@ staff: alex-s
 
 <div>---</div>
 
-{% content_for funstuff %}
-
-{% endcontentfor %}
+&nbsp;
 
 ![](/uploads/9781568462554.jpg)SING A SEASON SONG by Jane Yolen and illustrated by Liesl Ashlock&nbsp; ISBN 9781568462554 Jane Yolen’s quiet lullaby, set to the rhythm of the changing seasons, explodes into brilliant full color in Ashlock’s sharply detailed illustrations. As plants and animals of the woods and fields traverse the year, you can also catch glimpses of a few far-off children—the natural world is always close by, if you’re willing to look. The story starts and ends in snug and sleepy winter, while vibrant images of summer will be especially welcome on cold nights.
 
