@@ -111,22 +111,44 @@ Honorable Mentions: Simon vs. the Homo Sapiens Agenda by Becky Albertalli ISBN 9
 
 &nbsp;
 
-CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice&nbsp; ISBN 9780761169277 Budding scientists and naturalists can rejoice in this splendid introduction to nature collecting. Grice provides tips on specimen preservation, a history of nature collecting, and information on a wide array of natural objects (vegetable, animal, and mineral) with photos and illustrations. For those who prefer to stay inside, the book is tremendous fun to delve into; for those who like to pick up feathers, pebbles, and bits of bone, it’s a genuinely valuable (and beautiful) resource.
+![](/uploads/versions/9780761169277---x----309-400x---.jpg)CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice&nbsp; ISBN 9780761169277 Budding scientists and naturalists can rejoice in this splendid introduction to nature collecting. Grice provides tips on specimen preservation, a history of nature collecting, and information on a wide array of natural objects (vegetable, animal, and mineral) with photos and illustrations. For those who prefer to stay inside, the book is tremendous fun to delve into; for those who like to pick up feathers, pebbles, and bits of bone, it’s a genuinely valuable (and beautiful) resource.
 
-WHY’D THEY WEAR THAT?: Fashion as the Mirror of History by Sarah Albee and Timothy Gunn ISBN: 9781426319198 Full of pictures, illustrations, and anecdotes, this is the only guide you will need to explore the history of fashion trends throughout the world. Why’d They Wear That? doesn’t just depict what was worn in a certain era, but also highlights the influences, political and otherwise, that might have lead to that fashion trend at the time.
+---
 
-SWAN: The Life and Dance of Anna Pavlova by Laurel Snyder, illustrated by Julie Morstad&nbsp; ISBN: 9781452118901 It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad’s Swan is a beautifully whimsical look at ballet and the life of a girl who loves it. Morstad’s illustrations are soft and heart-achingly fitting to the story. Ballet fan and picture book fans alike will be taken in and delighted by the gorgeous story. A wonderfully perfect introduction to biographies.
+![](/uploads/versions/9781426319198---x----344-400x---.jpg)WHY’D THEY WEAR THAT?: Fashion as the Mirror of History by Sarah Albee and Timothy Gunn ISBN: 9781426319198 Full of pictures, illustrations, and anecdotes, this is the only guide you will need to explore the history of fashion trends throughout the world. Why’d They Wear That? doesn’t just depict what was worn in a certain era, but also highlights the influences, political and otherwise, that might have lead to that fashion trend at the time.
+
+---
+
+![](/uploads/versions/9781452118901---x----264-400x---.jpg)SWAN: The Life and Dance of Anna Pavlova by Laurel Snyder, illustrated by Julie Morstad&nbsp; ISBN: 9781452118901 It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad’s Swan is a beautifully whimsical look at ballet and the life of a girl who loves it. Morstad’s illustrations are soft and heart-achingly fitting to the story. Ballet fan and picture book fans alike will be taken in and delighted by the gorgeous story. A wonderfully perfect introduction to biographies.
+
+---
 
 Honorable Mentions: Symphony for the City of the Dead by M.T. Anderson ISBN 9780763668181 Creaturepedia by Adrienne Barman ISBN: 9781847806963 Historium by Jo Nelson and Richard Wilkinson ISBN: 9780763679842
 
-GRAPHICA NIMONA by Noelle Stevenson&nbsp; ISBN 9780062278227 Take one embittered villain, one beautiful knight, and add the most stupendous firebreathing, shapeshifting, attitude-having sidekick of all time, and you get Nimona! Nimona turns up and hires herself to Ballister Blackheart like it’s no big deal, but as soon as she arrives, things do get big. Very big. Stevenson hits every note with a graphic novel that’s uproarious, action-packed, and great to look at.
+&nbsp;
+
+### GRAPHICA
+
+&nbsp;
+
+![](/uploads/versions/9780062278227---x----267-400x---.jpg)NIMONA by Noelle Stevenson&nbsp; ISBN 9780062278227 Take one embittered villain, one beautiful knight, and add the most stupendous firebreathing, shapeshifting, attitude-having sidekick of all time, and you get Nimona! Nimona turns up and hires herself to Ballister Blackheart like it’s no big deal, but as soon as she arrives, things do get big. Very big. Stevenson hits every note with a graphic novel that’s uproarious, action-packed, and great to look at.
+
+---
 
 LUMBERJANES TO THE MAX by Grace Ellis Watters, Noelle Stevenson and Brooke A Allen ISBN: 9781608868094 Friendship to the MAX! That is what the Lumberjanes are all about. At this girl scout like camp anything is bound to happen. Yeti’s, mermaids, demigods, possession… sounds like fun right? This gang of five friends can take on anything, anyone, anytime. Clever, sincere, subtle and one of the best new series around, there are no damsels in distress here! Just down-to-earth friends and outdoorsy adventure. There is good reason this series is the talk of the comic world this year!
 
-FABLE COMICS edited by Chris Duffy ISBN: 9781626721074 Different artists illustrate some of their favorite fables. The stories range from George O’Connor (of Olympians fame) tackling tales of the Greek Hermes, to Vera Brosgol (Anya and the Ghost) telling an Indian fable, The Hare and the Pig. Fables Comics has a little something for everyone and is perfect for both reluctant readers and graphic novel fans looking to find new authors to explore.
+---
 
-Graphic Series - MS. MARVEL SERIES by G. Willow Wilson&nbsp; vol 1. ISBN: 9780785190219 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
+![](/uploads/versions/9781626721074---x----305-400x---.jpg)FABLE COMICS edited by Chris Duffy ISBN: 9781626721074 Different artists illustrate some of their favorite fables. The stories range from George O’Connor (of Olympians fame) tackling tales of the Greek Hermes, to Vera Brosgol (Anya and the Ghost) telling an Indian fable, The Hare and the Pig. Fables Comics has a little something for everyone and is perfect for both reluctant readers and graphic novel fans looking to find new authors to explore.
 
-BABY-SITTERS CLUB: Full Color Edition by Ann M. Martin and Raina Telgemeir (Vol 1 ISBN: 9780545813877) Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2015 with its first three full-color graphic novel volumes. With art by Smile and Sisters’ Reina Telgemeier, these books and their enterprising heroines feel completely fresh. You don’t have to be old enough to babysit to enjoy the BSC, but once you’ve met them, they’re bound to be your fictional friends for life.
+---
 
-NATHAN HALE’S HAZARDOUS TALES by Nathan Hale&nbsp; ( vol 1 ISBN 9781419703966) A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)Graphic Series - MS. MARVEL SERIES by G. Willow Wilson&nbsp; vol 1. ISBN: 9780785190219 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
+
+---
+
+![](/uploads/versions/9780545813877---x----275-400x---.jpg)BABY-SITTERS CLUB: Full Color Edition by Ann M. Martin and Raina Telgemeir (Vol 1 ISBN: 9780545813877) Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2015 with its first three full-color graphic novel volumes. With art by Smile and Sisters’ Reina Telgemeier, these books and their enterprising heroines feel completely fresh. You don’t have to be old enough to babysit to enjoy the BSC, but once you’ve met them, they’re bound to be your fictional friends for life.
+
+---
+
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)NATHAN HALE’S HAZARDOUS TALES by Nathan Hale&nbsp; ( vol 1 ISBN 9781419703966) A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
