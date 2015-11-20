@@ -6,4 +6,3 @@ featured_image_position: 50
 aside:
 fancy_font: ''
 ---
-Copy goes Here

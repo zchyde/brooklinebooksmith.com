@@ -70,18 +70,15 @@ gulp.task('watch', function() {
   ], ['default']);
 });
 
-// Static server
-gulp.task('browser-sync', function() {
-    browserSync.init({
-        server: {
-            baseDir: "./"
-        }
-    });
+
+gulp.task('serve', function () {
+    browserSync.init({server: {baseDir: '_site/'}});
+    // Reloads page when some of the already built files changed:
+    gulp.watch('_site/**/*.*').on('change', browserSync.reload);
 });
 
-
 gulp.task('default',function(){
-    gulp.start('styles', 'lint', 'scripts', 'scripts-concat', 'move-scripts');
+    gulp.start('styles', 'lint', 'scripts', 'scripts-concat', 'move-scripts', 'serve');
 });
 
 

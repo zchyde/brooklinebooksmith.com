@@ -7,4 +7,5 @@ featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
 fancy_font: Cabin-sketch
 include: posts-kids.html
 include_aside: events/kids.html
+follow: true
 ---

@@ -29,6 +29,12 @@ layout: default
     </div>
   </article>
   <aside class="page">
+    {% if page.follow %}
+      <a href="https://twitter.com/kidsmithbooks" class="brand">
+        <img src="/static/images/twitter@2x.png" style="height:2em;vertical-align:middle;"/>
+        Follow Kidsmith on Twitter
+      </a>
+    {% endif %}
     {% if page.aside %}
       {{ page.aside | markdownify }}
     {% endif %}
