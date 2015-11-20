@@ -23,7 +23,7 @@ staff: alex-s
 
 ---
 
-ROBO-SAUCE by Adam Rubin, illustrated by Daniel Salmieri ISBN 9780525428879 What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin and Salmieri really hit it out of the park with this one! A wickedly clever (make sure you read all the fine print and details!), robot romp that captures the heart of the imagination and proves that we are still kids at heart. After all, who could be too old for cardboard robots?
+![](/uploads/versions/9780525428879---x----342-400x---.jpg)ROBO-SAUCE by Adam Rubin, illustrated by Daniel Salmieri ISBN 9780525428879 What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin and Salmieri really hit it out of the park with this one! A wickedly clever (make sure you read all the fine print and details!), robot romp that captures the heart of the imagination and proves that we are still kids at heart. After all, who could be too old for cardboard robots?
 
 LITTLE ELLIOT, BIG FAMILY by Mike Curato&nbsp; ISBN: 9780805098266 A sweet and heartwarming follow up to Little Elliot, Big City. When Mouse leaves for a family reunion Elliot feels left behind. But before long Mouse comes back for him and brings him a surprise. With his signature whimsy, Curato looks at how sometimes family finds you when you need them most.
 
