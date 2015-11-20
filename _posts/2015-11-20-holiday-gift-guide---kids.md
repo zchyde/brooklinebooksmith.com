@@ -19,13 +19,9 @@ staff: alex-s
 
 ---
 
-&nbsp;
+![](/uploads/versions/9780545166690---x----388-400x---.jpg)ZEN SOCKS by Jon J Muth ISBN 9780545166690 Sometimes, if we stop and listen, our friends can give us the best advice. With gentle watercolor illustrations and whimsical characters, Muth perfectly captures quiet moments of friendship, and reminds us that rushing won’t get us as far as we think, and perseverance can lead us through even seemingly insurmountable tasks.
 
-ZEN SOCKS by Jon J Muth ISBN 9780545166690 Sometimes, if we stop and listen, our friends can give us the best advice. With gentle watercolor illustrations and whimsical characters, Muth perfectly captures quiet moments of friendship, and reminds us that rushing won’t get us as far as we think, and perseverance can lead us through even seemingly insurmountable tasks.
-
-&nbsp;
-
-&nbsp;
+---
 
 ROBO-SAUCE by Adam Rubin, illustrated by Daniel Salmieri ISBN 9780525428879 What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin and Salmieri really hit it out of the park with this one! A wickedly clever (make sure you read all the fine print and details!), robot romp that captures the heart of the imagination and proves that we are still kids at heart. After all, who could be too old for cardboard robots?
 
