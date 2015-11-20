@@ -49,9 +49,13 @@ FIRST CHAPTER BOOKS (no blurbs) The Complete Brambly Hedge by Jill Barklem ISBN 
 
 ---
 
-GEORGE by Alex Gino ISBN 9780545812542 George is a pretty normal fourth-grade girl. She likes clothes and friends. She’s dying to be Charlotte in her class production of Charlotte’s Web. The only thing that’s different about George is that no one knows she’s a girl. Not her teachers, her family, or her friends. But George wants that to change. Alex Gino’s debut stars a strong-minded, good-hearted, totally believable protagonist, a transgender girl who’s ready to be seen by the world as she sees herself.
+![](/uploads/versions/9780545812542---x----267-400x---.jpg)GEORGE by Alex Gino ISBN 9780545812542 George is a pretty normal fourth-grade girl. She likes clothes and friends. She’s dying to be Charlotte in her class production of Charlotte’s Web. The only thing that’s different about George is that no one knows she’s a girl. Not her teachers, her family, or her friends. But George wants that to change. Alex Gino’s debut stars a strong-minded, good-hearted, totally believable protagonist, a transgender girl who’s ready to be seen by the world as she sees herself.
 
-DOLDRUMS by Nicholas Gannon ISBN: 9780062320940 A unique and whimsical story that is just begging to be read out loud. Characters reminiscent of Roald Dahl, with quirky humor and the best round about logic. Who doesn’t get in shape for an Arctic Expedition by eating as much ice as possible? The author also created stunning full color illustrations that perfectly highlight the setting of this brilliant new classic.
+---
+
+![](/uploads/versions/9780062320940---x----269-400x---.jpg)DOLDRUMS by Nicholas Gannon ISBN: 9780062320940 A unique and whimsical story that is just begging to be read out loud. Characters reminiscent of Roald Dahl, with quirky humor and the best round about logic. Who doesn’t get in shape for an Arctic Expedition by eating as much ice as possible? The author also created stunning full color illustrations that perfectly highlight the setting of this brilliant new classic.
+
+---
 
 WOLF WILDER by Katherine Rundell&nbsp; ISBN: 9781481419420 Feo has a very unusual job. Her and her mother re-introduce domesticated wolves into the wild. They call it Wolf Wilding. Feo loves the wolves and she loves her snowy home deep in the Russian wilderness. Unexpected friends, and fierce enemies change Feo’s life, and the lives of the wolves closest to her, forever. After all, “wolves, like children, are not born to lead calm lives.”
 
