@@ -36,6 +36,11 @@ fancy_fonts:
   - 'Fredericka+the+Great'
   - 'Cabin-sketch'
   - 'Lato'
+categories:
+  - Kids
+  - Holiday-Gift-Guide
+  - Used-Book-Cellar
+  - Giftsmith
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:

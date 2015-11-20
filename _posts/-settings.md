@@ -2,7 +2,7 @@
 title:
 published: false
 date:
-categories:
+category:
 comments: true
 staff:
 ---
