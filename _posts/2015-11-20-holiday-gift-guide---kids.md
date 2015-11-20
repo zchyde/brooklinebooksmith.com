@@ -17,7 +17,15 @@ staff: alex-s
 
 ![](/uploads/9781568462554.jpg)SING A SEASON SONG by Jane Yolen and illustrated by Liesl Ashlock&nbsp; ISBN 9781568462554 Jane Yolen’s quiet lullaby, set to the rhythm of the changing seasons, explodes into brilliant full color in Ashlock’s sharply detailed illustrations. As plants and animals of the woods and fields traverse the year, you can also catch glimpses of a few far-off children—the natural world is always close by, if you’re willing to look. The story starts and ends in snug and sleepy winter, while vibrant images of summer will be especially welcome on cold nights.
 
+&nbsp;
+
+&nbsp;
+
 ZEN SOCKS by Jon J Muth ISBN 9780545166690 Sometimes, if we stop and listen, our friends can give us the best advice. With gentle watercolor illustrations and whimsical characters, Muth perfectly captures quiet moments of friendship, and reminds us that rushing won’t get us as far as we think, and perseverance can lead us through even seemingly insurmountable tasks.
+
+&nbsp;
+
+&nbsp;
 
 ROBO-SAUCE by Adam Rubin, illustrated by Daniel Salmieri ISBN 9780525428879 What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin and Salmieri really hit it out of the park with this one! A wickedly clever (make sure you read all the fine print and details!), robot romp that captures the heart of the imagination and proves that we are still kids at heart. After all, who could be too old for cardboard robots?
 
