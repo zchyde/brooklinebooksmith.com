@@ -31,6 +31,8 @@ ROBO-SAUCE by Adam Rubin, illustrated by Daniel Salmieri ISBN 9780525428879 What
 
 LITTLE ELLIOT, BIG FAMILY by Mike Curato&nbsp; ISBN: 9780805098266 A sweet and heartwarming follow up to Little Elliot, Big City. When Mouse leaves for a family reunion Elliot feels left behind. But before long Mouse comes back for him and brings him a surprise. With his signature whimsy, Curato looks at how sometimes family finds you when you need them most.
 
+---
+
 JACK FROST (The Guardians of Childhood) by William Joyce ISBN: 9781442430433 Yet another beautiful installment in Joyce’s Guardians of Childhood series. To keep the lonely cold inside him from taking over Jack spreads it to the landscape instead until one day he learns that bringing joy to others is another way to keep himself warm. Jack Frost is a gorgeously illustrated look at the power of helping others and the bravery that it sometimes takes.
 
 Honorable Mentions: HarperCollins Treasury of Picture Book Classics (various) ISBN 9780062427250 Magical World of Strega Nona by Tomie de Paola ISBN 9780399173455 Lizard From the Park by Mark Pett ISBN 9781442483217 This is My Home, This is My School by Jonathan Bean ISBN 9780374380205 Lenny and Lucy by Philip C. Stead and Illustrated by Erin E. Stead ISBN: 9781596439320 The Boy who Loved the Moon by Rino Alaimo ISBN: 9781939629760
