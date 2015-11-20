@@ -57,31 +57,61 @@ FIRST CHAPTER BOOKS (no blurbs) The Complete Brambly Hedge by Jill Barklem ISBN 
 
 ---
 
-WOLF WILDER by Katherine Rundell&nbsp; ISBN: 9781481419420 Feo has a very unusual job. Her and her mother re-introduce domesticated wolves into the wild. They call it Wolf Wilding. Feo loves the wolves and she loves her snowy home deep in the Russian wilderness. Unexpected friends, and fierce enemies change Feo’s life, and the lives of the wolves closest to her, forever. After all, “wolves, like children, are not born to lead calm lives.”
+![](/uploads/versions/9781481419420---x----265-400x---.jpg)WOLF WILDER by Katherine Rundell&nbsp; ISBN: 9781481419420 Feo has a very unusual job. Her and her mother re-introduce domesticated wolves into the wild. They call it Wolf Wilding. Feo loves the wolves and she loves her snowy home deep in the Russian wilderness. Unexpected friends, and fierce enemies change Feo’s life, and the lives of the wolves closest to her, forever. After all, “wolves, like children, are not born to lead calm lives.”
 
-THE MARVELS by Brian Sleznick&nbsp; ISBN: 9780545448680 Marvels opens with the lone survivor of a shipwreck, a story told in Selznick’s beautiful illustrations, and fans out into the text story of a runaway almost 200 years later. Both stories are beautiful and intriguing and in the end marvels themselves when they meet in a way the reader won’t expect. Marvels is a stunning follow up to 2011’s Wonderstruck that is hands-down worth every second of the wait.
+---
 
-MAGNUS CHASE AND THE GODS OF ASGARD, BOOK 1: THE SWORD OF SUMMER by Rick Riordan ISBN: 9781423160915 Riordan has without a doubt done it again! With his signature wit and understanding of his audience, he crafts the punny, brave, and hilarious story of runaway, Magnus Chase, who had just been informed that he is the son of a Norse God. With a story set in Boston and chapter titles that are laugh-out-loud funny on their own, Sword of Summer is sure to make Riordan new fans while still managing to bring the old ones back for more.
+![](/uploads/versions/9780545448680---x----268-400x---.jpg)THE MARVELS by Brian Sleznick&nbsp; ISBN: 9780545448680 Marvels opens with the lone survivor of a shipwreck, a story told in Selznick’s beautiful illustrations, and fans out into the text story of a runaway almost 200 years later. Both stories are beautiful and intriguing and in the end marvels themselves when they meet in a way the reader won’t expect. Marvels is a stunning follow up to 2011’s Wonderstruck that is hands-down worth every second of the wait.
+
+---
+
+![](/uploads/versions/9781423160915---x----263-400x---.jpg)MAGNUS CHASE AND THE GODS OF ASGARD, BOOK 1: THE SWORD OF SUMMER by Rick Riordan ISBN: 9781423160915 Riordan has without a doubt done it again! With his signature wit and understanding of his audience, he crafts the punny, brave, and hilarious story of runaway, Magnus Chase, who had just been informed that he is the son of a Norse God. With a story set in Boston and chapter titles that are laugh-out-loud funny on their own, Sword of Summer is sure to make Riordan new fans while still managing to bring the old ones back for more.
+
+---
 
 Honorable Mentions: Harry Potter and the Sorcerer’s Stone: The Illustrated Edition by J.K. Rowling/illustrated by Jim Kay
 
 ISBN 9780545790352 Caretaker’s Guide to Fablehaven by Brandon Mull ISBN 9781629720913 Goodbye Stranger by Rebecca Stead ISBN: 9780385743174
 
-YOUNG ADULT&nbsp; SHADOWSHAPER by Daniel Jos&eacute; Older ISBN 9780545591614 Sierra Santiago never knew magic was part of her Puerto Rican heritage. But shadowshaping—the ability to immortalize the souls of the dead in works of art—is real, and shadowshapers are being murdered. Sierra and a young shadowshaper named Robbie race through Brooklyn against time, zombies, and worse—before they lose shadowshaping forever. With language that sings and a story that pelts across the pages, Older’s urban fantasy will go straight to your head.
+&nbsp;
 
-DUMPLIN’ by Julie Murphy ISBN 9780062327185 It’s not easy being the fat daughter of Miss Teen Blue Bonnet 1997, but Willowdean is more interested in Dolly Parton, her best friend El, and the gorgeous boy at work than pageants. When her aunt dies and her friendship with El gets shaky, Willowdean loses confidence. To get back her gumption, she and a group of fellow unlikelys decide to compete in the pageant as they are—because every girl is good enough. Dumplin’ is funny, fierce, romantic YA at its best.
+### YOUNG ADULT&nbsp;
 
-ORBITING JUPITER by Gary D. Schmidt&nbsp; ISBN: 9780544462229 Have you ever read a book that was so profound, so full of soul, and meaning, and truth, that all you could do was sit in silence for a while once you finished? Orbiting Jupiter is that book. Make yourself some tea, snag a box of tissues, and let Gary Schmidt tell you the story of a boy named Joseph, a foster family, a small snowy town, and a baby girl named Jupiter.
+&nbsp;
 
-THE REST OF US JUST LIVE HERE by Patrick Ness ISBN: 9780062403162 When the world is ending, it’s the “special” kids who get all the attention. What about the people who are normal and not saving the world? Can they be extraordinary too? Or are they only background noise to all those special events? Mike, is a “normal” but in reality he is anything but. This story will stick with you long after you finish that last page, and will beg you to re-read it over and over.
+![](/uploads/versions/9780545591614---x----265-400x---.jpg)SHADOWSHAPER by Daniel Jos&eacute; Older ISBN 9780545591614 Sierra Santiago never knew magic was part of her Puerto Rican heritage. But shadowshaping—the ability to immortalize the souls of the dead in works of art—is real, and shadowshapers are being murdered. Sierra and a young shadowshaper named Robbie race through Brooklyn against time, zombies, and worse—before they lose shadowshaping forever. With language that sings and a story that pelts across the pages, Older’s urban fantasy will go straight to your head.
 
-ILLUMINAE by Annie Kaufman and Jay Kristoff&nbsp; ISBN: 9780553499117 Told through e-mails, interviews, and instant messages Illuminae follows Katy and Ezra, two refugee teens after their illegal mining planet is bombed. They’re genuine, smart, and resourceful as they attempt to uncover the depth of the conspiracy behind the tragedy. Managing to be alternately heart-breaking and laugh-out-loud funny, Illuminae delivers a story unlike anything you’re expecting. With a story told this well, it doesn’t matter if you’re a sci-fi fan or not.
+---
 
-SIX OF CROWS by Leigh Bardugo&nbsp; ISBN: 9781627792127 Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist novel. Told through the point of view of six different characters all with their own voice, motive, and skills, Crows follows their attempt to break into an unbreakable prison. The story unfolds like all great heists with enough twists and misdirection to leave you begging for more. Welcome to the Dregs.
+![](/uploads/versions/9780062327185---x----264-400x---.jpg)DUMPLIN’ by Julie Murphy ISBN 9780062327185 It’s not easy being the fat daughter of Miss Teen Blue Bonnet 1997, but Willowdean is more interested in Dolly Parton, her best friend El, and the gorgeous boy at work than pageants. When her aunt dies and her friendship with El gets shaky, Willowdean loses confidence. To get back her gumption, she and a group of fellow unlikelys decide to compete in the pageant as they are—because every girl is good enough. Dumplin’ is funny, fierce, romantic YA at its best.
+
+---
+
+![](/uploads/versions/9780544462229---x----267-400x---.jpg)ORBITING JUPITER by Gary D. Schmidt&nbsp; ISBN: 9780544462229 Have you ever read a book that was so profound, so full of soul, and meaning, and truth, that all you could do was sit in silence for a while once you finished? Orbiting Jupiter is that book. Make yourself some tea, snag a box of tissues, and let Gary Schmidt tell you the story of a boy named Joseph, a foster family, a small snowy town, and a baby girl named Jupiter.
+
+---
+
+![](/uploads/versions/9780062403162---x----264-400x---.jpg)THE REST OF US JUST LIVE HERE by Patrick Ness ISBN: 9780062403162 When the world is ending, it’s the “special” kids who get all the attention. What about the people who are normal and not saving the world? Can they be extraordinary too? Or are they only background noise to all those special events? Mike, is a “normal” but in reality he is anything but. This story will stick with you long after you finish that last page, and will beg you to re-read it over and over.
+
+---
+
+![](/uploads/versions/9780553499117---x----265-400x---.jpg)ILLUMINAE by Annie Kaufman and Jay Kristoff&nbsp; ISBN: 9780553499117 Told through e-mails, interviews, and instant messages Illuminae follows Katy and Ezra, two refugee teens after their illegal mining planet is bombed. They’re genuine, smart, and resourceful as they attempt to uncover the depth of the conspiracy behind the tragedy. Managing to be alternately heart-breaking and laugh-out-loud funny, Illuminae delivers a story unlike anything you’re expecting. With a story told this well, it doesn’t matter if you’re a sci-fi fan or not.
+
+---
+
+![](/uploads/versions/9781627792127---x----269-400x---.jpg)SIX OF CROWS by Leigh Bardugo&nbsp; ISBN: 9781627792127 Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist novel. Told through the point of view of six different characters all with their own voice, motive, and skills, Crows follows their attempt to break into an unbreakable prison. The story unfolds like all great heists with enough twists and misdirection to leave you begging for more. Welcome to the Dregs.
+
+---
 
 Honorable Mentions: Simon vs. the Homo Sapiens Agenda by Becky Albertalli ISBN 9780062348678 Hunter by Mercedes Lackey ISBN: 9781484707845 Trouble is a Friend of Mine by Stephanie Tromly ISBN: 9780525428404
 
-NONFICTION CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice&nbsp; ISBN 9780761169277 Budding scientists and naturalists can rejoice in this splendid introduction to nature collecting. Grice provides tips on specimen preservation, a history of nature collecting, and information on a wide array of natural objects (vegetable, animal, and mineral) with photos and illustrations. For those who prefer to stay inside, the book is tremendous fun to delve into; for those who like to pick up feathers, pebbles, and bits of bone, it’s a genuinely valuable (and beautiful) resource.
+&nbsp;
+
+### NONFICTION
+
+&nbsp;
+
+CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice&nbsp; ISBN 9780761169277 Budding scientists and naturalists can rejoice in this splendid introduction to nature collecting. Grice provides tips on specimen preservation, a history of nature collecting, and information on a wide array of natural objects (vegetable, animal, and mineral) with photos and illustrations. For those who prefer to stay inside, the book is tremendous fun to delve into; for those who like to pick up feathers, pebbles, and bits of bone, it’s a genuinely valuable (and beautiful) resource.
 
 WHY’D THEY WEAR THAT?: Fashion as the Mirror of History by Sarah Albee and Timothy Gunn ISBN: 9781426319198 Full of pictures, illustrations, and anecdotes, this is the only guide you will need to explore the history of fashion trends throughout the world. Why’d They Wear That? doesn’t just depict what was worn in a certain era, but also highlights the influences, political and otherwise, that might have lead to that fashion trend at the time.
 
