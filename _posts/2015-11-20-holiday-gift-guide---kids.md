@@ -31,15 +31,23 @@ staff: alex-s
 
 ---
 
-JACK FROST (The Guardians of Childhood) by William Joyce ISBN: 9781442430433 Yet another beautiful installment in Joyce’s Guardians of Childhood series. To keep the lonely cold inside him from taking over Jack spreads it to the landscape instead until one day he learns that bringing joy to others is another way to keep himself warm. Jack Frost is a gorgeously illustrated look at the power of helping others and the bravery that it sometimes takes.
+![](/uploads/versions/9781442430433---x----399-400x---.jpg)JACK FROST (The Guardians of Childhood) by William Joyce ISBN: 9781442430433 Yet another beautiful installment in Joyce’s Guardians of Childhood series. To keep the lonely cold inside him from taking over Jack spreads it to the landscape instead until one day he learns that bringing joy to others is another way to keep himself warm. Jack Frost is a gorgeously illustrated look at the power of helping others and the bravery that it sometimes takes.
+
+---
 
 Honorable Mentions: HarperCollins Treasury of Picture Book Classics (various) ISBN 9780062427250 Magical World of Strega Nona by Tomie de Paola ISBN 9780399173455 Lizard From the Park by Mark Pett ISBN 9781442483217 This is My Home, This is My School by Jonathan Bean ISBN 9780374380205 Lenny and Lucy by Philip C. Stead and Illustrated by Erin E. Stead ISBN: 9781596439320 The Boy who Loved the Moon by Rino Alaimo ISBN: 9781939629760
 
 FIRST CHAPTER BOOKS (no blurbs) The Complete Brambly Hedge by Jill Barklem ISBN 9780007450169 The Story of Diva and Flea by Tony Diterlizzi and Mo Willems ISBN 9781484722848 Francine Poulet Meets the Ghost Racoon by Kate Dicamillo Illustrated by Chris Van Dusen ISBN 9780763668860
 
-INTERMEDIATE FICTION
+### &nbsp;
 
-THE NEST by Kenneth Oppel, illustrated by Jon Klassen ISBN 9781481432320 Anxiety-ridden Steve can hardly stand to think about his sick newborn brother. Then a white wasp comes to Steve in a dream with an offer: let this little brother go. The wasps will make a new one. A better one. He only has to say yes. Klassen’s illustrations augment the papery creepiness of the story (chapter headings are marked by a growing swarm of wasps), but it’s the courage and love bursting from this book that make it a staff favorite.
+### INTERMEDIATE FICTION
+
+&nbsp;
+
+![](/uploads/versions/9781481432320---x----283-400x---.jpg)THE NEST by Kenneth Oppel, illustrated by Jon Klassen ISBN 9781481432320 Anxiety-ridden Steve can hardly stand to think about his sick newborn brother. Then a white wasp comes to Steve in a dream with an offer: let this little brother go. The wasps will make a new one. A better one. He only has to say yes. Klassen’s illustrations augment the papery creepiness of the story (chapter headings are marked by a growing swarm of wasps), but it’s the courage and love bursting from this book that make it a staff favorite.
+
+---
 
 GEORGE by Alex Gino ISBN 9780545812542 George is a pretty normal fourth-grade girl. She likes clothes and friends. She’s dying to be Charlotte in her class production of Charlotte’s Web. The only thing that’s different about George is that no one knows she’s a girl. Not her teachers, her family, or her friends. But George wants that to change. Alex Gino’s debut stars a strong-minded, good-hearted, totally believable protagonist, a transgender girl who’s ready to be seen by the world as she sees herself.
 
