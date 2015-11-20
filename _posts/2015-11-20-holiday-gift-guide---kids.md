@@ -1,6 +1,6 @@
 ---
 title: Holiday Gift Guide - Kids
-published: false
+published: true
 date: 2015-11-20T12:00:00.000Z
 category: Holiday-Gift-Guide
 comments: false
