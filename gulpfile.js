@@ -1,6 +1,7 @@
 'use strict';
 
 var gulp     = require('gulp'),
+    browserSync = require('browser-sync').create(),
     concat   = require('gulp-concat'),
     jshint   = require('gulp-jshint'),
     minify   = require('gulp-minify-css'),
@@ -10,7 +11,7 @@ var gulp     = require('gulp'),
     neat     = require('node-neat').includePaths,
     watch = require('gulp-watch');
 
-var CSSDest = './static/css/', 
+var CSSDest = './static/css/',
     JSDest = './static/js/dist/';
 
 gulp.task('styles', function () {
@@ -45,7 +46,7 @@ gulp.task('scripts-concat', function() {
   return gulp.src(
       [
       'node_modules/jquery/dist/jquery.min.js',
-      'javascript/dist/scripts.min.js'        
+      'javascript/dist/scripts.min.js'
       ])
     .pipe(concat('scripts-concatenated.min.js')) //change this to change the script found in 'templates/global/_scripts.html'
     .pipe(gulp.dest(JSDest))
@@ -55,7 +56,7 @@ gulp.task('scripts-concat', function() {
 
 gulp.task('move-scripts', function(){
     return gulp.src([
-        './node_modules/html5shiv/dist/html5shiv.min.js', 
+        './node_modules/html5shiv/dist/html5shiv.min.js',
         './node_modules/respond.js/dest/respond.min.js'
         ])
     .pipe(gulp.dest(JSDest));
@@ -67,6 +68,15 @@ gulp.task('watch', function() {
     'sass/**/*',
     'javascript/*'
   ], ['default']);
+});
+
+// Static server
+gulp.task('browser-sync', function() {
+    browserSync.init({
+        server: {
+            baseDir: "./"
+        }
+    });
 });
 
 
