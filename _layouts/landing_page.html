@@ -22,19 +22,13 @@ layout: default
       {% if page.featured_image_credit %}
         <div class="row">
           <div class="caption">
-            image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+            {% include  snippets/image-credit.html %}
           </div>
         </div>
       {% endif %}
     </div>
   </article>
   <aside class="page">
-    {% if page.follow %}
-      <a href="https://twitter.com/kidsmithbooks" class="brand">
-        <img src="/static/images/twitter@2x.png" style="height:2em;vertical-align:middle;"/>
-        Follow Kidsmith on Twitter
-      </a>
-    {% endif %}
     {% if page.aside %}
       {{ page.aside | markdownify }}
     {% endif %}

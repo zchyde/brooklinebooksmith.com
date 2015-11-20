@@ -11,13 +11,15 @@ include_hero: false
       </h2>
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.staff %} • {{ page.staff }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </header>
-    <div class="entry-content prose">
+    <div class="entry-content">
       {% if page.lede %}
         <div class="lede">
           {{ page.lede |markdownify }}
         </div>
       {% endif %}
-      {{ page.content  | markdownify }}
+      <div class="prose">
+        {{ page.content  | markdownify }}
+      </div>
       {% if page.include %}
         {% include {{ page.include }} %}
       {% endif %}
@@ -32,8 +34,9 @@ include_hero: false
     {% if page.aside %}
       {{ page.aside | markdownify }}
     {% endif %}
-    <br />
-          <h6>category: {{ page.categories }}</h6>
+    <br />{% capture page_categories %}{{ page.categories }}{% endcapture %}
+          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
+
   </aside>
   <div class="row">
     {% include form-constant-contact.html %}

@@ -31,6 +31,13 @@
     background-color: $sidebar-color-background;//$color-2;
     margin:0 0 3em 0;
     color: $blue-dark;//$brown-dark;
+    h6 {
+      img {
+        height:2em;
+        vertical-align:middle;
+      }
+      font-family: $brand-font-family;
+    }
     hr {
         border-color: lighten($sidebar-color-background, 5%);
     }

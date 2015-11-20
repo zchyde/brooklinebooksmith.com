@@ -46,6 +46,7 @@ header.navigation {
       {% else %}
         height: 450px;
       {% endif %}
+      max-height:90vh;
     }
 
     body.home .gradient,body.video .gradient, .gradient {

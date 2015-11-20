@@ -8,4 +8,5 @@ fancy_font: Cabin-sketch
 include: posts-kids.html
 include_aside: events/kids.html
 follow: true
+aside: "###### [![yotwitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
 ---

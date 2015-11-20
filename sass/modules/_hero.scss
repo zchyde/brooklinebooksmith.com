@@ -83,15 +83,21 @@ $gallery-cell-colors:
   }
 
   .hero-inner {
-    @include outer-container;
-    @include clearfix;
+    //@include outer-container;
+    //@include clearfix;
     margin: auto;
-    padding: 3em 3.125em 1em 3.125em;
+    /////////////// padding: 3em 3.125em 1em 3.125em;
     text-align: center;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 
     .hero-copy {
       text-align: center;
-      padding-bottom: 3.5em;
+      /////////////// padding-bottom: 3.5em;
+      max-width: 60%;
 
       h1 {
         color: $hero-color;
@@ -106,7 +112,7 @@ $gallery-cell-colors:
       p {
         color: $hero-color;
         line-height: 1.4em;
-        margin: 0 auto 3em auto;
+        /////////////// margin: 0 auto 3em auto;
 
         @include media($lg) {
           font-size: 1.1em;
