@@ -5,14 +5,14 @@
 
 
 
-    {% if event.book_category OR event.program %}
+    {% if event.category OR event.program %}
       <div class="flagged">
     {% comment %} capture event category {% endcomment %}
-    {% if event.book_category %}
-      {% capture category_url %}/genre/{{ event.book_category }}/{% endcapture %}
-      {% assign book_category = site.book_categories | where: 'url', category_url    %}
-        {% assign book_category_title = book_category[0].title %}
-              {{ book_category_title }}
+    {% if event.category %}
+
+        {% assign category_title = event.category[0].title %}
+              {{ category_title }}
+              {{event.category}}
     {% endif %}
 
     {% comment %} capture programs {% endcomment %}
@@ -21,6 +21,8 @@
       {% assign program = site.programs | where: 'url', related_program    %}
         {% assign program_title = program[0].title %}
         {{ program_title }}
+
+
       {% endif %}
       </div>
       {% endif %}

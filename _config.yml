@@ -57,9 +57,6 @@ collections:
     permalink: '/:collection/:path/'
   books:
     output: false
-  book_categories:
-    output: false
-    permalink: '/genre/:path/'
   staff:
     output: false
     permalink: '/:collection/:path/'

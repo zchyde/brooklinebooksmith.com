@@ -2,7 +2,7 @@
 title: "**Jewish Noir**"
 start_at: 2015-11-05T19:00:00.000Z
 ticketed: false
-book_category: 'mystery'
+category: 'mystery'
 book_isbn:
  - 9781629631110
 ---

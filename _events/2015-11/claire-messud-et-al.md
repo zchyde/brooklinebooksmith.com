@@ -3,7 +3,7 @@ title: "**Claire Messud, Askold Melnyczuk, Alice Rothschild and Adam Stumacher**
 published: true
 start_at: 2015-11-16T19:00:00.000Z
 ticketed: false
-book_category:
+category:
 book_isbn:
   -
 ---
