@@ -17,8 +17,6 @@ This spirited retelling retains Cinderella’s classic structure, but capable me
 
 ---
 
-&nbsp;
-
 ![](/uploads/9781568462554.jpg)SING A SEASON SONG by Jane Yolen and illustrated by Liesl Ashlock&nbsp;
 
 ISBN 9781568462554
@@ -69,7 +67,7 @@ The Story of Diva and Flea by Tony Diterlizzi and Mo Willems ISBN 9781484722848
 
 Francine Poulet Meets the Ghost Racoon by Kate Dicamillo Illustrated by Chris Van Dusen ISBN 9780763668860
 
-### &nbsp;
+&nbsp;
 
 ### INTERMEDIATE FICTION
 
@@ -129,7 +127,7 @@ ISBN 9780545790352 Caretaker’s Guide to Fablehaven by Brandon Mull ISBN 978162
 
 &nbsp;
 
-### YOUNG ADULT&nbsp;
+### YOUNG ADULT
 
 &nbsp;
 
@@ -149,7 +147,7 @@ It’s not easy being the fat daughter of Miss Teen Blue Bonnet 1997, but Willow
 
 ---
 
-![](/uploads/versions/9780544462229---x----267-400x---.jpg)ORBITING JUPITER by Gary D. Schmidt&nbsp;
+![](/uploads/versions/9780544462229---x----267-400x---.jpg)ORBITING JUPITER by Gary D. Schmidt
 
 ISBN: 9780544462229
 
