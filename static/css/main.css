@@ -1017,7 +1017,7 @@ article.hentry {
     float: left;
     margin: .25em 1em .25em 0; }
   article.hentry .prose hr {
-    margin: 3em auto; }
+    margin: 4em auto; }
   article.hentry img {
     max-width: 100%; }
   @media screen and (min-width: 31.25em) {
