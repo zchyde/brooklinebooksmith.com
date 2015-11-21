@@ -66,7 +66,7 @@ gulp.task('move-scripts', function(){
 gulp.task('watch', function() {
   gulp.watch([
     'sass/**/*',
-    'javascript/*'
+    'static/js/*'
   ], ['default']);
 });
 
