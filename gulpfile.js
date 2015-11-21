@@ -28,25 +28,25 @@ gulp.task('styles', function () {
 });
 
 gulp.task("lint", function() {
-    gulp.src("./javascript/*.js")
+    gulp.src("./static/js/*.js")
         .pipe(jshint())
         .pipe(jshint.reporter("default"));
 });
 
 gulp.task('scripts', function() {
-  return gulp.src( './javascript/*.js')
+  return gulp.src( './static/js/*.js')
     .pipe(concat('scripts.js'))
-    .pipe(gulp.dest('javascript/dist/'))
+    .pipe(gulp.dest(JSDest))
     .pipe(uglify())
     .pipe(rename({ extname: '.min.js' }))
-    .pipe(gulp.dest('javascript/dist/'))
+    .pipe(gulp.dest(JSDest))
 });
 
 gulp.task('scripts-concat', function() {
   return gulp.src(
       [
       'node_modules/jquery/dist/jquery.min.js',
-      'javascript/dist/scripts.min.js'
+      'static/js/dist/scripts.min.js'
       ])
     .pipe(concat('scripts-concatenated.min.js')) //change this to change the script found in 'templates/global/_scripts.html'
     .pipe(gulp.dest(JSDest))

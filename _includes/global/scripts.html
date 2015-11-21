@@ -4,12 +4,23 @@
     var element_addthis = document.createElement("script");
     element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-561d1f58a8154d03";
     document.body.appendChild(element_addthis);
+
+    var element_addthis_events = document.createElement("script");
+    element_addthis_events.src = "https://addevent.com/libs/atc/1.6.1/atc.min.js";
+    document.body.appendChild(element_addthis_events);
   }
   if (window.addEventListener)
   window.addEventListener("load", downloadJSAtOnload, false);
   else if (window.attachEvent)
   window.attachEvent("onload", downloadJSAtOnload);
   else window.onload = downloadJSAtOnload;
+
+  
+
+
+  ;(function(document) {
+	document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
+}(document));
 
 </script>
 
@@ -48,3 +59,4 @@
     {% endif %}
 
   {% endif %}
+  <!-- AddEvent -->

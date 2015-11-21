@@ -480,7 +480,7 @@ caption {
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
-  background-color: #4C8DB6;
+  background-color: #981C41;
   border: 0;
   border-radius: 3px;
   color: #fff;
@@ -498,13 +498,13 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
   vertical-align: middle;
   white-space: nowrap; }
   button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
-    background-color: #3d7192;
+    background-color: #7a1634;
     color: #fff; }
   button:disabled, input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled {
     cursor: not-allowed;
     opacity: 0.5; }
     button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
-      background-color: #4C8DB6; }
+      background-color: #981C41; }
 
 fieldset {
   background-color: #f7f7f7;
@@ -545,8 +545,8 @@ select[multiple=multiple] {
     border-color: #b1b1b1; }
   input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="email"]:focus, input[type="month"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="week"]:focus, textarea:focus,
   select[multiple=multiple]:focus {
-    border-color: #4C8DB6;
-    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(67, 127, 165, 0.7);
+    border-color: #981C41;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(130, 24, 56, 0.7);
     outline: none; }
   input[type="color"]:disabled, input[type="date"]:disabled, input[type="datetime"]:disabled, input[type="datetime-local"]:disabled, input[type="email"]:disabled, input[type="month"]:disabled, input[type="number"]:disabled, input[type="password"]:disabled, input[type="search"]:disabled, input[type="tel"]:disabled, input[type="text"]:disabled, input[type="time"]:disabled, input[type="url"]:disabled, input[type="week"]:disabled, textarea:disabled,
   select[multiple=multiple]:disabled {
@@ -675,7 +675,7 @@ h6 {
   h4 a,
   h5 a,
   h6 a {
-    color: #4C8DB6;
+    color: #981C41;
     text-decoration: none;
     transition: color 150ms ease; }
     h1 a:active, h1 a:focus, h1 a:hover,
@@ -694,7 +694,7 @@ h6 {
     h6 a:active,
     h6 a:focus,
     h6 a:hover {
-      color: #396a89; }
+      color: #721531; }
 
 h1 {
   font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
@@ -707,11 +707,11 @@ article.hentry p {
   font-weight: 400; }
 
 a {
-  color: #4C8DB6;
+  color: #981C41;
   text-decoration: none;
   transition: color 150ms ease; }
   a:active, a:focus, a:hover {
-    color: #396a89; }
+    color: #721531; }
 
 hr {
   border-bottom: 1px solid #ddd;
@@ -980,7 +980,7 @@ http://flickity.metafizzy.co
         border-top-right-radius: 3px;
         border-top: 0; } }
     .accordion-tabs .tab-link:hover {
-      color: #4C8DB6; }
+      color: #981C41; }
     .accordion-tabs .tab-link:focus {
       outline: none; }
     .accordion-tabs .tab-link.is-active {
@@ -1074,10 +1074,9 @@ article.hentry {
   transition: all 0.2s ease-in-out;
   background-color: white;
   border-radius: 3px;
-  border: 1px solid #ddd;
+  border: 1px solid #eaeaea;
   margin: 1.6em 0;
-  position: relative;
-  overflow: hidden; }
+  position: relative; }
   .card .card-image, a.card .card-image {
     height: 180px;
     overflow: hidden;
@@ -1120,7 +1119,7 @@ article.hentry {
     background-color: white;
     border-radius: 3px 3px 0 0;
     line-height: 1.5em;
-    padding: 0 1.06667em 1.6em 1.06667em;
+    padding: 0 1.06667em 0 1.6em;
     clear: both;
     font-size: .875em; }
     .card .card-header .flagged, .card .card-header .ticketed, a.card .card-header .flagged, a.card .card-header .ticketed {
@@ -1132,7 +1131,7 @@ article.hentry {
       color: white;
       float: left; }
     .card .card-header .ticketed, a.card .card-header .ticketed {
-      background-color: #4C8DB6;
+      background-color: #981C41;
       color: white;
       float: right; }
   .card .card-footer, a.card .card-footer {
@@ -1145,7 +1144,8 @@ article.hentry {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 1.06667em 1.6em;
+    padding: 0 1.06667em 0 1.6em;
+    paddint-top: 2em;
     display: block; }
     .card .card-footer::after, a.card .card-footer::after {
       clear: both;
@@ -1158,9 +1158,8 @@ article.hentry {
     .card .card-footer .addthis_sharing_toolbox, a.card .card-footer .addthis_sharing_toolbox {
       float: right; }
   .card .card-copy, a.card .card-copy {
-    font-size: 0.9375em;
     line-height: 1.5em;
-    padding: 1.06667em 1.6em;
+    padding: 0 1.06667em 0 1.6em;
     margin-bottom: 3.5em; }
     .card .card-copy p, a.card .card-copy p {
       font-size: 0.875rem;
@@ -1233,16 +1232,18 @@ article.hentry {
     right: 0px;
     width: 4px; }
 
-.event_title {
+h3.event_title, .event_title {
   font-size: 1.625em;
+  font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  margin-bottom: 0;
   line-height: normal; }
   @media screen and (min-width: 56.25em) {
-    .event_title {
-      font-size: 2.125em; } }
+    h3.event_title, .event_title {
+      font-size: 2em; } }
 
 .date {
-  color: #4C8DB6;
-  font-weight: bold; }
+  color: #981C41;
+  font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 h1.special {
   font-size: 2.5em !important; }
@@ -1564,7 +1565,7 @@ html, body {
     .layout-article aside.page hr {
       border-color: whitesmoke; }
     .layout-article aside.page a {
-      color: #4C8DB6;
+      color: #981C41;
       overflow-wrap: break-word;
       word-wrap: break-word;
       word-break: break-all; }
@@ -2165,8 +2166,19 @@ sup, sub {
 sub {
   top: 0.4em; }
 
-.hidden-js, .hidden {
+.no-js .hidden-js, .hidden {
   display: none; }
+
+.no-js .addeventatc {
+  display: none;
+  opacity: 0; }
+
+.js .addeventatc {
+  opacity: 1;
+  -webkit-transition: opacity 1s ease-in 5s;
+  -moz-transition: opacity 1s ease-in 5s;
+  transition: opacity 1s ease-in 5s;
+  display: inline-block; }
 
 figure {
   -webkit-box-sizing: border-box;

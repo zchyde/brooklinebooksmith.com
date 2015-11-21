@@ -17,10 +17,19 @@ sup, sub {
 sub { top: 0.4em; }
 
 
-.hidden-js, .hidden {
+.no-js .hidden-js, .hidden {
   display: none;
 }
 
+.no-js .addeventatc { display: none;
+  opacity: 0;
+}
+.js .addeventatc {
+  opacity: 1;
+  @include transition(opacity 1.0s ease-in 5s);
+  display: inline-block;
+
+}
 figure {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;

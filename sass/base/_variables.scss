@@ -46,7 +46,7 @@ $color-6:#FFCC62;
 // Font Colors
 $base-font-color: $medium-gray;
 $heading-font-color: $black;
-$action-color: $blue-light;
+$action-color: $color-4;//$blue-light;
 
 // Border
 $base-border-color: $light-gray;
@@ -125,7 +125,7 @@ $footer-disclaimer-color: transparentize($footer-color, 0.6);
 
 
 // CARDS
-$card-border-color: $base-border-color;
+$card-border-color: lighten($base-border-color,5%);
 $card-border: 1px solid $card-border-color;
 $card-background: white;//lighten($card-border-color, 10%);
 $card-header-background: $card-background;

@@ -1,6 +1,5 @@
-$card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
+$card_padding: 0 ($base-spacing / 1.5) 0 ($base-spacing / 1);
 .cards {
-
   @include display(flex);
   @include flex-wrap(wrap);
   @include justify-content(space-between);
@@ -18,7 +17,7 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
   //margin: 0 0 $base-spacing 0;
   margin: $base-spacing 0;
   position: relative;
-  overflow: hidden;
+  //overflow: hidden;
   // @include media($lg-up) {
   //   margin: 0 $card-margin $base-spacing $card-margin;
   // }
@@ -82,7 +81,8 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
     border-radius: $base-border-radius $base-border-radius 0 0;
     //font-weight: bold;
     line-height: 1.5em;
-    padding: 0 ($base-spacing / 1.5) ($base-spacing) ($base-spacing / 1.5);
+    //////padding: 0 ($base-spacing / 1.5) 0 ($base-spacing / 1.5);
+    padding: $card_padding;
     clear: both;
     font-size: .875em;
     .flagged, .ticketed {
@@ -117,6 +117,7 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
     @include clearfix;
     width: 100%;
     padding: $card_padding;
+    paddint-top:2em;
     @include row;
     .addthis_sharing_toolbox {
       float: right;
@@ -124,7 +125,7 @@ $card_padding: ($base-spacing / 1.5) ($base-spacing / 1);
   }
 
   .card-copy {
-    font-size: 0.9375em;
+    //font-size: 0.9375em;
     line-height: 1.5em;
     padding: $card_padding;
       margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned

@@ -29,9 +29,9 @@
       <span class="date">{{ start_at }}</span>
     {% endif %}
     {% if event.title  %}
-      <div class="event_title">
+      <h3 class="event_title">
         {{ event_title }}
-      </div>
+      </h3>
 
     {% endif %}
   </div>
@@ -65,8 +65,16 @@
   </div>
 
   <div class="card-footer">
+
+    <div style="float:right;margin-right:1em;">
+      {% include events/add-to-calendar.html %}
+    </div>
+
+    {% comment %}
     <div class="addthis_sharing_toolbox addthis_default_style "{% if start_at %}addthis:url="{{ site.url }}/events/#event-{{ start_at }}"{% endif %}{% if event.title %} addthis:title="{{ event.title }}"{% endif %}>
     </div>
+
+     {% endcomment %}
   </div>
 
   </div>
