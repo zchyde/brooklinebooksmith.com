@@ -4,7 +4,7 @@ published: true
 date: 2015-11-20T12:00:00.000Z
 category: Holiday-Gift-Guide
 comments: false
-staff: alex-s
+staff: _staff
 ---
 
 ### PICTURE BOOKS
@@ -17,7 +17,7 @@ This spirited retelling retains Cinderella’s classic structure, but capable me
 
 ---
 
-![](/uploads/9781568462554.jpg)SING A SEASON SONG by Jane Yolen and illustrated by Liesl Ashlock&nbsp;
+![](/uploads/9781568462554.jpg)SING A SEASON SONG by Jane Yolen and illustrated by Liesl Ashlock
 
 ISBN 9781568462554
 
@@ -41,7 +41,7 @@ What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin 
 
 ---
 
-![](/uploads/versions/9780805098266---x----311-400x---.jpg)LITTLE ELLIOT, BIG FAMILY by Mike Curato&nbsp;
+![](/uploads/versions/9780805098266---x----311-400x---.jpg)LITTLE ELLIOT, BIG FAMILY by Mike Curato
 
 ISBN: 9780805098266
 
@@ -67,11 +67,11 @@ The Story of Diva and Flea by Tony Diterlizzi and Mo Willems ISBN 9781484722848
 
 Francine Poulet Meets the Ghost Racoon by Kate Dicamillo Illustrated by Chris Van Dusen ISBN 9780763668860
 
-&nbsp;
+
 
 ### INTERMEDIATE FICTION
 
-&nbsp;
+
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)THE NEST by Kenneth Oppel, illustrated by Jon Klassen
 
@@ -97,7 +97,7 @@ A unique and whimsical story that is just begging to be read out loud. Character
 
 ---
 
-![](/uploads/versions/9781481419420---x----265-400x---.jpg)WOLF WILDER by Katherine Rundell&nbsp;
+![](/uploads/versions/9781481419420---x----265-400x---.jpg)WOLF WILDER by Katherine Rundell
 
 ISBN: 9781481419420
 
@@ -105,7 +105,7 @@ Feo has a very unusual job. Her and her mother re-introduce domesticated wolves 
 
 ---
 
-![](/uploads/versions/9780545448680---x----268-400x---.jpg)THE MARVELS by Brian Sleznick&nbsp;
+![](/uploads/versions/9780545448680---x----268-400x---.jpg)THE MARVELS by Brian Sleznick
 
 ISBN: 9780545448680
 
@@ -125,13 +125,13 @@ Honorable Mentions: Harry Potter and the Sorcerer’s Stone: The Illustrated Edi
 
 ISBN 9780545790352 Caretaker’s Guide to Fablehaven by Brandon Mull ISBN 9781629720913 Goodbye Stranger by Rebecca Stead ISBN: 9780385743174
 
-&nbsp;
+
 
 ### YOUNG ADULT
 
-&nbsp;
 
-![](/uploads/versions/9780545591614---x----265-400x---.jpg)SHADOWSHAPER by Daniel Jos&eacute; Older
+
+![](/uploads/versions/9780545591614---x----265-400x---.jpg)SHADOWSHAPER by Daniel José Older
 
 ISBN 9780545591614
 
@@ -163,7 +163,7 @@ When the world is ending, it’s the “special” kids who get all the attentio
 
 ---
 
-![](/uploads/versions/9780553499117---x----265-400x---.jpg)ILLUMINAE by Annie Kaufman and Jay Kristoff&nbsp;
+![](/uploads/versions/9780553499117---x----265-400x---.jpg)ILLUMINAE by Annie Kaufman and Jay Kristoff
 
 ISBN: 9780553499117
 
@@ -171,7 +171,7 @@ Told through e-mails, interviews, and instant messages Illuminae follows Katy an
 
 ---
 
-![](/uploads/versions/9781627792127---x----269-400x---.jpg)SIX OF CROWS by Leigh Bardugo&nbsp;
+![](/uploads/versions/9781627792127---x----269-400x---.jpg)SIX OF CROWS by Leigh Bardugo
 
 ISBN: 9781627792127
 
@@ -181,13 +181,13 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 Honorable Mentions: Simon vs. the Homo Sapiens Agenda by Becky Albertalli ISBN 9780062348678 Hunter by Mercedes Lackey ISBN: 9781484707845 Trouble is a Friend of Mine by Stephanie Tromly ISBN: 9780525428404
 
-&nbsp;
+
 
 ### NONFICTION
 
-&nbsp;
 
-![](/uploads/versions/9780761169277---x----309-400x---.jpg)CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice&nbsp;
+
+![](/uploads/versions/9780761169277---x----309-400x---.jpg)CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World by Gordon Grice
 
 ISBN 9780761169277
 
@@ -203,7 +203,7 @@ Full of pictures, illustrations, and anecdotes, this is the only guide you will 
 
 ---
 
-![](/uploads/versions/9781452118901---x----264-400x---.jpg)SWAN: The Life and Dance of Anna Pavlova by Laurel Snyder, illustrated by Julie Morstad&nbsp;
+![](/uploads/versions/9781452118901---x----264-400x---.jpg)SWAN: The Life and Dance of Anna Pavlova by Laurel Snyder, illustrated by Julie Morstad
 
 ISBN: 9781452118901
 
@@ -213,13 +213,13 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 Honorable Mentions: Symphony for the City of the Dead by M.T. Anderson ISBN 9780763668181 Creaturepedia by Adrienne Barman ISBN: 9781847806963 Historium by Jo Nelson and Richard Wilkinson ISBN: 9780763679842
 
-&nbsp;
+
 
 ### GRAPHICA
 
-&nbsp;
 
-![](/uploads/versions/9780062278227---x----267-400x---.jpg)NIMONA by Noelle Stevenson&nbsp;
+
+![](/uploads/versions/9780062278227---x----267-400x---.jpg)NIMONA by Noelle Stevenson
 
 ISBN 9780062278227
 
@@ -243,7 +243,7 @@ Different artists illustrate some of their favorite fables. The stories range fr
 
 ---
 
-![](/uploads/versions/9780785190219---x----260-400x---.jpg)Graphic Series - MS. MARVEL SERIES by G. Willow Wilson&nbsp; vol 1.
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)Graphic Series - MS. MARVEL SERIES by G. Willow Wilson  vol 1.
 
 ISBN: 9780785190219
 
@@ -259,7 +259,7 @@ Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)NATHAN HALE’S HAZARDOUS TALES by Nathan Hale&nbsp; ( vol 1)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)NATHAN HALE’S HAZARDOUS TALES by Nathan Hale  ( vol 1)
 
 ISBN 9781419703966
 
