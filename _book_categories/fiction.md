@@ -1,4 +1,0 @@
----
-title: Fiction
-published: true
----

@@ -1,4 +1,0 @@
----
-title: Memoir
-published: true
----

@@ -51,7 +51,6 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 HarperCollins Treasury of Picture Book Classics (various) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062427250) Magical World of Strega Nona by Tomie de Paola [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780399173455) Lizard From the Park by Mark Pett [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781442483217) This is My Home, This is My School by Jonathan Bean [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780374380205) Lenny and Lucy by Philip C. Stead and Illustrated by Erin E. Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781596439320) The Boy who Loved the Moon by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
 
----
 
 ### FIRST CHAPTER BOOKS
 
@@ -151,7 +150,6 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 Simon vs. the Homo Sapiens Agenda by Becky Albertalli [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062348678) Hunter by Mercedes Lackey [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484707845) Trouble is a Friend of Mine by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
----
 
 ### NONFICTION
 
@@ -177,7 +175,6 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 Symphony for the City of the Dead by M.T. Anderson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668181) Creaturepedia by Adrienne Barman [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781847806963) Historium by Jo Nelson and Richard Wilkinson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763679842)
 
----
 
 ### GRAPHICA
 
