@@ -2,8 +2,6 @@
 title: Small Press Book Club Meeting
 start_at: 2015-11-19T19:00:00.000Z
 program: small-press-book-club
-book_isbn:
-  - ''
 ticketed: false
 ---
 
