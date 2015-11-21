@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="has-layout__full-width layout-rows">
+<div class="has-layout">
   <article class="hentry">
 
     <header>
@@ -16,9 +16,10 @@ layout: default
           {{ page.lede |markdownify }}
         </div>
       {% endif %}
-      <div class="prose">
+      <div class="items">
         <div class="item">
-          {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }}
+          {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
+            {{ page.content  | markdownify }}
         </div>
       </div>
       {% if page.include %}

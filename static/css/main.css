@@ -1011,20 +1011,23 @@ article.hentry {
   overflow: hidden; }
   article.hentry header {
     margin-bottom: .5em; }
-  article.hentry .prose img {
+  article.hentry .items img {
     max-height: 15em;
     float: left;
     margin: .25em 1em .25em 0;
     padding-bottom: 1em; }
-  article.hentry .prose h3 {
+  article.hentry .items h3 {
     font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     margin-top: 3em; }
-  article.hentry .prose .item {
+  article.hentry .items hr {
+    border-top-color: #444;
+    margin: 4em 0 8em 0; }
+  article.hentry .items .item {
     min-height: 18em;
     clear: both;
     padding: 2em; }
     @media screen and (min-width: 75em) {
-      article.hentry .prose .item {
+      article.hentry .items .item {
         padding: 2em 18em 9em 12em; } }
   article.hentry img {
     max-width: 100%; }
@@ -1441,10 +1444,10 @@ html, body {
     content: "";
     display: table; }
 
-.layout-rows article.hentry {
+.layout-rowsTK article.hentry {
   width: 100%; }
 
-.layout-rows .prose {
+.layout-rowsTK .prose {
   margin: auto; }
 
 .layout-posts, .has-layout {
@@ -1576,17 +1579,17 @@ html, body {
       .layout-article header, .layout-article .entry-content {
         padding: 0; } }
 
-.row {
+.row, article.hentry .items hr {
   clear: both;
   max-width: 75em;
   margin-left: auto;
   margin-right: auto;
   margin: 4em auto; }
-  .row::after {
+  .row::after, article.hentry .items hr::after {
     clear: both;
     content: "";
     display: table; }
-  .row::after {
+  .row::after, article.hentry .items hr::after {
     clear: both;
     content: "";
     display: table; }

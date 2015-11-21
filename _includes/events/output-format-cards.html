@@ -2,7 +2,7 @@
 
   <div class="card-header">
 
-    {% if event.category OR event.program %}
+    {% if event.category or event.program %}
       <div class="flagged">
         {% if event.category %}
           {{event.category}}

@@ -7,7 +7,7 @@ article.hentry {
   header {
     margin-bottom: .5em;
   }
-  .prose {
+  .items {
     img {
       max-height: 15em;
       float:left;
@@ -19,9 +19,16 @@ article.hentry {
       font-family: $brand-font-family;
       margin-top: 3em;
     }
+
+    hr {
+      @extend .row;
+      border-top-color: #444;
+      margin: 4em 0 8em 0;
+    }
      .item {
        //margin: 0;
        //width: 100%;
+       //border:1px solid #ddd;
       min-height: 18em;
       clear:both;
       //@extend .row;
