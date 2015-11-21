@@ -1008,22 +1008,28 @@ http://flickity.metafizzy.co
 article.hentry {
   padding-bottom: 6em;
   margin: auto;
-  max-width: 96%;
   overflow: hidden; }
   article.hentry header {
     margin-bottom: .5em; }
   article.hentry .prose img {
-    max-height: 14em;
+    max-height: 15em;
     float: left;
-    margin: .25em 1em .25em 0; }
-  article.hentry .prose hr {
-    margin: 4em auto; }
+    margin: .25em 1em .25em 0;
+    padding-bottom: 1em; }
+  article.hentry .prose h3 {
+    font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    margin-top: 3em; }
+  article.hentry .prose .item {
+    min-height: 18em;
+    clear: both; }
+    @media screen and (min-width: 31.25em) {
+      article.hentry .prose .item {
+        padding: 2em 18em 9em 12em; } }
   article.hentry img {
     max-width: 100%; }
   @media screen and (min-width: 31.25em) {
     article.hentry {
-      width: 41em;
-      max-width: 86%; } }
+      max-width: 100%; } }
 
 .cards {
   display: -webkit-box;
@@ -1383,6 +1389,7 @@ html, body {
     margin-bottom: 1em; }
   .hero .hero-inner {
     margin: auto;
+    padding: 3em 3.125em 1em 3.125em;
     text-align: center;
     vertical-align: middle;
     display: flex;
@@ -1423,6 +1430,21 @@ html, body {
     clear: both;
     content: "";
     display: table; }
+
+.has-layout__full-width {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+  .has-layout__full-width::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.layout-rows article.hentry {
+  width: 100%; }
+
+.layout-rows .prose {
+  margin: auto; }
 
 .layout-posts, .has-layout {
   clear: both;

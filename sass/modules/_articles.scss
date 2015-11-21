@@ -1,7 +1,7 @@
 article.hentry {
   padding-bottom: 6em;
   margin:auto;
-  max-width: 96%;
+  //max-width: 96%;
   //min-height: $c-vp;
   overflow: hidden;
   header {
@@ -9,12 +9,30 @@ article.hentry {
   }
   .prose {
     img {
-      max-height: 14em;
+      max-height: 15em;
       float:left;
       margin: .25em 1em .25em 0;
+      padding-bottom: 1em;
     }
-    hr {
-      margin: 4em auto;
+    //background-color: black;
+    h3 {
+      font-family: $brand-font-family;
+      margin-top: 3em;
+    }
+     .item {
+       //margin: 0;
+       //width: 100%;
+      min-height: 18em;
+      clear:both;
+      //@extend .row;
+
+      @include media($md-up) {
+        padding: 2em 18em 9em 12em;
+      }
+      &:nth-child(even) {
+        // background-color: #9D9ABF;
+        // color:white;
+      }
     }
   }
   img {
@@ -22,7 +40,7 @@ article.hentry {
   }
     @include media($md-up) {
     //padding: 2rem 7em; //- change padding to the screen size
-    width: 41em;
-    max-width: 86%;
+    //width: 41em;
+    max-width: 100%;
   }
 }

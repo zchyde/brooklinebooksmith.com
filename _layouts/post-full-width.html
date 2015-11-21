@@ -1,8 +1,7 @@
 ---
 layout: default
-include_hero: false
 ---
-<div class="has-layout layout-article">
+<div class="has-layout__full-width layout-rows">
   <article class="hentry">
 
     <header>
@@ -32,14 +31,6 @@ include_hero: false
       {% endif %}
     </div>
   </article>
-  <aside class="page">
-    {% if page.aside %}
-      {{ page.aside | markdownify }}
-    {% endif %}
-    <br />{% capture page_categories %}{{ page.categories }}{% endcapture %}
-          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
-
-  </aside>
   <div class="row">
     {% include form-constant-contact.html %}
   </div>
