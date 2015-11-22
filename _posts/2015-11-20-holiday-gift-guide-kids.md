@@ -67,11 +67,11 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ### FIRST CHAPTER BOOKS
 
-The Complete Brambly Hedge by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
+*The Complete Brambly Hedge* by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
 
-The Story of Diva and Flea by Tony Diterlizzi and Mo Willems [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484722848)
+*The Story of Diva and Flea* by Tony Diterlizzi and Mo Willems [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484722848)
 
-Francine Poulet Meets the Ghost Racoon by Kate Dicamillo Illustrated by Chris Van Dusen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668860)
+*Francine Poulet Meets the Ghost Racoon* by Kate Dicamillo Illustrated by Chris Van Dusen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668860)
 
 ---
 
@@ -85,7 +85,7 @@ Anxiety-ridden Steve can hardly stand to think about his sick newborn brother. T
 
 ![](/uploads/versions/9780545812542---x----267-400x---.jpg)**GEORGE** by Alex Gino [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545812542)
 
-George is a pretty normal fourth-grade girl. She likes clothes and friends. She’s dying to be Charlotte in her class production of Charlotte’s Web. The only thing that’s different about George is that no one knows she’s a girl. Not her teachers, her family, or her friends. But George wants that to change. Alex Gino’s debut stars a strong-minded, good-hearted, totally believable protagonist, a transgender girl who’s ready to be seen by the world as she sees herself.
+George is a pretty normal fourth-grade girl. She likes clothes and friends. She’s dying to be Charlotte in her class production of *Charlotte’s Web*. The only thing that’s different about George is that no one knows she’s a girl. Not her teachers, her family, or her friends. But George wants that to change. Alex Gino’s debut stars a strong-minded, good-hearted, totally believable protagonist, a transgender girl who’s ready to be seen by the world as she sees herself.
 
 ---
 
@@ -115,13 +115,21 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 #### Honorable Mentions
 
-Harry Potter and the Sorcerer’s Stone: The Illustrated Edition by J.K. Rowling/illustrated by Jim Kay
+*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
 
-[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352) Caretaker’s Guide to Fablehaven by Brandon Mull [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781629720913) Goodbye Stranger by Rebecca Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780385743174)
+*Caretaker’s Guide to Fablehaven* by Brandon Mull [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781629720913)
+
+*Goodbye Stranger* by Rebecca Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780385743174)
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 ### YOUNG ADULT
+
+&nbsp;
 
 ![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel Jos&eacute; Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
@@ -137,7 +145,7 @@ It’s not easy being the fat daughter of Miss Teen Blue Bonnet 1997, but Willow
 
 ![](/uploads/versions/9780544462229---x----267-400x---.jpg)**ORBITING JUPITER** by Gary D. Schmidt [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780544462229)
 
-Have you ever read a book that was so profound, so full of soul, and meaning, and truth, that all you could do was sit in silence for a while once you finished? Orbiting Jupiter is that book. Make yourself some tea, snag a box of tissues, and let Gary Schmidt tell you the story of a boy named Joseph, a foster family, a small snowy town, and a baby girl named Jupiter.
+Have you ever read a book that was so profound, so full of soul, and meaning, and truth, that all you could do was sit in silence for a while once you finished? *Orbiting Jupiter* is that book. Make yourself some tea, snag a box of tissues, and let Gary Schmidt tell you the story of a boy named Joseph, a foster family, a small snowy town, and a baby girl named Jupiter.
 
 ---
 
@@ -161,9 +169,19 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 #### Honorable Mentions
 
-Simon vs. the Homo Sapiens Agenda by Becky Albertalli [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062348678) Hunter by Mercedes Lackey [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484707845) Trouble is a Friend of Mine by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
+*Simon vs. the Homo Sapiens Agenda* by Becky Albertalli [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062348678)
+
+*Hunter* by Mercedes Lackey [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484707845)
+
+*Trouble is a Friend of Mine* by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
+
+### &nbsp;
+
+### &nbsp;
 
 ### NONFICTION
+
+&nbsp;
 
 ![](/uploads/versions/9780761169277---x----309-400x---.jpg)**CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World** by Gordon Grice [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780761169277)
 
@@ -173,21 +191,31 @@ Budding scientists and naturalists can rejoice in this splendid introduction to 
 
 ![](/uploads/versions/9781426319198---x----344-400x---.jpg)**WHY’D THEY WEAR THAT?: Fashion as the Mirror of History** by Sarah Albee and Timothy Gunn [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781426319198)
 
-Full of pictures, illustrations, and anecdotes, this is the only guide you will need to explore the history of fashion trends throughout the world. Why’d They Wear That? doesn’t just depict what was worn in a certain era, but also highlights the influences, political and otherwise, that might have lead to that fashion trend at the time.
+Full of pictures, illustrations, and anecdotes, this is the only guide you will need to explore the history of fashion trends throughout the world. *Why’d They Wear That?* doesn’t just depict what was worn in a certain era, but also highlights the influences, political and otherwise, that might have lead to that fashion trend at the time.
 
 ---
 
 ![](/uploads/versions/9781452118901---x----264-400x---.jpg)**SWAN: The Life and Dance of Anna Pavlova** by Laurel Snyder, illustrated by Julie Morstad [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781452118901)
 
-It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad’s Swan is a beautifully whimsical look at ballet and the life of a girl who loves it. Morstad’s illustrations are soft and heart-achingly fitting to the story. Ballet fan and picture book fans alike will be taken in and delighted by the gorgeous story. A wonderfully perfect introduction to biographies.
+It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad’s *Swan* is a beautifully whimsical look at ballet and the life of a girl who loves it. Morstad’s illustrations are soft and heart-achingly fitting to the story. Ballet fan and picture book fans alike will be taken in and delighted by the gorgeous story. A wonderfully perfect introduction to biographies.
 
 ---
 
 #### Honorable Mentions
 
-Symphony for the City of the Dead by M.T. Anderson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668181) Creaturepedia by Adrienne Barman [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781847806963) Historium by Jo Nelson and Richard Wilkinson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763679842)
+*Symphony for the City of the Dead* by M.T. Anderson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668181)
+
+*Creaturepedia* by Adrienne Barman [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781847806963)
+
+*Historium* by Jo Nelson and Richard Wilkinson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763679842)
+
+---
+
+&nbsp;
 
 ### GRAPHICA
+
+&nbsp;
 
 ![](/uploads/versions/9780062278227---x----267-400x---.jpg)**NIMONA** by Noelle Stevenson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062278227)
 
