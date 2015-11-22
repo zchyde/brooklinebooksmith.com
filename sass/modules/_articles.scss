@@ -42,14 +42,10 @@ article.hentry {
   }
 }
 
-aside {
-  padding: 2em;//$color-2;
-}
-
 aside.top {
-  background-color: $sidebar-top-color-background;
+  background-color: $sidebar-bottom-color-background;//$sidebar-top-color-background;
   border-bottom-right-radius: 3px;
-  color: white;
+  //color: white;
 }
 
 aside.bottom {

@@ -27,6 +27,8 @@ layout: default
       </header>
     {% endunless %}
     <div class="entry-content">
+      {{ page.categories }}
+
       {% if page.lede %}
         <div class="lede">
           {{ page.lede |markdownify }}

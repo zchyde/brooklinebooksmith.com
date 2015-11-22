@@ -800,13 +800,9 @@ article.hentry {
     article.hentry {
       max-width: 100%; } }
 
-aside {
-  padding: 2em; }
-
 aside.top {
-  background-color: #00557F;
-  border-bottom-right-radius: 3px;
-  color: white; }
+  background-color: #f0f0f0;
+  border-bottom-right-radius: 3px; }
 
 aside.bottom {
   background-color: #f0f0f0;
@@ -1047,10 +1043,8 @@ html, body {
 
 .hero {
   z-index: 1;
-  background: url("http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png"), -webkit-linear-gradient(10deg, #20392B, #000), no-repeat;
-  background: url("http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png"), linear-gradient(10deg, #20392B, #000), no-repeat;
-  background-color: white;
-  background-position: center 30%;
+  background-color: #2F353E;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -1166,7 +1160,8 @@ html, body {
   float: left;
   display: block;
   margin-right: 2.77778%;
-  width: 100%; }
+  width: 100%;
+  padding: 2em; }
   .layout-three-column aside:last-child, .layout-three-column article:last-child {
     margin-right: 0; }
 
@@ -1181,7 +1176,7 @@ html, body {
   .layout-three-column aside.bottom {
     margin-right: 0; }
   .layout-three-column article.hentry {
-    padding-top: 3em;
+    padding: 3em 0;
     float: left;
     display: block;
     margin-right: 2.77778%;
