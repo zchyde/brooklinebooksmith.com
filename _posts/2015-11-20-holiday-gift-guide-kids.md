@@ -37,7 +37,7 @@ What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin 
 
 ![](/uploads/versions/9780805098266---x----311-400x---.jpg)**LITTLE ELLIOT**, BIG FAMILY by Mike Curato [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780805098266)
 
-A sweet and heartwarming follow up to Little Elliot, Big City. When Mouse leaves for a family reunion Elliot feels left behind. But before long Mouse comes back for him and brings him a surprise. With his signature whimsy, Curato looks at how sometimes family finds you when you need them most.
+A sweet and heartwarming follow up to *Little Elliot, Big City*. When Mouse leaves for a family reunion Elliot feels left behind. But before long Mouse comes back for him and brings him a surprise. With his signature whimsy, Curato looks at how sometimes family finds you when you need them most.
 
 ---
 
@@ -49,8 +49,21 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 #### Honorable Mentions
 
-HarperCollins Treasury of Picture Book Classics (various) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062427250) Magical World of Strega Nona by Tomie de Paola [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780399173455) Lizard From the Park by Mark Pett [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781442483217) This is My Home, This is My School by Jonathan Bean [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780374380205) Lenny and Lucy by Philip C. Stead and Illustrated by Erin E. Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781596439320) The Boy who Loved the Moon by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
+*HarperCollins Treasury of Picture Book Classics* (various) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062427250)
 
+*Magical World of Strega Nona* by Tomie de Paola [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780399173455)
+
+*Lizard From the Park* by Mark Pett [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781442483217)
+
+*This is My Home, This is My School* by Jonathan Bean [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780374380205)
+
+*Lenny and Lucy by Philip C. Stead* and Illustrated by Erin E. Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781596439320)
+
+*The Boy who Loved the Moon* by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
+
+### &nbsp;
+
+### &nbsp;
 
 ### FIRST CHAPTER BOOKS
 
@@ -110,7 +123,7 @@ Harry Potter and the Sorcerer’s Stone: The Illustrated Edition by J.K. Rowling
 
 ### YOUNG ADULT
 
-![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel José Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
+![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel Jos&eacute; Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
 Sierra Santiago never knew magic was part of her Puerto Rican heritage. But shadowshaping—the ability to immortalize the souls of the dead in works of art—is real, and shadowshapers are being murdered. Sierra and a young shadowshaper named Robbie race through Brooklyn against time, zombies, and worse—before they lose shadowshaping forever. With language that sings and a story that pelts across the pages, Older’s urban fantasy will go straight to your head.
 
@@ -150,7 +163,6 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 Simon vs. the Homo Sapiens Agenda by Becky Albertalli [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062348678) Hunter by Mercedes Lackey [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484707845) Trouble is a Friend of Mine by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
-
 ### NONFICTION
 
 ![](/uploads/versions/9780761169277---x----309-400x---.jpg)**CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World** by Gordon Grice [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780761169277)
@@ -175,7 +187,6 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 Symphony for the City of the Dead by M.T. Anderson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668181) Creaturepedia by Adrienne Barman [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781847806963) Historium by Jo Nelson and Richard Wilkinson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763679842)
 
-
 ### GRAPHICA
 
 ![](/uploads/versions/9780062278227---x----267-400x---.jpg)**NIMONA** by Noelle Stevenson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062278227)
@@ -196,7 +207,7 @@ Different artists illustrate some of their favorite fables. The stories range fr
 
 ---
 
-![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson  vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson&nbsp; vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
 
 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
 
@@ -208,6 +219,6 @@ Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale  ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
