@@ -27,7 +27,14 @@
     }
   }
 }
-
+.home {
+  main {
+    @include media($sm-up) {
+      @include outer-container();
+      @include pad(3rem);
+    }
+  }
+}
 
 
 
