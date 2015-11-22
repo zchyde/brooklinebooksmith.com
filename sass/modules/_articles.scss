@@ -1,8 +1,6 @@
 article.hentry {
   padding-bottom: 6em;
   margin:auto;
-  //max-width: 96%;
-  //min-height: $c-vp;
   overflow: hidden;
   header {
     margin-bottom: .5em;
@@ -13,41 +11,48 @@ article.hentry {
       float:left;
       margin: .25em 1em .25em 0;
       padding-bottom: 1em;
+      @include media($sm-dn) {
+        width: 100%;
+        float: none;
+        clear: both;
+        max-height: 30em;
+        margin: .25em 0;
+      }
     }
-    //background-color: black;
     h3 {
       font-family: $brand-font-family;
       margin-top: 3em;
     }
-
     hr {
       @extend .row;
       border-top-color: #ccc;
       margin: 4em 0 8em 0;
     }
-     .item {
-       //margin: 0;
-       //width: 100%;
-       //border:1px solid #ddd;
-      min-height: 18em;
-      clear:both;
-      //@extend .row;
-      padding: 2em;
-      @include media($xl-up) {
-        padding: 2em 18em 9em 12em;
-      }
-      &:nth-child(even) {
-        // background-color: #9D9ABF;
-        // color:white;
-      }
-    }
+    //  .item {
+    //   min-height: 18em;
+    //   clear:both;
+    //   padding: 1.5em;
+    // }
   }
   img {
     max-width: 100%;
   }
     @include media($md-up) {
-    //padding: 2rem 7em; //- change padding to the screen size
-    //width: 41em;
     max-width: 100%;
   }
+}
+
+aside {
+  padding: 2em;//$color-2;
+}
+
+aside.top {
+  background-color: $sidebar-top-color-background;
+  border-bottom-right-radius: 3px;
+  color: white;
+}
+
+aside.bottom {
+  background-color: $sidebar-bottom-color-background;
+  border-bottom-left-radius: 3px;
 }

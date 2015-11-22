@@ -78,12 +78,6 @@ defaults:
     values:
       layout: post
   - scope:
-      path: '_posts/kids'
-      type: posts
-    values:
-      layout: post
-      category: kids
-  - scope:
       path: ''
       type: events
     values:
@@ -92,7 +86,7 @@ defaults:
       path: ''
       type: landing_pages
     values:
-      layout: landing_page
+      layout: page
   - scope:
       path: ''
       type: programs

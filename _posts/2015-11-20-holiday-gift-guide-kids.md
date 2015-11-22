@@ -6,7 +6,6 @@ page_heading: 2015 Holiday Gift Guide
 featured_image_path: /uploads/banner-holiday-gift-guide.jpg
 featured_image_position: 50
 category: Holiday-Gift-Guide
-layout: post-full-width
 fancy_font: Fredericka+the+Great
 comments: false
 staff: _staff

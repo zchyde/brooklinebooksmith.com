@@ -16,6 +16,7 @@ $lg-m: em(900);
 $xl: em(1200);
 $xxl: em(1600);
 
+$sm-dn: new-breakpoint(max-width $md 2);
 $sm-up: new-breakpoint(min-width $sm 2);
 $md-up: new-breakpoint(min-width $md 4);
 $md-lg: new-breakpoint(min-width $md 4) and new-breakpoint(max-width $lg 6);

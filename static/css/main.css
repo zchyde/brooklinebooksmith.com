@@ -1016,24 +1016,36 @@ article.hentry {
     float: left;
     margin: .25em 1em .25em 0;
     padding-bottom: 1em; }
+    @media screen and (max-width: 31.25em) {
+      article.hentry .items img {
+        width: 100%;
+        float: none;
+        clear: both;
+        max-height: 30em;
+        margin: .25em 0; } }
   article.hentry .items h3 {
     font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     margin-top: 3em; }
   article.hentry .items hr {
     border-top-color: #ccc;
     margin: 4em 0 8em 0; }
-  article.hentry .items .item {
-    min-height: 18em;
-    clear: both;
-    padding: 2em; }
-    @media screen and (min-width: 75em) {
-      article.hentry .items .item {
-        padding: 2em 18em 9em 12em; } }
   article.hentry img {
     max-width: 100%; }
   @media screen and (min-width: 31.25em) {
     article.hentry {
       max-width: 100%; } }
+
+aside {
+  padding: 2em; }
+
+aside.top {
+  background-color: #00557F;
+  border-bottom-right-radius: 3px;
+  color: white; }
+
+aside.bottom {
+  background-color: #f0f0f0;
+  border-bottom-left-radius: 3px; }
 
 .cards {
   display: -webkit-box;
@@ -1445,11 +1457,32 @@ html, body {
     content: "";
     display: table; }
 
-.layout-rowsTK article.hentry {
+.layout-three-column aside, .layout-three-column article {
+  float: left;
+  display: block;
+  margin-right: 2.77778%;
   width: 100%; }
+  .layout-three-column aside:last-child, .layout-three-column article:last-child {
+    margin-right: 0; }
 
-.layout-rowsTK .prose {
-  margin: auto; }
+@media screen and (min-width: 56.25em) {
+  .layout-three-column aside {
+    float: left;
+    display: block;
+    margin-right: 2.77778%;
+    width: 18.63426%; }
+    .layout-three-column aside:last-child {
+      margin-right: 0; }
+  .layout-three-column aside.bottom {
+    margin-right: 0; }
+  .layout-three-column article.hentry {
+    padding-top: 3em;
+    float: left;
+    display: block;
+    margin-right: 2.77778%;
+    width: 57.17593%; }
+    .layout-three-column article.hentry:last-child {
+      margin-right: 0; } }
 
 .layout-posts, .has-layout {
   clear: both;
@@ -1552,7 +1585,7 @@ html, body {
         margin-right: 0; } }
   .layout-article aside.page {
     border-radius: 2px;
-    background-color: #e8e8e8;
+    background-color: #f0f0f0;
     margin: 0 0 3em 0;
     color: #2F353E;
     padding: 2em;
@@ -1563,7 +1596,7 @@ html, body {
         height: 2em;
         vertical-align: middle; }
     .layout-article aside.page hr {
-      border-color: whitesmoke; }
+      border-color: #fdfdfd; }
     .layout-article aside.page a {
       color: #981C41;
       overflow-wrap: break-word;

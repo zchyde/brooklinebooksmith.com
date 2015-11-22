@@ -97,7 +97,9 @@ $sidebar-right-width: 20%;
 $sidebar-left-breakpoint: $breakpoint;
 $sidebar-right-breakpoint: $breakpoint;
 
-$sidebar-color-background:darken($base-background-color, 7%);//#f6f6f6;//$nyu-gray-dark;// #f6f6f6;//transparentize(#f2f2f2, 0.5);//$navigation-background;
+$sidebar-color-background:darken($base-background-color, 4%);//#f6f6f6;//$nyu-gray-dark;// #f6f6f6;//transparentize(#f2f2f2, 0.5);//$navigation-background;
+$sidebar-top-color-background: $blue-lighter;
+$sidebar-bottom-color-background: $sidebar-color-background;
 $sidebar-color: $light-gray;
 
 $sidebar-right-color-background: transparent;//#000;

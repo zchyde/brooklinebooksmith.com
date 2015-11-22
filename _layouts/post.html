@@ -1,25 +1,41 @@
 ---
 layout: default
-include_hero: false
 ---
-<div class="has-layout layout-article">
+<div class="has-layout__full-width layout-three-column">
+  <aside class="top">
+    {% if page.aside %}
+      {{ page.aside | markdownify }}
+    {% endif %}
+    {% capture page_categories %}{{ page.categories }}{% endcapture %}
+          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
+    &nbsp;
+    <ul>
+    {% for category in site.categories %}
+      <li>{{ category.title }}</li>
+    {% endfor %}
+    </ul>
+  </aside>
   <article class="hentry">
-
-    <header>
-      <h2 class="entry-title">
-        {{ page.title }}
-      </h2>
-      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% unless page.staff contains 'staff' %} • {{ page.staff }}{% endunless %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    </header>
+    {% unless page.featured_image_path %}
+      <header style="margin-bottom:0;">
+        <h2 class="entry-title">
+          {{ page.title }}
+        </h2>
+        <p class="post-meta">
+          {{ page.date | date: "%b %-d, %Y" }}{% unless page.staff contains 'staff' %} • {{ page.staff }}{% endunless %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        </p>
+      </header>
+    {% endunless %}
     <div class="entry-content">
       {% if page.lede %}
         <div class="lede">
           {{ page.lede |markdownify }}
         </div>
       {% endif %}
-      <div class="prose">
+      <div class="items">
         <div class="item">
-          {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }}
+          {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
+            {{ page.content  | markdownify }}
         </div>
       </div>
       {% if page.include %}
@@ -31,16 +47,11 @@ include_hero: false
         </div>
       {% endif %}
     </div>
+    <div class="row">
+      {% include form-constant-contact.html %}
+    </div>
   </article>
-  <aside class="page">
-    {% if page.aside %}
-      {{ page.aside | markdownify }}
-    {% endif %}
-    <br />{% capture page_categories %}{{ page.categories }}{% endcapture %}
-          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
-
+  <aside class="bottom">
+    &nbsp;
   </aside>
-  <div class="row">
-    {% include form-constant-contact.html %}
-  </div>
 </div>
