@@ -2,13 +2,15 @@
 title: Holiday Gift Guide - Kids
 published: true
 date: 2015-11-20T12:00:00.000Z
+page_heading: 2015 Holiday Gift Guide
 featured_image_path: /uploads/banner-holiday-gift-guide.jpg
+featured_image_position: 50
 category: Holiday-Gift-Guide
 layout: post-full-width
+fancy_font: Fredericka+the+Great
 comments: false
 staff: _staff
 ---
-
 ### PICTURE BOOKS
 
 ![](/uploads/9781452125329.jpg)**INTERSTELLAR CINDERELLA** by Deborah Underwood, illustrated by Meg Hunt [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781452125329)

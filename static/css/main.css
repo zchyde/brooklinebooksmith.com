@@ -1020,7 +1020,7 @@ article.hentry {
     font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     margin-top: 3em; }
   article.hentry .items hr {
-    border-top-color: #444;
+    border-top-color: #ccc;
     margin: 4em 0 8em 0; }
   article.hentry .items .item {
     min-height: 18em;

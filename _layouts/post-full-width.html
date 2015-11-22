@@ -3,13 +3,15 @@ layout: default
 ---
 <div class="has-layout">
   <article class="hentry">
-
-    <header>
+{% unless page.page_heading %}
+    <header style="margin-bottom:0;">
       <h2 class="entry-title">
         {{ page.title }}
       </h2>
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% unless page.staff contains 'staff' %} • {{ page.staff }}{% endunless %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </header>
+{% endunless %}
+
     <div class="entry-content">
       {% if page.lede %}
         <div class="lede">
