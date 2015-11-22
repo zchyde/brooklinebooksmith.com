@@ -23,6 +23,8 @@ url: http://staging-bbs.sonnetmedia.com
 sitename: brookline booksmith
 description: A base Jekyll theme
 timezone: Etc/Zulu
+paginate: 3
+paginate_path: "/blog/page-:num/"
 include:
   - _pages
 exclude:
