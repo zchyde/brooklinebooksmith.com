@@ -1,6 +1,7 @@
 ---
 title: "Silly Alarmed Bookseller"
 date: 2015-08-03T20:30:00.000Z
+category:
 featured_image_path: /uploads/1444597345902_1441983608303_SFAmy.png
 staff:
 ---

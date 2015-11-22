@@ -1,6 +1,7 @@
 ---
 title: Alex Is Reading...UPROOTED
 date: 2015-07-27T20:30:00.000Z
+category:
 featured_image_path: "/uploads/1444588552194_1441983459136_9780804179034_custom-19985fb9c9f1239e42fcfc588426613e6c0d5f58-s400-c85.jpg
 "
 staff:
