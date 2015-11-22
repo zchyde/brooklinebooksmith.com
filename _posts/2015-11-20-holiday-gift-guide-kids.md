@@ -61,11 +61,12 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 *The Boy who Loved the Moon* by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
 
-### &nbsp;
 
-### &nbsp;
+&nbsp;
 
 ### FIRST CHAPTER BOOKS
+
+&nbsp;
 
 *The Complete Brambly Hedge* by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
 
@@ -75,7 +76,11 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
+&nbsp;
+
 ### INTERMEDIATE FICTION
+
+&nbsp;
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)**THE NEST** by Kenneth Oppel, illustrated by Jon Klassen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481432320)
 
@@ -122,8 +127,6 @@ Riordan has without a doubt done it again! With his signature wit and understand
 *Goodbye Stranger* by Rebecca Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780385743174)
 
 ---
-
-&nbsp;
 
 &nbsp;
 
@@ -175,9 +178,8 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 *Trouble is a Friend of Mine* by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
-### &nbsp;
 
-### &nbsp;
+&nbsp;
 
 ### NONFICTION
 
