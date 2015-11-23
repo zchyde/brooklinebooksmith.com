@@ -1,13 +1,13 @@
 ---
-title: Holiday Gift Guide   Cooking
+title: Holiday Gift Guide — Cooking
 published: false
-date: null
-featured_image_path: null
+date: 2015-11-23T00:00:00.000Z
+featured_image_path: ''
 featured_image_position: 50
-image_path: null
+image_path: ''
 fancy_font: Fredericka+the+Great
-category: null
-staff: null
+category: Holiday-Gift-Guide
+staff: '-staff-'
 ---
 
 &nbsp;
