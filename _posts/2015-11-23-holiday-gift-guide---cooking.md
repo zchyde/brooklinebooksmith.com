@@ -45,6 +45,8 @@ The first book I read after becoming a vegetarian ten years ago was by Madhur Ja
 
 Composed of classic literature’s choicest delicacies, this new anthology collects stories, memories, excerpts and ruminations into a snug, bright little hardcover. From sumptuous feasts to humble hearth gatherings, these writings dwell on the universal experience of a shared meal. Within you’ll find foodie mainstays like M.F.K. Fisher and Jean Anthelme Brillat-Savarin; luminaries like Virginia Woolf and Marcel Proust; and modern storytellers like Amy Tan and Nora Ephron, to name just a few.
 
+---
+
 ### Honorable mentions
 
 ![](/uploads/versions/9781617691676---x----324-400x---.jpg)Home Baked ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781617691676))
