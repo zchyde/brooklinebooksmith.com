@@ -82,7 +82,7 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ---
 
-Pimp My Rice ([**Buy**](9781848992788))
+![](/uploads/versions/9781848992788---x----309-400x---.jpg)Pimp My Rice ([**Buy**](9781848992788))
 
 ---
 
