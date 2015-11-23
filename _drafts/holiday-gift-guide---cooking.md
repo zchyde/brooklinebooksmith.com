@@ -70,7 +70,7 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ### Honorable mentions
 
-Home Baked ([Buy](9781617691676))
+Home Baked (**[Buy](9781617691676)**)
 
 Shakespeare Not Stirred ([**Buy**](9780399173004))
 
