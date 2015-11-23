@@ -6,8 +6,6 @@ layout: default
     {% if page.aside %}
       {{ page.aside | markdownify }}
     {% endif %}
-    {% capture page_categories %}{{ page.categories }}{% endcapture %}
-          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
     &nbsp;
     <ul>
     {% for category in site.categories %}
