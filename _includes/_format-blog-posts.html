@@ -21,7 +21,7 @@
       {% endif %}
     </p>
     <p>
-      {{ object.excerpt |strip_html | truncatewords: 90, '…' }}
+      {{ object.excerpt | markdownify |strip_html | truncatewords: 90, '…' }}
     </p>
   </div>
 </a>

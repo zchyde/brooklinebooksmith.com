@@ -43,6 +43,16 @@ layout: default
       {% if page.include %}
         {% include {{ page.include }} %}
       {% endif %}
+
+      {% if page.category %}
+        {% assign posts = site.posts | where: 'category', page.category %}
+        <div class="cards">
+          {% for object in posts %}
+            {% include  _format-blog-posts.html %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
       {% if page.featured_image_credit %}
         <div class="caption">
           image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
