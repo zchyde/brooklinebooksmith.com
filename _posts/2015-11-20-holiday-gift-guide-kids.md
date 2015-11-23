@@ -114,7 +114,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 #### Honorable Mentions
 
-*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
+*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
 
 *Caretaker’s Guide to Fablehaven* by Brandon Mull [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781629720913)
 
@@ -124,7 +124,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 ### YOUNG ADULT
 
-![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel José Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
+![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel Jos&eacute; Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
 Sierra Santiago never knew magic was part of her Puerto Rican heritage. But shadowshaping—the ability to immortalize the souls of the dead in works of art—is real, and shadowshapers are being murdered. Sierra and a young shadowshaper named Robbie race through Brooklyn against time, zombies, and worse—before they lose shadowshaping forever. With language that sings and a story that pelts across the pages, Older’s urban fantasy will go straight to your head.
 
@@ -218,7 +218,7 @@ Different artists illustrate some of their favorite fables. The stories range fr
 
 ---
 
-![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson  vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson&nbsp; vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
 
 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
 
@@ -230,6 +230,27 @@ Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale  ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
+
+---
+
+### Kids Gifts
+
+&nbsp;
+
+**Science Kits- $12.95-$24.95**
+Learning is fun when excavating a glow-in-the-dark T-rex and building a working volcano! These science kits for kids range in interests from building robots to creating original works of spin art and are great for both girls and boys.
+
+Retro Board Games- $18
+Bring back fond memories and create new ones with board game classics like Candy Land and Chutes and Ladders. Easy, educational and nostalgic, these games are fun for the whole family and have been a joy for generations.
+
+Ridley's Toys- $8-$18.95
+Good old-fashioned fun is exactly what you need to get the kids to put away their ipads and learn how to master the game of Kendama and yo-yo tricks, classic and new, with the new light-up effects version. Our addictive collection of goodies and novelty toys will entertain for hours.
+
+Bestie Kits/ DIY- $12.95-$16.95
+The essential gifts for BFF tweens this year is our Bestie Kit and all of the DIY fashion jewelry and fabric markers and paints. They can express themselves with a little pop of color and maybe even a temporary tattoo.
+
+Bendable Action Figures- $9.95-$16.95
+This little collection of caped crusaders are super poseable and make super gifts for kids ages 4 and up. Also, the retro appeal makes these toys a great collectible and unique gift for the grown ups who are kids at heart.
