@@ -78,7 +78,7 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ---
 
-Mark Bittman’s Kitchen Matrix ([**Buy**](9780804188012))
+![](/uploads/versions/9780804188012---x----326-400x---.jpg)Mark Bittman’s Kitchen Matrix ([**Buy**](9780804188012))
 
 ---
 
