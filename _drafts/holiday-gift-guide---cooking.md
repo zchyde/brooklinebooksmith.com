@@ -62,7 +62,7 @@ The first book I read after becoming a vegetarian ten years ago was by Madhur Ja
 
 &nbsp;
 
-**Stories from the Kitchen** edited by Diana Secker Tesdell ([**Buy**](9781101907597))
+**![](/uploads/versions/9781101907597---x----255-400x---.jpg)Stories from the Kitchen** edited by Diana Secker Tesdell ([**Buy**](9781101907597))
 
 Composed of classic literature’s choicest delicacies, this new anthology collects stories, memories, excerpts and ruminations into a snug, bright little hardcover. From sumptuous feasts to humble hearth gatherings, these writings dwell on the universal experience of a shared meal. Within you’ll find foodie mainstays like M.F.K. Fisher and Jean Anthelme Brillat-Savarin; luminaries like Virginia Woolf and Marcel Proust; and modern storytellers like Amy Tan and Nora Ephron, to name just a few.
 
@@ -70,12 +70,20 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ### Honorable mentions
 
-Home Baked (**[Buy](9781617691676)**)
+![](/uploads/versions/9781617691676---x----324-400x---.jpg)Home Baked (**[Buy](9781617691676)**)
 
-Shakespeare Not Stirred ([**Buy**](9780399173004))
+---
+
+![](/uploads/versions/9780399173004---x----293-400x---.jpg)Shakespeare Not Stirred ([**Buy**](9780399173004))
+
+---
 
 Mark Bittman’s Kitchen Matrix ([**Buy**](9780804188012))
 
+---
+
 Pimp My Rice ([**Buy**](9781848992788))
+
+---
 
 The Mad Feast ([**Buy**](9781631490736))
