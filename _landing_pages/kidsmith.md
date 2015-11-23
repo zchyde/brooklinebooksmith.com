@@ -4,7 +4,7 @@ featured_image_path: '/uploads/1442843154579_boy-reading.jpg'
 featured_image_position: 20
 featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
 fancy_font: Cabin-sketch
-include: posts-kids.html
+category: kidsmith
 include_aside: events/kids.html
 follow: true
 aside: "###### [![yotwitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"

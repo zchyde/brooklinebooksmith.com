@@ -23,7 +23,10 @@ layout: default
   <article class="hentry">
     {% include _format-article.html %}
   </article>
-  <aside class="bottom{% if page.aside-bottom %} content-aside{% endif %}">
+  <aside class="bottom{% if page.aside-bottom or page.include_aside %} content-aside{% endif %}">
+    {% if page.include_aside %}
+        {% include {{ page.include_aside }} %}
+    {% endif %}
     &nbsp;
   </aside>
 </div>

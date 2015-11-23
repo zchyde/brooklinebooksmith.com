@@ -2,7 +2,6 @@
 title: "Harper Lee: The Mystery Thunders On"
 date: 2015-07-14T20:27:00.000Z
 category:
-category: Holiday-Gift-Guide
 featured_image_path: /uploads/1444598841339_cover-the-mockingbird-next-door-life-with-harper-lee-by-marja-mills.jpg
 staff:
 ---

@@ -11,27 +11,27 @@ layout: default
     &nbsp;
 
       {% assign page_cats = site.categories | where: 'category.name', page.category %}
-    <ul style="margin:0;">
-      {% for category in page_cats %}
-        {% for posts in category %}
-          {% for post in posts %}
-            {% if post.category == page.category %}
-              <li>
-                <strong>
-                  <a href="{{ post.url }}">
-                    {{ post.title | markdownify }}
-                  </a>
-                </strong>
-              </li>
-            {% endif %}
+    {% if page_cats %}
+      <ul style="margin:0;">
+        {% for category in page_cats %}
+          {% for posts in category %}
+            {% for post in posts %}
+              {% if post.category == page.category %}
+                <li>
+                  <strong>
+                    {% if post.title %}
+                    <a href="{{ post.url }}">
+                      {{ post.title | markdownify }}
+                    </a>
+                    {% endif %}
+                  </strong>
+                </li>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
         {% endfor %}
-      {% endfor %}
-    </ul>
-
-
-
-
+      </ul>
+    {% endif %}
 
   </aside>
   <article class="hentry">
