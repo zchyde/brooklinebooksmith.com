@@ -4,7 +4,7 @@ published: true
 date: 2015-11-20T12:00:00.000Z
 page_heading: 2015 Holiday Gift Guide
 featured_image_path: /uploads/maxresdefault.jpg
-featured_image_position: 50
+featured_image_position: 0
 category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
 comments: false
@@ -63,11 +63,7 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 *The Boy who Loved the Moon* by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
 
-
-
 ### FIRST CHAPTER BOOKS
-
-
 
 *The Complete Brambly Hedge* by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
 
@@ -77,11 +73,7 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
-
-
 ### INTERMEDIATE FICTION
-
-
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)**THE NEST** by Kenneth Oppel, illustrated by Jon Klassen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481432320)
 
@@ -129,11 +121,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 ---
 
-
-
 ### YOUNG ADULT
-
-
 
 ![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel José Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
@@ -179,11 +167,7 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 *Trouble is a Friend of Mine* by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
-
-
 ### NONFICTION
-
-
 
 ![](/uploads/versions/9780761169277---x----309-400x---.jpg)**CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World** by Gordon Grice [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780761169277)
 
@@ -213,11 +197,7 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 ---
 
-
-
 ### GRAPHICA
-
-
 
 ![](/uploads/versions/9780062278227---x----267-400x---.jpg)**NIMONA** by Noelle Stevenson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062278227)
 
