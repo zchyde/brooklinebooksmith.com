@@ -11,7 +11,6 @@
 {% assign heroBackgroundBottom = 0.37 %}
 {% endif %}
 
-
 {% assign background_image = page.featured_image_path %}
 {% assign background_image_mobile = page.featured_image_path %}
 

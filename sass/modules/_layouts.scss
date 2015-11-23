@@ -13,7 +13,7 @@
 .layout-three-column {
   aside, article {
     @include span-columns(12 of 12);
-    padding: 2em;
+    padding: 1.5em;
   }
   @include media($lg-up) {
     aside {
@@ -58,35 +58,7 @@
 .layout-article {
   @include layout_two_column;
 
-  aside.page {
-    //background-color:#f6f6f6;
-    border-radius: 2px;
-    background-color: $sidebar-color-background;//$color-2;
-    margin:0 0 3em 0;
-    color: $blue-dark;//$brown-dark;
-    h6 {
-      img {
-        height:2em;
-        vertical-align:middle;
-      }
-      font-family: $brand-font-family;
-    }
-    hr {
-        border-color: lighten($sidebar-color-background, 5%);
-    }
-    a {
-      color: $action-color;
-      @include word-wrap;
-      &:hover {
-        color: #333;
-      }
-    }
-    padding:2em;
-    font-size: .875em;
-    @include media($lg-up) {
 
-    }
-  }
   article {
     @include media($lg-up) {
       padding-bottom: 4em;

@@ -21,51 +21,7 @@ layout: default
     {% endif %}
   </aside>
   <article class="hentry">
-    {% unless page.featured_image_path %}
-      <header style="margin-bottom:0;">
-        <h2 class="entry-title">
-          {{ page.title }}
-        </h2>
-        <p class="post-meta">
-          {{ page.date | date: "%b %-d, %Y" }}{% unless page.staff contains 'staff' %} • {{ page.staff }}{% endunless %}{% if page.meta %} • {{ page.meta }}{% endif %}
-        </p>
-      </header>
-    {% endunless %}
-    <div class="entry-content">
-      {{ page.categories }}
-
-      {% if page.lede %}
-        <div class="lede">
-          {{ page.lede |markdownify }}
-        </div>
-      {% endif %}
-      <div class="items">
-        <div class="item">
-          {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
-            {{ page.content  | markdownify }}
-        </div>
-      </div>
-      {% if page.include %}
-        {% include {{ page.include }} %}
-      {% endif %}
-
-      {% if page.category %}
-        <div class="cards">
-          {% for object in category_posts %}
-            {% include  _format-blog-posts.html %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {% if page.featured_image_credit %}
-        <div class="caption">
-          image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
-      {% endif %}
-    </div>
-    <div class="row">
-      {% include form-constant-contact.html %}
-    </div>
+    {% include _format-article.html %}
   </article>
   <aside class="bottom{% if page.aside-bottom %} content-aside{% endif %}">
     &nbsp;

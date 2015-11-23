@@ -7,49 +7,35 @@ layout: default
       {{ page.aside | markdownify }}
     {% endif %}
     {% capture page_categories %}{{ page.categories }}{% endcapture %}
-          <h4>category: {{ page_categories | replace: '-', ' ' | capitalize }}</h4>
+          <h4>{{ page_categories | replace: '-', ' ' | capitalize }}</h4>
     &nbsp;
-    <ul>
-    {% for category in site.categories %}
-      <li>{{ category.title }}</li>
-    {% endfor %}
+
+      {% assign page_cats = site.categories | where: 'category.name', page.category %}
+    <ul style="margin:0;">
+      {% for category in page_cats %}
+        {% for posts in category %}
+          {% for post in posts %}
+            {% if post.category == page.category %}
+              <li>
+                <strong>
+                  <a href="{{ post.url }}">
+                    {{ post.title | markdownify }}
+                  </a>
+                </strong>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endfor %}
     </ul>
+
+
+
+
+
   </aside>
   <article class="hentry">
-    {% unless page.featured_image_path %}
-      <header style="margin-bottom:0;">
-        <h2 class="entry-title">
-          {{ page.title }}
-        </h2>
-        <p class="post-meta">
-          {{ page.date | date: "%b %-d, %Y" }}{% unless page.staff contains 'staff' %} • {{ page.staff }}{% endunless %}{% if page.meta %} • {{ page.meta }}{% endif %}
-        </p>
-      </header>
-    {% endunless %}
-    <div class="entry-content">
-      {% if page.lede %}
-        <div class="lede">
-          {{ page.lede |markdownify }}
-        </div>
-      {% endif %}
-      <div class="items">
-        <div class="item">
-          {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
-            {{ page.content  | markdownify }}
-        </div>
-      </div>
-      {% if page.include %}
-        {% include {{ page.include }} %}
-      {% endif %}
-      {% if page.featured_image_credit %}
-        <div class="caption">
-          image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
-      {% endif %}
-    </div>
-    <div class="row">
-      {% include form-constant-contact.html %}
-    </div>
+    {% include _format-article.html %}
   </article>
   <aside class="bottom">
     &nbsp;

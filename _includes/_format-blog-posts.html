@@ -1,5 +1,11 @@
 <a href="{{ object.url }}" class="card" id="{{ object.title | slugify }}">
-  <div class="card-image"{% if object.featured_image_path %} style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"{% endif %}>
+  <div class="card-image"
+  {% if object.featured_image_path %}
+  style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"
+  {% elsif object.image_path %}
+    style="background-image:url('{{ object.image_path }}');background-position:center 25%;background-size:cover;"
+  {% endif %}
+  >
     {% unless object.featured_image_path %}
       <h5 class="brand">{{ object.name }}</h5>
     {% endunless %}

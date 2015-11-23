@@ -800,13 +800,23 @@ article.hentry {
     article.hentry {
       max-width: 100%; } }
 
-aside a {
-  color: #981C41;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  word-break: break-all; }
-  aside a:hover {
-    color: #333; }
+aside {
+  font-size: .875em; }
+  aside a {
+    color: #981C41;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all; }
+    aside a:hover {
+      color: #333; }
+  aside h6 {
+    font-weight: normal;
+    font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
+    aside h6 img {
+      height: 2em;
+      vertical-align: middle; }
+  aside hr {
+    border-color: #fdfdfd; }
 
 aside.top.content-aside {
   background-color: #f0f0f0;
@@ -1170,7 +1180,7 @@ html, body {
   display: block;
   margin-right: 2.77778%;
   width: 100%;
-  padding: 2em; }
+  padding: 1.5em; }
   .layout-three-column aside:last-child, .layout-three-column article:last-child {
     margin-right: 0; }
 
@@ -1303,27 +1313,6 @@ html, body {
       width: 65.74074%; }
       .layout-article article:last-child {
         margin-right: 0; } }
-  .layout-article aside.page {
-    border-radius: 2px;
-    background-color: #f0f0f0;
-    margin: 0 0 3em 0;
-    color: #2F353E;
-    padding: 2em;
-    font-size: .875em; }
-    .layout-article aside.page h6 {
-      font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
-      .layout-article aside.page h6 img {
-        height: 2em;
-        vertical-align: middle; }
-    .layout-article aside.page hr {
-      border-color: #fdfdfd; }
-    .layout-article aside.page a {
-      color: #981C41;
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-      word-break: break-all; }
-      .layout-article aside.page a:hover {
-        color: #333; }
   @media screen and (min-width: 56.25em) {
     .layout-article article {
       padding-bottom: 4em; } }

@@ -45,6 +45,7 @@ article.hentry {
 }
 
 aside {
+  font-size: .875em;
   a {
     color: $action-color;
     @include word-wrap;
@@ -52,6 +53,18 @@ aside {
       color: #333;
     }
   }
+  h6 {
+    font-weight: normal;
+    img {
+      height:2em;
+      vertical-align:middle;
+    }
+    font-family: $brand-font-family;
+  }
+  hr {
+      border-color: lighten($sidebar-color-background, 5%);
+  }
+
 }
 
 aside.top.content-aside {
