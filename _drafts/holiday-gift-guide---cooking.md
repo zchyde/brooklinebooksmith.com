@@ -12,7 +12,7 @@ staff: null
 
 &nbsp;
 
-**The NoMad Cookbook** by Daniel Humm and Will Guidara (**[Buy](9781607748229)**)
+**![](/uploads/versions/9781607748229---x----306-400x---.jpg)The NoMad Cookbook** by Daniel Humm and Will Guidara (**[Buy](9781607748229)**)
 
 This is one of the most beautiful cookbooks I’ve ever seen. It’s the product of pioneering restaurateurs Daniel Humm and Will Guidara, who distilled the experience of sitting down at their Manhattan dining hall into one elegant volume (technically two, since the last chapter is composed of false pages that form a box for a pocket-size cocktail guide). The recipes range from the minimalist (butter-dipped radishes with fleur de sel) to the decadent (duck roasted with apricots, chamomile and swiss chard), but all are exquisite enough to put stained glass windows to shame. There is one tomato tart with eggplant and rosemary that might be too dazzling to even eat, but if you decide otherwise, you’ll always have the picture.
 
@@ -22,7 +22,7 @@ This is one of the most beautiful cookbooks I’ve ever seen. It’s the product
 
 &nbsp;
 
-**My Kitchen Year: 136 Recipes That Saved My Life** by Ruth Reichl ([**Buy**](9781400069989))
+**![](/uploads/versions/9781400069989---x----283-400x---.jpg)My Kitchen Year: 136 Recipes That Saved My Life** by Ruth Reichl ([**Buy**](9781400069989))
 
 If there’s anyone who can harmonize the turning of seasons, the solitude of nature, the intimacy of a diary and the reverent joy of food, it’s Ruth Reichl. Following the abrupt shuttering of Gourmet magazine after 10 years as its editor, Reichl retreats into the practice of cooking, weighing every step - from visiting the butcher’s shop to sprinkling the final pinch of salt - as equal parts of a ritual that soothes and centers the preparer. This treasure of a cookbook takes us through a year with Reichl, and we get both the long walk through snowy woods and the roast chicken and apple crisp that follow.
 
