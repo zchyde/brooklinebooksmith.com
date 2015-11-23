@@ -3,14 +3,13 @@ title: Holiday Gift Guide - Kids
 published: true
 date: 2015-11-20T12:00:00.000Z
 page_heading: 2015 Holiday Gift Guide
-featured_image_path: /uploads/banner-holiday-gift-guide.jpg
+featured_image_path: /uploads/maxresdefault.jpg
 featured_image_position: 50
 category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
 comments: false
-staff: _staff
+staff: '-staff-'
 ---
-
 
 ### PICTURE BOOKS
 
@@ -65,11 +64,10 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 *The Boy who Loved the Moon* by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
 
 
-&nbsp;
 
 ### FIRST CHAPTER BOOKS
 
-&nbsp;
+
 
 *The Complete Brambly Hedge* by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
 
@@ -79,11 +77,11 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
-&nbsp;
+
 
 ### INTERMEDIATE FICTION
 
-&nbsp;
+
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)**THE NEST** by Kenneth Oppel, illustrated by Jon Klassen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481432320)
 
@@ -123,7 +121,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 #### Honorable Mentions
 
-*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
+*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
 
 *Caretaker’s Guide to Fablehaven* by Brandon Mull [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781629720913)
 
@@ -131,13 +129,13 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 ---
 
-&nbsp;
+
 
 ### YOUNG ADULT
 
-&nbsp;
 
-![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel Jos&eacute; Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
+
+![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel José Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
 Sierra Santiago never knew magic was part of her Puerto Rican heritage. But shadowshaping—the ability to immortalize the souls of the dead in works of art—is real, and shadowshapers are being murdered. Sierra and a young shadowshaper named Robbie race through Brooklyn against time, zombies, and worse—before they lose shadowshaping forever. With language that sings and a story that pelts across the pages, Older’s urban fantasy will go straight to your head.
 
@@ -182,11 +180,10 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 *Trouble is a Friend of Mine* by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
 
-&nbsp;
 
 ### NONFICTION
 
-&nbsp;
+
 
 ![](/uploads/versions/9780761169277---x----309-400x---.jpg)**CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World** by Gordon Grice [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780761169277)
 
@@ -216,11 +213,11 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 ---
 
-&nbsp;
+
 
 ### GRAPHICA
 
-&nbsp;
+
 
 ![](/uploads/versions/9780062278227---x----267-400x---.jpg)**NIMONA** by Noelle Stevenson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062278227)
 
@@ -240,7 +237,7 @@ Different artists illustrate some of their favorite fables. The stories range fr
 
 ---
 
-![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson&nbsp; vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson  vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
 
 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
 
@@ -252,6 +249,6 @@ Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale  ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
