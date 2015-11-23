@@ -44,6 +44,16 @@ article.hentry {
   }
 }
 
+aside {
+  a {
+    color: $action-color;
+    @include word-wrap;
+    &:hover {
+      color: #333;
+    }
+  }
+}
+
 aside.top.content-aside {
   background-color: $sidebar-bottom-color-background;//$sidebar-top-color-background;
   border-bottom-right-radius: 3px;
