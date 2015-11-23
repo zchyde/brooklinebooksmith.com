@@ -32,7 +32,7 @@ If there’s anyone who can harmonize the turning of seasons, the solitude of na
 
 &nbsp;
 
-**East: Culinary Adventures in Southeast Asia** by Leanne Kitchen and Antony Suvalko ([**Buy**](9781742709161))
+**![](/uploads/versions/9781742709161---x----319-400x---.jpg)East: Culinary Adventures in Southeast Asia** by Leanne Kitchen and Antony Suvalko ([**Buy**](9781742709161))
 
 I picked up East thinking it was an opportunity to experience the kitchens and street vendors of Vietnam, Indonesia, Thailand and the rest of Southeast Asia at a fraction of what it would cost to make the trip. I wasn’t wrong, but Leanne Kitchen and Antony Suvalko’s loving descriptions and photos of the region have me all fired up to try a bowl of their duck and egg noodle soup while “watching the sun sink into the Mekong,” or nibble tamarind prawns at a lunch spot in Java to the “rhythmic thud of cooks pounding the freshest ingredients into fragrant curry pastes.” As a cook, my favorite part of this book is the opening section, “Basic Recipes,” which covers many stocks, sauces, spice blends and other staples of eastern cuisine that appear in most main dishes and might otherwise intimidate the home cook.
 
@@ -42,7 +42,7 @@ I picked up East thinking it was an opportunity to experience the kitchens and s
 
 &nbsp;
 
-**NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully &nbsp;[(buy)](97816077463232 )
+**![](/uploads/versions/9781607746232---x----291-400x---.jpg)NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully &nbsp;[(buy)](97816077463232 )
 
 From Yotam Ottolenghi, the visionary behind best-selling cookbooks Plenty and Jerusalem, comes another collection destined to become a classic. Ottolenghi rose to fame as a food columnist for The Guardian, beloved for his unpretentious but relentlessly innovative use of flavors and techniques. This latest book is named for his acclaimed restaurant, where Londoners gather daily for the parade of seasonal new dishes and beloved favorites. Be warned, this is not a book for the conservative palate - it is a wildly celebratory tribute to global cuisine. At the top of my to-cook list: Jerusalem artichoke soup with hazelnut and spinach pesto; gurnard baked in banana leaf with pineapple chile sambal and sticky sesame rice; pearl barley risotto with watercress, asparagus, and pecorino; and baked blue cheesecake with pickled beets and honey.
 
@@ -52,7 +52,7 @@ From Yotam Ottolenghi, the visionary behind best-selling cookbooks Plenty and Je
 
 &nbsp;
 
-**Vegetarian India: A Journey Through the Best of Indian Home Cooking** by Madhur Jaffrey ([**Buy**](9781101874868))
+**![](/uploads/versions/9781101874868---x----309-400x---.jpg)Vegetarian India: A Journey Through the Best of Indian Home Cooking** by Madhur Jaffrey ([**Buy**](9781101874868))
 
 The first book I read after becoming a vegetarian ten years ago was by Madhur Jaffrey. Thinking back I can’t remember if it was a memoir full of food or a cookbook full of her childhood in India - no one pairs clear, culinary instruction with cultural background the way she does. Her latest, Vegetarian India, is decidedly a cookbook, and it dispels any notions you may have about the limits of meatless dishes - the scope includes the traditions of dozens of cultures within India and ventures into the modern with Western ingredients like corn and quinoa. These recipes are for herbivores and omnivores alike.
 
