@@ -240,17 +240,35 @@ A delightful and educational series about some of history’s bloodier tales. A 
 
 &nbsp;
 
-**Science Kits- $12.95-$24.95**
+**![](/uploads/versions/2015-holiday-gift-guide-games-science---x----600-338x---.jpg)Science Kits- $12.95-$24.95**
 Learning is fun when excavating a glow-in-the-dark T-rex and building a working volcano! These science kits for kids range in interests from building robots to creating original works of spin art and are great for both girls and boys.
 
-Retro Board Games- $18
+---
+
+&nbsp;
+
+**![](/uploads/versions/2015-holiday-gift-guide-games-candyland---x----600-338x---.jpg)Retro Board Games- $18**
 Bring back fond memories and create new ones with board game classics like Candy Land and Chutes and Ladders. Easy, educational and nostalgic, these games are fun for the whole family and have been a joy for generations.
 
-Ridley's Toys- $8-$18.95
+---
+
+&nbsp;
+
+**![](/uploads/versions/2015-holiday-gift-guide-games-table-tennis---x----600-338x---.jpg)Ridley's Toys- $8-$18.95**
 Good old-fashioned fun is exactly what you need to get the kids to put away their ipads and learn how to master the game of Kendama and yo-yo tricks, classic and new, with the new light-up effects version. Our addictive collection of goodies and novelty toys will entertain for hours.
 
-Bestie Kits/ DIY- $12.95-$16.95
+---
+
+&nbsp;
+
+**![](/uploads/versions/2015-holiday-gift-guide-games-bracelets---x----600-338x---.jpg)Bestie Kits/ DIY- $12.95-$16.95**
 The essential gifts for BFF tweens this year is our Bestie Kit and all of the DIY fashion jewelry and fabric markers and paints. They can express themselves with a little pop of color and maybe even a temporary tattoo.
 
-Bendable Action Figures- $9.95-$16.95
+---
+
+&nbsp;
+
+**![](/uploads/versions/2015-holiday-gift-guide-games-super-heros---x----600-338x---.jpg)Bendable Action Figures- $9.95-$16.95**
 This little collection of caped crusaders are super poseable and make super gifts for kids ages 4 and up. Also, the retro appeal makes these toys a great collectible and unique gift for the grown ups who are kids at heart.
+
+&nbsp;
