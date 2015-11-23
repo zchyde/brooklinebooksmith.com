@@ -86,4 +86,4 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ---
 
-The Mad Feast ([**Buy**](9781631490736))
+![](/uploads/versions/9781631490736---x----305-400x---.jpg)The Mad Feast ([**Buy**](9781631490736))
