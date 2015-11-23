@@ -4,7 +4,7 @@ published: true
 date: 2015-11-20T12:00:00.000Z
 page_heading: 2015 Holiday Gift Guide
 featured_image_path: /uploads/maxresdefault.jpg
-featured_image_position: 0
+featured_image_position: 20
 category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
 comments: false
