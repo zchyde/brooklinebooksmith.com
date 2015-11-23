@@ -7,6 +7,7 @@ featured_image_path: /uploads/banner-holiday-gift-guide.jpg
 featured_image_position: 50
 category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
+comments: false
 staff: _staff
 ---
 
