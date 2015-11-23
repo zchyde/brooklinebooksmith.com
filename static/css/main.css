@@ -800,11 +800,12 @@ article.hentry {
     article.hentry {
       max-width: 100%; } }
 
-aside.top {
+aside.top.content-aside {
   background-color: #f0f0f0;
-  border-bottom-right-radius: 3px; }
+  border-bottom-right-radius: 3px;
+  color: black; }
 
-aside.bottom {
+aside.bottom .content-aside {
   background-color: #f0f0f0;
   border-bottom-left-radius: 3px; }
 

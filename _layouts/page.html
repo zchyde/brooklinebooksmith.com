@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="has-layout__full-width layout-three-column">
-  <aside class="top">
+  <aside class="top{% if page.aside %} content-aside{% endif %}">
     {% if page.aside %}
       {{ page.aside | markdownify }}
     {% endif %}
@@ -61,7 +61,7 @@ layout: default
       {% include form-constant-contact.html %}
     </div>
   </article>
-  <aside class="bottom">
+  <aside class="bottom{% if page.aside-bottom %} content-aside{% endif %}">
     &nbsp;
   </aside>
 </div>

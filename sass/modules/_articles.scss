@@ -12,6 +12,8 @@ article.hentry {
       margin: .25em 1em .25em 0;
       padding-bottom: 1em;
       @include media($sm-dn) {
+        // on small screens make the image fill the width of the screen to
+        // avoid awkwardness
         width: 100%;
         float: none;
         clear: both;
@@ -42,13 +44,13 @@ article.hentry {
   }
 }
 
-aside.top {
+aside.top.content-aside {
   background-color: $sidebar-bottom-color-background;//$sidebar-top-color-background;
   border-bottom-right-radius: 3px;
-  //color: white;
+  color: black;
 }
 
-aside.bottom {
+aside.bottom .content-aside {
   background-color: $sidebar-bottom-color-background;
   border-bottom-left-radius: 3px;
 }
