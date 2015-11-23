@@ -7,11 +7,18 @@ layout: default
       {{ page.aside | markdownify }}
     {% endif %}
     &nbsp;
+    {% assign category_posts = site.posts | where: 'category', page.category %}
+    {% if page.category %}
     <ul>
-    {% for category in site.categories %}
-      <li>{{ category.title }}</li>
+    {% for object in category_posts %}
+      <li>
+        <a href="#{{ object.title | slugify }}">
+            {{ object.title }}
+        </a>
+      </li>
     {% endfor %}
     </ul>
+    {% endif %}
   </aside>
   <article class="hentry">
     {% unless page.featured_image_path %}
@@ -43,9 +50,8 @@ layout: default
       {% endif %}
 
       {% if page.category %}
-        {% assign posts = site.posts | where: 'category', page.category %}
         <div class="cards">
-          {% for object in posts %}
+          {% for object in category_posts %}
             {% include  _format-blog-posts.html %}
           {% endfor %}
         </div>
