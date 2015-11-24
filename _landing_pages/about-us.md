@@ -1,7 +1,7 @@
 ---
 title: About Us
-featured_image_path: /uploads/booksmith-1240x700.jpg
-featured_image_position: 90
+featured_image_path: /uploads/banner-about-us.jpg
+featured_image_position: 50
 fancy_font: Lato
 page_heading: ''
 aside: |-
