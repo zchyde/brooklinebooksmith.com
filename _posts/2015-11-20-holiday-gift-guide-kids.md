@@ -189,11 +189,9 @@ It doesnâ€™t matter if you know who Anna Pavlova is or not. Snyder and Morstadâ€
 
 #### Honorable Mentions
 
-*Symphony for the City of the Dead* by M.T. Anderson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668181)
+&nbsp;
 
-*Creaturepedia* by Adrienne Barman [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781847806963)
-
-*Historium* by Jo Nelson and Richard Wilkinson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763679842)
+[![](/uploads/versions/9780763668181---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780763668181)[![](/uploads/versions/9781847806963---x----290-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781847806963)[![](/uploads/versions/9780763679842---x----284-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780763679842)
 
 ---
 
