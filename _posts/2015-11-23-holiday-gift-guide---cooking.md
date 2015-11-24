@@ -49,14 +49,23 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ### Honorable mentions
 
-![](/uploads/versions/9781617691676---x----324-400x---.jpg)Home Baked ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781617691676))
+![](/uploads/versions/9781617691676---x----324-400x---.jpg)
 
-![](/uploads/versions/9780399173004---x----293-400x---.jpg)Shakespeare Not Stirred ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780399173004))
+![](/uploads/versions/9780399173004---x----293-400x---.jpg)
 
-![](/uploads/versions/9780804188012---x----326-400x---.jpg)Mark Bittman’s Kitchen Matrix ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780804188012))
+![](/uploads/versions/9780804188012---x----326-400x---.jpg)
 
-![](/uploads/versions/9781848992788---x----309-400x---.jpg)Pimp My Rice ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781848992788))
+![](/uploads/versions/9781848992788---x----309-400x---.jpg)
 
-&nbsp;
+![](/uploads/versions/9781631490736---x----305-400x---.jpg)
 
-![](/uploads/versions/9781631490736---x----305-400x---.jpg)The Mad Feast ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781631490736))
+
+Home Baked ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781617691676))
+
+Shakespeare Not Stirred ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780399173004))
+
+Mark Bittman’s Kitchen Matrix ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780804188012))
+
+Pimp My Rice ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781848992788))
+
+The Mad Feast ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781631490736))
