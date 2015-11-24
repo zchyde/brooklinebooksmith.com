@@ -1,6 +1,5 @@
 ---
 title: The Giftsmith
-page_heading: ''
 featured_image_path: /uploads/banner-giftsmith_wr.jpg
 featured_image_position: 50
 aside: ''
