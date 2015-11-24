@@ -37,7 +37,7 @@ What could be better than a book that TRANSFORMS?! Into a ROBOT no less?! Rubin 
 
 ---
 
-![](/uploads/versions/9780805098266---x----311-400x---.jpg)**LITTLE ELLIOT**, BIG FAMILY by Mike Curato [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780805098266)
+![](/uploads/versions/9780805098266---x----311-400x---.jpg)**LITTLE ELLIOT, BIG FAMILY** by Mike Curato [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780805098266)
 
 A sweet and heartwarming follow up to *Little Elliot, Big City*. When Mouse leaves for a family reunion Elliot feels left behind. But before long Mouse comes back for him and brings him a surprise. With his signature whimsy, Curato looks at how sometimes family finds you when you need them most.
 
@@ -87,19 +87,19 @@ George is a pretty normal fourth-grade girl. She likes clothes and friends. She�
 
 ---
 
-![](/uploads/versions/9780062320940---x----269-400x---.jpg)**DOLDRUMS** by Nicholas Gannon [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062320940)
+![](/uploads/versions/9780062320940---x----269-400x---.jpg)**THE DOLDRUMS** by Nicholas Gannon [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062320940)
 
 A unique and whimsical story that is just begging to be read out loud. Characters reminiscent of Roald Dahl, with quirky humor and the best round about logic. Who doesn’t get in shape for an Arctic Expedition by eating as much ice as possible? The author also created stunning full color illustrations that perfectly highlight the setting of this brilliant new classic.
 
 ---
 
-![](/uploads/versions/9781481419420---x----265-400x---.jpg)**WOLF WILDER** by Katherine Rundell [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481419420)
+![](/uploads/versions/9781481419420---x----265-400x---.jpg)**THE WOLF WILDER** by Katherine Rundell [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481419420)
 
 Feo has a very unusual job. Her and her mother re-introduce domesticated wolves into the wild. They call it Wolf Wilding. Feo loves the wolves and she loves her snowy home deep in the Russian wilderness. Unexpected friends, and fierce enemies change Feo’s life, and the lives of the wolves closest to her, forever. After all, “wolves, like children, are not born to lead calm lives.”
 
 ---
 
-![](/uploads/versions/9780545448680---x----268-400x---.jpg)**THE MARVELS** by Brian Sleznick [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545448680)
+![](/uploads/versions/9780545448680---x----268-400x---.jpg)**THE MARVELS** by Brian Selznick&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545448680)
 
 *Marvels* opens with the lone survivor of a shipwreck, a story told in Selznick’s beautiful illustrations, and fans out into the text story of a runaway almost 200 years later. Both stories are beautiful and intriguing and meet in a way the reader won’t expect. *Marvels* is a stunning follow up to 2011’s Wonderstruck that is hands-down worth every second of the wait.
 
@@ -147,9 +147,9 @@ When the world is ending, it’s the “special” kids who get all the attentio
 
 ---
 
-![](/uploads/versions/9780553499117---x----265-400x---.jpg)**ILLUMINAE** by Annie Kaufman and Jay Kristoff [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780553499117)
+![](/uploads/versions/9780553499117---x----265-400x---.jpg)**ILLUMINAE** by Amie Kaufman and Jay Kristoff [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780553499117)
 
-Told through e-mails, interviews, and instant messages Illuminae follows Katy and Ezra, two refugee teens after their illegal mining planet is bombed. They’re genuine, smart, and resourceful as they attempt to uncover the depth of the conspiracy behind the tragedy. Managing to be alternately heart-breaking and laugh-out-loud funny, Illuminae delivers a story unlike anything you’re expecting. With a story told this well, it doesn’t matter if you’re a sci-fi fan or not.
+Told through e-mails, interviews, and instant messages Illuminae follows Kady and Ezra, two refugee teens after their illegal mining planet is bombed. They’re genuine, smart, and resourceful as they attempt to uncover the depth of the conspiracy behind the tragedy. Managing to be alternately heart-breaking and laugh-out-loud funny, Illuminae delivers a story unlike anything you’re expecting. With a story told this well, it doesn’t matter if you’re a sci-fi fan or not.
 
 ---
 
@@ -213,23 +213,23 @@ Friendship to the MAX! That is what the Lumberjanes are all about. At this girl 
 
 ![](/uploads/versions/9781626721074---x----305-400x---.jpg)**FABLE COMICS** edited by Chris Duffy [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781626721074)
 
-Different artists illustrate some of their favorite fables. The stories range from George O’Connor (of Olympians fame) tackling tales of the Greek Hermes, to Vera Brosgol (*Anya and the Ghost*) telling an Indian fable, The Hare and the Pig. *Fables Comics* has a little something for everyone and is perfect for both reluctant readers and graphic novel fans looking to find new authors to explore.
+Different artists illustrate some of their favorite fables. The stories range from George O’Connor (of *Olympians* fame) tackling tales of the Greek Hermes, to Vera Brosgol (*Anya and the Ghost*) telling an Indian fable, *The Hare and the Pig*. *Fable Comics* has a little something for everyone and is perfect for both reluctant readers and graphic novel fans looking to find new authors to explore.
 
 ---
 
-![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson&nbsp; vol 1. [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
+![](/uploads/versions/9780785190219---x----260-400x---.jpg)**Graphic Series - MS. MARVEL SERIES** by G. Willow Wilson (Volume 1)&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780785190219)
 
 The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and full of those awkward growing up moments. Wilson and Alphona are taking the world by storm with their brilliant re-imagining of a classic super lady. Your kid wants to read graphic novels? Hand them Ms Marvel and know that they are reading top quality graphica.
 
 ---
 
-![](/uploads/versions/9780545813877---x----275-400x---.jpg)**BABY-SITTERS CLUB: Full Color Edition** by Ann M. Martin and Raina Telgemeir (Vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
+![](/uploads/versions/9780545813877---x----275-400x---.jpg)****Graphic Series -**BABY-SITTERS CLUB: Full Color Edition** by Ann M. Martin and Raina Telgemeier (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
 
 Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2015 with its first three full-color graphic novel volumes. With art by *Smile and Sisters’* Reina Telgemeier, these books and their enterprising heroines feel completely fresh. You don’t have to be old enough to babysit to enjoy the BSC, but once you’ve met them, they’re bound to be your fictional friends for life.
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; ( vol 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)****Graphic Series -**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
 
