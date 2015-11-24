@@ -65,15 +65,15 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ### FIRST CHAPTER BOOKS
 
-*The Complete Brambly Hedge* by Jill Barklem [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780007450169)
+(*click the cover to purchase*)
 
-*The Story of Diva and Flea* by Tony Diterlizzi and Mo Willems [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484722848)
-
-*Francine Poulet Meets the Ghost Racoon* by Kate Dicamillo Illustrated by Chris Van Dusen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780763668860)
+[![](/uploads/versions/9780007450169---x----319-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780007450169)[![](/uploads/versions/9781484722848---x----306-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781484722848)[![](/uploads/versions/9780763668860---x----268-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780763668860)
 
 ---
 
 ### INTERMEDIATE FICTION
+
+&nbsp;
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)**THE NEST** by Kenneth Oppel, illustrated by Jon Klassen [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781481432320)
 
