@@ -9,8 +9,8 @@ layout: default
     {% capture page_categories %}{{ page.categories }}{% endcapture %}
           <h4>{{ page_categories | replace: '-', ' ' | capitalize }}</h4>
     &nbsp;
-
-      {% assign page_cats = site.categories  %}
+    {% comment %} {% assign page_cats = site.categories | where: 'category.name', page.category %} {% endcomment %}
+      {% assign page_cats = site.categories %}
     {% if page_cats %}
       <ul style="margin:0;">
         {% for category in page_cats %}
