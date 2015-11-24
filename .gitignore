@@ -15,7 +15,7 @@ _site
 *.zip
 *.vi
 *~
-*.lock
+# *.lock
 
 # OS or Editor folders
 *.scssc
