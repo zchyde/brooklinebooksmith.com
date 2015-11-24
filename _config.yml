@@ -18,6 +18,8 @@ categories:
 
 
 ## DO NOT EDIT BELOW THIS LINE
+gems:
+  - jekyll-paginate
 env: development
 url: http://staging-bbs.sonnetmedia.com
 sitename: brookline booksmith
