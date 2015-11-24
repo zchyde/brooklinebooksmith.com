@@ -159,11 +159,13 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 #### Honorable Mentions
 
-*Simon vs. the Homo Sapiens Agenda* by Becky Albertalli [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062348678)
+&nbsp;
 
-*Hunter* by Mercedes Lackey [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781484707845)
+[![](/uploads/versions/9780062348678---x----278-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780062348678)[![](/uploads/versions/9781484707845---x----269-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781484707845)[![](/uploads/versions/9780525428404---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
-*Trouble is a Friend of Mine* by Stephanie Tromly [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780525428404)
+&nbsp;
+
+---
 
 ### NONFICTION
 
