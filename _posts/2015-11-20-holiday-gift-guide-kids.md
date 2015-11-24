@@ -51,17 +51,15 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 #### Honorable Mentions
 
-*HarperCollins Treasury of Picture Book Classics* (various) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062427250)
+[![](/uploads/versions/9780062427250---x----400-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780062427250)[![](/uploads/versions/9780399173455---x----311-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780399173455)
 
-*Magical World of Strega Nona* by Tomie de Paola [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780399173455)
+[![](/uploads/versions/9781442483217---x----512-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781442483217)
 
-*Lizard From the Park* by Mark Pett [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781442483217)
+[![](/uploads/versions/9780374380205---x----287-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780374380205)
 
-*This is My Home, This is My School* by Jonathan Bean [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780374380205)
+[![](/uploads/versions/9781596439320---x----441-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781596439320)[![](/uploads/versions/9781939629760---x----400-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781939629760)
 
-*Lenny and Lucy by Philip C. Stead* and Illustrated by Erin E. Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781596439320)
-
-*The Boy who Loved the Moon* by Rino Alaimo [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781939629760)
+---
 
 ### FIRST CHAPTER BOOKS
 
@@ -113,11 +111,11 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 #### Honorable Mentions
 
-*Harry Potter and the Sorcerer’s Stone: The Illustrated Edition* by J.K. Rowling/illustrated by Jim Kay&nbsp;[**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545790352)
+&nbsp;
 
-*Caretaker’s Guide to Fablehaven* by Brandon Mull [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781629720913)
+[![](/uploads/versions/9780545790352---x----339-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780545790352)[![](/uploads/versions/9781629720913---x----288-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781629720913)[![](/uploads/versions/9780385743174---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780385743174)
 
-*Goodbye Stranger* by Rebecca Stead [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780385743174)
+&nbsp;
 
 ---
 
@@ -223,13 +221,13 @@ The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and f
 
 ---
 
-![](/uploads/versions/9780545813877---x----275-400x---.jpg)****Graphic Series -**BABY-SITTERS CLUB: Full Color Edition** by Ann M. Martin and Raina Telgemeier (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
+![](/uploads/versions/9780545813877---x----275-400x---.jpg)**\*\*Graphic Series -**BABY-SITTERS CLUB: Full Color Edition\*\* by Ann M. Martin and Raina Telgemeier (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
 
 Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2015 with its first three full-color graphic novel volumes. With art by *Smile and Sisters’* Reina Telgemeier, these books and their enterprising heroines feel completely fresh. You don’t have to be old enough to babysit to enjoy the BSC, but once you’ve met them, they’re bound to be your fictional friends for life.
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)****Graphic Series -**NATHAN HALE’S HAZARDOUS TALES** by Nathan Hale&nbsp; (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)**\*\*Graphic Series -**NATHAN HALE’S HAZARDOUS TALES\*\* by Nathan Hale&nbsp; (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
 
