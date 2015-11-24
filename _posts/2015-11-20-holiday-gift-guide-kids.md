@@ -51,6 +51,8 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 #### Honorable Mentions
 
+(*click the cover to purchase*)
+
 [![](/uploads/versions/9780062427250---x----400-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780062427250)[![](/uploads/versions/9780399173455---x----311-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780399173455)
 
 [![](/uploads/versions/9781442483217---x----512-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781442483217)
@@ -111,7 +113,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 #### Honorable Mentions
 
-&nbsp;
+(*click the cover to purchase*)
 
 [![](/uploads/versions/9780545790352---x----339-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780545790352)[![](/uploads/versions/9781629720913---x----288-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781629720913)[![](/uploads/versions/9780385743174---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780385743174)
 
@@ -159,7 +161,7 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 #### Honorable Mentions
 
-&nbsp;
+(*click the cover to purchase*)
 
 [![](/uploads/versions/9780062348678---x----278-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780062348678)[![](/uploads/versions/9781484707845---x----269-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781484707845)[![](/uploads/versions/9780525428404---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780525428404)
 
@@ -189,7 +191,7 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 #### Honorable Mentions
 
-&nbsp;
+(*click the cover to purchase*)
 
 [![](/uploads/versions/9780763668181---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780763668181)[![](/uploads/versions/9781847806963---x----290-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781847806963)[![](/uploads/versions/9780763679842---x----284-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780763679842)
 
