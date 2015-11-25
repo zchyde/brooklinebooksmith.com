@@ -2,6 +2,7 @@
 title: About Us
 featured_image_path: /uploads/banner-about-us.jpg
 featured_image_position: 50
+featured_image_credit: '[Liz Linder](lizlinder.com)'
 fancy_font: Lato
 aside: |-
   **general email**
