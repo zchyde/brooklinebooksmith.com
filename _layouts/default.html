@@ -1,6 +1,3 @@
----
-layout: compress
----
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -20,8 +17,9 @@ layout: compress
       <meta name="MobileOptimized" content="320">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-              <!-- TODO: make correct URL for rss -->
-      {% comment %} <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed"> {% endcomment %}
+
+      {% comment %} <!-- TODO: make correct URL for rss -->
+      <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed"> {% endcomment %}
 
       <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title }} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
@@ -29,8 +27,6 @@ layout: compress
       {% endif %}
 
       <link rel="icon" href="{{site.url}}/favicon.ico" type="image/x-icon">
-          <!-- Stylesheets -->
-
         <link href='/static/css/main.min.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
       {% include global/meta-data.html %}

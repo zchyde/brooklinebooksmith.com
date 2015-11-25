@@ -2,7 +2,7 @@
 title: The Giftsmith
 featured_image_path: /uploads/banner-giftsmith_wr.jpg
 featured_image_position: 50
-featured_image_credit: '[Liz Linder](lizlinder.com)'
+featured_image_credit: '[Liz Linder](http://lizlinder.com)'
 aside:
 fancy_font: Cabin-sketch
 ---
