@@ -13,13 +13,13 @@ excerpt: From Picture Books to YA and Graphica
 
 ### PICTURE BOOKS
 
-![](/uploads/9781452125329.jpg)**INTERSTELLAR CINDERELLA** by Deborah Underwood, illustrated by Meg Hunt [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781452125329)
+![9781452125329](/uploads/9781452125329.jpg)**INTERSTELLAR CINDERELLA** by Deborah Underwood, illustrated by Meg Hunt [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781452125329)
 
 This spirited retelling retains Cinderella’s classic structure, but capable mechanic Cinderella meets the prince when she repairs his spaceship, and she loses a wrench instead of a glass slipper. The illustrations swirl and sparkle through the cosmos. Read-aloud friendly rhyming text carries everyone to a happy ending: Interstellar Cinderella is too young for marriage, but she’s old enough to be the royal chief mechanic! A great fit for fans of princesses and Rosie Revere, Engineer.
 
 ---
 
-![](/uploads/9781568462554.jpg)**SING A SEASON SONG** by Jane Yolen and illustrated by Liesl Ashlock [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781568462554)
+![9781568462554](/uploads/9781568462554.jpg)**SING A SEASON SONG** by Jane Yolen and illustrated by Liesl Ashlock [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781568462554)
 
 Jane Yolen’s quiet lullaby, set to the rhythm of the changing seasons, explodes into brilliant full color in Ashlock’s sharply detailed illustrations. As plants and animals of the woods and fields traverse the year, you can also catch glimpses of a few far-off children—the natural world is always close by, if you’re willing to look. The story starts and ends in snug and sleepy winter, while vibrant images of summer will be especially welcome on cold nights.
 
