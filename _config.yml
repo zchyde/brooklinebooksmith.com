@@ -42,6 +42,7 @@ exclude:
   - gulpfile.js
   - package.json
   - javascript
+  - vendor
 permalink: pretty
 future: false
 production: false
