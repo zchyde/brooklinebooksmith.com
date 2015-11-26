@@ -35,13 +35,11 @@ fancy_font: Lato
 <div class="" style="min-height:300px;background-color:#fff;padding:2em 0;border-top:1px solid #f6f6f6;border-bottom:1px solid #f6f6f6;width:100%;clear:both;">
   <div class="has-layout">
     <h3 class="brand">New Arrivals</h3>
-      {% assign books = site.books  %}
-
-      {% for book in site.books limit:5 %}
-        {% if book.image_path %}
-
-        <img src="{{book.image_path}}" alt="" style="height:300px;float:left;margin-right:32px;"/>
-        {% endif %}
+      {% assign books = site.data.books  %}
+      {{ books }}
+      {% for object in books limit:5 %}
+        {{object.title}} - {{object.isbn}}
+          <img src="/uploads/{{object.isbn}}.jpg" alt="" style="height:300px;float:left;margin-right:32px;"/>
       {% endfor %}
   </div>
 </div>
