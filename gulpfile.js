@@ -46,6 +46,7 @@ gulp.task('scripts-concat', function() {
   return gulp.src(
       [
       'node_modules/jquery/dist/jquery.min.js',
+      'node_modules/flickity/dist/flickity.pkgd.min.js',
       'static/js/dist/scripts.min.js'
       ])
     .pipe(concat('scripts-concatenated.min.js')) //change this to change the script found in 'templates/global/_scripts.html'

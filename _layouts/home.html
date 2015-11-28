@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<main class="layout_two_column_wide row">
+  <article class="">
+      {% assign posts = site.posts %}
+      {% assign posts_limit = site.paginate %}
+    <div class="cards">
+      {% for object in posts limit:posts_limit %}
+        {% include _format-blog-posts.html %}
+      {% endfor %}
+    </div>
+    <a href="/blog/page-2/">
+      <button>
+        More Blog Posts
+      </button>
+    </a>
+  </article>
+  <aside>
+    {% comment %} TODO: exhange this ugly hack {% endcomment %}
+    <style media="screen">
+      .event {
+        display: none;
+      }
+      .event#event-1,.event#event-2, .event#event-3 {
+        display: block;
+      }
+    </style>
+     {% comment %} include events/accordion.html  {% endcomment %}
+     {% include events/list-future.html format_output="long" %}
+     <a href="/events/">
+       <button>
+         More Events
+       </button>
+     </a>
+  </aside>
+</main>
+<div class="has-layout">
+  {% include _slideshow-new-arrivals.html type="Hardcover" %}
+  <hr class="row" />
+  {% include _slideshow-new-arrivals.html type="Paperback" %}
+</div>

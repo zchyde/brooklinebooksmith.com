@@ -1,0 +1,18 @@
+{% assign new_arrivals = page[include.type] %}
+<h3 class="brand">
+  New Arrivals — {{ include.type }}
+</h3>
+<div class="gallery js-flickity"
+  data-flickity-options='{ "imagesLoaded": true,  "percentPosition": false ,"lazyLoad": 2, "initialIndex": 2}'>
+  {% for book in new_arrivals %}
+    {% assign books = site.books | where: 'isbn', book %}
+    {% for object in books  %}
+      <div class="gallery-cell">
+        <img data-flickity-lazyload="/uploads/{{object.isbn}}.jpg" alt="{{ object.title }}" class="gallery-cell-image" />
+      <noscript>
+        <img src="/uploads/{{object.isbn}}.jpg" alt="{{ object.title }}" style="width:200px;float:left;" />
+      </noscript>
+    </div>
+    {% endfor %}
+  {% endfor %}
+</div>
