@@ -2,8 +2,22 @@
 layout: default
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
-page_heading: ''
 fancy_font: Lato
+coming-soon-hardcover:
+  - 9781250007148
+  - 9780679456209
+  - 9780812993547
+  - 9780399167256
+  - 9780525954538
+  - 9781594206276
+coming-soon-paperback:
+  - 9781615192823
+  - 9780553418026
+  - 9781476753911
+  - 9780143127550
+  - 9780316271530
+  - 9781439199367
+  - 9781632863720
 ---
 <main class="layout_two_column_wide row">
   <article class="">
@@ -29,17 +43,36 @@ fancy_font: Lato
     </style>
      {% comment %} include events/accordion.html  {% endcomment %}
      {% include events/list-future.html format_output="long" %}
-     <a href="/events/"><button>More Events</button></a>
+     <a href="/events/">
+       <button>
+         More Events
+       </button>
+     </a>
   </aside>
 </main>
-<div class="" style="min-height:300px;background-color:#fff;padding:2em 0;border-top:1px solid #f6f6f6;border-bottom:1px solid #f6f6f6;width:100%;clear:both;">
   <div class="has-layout">
-    <h3 class="brand">New Arrivals</h3>
-      {% assign books = site.data.books  %}
-      {{ books }}
-      {% for object in books limit:5 %}
-        {{object.title}} - {{object.isbn}}
+
+    <div class="" style="min-height:300px;background-color:#fff;padding:2em 0;border-top:1px solid #f6f6f6;border-bottom:1px solid #f6f6f6;width:100%;clear:both;">
+      <h3 class="brand">
+        New Arrivals — Hardcover
+      </h3>
+      {% for book in page.coming-soon-hardcover %}
+        {% assign books = site.books | where: 'isbn', book %}
+          {% for object in books  %}
+            <img src="/uploads/{{object.isbn}}.jpg" alt="" style="width:180px;float:left;margin-right:32px;"/>
+          {% endfor %}
+      {% endfor %}
+    </div>
+    <hr />
+    <div class="" style="min-height:180px;background-color:#fff;padding:2em 0;border-top:1px solid #f6f6f6;border-bottom:1px solid #f6f6f6;width:100%;clear:both;">
+      <h3 class="brand">
+        New Arrivals — Paperback
+      </h3>
+      {% for book in page.coming-soon-paperback %}
+        {% assign books = site.books | where: 'isbn', book %}
+        {% for object in books  %}
           <img src="/uploads/{{object.isbn}}.jpg" alt="" style="height:300px;float:left;margin-right:32px;"/>
+        {% endfor %}
       {% endfor %}
   </div>
 </div>
