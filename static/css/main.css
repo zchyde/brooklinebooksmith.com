@@ -668,7 +668,7 @@ h6 {
   font-size: 1em;
   line-height: 1.2;
   margin: 0 0 0.8em;
-  color: #111; }
+  color: #333; }
   h1 a,
   h2 a,
   h3 a,
@@ -1174,7 +1174,6 @@ aside.bottom .content-aside {
 h3.event_title, .event_title {
   font-size: 1.625em;
   font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  margin-bottom: 0;
   line-height: normal; }
   @media screen and (min-width: 56.25em) {
     h3.event_title, .event_title {
