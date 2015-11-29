@@ -9,11 +9,10 @@
     {% for object in books  %}
         <img
         {% if object.image_path and object.image_path != '' %}
-          data-flickity-lazyload="{{object.image_path}}" 
+          data-flickity-lazyload="{{ object.image_path }}"
         {% else %}
-        data-flickity-lazyload="/uploads/{{object.isbn}}.jpg"
+        data-flickity-lazyload="/uploads/{{ object.isbn }}.jpg"
         {% endif %}
-
           alt="{{ object.title }}" />
     {% endfor %}
   {% endfor %}
@@ -23,11 +22,11 @@
   {% for book in new_arrivals %}
     {% assign books = site.books | where: 'isbn', book %}
     {% for object in books  %}
-
-
+      {% if object.image_path %}
+        <img src="{{object.image_path }}" alt="{{ object.title }}" style="float:left;margin:1em;" />
+      {% elsif object.isbn %}
         <img src="/uploads/{{object.isbn}}.jpg" alt="{{ object.title }}" style="float:left;margin:1em;" />
-
-
+      {% endif %}
     {% endfor %}
   {% endfor %}
 </div>

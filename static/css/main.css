@@ -1357,6 +1357,13 @@ html, body {
             font-size: 1.1em;
             max-width: 40%; } }
 
+.image-cover-small {
+  width: auto;
+  height: 14em;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 2em; }
+
 .has-layout {
   max-width: 75em;
   margin-left: auto;
