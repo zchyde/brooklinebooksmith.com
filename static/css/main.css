@@ -938,6 +938,15 @@ http://flickity.metafizzy.co
 .gallery {
   background: #fff;
   padding: 2em; }
+  .gallery:focus {
+    outline: 0; }
+
+.gallery img {
+  display: block;
+  height: 22.5em;
+  margin-right: 2.5em; }
+  .gallery img:focus {
+    outline: 0; }
 
 @media screen and (min-width: 768px) {
   .gallery img {
@@ -2089,10 +2098,10 @@ sup, sub {
 sub {
   top: 0.4em; }
 
-.no-js .hidden-js, .hidden {
+html.no-js .hidden-case-no-js, .hidden {
   display: none; }
 
-.no-js .addeventatc {
+html.no-js .addeventatc {
   opacity: 0; }
 
 .js .addeventatc {

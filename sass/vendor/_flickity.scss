@@ -189,12 +189,14 @@ http://flickity.metafizzy.co
 .gallery {
   background: #fff;
   padding: 2em;
+  &:focus {outline:0;}
 }
 
 .gallery img {
-  // display: block;
-  // height: 22.5em;
-  // margin-right: 2.5em;
+  display: block;
+  height: 22.5em;
+  margin-right: 2.5em;
+  &:focus {outline:0;}
 }
 
 @media screen and ( min-width: 768px ) {

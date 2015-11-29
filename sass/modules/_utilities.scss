@@ -17,11 +17,11 @@ sup, sub {
 sub { top: 0.4em; }
 
 
-.no-js .hidden-js, .hidden {
+html.no-js .hidden-case-no-js, .hidden {
   display: none;
 }
 
-.no-js .addeventatc {
+html.no-js .addeventatc {
   //display: none;
   opacity: 0;
 }
