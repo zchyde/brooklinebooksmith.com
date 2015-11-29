@@ -1,9 +1,8 @@
 ---
-layout: home
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
-fancy_font: Lato
-permalink: /
+fancy_font: Fredericka+the+Great
+page_heading: '[Our Holiday Gift Guide is Out Now!](/holiday-gift-guide)'
 Hardcover:
   - 9781250007148
   - 9780679456209
@@ -19,5 +18,7 @@ Paperback:
   - 9780316271530
   - 9781439199367
   - 9781632863720
+permalink: /
+layout: home
 ---
 Hey, let's put some special content here!

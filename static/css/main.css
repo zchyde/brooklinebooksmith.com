@@ -1347,6 +1347,10 @@ html, body {
         @media screen and (min-width: 48em) {
           .hero .hero-inner .hero-copy h1 {
             font-size: 1.8em; } }
+        .hero .hero-inner .hero-copy h1 a {
+          color: white; }
+          .hero .hero-inner .hero-copy h1 a:hover {
+            color: #cccccc; }
       .hero .hero-inner .hero-copy p {
         color: white;
         line-height: 1.4em; }
