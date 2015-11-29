@@ -5,7 +5,6 @@ start_at: 2015-12-02T19:00:00.000Z
 image_path: ''
 program: '-writers-and-readers'
 ticketed: false
-category: ''
 book_isbn:
   - '9781250067012'
 ---
