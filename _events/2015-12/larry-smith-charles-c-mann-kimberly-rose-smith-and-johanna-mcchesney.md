@@ -3,6 +3,7 @@ title: '**Larry Smith, Charles C. Mann, Kimberly Rose Smith, and Johanna McChesn
 published: true
 start_at: 2015-12-02T19:00:00.000Z
 image_path: ''
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
