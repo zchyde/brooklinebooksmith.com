@@ -2,13 +2,11 @@
 
   <div class="card-header">
 
-    {% if event.category or event.program %}
+    {% if event.book_category or event.program %}
       <div class="flagged">
-        {% if event.category %}
-          {{event.category}}
-        {% endif %}
-    {% comment %} capture programs {% endcomment %}
-        {% if event.program %}
+        {% if event.book_category %}
+          {{event.book_category}}
+        {% elsif event.program %}
           {% capture related_program %}/programs/{{ event.program }}/{% endcapture %}
           {% assign program = site.programs | where: 'url', related_program    %}
           {% assign program_title = program[0].title %}
