@@ -3,7 +3,7 @@ title: Breakwater Reading Series
 start_at: 2015-11-20T19:00:00.000Z
 program: breakwater-reading-series
 ticketed: false
-category: ''
+book_category: ''
 book_isbn:
   - ''
 ---

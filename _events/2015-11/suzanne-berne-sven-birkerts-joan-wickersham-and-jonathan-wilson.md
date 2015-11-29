@@ -3,7 +3,7 @@ title: '**Suzanne Berne Sven Birkerts Joan Wickersham and Jonathan Wilson**: *Br
 published: true
 start_at: 2015-11-30T19:00:00.000Z
 ticketed: false
-category: Nonfiction
+book_category: Nonfiction
 book_isbn:
   - '9780393350999'
 ---

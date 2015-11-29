@@ -3,7 +3,7 @@ title: '**Leonard Gardner**, *Fat City* appearing in conversation with Steve Yar
 start_at: 2015-11-02T19:00:00.000Z
 book_isbn:
   - 9781590178928
-category: ''
+book_category: ''
 ticketed: false
 ---
 

@@ -2,7 +2,7 @@
 title: '**Jason Starr** - *Savage Lane*, **Christopher Irvin** - *Safe Inside the Violence*'
 start_at: 2015-11-18T19:00:00.000Z
 ticketed: false
-category: 'mystery'
+book_category: 'mystery'
 book_isbn:
   - 9781940610641
   - 9788293326700

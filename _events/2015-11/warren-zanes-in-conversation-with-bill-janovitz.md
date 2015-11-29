@@ -1,7 +1,7 @@
 ---
 title: "**Warren Zanes appearing in conversation with Bill Janovitz** *Petty: The Biography*"
 start_at: 2015-11-13T19:00:00.000Z
-category: 'music-biography'
+book_category: 'music-biography'
 book_isbn:
   - 9780805099683
 ticketed: true

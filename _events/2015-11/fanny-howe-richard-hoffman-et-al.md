@@ -3,7 +3,7 @@ title: '**Fanny Howe, Richard Hoffman, Lloyd Schwartz, Ha Jin and the Terezín M
 published: false
 start_at: 2015-11-17T00:00:00.000Z
 ticketed: true
-category: 'poetrymusic'
+book_category: 'poetrymusic'
 book_isbn:
   - '9780807000274'
 ---

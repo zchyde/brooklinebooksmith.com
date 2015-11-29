@@ -1,7 +1,7 @@
 ---
 title: "Joe Hill and Ben Blacker Nerdist Writers Panel Podcast"
 start_at: 2015-11-14T19:00:00.000Z
-category: 'humor'
+book_category: 'humor'
 ticketed: true
 ---
 The Nerdist Writers Panel series is an informal chat moderated by Ben Blacker (co-creator of the Thrilling Adventure Hour; writer for Puss in Boots, Supernatural) with professional writers about the process and business of writing. This live taping will feature Joe Hill, the acclaimed author of novels, short stories and comics, including Horns and NOS4A2. Tickets are $5 each and all ticket proceeds will be donated to 826Boston, the national non-profit tutoring program.
