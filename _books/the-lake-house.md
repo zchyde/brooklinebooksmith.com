@@ -1,6 +1,7 @@
 ---
 title: The Lake House
-isbn: null
-binding: null
-image_path: null
+isbn: '9781451649321'
+binding: Hardcover
+image_path: ''
 ---
+
