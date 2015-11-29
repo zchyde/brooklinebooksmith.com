@@ -996,8 +996,7 @@ article.hentry {
         max-height: 30em;
         margin: .25em 0; } }
   article.hentry .items h3 {
-    font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-    margin-top: 3em; }
+    font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
   article.hentry .items hr {
     border-top-color: #ccc;
     margin: 4em 0 8em 0; }

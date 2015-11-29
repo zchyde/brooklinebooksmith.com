@@ -8,8 +8,9 @@
 {% comment %} Determine if the output will be short format, or long by what's passed through the include {% endcomment %}
 {% assign format_style = include.format_output %}
 {% assign count = '0' %}
-{% assign events = events | sort: 'start_at' | where: 'published', -false %}
+{% assign events = events | sort: 'start_at' %}
   {% for event in events %}
+    {% unless event.published == false %}
     {% assign current_date = site.time | date: "%Y%m%d" %}
     {% assign event_date = event.start_at | date: "%Y%m%d" %}
     {% comment %} Only show future events, i.e. where the start date is greater than current {% endcomment %}
@@ -17,4 +18,5 @@
     {% capture count %}{{ count | plus: '1' }}{% endcapture %}
         {% include events/output.html format=format_style  %}
     {% endif %}
+    {% endunless %}
   {% endfor %}

@@ -3,6 +3,7 @@ title: '**Peter Golden** - *Wherever There is Light*, **Jabari Asim** - *Only th
 start_at: 2015-11-30T19:00:00.000Z
 ticketed: false
 category: 'Fiction'
+published: false
 book_isbn:
   - 9781476705583
   - 9781932841947
