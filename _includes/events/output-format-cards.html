@@ -51,7 +51,7 @@
               {% if object.image_path %}
                 <img class="image-cover-small" src="{{ object.image_path }}" alt="{{ object.title }}" />
               {% elsif object.isbn %}
-                <img class="image-cover-small" src="/uploads/{{ object.isbn }}.jpg" alt="{{ object.title }}" />
+                <img class="image-cover-small" src="{{ site.images_domain }}/{{ object.isbn }}.jpg" alt="{{ object.title }}" />
               {% endif %}
             {% endfor %}
           {% endif %}
