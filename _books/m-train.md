@@ -1,6 +1,7 @@
 ---
 title: M Train
-isbn: null
-binding: null
-image_path: null
+isbn: '9781101875100'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/100/875/9781101875100.jpg'
 ---
+
