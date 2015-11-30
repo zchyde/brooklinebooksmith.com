@@ -1,29 +1,17 @@
 <div class="card event" id="event-{{count}}">
-
   <div class="card-header">
-
-
-      <div class="flagged">
-        {% if start_at %}
-          <span class="date" style="color:white;">{{ start_at }}</span>
-        {% endif %}
-
-      </div>
-
-
+    <div class="flagged">
+      {% if start_at %}
+        <span class="date" style="color:white;">{{ start_at }}</span>
+      {% endif %}
+    </div>
     {% if event.ticketed %}
       <div class="ticketed">
         Ticketed Event
       </div>
     {% endif %}
   </div>
-
-
-
-
   <div class="card-header">
-
-
     {% if event.book_category or event.program %}
       <h5>
         {% if event.book_category %}
@@ -36,17 +24,11 @@
         {% endif %}
       </h5>
     {% endif %}
-
-
     {% if event.title  %}
       <h3 class="event_title">
         {{ event_title }}
       </h3>
-
     {% endif %}
-
-
-
   </div>
 
   <div class="card-copy">
@@ -55,8 +37,11 @@
       Using "...size > 0" to capture null values and entries where no field is present
       size, oddly, returns "8" where there is only one isbn (which is 13 digits)
     {% endcomment %}
-
-    {% if related_books_isbn.size > 0 %}
+    {% if event.image_path and event.image_path !='' %}
+      <div class="" style="float:left:margin-right:1em;">
+        <img class="image-small" src="{{ event.image_path }}" alt="{{ event.title }}" />
+      </div>
+    {% elsif related_books_isbn.size > 0 %}
       <div class="" style="float:left:margin-right:1em;">
         {% comment %}  {% endcomment %}
         {% for isbn in related_books_isbn %}
@@ -81,18 +66,13 @@
 
   <div class="card-footer">
     <div class="card-footer-content">
-
-
-    <div style="float:right;margin-right:1em;">
-      {% include events/add-to-calendar.html %}
-    </div>
-
-    {% comment %}
-    <div class="addthis_sharing_toolbox addthis_default_style "{% if start_at %}addthis:url="{{ site.url }}/events/#event-{{ start_at }}"{% endif %}{% if event.title %} addthis:title="{{ event.title }}"{% endif %}>
-    </div>
-
+      <div style="float:right;margin-right:1em;">
+        {% include events/add-to-calendar.html %}
+      </div>
+      {% comment %}
+        <div class="addthis_sharing_toolbox addthis_default_style "{% if start_at %}addthis:url="{{ site.url }}/events/#event-{{ start_at }}"{% endif %}{% if event.title %} addthis:title="{{ event.title }}"{% endif %}>
+        </div>
      {% endcomment %}
-     </div>
+    </div>
   </div>
-
-  </div>
+</div>

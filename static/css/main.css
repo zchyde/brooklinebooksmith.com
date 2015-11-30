@@ -1363,6 +1363,12 @@ html, body {
   margin-right: 1em;
   margin-bottom: 2em; }
 
+.image-small {
+  max-width: 14em;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 2em; }
+
 .has-layout {
   max-width: 75em;
   margin-left: auto;
