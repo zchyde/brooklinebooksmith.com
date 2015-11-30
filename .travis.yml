@@ -24,7 +24,6 @@ deploy:
   secret_access_key: "xEnnGXm3NsnphO9EOoqRqf0rweQ3FOizkyA8fGx/"
   bucket: "tests.sonnetmedia.org"
   acl: public-read
-  skip_cleanup: true
   local_dir: _site
   on:
     branch: site
