@@ -17,10 +17,13 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of
-
+# using test creds for now. Update with secure creds.
 deploy:
   provider: gcs
   access_key_id: "GOOGEMQKVIBFZ3HAPXWF"
-  secret_access_key: "xEnnGXm3NsnphO9EOoqRqf0rweQ3FOizkyA8fGx"
-  bucket: "staging.brooklinebooksmith.com"
+  secret_access_key: "xEnnGXm3NsnphO9EOoqRqf0rweQ3FOizkyA8fGx/"
+  bucket: "tests.sonnetmedia.org"
   acl: public-read
+  skip_cleanup: true
+  on:
+    branch: site
