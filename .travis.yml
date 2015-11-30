@@ -17,6 +17,7 @@ deploy:
     secure: Q9GuBp4w8DzPMiZq2jYu+f/q3GH5kC181bkzBrHYdbFvjs2RYEUsbgyJjFNde5FF5Ybk/P10n8uIrA2/rpqMWJCOw5Q4k+IBMo7LbuBNJAFwTkem3sK3z9OSADRvz/T375cWi7XtJLzR+VC6SeWxx/L1Fzvf0A+yj6t7Jlj+bTClpA6IyIY64WrsN2dh6+l8Bn63DMFPKxQAr1dNcwDpXPb+cctqzPnCxM49W2NXK+5WNoWHQUmrm4Q+7haYwQVcAB7JZdcvSw5zZRzRTziSF2eaWas87ICJUHjRQQBi+pfy79PSt3oiM78Z0BXzvEqtpyhVypJOcuO8gEOv6ne/X67zsSWUQuK4MsSeGHPaOHAWyMtJG9vnReVHUWhbbwpi4YeAEfm0inBFOoCOQfRFBEFqXkaPj8HsgIwBV8dhiaxGsmVi7mjvllq7WwRU7vVE0CJLyIXSz+S6oIsD1sZfMr7zQ00v2m/ce4jPoSyoQXfV2TWc2S0ZdN4us6nih/HU2ZlFhAnoYz6fez4kzdKV4wr0Y+3V0trWks57BgDlUgRZ/ZpntGGjiKFQ3KoFBjLUU1l1tz1hf44YgTPM580i/7SoKAMLwlZCG6nPmWcWJT4u3rGe1i27i3HegEgErHBNkklRQzsckCunJ5E+I8KhB4WFuWP3WnElmCuMl1kBxbM=
   bucket: www.brooklinebooksmith.com
   local-dir: _site
+  skip_cleanup: true
   on:
     repo: sonnetmedia/brooklinebooksmith.com
     branch: site
