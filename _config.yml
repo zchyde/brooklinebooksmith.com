@@ -20,6 +20,7 @@ bindings:
 
 
 ## DO NOT EDIT BELOW THIS LINE
+images_domain: http://images.brooklinebooksmith.com
 gems:
   - jekyll-paginate
 env: development

@@ -5,11 +5,7 @@ header.navigation {
   min-height: $navigation-height;
   width: 100%;
   z-index: 999;
-  // background-image:url('/uploads/test-photo-1421906375741-f6bda4abe433.jpeg');
-  // background-position: center bottom;
-  // background-size: cover;
-  // height: 400px;
-
+  
   .navigation-wrapper {
     @include clearfix;
     position: relative;
