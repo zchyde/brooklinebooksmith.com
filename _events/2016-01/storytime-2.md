@@ -2,6 +2,7 @@
 title: "**Children's Storytime**"
 published: false
 start_at: 2016-01-29T10:30:00.000Z
+image_path: '/uploads/kids_storytime_web.jpg'
 program: childrens-story-time
 ---
 **Special Hannukah Storytime!**

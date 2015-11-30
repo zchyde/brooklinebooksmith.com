@@ -2,7 +2,7 @@
 title: Book Club
 published: true
 start_at: 2015-12-14T19:30:00.000Z
-image_path: ''
+image_path: '/uploads/bookclubicon.jpg'
 book_category: ''
 program: book-club
 ticketed: false

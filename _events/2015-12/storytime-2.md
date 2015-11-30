@@ -2,6 +2,7 @@
 title: "**Children's Storytime**"
 published: true
 start_at: 2015-12-19T10:30:00.000Z
+image_path: '/uploads/kids_storytime_web.jpg'
 program: childrens-story-time
 ---
 
