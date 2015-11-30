@@ -113,13 +113,17 @@ $card_padding: 0 2em 0 2em;
     //font-weight: bold;
     line-height: 1;
     height: $card-footer-height;
-    position: absolute;
-    bottom:0;
+
     @include clearfix;
     width: 100%;
+    clear: both;
     padding: $card_padding;
     paddint-top:2em;
     @include row;
+    .card-footer-content {
+      //position: absolute;
+      //bottom:0;
+    }
     .addthis_sharing_toolbox {
       float: right;
     }

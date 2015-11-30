@@ -1,9 +1,9 @@
 h3.event_title, .event_title {
-  font-size: 1.625em;
+  font-size: 1.25em;
   font-family: $brand-font-family;
   //margin-bottom: .375em;
   @include media($lg-up) {
-    font-size: 2em;
+    font-size: 1.5em;
   }
 line-height: normal;
 }
