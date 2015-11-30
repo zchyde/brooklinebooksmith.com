@@ -1,30 +1,22 @@
 language: ruby
 rvm:
 - 2.1
-
 before_script:
- - chmod +x ./script/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./script/cibuild
-
-# branch whitelist, only for GitHub Pages
+- chmod +x ./script/cibuild
+script: "./script/cibuild"
 branches:
   only:
   - site
-
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of
-# using test creds for now. Update with secure creds.
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 deploy:
   provider: gcs
-  access_key_id: "GOOGEMQKVIBFZ3HAPXWF"
-  secret_access_key: "xEnnGXm3NsnphO9EOoqRqf0rweQ3FOizkyA8fGx/"
-  bucket: "tests.sonnetmedia.org"
-  acl: public-read
-  skip_cleanup: true
-  local_dir: _site
+  access_key_id: GOOGZOZD2KM62E4KE7P4
+  secret_access_key:
+    secure: Q9GuBp4w8DzPMiZq2jYu+f/q3GH5kC181bkzBrHYdbFvjs2RYEUsbgyJjFNde5FF5Ybk/P10n8uIrA2/rpqMWJCOw5Q4k+IBMo7LbuBNJAFwTkem3sK3z9OSADRvz/T375cWi7XtJLzR+VC6SeWxx/L1Fzvf0A+yj6t7Jlj+bTClpA6IyIY64WrsN2dh6+l8Bn63DMFPKxQAr1dNcwDpXPb+cctqzPnCxM49W2NXK+5WNoWHQUmrm4Q+7haYwQVcAB7JZdcvSw5zZRzRTziSF2eaWas87ICJUHjRQQBi+pfy79PSt3oiM78Z0BXzvEqtpyhVypJOcuO8gEOv6ne/X67zsSWUQuK4MsSeGHPaOHAWyMtJG9vnReVHUWhbbwpi4YeAEfm0inBFOoCOQfRFBEFqXkaPj8HsgIwBV8dhiaxGsmVi7mjvllq7WwRU7vVE0CJLyIXSz+S6oIsD1sZfMr7zQ00v2m/ce4jPoSyoQXfV2TWc2S0ZdN4us6nih/HU2ZlFhAnoYz6fez4kzdKV4wr0Y+3V0trWks57BgDlUgRZ/ZpntGGjiKFQ3KoFBjLUU1l1tz1hf44YgTPM580i/7SoKAMLwlZCG6nPmWcWJT4u3rGe1i27i3HegEgErHBNkklRQzsckCunJ5E+I8KhB4WFuWP3WnElmCuMl1kBxbM=
+  bucket: www.brooklinebooksmith.com
+  local-dir: _site
   on:
+    repo: sonnetmedia/brooklinebooksmith.com
     branch: site
