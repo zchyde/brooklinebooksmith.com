@@ -2,18 +2,14 @@
 
   <div class="card-header">
 
-    {% if event.book_category or event.program %}
+
       <div class="flagged">
-        {% if event.book_category %}
-          {{event.book_category}}
-        {% elsif event.program %}
-          {% capture related_program %}/programs/{{ event.program }}/{% endcapture %}
-          {% assign program = site.programs | where: 'url', related_program    %}
-          {% assign program_title = program[0].title %}
-          {{ program_title }}
+        {% if start_at %}
+          <span class="date" style="color:white;">{{ start_at }}</span>
         {% endif %}
+
       </div>
-    {% endif %}
+
 
     {% if event.ticketed %}
       <div class="ticketed">
@@ -22,16 +18,35 @@
     {% endif %}
   </div>
 
+
+
+
   <div class="card-header">
-    {% if start_at %}
-      <span class="date">{{ start_at }}</span>
+
+
+    {% if event.book_category or event.program %}
+      <h5>
+        {% if event.book_category %}
+          {{event.book_category}}
+        {% elsif event.program %}
+          {% capture related_program %}/programs/{{ event.program }}/{% endcapture %}
+          {% assign program = site.programs | where: 'url', related_program    %}
+          {% assign program_title = program[0].title %}
+          {{ program_title }}
+        {% endif %}
+      </h5>
     {% endif %}
+
+
     {% if event.title  %}
       <h3 class="event_title">
         {{ event_title }}
       </h3>
 
     {% endif %}
+
+
+
   </div>
 
   <div class="card-copy">

@@ -1,3 +1,3 @@
 ---
-title: "Writers & Readers Series"
+title: "Writers & Readers"
 ---
