@@ -12,8 +12,15 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - site   
+  - site
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of
+
+deploy:
+  provider: gcs
+  access_key_id: "GOOGEMQKVIBFZ3HAPXWF"
+  secret_access_key: "xEnnGXm3NsnphO9EOoqRqf0rweQ3FOizkyA8fGx"
+  bucket: "staging.brooklinebooksmith.com"
+  acl: public-read
