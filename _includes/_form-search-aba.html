@@ -1,29 +1,30 @@
-<form role="search" action="http://www.brooklinebooksmith-shop.com/" method="post">
-  <input type="search" placeholder="Enter Search" />
-  <button type="submit" name="op">
-    <img src="/static/images/search-icon.png" alt="Search Icon">
-  </button>
-  <input type="hidden" name="form_build_id" value="form-NxaEpUiF7MN8jBLXJKbOkIzWYm3D6WBBwxnQPxtPmPY" />
-  <input type="hidden" name="form_id" value="search_block_form" />
-
-</form>
-
-{% comment %}
-
-.///
-<form action="/search/site/nomad" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." placeholder="title, author, keyword or ISBN" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+<div class="row" style="margin-bottom:20em;">
+  <form class="search-form" action="http://www.brooklinebooksmith-shop.com/search/site" method="post" id="search-form" accept-charset="UTF-8">
+   <div>
+     <div class="container-inline form-wrapper" id="edit-basic">
+       <div class="form-item form-type-textfield form-item-keys">
+         <label for="edit-keys">Enter terms </label>
+         <input type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text">
+       </div>
+       <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit">
+       <input type="hidden" name="get" value="[]">
+       {% comment %}
+       <div class="form-item form-type-select form-item-fsort">
+         <label for="edit-fsort">Sort Results: </label>
+         <select onchange="this.form.submit();" id="edit-fsort" name="fsort" class="form-select">
+           <option value="score--desc">Relevance</option>
+           <option value="sort_label--asc">Title (A to Z)</option>
+           <option value="sort_label--desc">Title (Z to A)</option>
+           <option value="ds_publication_date--asc">Publication Date (Oldest to Newest)</option>
+           <option value="ds_publication_date--desc">Publication Date (Newest to Oldest)</option>
+           <option value="fss_uc_sell_price--asc">List Price (Lowest to Highest)</option>
+           <option value="fss_uc_sell_price--desc">List Price (Highest to Lowest)</option>
+         </select>
+       </div>
+        {% endcomment %}
+     </div>
+     <input type="hidden" name="form_build_id" value="form-wqhLsarrv0pkRKdrtbnYXolGUzYAFb4GwWq-Rckdk2w">
+     <input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form">
+   </div>
+  </form>
 </div>
-<div class="item-list"><ul class="aba-advanced-search-links"><li class="first last"><a href="/search/advanced_search">Advanced Search</a></li>
-</ul></div><div class="form-actions form-wrapper" id="edit-actions--2">
-
-<input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" />
-</div>
-<input type="hidden" name="form_build_id" value="form-NxaEpUiF7MN8jBLXJKbOkIzWYm3D6WBBwxnQPxtPmPY" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>
- {% endcomment %}
