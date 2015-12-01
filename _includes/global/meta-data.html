@@ -3,9 +3,9 @@
   <meta content="{{ site.sitename }}" property="og:site_name">
 {% endif %}
 {% if page.excerpt and page.excerpt !='' %}
-  <meta property="og:description" content="{{ page.excerpt }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html | escape }}">
 {% elsif site.description %}
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.description | strip_html | escape }}">
 {% endif %}
 {% if page.featured_image_path %}
   <meta content="{{ site.url }}{{ page.featured_image_path }}" property="og:image" data-type="featured image">
