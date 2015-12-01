@@ -1,7 +1,7 @@
 ---
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
-fancy_font: Fredericka+the+Great
+fancy_font: ''
 page_heading: ''
 Hardcover:
   - 9780544668256
@@ -20,6 +20,5 @@ Paperback:
   - 9780804172448
 permalink: /
 layout: home
+excerpt: ''
 ---
-
-Hey, let's put some special content here!

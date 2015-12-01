@@ -1,5 +1,6 @@
 address_for_nav: "279 Harvard St. (at Beacon St.) &bull; 617-566-6660"
 address: "279 Harvard St, Brookline, Massachusetts 02446-2908"
+description: "Brookline Booksmith is an stablished independent bookshop offering new & used titles, plus gifts, over 2 floors."
 venues:
   - '-'
   - In-store
@@ -24,9 +25,8 @@ images_domain: http://images.brooklinebooksmith.com
 gems:
   - jekyll-paginate
 env: development
-url: http://staging-bbs.sonnetmedia.com
+url: http://www.brooklinebooksmith.com
 sitename: brookline booksmith
-description: A base Jekyll theme
 timezone: Etc/Zulu
 paginate: 3
 paginate_path: "/blog/page-:num/"
