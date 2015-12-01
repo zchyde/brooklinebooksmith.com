@@ -48,7 +48,7 @@ exclude:
   - vendor
 permalink: pretty
 future: false
-production: false
+production: true
 bust_css_cache: true
 google_analytics_id: UA-xxxx
 fancy_fonts:
