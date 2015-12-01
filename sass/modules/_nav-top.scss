@@ -103,11 +103,11 @@ display: none;
     nav {
       display: inline-block;
 //background-color:blue;
-      @include span-columns(7 of 12);
+      @include span-columns(6 of 12);
       @include omega();
     }
     .navigation-tools {
-      @include span-columns(1 of 12);
+      @include span-columns(2 of 12);
       @include omega();
       padding-top: 1.25em;
     }
