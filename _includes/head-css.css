@@ -2,13 +2,13 @@
 {% if page.resetHeroBackgroundTop %}
   {% assign heroBackgroundTop = page.resetHeroBackgroundTop %}
 {% else %}
-{% assign heroBackgroundTop = 0.78 %}
+{% assign heroBackgroundTop = 0.68 %}
 {% endif %}
 
 {% if page.resetHeroBackgroundBottom %}
   {% assign heroBackgroundBottom = page.resetHeroBackgroundBottom %}
 {% else %}
-{% assign heroBackgroundBottom = 0.37 %}
+{% assign heroBackgroundBottom = 0.27 %}
 {% endif %}
 
 {% assign background_image = page.featured_image_path %}
