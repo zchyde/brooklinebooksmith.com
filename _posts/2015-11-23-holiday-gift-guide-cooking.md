@@ -1,8 +1,8 @@
 ---
 title: Holiday Gift Guide — Cooking
-published: true
+published: false
 date: 2015-11-23T00:00:00.000Z
-excerpt:
+excerpt: ''
 featured_image_path: /uploads/5546d9a756ca7_east_finalcover.jpg
 featured_image_position: 50
 image_path: ''
@@ -29,7 +29,7 @@ I picked up East thinking it was an opportunity to experience the kitchens and s
 
 ---
 
-**![](/uploads/versions/9781607746232---x----291-400x---.jpg)NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully &nbsp;([**Buy**](http://www.brooklinebooksmith-shop.com/book/97816077463232))
+**![](/uploads/versions/9781607746232---x----291-400x---.jpg)NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully  ([**Buy**](http://www.brooklinebooksmith-shop.com/book/97816077463232))
 
 From Yotam Ottolenghi, the visionary behind best-selling cookbooks Plenty and Jerusalem, comes another collection destined to become a classic. Ottolenghi rose to fame as a food columnist for The Guardian, beloved for his unpretentious but relentlessly innovative use of flavors and techniques. This latest book is named for his acclaimed restaurant, where Londoners gather daily for the parade of seasonal new dishes and beloved favorites. Be warned, this is not a book for the conservative palate - it is a wildly celebratory tribute to global cuisine. At the top of my to-cook list: Jerusalem artichoke soup with hazelnut and spinach pesto; gurnard baked in banana leaf with pineapple chile sambal and sticky sesame rice; pearl barley risotto with watercress, asparagus, and pecorino; and baked blue cheesecake with pickled beets and honey.
 
@@ -48,7 +48,8 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 ---
 
 ### Honorable mentions
-(_click the cover to purchase_)
+
+(*click the cover to purchase*)
 
 [![Home Baked](/uploads/versions/9781617691676---x----324-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781617691676)
 
@@ -59,6 +60,5 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 [![Pimp My Rice](/uploads/versions/9781848992788---x----309-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781848992788)
 
 [![The Mad Feast](/uploads/versions/9781631490736---x----305-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781631490736)
-
 
 ---
