@@ -941,22 +941,22 @@ http://flickity.metafizzy.co
   .gallery:focus {
     outline: 0; }
 
-.gallery img {
+.gallery a img {
   display: block;
   height: 22.5em;
   margin-right: 2.5em; }
-  .gallery img:focus {
+  .gallery a img:focus {
     outline: 0; }
 
 @media screen and (min-width: 768px) {
-  .gallery img {
+  .gallery a img {
     height: 25em; } }
 
 .gallery-cell {
   width: 25%;
-  height: 200px;
-  margin-right: 10px;
-  background: #333; }
+  height: 22.5em;
+  margin-right: 2.5em;
+  background: #fff; }
 
 .gallery-cell-image {
   display: block;
