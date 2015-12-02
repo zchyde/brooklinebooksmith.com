@@ -1,6 +1,6 @@
 ---
 title: Holiday Gift Guide — Cooking
-published: false
+published: true
 date: 2015-11-23T00:00:00.000Z
 excerpt: ''
 featured_image_path: /uploads/5546d9a756ca7_east_finalcover.jpg
@@ -29,7 +29,7 @@ I picked up East thinking it was an opportunity to experience the kitchens and s
 
 ---
 
-**![](/uploads/versions/9781607746232---x----291-400x---.jpg)NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully &nbsp;([**Buy**](http://www.brooklinebooksmith-shop.com/book/97816077463232))
+**![](/uploads/versions/9781607746232---x----291-400x---.jpg)NOPI: The Cookbook** by Yotam Ottolenghi and Ramael Scully  ([**Buy**](http://www.brooklinebooksmith-shop.com/book/97816077463232))
 
 From Yotam Ottolenghi, the visionary behind best-selling cookbooks Plenty and Jerusalem, comes another collection destined to become a classic. Ottolenghi rose to fame as a food columnist for The Guardian, beloved for his unpretentious but relentlessly innovative use of flavors and techniques. This latest book is named for his acclaimed restaurant, where Londoners gather daily for the parade of seasonal new dishes and beloved favorites. Be warned, this is not a book for the conservative palate - it is a wildly celebratory tribute to global cuisine. At the top of my to-cook list: Jerusalem artichoke soup with hazelnut and spinach pesto; gurnard baked in banana leaf with pineapple chile sambal and sticky sesame rice; pearl barley risotto with watercress, asparagus, and pecorino; and baked blue cheesecake with pickled beets and honey.
 
@@ -63,29 +63,24 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 ---
 
-&nbsp;
 
-*![](/uploads/versions/2015-cooking-guide-bar-boards---x----505-608x---.jpeg)Bar Boards with Local Flair $19.95*
-No kitchen prep surface would be complete without a little local pride, and these bar cutting boards remind us that home is where the heart is this holiday season. Custom made for the Giftsmith by J.K. Adams Co., each board features either an "Entering Brookline" or "Entering Boston" insignia, or the latitude/longitude of our fine town, engraved at the end.
 
----
-
-*![](/uploads/versions/2015-cooking-guide-whip-it-good-towels---x----354-608x---.jpeg)Whip It Good! Twisted Towels $12*
-This mischievous bunch of dishtowels sums up the sardonic cook's response to the ceaseless toil that comes at this magical time of year. Each towel is made in the USA and features a cheeky kitchen phrase or pun ("I have mixed drinks about feelings" might be our favorite).
+*![](/uploads/versions/2015-cooking-guide-bar-boards---x----505-608x---.jpeg)Bar Boards with Local Flair $19.95*No kitchen prep surface would be complete without a little local pride, and these bar cutting boards remind us that home is where the heart is this holiday season. Custom made for the Giftsmith by J.K. Adams Co., each board features either an "Entering Brookline" or "Entering Boston" insignia, or the latitude/longitude of our fine town, engraved at the end.
 
 ---
 
-*![](/uploads/versions/2015-cooking-guide-pinch-bowl---x----906-608x---.jpeg)In a Pinch Bowl! $4.95*
-Master your favorite holiday recipes with a little help from our colorful collection of mini prep bowls. In a pinch, these liven up a party spread by doubling as dishes for nuts, dips or condiments.
+*![](/uploads/versions/2015-cooking-guide-whip-it-good-towels---x----354-608x---.jpeg)Whip It Good! Twisted Towels $12*This mischievous bunch of dishtowels sums up the sardonic cook's response to the ceaseless toil that comes at this magical time of year. Each towel is made in the USA and features a cheeky kitchen phrase or pun ("I have mixed drinks about feelings" might be our favorite).
 
 ---
 
-*![](/uploads/versions/2015-cooking-guide-rockin-utensils---x----800-608x---.jpeg)Rockin' Utensils $8.95-$16.95*
-"Don't play with your food" does not apply to these rebellious utensils. You'll be amped up to use the Drum Stick Spoons and Guitar Flipper while rocking around the kitchen this holiday season.
+*![](/uploads/versions/2015-cooking-guide-pinch-bowl---x----906-608x---.jpeg)In a Pinch Bowl! $4.95*Master your favorite holiday recipes with a little help from our colorful collection of mini prep bowls. In a pinch, these liven up a party spread by doubling as dishes for nuts, dips or condiments.
 
 ---
 
-*![](/uploads/versions/2015-cooking-guide-popcorn-maker---x----875-608x---.jpeg)Pop Popcorn Maker $22*
-The Lekue popcorn maker uses steam for a healthier version of your favorite movie treat. The silicone bowl is BPA-free and includes a book of recipes inspired by famous films to try - or use as inspiration for your own popcorn concoction!
+*![](/uploads/versions/2015-cooking-guide-rockin-utensils---x----800-608x---.jpeg)Rockin' Utensils $8.95-$16.95*"Don't play with your food" does not apply to these rebellious utensils. You'll be amped up to use the Drum Stick Spoons and Guitar Flipper while rocking around the kitchen this holiday season.
+
+---
+
+*![](/uploads/versions/2015-cooking-guide-popcorn-maker---x----875-608x---.jpeg)Pop Popcorn Maker $22*The Lekue popcorn maker uses steam for a healthier version of your favorite movie treat. The silicone bowl is BPA-free and includes a book of recipes inspired by famous films to try - or use as inspiration for your own popcorn concoction!
 
 ---
