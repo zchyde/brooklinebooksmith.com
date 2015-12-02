@@ -223,13 +223,13 @@ The new Ms. Marvel is many things. Award winning, beautiful, quick-witted, and f
 
 ---
 
-![](/uploads/versions/9780545813877---x----275-400x---.jpg)**\*\*Graphic Series -**BABY-SITTERS CLUB: Full Color Edition\*\* by Ann M. Martin and Raina Telgemeier (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
+![](/uploads/versions/9780545813877---x----275-400x---.jpg)**Graphic Series -BABY-SITTERS CLUB: Full Color Edition**&nbsp;by Ann M. Martin and Raina Telgemeier (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545813877)
 
 Ann M. Martin’s long-running series boldly, brightly, beautifully steps into 2015 with its first three full-color graphic novel volumes. With art by *Smile and Sisters’* Reina Telgemeier, these books and their enterprising heroines feel completely fresh. You don’t have to be old enough to babysit to enjoy the BSC, but once you’ve met them, they’re bound to be your fictional friends for life.
 
 ---
 
-![](/uploads/versions/9781419703966---x----292-400x---.jpg)**\*\*Graphic Series -**NATHAN HALE’S HAZARDOUS TALES\*\* by Nathan Hale&nbsp; (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
+![](/uploads/versions/9781419703966---x----292-400x---.jpg)**Graphic Series -NATHAN HALE’S HAZARDOUS TALES**&nbsp;by Nathan Hale&nbsp; (Volume 1) [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781419703966)
 
 A delightful and educational series about some of history’s bloodier tales. A little gruesome, a little funny, Nathan Hale makes history interesting for even the most hesitant learner while still honoring the people who sacrificed their lives.
 
