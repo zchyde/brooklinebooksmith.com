@@ -49,9 +49,13 @@
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for object in related_books %}
               {% if object.image_path %}
-                <img class="image-cover-small" src="{{ object.image_path }}" alt="{{ object.title }}" />
+                <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
+                  <img class="image-cover-small" src="{{ object.image_path }}" alt="{{ object.title }}" />
+                </a>
               {% elsif object.isbn %}
-                <img class="image-cover-small" src="{{ site.images_domain }}/{{ object.isbn }}.jpg" alt="{{ object.title }}" />
+                <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
+                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ object.isbn }}.jpg" alt="{{ object.title }}" />
+                </a>
               {% endif %}
             {% endfor %}
           {% endif %}

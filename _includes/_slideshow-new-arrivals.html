@@ -7,6 +7,7 @@
   {% for book in new_arrivals %}
     {% assign books = site.books | where: 'isbn', book %}
     {% for object in books  %}
+      <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
         <img src="{{ site.images_domain }}/cover-src.png"
         {% if object.image_path and object.image_path != '' %}
           data-flickity-lazyload="{{ object.image_path }}"
@@ -14,6 +15,7 @@
         data-flickity-lazyload="{{ site.images_domain }}/{{ object.isbn }}.jpg"
         {% endif %}
           alt="slideshow {{ object.title }}" />
+      </a>
     {% endfor %}
   {% endfor %}
 </div>
@@ -23,9 +25,13 @@
     {% assign books = site.books | where: 'isbn', book %}
     {% for object in books  %}
       {% if object.image_path and object.image_path !='' %}
-        <img src="{{object.image_path }}" alt="no-js-image-path {{ object.title }}" style="float:left;margin:1em;" />
+        <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
+          <img src="{{object.image_path }}" alt="no-js-image-path {{ object.title }}" style="float:left;margin:1em;" />
+        </a>
       {% elsif object.isbn %}
-        <img src="{{ site.images_domain }}/{{object.isbn}}.jpg" alt="no-js-image-path {{ object.title }}" style="float:left;margin:1em;" />
+        <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
+          <img src="{{ site.images_domain }}/{{object.isbn}}.jpg" alt="no-js-image-path {{ object.title }}" style="float:left;margin:1em;" />
+        </a>
       {% endif %}
     {% endfor %}
   {% endfor %}
