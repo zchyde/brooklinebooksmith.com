@@ -28,5 +28,11 @@ layout: default
         {% include {{ page.include_aside }} %}
     {% endif %}
     &nbsp;
+    {% if page.featured_image_credit %}
+      <div class="caption">
+        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
   </aside>
 </div>

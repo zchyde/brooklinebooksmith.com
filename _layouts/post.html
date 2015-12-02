@@ -39,5 +39,11 @@ layout: default
   </article>
   <aside class="bottom">
     &nbsp;
+    {% if page.featured_image_credit %}
+      <div class="caption">
+        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
   </aside>
 </div>

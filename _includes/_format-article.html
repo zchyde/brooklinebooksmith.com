@@ -28,13 +28,6 @@
       {% endfor %}
     </div>
   {% endif %}
-
-  {% if page.featured_image_credit %}
-    <div class="caption">
-      image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
-    </div>
-  {% endif %}
-
 </div>
 
 <div class="row">
