@@ -18,7 +18,7 @@ deploy:
   bucket: www.brooklinebooksmith.com
   acl: public-read
   detect_encoding: true # <== default is false
-  cache_control: "max-age=31536000"
+  cache_control: "max-age=300"
   local-dir: _site
   skip_cleanup: true
   on:
