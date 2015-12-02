@@ -11,7 +11,7 @@ staff: '-staff-'
 excerpt: From Picture Books to YA and Graphica
 ---
 
-### PICTURE BOOKS
+### PICTURE BOOKS (ages 4-8)
 
 ![9781452125329](http://images.brooklinebooksmith.com/9781452125329.jpg)**INTERSTELLAR CINDERELLA** by Deborah Underwood, illustrated by Meg Hunt [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9781452125329)
 
@@ -49,7 +49,7 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
-#### Honorable Mentions
+#### Honorable Mentions&nbsp;
 
 (*click the cover to purchase*)
 
@@ -63,7 +63,7 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
-### FIRST CHAPTER BOOKS
+### FIRST CHAPTER BOOKS (ages 5-7)
 
 (*click the cover to purchase*)
 
@@ -71,7 +71,7 @@ Yet another beautiful installment in Joyce’s Guardians of Childhood series. To
 
 ---
 
-### INTERMEDIATE FICTION
+### INTERMEDIATE FICTION (ages 8-12)
 
 &nbsp;
 
@@ -121,7 +121,7 @@ Riordan has without a doubt done it again! With his signature wit and understand
 
 ---
 
-### YOUNG ADULT
+### YOUNG ADULT &nbsp;(ages 12 and up)
 
 ![](/uploads/versions/9780545591614---x----265-400x---.jpg)**SHADOWSHAPER** by Daniel Jos&eacute; Older [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780545591614)
 
@@ -169,7 +169,7 @@ Leigh Bardugo pulls no punches with her fast-paced and wildly addictive heist no
 
 ---
 
-### NONFICTION
+### NONFICTION &nbsp;(all ages)
 
 ![](/uploads/versions/9780761169277---x----309-400x---.jpg)**CABINET OF CURIOSITIES: Collecting and Understanding the Wonders of the Natural World** by Gordon Grice [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780761169277)
 
@@ -197,7 +197,7 @@ It doesn’t matter if you know who Anna Pavlova is or not. Snyder and Morstad�
 
 ---
 
-### GRAPHICA
+### GRAPHICA (ages 6 and up)
 
 ![](/uploads/versions/9780062278227---x----267-400x---.jpg)**NIMONA** by Noelle Stevenson [**(buy)**](http://www.brooklinebooksmith-shop.com/book/9780062278227)
 
