@@ -2,6 +2,7 @@
 title: 2015 Holiday Gift Guide
 featured_image_path: /uploads/banner-holiday-gift-guide.jpg
 featured_image_position: 50
+featured_image_credit: 'Artwork by Line Olsson'
 aside: |
 
 fancy_font: Fredericka+the+Great
