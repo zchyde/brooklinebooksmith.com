@@ -18,7 +18,7 @@ deploy:
   bucket: www.brooklinebooksmith.com
   acl: public-read
   detect_encoding: true # <== default is false
-  cache_control: "private"
+  cache_control: "no-cache"
   local-dir: _site
   skip_cleanup: true
   on:
