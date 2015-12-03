@@ -3,6 +3,7 @@ layout: default
 ---
 <main class="layout_two_column_wide row">
   <article class="">
+
       {% assign posts = site.posts %}
       {% assign posts_limit = site.paginate %}
     <div class="cards">
@@ -26,7 +27,6 @@ layout: default
         display: block;
       }
     </style>
-     {% comment %} include events/accordion.html  {% endcomment %}
      {% include events/list-future.html format_output="long" %}
      <a href="/events/">
        <button>
