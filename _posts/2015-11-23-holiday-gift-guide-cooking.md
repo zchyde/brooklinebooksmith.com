@@ -65,30 +65,30 @@ Composed of classic literature’s choicest delicacies, this new anthology colle
 
 *![](/uploads/versions/2015-cooking-guide-bar-boards---x----505-608x---.jpeg)**Bar Boards with Local Flair $19.95***
 
-**No kitchen prep surface would be complete without a little local pride, and these bar cutting boards remind us that home is where the heart is this holiday season. Custom made for the Giftsmith by J.K. Adams Co., each board features either an "Entering Brookline" or "Entering Boston" insignia, or the latitude/longitude of our fine town, engraved at the end.
+No kitchen prep surface would be complete without a little local pride, and these bar cutting boards remind us that home is where the heart is this holiday season. Custom made for the Giftsmith by J.K. Adams Co., each board features either an "Entering Brookline" or "Entering Boston" insignia, or the latitude/longitude of our fine town, engraved at the end.
 
 ---
 
 *![](/uploads/versions/2015-cooking-guide-whip-it-good-towels---x----354-608x---.jpeg)**Whip It Good! Twisted Towels $12***
 
-**This mischievous bunch of dishtowels sums up the sardonic cook's response to the ceaseless toil that comes at this magical time of year. Each towel is made in the USA and features a cheeky kitchen phrase or pun ("I have mixed drinks about feelings" might be our favorite).
+This mischievous bunch of dishtowels sums up the sardonic cook's response to the ceaseless toil that comes at this magical time of year. Each towel is made in the USA and features a cheeky kitchen phrase or pun ("I have mixed drinks about feelings" might be our favorite).
 
 ---
 
 *![](/uploads/versions/2015-cooking-guide-pinch-bowl---x----906-608x---.jpeg)**In a Pinch Bowl! $4.95***
 
-**Master your favorite holiday recipes with a little help from our colorful collection of mini prep bowls. In a pinch, these liven up a party spread by doubling as dishes for nuts, dips or condiments.
+Master your favorite holiday recipes with a little help from our colorful collection of mini prep bowls. In a pinch, these liven up a party spread by doubling as dishes for nuts, dips or condiments.
 
 ---
 
 *![](/uploads/versions/2015-cooking-guide-rockin-utensils---x----800-608x---.jpeg)**Rockin' Utensils $8.95-$16.95***
 
-**"Don't play with your food" does not apply to these rebellious utensils. You'll be amped up to use the Drum Stick Spoons and Guitar Flipper while rocking around the kitchen this holiday season.
+"Don't play with your food" does not apply to these rebellious utensils. You'll be amped up to use the Drum Stick Spoons and Guitar Flipper while rocking around the kitchen this holiday season.
 
 ---
 
 *![](/uploads/versions/2015-cooking-guide-popcorn-maker---x----875-608x---.jpeg)**Pop Popcorn Maker $22***
 
-**The Lekue popcorn maker uses steam for a healthier version of your favorite movie treat. The silicone bowl is BPA-free and includes a book of recipes inspired by famous films to try - or use as inspiration for your own popcorn concoction!
+The Lekue popcorn maker uses steam for a healthier version of your favorite movie treat. The silicone bowl is BPA-free and includes a book of recipes inspired by famous films to try - or use as inspiration for your own popcorn concoction!
 
 ---
