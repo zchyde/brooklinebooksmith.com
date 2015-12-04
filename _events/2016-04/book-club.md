@@ -1,7 +1,7 @@
 ---
 title: Book Club
-published: true
-start_at: 2015-12-14T19:30:00.000Z
+published: false
+start_at: 2016-01-04T19:30:00.000Z
 image_path: 'http://images.brooklinebooksmith.com/bookclubicon.jpg'
 book_category: ''
 program: book-club
