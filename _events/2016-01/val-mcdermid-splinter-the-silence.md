@@ -3,7 +3,7 @@ title: '**Val McDermid** *Splinter the Silence*'
 published: true
 start_at: 2016-01-11T19:00:00.000Z
 image_path: ''
-book_category: ''
+book_category: MYSTERY
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
