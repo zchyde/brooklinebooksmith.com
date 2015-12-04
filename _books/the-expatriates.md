@@ -1,6 +1,7 @@
 ---
 title: The Expatriates
-isbn: null
-binding: null
-image_path: null
+isbn: '9780525429470'
+binding: Hardcover
+image_path: ''
 ---
+
