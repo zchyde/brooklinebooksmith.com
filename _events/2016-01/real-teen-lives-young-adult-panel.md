@@ -3,7 +3,7 @@ title: Real Teen Lives Young Adult Panel
 published: true
 start_at: 2016-01-08T19:00:00.000Z
 image_path: ''
-book_category: ''
+book_category: YOUNG ADULT
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
