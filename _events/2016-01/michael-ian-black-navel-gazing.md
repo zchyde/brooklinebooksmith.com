@@ -7,7 +7,7 @@ book_category: HUMOR/MEMOIR
 program: '-writers-and-readers'
 ticketed: true
 book_isbn:
-  - ''
+  - '9781476748825'
 ---
 
 In *Navel Gazing*, New York Times bestselling author and stand-up comedian Michael Ian Black delivers a frank and funny memoir about confronting his genetic legacy as he hits his forties. Whether it’s family history, religion, aging, or his parents, Michael Ian Black always has something to say in the dry, irreverent voice that has captured a fanbase of millions.
