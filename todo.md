@@ -3,9 +3,6 @@
 - [ ] Create special script area to load fancy fancy_fonts
 
 staging:
-- brookline-4.surge.sh
-
-https://twitter.com/kidsmithbooks
 
 # Brookline Booksmith Content
 
