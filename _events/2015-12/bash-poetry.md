@@ -1,6 +1,6 @@
 ---
 title: BASH Poetry
-published: false
+published: true
 start_at: 2015-12-11T19:00:00.000Z
 image_path: 'http://images.brooklinebooksmith.com/bashreading.jpg'
 program: bash
