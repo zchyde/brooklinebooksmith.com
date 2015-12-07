@@ -1,5 +1,5 @@
 ---
-title: Notorious RBG
+title: 'Notorious RBG: The Life and Times of Ruth Bader Ginsburg'
 isbn: '9780062415837'
 binding: Hardcover
 image_path: 'http://images.booksense.com/images/837/415/9780062415837.jpg'
