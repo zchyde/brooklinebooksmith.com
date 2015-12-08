@@ -10,4 +10,3 @@ book_isbn:
   - ''
 ---
 
-Copy Goes Here
