@@ -3,7 +3,7 @@ title: 'Travel & Nature Gift Guide'
 published: false
 date: 2015-12-08T00:00:00.000Z
 excerpt: ''
-featured_image_path: ''
+featured_image_path: 'http://images.brooklinebooksmith.com/2015-gift-guide-travel-cabin-porn.jpg'
 featured_image_position: 50
 image_path: ''
 fancy_font: Fredericka+the+Great
@@ -62,21 +62,18 @@ You can tell as you turn the pages, this isn't just another catalog of endearing
 
 ### Booksellers Also Recommend
 
-![](http://images.brooklinebooksmith.com/9780714869629.jpg)Jutaku Japanese Houses- ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780714869629))
+[![9780714869629](http://images.brooklinebooksmith.com/9780714869629.jpg)](http://www.brooklinebooksmith-shop.com/book/9780714869629)
 
-![](http://images.brooklinebooksmith.com/9780145128137.jpg)Stories in the Stars - ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780145128137))
+[![9781250058904](http://images.brooklinebooksmith.com/9781250058904.jpg)](http://www.brooklinebooksmith-shop.com/book/9781250058904)
 
-![](http://images.brooklinebooksmith.com/9781250058904.jpg)Humans of New York: Stories - ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781250058904))
+[![9781781314517](http://images.brooklinebooksmith.com/9781781314517.jpg)](http://www.brooklinebooksmith-shop.com/book/9781781314517)
 
-![](http://images.brooklinebooksmith.com/9781781314517.jpg)Skylines: A Journey -([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781781314517))
-
-![](http://images.brooklinebooksmith.com/9781760342777.jpg)Lonely Planet's Ultimate Travel Our List- ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781760342777))
+[![9781760342777](http://images.brooklinebooksmith.com/9781760342777.jpg)](http://www.brooklinebooksmith-shop.com/book/9781760342777)
 
 ---
 
 ### From the Giftsmith
 
-&nbsp;
 
 **![](http://images.brooklinebooksmith.com/2015-gift-guide-travel-flour-sack-towel.jpg)Flour Sack Towel $10.95**
 
@@ -106,7 +103,7 @@ Check your list and avoid hassles with our travel journals this season. Itinerar
 
 Whether you're traveling by train, plane or automobiles this season, you're guaranteed to catch some zzz's using a Birch or Log Pillow and Head Rest. The microbead fill offers a comfortable cradle for your head and neck. The pillows are great for home decor too!
 
-&nbsp;
+---
 
 **![](http://images.brooklinebooksmith.com/2015-gift-guide-travel-kit.jpg)Flask $29.95, Shaving Kit $12.95, On-The-Go Kit $14.95**
 
