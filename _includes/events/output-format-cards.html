@@ -16,11 +16,13 @@
       <h5>
         {% if event.book_category %}
           {{event.book_category}}
+        {% comment %}
         {% elsif event.program %}
           {% capture related_program %}/programs/{{ event.program }}/{% endcapture %}
           {% assign program = site.programs | where: 'url', related_program    %}
           {% assign program_title = program[0].title %}
           {{ program_title }}
+         {% endcomment %}
         {% endif %}
       </h5>
     {% endif %}
