@@ -1,5 +1,4 @@
 <div class="entry-content">
-
   {% if page.image_path and page.image_path != '' %}
     <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
   {% endif %}
@@ -10,12 +9,14 @@
     </div>
   {% endif %}
 
-  <div class="items">
-    <div class="item">
-      {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
+  {% if page.content %}
+    <div class="items">
+      <div class="item">
+        {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
         {{ page.content  | markdownify }}
+      </div>
     </div>
-  </div>
+  {% endif %}
 
   {% if page.include %}
     {% include {{ page.include }} %}

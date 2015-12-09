@@ -18,7 +18,11 @@
     {% endif %}
   {% endcomment %}
   <div class="card-copy">
-    <h3 class="brand" style="margin-bottom:.125em;">{{ object.title }}</h3>
+    {% if object.title %}
+      <h3 class="brand" style="margin-bottom:.125em;">
+        {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </h3>
+    {% endif %}
     <p>posted {{ object.date | date: "%B %d" }}{% if object.staff %},
         {% capture related_staff %}/staff/{{ object.staff }}/{% endcapture %}
         {% assign theauthor = site.staff | where: 'url', related_staff %}
@@ -26,10 +30,10 @@
          by <strong>{{ post_author }}</strong>
       {% endif %}
     </p>
-    <p>
-      {% if object.excerpt %}
-        {{ object.excerpt | markdownify |strip_html | truncatewords: 90, '…' }}
-      {% endif %}
-    </p>
+    {% if object.excerpt and object.excerpt != '' %}
+      <p>
+        {{ object.excerpt | markdownify | strip_html | truncatewords: 90, '…' }}
+      </p>
+    {% endif %}
   </div>
 </a>

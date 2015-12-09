@@ -6,11 +6,9 @@
 {% else %}
   {% assign news = paginator.posts %}
 {% endif %}
-
 <div class="cards">
   {% for object in news %}
     {% include _format-blog-posts.html %}
   {% endfor %}
 </div>
-
 {% include _pagination.html %}

@@ -13,7 +13,7 @@ layout: default
     {% for object in category_posts %}
       <li>
         <a href="#{{ object.title | slugify }}">
-            {{ object.title }}
+            {{ object.title | escape  }}
         </a>
       </li>
     {% endfor %}

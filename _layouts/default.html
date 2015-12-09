@@ -1,6 +1,3 @@
----
-layout: compress
----
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -20,7 +17,7 @@ layout: compress
       <meta name="MobileOptimized" content="320">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-      <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title }} - {% endif %} {{site.sitename}}</title>
+      <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape }} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
         <link rel="canonical" href="{{site.url}}" />
       {% endif %}
@@ -31,14 +28,6 @@ layout: compress
       {% include global/meta-data.html %}
 
       <!--[if lt IE 9]>
-        <script>
-          document.createElement('header');
-          document.createElement('nav');
-          document.createElement('section');
-          document.createElement('article');
-          document.createElement('aside');
-          document.createElement('footer');
-        </script>
         <script src="/static/js/dist/html5shiv.min.js"></script>
         <script src="/static/js/dist/respond.min.js"></script>
       <![endif]-->
@@ -51,8 +40,8 @@ layout: compress
       {% include global/analytics.html %}
     {% endif %}
 
-    {% include head-css.css %}
 
+     {% include head-css.css %}
 
 </head>
   <body  id="container" class="{{ page.style }}{% if page.class %} {{ page.class }}{% endif %} {{page.url | replace: '/', '' }} {{ jekyll.environment }}">

@@ -6,7 +6,7 @@
     <span class="end">{{ event.start_at | date: "%m/%d/%Y %r" }}</span>
     <span class="timezone">America/New_York</span>
     <span class="title">{{ event_title }}</span>
-    <span class="description">{{ event.content | markdownify }}</span>
+    <span class="description">{{ event.content | markdownify | strip_html | truncatewords: 90, '…' }}</span>
     <span class="location">{{ site.address }}</span>
     <span class="organizer">{{ site.sitename }}</span>
     <span class="organizer_email">thestore@brooklinebooksmith.com</span>
