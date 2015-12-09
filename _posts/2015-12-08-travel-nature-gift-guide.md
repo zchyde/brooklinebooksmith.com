@@ -7,7 +7,7 @@ featured_image_path: 'http://images.brooklinebooksmith.com/2015-gift-guide-trave
 featured_image_position: 50
 image_path: ''
 fancy_font: Fredericka+the+Great
-category: ''
+category: Holiday-Gift-Guide
 staff: '-staff-'
 ---
 
