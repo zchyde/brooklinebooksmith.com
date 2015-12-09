@@ -21,5 +21,6 @@ Paperback:
 permalink: /
 layout: home
 excerpt: ''
+regenerate: true
 ---
 
