@@ -71,7 +71,7 @@ You can tell as you turn the pages, this isn't just another catalog of endearing
 
 **![](http://images.brooklinebooksmith.com/2015-gift-guide-travel-flour-sack-towel.jpg)Flour Sack Towel $10.95**
 
-*\*\**Give presents you can feel good about giving this season, with eco-friendly, artistically crafted, and socially responsible gifts. The flour sack dish towels feature hand screened animals on 100% natural cotton. Beautiful and versatile, try using one to wrap up an eco-friendly candle or handmade lotion.
+Give presents you can feel good about giving this season, with eco-friendly, artistically crafted, and socially responsible gifts. The flour sack dish towels feature hand screened animals on 100% natural cotton. Beautiful and versatile, try using one to wrap up an eco-friendly candle or handmade lotion.
 
 ---
 
