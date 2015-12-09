@@ -3,14 +3,15 @@ title: 'Holiday Gift Guide — Travel & Nature'
 published: true
 date: 2015-12-08T00:00:00.000Z
 excerpt: ''
-featured_image_path: 'http://images.brooklinebooksmith.com/2015-gift-guide-travel-cabin-porn.jpg'
+featured_image_path: /uploads/2015-holiday-gift-guide-travel-banner-cabin-porn.jpg
 featured_image_position: 50
 image_path: ''
 fancy_font: Fredericka+the+Great
 category: Holiday-Gift-Guide
 staff: '-staff-'
 ---
-![9780316378215](http://images.brooklinebooksmith.com/9780316378215.jpg)**Cabin Porn: Inspiration for Your Quiet Place Somewhere**&nbsp; by Zach Klein and Steven Leckart, photography by Noah Kalina ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780316378215))
+
+![9780316378215](http://images.brooklinebooksmith.com/9780316378215.jpg)**Cabin Porn: Inspiration for Your Quiet Place Somewhere**  by Zach Klein and Steven Leckart, photography by Noah Kalina ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780316378215))
 
 It's exactly what it is. It's cabin porn. Every conceivable style, location, and reason for being is in these pages. There are converted silos, treehouses, modernist shapes extending as if by magic out over the stream, or what appears to be a pile of ancient farm equipment and peeling plywood in the most overgrown corner of the field. Let's face it, most of us who dream of our own little cabin in the woods will never build one. That's what this book is for.
 
