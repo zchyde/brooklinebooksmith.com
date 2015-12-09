@@ -57,7 +57,7 @@ You can tell as you turn the pages, this isn't just another catalog of endearing
 
 [![9780714869629](http://images.brooklinebooksmith.com/9780714869629.jpg)](http://www.brooklinebooksmith-shop.com/book/9780714869629)
 
-[![](/uploads/9780143128137.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143128137)
+[![](/uploads/versions/9780143128137---x----284-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143128137)
 
 [![9781250058904](http://images.brooklinebooksmith.com/9781250058904.jpg)](http://www.brooklinebooksmith-shop.com/book/9781250058904)
 
