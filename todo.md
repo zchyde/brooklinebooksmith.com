@@ -27,5 +27,3 @@ book_categories
 programs
 
 Contacts
-
-![](http://images.brooklinebooksmith.com/9780145128137.jpg)Stories in the Stars - ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780145128137))
