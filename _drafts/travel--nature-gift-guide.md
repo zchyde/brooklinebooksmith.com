@@ -49,19 +49,19 @@ Jutaku Japanese Houses- 9780714869629 Stories in the Stars - 9780145128137 Human
 
 &nbsp;
 
-**Flour Sack Towel $10.95**
+**![](/uploads/versions/2015-gift-guide-travel-flour-sack-towel---x----500-889x---.jpg)Flour Sack Towel $10.95**
 
 ****Give presents you can feel good about giving this season, with eco-friendly, artistically crafted, and socially responsible gifts. The flour sack dish towels feature hand screened animals on 100% natural cotton. Beautiful and versatile, try using one to wrap up an eco-friendly candle or handmade lotion.
 
 ---
 
-**Wooden Frames $26-$29.95**
+**![](/uploads/versions/2015-gift-guide-travel-wooden-frames---x----500-584x---.jpg)Wooden Frames $26-$29.95**
 
 Made in New England and distressed by hand, these painted wooden frames will compliment any style or decor. Add a personal touch by framing a family portrait, letter, drawing or a post card for a gift that will be cherished for years to come.
 
 ---
 
-**Globe $14.95**
+**![](/uploads/versions/2015-gift-guide-travel-globe---x----500-309x---.jpg)Globe $14.95**
 
 Need something for that armchair traveler? The Crossing Continents 4" standing globe offers a worldly accent on a bookshelf next to your favorite travel literature.
 
@@ -73,6 +73,12 @@ Check your list and avoid hassles with our travel journals this season. Itinerar
 
 ---
 
-**Travel Pillows $18.95** Whether you're traveling by train, plane or automobiles this season, you're guaranteed to catch some zzz's using a Birch or Log Pillow and Head Rest. The microbead fill offers a comfortable cradle for your head and neck. The pillows are great for home decor too!
+**![](/uploads/versions/2015-gift-guide-travel-travel-pillows---x----500-620x---.jpg)Travel Pillows $18.95**
 
-**Flask $29.95, Shaving Kit $12.95, On-The-Go Kit $14.95** No trips to the haberdasher are needed when you have access to these necessary grooming tools. The On-The-Go Men's Kit comes with collar stays, a shoehorn, and nail clippers and doubles as a shoebrush, and the shaving kit includes moisture, soap, and balm in a soft sandalwood scent. And don't forget to grab your stainless steel vacuum flask before you kick off your adventure.
+Whether you're traveling by train, plane or automobiles this season, you're guaranteed to catch some zzz's using a Birch or Log Pillow and Head Rest. The microbead fill offers a comfortable cradle for your head and neck. The pillows are great for home decor too!
+
+&nbsp;
+
+**![](/uploads/versions/2015-gift-guide-travel-kit---x----500-296x---.jpg)Flask $29.95, Shaving Kit $12.95, On-The-Go Kit $14.95**
+
+No trips to the haberdasher are needed when you have access to these necessary grooming tools. The On-The-Go Men's Kit comes with collar stays, a shoehorn, and nail clippers and doubles as a shoebrush, and the shaving kit includes moisture, soap, and balm in a soft sandalwood scent. And don't forget to grab your stainless steel vacuum flask before you kick off your adventure.
