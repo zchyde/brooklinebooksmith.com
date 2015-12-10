@@ -86,7 +86,7 @@ Need something for that armchair traveler? The Crossing Continents 4" standing g
 
 ---
 
-**Journals $10.99-$16.95, Travel Kit $12**
+**![](http://images.brooklinebooksmith.com/2015-holiday-gift-guide-travel-journals.jpg)**Journals $10.99-$16.95, Travel Kit $12**
 
 Check your list and avoid hassles with our travel journals this season. Itineraries, references, notes and even restaurant reviews are made simple with a handy guide to help you organize your travels. And with the Inflight Comfort Kit you'll be able to maximize your travel time so that you arrive at your destination relaxed, refreshed, and ready to explore.
 
