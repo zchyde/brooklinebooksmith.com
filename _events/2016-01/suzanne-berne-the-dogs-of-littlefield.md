@@ -1,7 +1,7 @@
 ---
 title: '**Suzanne Berne** _The Dogs of Littlefield_'
 published: true
-start_at: 2016-02-28T19:00:00.000Z
+start_at: 2016-01-28T19:00:00.000Z
 image_path: ''
 book_category: FICTION
 program: '-writers-and-readers'
