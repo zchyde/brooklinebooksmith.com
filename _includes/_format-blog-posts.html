@@ -1,4 +1,6 @@
 <a href="{{ object.url }}" class="card" id="{{ object.title | slugify }}">
+  
+{% if object_featured_image_path != '' or object.image_path != '' %}
   <div class="card-image"
     {% if object.featured_image_path %}
     style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"
@@ -10,6 +12,7 @@
       <h5 class="brand">{{ object.name }}</h5>
     {% endunless %}
   </div>
+  {% endif %}
   {% comment %}
   {% if object.featured_image_path %}
     <div class="card-header">
