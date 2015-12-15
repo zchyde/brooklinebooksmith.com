@@ -23,7 +23,5 @@ Staff
 ## Secondary Data Types and Categories
 
 book_categories
-
 programs
-
 Contacts
