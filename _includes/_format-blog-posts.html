@@ -1,5 +1,5 @@
 <a href="{{ object.url }}" class="card" id="{{ object.title | slugify }}">
-  
+
 {% if object_featured_image_path != '' or object.image_path != '' %}
   <div class="card-image"
     {% if object.featured_image_path %}
@@ -22,7 +22,7 @@
   {% endcomment %}
   <div class="card-copy">
     {% if object.title %}
-      <h3 class="brand" style="margin-bottom:.125em;">
+      <h3 class="brandwin" style="margin-bottom:.125em;">
         {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
       </h3>
     {% endif %}
