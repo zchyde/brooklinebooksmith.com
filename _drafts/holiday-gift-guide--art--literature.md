@@ -57,4 +57,36 @@ Even the most knowledgeable devotees of Alice’s adventures will find innumerab
 
 ![](/uploads/9781631910012.jpg)![](/uploads/9783836532297.jpg)![](/uploads/9780871404565.jpg)![](/uploads/9781784781767.jpg)![](/uploads/9780547485850.jpg)![](/uploads/9781631490712.jpg)![](/uploads/9780762458684.jpg)![](/uploads/9780805212655.jpg)
 
+### From the GiftSmith
+
 &nbsp;
+
+**Travel Easel Set $35.50, Milan 50 ct Set $22.95, Stabilo Set $22.95, Farber-Castell Connector Pen Set $20.95**
+
+Stimulate the creative senses this holiday! The Portable Art Studio makes getting started easy, with a variety of artist materials and a light, transportable design – perfect for sketching in the park, painting by the seaside, or setting up wherever inspiration strikes. For more seasoned artists we offer a selection of fine pen and marker sets from Stabilo and Faber-Castell. Pair them with any of our adult coloring books for the gift of meditative beauty.
+
+**Puzzles $17.95**
+
+Puzzles and games are fun ways to bring the whole family together during the holidays. The collage Art and Literature themed jigsaw puzzles combine bold colors and nostalgic images that everyone can enjoy. The White Mtn. Puzzle Co. proudly makes each puzzle in America out of recycled materials.
+
+**T-Shirts $24-$28, Scarf $24, Mug $12.95, Socks $10.95**
+
+Gifts that keep on giving all through the year! The Out of Print Co. celebrates classic titles and iconic cover art with their line of apparel and accessories. Our personal favorite? The t-shirts - each one is soft, comfy, and designed to look like a well-worn book (no pun intended). For each product sold, Out of Print donates one book through their partnership with Books For Africa.
+
+**Mugs $14.95**
+
+From the Unemployed Philosophers Guild comes a line of smart, funny and even educational ceramic mugs for the snarky literary nerd on your list. These are perfect for the educator, student or co-worker who enjoys books, art history, or learning how to draw as much as they love a hot cup o' joe.
+
+**Saints Candle $12.95**
+
+These Secular Saint candles keep a flame of devotion burning for your favorite guardian of the arts - and shield you from bohemian miseries at the same time! Give a nod to honored virtuosos like William Shakespeare, the patron saint of star-crossed lovers, and Jane Austen, our lady of poor relations. Each candle includes a tailored hymn to inspire and enlighten.
+
+**Knee High Socks $8.95-$10.95**
+
+Inspired by classic and contemporary artists, the "Art Collection" of legwear from the Giftsmith brings sock drawers to new heights.Gift your loved one with a masterpiece by the likes of Frida Kahlo or Vincent van Gogh while keeping their calves warm this winter.
+
+**Library Travel Tin Candles $8.00**
+
+Library candles pair cherished authors like Austen, Dickens, Poe and more with signature fragrances inspired by their work. Each 2-wick candle is composed of hand-poured soy wax in a travel copper tin and makes any room feel like the cozy pages of a favorite book - a perfect stocking stuffer for a lover of the classics.
+
+“There is nothing like staying at home for real comfort.” — Jane Austen
