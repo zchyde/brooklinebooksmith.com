@@ -25,7 +25,7 @@ If you think about it in terms of Smartphones and Big Data, it seems a relativel
 
 **[![](/uploads/9781936976867.jpg)](http://www.brooklinebooksmith-shop.com/book/9781936976867)Plotted: A Literary Atlas** by Andrew DeGraff and Daniel Harmon ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781936976867))
 
-Andrew DeGraff offers a master-class in information design in *Plotted: A Literary Atlas*. He charts the path of each of Hamlet’s characters through the cut-away halls and corridors of Elsinore Castle; distills into one iconic image the tight orbit and existential angst of *Waiting for Godot*; winds page after page down the lazy Mississippi with*Huck Finn*; and zooms out to follow the claustrophobic car ride, the worst family road trip ever, in Flannery O'Connor’s *A Good Man Is Hard To Find*.
+Andrew DeGraff offers a master-class in information design in *Plotted: A Literary Atlas*. He charts the path of each of Hamlet’s characters through the cut-away halls and corridors of Elsinore Castle; distills into one iconic image the tight orbit and existential angst of *Waiting for Godot*; winds page after page down the lazy Mississippi with&nbsp;*Huck Finn*; and zooms out to follow the claustrophobic car ride, the worst family road trip ever, in Flannery O'Connor’s *A Good Man Is Hard To Find*.
 
 ---
 
