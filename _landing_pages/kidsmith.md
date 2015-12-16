@@ -7,5 +7,5 @@ fancy_font: Cabin-sketch
 category: kidsmith
 include_aside: events/kids.html
 follow: true
-aside: "###### [![yotwitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
+aside: "###### [![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
 ---
