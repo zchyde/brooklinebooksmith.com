@@ -11,8 +11,8 @@ layout: default
     {% if page.category %}
     <ul>
     {% for object in category_posts %}
-      <li>
-        <a href="#{{ object.title | slugify }}">
+      <li style="margin-bottom:1em;">
+        <a href="#{{ object.url | slugify }}">
             {{ object.title | escape  }}
         </a>
       </li>
