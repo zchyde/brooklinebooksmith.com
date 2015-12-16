@@ -3,7 +3,7 @@ title: 'Holiday Gift Guide — Art & Literature'
 published: true
 date: 2015-12-16T11:55:00.000Z
 excerpt: ''
-featured_image_path: ''
+featured_image_path: /uploads/2015-holiday-gift-guide-banner-cover-punbook.jpg
 featured_image_position: 50
 image_path: ''
 fancy_font: Fredericka+the+Great
