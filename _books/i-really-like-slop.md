@@ -1,6 +1,7 @@
 ---
 title: I Really Like Slop
-isbn: null
-binding: null
-image_path: null
+isbn: '9781484722626'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/626/722/9781484722626.jpg'
 ---
+
