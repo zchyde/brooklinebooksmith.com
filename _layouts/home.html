@@ -5,15 +5,16 @@ layout: default
   <article class="">
 
       {% assign posts = site.posts %}
-      {% assign posts_limit = site.paginate %}
+      {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
+      {% assign posts_limit = 5 %}
     <div class="cards">
       {% for object in posts limit:posts_limit %}
         {% include _format-blog-posts.html %}
       {% endfor %}
     </div>
-    <a href="/blog/page-2/">
+    <a href="/blog/">
       <button>
-        More Blog Posts
+         Go to the Blog
       </button>
     </a>
   </article>

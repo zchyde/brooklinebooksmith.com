@@ -48,7 +48,7 @@ aside {
   font-size: .875em;
   a {
     color: $action-color;
-    @include word-wrap;
+    //@include word-wrap;
     &:hover {
       color: #333;
     }

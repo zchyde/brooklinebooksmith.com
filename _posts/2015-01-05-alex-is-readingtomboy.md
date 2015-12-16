@@ -1,0 +1,16 @@
+---
+layout: post
+title: Alex Is Reading...TOMBOY
+date: '2015-01-05T10:07:00.001-05:00'
+author: Alex S
+tags:
+- alex is reading
+- "#WeNeedDiverseBooks"
+- kids books
+modified_time: '2015-01-05T10:07:18.170-05:00'
+thumbnail: http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s72-c/tomboy.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2138289306573014304
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/01/alex-is-readingtomboy.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg" height="320" width="221" /></a></div><br /><br /><br /><br /><br />I feel like I've gotten really behind on my comics reading lately, but this one has been on my radar for awhile, and I FINALLY sat down with it this week. <b>TOMBOY by Liz Prince<i> </i></b>is a graphic memoir of Liz's search for gender identity in a culture that frequently subscribes to only two distinct boxes: Girly Girl and Guy Stuff. Funny, lively, and unafraid of being a little bit complicated, <i>Tomboy</i> is a great book for anyone who questions (or wants to question) the rules of gender. We have it shelved in adult Graphica, but it's appropriate for middle school and up.<br /><br />And, by the way, this is not the only book about gender-nonconformity that we have for young readers. Here are a few others if you're looking for<b> </b>kids' books that put the<b> </b>T in LGBT.<br /><b><br /><br />FIVE TRANSGENDER BOOKS FOR KIDS AND YOUNG ADULTS</b><br /><br />1. <b>I Am Jazz by Jessie Herthel and Jazz Jennings</b> is the picture-book story of one of the most recognized transgender youth in America--Jazz Jennings, whose parents supported her early-childhood transition. This is a good introduction to what it means to be transgender for very young readers. You can find it on our picture book wall and in the kids' Life Experiences section.<br /><br />2. <b>Gracefully Grayson by Ami Polonsky</b> is a sweet, smart, sensitively written new midgrade novel about a transgender gradeschooler who is just starting to understand her own gender. Supported by school theater and a community of loving teachers and friends, Grayson takes the first brave steps into visible life as the girl she is. This is an AWESOME book.<br /><br />3. <b>Beautiful Music for Ugly Children by Kirstin Cronin-Mills<i> </i></b>is a young adult novel about a trans highschooler who (for now) only publicly lives his male identity on the air of his radio show.<br /><br />4. and 5. <b>Some Assembly Required by Arin Andrews</b> and <b>Rethinking Normal by Katie Rain Hill<i> </i></b>are memoirs of transition by a young man and woman, respectively. They can both be found in the biography section of our nonfiction wall.<br /><br /><br />Happy reading!<br />

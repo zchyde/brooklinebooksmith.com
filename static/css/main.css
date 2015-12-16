@@ -1009,10 +1009,7 @@ article.hentry {
 aside {
   font-size: .875em; }
   aside a {
-    color: #981C41;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-    word-break: break-all; }
+    color: #981C41; }
     aside a:hover {
       color: #333; }
   aside h6 {
@@ -1085,7 +1082,7 @@ aside.bottom .content-aside {
     background-repeat: repeat; }
     .card .card-image a, a.card .card-image a {
       color: white; }
-    .card .card-image h5, a.card .card-image h5 {
+    .card .card-image h5, .card .card-image h4, .card .card-image h3, a.card .card-image h5, a.card .card-image h4, a.card .card-image h3 {
       text-align: center;
       position: absolute;
       width: 87.5%;

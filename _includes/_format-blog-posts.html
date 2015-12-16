@@ -1,6 +1,6 @@
-<a href="{{ object.url }}" class="card" id="{{ object.title | slugify }}">
-  
-{% if object_featured_image_path != '' or object.image_path != '' %}
+<a href="{{ object.url }}" class="card" id="{{ object.url | slugify }}">
+
+
   <div class="card-image"
     {% if object.featured_image_path %}
     style="background-image:url('{{ object.featured_image_path }}');background-position:center 25%;background-size:cover;"
@@ -8,11 +8,13 @@
       style="background-image:url('{{ object.image_path }}');background-position:center 25%;background-size:cover;"
     {% endif %}
     >
-    {% unless object.featured_image_path %}
-      <h5 class="brand">{{ object.name }}</h5>
+    {% unless object.featured_image_path or object.image_path %}
+      <h4 class="brand">
+        {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </h4>
     {% endunless %}
   </div>
-  {% endif %}
+
   {% comment %}
   {% if object.featured_image_path %}
     <div class="card-header">
@@ -21,12 +23,12 @@
     {% endif %}
   {% endcomment %}
   <div class="card-copy">
-    {% if object.title %}
+    {% if object.title and object.featured_image_path or object.image_path%}
       <h3 class="brand" style="margin-bottom:.125em;">
         {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
       </h3>
     {% endif %}
-    <p>posted {{ object.date | date: "%B %d" }}{% if object.staff %},
+    <p class="caption" style="margin-top:1em;">posted {{ object.date | date: "%B %d" }}{% if object.staff %},
         {% capture related_staff %}/staff/{{ object.staff }}/{% endcapture %}
         {% assign theauthor = site.staff | where: 'url', related_staff %}
         {% assign post_author = theauthor[0].title %}
