@@ -50,3 +50,9 @@ Shakespeare's themes are universal and timeless - they lend themselves to being 
 **The Annotated Alice: 150th Anniversary Deluxe Edition** by Lewis Carroll, edited by Martin Gardner and Mark Burnstein, illustrated by John Tenniel 978-0393245431
 
 Even the most knowledgeable devotees of Alice’s adventures will find innumerable gems in the columns of *The Annotated Alice*. The roots of Lewis Carroll's creation are at times even more fascinating than the book itself. This 150th anniversary edition - with its copious side notes and illustrations dating from the original version to the present day - is a fantastically twisting and turning rabbit hole in and of itself.
+
+---
+
+### Staff Also Recommends
+
+&nbsp;
