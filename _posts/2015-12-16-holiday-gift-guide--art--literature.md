@@ -25,7 +25,7 @@ If you think about it in terms of Smartphones and Big Data, it seems a relativel
 
 **[![](/uploads/9781936976867.jpg)](http://www.brooklinebooksmith-shop.com/book/9781936976867)Plotted: A Literary Atlas** by Andrew DeGraff and Daniel Harmon ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781936976867))
 
-Andrew DeGraff offers a master-class in information design in *Plotted: A Literary Atlas*. He charts the path of each of Hamlet’s characters through the cut-away halls and corridors of Elsinore Castle; distills into one iconic image the tight orbit and existential angst of Waiting for Godot; winds page after page down the lazy Mississippi with Huck Finn; and zooms out to follow the claustrophobic car ride, the worst family road trip ever, in Flannery O'Connor’s A Good Man Is Hard To Find.
+Andrew DeGraff offers a master-class in information design in *Plotted: A Literary Atlas*. He charts the path of each of Hamlet’s characters through the cut-away halls and corridors of Elsinore Castle; distills into one iconic image the tight orbit and existential angst of *Waiting for Godot*; winds page after page down the lazy Mississippi with*Huck Finn*; and zooms out to follow the claustrophobic car ride, the worst family road trip ever, in Flannery O'Connor’s *A Good Man Is Hard To Find*.
 
 ---
 
@@ -98,7 +98,6 @@ Inspired by classic and contemporary artists, the "Art Collection" of legwear fr
 ---
 
 **![](/uploads/1e47cf90-a355-11e5-9fe4-c909b7cb3e0a.jpeg)Library Travel Tin Candles $8.00**
-
 
 Library candles pair cherished authors like Austen, Dickens, Poe and more with signature fragrances inspired by their work. Each 2-wick candle is composed of hand-poured soy wax in a travel copper tin and makes any room feel like the cozy pages of a favorite book - a perfect stocking stuffer for a lover of the classics.
 
