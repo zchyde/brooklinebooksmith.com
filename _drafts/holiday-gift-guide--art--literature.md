@@ -7,7 +7,7 @@ featured_image_path: ''
 featured_image_position: 50
 image_path: ''
 fancy_font: Fredericka+the+Great
-category: ''
+category: Holiday-Gift-Guide
 staff: '-staff-'
 ---
 
@@ -59,7 +59,7 @@ Even the most knowledgeable devotees of Alice’s adventures will find innumerab
 
 ### From the GiftSmith
 
-&nbsp;
+
 
 **![](/uploads/2006bf3a-a355-11e5-8ba3-0ba4395656fe.jpeg)Travel Easel Set $35.50, Milan 50 ct Set $22.95, Stabilo Set $22.95, Farber-Castell Connector Pen Set $20.95**
 
@@ -67,7 +67,7 @@ Stimulate the creative senses this holiday! The Portable Art Studio makes gettin
 
 ---
 
-&nbsp;
+
 
 **![](/uploads/15d19742-a355-11e5-9861-258816e77fe9.jpeg)Puzzles $17.95**
 
