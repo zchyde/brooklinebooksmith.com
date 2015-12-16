@@ -1,6 +1,7 @@
 ---
-title: Home hardcover
-isbn: null
-binding: null
-image_path: null
+title: Home
+isbn: '9780763665296'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/296/665/9780763665296.jpg'
 ---
+
