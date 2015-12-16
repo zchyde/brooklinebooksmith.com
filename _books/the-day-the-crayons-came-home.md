@@ -1,6 +1,7 @@
 ---
 title: "The Day the Crayon's Came Home"
-isbn: null
-binding: null
-image_path: null
+isbn: '9780399172755'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/755/172/9780399172755.jpg'
 ---
+
