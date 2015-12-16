@@ -55,4 +55,6 @@ Even the most knowledgeable devotees of Alice’s adventures will find innumerab
 
 ### Staff Also Recommends
 
+![](/uploads/9781631910012.jpg)![](/uploads/9783836532297.jpg)![](/uploads/9780871404565.jpg)![](/uploads/9781784781767.jpg)![](/uploads/9780547485850.jpg)![](/uploads/9781631490712.jpg)![](/uploads/9780762458684.jpg)![](/uploads/9780805212655.jpg)
+
 &nbsp;
