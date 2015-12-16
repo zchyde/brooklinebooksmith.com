@@ -57,6 +57,8 @@ Even the most knowledgeable devotees of Alice’s adventures will find innumerab
 
 [![](/uploads/9781631910012.jpg)](http://www.brooklinebooksmith-shop.com/book/9781631910012)[![](/uploads/9783836532297.jpg)](http://www.brooklinebooksmith-shop.com/book/9783836532297)[![](/uploads/9780871404565.jpg)](http://www.brooklinebooksmith-shop.com/book/9780871404565)[![](/uploads/9781784781767.jpg)](http://www.brooklinebooksmith-shop.com/book/9781784781767)[![](/uploads/9780547485850.jpg)](http://www.brooklinebooksmith-shop.com/book/9780547485850)[![](/uploads/9781631490712.jpg)](http://www.brooklinebooksmith-shop.com/book/9781631490712)[![](/uploads/9780762458684.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762458684)[![](/uploads/9780805212655.jpg)](http://www.brooklinebooksmith-shop.com/book/9780805212655)
 
+---
+
 ### From the GiftSmith
 
 **![](/uploads/2006bf3a-a355-11e5-8ba3-0ba4395656fe.jpeg)Travel Easel Set $35.50, Milan 50 ct Set $22.95, Stabilo Set $22.95, Farber-Castell Connector Pen Set $20.95**
@@ -96,6 +98,7 @@ Inspired by classic and contemporary artists, the "Art Collection" of legwear fr
 ---
 
 **![](/uploads/1e47cf90-a355-11e5-9fe4-c909b7cb3e0a.jpeg)Library Travel Tin Candles $8.00**
+
 
 Library candles pair cherished authors like Austen, Dickens, Poe and more with signature fragrances inspired by their work. Each 2-wick candle is composed of hand-poured soy wax in a travel copper tin and makes any room feel like the cozy pages of a favorite book - a perfect stocking stuffer for a lover of the classics.
 
