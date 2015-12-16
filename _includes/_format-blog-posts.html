@@ -1,4 +1,4 @@
-<a href="{{ object.url }}" class="card" id="{{ object.title | slugify }}">
+<a href="{{ object.url }}" class="card" id="{{ object.url | slugify }}">
 
 
   <div class="card-image"
@@ -9,7 +9,9 @@
     {% endif %}
     >
     {% unless object.featured_image_path or object.image_path %}
-      <h4 class="brand">{{ object.title }}</h4>
+      <h4 class="brand">
+        {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </h4>
     {% endunless %}
   </div>
 
