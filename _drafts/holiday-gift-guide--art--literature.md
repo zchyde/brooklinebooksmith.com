@@ -11,19 +11,19 @@ category: ''
 staff: '-staff-'
 ---
 
-**![](/uploads/9780300211917.jpg)Leap Before You Look: Black Mountain College 1933-1957** by Helen Molesworth, with Ruth Erickson&nbsp; 9780300211917
+**![](/uploads/9780300211917.jpg)Leap Before You Look: Black Mountain College 1933-1957** by Helen Molesworth, with Ruth Erickson ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780300211917))
 
 Twenty-four years was all the time it was given, but the influence of Black Mountain College endures all the way to the present. From 1933-1957, the rural college founded by John Rice (“We must realize that the world as it is isn't worth saving; it must be made over.”) operated self-sufficiently, with men and women sharing equally the joys and toils of building, harvesting, and, of course, providing world-class instruction to a crop of young artists in every creative field imaginable. This book, companion to the ICA exhibit, is the closest thing to being a student in that briefly-realized-utopia, Black Mountain College.
 
 ---
 
-**![](/uploads/9780691165288.jpg)Mathematics & Art: A Cultural History** by Lynn Gamwell, with a foreword by Neil deGrasse Tyson 9780691165288
+**![](/uploads/9780691165288.jpg)Mathematics & Art: A Cultural History** by Lynn Gamwell, with a foreword by Neil deGrasse Tyson ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9780691165288))
 
 If you think about it in terms of Smartphones and Big Data, it seems a relatively new phenomenon, the way that zeroes and ones are woven into every facet of our lives. But really, the language of mathematics has always been with us, waiting to be deciphered bit by bit, helping us in our quest to better know our world and ourselves. Lynn Gamwell’s monumental study illuminates the people and ideas who have pushed at the boundaries of mathematics and art, and demonstrates how, when they intersect, masterpieces come into being.
 
 ---
 
-**![](/uploads/9781936976867.jpg)Plotted: A Literary Atlas** by Andrew DeGraff and Daniel Harmon&nbsp; 9781936976867
+**[![](/uploads/9781936976867.jpg)](http://www.brooklinebooksmith-shop.com/book/9781936976867)Plotted: A Literary Atlas** by Andrew DeGraff and Daniel Harmon ([**Buy**](http://www.brooklinebooksmith-shop.com/book/9781936976867))
 
 Andrew DeGraff offers a master-class in information design in *Plotted: A Literary Atlas*. He charts the path of each of Hamlet’s characters through the cut-away halls and corridors of Elsinore Castle; distills into one iconic image the tight orbit and existential angst of Waiting for Godot; winds page after page down the lazy Mississippi with Huck Finn; and zooms out to follow the claustrophobic car ride, the worst family road trip ever, in Flannery O'Connor’s A Good Man Is Hard To Find.
 
