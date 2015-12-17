@@ -1429,9 +1429,6 @@ html, body {
       content: "";
       display: table; } }
 
-.section-title {
-  padding-top: 1em; }
-
 .layout-posts, .has-layout {
   clear: both;
   max-width: 75em;
