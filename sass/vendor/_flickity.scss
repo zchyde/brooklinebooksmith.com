@@ -187,8 +187,8 @@ http://flickity.metafizzy.co
 /* external css: flickity.css */
 
 .gallery {
-  background: #fff;
-  padding: 2em;
+  ////////////////////background: #fff;
+  padding: 2em 1em 3em 1em;
   &:focus {outline:0;}
 }
 
@@ -209,7 +209,7 @@ http://flickity.metafizzy.co
   width: 25%;
   height: 22.5em;
   margin-right: 2.5em;
-  background: #fff;
+  ///////////////////background: #fff;
 }
 
 .gallery-cell-image {
