@@ -23,7 +23,7 @@ bindings:
 ## DO NOT EDIT BELOW THIS LINE
 images_domain: http://images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
-full_rebuild: true
+full_rebuild: false
 gems:
   - jekyll-paginate
 env: development
