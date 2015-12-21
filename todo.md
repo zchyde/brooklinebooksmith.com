@@ -2,10 +2,6 @@
 
 - [ ] Create special script area to load fancy fancy_fonts
 
-staging:
-
-# Brookline Booksmith Content
-
 
 ## Primary Data Types - fields
 books
