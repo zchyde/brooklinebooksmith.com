@@ -1,12 +1,36 @@
 ---
 title: Holiday Hours 2015
 published: false
-date: null
-excerpt: null
-featured_image_path: null
+date: ''
+excerpt: Check out our special holiday hours
+featured_image_path: ''
 featured_image_position: 50
-image_path: null
+image_path: /uploads/holidayhours.jpg
 fancy_font: Fredericka+the+Great
-category: null
-staff: null
+category: ''
+staff: '-staff-'
 ---
+
+&nbsp;
+
+### Holiday Hours: Christmas Week
+
+December 23: 8:30am - 10pm
+
+December 24: 8:30am - 7pm
+
+December 25: CLOSED
+
+December 26: 9am - 11pm
+
+&nbsp;
+
+### Holiday Hours: New Year's Week
+
+December 30: 8:30am - 10pm
+
+December 31: 8:30am - 8pm
+
+January 1: 12pm - 8pm
+
+January 2: 9am - 11pm
