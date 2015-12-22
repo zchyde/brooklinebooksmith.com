@@ -11,29 +11,39 @@ category: ''
 staff: '-staff-'
 ---
 
-**Inside the Now: Meditations on Time** by Thich Nhat Hanh 9781937006792
+**[![](/uploads/9781937006792.jpg)](http://www.brooklinebooksmith-shop.com/book/9781937006792)Inside the Now: Meditations on Time** by Thich Nhat Hanh (Buy)
 
 Perhaps Thich Nhat Hanh's most lyrical book, Inside the Now is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text Being Time, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
 
 ---
 
-**Lost Ocean: An Inky Adventure and Coloring Book** by Johanna Basford 978-0143108993 Johanna Basford's newest coloring book invites us to take a plunge into the swirling ocean deep, where the only limit to our creativity is how economical we can be with a pencil sharpener. (we stock plenty of those, too.) Each turn of the page provides a whole new approach to coloring; her elegant line drawings might sprawl across the spread in a skyline of shells, or they might rise in a single strand of seahorses through the empty expanse. There is so much room to grow on these pages, just let go and stay inside the lines.
+**Lost Ocean: An Inky Adventure and Coloring Book** by Johanna Basford (Buy)
+
+978-0143108993 Johanna Basford's newest coloring book invites us to take a plunge into the swirling ocean deep, where the only limit to our creativity is how economical we can be with a pencil sharpener. (we stock plenty of those, too.) Each turn of the page provides a whole new approach to coloring; her elegant line drawings might sprawl across the spread in a skyline of shells, or they might rise in a single strand of seahorses through the empty expanse. There is so much room to grow on these pages, just let go and stay inside the lines.
 
 ---
 
-**Gratitude** by Oliver Sacks 978-0451492937 After a lifetime of focusing on the intimate experiences of people in the most unusual and misunderstood regions of illness, beloved author and physician Oliver Sacks was faced with the one condition that we all eventually share. What to do with the knowledge that only a handful of months remained? Sacks sat down at his writing desk and penned four final essays in which he offers a wise and graceful message of what it means to live, and how we may come to accept death. Doctor, heal thyself, indeed.
+**Gratitude** by Oliver Sacks (Buy) 978-0451492937
+
+After a lifetime of focusing on the intimate experiences of people in the most unusual and misunderstood regions of illness, beloved author and physician Oliver Sacks was faced with the one condition that we all eventually share. What to do with the knowledge that only a handful of months remained? Sacks sat down at his writing desk and penned four final essays in which he offers a wise and graceful message of what it means to live, and how we may come to accept death. Doctor, heal thyself, indeed.
 
 ---
 
-**The Kinfolk Home: Interiors for Slow Living** by Nathan Williams&nbsp; 978-1579656652 The emerging ethos of slow living, as illustrated by Kinfolk magazine, is embodied in thirty-five residences across five continents. Think of it as minimalism with a soft touch: living spaces are cleared of the non-essential, allowing the most necessary surfaces and tools for work, art and life to come into their own. Walking into The Kinfolk Home somehow feels like stepping outside for a cool breath of fresh air.
+**The Kinfolk Home: Interiors for Slow Living** by Nathan Williams&nbsp; (Buy) 978-1579656652
+
+The emerging ethos of slow living, as illustrated by Kinfolk magazine, is embodied in thirty-five residences across five continents. Think of it as minimalism with a soft touch: living spaces are cleared of the non-essential, allowing the most necessary surfaces and tools for work, art and life to come into their own. Walking into The Kinfolk Home somehow feels like stepping outside for a cool breath of fresh air.
 
 ---
 
-**The New Bohemians: Cool and Collected Homes** by Justina Blakeney&nbsp; 978-1617691515 The New Bohemians will spark a chain reaction of creative redecorating in your home, we guarantee it. Scrub away the barriers between work and play; erase the distinction between living room and dining room; turn your home into an expression of your creative aspirations. Every page in this book is an inspiration, a carnival of color, texture, and playfully reimagined living space.
+**The New Bohemians: Cool and Collected Homes** by Justina Blakeney (Buy)&nbsp; 978-1617691515
+
+The New Bohemians will spark a chain reaction of creative redecorating in your home, we guarantee it. Scrub away the barriers between work and play; erase the distinction between living room and dining room; turn your home into an expression of your creative aspirations. Every page in this book is an inspiration, a carnival of color, texture, and playfully reimagined living space.
 
 ---
 
-**Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up** by Marie Kondo Marie Kondo's trademark motto of "spark joy" might not have been the way her siblings would have described her actions as a child, since she regularly raided their bedrooms to spirit away little-used toys and clothes, like a mini Zen Grinch in the night. But age has brought wisdom, and the world is ready to receive it, as evidenced by the runaway success of her first book, The Life-Changing Magic of Tidying Up. Let Kondo help you give the gift of clarity, awareness and a fresh start to someone you love. And watch out for her new book, Spark Joy, coming early in 2016.
+**Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up** by Marie Kondo (Buy)
+
+Marie Kondo's trademark motto of "spark joy" might not have been the way her siblings would have described her actions as a child, since she regularly raided their bedrooms to spirit away little-used toys and clothes, like a mini Zen Grinch in the night. But age has brought wisdom, and the world is ready to receive it, as evidenced by the runaway success of her first book, The Life-Changing Magic of Tidying Up. Let Kondo help you give the gift of clarity, awareness and a fresh start to someone you love. And watch out for her new book, Spark Joy, coming early in 2016.
 
 ---
 
