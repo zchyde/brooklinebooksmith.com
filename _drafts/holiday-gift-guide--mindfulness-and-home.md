@@ -23,25 +23,25 @@ Johanna Basford's newest coloring book invites us to take a plunge into the swir
 
 ---
 
-**Gratitude** by Oliver Sacks (Buy) 978-0451492937
+**[![](/uploads/9780451492937.jpg)](http://www.brooklinebooksmith-shop.com/book/9780451492937)Gratitude** by Oliver Sacks ([Buy](http://www.brooklinebooksmith-shop.com/book/9780451492937))
 
 After a lifetime of focusing on the intimate experiences of people in the most unusual and misunderstood regions of illness, beloved author and physician Oliver Sacks was faced with the one condition that we all eventually share. What to do with the knowledge that only a handful of months remained? Sacks sat down at his writing desk and penned four final essays in which he offers a wise and graceful message of what it means to live, and how we may come to accept death. Doctor, heal thyself, indeed.
 
 ---
 
-**The Kinfolk Home: Interiors for Slow Living** by Nathan Williams&nbsp; (Buy) 978-1579656652
+**[![](/uploads/9781579656652.jpg)](http://www.brooklinebooksmith-shop.com/book/9781579656652)The Kinfolk Home: Interiors for Slow Living** by Nathan Williams&nbsp; ([Buy](http://www.brooklinebooksmith-shop.com/book/9781579656652))
 
 The emerging ethos of slow living, as illustrated by Kinfolk magazine, is embodied in thirty-five residences across five continents. Think of it as minimalism with a soft touch: living spaces are cleared of the non-essential, allowing the most necessary surfaces and tools for work, art and life to come into their own. Walking into The Kinfolk Home somehow feels like stepping outside for a cool breath of fresh air.
 
 ---
 
-**The New Bohemians: Cool and Collected Homes** by Justina Blakeney (Buy)&nbsp; 978-1617691515
+**[![](/uploads/9781617691515.jpg)](http://www.brooklinebooksmith-shop.com/book/9781617691515)The New Bohemians: Cool and Collected Homes** by Justina Blakeney ([Buy](http://www.brooklinebooksmith-shop.com/book/9781617691515))&nbsp;
 
 The New Bohemians will spark a chain reaction of creative redecorating in your home, we guarantee it. Scrub away the barriers between work and play; erase the distinction between living room and dining room; turn your home into an expression of your creative aspirations. Every page in this book is an inspiration, a carnival of color, texture, and playfully reimagined living space.
 
 ---
 
-**Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up** by Marie Kondo (Buy)
+**[![](/uploads/9781607749721.jpg)](http://www.brooklinebooksmith-shop.com/book/9781607749721)Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up** by Marie Kondo ([Buy](http://www.brooklinebooksmith-shop.com/book/9781607749721))
 
 Marie Kondo's trademark motto of "spark joy" might not have been the way her siblings would have described her actions as a child, since she regularly raided their bedrooms to spirit away little-used toys and clothes, like a mini Zen Grinch in the night. But age has brought wisdom, and the world is ready to receive it, as evidenced by the runaway success of her first book, The Life-Changing Magic of Tidying Up. Let Kondo help you give the gift of clarity, awareness and a fresh start to someone you love. And watch out for her new book, Spark Joy, coming early in 2016.
 
@@ -49,7 +49,13 @@ Marie Kondo's trademark motto of "spark joy" might not have been the way her sib
 
 ### Booksellers Also Recommend
 
-Rethink - 9781452139197 One Year Wiser - 9781910593011 Felicity - 9781594206764 HT Split Wood Shuck An Oyster & Master - 9781616893996
+[![](/uploads/9781452139197.jpg)](http://www.brooklinebooksmith-shop.com/book/9781452139197)
+
+[![](/uploads/9781910593011.jpg)](http://www.brooklinebooksmith-shop.com/book/9781910593011)[![](/uploads/9781594206764.jpg)](http://www.brooklinebooksmith-shop.com/book/9781594206764)
+
+[![](/uploads/9781616893996.jpg)](http://www.brooklinebooksmith-shop.com/book/9781616893996)
+
+&nbsp;
 
 ---
 
