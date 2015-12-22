@@ -13,7 +13,7 @@ staff: '-staff-'
 
 **[![](/uploads/9781937006792.jpg)](http://www.brooklinebooksmith-shop.com/book/9781937006792)Inside the Now: Meditations on Time** by Thich Nhat Hanh ([Buy](http://www.brooklinebooksmith-shop.com/book/9781937006792))
 
-Perhaps Thich Nhat Hanh's most lyrical book, Inside the Now is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text Being Time, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
+Perhaps Thich Nhat Hanh's most lyrical book, *Inside the Now* is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text *Being Time*, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
 
 ---
 
@@ -31,19 +31,19 @@ After a lifetime of focusing on the intimate experiences of people in the most u
 
 **[![](/uploads/9781579656652.jpg)](http://www.brooklinebooksmith-shop.com/book/9781579656652)The Kinfolk Home: Interiors for Slow Living** by Nathan Williams&nbsp; ([Buy](http://www.brooklinebooksmith-shop.com/book/9781579656652))
 
-The emerging ethos of slow living, as illustrated by Kinfolk magazine, is embodied in thirty-five residences across five continents. Think of it as minimalism with a soft touch: living spaces are cleared of the non-essential, allowing the most necessary surfaces and tools for work, art and life to come into their own. Walking into The Kinfolk Home somehow feels like stepping outside for a cool breath of fresh air.
+The emerging ethos of slow living, as illustrated by Kinfolk magazine, is embodied in thirty-five residences across five continents. Think of it as minimalism with a soft touch: living spaces are cleared of the non-essential, allowing the most necessary surfaces and tools for work, art and life to come into their own. Walking into *The Kinfolk Home* somehow feels like stepping outside for a cool breath of fresh air.
 
 ---
 
 **[![](/uploads/9781617691515.jpg)](http://www.brooklinebooksmith-shop.com/book/9781617691515)The New Bohemians: Cool and Collected Homes** by Justina Blakeney ([Buy](http://www.brooklinebooksmith-shop.com/book/9781617691515))&nbsp;
 
-The New Bohemians will spark a chain reaction of creative redecorating in your home, we guarantee it. Scrub away the barriers between work and play; erase the distinction between living room and dining room; turn your home into an expression of your creative aspirations. Every page in this book is an inspiration, a carnival of color, texture, and playfully reimagined living space.
+*The New Bohemians* will spark a chain reaction of creative redecorating in your home, we guarantee it. Scrub away the barriers between work and play; erase the distinction between living room and dining room; turn your home into an expression of your creative aspirations. Every page in this book is an inspiration, a carnival of color, texture, and playfully reimagined living space.
 
 ---
 
 **[![](/uploads/9781607749721.jpg)](http://www.brooklinebooksmith-shop.com/book/9781607749721)Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up** by Marie Kondo ([Buy](http://www.brooklinebooksmith-shop.com/book/9781607749721))
 
-Marie Kondo's trademark motto of "spark joy" might not have been the way her siblings would have described her actions as a child, since she regularly raided their bedrooms to spirit away little-used toys and clothes, like a mini Zen Grinch in the night. But age has brought wisdom, and the world is ready to receive it, as evidenced by the runaway success of her first book, The Life-Changing Magic of Tidying Up. Let Kondo help you give the gift of clarity, awareness and a fresh start to someone you love. And watch out for her new book, Spark Joy, coming early in 2016.
+Marie Kondo's trademark motto of “spark joy” might not have been the way her siblings would have described her actions as a child, since she regularly raided their bedrooms to spirit away little-used toys and clothes, like a mini Zen Grinch in the night. But age has brought wisdom, and the world is ready to receive it, as evidenced by the runaway success of her first book, *The Life-Changing Magic of Tidying Up*. Let Kondo help you give the gift of clarity, awareness and a fresh start to someone you love. And watch out for her new book, Spark Joy, coming early in 2016.
 
 ---
 
