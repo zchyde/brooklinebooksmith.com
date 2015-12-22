@@ -65,25 +65,25 @@ Marie Kondo's trademark motto of “spark joy” might not have been the way her
 
 &nbsp;
 
-Gratitude Journal $14.95, 5-Year Journal $16.99
+**![](/uploads/versions/2015-holiday-gift-guide-gratitude-journal---x----500-564x---.jpeg)Gratitude Journal** $14.95, **5-Year Journal** $16.99
 
 Amid the chaos of the holidays it's easy to lose time for appreciation and reflection. Our Gratitude Journals give the chance to pause and recall what brings us joy - even when we feel overwhelmed by our shopping lists - while the Five-Year Journal provides a moment for one entry a day, one thought a day, one day at a time.
 
 ---
 
-**Artisan Dish** $14.95 **Wrapped Soap** $8.95
+**![](/uploads/versions/2015-holiday-gift-guide-artisan-dish---x----500-553x---.jpeg)Artisan Dish** $14.95 **Wrapped Soap** $8.95
 
 Sometimes our schedules leave us too harried to stop, breathe, and remember the joys of the season. These artisan dishes remind us of the beauty in even our smallest instruments. They are microwave and dishwasher safe for use with food and easy cleaning. Pair any dish with a handcrafted bar of soap for a nice gift set.
 
 ---
 
-**Charm Bracelets** $24.95
+**![](/uploads/versions/2015-holiday-gift-guide-charm-bracelets---x----500-388x---.jpeg)Charm Bracelets** $24.95
 
 Our 24k gold-plated Gift Charm Bracelets are a simple and thoughtful gift for a loved one this holiday. Inspirational reminders like "shoot for the moon", "the key to happiness" and "we are all made of stars" are just a few of the charming designs from this collection.
 
 ---
 
-**Yoga Mug** $14.95, Eco Candle $17.95 Matches $3.95
+**![](/uploads/versions/2015-holiday-gift-guide-yoga-mug---x----462-608x---.jpeg)Yoga Mug** $14.95, **Eco Candle**$17.95 **Matches** $3.95
 
 Zen for the holidays! Do your mind, body and soul some good during the dark winter. The How-To Yoga Mug comes equipped with a lotus yoga mat coaster and illustrates poses you can practice while burning your favorite calming candle. So don't just sip there, do some yoga!
 
