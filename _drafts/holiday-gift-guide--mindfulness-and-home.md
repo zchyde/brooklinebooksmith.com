@@ -71,19 +71,19 @@ Amid the chaos of the holidays it's easy to lose time for appreciation and refle
 
 ---
 
-Artisan Dish $14.95 Wrapped Soap $8.95
+**Artisan Dish** $14.95 **Wrapped Soap** $8.95
 
 Sometimes our schedules leave us too harried to stop, breathe, and remember the joys of the season. These artisan dishes remind us of the beauty in even our smallest instruments. They are microwave and dishwasher safe for use with food and easy cleaning. Pair any dish with a handcrafted bar of soap for a nice gift set.
 
 ---
 
-Charm Bracelets $24.95
+**Charm Bracelets** $24.95
 
 Our 24k gold-plated Gift Charm Bracelets are a simple and thoughtful gift for a loved one this holiday. Inspirational reminders like "shoot for the moon", "the key to happiness" and "we are all made of stars" are just a few of the charming designs from this collection.
 
 ---
 
-Yoga Mug $14.95, Eco Candle $17.95 Matches $3.95
+**Yoga Mug** $14.95, Eco Candle $17.95 Matches $3.95
 
 Zen for the holidays! Do your mind, body and soul some good during the dark winter. The How-To Yoga Mug comes equipped with a lotus yoga mat coaster and illustrates poses you can practice while burning your favorite calming candle. So don't just sip there, do some yoga!
 
@@ -93,12 +93,12 @@ Zen for the holidays! Do your mind, body and soul some good during the dark wint
 
 &nbsp;
 
-**Blankets** $24.95
+**![](/uploads/versions/2015-holiday-gift-guide-blankets---x----500-573x---.jpeg)Blankets** $24.95
 
 Wrap yourself in comfort this holiday with the ultra soft and warm Fuwa Fleece Blanket. Generously sized and multi-purpose, the blankets roll up with ease for travel and are available in a variety of designs (hand wash and hang dry recommended).
 
 ---
 
-**Kobito Room Shoes** $24.95
+**![](/uploads/versions/2015-holiday-gift-guide-kobito-room-shoes---x----500-259x---.jpeg)Kobito Room Shoes** $24.95
 
 The Kobito Room Shoes are crafted from a wool blend which keeps them cushy and cozy. Slip on the form-fitting shoes in the morning before breakfast and then again after a long night at the office holiday party. With a variety of colors and size options there's a pair for everyone in the family.
