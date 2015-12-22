@@ -11,15 +11,15 @@ category: ''
 staff: '-staff-'
 ---
 
-**[![](/uploads/9781937006792.jpg)](http://www.brooklinebooksmith-shop.com/book/9781937006792)Inside the Now: Meditations on Time** by Thich Nhat Hanh (Buy)
+**[![](/uploads/9781937006792.jpg)](http://www.brooklinebooksmith-shop.com/book/9781937006792)Inside the Now: Meditations on Time** by Thich Nhat Hanh ([Buy](http://www.brooklinebooksmith-shop.com/book/9781937006792))
 
 Perhaps Thich Nhat Hanh's most lyrical book, Inside the Now is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text Being Time, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
 
 ---
 
-**Lost Ocean: An Inky Adventure and Coloring Book** by Johanna Basford (Buy)
+**[![](/uploads/9780143108993.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143108993)Lost Ocean: An Inky Adventure and Coloring Book** by Johanna Basford ([Buy](http://www.brooklinebooksmith-shop.com/book/9780143108993))
 
-978-0143108993 Johanna Basford's newest coloring book invites us to take a plunge into the swirling ocean deep, where the only limit to our creativity is how economical we can be with a pencil sharpener. (we stock plenty of those, too.) Each turn of the page provides a whole new approach to coloring; her elegant line drawings might sprawl across the spread in a skyline of shells, or they might rise in a single strand of seahorses through the empty expanse. There is so much room to grow on these pages, just let go and stay inside the lines.
+Johanna Basford's newest coloring book invites us to take a plunge into the swirling ocean deep, where the only limit to our creativity is how economical we can be with a pencil sharpener. (we stock plenty of those, too.) Each turn of the page provides a whole new approach to coloring; her elegant line drawings might sprawl across the spread in a skyline of shells, or they might rise in a single strand of seahorses through the empty expanse. There is so much room to grow on these pages, just let go and stay inside the lines.
 
 ---
 
