@@ -11,7 +11,9 @@ category: ''
 staff: '-staff-'
 ---
 
-**Inside the Now: Meditations on Time** by Thich Nhat Hanh 978-1937006792 Perhaps Thich Nhat Hanh's most lyrical book, Inside the Now is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text Being Time, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
+**Inside the Now: Meditations on Time** by Thich Nhat Hanh 9781937006792
+
+Perhaps Thich Nhat Hanh's most lyrical book, Inside the Now is an artfully bound vessel filled with the wisdom earned by Hanh through countless hours of meditation. Inspired by the great 13th century Zen master Dogen's text Being Time, this book offers moments of laser-like focus and immeasurable space to the modern reader, equally suited to those who have logged many years on the cushion, or those who are just searching for a second of equanimity between tweets.
 
 ---
 
