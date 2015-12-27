@@ -7,8 +7,6 @@
 books
 - ISBN
 
-events (organized by year-month-alpha)
-
 posts
 
 landing_pages
