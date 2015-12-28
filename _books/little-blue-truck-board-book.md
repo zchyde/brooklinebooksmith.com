@@ -1,7 +1,7 @@
 ---
 title: Little Blue Truck Board Book
-isbn: null
-binding: null
-image_path: null
+isbn: '9780544568037'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/037/568/9780544568037.jpg'
 ---
 
