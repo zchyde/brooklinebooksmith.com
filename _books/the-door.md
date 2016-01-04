@@ -1,7 +1,7 @@
 ---
 title: The Door
-isbn: null
-binding: null
-image_path: null
+isbn: '9781590177716'
+binding: Paperback
+image_path: 'http://images.booksense.com/images/716/177/9781590177716.jpg'
 ---
 
