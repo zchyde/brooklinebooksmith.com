@@ -22,6 +22,10 @@
     {% include {{ page.include }} %}
   {% endif %}
 
+  {% if page.books %}
+    {% include _format-list-books.html %}
+  {% endif %}
+
   {% if page.category %}
     <div class="cards">
       {% for object in category_posts %}
