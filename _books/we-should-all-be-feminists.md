@@ -1,7 +1,7 @@
 ---
 title: We Should All Be Feminists
-isbn: null
-binding: null
-image_path: null
+isbn: '9781101911761'
+binding: Paperback
+image_path: 'http://images.booksense.com/images/761/911/9781101911761.jpg'
 ---
 
