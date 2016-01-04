@@ -100,7 +100,9 @@
 
 .boxes-3-across {
   margin-bottom: 2em;
-
+div.form-email {
+  width: 100%;
+}
   img {
     width:100%;
   }
@@ -121,5 +123,15 @@ body.kidsmith {
   aside.page {
     padding:1em;
     background-color: $base-background-color;
+  }
+}
+.row-social {
+  margin:6em auto 0 auto;
+  padding-top:4em;
+  width:100%;
+  background-color:#00557F;//#3B5998;
+  min-height:300px;
+  h5 {
+    color:white;
   }
 }
