@@ -1211,8 +1211,7 @@ html, body {
   padding: 1.6rem 1.6rem 3.2rem 1.6rem;
   margin-bottom: -.375em;
   width: 100%;
-  display: inline-block;
-  border-bottom: 6px solid #d0d0d0; }
+  display: inline-block; }
   .footer-2 ul {
     line-height: 1.5em;
     margin: 0 0 1em 0;
