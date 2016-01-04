@@ -1,7 +1,7 @@
 ---
-title: Is Everyone Hanging Out Without Me?
-isbn: null
-binding: null
-image_path: null
+title: Is Everyone Hanging Out Without Me? (and Other Concerns)
+isbn: '9780307886279'
+binding: Paperback
+image_path: 'http://images.booksense.com/images/279/886/9780307886279.jpg'
 ---
 
