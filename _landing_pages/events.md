@@ -7,5 +7,6 @@ featured_image_credit: '[Liz Linder](http://lizlinder.com)'
 fancy_font: Cabin-sketch
 include: events/list-future.html
 aside: '_Please note that Brookline parking meters run **as late as 8pm** Monday through Saturday._'
+regenerate: true
 ---
 
