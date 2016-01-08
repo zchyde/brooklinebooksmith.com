@@ -1,7 +1,7 @@
 ---
 title: Paper Towns
-isbn: null
-binding: null
-image_path: null
+isbn: '9780142414934'
+binding: Paperback
+image_path: 'http://images.booksense.com/images/934/414/9780142414934.jpg'
 ---
 
