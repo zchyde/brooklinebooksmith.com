@@ -8,7 +8,7 @@ category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
 comments: false
 staff: '-staff-'
-excerpt: From Picture Books to YA and Graphica
+description: From Picture Books to YA and Graphica
 ---
 
 ### PICTURE BOOKS (ages 4-8)

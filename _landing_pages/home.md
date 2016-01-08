@@ -20,7 +20,7 @@ Paperback:
   - 9781590177716
 permalink: /
 layout: home
-excerpt: ''
+description: ''
 regenerate: true
 ---
 

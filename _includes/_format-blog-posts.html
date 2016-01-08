@@ -35,9 +35,9 @@
          by <strong>{{ post_author }}</strong>
       {% endif %}
     </p>
-    {% if object.excerpt and object.excerpt != '' %}
+    {% if object.description and object.description != '' %}
       <p>
-        {{ object.excerpt | markdownify | strip_html | truncatewords: 90, '…' }}
+        {{ object.description | markdownify | strip_html | truncatewords: 90, '…' }}
       </p>
     {% endif %}
   </div>

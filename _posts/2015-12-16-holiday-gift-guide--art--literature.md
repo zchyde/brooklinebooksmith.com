@@ -2,7 +2,7 @@
 title: 'Holiday Gift Guide — Art & Literature'
 published: true
 date: 2015-12-16T11:55:00.000Z
-excerpt: ''
+description: ''
 featured_image_path: /uploads/2015-holiday-gift-guide-banner-cover-punbook.jpg
 featured_image_position: 35
 image_path: ''

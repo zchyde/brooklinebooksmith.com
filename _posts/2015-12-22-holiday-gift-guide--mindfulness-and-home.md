@@ -2,7 +2,7 @@
 title: Holiday Gift Guide — Mindfulness and Home
 published: true
 date: 2015-12-22T00:00:00.000Z
-excerpt: ''
+description: ''
 featured_image_path: /uploads/2015-holiday-gift-guide-banner.jpg
 featured_image_position: 50
 image_path: ''

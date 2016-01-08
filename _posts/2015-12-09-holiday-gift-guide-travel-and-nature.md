@@ -2,7 +2,7 @@
 title: 'Holiday Gift Guide — Travel & Nature'
 published: true
 date: 2015-12-08T00:00:00.000Z
-excerpt: ''
+description: ''
 featured_image_path: 'http://images.brooklinebooksmith.com/2015-gift-guide-travel-cabin-porn.jpg'
 featured_image_position: 50
 image_path: ''
