@@ -1,7 +1,7 @@
 {% for link in site.data.navigation %}
   {% if link.name %}
     <li class="nav-link">
-      <a href="{{site.baseurl}}{{link.link}}" class="nav-link{% if link.link contains page.url %} active{% endif %}">
+      <a href="{{site.baseurl}}{{link.link}}" class="nav-link{% if link.link contains page.url %} active{% endif %}" onclick="trackOutboundLink('{{link.link}}'); return false;">
         {{ link.name }}
       </a>
     </li>
@@ -11,7 +11,7 @@
     <ul class="submenu">
       {% for link in site.data.navigation-more %}
         {% if link.name %}
-          <li><a href="{{link.link}}">{{ link.name }}</a></li>
+          <li><a href="{{link.link}}" onclick="trackOutboundLink('{{link.link}}'); return false;">{{ link.name }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
