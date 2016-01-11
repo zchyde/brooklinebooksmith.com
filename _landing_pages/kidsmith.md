@@ -11,11 +11,11 @@ follow: true
 aside: "###### [![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
 Kids:
   - 9780803741713
-  - 9780670451494
+  - 9780140564341
   - 9781419717017
   - 9781481438414
   - 9781250075963
-  - 9780140501827
+  - 9780670867332
   - 9780545685443
   - 9781492622468
   - 9781465438164
