@@ -24,17 +24,17 @@ bindings:
 ## DO NOT EDIT BELOW THIS LINE
 images_domain: http://images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
+incremental: true
 full_rebuild: false
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 env: development
 url: http://www.brooklinebooksmith.com
 sitename: brookline booksmith
 timezone: Etc/Zulu
-paginate: 20
+paginate: 40
 paginate_path: "/blog/page-:num/"
-include:
-  - _pages
 exclude:
   - readme.md
   - todo.md
