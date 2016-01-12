@@ -25,16 +25,16 @@ bindings:
 images_domain: http://images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
 incremental: true
-full_rebuild: false
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
+# full_rebuild: false
+##### gems:
+  ##### - jekyll-paginate
+  ##### - jekyll-sitemap
 env: development
 url: http://www.brooklinebooksmith.com
 sitename: brookline booksmith
 timezone: Etc/Zulu
-paginate: 40
-paginate_path: "/blog/page-:num/"
+##### paginate: 40
+##### paginate_path: "/blog/page-:num/"
 exclude:
   - readme.md
   - todo.md
