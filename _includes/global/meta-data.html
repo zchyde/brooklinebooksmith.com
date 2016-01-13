@@ -2,8 +2,8 @@
 {% if site.sitename %}
   <meta content="{{ site.sitename }}" property="og:site_name">
 {% endif %}
-{% if page.description and page.description !='' %}
-  <meta property="og:description" content="{{ page.description | strip_html | escape }}">
+{% if page.excerpt  %}
+  <meta property="og:description" content="{{ page.excerpt | strip_html | escape }}">
 {% elsif site.description %}
   <meta property="og:description" content="{{ site.description | strip_html | escape }}">
 {% endif %}
