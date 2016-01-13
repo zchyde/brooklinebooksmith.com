@@ -1,6 +1,6 @@
 ---
 title: '**Dr. James J. O’Connell** *Stories from the Shadows: Reflections of a Street Doctor*'
-published: true
+published: false
 start_at: 2016-02-01T19:00:00.000Z
 book_category: HEALTH/MEMOIR
 program: '-writers-and-readers'
