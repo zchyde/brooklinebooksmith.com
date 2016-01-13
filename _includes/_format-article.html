@@ -18,8 +18,14 @@
     </div>
   {% endif %}
 
-  {% if page.include %}
-    {% include {{ page.include }} %}
+  {% comment %}
+    if page.include
+      include {{ page.include }}
+    endif
+   {% endcomment %}
+
+  {% if page.include == 'events/list-future.html' %}
+     {% include events/list-future.html %}
   {% endif %}
 
   {% if page.books %}
