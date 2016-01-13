@@ -1,3 +1,4 @@
+
 <a href="{{ object.url }}" class="card" id="{{ object.url | slugify }}">
 
 
@@ -9,18 +10,20 @@
     {% endif %}
     >
     {% unless object.featured_image_path or object.image_path %}
+    {% if object.title %}
       <h4 class="brand">
         {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
       </h4>
+    {% endif %}
     {% endunless %}
   </div>
 
   {% comment %}
-  {% if object.featured_image_path %}
+  if object.featured_image_path
     <div class="card-header">
       <h6 class="brand" style="margin:0;">{{ object.title }}</h6>
     </div>
-    {% endif %}
+     endif
   {% endcomment %}
   <div class="card-copy">
     {% if object.title and object.featured_image_path or object.image_path%}

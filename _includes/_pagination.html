@@ -1,9 +1,10 @@
 <!-- Pagination links -->
 <div class="pagination">
-  <div class="row" style="margin-bottom:.25em;">
-    <strong class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</strong>
-  </div>
-
+  {% if paginator.page %}
+    <div class="row" style="margin-bottom:.25em;">
+      <strong class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</strong>
+    </div>
+  {% endif %}
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       <strong type="button" name="button">

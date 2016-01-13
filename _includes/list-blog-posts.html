@@ -7,8 +7,10 @@
   {% assign news = paginator.posts %}
 {% endif %}
 <div class="cards">
-  {% for object in news %}
-    {% include _format-blog-posts.html %}
-  {% endfor %}
+  {% if news %}
+    {% for object in news %}
+      {% include _format-blog-posts.html %}
+    {% endfor %}
+  {% endif %}
 </div>
 {% include _pagination.html %}

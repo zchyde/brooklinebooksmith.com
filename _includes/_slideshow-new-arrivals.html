@@ -6,7 +6,7 @@
   data-flickity-options='{ "imagesLoaded": true,  "percentPosition": false ,"lazyLoad": 2, "initialIndex": 2, "wrapAround": true}'>
   {% for book in new_arrivals %}
     {% assign books = site.books | where: 'isbn', book %}
-    {% for object in books  %}
+    {% for object in books  limit:12 %}
       <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank" class="gallery-cell">
         <img
           class="gallery-cell-image"
@@ -23,7 +23,7 @@
 </div>
   <noscript>
 <div class="gallery" style="overflow:hidden;">
-  {% for book in new_arrivals %}
+  {% for book in new_arrivals limit:12 %}
     {% assign books = site.books | where: 'isbn', book %}
     {% for object in books  %}
       {% if object.image_path and object.image_path !='' %}

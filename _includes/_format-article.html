@@ -27,6 +27,10 @@
   {% if page.include == 'events/list-future.html' %}
      {% include events/list-future.html %}
   {% endif %}
+  
+  {% if page.include == 'list-blog-posts.html' %}
+     {% include list-blog-posts.html %}
+  {% endif %}
 
   {% if page.books %}
     {% include _format-list-books.html %}
