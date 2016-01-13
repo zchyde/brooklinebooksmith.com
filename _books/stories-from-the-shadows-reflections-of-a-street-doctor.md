@@ -1,7 +1,7 @@
 ---
 title: 'Stories from the Shadows: Reflections of a Street Doctor'
-isbn: null
-binding: null
-image_path: null
+isbn: ''
+binding: Hardcover
+image_path: /uploads/cover-stories-from-the-shadows.jpg
 ---
 
