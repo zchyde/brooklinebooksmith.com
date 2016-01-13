@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="has-layout__full-width layout-three-column">
-  <aside class="top{% if page.aside %} content-aside{% endif %}">
-    {% if page.aside %}
-      {{ page.aside | markdownify }}
+  <aside class="top{% if page.description  %} content-aside{% endif %}">
+    {% if page.description  %}
+      {{ page.description  | markdownify }}
     {% endif %}
     &nbsp;
     {% assign category_posts = site.posts | where: 'category', page.category %}
@@ -23,9 +23,9 @@ layout: default
   <article class="hentry">
     {% include _format-article.html %}
   </article>
-  <aside class="bottom{% if page.aside-bottom or page.include_aside %} content-aside{% endif %}">
-    {% if page.include_aside %}
-        {% include {{ page.include_aside }} %}
+  <aside class="bottom{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
+    {% if page.include_description %}
+        {% include {{ page.include_description }} %}
     {% endif %}
     &nbsp;
     {% if page.featured_image_credit %}

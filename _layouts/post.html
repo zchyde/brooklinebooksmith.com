@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="has-layout__full-width layout-three-column">
   <aside class="top">
-    {% if page.aside %}
-      {{ page.aside | markdownify }}
+    {% if page.description  %}
+      {{ page.description  | markdownify }}
     {% endif %}
     {% capture page_categories %}{{ page.categories }}{% endcapture %}
           <h4>{{ page_categories | replace: '-', ' ' | capitalize }}</h4>

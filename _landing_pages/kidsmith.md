@@ -6,9 +6,9 @@ featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
 fancy_font: Cabin-sketch
 category: kidsmith
 layout: page-category
-include_aside: events/kids.html
+include_description: events/kids.html
 follow: true
-aside: "###### [![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
+description: "###### [![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)"
 Kids:
   - 9780803741713
   - 9780140564341
