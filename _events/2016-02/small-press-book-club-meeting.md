@@ -1,7 +1,7 @@
 ---
 title: Small Press Book Club Meeting
-published: false
-start_at: 2016-01-19T19:00:00.000Z
+published: true
+start_at: 2016-02-18T19:00:00.000Z
 program: small-press-book-club
 ticketed: false
 ---
