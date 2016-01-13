@@ -1,6 +1,6 @@
 ---
 title: She Writes Press Night
-published: true
+published: false
 start_at: 2016-02-05T19:00:00.000Z
 image_path: ''
 book_category: ''
