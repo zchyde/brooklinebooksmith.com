@@ -1,5 +1,5 @@
 ---
-title: '**Dr. James J. O’Connell**, *Stories from the Shadows: Reflections of a Street Doctor* appearing in conversation with James Parker'
+title: '**Dr. James J. O’Connell**, *Stories from the Shadows: Reflections of a Street Doctor*, appearing in conversation with James Parker'
 published: true
 start_at: 2016-02-01T19:00:00.000Z
 book_category: HEALTH/MEMOIR
