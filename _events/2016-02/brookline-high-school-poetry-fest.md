@@ -1,7 +1,7 @@
 ---
 title: Brookline High School Poetry Fest
-published: false
-start_at: 2016-02-01T19:00:00.000Z
+published: true
+start_at: 2016-02-25T19:00:00.000Z
 image_path: ''
 book_category: ''
 program: '-writers-and-readers'
@@ -10,4 +10,4 @@ book_isbn:
   - ''
 ---
 
-
+Join us for the 21st annual Brookline High School Poetry Fest, as the budding young Poets of Brookline grace our podium.
