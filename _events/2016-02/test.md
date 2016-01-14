@@ -7,6 +7,7 @@ book_category: ''
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
-  - ''
+  - fff
+  - '33'
 ---
 
