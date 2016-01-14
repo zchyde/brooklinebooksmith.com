@@ -42,22 +42,23 @@
     {% endcomment %}
     {% if event.image_path and event.image_path !='' %}
       <div class="" style="float:left:margin-right:1em;">
-        <img class="image-small" src="{{ event.image_path }}" alt="{{ event.title }}" />
+        <img class="image-small" src="{{ event.image_path }}" alt="{{ event.title }} image" />
       </div>
-    {% elsif related_books_isbn.size > 0 %}
-      <div class="" style="float:left:margin-right:1em;">
+    {% endif %}
+    {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
+
+      <div style="float:left:margin-right:1em;">
         {% for isbn in related_books_isbn %}
-          {% if isbn %}
-            {% capture the_isbn %}{{isbn}}{% endcapture %}
-            {% assign related_books = site.books | where: 'isbn', the_isbn %}
-            {% for object in related_books %}
-              {% if object.image_path %}
-                <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ object.image_path }}" alt="{{ object.title }}" />
+          {% if isbn != '' %}
+            {% assign related_books = site.books | where: 'isbn', isbn %}
+            {% for book in related_books %}
+              {% if book.image_path %}
+                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
+                  <img class="image-cover-small" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}" />
                 </a>
-              {% elsif object.isbn %}
-                <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ object.isbn }}.jpg" alt="{{ object.title }}" />
+              {% elsif book.isbn %}
+                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
+                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn" />
                 </a>
               {% endif %}
             {% endfor %}
