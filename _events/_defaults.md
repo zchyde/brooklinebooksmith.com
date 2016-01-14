@@ -6,6 +6,8 @@ image_path: ''
 book_category: ''
 program: '-writers-and-readers'
 ticketed: false
+books:
+  - 
 book_isbn:
   - ''
 ---
