@@ -1,6 +1,6 @@
 ---
 title: '**Lauret Savoy** *Trace: Memory, History, Race, and the American Landscape*'
-published: false
+published: true
 start_at: 2016-02-23T19:00:00.000Z
 image_path: ''
 book_category: NATURE/HISTORY

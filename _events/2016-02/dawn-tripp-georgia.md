@@ -1,6 +1,6 @@
 ---
 title: '**Dawn Tripp** *Georgia*'
-published: false
+published: true
 start_at: 2016-02-29T19:00:00.000Z
 image_path: ''
 book_category: FICTION

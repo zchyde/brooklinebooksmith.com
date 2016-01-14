@@ -6,8 +6,6 @@ image_path: ''
 book_category: ''
 program: '-writers-and-readers'
 ticketed: false
-book_isbn:
-  - ''
 ---
 
 Join us for the 21st annual Brookline High School Poetry Fest, as the budding young Poets of Brookline grace our podium.
