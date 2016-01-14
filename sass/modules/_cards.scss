@@ -140,6 +140,9 @@ $card_padding: 0 2em 0 2em;
       font-size: 0.875rem;
       margin: 0 0 ($base-spacing / 2);
       color: $base-font-color;
+      img {
+        max-height: 225px;
+      }
     }
     img {
       max-height: 225px;
@@ -151,7 +154,7 @@ $card_padding: 0 2em 0 2em;
     //cursor: pointer;
 
     img {
-      opacity: $card-image-hover-opacity;
+      //opacity: $card-image-hover-opacity; this doesn't look good
     }
   }
 

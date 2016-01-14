@@ -1161,8 +1161,10 @@ aside.bottom .content-aside {
       font-size: 0.875rem;
       margin: 0 0 0.8rem;
       color: #555; }
-  .card:focus img, .card:hover img, a.card:focus img, a.card:hover img {
-    opacity: 0.7; }
+      .card .card-copy p img, a.card .card-copy p img {
+        max-height: 225px; }
+    .card .card-copy img, a.card .card-copy img {
+      max-height: 225px; }
   .card:active, a.card:active {
     background-color: white; }
     .card:active .card-header, a.card:active .card-header {

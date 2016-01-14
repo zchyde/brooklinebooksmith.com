@@ -6,4 +6,4 @@ book_category: HEALTH/MEMOIR
 program: '-writers-and-readers'
 ticketed: false
 ---
-Dr. O’Connell’s collection of stories and essays, written during 30 years of caring for homeless persons in Boston, gently illuminates the humanity and raw courage of those who struggle to survive and find hope while living on the streets.
+![](/uploads/versions/cover-stories-from-the-shadows---x0-0-300-452-300-452x---.jpg) Dr. O’Connell’s collection of stories and essays, written during 30 years of caring for homeless persons in Boston, gently illuminates the humanity and raw courage of those who struggle to survive and find hope while living on the streets.
