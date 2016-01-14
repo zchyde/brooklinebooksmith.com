@@ -1,14 +1,17 @@
 ---
 title: test draft
 published: false
-date: null
-description: null
-featured_image_path: null
+date: 2016-01-31T00:00:00.000Z
+description: this is a description.
+featured_image_path: ''
 featured_image_position: 50
-image_path: null
-fancy_font: null
-category: null
-staff: null
+image_path: ''
+fancy_font: Cabin-sketch
+category: kidsmith
+staff: alex-s
 books:
-  - null
+  - fff
+  - fff
 ---
+
+This is a test post.
