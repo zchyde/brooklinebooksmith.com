@@ -6,9 +6,8 @@ image_path: ''
 book_category: ''
 program: '-writers-and-readers'
 ticketed: false
-books: null
+books: georgia-a-novel-of-georgia-okeeffe
 book_isbn:
   - ''
 ---
-
 
