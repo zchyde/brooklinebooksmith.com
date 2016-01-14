@@ -135,11 +135,14 @@ $card_padding: 0 2em 0 2em;
     //font-size: 0.9375em;
     line-height: 1.5em;
     padding: $card_padding;
-      margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned
+    margin-bottom: $card-footer-height; // to make room for the footer, which is absolutely positioned
     p {
       font-size: 0.875rem;
       margin: 0 0 ($base-spacing / 2);
       color: $base-font-color;
+    }
+    img {
+      max-height: 225px;
     }
   }
 
