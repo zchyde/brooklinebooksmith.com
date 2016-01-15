@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Vignettes
 date: '2014-03-26T17:30:00.001-04:00'
 author: Jamie

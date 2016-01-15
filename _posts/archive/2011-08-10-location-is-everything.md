@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Location is everything
 date: '2011-08-10T17:59:00.000-04:00'
 author: Emily

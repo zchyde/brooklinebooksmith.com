@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Year is Half Over...How Did That Happen?
 date: '2008-06-03T18:25:00.007-04:00'
 author: Lori

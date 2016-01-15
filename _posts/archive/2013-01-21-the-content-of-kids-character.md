@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The content of kids' character
 date: '2013-01-21T08:00:00.000-05:00'
 author: Shoshana

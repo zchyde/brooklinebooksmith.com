@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: You know you need a beach read.
 date: '2011-06-07T21:46:00.000-04:00'
 author: Shoshana

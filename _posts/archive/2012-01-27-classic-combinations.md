@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Classic Combinations
 date: '2012-01-27T12:35:00.000-05:00'
 author: Natasha

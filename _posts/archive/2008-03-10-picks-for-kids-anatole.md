@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Picks for Kids--Anatole
 date: '2008-03-10T17:02:00.009-04:00'
 author: Lori

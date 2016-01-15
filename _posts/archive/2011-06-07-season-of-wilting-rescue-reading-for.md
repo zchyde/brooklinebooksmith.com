@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Season of wilting. Rescue-reading for summer-haytaz.
 date: '2011-06-07T12:56:00.017-04:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: East Anglia'
 date: '2012-01-24T13:46:00.000-05:00'
 author: Jodie

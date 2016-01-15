@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'SAMURAI!!! Or, Destination of the Month: Japan'
 date: '2013-04-16T09:00:00.000-04:00'
 author: Jodie

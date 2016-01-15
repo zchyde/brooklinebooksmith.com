@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What I'm Taking on My Summer Vacation.
 date: '2012-06-23T08:00:00.000-04:00'
 author: Zoe Hyde

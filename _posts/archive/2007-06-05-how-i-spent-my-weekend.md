@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: How I Spent My Weekend
 date: '2007-06-05T18:09:00.000-04:00'
 author: Lori

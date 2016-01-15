@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What's New in the Travel Section
 date: '2013-12-26T10:48:00.000-05:00'
 author: Natasha

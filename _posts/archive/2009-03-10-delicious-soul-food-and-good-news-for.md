@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Delicious Soul Food (and good news for vegans!)
 date: '2009-03-10T18:32:00.010-04:00'
 author: Lori

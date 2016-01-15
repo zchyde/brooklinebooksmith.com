@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Periodicals
 date: '2010-07-18T06:38:00.000-04:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Picks for Kids--A Great and Terrible Beauty
 date: '2008-03-07T17:46:00.010-05:00'
 author: Lori

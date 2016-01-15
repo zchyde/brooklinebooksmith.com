@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Now you can use your Booksmith gift card to buy an e-book!
 date: '2011-05-18T09:03:00.005-04:00'
 author: Kate Robinson

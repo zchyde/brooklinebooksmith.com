@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Happy Birthday, Dr. Seuss!
 date: '2010-03-03T11:36:00.004-05:00'
 author: Emily

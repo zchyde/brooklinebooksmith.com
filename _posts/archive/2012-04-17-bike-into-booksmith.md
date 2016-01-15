@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Bike into Booksmith
 date: '2012-04-17T15:07:00.000-04:00'
 author: Jodie

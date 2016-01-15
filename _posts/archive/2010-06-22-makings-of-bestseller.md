@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Makings of a Bestseller
 date: '2010-06-22T16:55:00.004-04:00'
 author: Eugenia

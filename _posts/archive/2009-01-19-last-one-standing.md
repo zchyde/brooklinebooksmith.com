@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Last One Standing
 date: '2009-01-19T17:09:00.005-05:00'
 author: Lori

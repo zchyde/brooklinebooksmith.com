@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: There's a used book for that
 date: '2013-03-01T12:56:00.001-05:00'
 author: Natasha

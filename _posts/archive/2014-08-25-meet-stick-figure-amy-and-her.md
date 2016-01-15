@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Meet Stick Figure Amy and Her Bookselling Woe
 date: '2014-08-25T08:00:00.000-04:00'
 author: Amy

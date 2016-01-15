@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: History class
 date: '2011-03-08T19:42:00.004-05:00'
 author: Liz T.

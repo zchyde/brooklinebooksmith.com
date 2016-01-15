@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Children's Book Festival
 date: '2008-09-04T14:05:00.003-04:00'
 author: Lori

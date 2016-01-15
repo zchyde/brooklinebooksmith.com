@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Book Expo America
 date: '2010-05-30T17:07:00.002-04:00'
 author: dana brigham

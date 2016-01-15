@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Bookselling: An Informative Guide'
 date: '2013-11-30T09:54:00.004-05:00'
 author: Jamie

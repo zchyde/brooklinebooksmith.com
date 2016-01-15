@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Bedtime! (but I wanted to...)
 date: '2010-08-11T21:43:00.006-04:00'
 author: Emily

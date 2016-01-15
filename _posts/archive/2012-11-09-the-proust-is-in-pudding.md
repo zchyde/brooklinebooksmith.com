@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Proust is in the Pudding
 date: '2012-11-09T11:33:00.000-05:00'
 author: Natasha

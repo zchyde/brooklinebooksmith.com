@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Thrill of The Hunt
 date: '2010-06-21T13:26:00.005-04:00'
 author: Carl

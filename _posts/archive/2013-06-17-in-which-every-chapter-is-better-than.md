@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"In which every chapter is better than the one before"'
 date: '2013-06-17T16:30:00.001-04:00'
 author: Tess Williams

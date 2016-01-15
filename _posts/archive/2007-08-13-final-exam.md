@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Final Exam
 date: '2007-08-13T17:16:00.000-04:00'
 author: Lori

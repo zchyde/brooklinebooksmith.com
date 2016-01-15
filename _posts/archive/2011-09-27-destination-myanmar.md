@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Myanmar'
 date: '2011-09-27T20:00:00.016-04:00'
 author: Jodie

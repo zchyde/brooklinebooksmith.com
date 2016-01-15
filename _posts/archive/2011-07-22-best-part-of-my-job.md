@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Best part of my job.
 date: '2011-07-22T19:15:00.003-04:00'
 author: Paul Theriault

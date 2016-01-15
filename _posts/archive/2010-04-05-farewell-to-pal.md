@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Farewell To A Pal
 date: '2010-04-05T22:54:00.007-04:00'
 author: Carl

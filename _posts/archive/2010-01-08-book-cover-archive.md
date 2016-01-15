@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Book Cover Archive
 date: '2010-01-08T22:00:00.003-05:00'
 author: Carl

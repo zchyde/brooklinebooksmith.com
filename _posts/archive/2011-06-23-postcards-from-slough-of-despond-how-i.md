@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Postcards from the Slough of Despond: how I kill vacationing right dead with
   my skills.'
 date: '2011-06-23T16:52:00.004-04:00'

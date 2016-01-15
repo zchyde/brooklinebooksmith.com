@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: But wait...Is That a Beach Read?
 date: '2014-07-07T09:00:00.000-04:00'
 author: Amy

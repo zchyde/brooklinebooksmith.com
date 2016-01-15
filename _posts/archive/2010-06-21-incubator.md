@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Incubator
 date: '2010-06-21T07:22:00.002-04:00'
 author: dana brigham

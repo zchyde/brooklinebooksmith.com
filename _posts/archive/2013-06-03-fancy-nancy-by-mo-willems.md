@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Fancy Nancy by Mo Willems ... ?
 date: '2013-06-03T15:44:00.002-04:00'
 author: Tess Williams

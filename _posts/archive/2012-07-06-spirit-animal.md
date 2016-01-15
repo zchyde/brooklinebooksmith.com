@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Spirit Animal
 date: '2012-07-06T11:50:00.000-04:00'
 author: Natasha

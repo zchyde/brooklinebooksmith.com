@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Curious George Finds a Final Resting Place
 date: '2010-12-31T11:09:00.004-05:00'
 author: Paul Theriault

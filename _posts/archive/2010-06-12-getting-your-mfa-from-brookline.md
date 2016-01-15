@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Getting your MFA from the Brookline Booksmith
 date: '2010-06-12T15:08:00.002-04:00'
 author: Kate Robinson

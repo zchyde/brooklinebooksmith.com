@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Give me a better word.
 date: '2010-10-01T13:59:00.002-04:00'
 author: Paul Theriault

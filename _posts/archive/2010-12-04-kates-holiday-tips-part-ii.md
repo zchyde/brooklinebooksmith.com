@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Kate's Holiday Tips Part II
 date: '2010-12-04T08:55:00.006-05:00'
 author: Kate Robinson

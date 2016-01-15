@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Got You In My Rolodex
 date: '2010-07-05T14:23:00.005-04:00'
 author: Carl

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What's A New Cover Worth?
 date: '2007-05-07T19:06:00.000-04:00'
 author: Lori

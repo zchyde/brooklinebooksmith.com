@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Its "LBABLTKYLOLOFLTSL-week!"
 date: '2010-05-17T13:24:00.003-04:00'
 author: Carl

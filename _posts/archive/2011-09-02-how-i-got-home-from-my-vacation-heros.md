@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'How I Got Home From My Vacation: A Hero''s Journey'
 date: '2011-09-02T01:08:00.003-04:00'
 author: Zoe Hyde

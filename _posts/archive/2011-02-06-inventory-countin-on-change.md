@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Inventory, countin' on change....
 date: '2011-02-06T13:06:00.006-05:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Book Sense Picks Scent! Yay!
 date: '2007-10-12T12:31:00.000-04:00'
 author: Lori

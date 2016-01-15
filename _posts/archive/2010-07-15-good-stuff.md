@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Good stuff.
 date: '2010-07-15T13:45:00.009-04:00'
 author: Katie

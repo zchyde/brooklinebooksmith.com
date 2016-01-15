@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: don't judge a book by its....you know
 date: '2010-11-19T12:30:00.003-05:00'
 author: Amanda

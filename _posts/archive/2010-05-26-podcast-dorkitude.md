@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Podcast Dorkitude
 date: '2010-05-26T19:07:00.003-04:00'
 author: Eugenia

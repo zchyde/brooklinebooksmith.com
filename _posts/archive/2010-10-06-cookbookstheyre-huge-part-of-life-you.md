@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: cookbooks...they're a huge part of life, you know?
 date: '2010-10-06T10:32:00.003-04:00'
 author: Emily

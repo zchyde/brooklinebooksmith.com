@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Sunny afternoons with miles of women.  Booksmith Life.
 date: '2010-04-10T16:01:00.008-04:00'
 author: Paul Theriault

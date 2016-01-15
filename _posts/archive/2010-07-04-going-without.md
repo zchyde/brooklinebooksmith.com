@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Going Without
 date: '2010-07-04T09:31:00.008-04:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: So was the Turnpike from Stockbridge to Boston
 date: '2010-02-28T16:07:00.003-05:00'
 author: dana brigham

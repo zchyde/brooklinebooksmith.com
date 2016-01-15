@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thanksgiving Means 25 More Days...
 date: '2010-11-24T11:48:00.000-05:00'
 author: Emily

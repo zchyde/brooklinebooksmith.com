@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: See, Spot, Read
 date: '2011-11-04T08:00:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 2nd Place Poem!!!!
 date: '2011-05-16T14:18:00.005-04:00'
 author: Kate Robinson

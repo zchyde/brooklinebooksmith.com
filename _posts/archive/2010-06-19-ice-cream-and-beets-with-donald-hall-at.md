@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Ice cream and beets with Donald Hall at Bennington
 date: '2010-06-19T09:25:00.010-04:00'
 author: Kate Robinson

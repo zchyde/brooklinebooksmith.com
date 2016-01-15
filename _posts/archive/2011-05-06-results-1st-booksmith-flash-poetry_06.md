@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Results: 1st Booksmith Flash Poetry Prize'
 date: '2011-05-06T16:20:00.004-04:00'
 author: Kate Robinson

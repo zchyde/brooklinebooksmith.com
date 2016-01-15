@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Not every fall book is about goblins and bad little witches...
 date: '2010-10-27T16:34:00.004-04:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Building A Library
 date: '2010-07-27T17:04:00.011-04:00'
 author: Liz T.

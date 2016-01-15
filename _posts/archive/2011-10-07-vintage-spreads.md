@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Vintage Spreads
 date: '2011-10-07T08:00:00.000-04:00'
 author: Natasha

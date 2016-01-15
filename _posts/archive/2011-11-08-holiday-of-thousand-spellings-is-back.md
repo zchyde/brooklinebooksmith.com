@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The holiday of a thousand spellings is back!
 date: '2011-11-08T19:17:00.002-05:00'
 author: Shoshana

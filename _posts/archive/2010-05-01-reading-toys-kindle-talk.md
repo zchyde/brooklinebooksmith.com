@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Reading Toys. (kindle talk.)
 date: '2010-05-01T10:18:00.010-04:00'
 author: Kate Robinson

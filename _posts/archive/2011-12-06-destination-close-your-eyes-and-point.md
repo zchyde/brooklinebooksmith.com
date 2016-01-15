@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Close Your Eyes and Point'
 date: '2011-12-06T18:09:00.020-05:00'
 author: Jodie

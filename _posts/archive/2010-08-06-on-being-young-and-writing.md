@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On Being Young and Writing
 date: '2010-08-06T03:25:00.002-04:00'
 author: Evan

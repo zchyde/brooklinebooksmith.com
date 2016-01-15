@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Doonesbury Turns 40
 date: '2010-11-01T15:28:00.002-04:00'
 author: dana brigham

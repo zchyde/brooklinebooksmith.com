@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Certain Kind of Shorthand
 date: '2013-03-21T18:13:00.001-04:00'
 author: Jamie

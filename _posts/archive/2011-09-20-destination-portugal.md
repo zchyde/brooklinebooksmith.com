@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Portugal'
 date: '2011-09-20T19:02:00.013-04:00'
 author: Jodie

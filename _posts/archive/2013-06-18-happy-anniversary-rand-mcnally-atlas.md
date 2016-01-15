@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Happy Anniversary, Rand McNally Atlas!
 date: '2013-06-18T09:00:00.000-04:00'
 author: Jodie

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Rain+Coffee+Reading = :)
 date: '2010-08-25T13:30:00.006-04:00'
 author: Emily

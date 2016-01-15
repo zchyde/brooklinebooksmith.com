@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Double Scoop Rec
 date: '2010-06-16T08:24:00.005-04:00'
 author: Emily

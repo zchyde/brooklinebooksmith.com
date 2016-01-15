@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Most Coveted Galley in the Store...
 date: '2008-11-19T17:54:00.004-05:00'
 author: Lori

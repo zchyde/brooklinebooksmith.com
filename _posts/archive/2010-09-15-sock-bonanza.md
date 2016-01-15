@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Sock Bonanza
 date: '2010-09-15T09:48:00.004-04:00'
 author: Emily

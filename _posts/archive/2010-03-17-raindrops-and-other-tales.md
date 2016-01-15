@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Raindrops and Other Tales
 date: '2010-03-17T08:30:00.002-04:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Come, to the Nativity
 date: '2010-12-15T23:41:00.000-05:00'
 author: Emily

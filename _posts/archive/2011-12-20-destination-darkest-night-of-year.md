@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: The Darkest Night of the Year'
 date: '2011-12-20T18:59:00.000-05:00'
 author: Jodie

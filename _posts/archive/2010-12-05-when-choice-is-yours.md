@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: When the choice is yours
 date: '2010-12-05T16:48:00.000-05:00'
 author: Shoshana

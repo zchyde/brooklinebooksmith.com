@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Shut up and listen, and other bookselling tips from an almost-alum
 date: '2014-08-11T09:00:00.000-04:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Books for Babies
 date: '2008-08-26T18:33:00.007-04:00'
 author: Lori

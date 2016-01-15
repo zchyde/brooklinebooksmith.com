@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: So long to an old friend
 date: '2011-02-15T15:38:00.011-05:00'
 author: Liz T.

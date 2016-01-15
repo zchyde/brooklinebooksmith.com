@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Galley Grab!
 date: '2007-06-11T16:39:00.000-04:00'
 author: Lori

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Secrets of Bored Booksellers
 date: '2008-03-17T18:10:00.012-04:00'
 author: Lori

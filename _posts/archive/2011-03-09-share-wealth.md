@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Share the Wealth
 date: '2011-03-09T15:39:00.000-05:00'
 author: Emily

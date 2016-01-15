@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Elizabeth Bishop, the poem I can't live without. Thoughts on the new collection.
 date: '2011-07-02T15:32:00.009-04:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: To Go or Not to Go?
 date: '2013-05-28T17:28:00.001-04:00'
 author: Jodie

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 5 Books to be Caught Dead With
 date: '2013-07-14T18:39:00.002-04:00'
 author: Lydia

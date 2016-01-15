@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Blank Slate
 date: '2007-04-27T16:16:00.000-04:00'
 author: Lori

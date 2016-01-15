@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Tricky Thing About Endings
 date: '2013-10-14T09:00:00.000-04:00'
 author: Amy

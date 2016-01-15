@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Blatant Bribery
 date: '2007-04-30T17:02:00.000-04:00'
 author: Lori

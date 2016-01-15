@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Virtual Corners
 date: '2010-06-05T10:17:00.003-04:00'
 author: Kate Robinson

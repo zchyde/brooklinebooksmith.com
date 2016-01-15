@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Bookstores and me
 date: '2010-04-06T09:00:00.004-04:00'
 author: Eugenia

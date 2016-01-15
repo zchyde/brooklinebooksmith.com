@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: tyranny of knowing
 date: '2010-02-19T16:15:00.004-05:00'
 author: Paul Theriault

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: We don't sell books.
 date: '2010-08-02T23:13:00.003-04:00'
 author: Evan

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On the failures of genre.
 date: '2010-06-06T17:22:00.003-04:00'
 author: Evan

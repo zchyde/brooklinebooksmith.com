@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: paper books are not dead, just wasted.
 date: '2010-07-02T18:40:00.003-04:00'
 author: Paul Theriault

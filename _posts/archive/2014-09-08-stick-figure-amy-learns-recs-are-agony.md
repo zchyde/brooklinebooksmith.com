@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Stick Figure Amy Learns Recs are Agony
 date: '2014-09-08T08:00:00.000-04:00'
 author: Amy

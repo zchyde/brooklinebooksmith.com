@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Book v. Movie GO!
 date: '2013-08-16T10:00:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: You're Never Fully Dressed Without an AK-47 and an Apocalyptic Grimace
 date: '2011-05-26T17:15:00.005-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: a book chooses you, and wow...our poetry section sure is looking foxy.
 date: '2010-02-27T15:19:00.009-05:00'
 author: Kate Robinson

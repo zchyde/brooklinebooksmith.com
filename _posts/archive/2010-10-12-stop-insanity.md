@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Stop the insanity!
 date: '2010-10-12T15:38:00.006-04:00'
 author: Liz T.

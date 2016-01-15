@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: a quality of light
 date: '2010-09-16T18:49:00.002-04:00'
 author: Paul Theriault

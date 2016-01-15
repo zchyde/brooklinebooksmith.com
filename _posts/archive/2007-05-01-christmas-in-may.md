@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Christmas in May!
 date: '2007-05-01T19:43:00.000-04:00'
 author: Lori

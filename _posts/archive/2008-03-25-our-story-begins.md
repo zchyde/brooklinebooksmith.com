@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Our Story Begins
 date: '2008-03-25T17:38:00.011-04:00'
 author: Lori

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Hittin' It Lit
 date: '2012-06-01T10:44:00.000-04:00'
 author: Natasha

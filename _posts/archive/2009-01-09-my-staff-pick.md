@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: My Staff Pick
 date: '2009-01-09T17:32:00.003-05:00'
 author: Lori

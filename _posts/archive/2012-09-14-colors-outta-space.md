@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Colors Outta Space
 date: '2012-09-14T13:50:00.001-04:00'
 author: Natasha

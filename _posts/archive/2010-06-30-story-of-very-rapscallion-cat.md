@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Story of a Very Rapscallion Cat
 date: '2010-06-30T08:14:00.005-04:00'
 author: Emily

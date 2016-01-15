@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What your bookmark reveals about you
 date: '2012-12-30T20:09:00.000-05:00'
 author: Lydia

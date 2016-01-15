@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Gods Behaving Badly
 date: '2007-12-05T18:11:00.000-05:00'
 author: Lori

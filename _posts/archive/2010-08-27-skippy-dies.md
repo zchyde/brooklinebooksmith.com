@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Skippy Dies.
 date: '2010-08-27T20:32:00.003-04:00'
 author: Paul Theriault

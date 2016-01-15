@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Monday Afternoon Wake Up Call
 date: '2010-02-22T15:56:00.008-05:00'
 author: Carl

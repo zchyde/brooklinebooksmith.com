@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Whaddaya mean, "Intermediate Fiction?"
 date: '2013-04-15T08:42:00.000-04:00'
 author: Shoshana

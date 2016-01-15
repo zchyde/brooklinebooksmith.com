@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: With Apologies to the Shadow, It's Really the Phantom Who Knows
 date: '2007-09-04T18:24:00.000-04:00'
 author: Lori

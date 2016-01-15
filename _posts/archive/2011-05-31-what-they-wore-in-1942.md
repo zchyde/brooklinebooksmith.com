@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What they wore in 1942
 date: '2011-05-31T15:44:00.006-04:00'
 author: Liz T.

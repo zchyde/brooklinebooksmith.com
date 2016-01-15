@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I'm a fan of the Constitution.
 date: '2011-01-07T17:36:00.005-05:00'
 author: Paul Theriault

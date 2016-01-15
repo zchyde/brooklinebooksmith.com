@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Moore-mania
 date: '2014-04-22T12:55:00.003-04:00'
 author: Jamie

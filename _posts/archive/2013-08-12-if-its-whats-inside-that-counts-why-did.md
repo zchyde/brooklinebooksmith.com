@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: If It's What's Inside That Counts Why Did You Have to Change the Cover?
 date: '2013-08-12T09:00:00.000-04:00'
 author: Amy

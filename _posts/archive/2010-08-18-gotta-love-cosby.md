@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Gotta Love Cosby!
 date: '2010-08-18T07:52:00.002-04:00'
 author: Emily

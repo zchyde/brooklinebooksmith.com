@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: This Stack of Books on My Desk
 date: '2010-03-08T00:05:00.007-05:00'
 author: Carl

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Fainting couches and courting candles
 date: '2010-11-16T14:14:00.009-05:00'
 author: Liz T.

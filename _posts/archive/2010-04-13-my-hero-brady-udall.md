@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: My hero, Brady Udall
 date: '2010-04-13T18:10:00.005-04:00'
 author: Eugenia

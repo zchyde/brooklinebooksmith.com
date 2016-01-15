@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Overheard in the aisles
 date: '2010-09-28T15:23:00.013-04:00'
 author: Liz T.

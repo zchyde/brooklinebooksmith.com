@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: dozing off...
 date: '2010-05-28T12:36:00.001-04:00'
 author: Paul Theriault

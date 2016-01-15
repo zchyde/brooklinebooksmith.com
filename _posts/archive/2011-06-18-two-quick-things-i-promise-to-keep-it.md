@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Two Quick Things, I Promise to Keep It Short
 date: '2011-06-18T17:00:00.003-04:00'
 author: Zoe Hyde

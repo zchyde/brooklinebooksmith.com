@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: give a book a chance, will you?
 date: '2010-07-14T08:14:00.006-04:00'
 author: Emily

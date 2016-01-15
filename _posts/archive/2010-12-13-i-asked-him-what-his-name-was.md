@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I asked him what his name was.
 date: '2010-12-13T07:11:00.007-05:00'
 author: Paul Theriault

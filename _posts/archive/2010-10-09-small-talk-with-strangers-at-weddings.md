@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Small talk with strangers at weddings --or-- is girdle really the right word?
 date: '2010-10-09T12:38:00.003-04:00'
 author: Kate Robinson

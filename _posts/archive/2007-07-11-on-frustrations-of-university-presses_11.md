@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On the Frustrations of University Presses Part II
 date: '2007-07-11T19:34:00.001-04:00'
 author: Lori

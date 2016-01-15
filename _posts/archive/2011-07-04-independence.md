@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: "... independence."
 date: '2011-07-04T15:21:00.005-04:00'
 author: Kate Robinson

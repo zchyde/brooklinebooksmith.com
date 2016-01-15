@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Crunchy Leaves, Smooth Books
 date: '2013-09-21T11:20:00.002-04:00'
 author: Natasha

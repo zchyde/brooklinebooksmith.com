@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thank You Rick Riordan
 date: '2014-10-27T08:00:00.000-04:00'
 author: Amy

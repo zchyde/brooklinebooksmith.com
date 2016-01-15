@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On AMERICANAH by Chimamanda Ngozi Adichie
 date: '2014-04-24T08:44:00.000-04:00'
 author: Shuchi

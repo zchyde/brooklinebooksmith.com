@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Women, Whiskey, Per Petterson and Other Sweeping Generalizations.
 date: '2010-09-18T12:42:00.010-04:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Positive Reinforcement
 date: '2011-02-18T22:58:00.005-05:00'
 author: Zoe Hyde

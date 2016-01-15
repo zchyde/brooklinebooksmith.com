@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Franzen's Freedom
 date: '2010-08-22T16:37:00.004-04:00'
 author: dana brigham

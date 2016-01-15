@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Destination Literature, or "You Are There Reading"
 date: '2011-07-18T15:54:00.020-04:00'
 author: Jodie

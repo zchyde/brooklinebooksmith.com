@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Your Booksmithoscope! Your Future Fortold...Sorta!
 date: '2010-07-10T14:30:00.003-04:00'
 author: Kate Robinson

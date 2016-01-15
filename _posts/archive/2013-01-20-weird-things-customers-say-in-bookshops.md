@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Weird Things Customers Say in Bookshops: Brookline Edition (Part 1?)'
 date: '2013-01-20T15:29:00.001-05:00'
 author: Lydia

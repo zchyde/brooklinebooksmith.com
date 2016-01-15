@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Chapbook Festival in NYC 5/3-5/4 Be There Or Be Rhombus
 date: '2010-04-30T16:34:00.003-04:00'
 author: Carl

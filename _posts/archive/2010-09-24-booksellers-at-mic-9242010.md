@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Booksellers at the Mic - 9/24/2010
 date: '2010-09-24T21:03:00.005-04:00'
 author: Paul Theriault

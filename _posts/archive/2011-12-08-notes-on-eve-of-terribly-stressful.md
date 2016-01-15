@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Notes on the Eve of a Terribly Stressful Biology Final (or) Uh-oh, Adios Sanity
 date: '2011-12-08T23:37:00.001-05:00'
 author: Zoe Hyde

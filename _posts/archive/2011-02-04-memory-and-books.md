@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Memory and Books
 date: '2011-02-04T00:47:00.002-05:00'
 author: Evan

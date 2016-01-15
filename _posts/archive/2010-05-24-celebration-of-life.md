@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Celebration of Life
 date: '2010-05-24T06:51:00.002-04:00'
 author: dana brigham

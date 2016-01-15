@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Brookline Booksmith's Bestselling Books of 2008
 date: '2009-01-02T16:57:00.009-05:00'
 author: Lori

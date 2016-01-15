@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Catching Fire and the Art of Fandom
 date: '2013-11-25T09:00:00.000-05:00'
 author: Amy

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Staff Picks--Liz, Liz, and Elizabeth
 date: '2009-03-12T14:05:00.008-04:00'
 author: Lori

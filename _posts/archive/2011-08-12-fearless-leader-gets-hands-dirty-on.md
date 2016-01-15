@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Fearless Leader Gets Hands Dirty On Regular Basis; Still Daisy Fresh
 date: '2011-08-12T00:44:00.004-04:00'
 author: Zoe Hyde

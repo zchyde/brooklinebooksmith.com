@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Okay, so it's 3 days later...
 date: '2011-08-31T19:42:00.000-04:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'The Eight Nights of Thanksgivukkah: A muddled holiday song'
 date: '2013-11-18T09:56:00.000-05:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: New Book by Marilynne Robinson On the Horizon...
 date: '2007-10-30T15:24:00.000-04:00'
 author: Lori

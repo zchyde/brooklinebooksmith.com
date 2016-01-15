@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Obsession by Calvin Coolidge
 date: '2011-10-28T08:00:00.000-04:00'
 author: Natasha

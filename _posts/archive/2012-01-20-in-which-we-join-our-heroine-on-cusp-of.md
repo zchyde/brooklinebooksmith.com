@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: In Which We Join Our Heroine On The Cusp Of Something Super Duper Serious,
   Namely, Viral Videos.
 date: '2012-01-20T10:14:00.002-05:00'

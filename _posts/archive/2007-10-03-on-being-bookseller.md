@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On Being a Bookseller
 date: '2007-10-03T19:25:00.000-04:00'
 author: Lori

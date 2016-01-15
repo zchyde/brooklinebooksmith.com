@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: reading = people watching.
 date: '2011-03-14T15:17:00.011-04:00'
 author: Kate Robinson

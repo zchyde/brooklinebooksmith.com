@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Vacation, Please!
 date: '2013-05-15T17:46:00.001-04:00'
 author: Jamie

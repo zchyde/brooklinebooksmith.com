@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Bear Hunt Time
 date: '2010-11-10T11:41:00.003-05:00'
 author: Emily

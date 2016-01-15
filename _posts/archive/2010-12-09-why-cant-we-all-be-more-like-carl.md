@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Why can't we all be more like Carl?
 date: '2010-12-09T22:48:00.008-05:00'
 author: Zoe Hyde

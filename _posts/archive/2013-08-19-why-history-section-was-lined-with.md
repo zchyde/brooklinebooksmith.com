@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Why the history section was lined with strollers
 date: '2013-08-19T09:35:00.000-04:00'
 author: Shoshana

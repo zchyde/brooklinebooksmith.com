@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: car trip from HELL
 date: '2010-07-09T16:57:00.002-04:00'
 author: Paul Theriault

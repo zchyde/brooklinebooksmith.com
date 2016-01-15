@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: October Destination of the Month
 date: '2014-10-22T10:00:00.000-04:00'
 author: Natasha

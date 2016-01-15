@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: mockingjay is a beautiful word
 date: '2010-08-24T07:46:00.004-04:00'
 author: Paul Theriault

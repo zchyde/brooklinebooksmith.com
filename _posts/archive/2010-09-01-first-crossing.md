@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: First Crossing
 date: '2010-09-01T08:44:00.003-04:00'
 author: Emily

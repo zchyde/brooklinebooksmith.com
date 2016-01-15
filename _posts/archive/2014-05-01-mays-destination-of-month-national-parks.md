@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'May''s Destination of the Month: National Parks'
 date: '2014-05-01T11:00:00.000-04:00'
 author: Natasha

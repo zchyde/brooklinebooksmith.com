@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Two Things
 date: '2010-09-05T19:26:00.003-04:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Slow Love Life
 date: '2010-10-11T12:35:00.002-04:00'
 author: dana brigham

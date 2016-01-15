@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Kids, we need your help!
 date: '2011-09-14T19:20:00.000-04:00'
 author: Emily

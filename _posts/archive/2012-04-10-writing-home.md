@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Writing Home
 date: '2012-04-10T15:22:00.000-04:00'
 author: Jodie

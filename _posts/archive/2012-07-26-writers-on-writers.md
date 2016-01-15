@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Writers On Writers
 date: '2012-07-26T19:59:00.000-04:00'
 author: Shuchi

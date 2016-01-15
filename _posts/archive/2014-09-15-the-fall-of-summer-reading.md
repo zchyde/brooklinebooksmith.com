@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Fall of Summer Reading
 date: '2014-09-15T08:00:00.000-04:00'
 author: Amy

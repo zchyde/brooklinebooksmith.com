@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Candlewick Lights Up My Life
 date: '2007-06-07T12:25:00.000-04:00'
 author: Lori

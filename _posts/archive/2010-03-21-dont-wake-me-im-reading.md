@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Don't Wake Me, I'm Reading
 date: '2010-03-21T15:48:00.003-04:00'
 author: dana brigham

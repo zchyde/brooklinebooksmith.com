@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On Readings
 date: '2012-06-21T22:30:00.000-04:00'
 author: Shuchi

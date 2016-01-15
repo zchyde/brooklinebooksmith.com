@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Weed It and Reap
 date: '2010-06-06T16:27:00.002-04:00'
 author: dana brigham

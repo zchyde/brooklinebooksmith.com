@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Madeline Rodenberg. Remember that name.
 date: '2011-10-22T11:45:00.006-04:00'
 author: Kate Robinson

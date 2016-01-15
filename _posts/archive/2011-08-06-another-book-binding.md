@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Another book-binding!!!
 date: '2011-08-06T15:33:00.006-04:00'
 author: Kate Robinson

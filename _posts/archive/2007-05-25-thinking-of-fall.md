@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thinking of Fall...
 date: '2007-05-25T18:40:00.000-04:00'
 author: Lori

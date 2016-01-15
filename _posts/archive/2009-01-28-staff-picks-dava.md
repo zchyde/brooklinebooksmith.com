@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Staff Picks--Dava
 date: '2009-01-28T19:25:00.003-05:00'
 author: Lori

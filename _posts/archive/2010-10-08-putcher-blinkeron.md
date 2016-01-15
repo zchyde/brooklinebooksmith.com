@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: putcher blinkeron
 date: '2010-10-08T13:34:00.003-04:00'
 author: Paul Theriault

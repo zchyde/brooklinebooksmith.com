@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Kate's Holiday helpful tip o' the week!
 date: '2010-11-20T15:58:00.006-05:00'
 author: Kate Robinson

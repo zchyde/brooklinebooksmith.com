@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Great Houses and Other Buildings of High Quality
 date: '2010-11-14T10:41:00.003-05:00'
 author: Evan

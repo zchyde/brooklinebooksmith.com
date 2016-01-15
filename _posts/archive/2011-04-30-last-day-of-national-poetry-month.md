@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Last day of National Poetry Month !!!!! FLASH CONTEST!!!!!!!
 date: '2011-04-30T13:22:00.011-04:00'
 author: Kate Robinson

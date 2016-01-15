@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I smell goodness approaching :-d
 date: '2010-09-22T08:21:00.009-04:00'
 author: Emily

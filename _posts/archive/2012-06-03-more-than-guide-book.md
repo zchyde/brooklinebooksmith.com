@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: More than a Guide Book
 date: '2012-06-03T19:12:00.001-04:00'
 author: Jodie

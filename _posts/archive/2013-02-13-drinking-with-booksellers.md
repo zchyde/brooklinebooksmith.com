@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Drinking with Booksellers
 date: '2013-02-13T17:12:00.000-05:00'
 author: Jamie

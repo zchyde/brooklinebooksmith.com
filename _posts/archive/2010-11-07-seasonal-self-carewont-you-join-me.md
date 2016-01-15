@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: seasonal self-care...won't you join me?
 date: '2010-11-07T14:04:00.008-05:00'
 author: Kate Robinson

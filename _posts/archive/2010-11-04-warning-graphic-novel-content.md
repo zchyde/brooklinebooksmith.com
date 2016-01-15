@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'warning: graphic (novel) content!'
 date: '2010-11-04T19:07:00.001-04:00'
 author: Amanda

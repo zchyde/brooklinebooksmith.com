@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Have book, will travel
 date: '2010-08-17T14:52:00.008-04:00'
 author: Liz T.

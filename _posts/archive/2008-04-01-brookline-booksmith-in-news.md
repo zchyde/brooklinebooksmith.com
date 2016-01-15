@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Brookline Booksmith In the News
 date: '2008-04-01T17:32:00.004-04:00'
 author: Lori

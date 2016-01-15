@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Inside Jokes
 date: '2012-02-10T10:41:00.000-05:00'
 author: Natasha

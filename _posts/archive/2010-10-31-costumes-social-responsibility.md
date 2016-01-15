@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: costumes. social responsibility.
 date: '2010-10-31T10:53:00.008-04:00'
 author: Kate Robinson

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Day (Another?) In The LIfe
 date: '2010-12-05T20:17:00.004-05:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Valentine's Day Memories.
 date: '2011-02-14T16:29:00.003-05:00'
 author: Paul Theriault

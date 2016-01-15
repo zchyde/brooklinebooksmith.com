@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Seeds of a Reader
 date: '2010-06-02T09:55:00.004-04:00'
 author: Emily

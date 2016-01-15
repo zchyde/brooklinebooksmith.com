@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Better Class of Garbage.
 date: '2012-02-02T20:11:00.001-05:00'
 author: Zoe Hyde

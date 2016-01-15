@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Do You Want Your Booksellers Reading at the Register?
 date: '2010-05-29T10:09:00.008-04:00'
 author: Kate Robinson

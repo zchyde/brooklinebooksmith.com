@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: How to Make a Bookseller Fall in Love With You*
 date: '2014-02-14T16:26:00.002-05:00'
 author: Jamie

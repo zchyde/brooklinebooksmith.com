@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: David Halberstam and My Favorite Weekend in Boston
 date: '2007-10-20T21:09:00.000-04:00'
 author: Lori

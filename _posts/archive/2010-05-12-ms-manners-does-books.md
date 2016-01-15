@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Ms. Manners Does Books
 date: '2010-05-12T15:27:00.005-04:00'
 author: Eugenia

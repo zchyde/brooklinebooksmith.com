@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Using the Bathroom in the Beast
 date: '2010-07-25T11:18:00.004-04:00'
 author: Kate Robinson

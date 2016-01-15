@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Memories of Summer in NYC
 date: '2010-06-18T00:04:00.003-04:00'
 author: Evan

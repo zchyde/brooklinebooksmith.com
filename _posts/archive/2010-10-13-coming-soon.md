@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Coming Soon!
 date: '2010-10-13T09:24:00.004-04:00'
 author: Emily

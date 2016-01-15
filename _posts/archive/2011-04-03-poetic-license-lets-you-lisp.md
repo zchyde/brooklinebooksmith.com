@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Poetic license lets you lisp thelectively.
 date: '2011-04-03T18:08:00.000-04:00'
 author: Shoshana

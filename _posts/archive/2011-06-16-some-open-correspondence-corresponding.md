@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Some open correspondence corresponding to my past few days here on Planet Earth.
 date: '2011-06-16T15:53:00.006-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Traveling with Kids
 date: '2012-07-03T12:49:00.000-04:00'
 author: Jodie

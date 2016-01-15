@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Fall. Gather your nuts.
 date: '2010-09-04T15:40:00.004-04:00'
 author: Kate Robinson

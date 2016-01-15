@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Eating Adventure
 date: '2011-04-06T20:08:00.000-04:00'
 author: Emily

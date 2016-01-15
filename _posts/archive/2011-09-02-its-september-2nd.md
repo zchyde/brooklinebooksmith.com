@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thanks for moving in.
 date: '2011-09-02T20:17:00.003-04:00'
 author: Paul Theriault

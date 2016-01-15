@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Excerpts Versus Preview Chapters
 date: '2014-05-12T09:00:00.000-04:00'
 author: Amy

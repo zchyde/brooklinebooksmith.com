@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I AM NOW A PAPPY.
 date: '2010-05-10T14:21:00.003-04:00'
 author: Carl

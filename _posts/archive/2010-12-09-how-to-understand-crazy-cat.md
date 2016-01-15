@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: how to understand a crazy cat
 date: '2010-12-09T11:27:00.003-05:00'
 author: Amanda

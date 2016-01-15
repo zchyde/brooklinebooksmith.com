@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Literary Destinations
 date: '2011-08-09T15:21:00.045-04:00'
 author: Jodie

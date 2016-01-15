@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 1,000 Drunken Bunny Rabbits
 date: '2013-05-31T09:04:00.000-04:00'
 author: Natasha

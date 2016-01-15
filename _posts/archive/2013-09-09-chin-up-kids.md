@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Chin up, kids
 date: '2013-09-09T09:00:00.000-04:00'
 author: Shoshana

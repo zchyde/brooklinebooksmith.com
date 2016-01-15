@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On literature and cheese fries
 date: '2013-07-07T17:03:00.001-04:00'
 author: Lydia

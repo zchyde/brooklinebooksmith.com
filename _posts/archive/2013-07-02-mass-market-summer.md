@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Mass Market Summer
 date: '2013-07-02T12:32:00.000-04:00'
 author: Jamie

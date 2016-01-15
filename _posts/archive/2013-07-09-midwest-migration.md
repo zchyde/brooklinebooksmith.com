@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Midwest Migration
 date: '2013-07-09T09:00:00.000-04:00'
 author: Jodie

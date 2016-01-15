@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Misery loves company, but its a terrible hostess
 date: '2011-07-14T17:53:00.003-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Out-of-Town Booksellers
 date: '2013-11-06T11:00:00.000-05:00'
 author: Jamie

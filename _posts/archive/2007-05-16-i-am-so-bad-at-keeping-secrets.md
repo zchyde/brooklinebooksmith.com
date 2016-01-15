@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I am so bad at keeping secrets
 date: '2007-05-16T20:10:00.000-04:00'
 author: Lori

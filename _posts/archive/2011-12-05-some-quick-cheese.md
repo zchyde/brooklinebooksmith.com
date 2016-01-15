@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Some quick cheese.
 date: '2011-12-05T15:56:00.006-05:00'
 author: Kate Robinson

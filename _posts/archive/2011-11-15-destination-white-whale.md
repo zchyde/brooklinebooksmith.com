@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: A White Whale'
 date: '2011-11-15T16:47:00.013-05:00'
 author: Jodie

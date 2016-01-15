@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Wednesday of My Dreams
 date: '2010-03-09T16:20:00.002-05:00'
 author: Eugenia

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Used Books Are Super Awesome
 date: '2010-04-12T23:08:00.006-04:00'
 author: Carl

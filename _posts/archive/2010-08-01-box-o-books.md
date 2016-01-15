@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Box O' Books
 date: '2010-08-01T07:29:00.003-04:00'
 author: dana brigham

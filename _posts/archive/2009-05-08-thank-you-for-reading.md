@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thank You for Reading!
 date: '2009-05-08T21:48:00.003-04:00'
 author: Lori

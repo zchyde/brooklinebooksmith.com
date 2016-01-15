@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Lynda Barry love, animals getting drunk, did I mention I'm an art school dropout?
 date: '2011-11-17T20:13:00.001-05:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Allow me to introduce myself: I am Julia and I have a cold.'
 date: '2012-02-20T14:23:00.012-05:00'
 author: Julia

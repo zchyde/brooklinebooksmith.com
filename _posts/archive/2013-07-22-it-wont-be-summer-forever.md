@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: It won't be summer forever.
 date: '2013-07-22T09:56:00.000-04:00'
 author: Shoshana

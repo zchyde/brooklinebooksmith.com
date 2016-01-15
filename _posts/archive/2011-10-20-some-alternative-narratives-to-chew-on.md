@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Some Alternative Narratives to Chew On
 date: '2011-10-20T18:49:00.000-04:00'
 author: Zoe Hyde

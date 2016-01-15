@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'How To Be Cool: Tips From A Secretly Timid Art School Drop-out'
 date: '2010-12-02T18:13:00.017-05:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: The Open Road'
 date: '2012-02-21T14:51:00.001-05:00'
 author: Jodie

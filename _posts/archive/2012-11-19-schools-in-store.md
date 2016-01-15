@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Schools in the store!
 date: '2012-11-19T11:09:00.001-05:00'
 author: Shoshana

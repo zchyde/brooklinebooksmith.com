@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Knuffley Good
 date: '2010-09-29T22:42:00.004-04:00'
 author: Emily

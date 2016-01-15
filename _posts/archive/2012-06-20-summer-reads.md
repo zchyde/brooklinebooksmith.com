@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Summer Reads
 date: '2012-06-20T19:44:00.001-04:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Pre- Super Bowl Flash Contest ($, poetry, FAME)
 date: '2012-02-04T15:03:00.006-05:00'
 author: Kate Robinson

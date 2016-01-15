@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Getting Used To It, Or, Nuggets From The UBC Desk!
 date: '2010-09-01T23:59:00.002-04:00'
 author: Carl

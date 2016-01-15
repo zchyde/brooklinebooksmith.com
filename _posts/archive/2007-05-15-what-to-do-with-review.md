@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What to do with a review
 date: '2007-05-15T16:07:00.000-04:00'
 author: Lori

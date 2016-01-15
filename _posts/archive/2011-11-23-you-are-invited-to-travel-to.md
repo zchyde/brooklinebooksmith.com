@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: You are Invited to Travel To...
 date: '2011-11-23T18:53:00.000-05:00'
 author: Emily

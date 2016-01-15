@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Ritterpics!
 date: '2011-07-09T14:04:00.005-04:00'
 author: Evan

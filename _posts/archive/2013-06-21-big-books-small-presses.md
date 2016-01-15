@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Big Books, Small Presses
 date: '2013-06-21T09:47:00.002-04:00'
 author: Natasha

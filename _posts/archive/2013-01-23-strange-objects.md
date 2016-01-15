@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Strange Objects
 date: '2013-01-23T17:55:00.001-05:00'
 author: Jamie

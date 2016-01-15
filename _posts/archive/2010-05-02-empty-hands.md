@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Empty Hands
 date: '2010-05-02T11:06:00.002-04:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: You, Too, Can Be On a Boat
 date: '2013-10-25T11:00:00.000-04:00'
 author: Natasha

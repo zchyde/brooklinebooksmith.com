@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: It's What's Inside That Matters
 date: '2013-03-22T12:14:00.001-04:00'
 author: Natasha

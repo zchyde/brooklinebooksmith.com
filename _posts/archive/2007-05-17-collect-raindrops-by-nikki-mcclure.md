@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Collect Raindrops by Nikki McClure
 date: '2007-05-17T14:17:00.000-04:00'
 author: Lori

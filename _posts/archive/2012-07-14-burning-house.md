@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Burning House
 date: '2012-07-14T11:51:00.001-04:00'
 author: Zoe Hyde

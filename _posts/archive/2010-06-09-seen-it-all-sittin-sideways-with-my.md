@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"seen it all sittin'' sideways with my townmates"'
 date: '2010-06-09T07:02:00.009-04:00'
 author: Paul Theriault

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Stay Sharp in Summer
 date: '2013-06-28T10:17:00.000-04:00'
 author: Natasha

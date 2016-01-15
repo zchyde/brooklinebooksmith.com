@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Lots of Ones
 date: '2011-01-02T12:58:00.003-05:00'
 author: dana brigham

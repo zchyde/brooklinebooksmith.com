@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I want to stay here.
 date: '2010-09-03T17:30:00.002-04:00'
 author: Paul Theriault

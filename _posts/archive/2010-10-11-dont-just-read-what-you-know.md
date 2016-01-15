@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Don't Just Read What You Know.
 date: '2010-10-11T17:44:00.011-04:00'
 author: Evan

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Awesome Advice for Impressing Your Date
 date: '2012-04-19T18:54:00.000-04:00'
 author: Julia

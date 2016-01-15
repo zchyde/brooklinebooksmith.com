@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Dispatch from Book Expo America, or the "Halapalooza of Reading Quietly in
   a Room by Yourself"
 date: '2012-06-12T09:00:00.000-04:00'

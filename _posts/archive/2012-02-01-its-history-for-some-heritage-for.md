@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: It's history for some, heritage for others
 date: '2012-02-01T20:18:00.000-05:00'
 author: Emily

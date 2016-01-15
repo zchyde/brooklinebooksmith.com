@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Writing Down the Bones by Natalie Goldberg
 date: '2014-04-03T10:00:00.000-04:00'
 author: Shuchi

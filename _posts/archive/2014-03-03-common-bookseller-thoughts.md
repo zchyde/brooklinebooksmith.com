@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Common Bookseller Thoughts
 date: '2014-03-03T09:00:00.000-05:00'
 author: Amy

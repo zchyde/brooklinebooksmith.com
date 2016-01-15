@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: memoirist credibility through the lens of the greatest sporting event known
   to man.
 date: '2010-07-19T09:00:00.004-04:00'

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The book that I can't stand to have open in front of me.
 date: '2010-06-04T13:14:00.004-04:00'
 author: Paul Theriault

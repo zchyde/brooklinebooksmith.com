@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Advice for the Travel Writer
 date: '2013-08-27T09:00:00.000-04:00'
 author: Jodie

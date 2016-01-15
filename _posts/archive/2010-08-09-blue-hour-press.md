@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Blue Hour Press
 date: '2010-08-09T13:53:00.006-04:00'
 author: Carl

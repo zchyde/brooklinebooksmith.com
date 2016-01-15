@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I know it's too long, once I start I can't stop.
 date: '2011-05-19T17:14:00.006-04:00'
 author: Zoe Hyde

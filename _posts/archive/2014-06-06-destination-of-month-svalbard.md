@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination of the Month: Svalbard'
 date: '2014-06-06T15:00:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Booksmith Crime Log
 date: '2012-11-16T10:49:00.000-05:00'
 author: Natasha

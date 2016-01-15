@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Stay Creative
 date: '2012-02-08T19:54:00.000-05:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: It's an ephemeral, circle of life type thing
 date: '2012-12-15T17:54:00.000-05:00'
 author: Lydia

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Norman Lock's Grim Tales
 date: '2010-06-28T14:48:00.002-04:00'
 author: Carl

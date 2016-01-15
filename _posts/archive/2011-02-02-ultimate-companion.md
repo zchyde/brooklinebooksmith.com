@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Ultimate Companion
 date: '2011-02-02T15:57:00.000-05:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'NEIBA: A Lively Experiment'
 date: '2012-10-08T18:22:00.002-04:00'
 author: Jodie

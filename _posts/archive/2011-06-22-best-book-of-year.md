@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Best Book of the Year!
 date: '2011-06-22T18:18:00.000-04:00'
 author: Emily

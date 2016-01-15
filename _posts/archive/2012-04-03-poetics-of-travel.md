@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Poetics of Travel
 date: '2012-04-03T13:05:00.002-04:00'
 author: Jodie

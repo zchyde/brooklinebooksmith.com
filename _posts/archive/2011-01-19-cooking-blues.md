@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Cooking Blues
 date: '2011-01-19T11:27:00.000-05:00'
 author: Emily

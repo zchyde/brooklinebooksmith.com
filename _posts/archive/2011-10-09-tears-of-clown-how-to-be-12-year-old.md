@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Tears of a Clown: How to be a 12 Year Old Girl'
 date: '2011-10-09T20:00:00.002-04:00'
 author: Zoe Hyde

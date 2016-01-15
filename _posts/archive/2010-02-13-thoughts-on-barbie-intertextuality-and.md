@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thoughts on Barbie, Intertextuality and the E-reader
 date: '2010-02-13T11:16:00.008-05:00'
 author: Kate Robinson

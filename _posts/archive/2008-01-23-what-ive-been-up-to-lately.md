@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What I've Been Up To Lately...
 date: '2008-01-23T19:57:00.001-05:00'
 author: Lori

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: See you in September.
 date: '2010-08-01T10:58:00.003-04:00'
 author: Katie

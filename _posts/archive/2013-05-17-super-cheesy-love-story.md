@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Super Cheesy Love Story
 date: '2013-05-17T17:04:00.000-04:00'
 author: Natasha

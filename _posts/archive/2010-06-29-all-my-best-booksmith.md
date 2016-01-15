@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: All my best, Booksmith!
 date: '2010-06-29T17:48:00.002-04:00'
 author: Eugenia

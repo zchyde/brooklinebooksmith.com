@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Moby Dick v. Moby Dick
 date: '2010-08-02T17:21:00.008-04:00'
 author: Carl

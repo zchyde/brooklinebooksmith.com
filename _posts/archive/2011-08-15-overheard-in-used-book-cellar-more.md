@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Overheard in the Used Book Cellar & more proof kids are awesome and weird...really
   really weird.
 date: '2011-08-15T14:48:00.008-04:00'

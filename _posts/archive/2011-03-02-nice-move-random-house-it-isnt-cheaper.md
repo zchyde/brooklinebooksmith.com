@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Nice move Random House! It isn't cheaper in the jungle anymore!
 date: '2011-03-02T14:48:00.010-05:00'
 author: Kate Robinson

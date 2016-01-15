@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Designers of the World, Don't Unite!
 date: '2011-01-21T15:06:00.009-05:00'
 author: Paul Theriault

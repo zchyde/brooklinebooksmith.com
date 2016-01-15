@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Busy Day of Buying
 date: '2007-06-19T18:20:00.000-04:00'
 author: Lori

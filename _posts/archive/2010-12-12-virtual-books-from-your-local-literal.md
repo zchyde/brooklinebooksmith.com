@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Virtual books, from your local--- literal store... (also, is the ebook fluid?
   ((creepy))
 date: '2010-12-12T14:21:00.008-05:00'

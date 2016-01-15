@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Notes from the future.
 date: '2010-05-28T00:14:00.003-04:00'
 author: Evan

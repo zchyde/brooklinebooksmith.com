@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Before It's Gone
 date: '2013-11-24T15:58:00.000-05:00'
 author: Natasha

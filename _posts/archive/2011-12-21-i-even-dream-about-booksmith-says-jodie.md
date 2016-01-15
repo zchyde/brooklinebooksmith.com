@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"I Even Dream About Booksmith" - Says Jodie'
 date: '2011-12-21T19:55:00.001-05:00'
 author: Zoe Hyde

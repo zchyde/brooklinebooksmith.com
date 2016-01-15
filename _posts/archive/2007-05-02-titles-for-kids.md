@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Titles for the Kids
 date: '2007-05-02T19:17:00.000-04:00'
 author: Lori

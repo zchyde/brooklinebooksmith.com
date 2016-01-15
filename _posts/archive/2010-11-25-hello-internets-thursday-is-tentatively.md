@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Cheese, compromise, and America: Things you can expect me to blog about in
   the future.'
 date: '2010-11-25T18:04:00.006-05:00'

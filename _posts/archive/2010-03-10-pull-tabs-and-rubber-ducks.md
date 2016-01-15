@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Pull-Tabs and Rubber Ducks
 date: '2010-03-10T16:14:00.007-05:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I'm sorry, Stieg Larsson
 date: '2010-03-19T19:42:00.003-04:00'
 author: Paul Theriault

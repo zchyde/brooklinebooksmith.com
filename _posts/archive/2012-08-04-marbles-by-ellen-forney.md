@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"Marbles" by Ellen Forney'
 date: '2012-08-04T18:58:00.003-04:00'
 author: Zoe Hyde

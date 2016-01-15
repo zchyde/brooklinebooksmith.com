@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination of the Month: Greece'
 date: '2014-04-04T13:37:00.000-04:00'
 author: Natasha

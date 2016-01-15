@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Find it Here
 date: '2011-04-03T14:09:00.009-04:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Jabberwocky, Because It Matters...
 date: '2010-08-07T15:29:00.007-04:00'
 author: Kate Robinson

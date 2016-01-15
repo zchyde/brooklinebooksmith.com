@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Best of the Bathroom
 date: '2007-08-15T17:41:00.000-04:00'
 author: Lori

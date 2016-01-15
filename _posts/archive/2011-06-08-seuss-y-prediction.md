@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Seuss-y Prediction?
 date: '2011-06-08T17:00:00.000-04:00'
 author: Emily

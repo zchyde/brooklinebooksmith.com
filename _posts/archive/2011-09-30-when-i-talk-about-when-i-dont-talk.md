@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: When I Talk About When I Don't Talk About Books
 date: '2011-09-30T01:23:00.001-04:00'
 author: Zoe Hyde

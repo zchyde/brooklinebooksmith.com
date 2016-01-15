@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Birthday Wishes
 date: '2007-05-13T19:53:00.000-04:00'
 author: Lori

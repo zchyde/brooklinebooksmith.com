@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Valley of the Assassins'
 date: '2011-11-08T18:04:00.015-05:00'
 author: Jodie

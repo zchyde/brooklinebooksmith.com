@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: School Stories
 date: '2014-09-01T08:00:00.000-04:00'
 author: Amy

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Young Candles
 date: '2011-07-13T19:50:00.000-04:00'
 author: Emily

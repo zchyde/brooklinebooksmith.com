@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Pride and Prejudice and Zombies and Vampires
 date: '2009-03-26T15:34:00.006-04:00'
 author: Lori

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Eastern Europe'
 date: '2011-10-11T18:20:00.012-04:00'
 author: Jodie

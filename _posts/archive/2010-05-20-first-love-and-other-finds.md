@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: First Love and Other Finds.
 date: '2010-05-20T19:18:00.003-04:00'
 author: Evan

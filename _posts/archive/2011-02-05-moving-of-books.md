@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Moving of the Books.
 date: '2011-02-05T13:31:00.005-05:00'
 author: Katie

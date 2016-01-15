@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Bookshops. People. OTP? '
 date: '2013-09-11T17:27:00.001-04:00'
 author: Jamie

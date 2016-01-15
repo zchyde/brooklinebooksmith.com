@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Last Tuesday I Gave Myself a Sugar Coma With Candy Corn, I'm An Adult, Read
   My Blog Post!
 date: '2011-09-22T17:22:00.001-04:00'

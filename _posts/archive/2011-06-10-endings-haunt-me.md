@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: endings haunt me
 date: '2011-06-10T21:58:00.003-04:00'
 author: Paul Theriault

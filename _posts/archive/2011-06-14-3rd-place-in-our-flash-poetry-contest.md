@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 3rd place in our flash poetry contest, Liz Witte!!!
 date: '2011-06-14T15:04:00.005-04:00'
 author: Kate Robinson

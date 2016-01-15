@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Boston Globe Summer Reads
 date: '2007-06-18T16:51:00.000-04:00'
 author: Lori

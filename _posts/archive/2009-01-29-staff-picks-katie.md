@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Staff Picks--Katie
 date: '2009-01-29T14:40:00.003-05:00'
 author: Lori

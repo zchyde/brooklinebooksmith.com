@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Reader's Guide to Literary Journals
 date: '2012-07-12T10:00:00.000-04:00'
 author: Shuchi

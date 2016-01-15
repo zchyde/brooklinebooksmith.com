@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Mothers and Museums
 date: '2010-05-10T09:54:00.004-04:00'
 author: Paul Theriault

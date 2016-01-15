@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On The Road Again
 date: '2010-03-15T08:04:00.002-04:00'
 author: dana brigham

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: it doesn't matter what they read.
 date: '2010-08-13T17:11:00.003-04:00'
 author: Paul Theriault

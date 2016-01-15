@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Fall at the bookstore
 date: '2010-09-21T11:56:00.000-04:00'
 author: Liz T.

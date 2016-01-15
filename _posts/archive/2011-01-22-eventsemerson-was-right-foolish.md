@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: EVENTS...Emerson was right — "a foolish consistency is the hobgoblin of little
   minds"...so come to the cabaret!
 date: '2011-01-22T15:08:00.015-05:00'

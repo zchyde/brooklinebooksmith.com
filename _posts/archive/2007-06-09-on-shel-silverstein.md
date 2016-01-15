@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On Shel Silverstein
 date: '2007-06-09T10:33:00.001-04:00'
 author: Lori

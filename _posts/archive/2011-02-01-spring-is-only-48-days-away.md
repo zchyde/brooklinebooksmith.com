@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Spring is only 48 days away
 date: '2011-02-01T14:05:00.008-05:00'
 author: Liz T.

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Elizabeth Berkley; still making smart cool.
 date: '2011-04-17T15:17:00.009-04:00'
 author: Kate Robinson

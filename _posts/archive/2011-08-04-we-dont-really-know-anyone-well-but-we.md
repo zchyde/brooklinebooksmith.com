@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: We Don't Really Know Anyone Well, But We Love One Another
 date: '2011-08-04T17:07:00.001-04:00'
 author: Zoe Hyde

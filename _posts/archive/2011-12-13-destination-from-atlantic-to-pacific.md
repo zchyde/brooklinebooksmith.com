@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: From Atlantic to Pacific'
 date: '2011-12-13T19:34:00.000-05:00'
 author: Jodie

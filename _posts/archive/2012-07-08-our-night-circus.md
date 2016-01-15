@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Our Night Circus
 date: '2012-07-08T17:56:00.001-04:00'
 author: Shuchi

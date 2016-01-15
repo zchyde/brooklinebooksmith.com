@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: booksmith airwaves
 date: '2010-03-02T11:08:00.004-05:00'
 author: Paul Theriault

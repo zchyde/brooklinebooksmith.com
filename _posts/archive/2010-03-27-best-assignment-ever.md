@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: best assignment ever
 date: '2010-03-27T15:10:00.004-04:00'
 author: Kate Robinson

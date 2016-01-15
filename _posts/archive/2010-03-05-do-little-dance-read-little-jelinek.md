@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Do a little dance, read a little Jelinek
 date: '2010-03-05T14:45:00.001-05:00'
 author: Katie

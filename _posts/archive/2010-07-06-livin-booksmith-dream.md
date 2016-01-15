@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Livin' the Booksmith Dream
 date: '2010-07-06T14:16:00.007-04:00'
 author: Liz T.

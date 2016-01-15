@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Past into Present
 date: '2008-08-25T17:11:00.003-04:00'
 author: Lori

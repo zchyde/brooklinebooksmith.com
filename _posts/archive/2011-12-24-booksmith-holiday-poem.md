@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Booksmith Holiday Poem
 date: '2011-12-24T15:23:00.000-05:00'
 author: Natasha

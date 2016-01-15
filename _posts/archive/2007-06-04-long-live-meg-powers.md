@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Long Live Meg Powers!
 date: '2007-06-04T16:39:00.000-04:00'
 author: Lori

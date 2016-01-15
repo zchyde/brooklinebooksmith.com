@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Girl Power
 date: '2010-02-23T16:32:00.005-05:00'
 author: Eugenia

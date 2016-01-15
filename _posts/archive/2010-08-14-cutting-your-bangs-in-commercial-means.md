@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Cutting your bangs in a commercial means you are empowered.
 date: '2010-08-14T11:20:00.011-04:00'
 author: Kate Robinson

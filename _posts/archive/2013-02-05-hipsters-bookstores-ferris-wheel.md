@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Hipsters, Bookstores, & a Ferris Wheel
 date: '2013-02-05T09:00:00.000-05:00'
 author: Jodie

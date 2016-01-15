@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"Keep Our Secrets" by Jordan Crane'
 date: '2012-01-14T13:32:00.000-05:00'
 author: Zoe Hyde

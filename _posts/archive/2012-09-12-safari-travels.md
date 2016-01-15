@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Safari Travels
 date: '2012-09-12T11:57:00.000-04:00'
 author: Emily

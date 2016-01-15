@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Post-Potter Pick #2'
 date: '2007-08-03T14:15:00.000-04:00'
 author: Lori

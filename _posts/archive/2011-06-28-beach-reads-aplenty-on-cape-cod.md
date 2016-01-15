@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Beach Reads Aplenty on Cape Cod
 date: '2011-06-28T17:14:00.004-04:00'
 author: Liz T.

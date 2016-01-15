@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: AWP Boston, or the Noise before the Silence
 date: '2013-03-12T09:00:00.000-04:00'
 author: Jodie

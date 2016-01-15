@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Pick of the Week--The Fortune Cookie Chronicles by Jennifer 8 Lee
 date: '2008-02-27T11:13:00.005-05:00'
 author: Lori

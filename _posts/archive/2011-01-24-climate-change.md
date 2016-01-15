@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Climate Change
 date: '2011-01-24T10:27:00.002-05:00'
 author: dana brigham

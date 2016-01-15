@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Kindness of Strangers
 date: '2010-07-20T21:02:00.004-04:00'
 author: Liz T.

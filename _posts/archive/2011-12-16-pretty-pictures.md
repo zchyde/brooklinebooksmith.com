@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Pretty Pictures
 date: '2011-12-16T12:00:00.000-05:00'
 author: Natasha

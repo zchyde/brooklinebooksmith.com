@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Little House on the Prarie--The Musical!
 date: '2008-07-29T15:08:00.005-04:00'
 author: Lori

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'The Humanitarian Life: A New Way to Travel'
 date: '2012-09-10T16:34:00.000-04:00'
 author: Emily

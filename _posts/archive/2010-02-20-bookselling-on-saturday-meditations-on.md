@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Bookselling on a Saturday, meditations on weekend labor in a grammatically
   suspect, run-on-sentency- postmodern- meanderation
 date: '2010-02-20T16:16:00.006-05:00'

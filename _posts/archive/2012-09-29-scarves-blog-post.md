@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'SCARVES: a blog post.'
 date: '2012-09-29T18:03:00.001-04:00'
 author: Zoe Hyde

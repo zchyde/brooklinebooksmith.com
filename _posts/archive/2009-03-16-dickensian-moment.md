@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Dickensian Moment?
 date: '2009-03-16T17:55:00.005-04:00'
 author: Lori

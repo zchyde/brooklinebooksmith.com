@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'my angst re: roald dahl'
 date: '2010-10-28T18:23:00.008-04:00'
 author: Amanda

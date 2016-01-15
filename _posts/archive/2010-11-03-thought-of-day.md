@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Thought of the Day
 date: '2010-11-03T20:05:00.002-04:00'
 author: Emily

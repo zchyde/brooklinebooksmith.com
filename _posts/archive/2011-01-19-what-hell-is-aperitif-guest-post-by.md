@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: What the Hell is an Aperitif?  Guest Post by Gene Kwak
 date: '2011-01-19T23:54:00.001-05:00'
 author: Evan

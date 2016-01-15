@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: This Week in Events - July 22-27
 date: '2014-07-20T14:00:00.000-04:00'
 author: Jamie

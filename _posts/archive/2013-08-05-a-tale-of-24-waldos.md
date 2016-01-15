@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A tale of 24 Waldos
 date: '2013-08-05T09:00:00.000-04:00'
 author: Shoshana

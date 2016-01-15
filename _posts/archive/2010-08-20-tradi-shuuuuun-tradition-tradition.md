@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: tradi-shuuuuun, tradition.  TRADITION!!
 date: '2010-08-20T13:54:00.005-04:00'
 author: Paul Theriault

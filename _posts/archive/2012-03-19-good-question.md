@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Good Question
 date: '2012-03-19T10:00:00.000-04:00'
 author: Zoe Hyde

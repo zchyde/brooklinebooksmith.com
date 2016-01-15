@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: and that's what christmas is all about
 date: '2010-12-16T17:26:00.008-05:00'
 author: Amanda

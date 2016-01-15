@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Odd Phenomenon
 date: '2010-07-12T07:30:00.001-04:00'
 author: dana brigham

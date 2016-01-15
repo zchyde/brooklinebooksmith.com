@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Learning to Read...
 date: '2010-06-09T20:49:00.006-04:00'
 author: Emily

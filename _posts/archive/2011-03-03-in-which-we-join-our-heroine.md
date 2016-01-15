@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: In which we join our heroine tubthumping midst the undergrads, or whatnot
 date: '2011-03-03T13:26:00.008-05:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Sweet Gifts (without the sugar)
 date: '2011-01-26T12:32:00.000-05:00'
 author: Emily

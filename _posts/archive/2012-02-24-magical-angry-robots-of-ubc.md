@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Magical Angry Robots of the UBC
 date: '2012-02-24T12:03:00.000-05:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Handselling.  Not for the hesitant or unassuming.
 date: '2010-06-18T17:44:00.005-04:00'
 author: Paul Theriault

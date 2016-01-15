@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Seattle'
 date: '2012-05-22T18:36:00.000-04:00'
 author: Jodie

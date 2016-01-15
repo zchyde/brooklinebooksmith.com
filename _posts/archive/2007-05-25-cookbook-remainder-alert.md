@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Cookbook Remainder Alert!
 date: '2007-05-25T20:22:00.000-04:00'
 author: Lori

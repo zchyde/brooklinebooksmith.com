@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: the new in the old
 date: '2010-03-24T20:22:00.005-04:00'
 author: Paul Theriault

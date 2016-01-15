@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: last thoughts
 date: '2011-05-20T20:38:00.003-04:00'
 author: Paul Theriault

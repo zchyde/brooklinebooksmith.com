@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destination: Home'
 date: '2011-11-22T17:07:00.008-05:00'
 author: Jodie

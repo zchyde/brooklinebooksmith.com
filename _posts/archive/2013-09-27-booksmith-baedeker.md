@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Booksmith: A Baedeker '
 date: '2013-09-27T12:50:00.000-04:00'
 author: Natasha

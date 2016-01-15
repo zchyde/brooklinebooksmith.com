@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Be Careful What You Blog For
 date: '2012-05-08T10:26:00.002-04:00'
 author: Jodie

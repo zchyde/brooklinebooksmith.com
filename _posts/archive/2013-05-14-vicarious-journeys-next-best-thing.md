@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Vicarious Journeys: The Next Best Thing'
 date: '2013-05-14T09:00:00.000-04:00'
 author: Jodie

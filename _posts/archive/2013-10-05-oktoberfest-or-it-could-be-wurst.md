@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Oktoberfest: OR, It Could Be Wurst'
 date: '2013-10-05T10:22:00.000-04:00'
 author: Natasha

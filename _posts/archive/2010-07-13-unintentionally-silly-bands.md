@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Unintentionally Silly Bands
 date: '2010-07-13T20:43:00.002-04:00'
 author: Liz T.

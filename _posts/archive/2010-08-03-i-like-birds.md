@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I like birds
 date: '2010-08-03T15:39:00.017-04:00'
 author: Liz T.

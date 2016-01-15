@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: kids/books
 date: '2010-05-21T13:42:00.003-04:00'
 author: Paul Theriault

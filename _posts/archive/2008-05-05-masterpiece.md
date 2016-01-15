@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Masterpiece!
 date: '2008-05-05T17:13:00.007-04:00'
 author: Lori

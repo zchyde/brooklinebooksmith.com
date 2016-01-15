@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Moving Day. Again.
 date: '2010-08-29T16:03:00.004-04:00'
 author: Kate Robinson

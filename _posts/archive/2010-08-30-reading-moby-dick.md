@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Reading Moby Dick
 date: '2010-08-30T21:39:00.010-04:00'
 author: Liz T.

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Journaling
 date: '2012-06-07T14:15:00.001-04:00'
 author: Shuchi

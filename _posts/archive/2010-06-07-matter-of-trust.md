@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Matter of Trust
 date: '2010-06-07T08:17:00.002-04:00'
 author: Carl

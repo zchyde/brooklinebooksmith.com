@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A lot can happen in a summer.
 date: '2013-06-24T09:03:00.000-04:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: I'm still at the register.
 date: '2010-09-25T16:39:00.005-04:00'
 author: Kate Robinson

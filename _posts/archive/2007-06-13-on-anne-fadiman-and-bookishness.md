@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: On Anne Fadiman and Bookishness
 date: '2007-06-13T19:15:00.000-04:00'
 author: Lori

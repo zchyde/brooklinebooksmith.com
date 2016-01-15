@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: March of the Authors
 date: '2011-03-07T23:34:00.002-05:00'
 author: Evan

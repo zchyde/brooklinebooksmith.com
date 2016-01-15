@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Winter Institute--Part Three
 date: '2008-01-28T17:37:00.000-05:00'
 author: Lori

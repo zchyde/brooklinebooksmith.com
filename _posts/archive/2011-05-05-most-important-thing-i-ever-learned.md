@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'The Most Important Thing I Ever Learned From My Mom:'
 date: '2011-05-05T11:57:00.006-04:00'
 author: Zoe Hyde

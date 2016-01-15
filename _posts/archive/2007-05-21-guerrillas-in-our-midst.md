@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Guerrillas In Our Midst
 date: '2007-05-21T14:18:00.000-04:00'
 author: Lori

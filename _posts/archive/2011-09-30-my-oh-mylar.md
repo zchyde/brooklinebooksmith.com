@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: My Oh Mylar!
 date: '2011-09-30T08:00:00.000-04:00'
 author: Natasha

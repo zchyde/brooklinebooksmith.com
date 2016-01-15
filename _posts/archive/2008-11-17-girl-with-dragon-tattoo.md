@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Girl With the Dragon Tattoo
 date: '2008-11-17T17:00:00.003-05:00'
 author: Lori

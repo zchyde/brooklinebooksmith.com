@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: July Kids' Events
 date: '2011-07-06T18:48:00.001-04:00'
 author: Emily

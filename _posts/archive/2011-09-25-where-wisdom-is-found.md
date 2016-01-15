@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Where Wisdom is Found
 date: '2011-09-25T14:10:00.000-04:00'
 author: Natasha

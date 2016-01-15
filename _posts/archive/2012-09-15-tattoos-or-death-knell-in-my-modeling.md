@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Tattoos, (or) The Death Knell in my Modeling Career (and it was going so well,
   too)
 date: '2012-09-15T18:46:00.001-04:00'

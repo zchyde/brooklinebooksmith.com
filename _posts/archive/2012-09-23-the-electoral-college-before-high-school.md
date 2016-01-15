@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Electoral College. Before High School.
 date: '2012-09-23T16:38:00.001-04:00'
 author: Shoshana

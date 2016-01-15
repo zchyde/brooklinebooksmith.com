@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Snow Books
 date: '2010-12-01T21:54:00.000-05:00'
 author: Emily

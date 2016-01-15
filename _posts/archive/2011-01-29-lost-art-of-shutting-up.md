@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: '"the lost art of shutting up"'
 date: '2011-01-29T15:17:00.013-05:00'
 author: Kate Robinson

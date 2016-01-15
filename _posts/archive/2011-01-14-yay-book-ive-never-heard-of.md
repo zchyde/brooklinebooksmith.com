@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Yay, Book I've Never Heard Of!
 date: '2011-01-14T09:16:00.000-05:00'
 author: Shoshana

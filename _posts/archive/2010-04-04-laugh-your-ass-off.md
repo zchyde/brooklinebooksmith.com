@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Laugh Your Ass Off
 date: '2010-04-04T21:29:00.002-04:00'
 author: dana brigham

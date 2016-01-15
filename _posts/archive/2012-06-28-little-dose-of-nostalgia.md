@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A Little Dose of Nostalgia
 date: '2012-06-28T10:41:00.001-04:00'
 author: Shuchi

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 100% Ramona Quimby
 date: '2010-07-28T07:53:00.003-04:00'
 author: Emily

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Best Christmas Novel Ever
 date: '2011-12-21T18:04:00.000-05:00'
 author: Emily

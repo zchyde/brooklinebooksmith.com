@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Destinaton: Walden Pond'
 date: '2012-01-31T09:00:00.000-05:00'
 author: Jodie

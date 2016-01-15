@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Twesigye Jackson Kaguri
 date: '2010-06-25T14:50:00.003-04:00'
 author: Paul Theriault

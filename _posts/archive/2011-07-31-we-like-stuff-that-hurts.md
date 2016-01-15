@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: We like stuff that hurts.
 date: '2011-07-31T15:23:00.006-04:00'
 author: Kate Robinson

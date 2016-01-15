@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Seuss Seuss Seuss Seuss Seuss!
 date: '2013-02-25T09:11:00.000-05:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The New Percy Jackson Book Has Arrived!
 date: '2008-05-08T13:18:00.010-04:00'
 author: Lori

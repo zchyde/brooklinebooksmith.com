@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Moody vs Boredom
 date: '2011-05-25T14:28:00.001-04:00'
 author: Emily

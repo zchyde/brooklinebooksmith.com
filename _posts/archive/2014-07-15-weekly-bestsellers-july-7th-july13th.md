@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Weekly Bestsellers July 7th-July 13th '
 date: '2014-07-15T17:33:00.000-04:00'
 author: Shuchi

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: A world, a whole world!
 date: '2010-04-08T19:19:00.004-04:00'
 author: Evan

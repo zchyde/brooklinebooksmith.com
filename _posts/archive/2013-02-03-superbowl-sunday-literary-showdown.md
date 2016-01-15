@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: 'Superbowl Sunday: Literary Showdown'
 date: '2013-02-03T16:33:00.000-05:00'
 author: Lydia

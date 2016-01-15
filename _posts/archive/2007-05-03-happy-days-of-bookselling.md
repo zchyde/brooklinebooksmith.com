@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Happy Days of Bookselling
 date: '2007-05-03T15:08:00.000-04:00'
 author: Lori

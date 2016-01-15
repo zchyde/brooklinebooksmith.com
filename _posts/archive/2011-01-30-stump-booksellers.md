@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Stump the Booksellers!
 date: '2011-01-30T19:45:00.000-05:00'
 author: Shoshana

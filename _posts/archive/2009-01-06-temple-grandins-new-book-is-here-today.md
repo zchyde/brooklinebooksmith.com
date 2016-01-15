@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Temple Grandin's New Book Is Here Today. Temple Grandin Will Be Here Next Week!
 date: '2009-01-06T19:39:00.008-05:00'
 author: Lori

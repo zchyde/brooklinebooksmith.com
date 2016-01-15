@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Some Spring Reading
 date: '2010-04-07T09:45:00.002-04:00'
 author: Emily

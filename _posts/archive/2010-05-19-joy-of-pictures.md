@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Joy of Pictures
 date: '2010-05-19T10:44:00.006-04:00'
 author: Emily

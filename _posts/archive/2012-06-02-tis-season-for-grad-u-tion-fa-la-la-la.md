@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: "'Tis the season for grad-u-a-tion, fa la la la la, la la la snore"
 date: '2012-06-02T17:23:00.002-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Never judge a book by its cover...
 date: '2011-10-26T16:54:00.002-04:00'
 author: Emily

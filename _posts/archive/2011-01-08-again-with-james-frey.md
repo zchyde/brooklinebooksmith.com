@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Again, with the James Frey-
 date: '2011-01-08T10:27:00.007-05:00'
 author: Kate Robinson

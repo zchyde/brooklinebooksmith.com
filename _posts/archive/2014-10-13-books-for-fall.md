@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Books for the Fall
 date: '2014-10-13T09:00:00.000-04:00'
 author: Amy

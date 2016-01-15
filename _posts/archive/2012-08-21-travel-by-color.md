@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Travel by Color
 date: '2012-08-21T11:47:00.001-04:00'
 author: Jodie

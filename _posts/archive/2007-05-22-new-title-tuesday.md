@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: New Title Tuesday!
 date: '2007-05-22T18:00:00.000-04:00'
 author: Lori

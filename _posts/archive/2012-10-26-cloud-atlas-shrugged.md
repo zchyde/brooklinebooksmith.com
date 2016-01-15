@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Cloud Atlas Shrugged
 date: '2012-10-26T12:13:00.001-04:00'
 author: Natasha

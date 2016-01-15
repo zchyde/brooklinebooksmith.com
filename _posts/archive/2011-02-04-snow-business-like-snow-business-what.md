@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Snow business like snow business (...what?)
 date: '2011-02-04T09:30:00.003-05:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: The Great American Ne'er-do-well
 date: '2011-07-21T23:38:00.004-04:00'
 author: Zoe Hyde

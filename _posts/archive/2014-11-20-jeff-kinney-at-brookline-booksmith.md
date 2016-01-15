@@ -1,5 +1,5 @@
 ---
-layout: post
+published: false
 title: Jeff Kinney at Brookline Booksmith!
 date: '2014-11-20T20:01:00.002-05:00'
 author: Zoe Hyde
