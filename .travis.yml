@@ -24,4 +24,4 @@ deploy:
   skip_cleanup: true
   on:
     repo: sonnetmedia/brooklinebooksmith.com
-    branch: site
+    branch: gh-pages
