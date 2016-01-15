@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Of tiny soaps and books
 date: '2013-11-15T11:00:00.000-05:00'
 author: Natasha

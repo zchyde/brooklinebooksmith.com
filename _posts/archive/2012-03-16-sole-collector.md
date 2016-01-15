@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sole Collector
 date: '2012-03-16T10:56:00.000-04:00'
 author: Natasha

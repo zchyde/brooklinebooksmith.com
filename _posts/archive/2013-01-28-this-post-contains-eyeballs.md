@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: This post contains eyeballs.
 date: '2013-01-28T08:00:00.000-05:00'
 author: Shoshana

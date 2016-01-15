@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: RIP Sendak
 date: '2012-05-09T20:44:00.000-04:00'
 author: Emily

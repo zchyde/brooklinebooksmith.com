@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sign of the Times
 date: '2012-01-20T12:30:00.000-05:00'
 author: Natasha

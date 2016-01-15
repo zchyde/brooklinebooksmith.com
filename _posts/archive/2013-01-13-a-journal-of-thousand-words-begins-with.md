@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A journal of a thousand words begins with a single schlep - to our Writer's
   Corner!
 date: '2013-01-13T12:50:00.000-05:00'

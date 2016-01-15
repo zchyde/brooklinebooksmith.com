@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Discovering New Old Favourites
 date: '2014-04-05T13:30:00.000-04:00'
 author: Kat

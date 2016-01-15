@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: '"Sleepwalk With Me" Sneak Peak feat. Ira Glass, a small bribe between booksellers,
   and a theater full of nerds.'
 date: '2012-04-27T01:51:00.001-04:00'

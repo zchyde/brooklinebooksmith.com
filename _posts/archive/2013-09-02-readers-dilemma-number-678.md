@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reader's Dilemma Number 678
 date: '2013-09-02T09:00:00.000-04:00'
 author: Amy

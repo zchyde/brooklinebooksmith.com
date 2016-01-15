@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ocean's Eleven Meets High School Musical. (In middle school.)
 date: '2014-06-02T08:47:00.000-04:00'
 author: Shoshana

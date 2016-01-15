@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Luminarious New Zealand
 date: '2013-10-18T11:00:00.000-04:00'
 author: Natasha

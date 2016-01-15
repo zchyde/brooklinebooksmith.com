@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: To be closely followed by its sequel, "donkeys never lie about altruism"
 date: '2012-01-06T00:31:00.002-05:00'
 author: Zoe Hyde

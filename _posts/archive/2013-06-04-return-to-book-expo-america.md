@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Return to Book Expo America
 date: '2013-06-04T09:00:00.000-04:00'
 author: Jodie

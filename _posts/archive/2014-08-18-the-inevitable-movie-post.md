@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Inevitable Movie Post
 date: '2014-08-18T08:00:00.000-04:00'
 author: Amy

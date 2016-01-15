@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Twenty-four Hours with Proust
 date: '2013-02-26T09:00:00.000-05:00'
 author: Jodie

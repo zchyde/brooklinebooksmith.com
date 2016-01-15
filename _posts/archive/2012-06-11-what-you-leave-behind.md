@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: What you leave behind
 date: '2012-06-11T13:48:00.001-04:00'
 author: Kate Robinson

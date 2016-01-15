@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Creating a Feast
 date: '2012-04-25T20:23:00.002-04:00'
 author: Emily

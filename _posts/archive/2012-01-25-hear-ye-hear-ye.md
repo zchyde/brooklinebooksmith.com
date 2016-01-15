@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hear Ye Hear Ye
 date: '2012-01-25T21:55:00.000-05:00'
 author: Emily

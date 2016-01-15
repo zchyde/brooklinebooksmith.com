@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Headed Toward Icy Waters
 date: '2012-04-18T19:39:00.000-04:00'
 author: Emily

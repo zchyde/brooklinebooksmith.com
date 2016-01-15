@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: I Have...Strange Taste in Picture Books
 date: '2014-07-21T09:00:00.000-04:00'
 author: Amy

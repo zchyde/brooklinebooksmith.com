@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Bookshelves of Character(s)
 date: '2013-03-29T12:17:00.000-04:00'
 author: Natasha

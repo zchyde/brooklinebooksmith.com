@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Your assignment this summer: Read something good'
 date: '2013-06-10T09:00:00.000-04:00'
 author: Shoshana

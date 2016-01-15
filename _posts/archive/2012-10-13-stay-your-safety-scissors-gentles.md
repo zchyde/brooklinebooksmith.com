@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Stay Your Safety Scissors, Gentles!
 date: '2012-10-13T14:28:00.001-04:00'
 author: Zoe Hyde

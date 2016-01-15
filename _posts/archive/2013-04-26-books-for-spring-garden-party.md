@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Books for a Spring Garden Party
 date: '2013-04-26T11:00:00.000-04:00'
 author: Natasha

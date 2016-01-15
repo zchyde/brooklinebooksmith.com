@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hollah for a dollah
 date: '2012-08-10T10:30:00.000-04:00'
 author: Natasha

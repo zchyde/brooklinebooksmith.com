@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Music and Written Word Universality
 date: '2013-09-16T09:00:00.000-04:00'
 author: Amy

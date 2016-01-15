@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hobbitual Chaos
 date: '2012-10-19T11:00:00.000-04:00'
 author: Natasha

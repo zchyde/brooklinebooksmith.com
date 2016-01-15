@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Where Barbie spins with Spiderman
 date: '2013-01-14T11:07:00.000-05:00'
 author: Shoshana

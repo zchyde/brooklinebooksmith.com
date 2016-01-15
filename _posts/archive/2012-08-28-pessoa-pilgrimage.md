@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Pessoa Pilgrimage
 date: '2012-08-28T15:38:00.000-04:00'
 author: Jodie

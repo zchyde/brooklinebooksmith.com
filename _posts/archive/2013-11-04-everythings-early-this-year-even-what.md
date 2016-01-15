@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Everything's early this year. Even the "what I'm thankful for" list.
 date: '2013-11-04T09:00:00.000-05:00'
 author: Shoshana

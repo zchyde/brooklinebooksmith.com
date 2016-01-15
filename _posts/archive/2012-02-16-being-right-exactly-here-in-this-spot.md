@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Being Right Exactly Here, In This Spot, Right Now
 date: '2012-02-16T09:00:00.000-05:00'
 author: Zoe Hyde

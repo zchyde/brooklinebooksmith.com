@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: April Fool!
 date: '2013-04-02T00:01:00.000-04:00'
 author: Shoshana

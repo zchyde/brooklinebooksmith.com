@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Time to Plan Your Summer Destination
 date: '2012-03-27T16:10:00.000-04:00'
 author: Jodie

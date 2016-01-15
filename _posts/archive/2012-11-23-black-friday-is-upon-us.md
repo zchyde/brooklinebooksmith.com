@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Black Friday is upon us!
 date: '2012-11-23T10:37:00.000-05:00'
 author: Natasha

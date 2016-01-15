@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Bookstore Tourism: Tokyo Edition'
 date: '2013-09-06T10:21:00.000-04:00'
 author: Natasha

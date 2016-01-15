@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sometimes Books Change You. Sometimes Those Are Award Books. Maybe You Should
   Check One Out.
 date: '2014-01-27T09:00:00.000-05:00'

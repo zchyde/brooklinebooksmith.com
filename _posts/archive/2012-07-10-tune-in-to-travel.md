@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Tune in to Travel
 date: '2012-07-10T13:34:00.001-04:00'
 author: Jodie

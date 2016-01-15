@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Because history happens to people
 date: '2013-05-27T08:00:00.000-04:00'
 author: Shoshana

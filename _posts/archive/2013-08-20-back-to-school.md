@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Back to School
 date: '2013-08-20T09:00:00.000-04:00'
 author: Jodie

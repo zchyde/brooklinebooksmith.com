@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Backbone of a Book is its Spine
 date: '2013-02-04T11:00:00.000-05:00'
 author: Tess Williams

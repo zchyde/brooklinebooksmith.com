@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Team Zoe Gets Real About Easter
 date: '2012-02-23T23:24:00.001-05:00'
 author: Zoe Hyde

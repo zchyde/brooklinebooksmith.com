@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: From the Mixed-Up Memories of a Basil-Loving Bookseller
 date: '2013-04-29T08:01:00.000-04:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: August Shenanigans
 date: '2013-08-07T10:00:00.000-04:00'
 author: Jamie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reading is for sharing! Sharing is caring!
 date: '2013-03-18T17:06:00.001-04:00'
 author: Tess Williams

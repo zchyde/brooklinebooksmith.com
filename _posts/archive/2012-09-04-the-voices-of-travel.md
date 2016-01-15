@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Voices of Travel
 date: '2012-09-04T15:07:00.000-04:00'
 author: Jodie

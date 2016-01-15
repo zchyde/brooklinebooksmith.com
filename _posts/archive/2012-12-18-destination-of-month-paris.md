@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination of the Month: Paris'
 date: '2012-12-18T09:00:00.000-05:00'
 author: Jodie

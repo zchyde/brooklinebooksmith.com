@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Only 9 shopping months until Christmas! 8 until Hanukkah!
 date: '2013-04-01T08:00:00.000-04:00'
 author: Shoshana

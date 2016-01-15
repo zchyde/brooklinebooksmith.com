@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination of the Month: Myanmar (Burma)'
 date: '2013-01-08T09:00:00.000-05:00'
 author: Jodie

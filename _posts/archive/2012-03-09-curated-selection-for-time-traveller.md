@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Curated Selection for the Time-Traveller
 date: '2012-03-09T12:13:00.000-05:00'
 author: Natasha

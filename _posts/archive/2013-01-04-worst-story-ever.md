@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Worst Story Ever
 date: '2013-01-04T11:00:00.000-05:00'
 author: Natasha

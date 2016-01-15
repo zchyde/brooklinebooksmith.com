@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Jamie''s "Resolutions" '
 date: '2014-01-01T19:01:00.000-05:00'
 author: Jamie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Manifest Destiny
 date: '2013-05-03T11:00:00.000-04:00'
 author: Natasha

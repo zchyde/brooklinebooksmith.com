@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Leaving On a Jet Plane
 date: '2014-05-03T15:00:00.000-04:00'
 author: Kat

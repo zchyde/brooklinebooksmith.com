@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dream Destinations
 date: '2012-02-07T10:55:00.000-05:00'
 author: Jodie

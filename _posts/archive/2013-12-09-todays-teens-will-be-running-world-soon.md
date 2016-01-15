@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Today's teens will be running the world soon. Here's why I'm not worried.
 date: '2013-12-09T09:00:00.000-05:00'
 author: Shoshana

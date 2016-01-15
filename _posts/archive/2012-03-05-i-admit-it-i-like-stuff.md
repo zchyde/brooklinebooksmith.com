@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Saving the World, One Accessory at a Time
 date: '2012-03-05T13:39:00.006-05:00'
 author: Julia

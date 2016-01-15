@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Associated Press: Travel Books as Gifts'
 date: '2012-12-04T09:00:00.000-05:00'
 author: Jodie

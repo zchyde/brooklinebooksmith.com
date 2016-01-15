@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reading the Boston Marathon
 date: '2013-04-30T09:00:00.000-04:00'
 author: Jodie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Graphica grows!
 date: '2012-09-30T15:51:00.000-04:00'
 author: Shoshana

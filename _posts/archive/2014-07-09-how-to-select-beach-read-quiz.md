@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'How to Select a Beach Read: A Quiz'
 date: '2014-07-09T10:00:00.000-04:00'
 author: Jamie

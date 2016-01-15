@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination: Preparation. For TOKYO!'
 date: '2013-07-12T11:30:00.000-04:00'
 author: Natasha

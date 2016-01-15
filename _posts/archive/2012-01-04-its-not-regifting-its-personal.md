@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: It's not regifting, it's personal
 date: '2012-01-04T13:16:00.000-05:00'
 author: Emily

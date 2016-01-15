@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Love Guides: They Aren''t What You''re Thinking'
 date: '2012-05-29T13:37:00.000-04:00'
 author: Jodie

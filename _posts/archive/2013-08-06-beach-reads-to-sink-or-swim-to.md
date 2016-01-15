@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Beach Reads to Sink or Swim to
 date: '2013-08-06T09:00:00.000-04:00'
 author: Jodie

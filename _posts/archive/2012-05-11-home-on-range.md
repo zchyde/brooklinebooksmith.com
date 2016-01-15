@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Home on the Range
 date: '2012-05-11T10:30:00.000-04:00'
 author: Natasha

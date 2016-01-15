@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Friday Firsts
 date: '2012-07-27T09:00:00.000-04:00'
 author: Natasha

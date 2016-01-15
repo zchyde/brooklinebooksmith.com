@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Last Days of Ptolemy Gray
 date: '2012-08-18T10:27:00.000-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Put down your shovels and listen.
 date: '2013-03-11T09:39:00.000-04:00'
 author: Shoshana

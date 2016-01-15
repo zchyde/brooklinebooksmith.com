@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hey, I'm Jamie.  My heartstrings are easily pulled.
 date: '2012-11-14T12:47:00.000-05:00'
 author: Jamie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: This Week in Events
 date: '2014-07-14T18:17:00.000-04:00'
 author: Jamie

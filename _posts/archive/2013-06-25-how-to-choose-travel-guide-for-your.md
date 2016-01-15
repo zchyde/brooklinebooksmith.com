@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How to Choose a Travel Guide for Your Little Sister
 date: '2013-06-25T09:00:00.000-04:00'
 author: Jodie

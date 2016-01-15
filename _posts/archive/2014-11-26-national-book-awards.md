@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: National Book Awards
 date: '2014-11-26T08:00:00.000-05:00'
 author: Amy

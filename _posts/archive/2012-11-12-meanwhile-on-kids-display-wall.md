@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Meanwhile, on the Kids' Display Wall...
 date: '2012-11-12T17:21:00.002-05:00'
 author: Shoshana

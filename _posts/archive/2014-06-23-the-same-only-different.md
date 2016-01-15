@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The same only different
 date: '2014-06-23T13:30:00.001-04:00'
 author: Amy

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Cattier Book Titles
 date: '2012-06-15T10:30:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Customer Assistance: A Poem'
 date: '2013-08-26T09:00:00.000-04:00'
 author: Shoshana

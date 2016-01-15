@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Wasn't It Just September?
 date: '2012-11-21T19:44:00.000-05:00'
 author: Jamie

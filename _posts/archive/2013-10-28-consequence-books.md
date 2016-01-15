@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Consequence Books
 date: '2013-10-28T09:00:00.000-04:00'
 author: Amy

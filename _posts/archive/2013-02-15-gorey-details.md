@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gorey Details
 date: '2013-02-15T13:23:00.001-05:00'
 author: Natasha

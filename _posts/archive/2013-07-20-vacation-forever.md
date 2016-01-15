@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'VACATION FOREVER. '
 date: '2013-07-20T11:00:00.000-04:00'
 author: Jamie

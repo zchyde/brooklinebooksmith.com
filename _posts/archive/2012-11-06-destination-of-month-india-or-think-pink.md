@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination of the Month: India, or "think pink"'
 date: '2012-11-06T09:00:00.000-05:00'
 author: Jodie

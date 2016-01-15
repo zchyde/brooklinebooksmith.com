@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'PSA: Linda Ronstadt Edition'
 date: '2013-08-21T11:00:00.000-04:00'
 author: Jamie

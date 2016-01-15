@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gratuitous Cat Pictures!
 date: '2012-01-06T12:30:00.000-05:00'
 author: Natasha

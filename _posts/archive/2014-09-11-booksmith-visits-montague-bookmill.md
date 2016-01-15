@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Booksmith Visits: Montague Bookmill (montage book milk)'
 date: '2014-09-11T18:06:00.000-04:00'
 author: Zoe Hyde

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'QUIZ: Should you fire your Muse?'
 date: '2013-07-27T22:53:00.002-04:00'
 author: Lydia

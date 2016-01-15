@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Stick To It-iveness
 date: '2013-07-05T11:00:00.000-04:00'
 author: Natasha

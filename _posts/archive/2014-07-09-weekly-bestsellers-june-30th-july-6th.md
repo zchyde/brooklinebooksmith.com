@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Weekly Bestsellers June 30th - July 6th
 date: '2014-07-09T16:48:00.003-04:00'
 author: Shuchi

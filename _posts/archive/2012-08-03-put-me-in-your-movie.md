@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Put me in your movie!
 date: '2012-08-03T10:30:00.000-04:00'
 author: Natasha

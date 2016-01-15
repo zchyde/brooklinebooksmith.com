@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: January, you start the year off fine...
 date: '2013-01-07T09:00:00.000-05:00'
 author: Shoshana

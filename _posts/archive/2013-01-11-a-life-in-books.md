@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Life in Books
 date: '2013-01-11T11:30:00.000-05:00'
 author: Natasha

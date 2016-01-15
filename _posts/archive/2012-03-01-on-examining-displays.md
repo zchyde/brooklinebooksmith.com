@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: On Examining Displays
 date: '2012-03-01T19:58:00.000-05:00'
 author: Zoe Hyde

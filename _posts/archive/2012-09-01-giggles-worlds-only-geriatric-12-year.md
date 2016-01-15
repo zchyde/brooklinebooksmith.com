@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Giggles: The World''s Only Geriatric 12 Year Old'
 date: '2012-09-01T19:27:00.000-04:00'
 author: Zoe Hyde

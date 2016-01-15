@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Loss Drives People and Makes For Excellent Books
 date: '2014-03-17T09:00:00.000-04:00'
 author: Amy

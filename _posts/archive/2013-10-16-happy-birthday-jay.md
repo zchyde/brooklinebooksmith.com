@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Happy Birthday, Jay
 date: '2013-10-16T11:00:00.000-04:00'
 author: Jamie

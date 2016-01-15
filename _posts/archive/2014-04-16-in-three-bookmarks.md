@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'In Three Bookmarks '
 date: '2014-04-16T12:35:00.002-04:00'
 author: Jamie

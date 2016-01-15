@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: When You Spend Too Much Time Selling Kids Books
 date: '2014-12-15T08:00:00.000-05:00'
 author: Amy

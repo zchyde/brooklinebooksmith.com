@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Rainy Day Happenings
 date: '2013-06-14T11:00:00.000-04:00'
 author: Natasha

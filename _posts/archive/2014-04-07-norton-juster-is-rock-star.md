@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Norton Juster is a rock star.
 date: '2014-04-07T09:23:00.000-04:00'
 author: Shoshana

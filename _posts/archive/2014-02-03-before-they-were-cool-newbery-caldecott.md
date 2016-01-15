@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Before they were cool: Newbery, Caldecott, and other ALA Youth Media Award
   winners'
 date: '2014-02-03T10:26:00.000-05:00'

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: My Way or Norway, or; Tied Up in Knuts
 date: '2012-11-30T11:50:00.000-05:00'
 author: Natasha

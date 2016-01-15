@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sigh No More, Ladies
 date: '2012-03-22T20:12:00.000-04:00'
 author: Julia

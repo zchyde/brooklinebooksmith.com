@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Race Into the Booksmith!
 date: '2012-04-13T10:59:00.000-04:00'
 author: Natasha

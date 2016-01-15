@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: '"So my friend/sister/coworker/neighbor/cousin is having a baby..."'
 date: '2014-03-10T09:00:00.000-04:00'
 author: Shoshana

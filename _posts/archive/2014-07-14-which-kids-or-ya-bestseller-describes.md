@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Which kids' or YA bestseller describes your life???
 date: '2014-07-14T09:39:00.000-04:00'
 author: Shoshana

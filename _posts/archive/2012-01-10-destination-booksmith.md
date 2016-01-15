@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination: Booksmith'
 date: '2012-01-10T13:38:00.001-05:00'
 author: Jodie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Go With the Flow
 date: '2013-01-18T11:52:00.000-05:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Violent Bear it Away
 date: '2012-06-29T10:30:00.000-04:00'
 author: Natasha

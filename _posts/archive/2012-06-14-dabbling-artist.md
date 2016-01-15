@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Dabbling Artist
 date: '2012-06-14T15:56:00.000-04:00'
 author: Shuchi

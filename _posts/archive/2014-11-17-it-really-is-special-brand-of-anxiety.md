@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: It Really is a Special Brand of Anxiety
 date: '2014-11-17T08:00:00.000-05:00'
 author: Amy

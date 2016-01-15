@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Post-Keillor Roundup
 date: '2014-06-27T16:51:00.000-04:00'
 author: Jamie

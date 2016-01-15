@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Post About Writing is Almost About Books, Right?
 date: '2013-12-02T09:00:00.000-05:00'
 author: Amy

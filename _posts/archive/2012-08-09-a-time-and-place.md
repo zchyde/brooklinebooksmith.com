@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Time and a Place
 date: '2012-08-09T15:26:00.001-04:00'
 author: Shuchi

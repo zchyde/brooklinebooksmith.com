@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Nonfiction Section is All Around You
 date: '2014-10-23T13:19:00.000-04:00'
 author: Natasha

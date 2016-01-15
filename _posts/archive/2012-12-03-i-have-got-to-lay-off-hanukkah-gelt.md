@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: I have got to lay off the Hanukkah gelt before bedtime.
 date: '2012-12-03T09:52:00.003-05:00'
 author: Shoshana

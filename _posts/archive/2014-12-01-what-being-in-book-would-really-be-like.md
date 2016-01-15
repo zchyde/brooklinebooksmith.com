@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: What Being in A Book Would Really Be Like
 date: '2014-12-01T08:00:00.000-05:00'
 author: Amy

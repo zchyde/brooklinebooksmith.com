@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Top 10 observations on our top 25 kids' books of 2013
 date: '2014-01-06T09:00:00.000-05:00'
 author: Shoshana

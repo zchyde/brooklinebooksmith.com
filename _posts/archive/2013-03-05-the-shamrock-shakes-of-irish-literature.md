@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Shamrock Shakes of Irish Literature
 date: '2013-03-05T09:00:00.000-05:00'
 author: Jodie

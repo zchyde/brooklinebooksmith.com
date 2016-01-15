@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Weekly Bestsellers: September 8-September 14'
 date: '2014-09-16T11:18:00.000-04:00'
 author: Shuchi

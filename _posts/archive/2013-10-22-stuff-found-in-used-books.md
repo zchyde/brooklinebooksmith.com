@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Stuff Found in Used Books
 date: '2013-10-22T15:35:00.003-04:00'
 author: Lydia

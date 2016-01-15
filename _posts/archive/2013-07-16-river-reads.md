@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: River Reads
 date: '2013-07-16T09:00:00.000-04:00'
 author: Jodie

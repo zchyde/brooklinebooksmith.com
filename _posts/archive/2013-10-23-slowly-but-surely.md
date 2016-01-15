@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Slowly But Surely
 date: '2013-10-23T13:49:00.001-04:00'
 author: Jamie

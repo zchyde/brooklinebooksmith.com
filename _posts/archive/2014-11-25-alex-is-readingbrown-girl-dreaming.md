@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Alex Is Reading...BROWN GIRL DREAMING
 date: '2014-11-25T16:00:00.000-05:00'
 author: Alex S

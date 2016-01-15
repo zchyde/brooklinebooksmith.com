@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Earnest Readers at the Boston Book Festival
 date: '2012-10-31T11:26:00.000-04:00'
 author: Jodie

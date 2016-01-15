@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Back to Work!
 date: '2012-05-25T10:30:00.000-04:00'
 author: Natasha

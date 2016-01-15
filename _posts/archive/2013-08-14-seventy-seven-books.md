@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Seventy-Seven Books
 date: '2013-08-14T15:56:00.000-04:00'
 author: Jamie

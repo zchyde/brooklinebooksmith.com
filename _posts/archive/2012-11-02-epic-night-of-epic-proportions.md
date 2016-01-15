@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Epic Night of Epic Proportions
 date: '2012-11-02T11:00:00.000-04:00'
 author: Natasha

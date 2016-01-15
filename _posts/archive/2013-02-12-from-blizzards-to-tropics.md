@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: From Blizzards to Tropics
 date: '2013-02-12T09:00:00.000-05:00'
 author: Jodie

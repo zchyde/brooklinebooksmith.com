@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: I Shot the Serif
 date: '2012-03-29T10:00:00.000-04:00'
 author: Julia

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: In which Amy enthuses about endings
 date: '2013-03-25T09:00:00.000-04:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Blackout! An Overly Dramatic Retelling
 date: '2014-07-02T16:46:00.001-04:00'
 author: Jamie

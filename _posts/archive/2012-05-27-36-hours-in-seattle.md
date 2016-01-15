@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 36 Hours in Seattle
 date: '2012-05-27T16:58:00.006-04:00'
 author: Natasha

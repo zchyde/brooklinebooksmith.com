@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: It's Just A Sign That We're Really Good at Our Jobs
 date: '2014-10-06T08:00:00.000-04:00'
 author: Amy

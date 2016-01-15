@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Pretty Things
 date: '2012-09-28T13:38:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Tattoos, Denny's and other Japanese literary symbols
 date: '2013-07-19T11:30:00.000-04:00'
 author: Natasha

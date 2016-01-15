@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Meet Amy. She's Excited About Saturday.
 date: '2013-07-29T09:30:00.000-04:00'
 author: Amy

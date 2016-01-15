@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Destination: Brazil'
 date: '2012-05-01T08:54:00.000-04:00'
 author: Jodie

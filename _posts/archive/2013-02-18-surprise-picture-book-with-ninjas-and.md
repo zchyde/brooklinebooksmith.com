@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Surprise Picture Books With Ninjas! (and other exciting stuff)
 date: '2013-02-18T15:25:00.000-05:00'
 author: Tess Williams

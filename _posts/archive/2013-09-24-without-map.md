@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Without a Map
 date: '2013-09-24T17:42:00.001-04:00'
 author: Jodie

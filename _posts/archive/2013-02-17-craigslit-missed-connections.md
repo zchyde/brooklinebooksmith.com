@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'CraigsLit: Missed Connections'
 date: '2013-02-17T14:22:00.001-05:00'
 author: Lydia

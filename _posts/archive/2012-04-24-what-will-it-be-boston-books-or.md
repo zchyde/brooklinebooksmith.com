@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'What Will It Be, Boston: Books or Burritos?'
 date: '2012-04-24T11:54:00.000-04:00'
 author: Jodie

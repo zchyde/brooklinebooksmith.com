@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Journey Home
 date: '2012-10-11T19:24:00.000-04:00'
 author: Shuchi

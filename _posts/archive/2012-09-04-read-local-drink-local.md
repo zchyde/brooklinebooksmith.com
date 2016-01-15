@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Read Local, Drink Local
 date: '2012-09-04T16:28:00.001-04:00'
 author: Zoe Hyde

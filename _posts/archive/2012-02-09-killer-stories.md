@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Killer Stories
 date: '2012-02-09T17:43:00.002-05:00'
 author: Zoe Hyde

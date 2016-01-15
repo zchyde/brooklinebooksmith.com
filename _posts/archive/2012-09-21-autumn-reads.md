@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Autumn Reads
 date: '2012-09-21T13:20:00.000-04:00'
 author: Natasha

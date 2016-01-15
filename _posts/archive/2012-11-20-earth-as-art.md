@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Earth as Art
 date: '2012-11-20T09:00:00.000-05:00'
 author: Jodie

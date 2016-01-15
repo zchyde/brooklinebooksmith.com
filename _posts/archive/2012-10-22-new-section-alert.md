@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: New section alert!
 date: '2012-10-22T17:57:00.001-04:00'
 author: Shoshana

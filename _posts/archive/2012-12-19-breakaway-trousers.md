@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Breakaway Trousers
 date: '2012-12-19T15:12:00.001-05:00'
 author: Jamie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Insert Nautical Metaphor Here
 date: '2013-04-17T13:50:00.001-04:00'
 author: Jamie

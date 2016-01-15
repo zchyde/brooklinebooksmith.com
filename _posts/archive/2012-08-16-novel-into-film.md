@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Novel Into Film
 date: '2012-08-16T14:58:00.001-04:00'
 author: Shuchi

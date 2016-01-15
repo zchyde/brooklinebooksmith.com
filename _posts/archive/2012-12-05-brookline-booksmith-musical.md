@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Brookline Booksmith: The Musical'
 date: '2012-12-05T11:30:00.000-05:00'
 author: Jamie

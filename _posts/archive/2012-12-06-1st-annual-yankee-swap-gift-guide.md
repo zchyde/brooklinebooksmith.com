@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 1st Annual Yankee Swap Gift Guide
 date: '2012-12-06T14:51:00.000-05:00'
 author: Natasha

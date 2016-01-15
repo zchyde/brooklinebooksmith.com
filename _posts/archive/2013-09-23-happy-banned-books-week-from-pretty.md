@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Happy Banned Books Week from a pretty darned intellectually free place
 date: '2013-09-23T09:32:00.000-04:00'
 author: Shoshana

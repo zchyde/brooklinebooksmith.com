@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Booksmiths at BEA
 date: '2013-05-22T18:00:00.004-04:00'
 author: Jamie

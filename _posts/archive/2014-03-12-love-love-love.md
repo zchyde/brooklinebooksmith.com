@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Love, Love, Love. '
 date: '2014-03-12T15:29:00.001-04:00'
 author: Jamie

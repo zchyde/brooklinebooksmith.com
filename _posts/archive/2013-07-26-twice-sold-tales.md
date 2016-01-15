@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Twice Sold Tales
 date: '2013-07-26T10:28:00.000-04:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Introducing Booksmith Private Reserve
 date: '2013-02-08T11:30:00.000-05:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Does That Book Really Need a Tagline?
 date: '2014-02-10T09:00:00.000-05:00'
 author: Amy

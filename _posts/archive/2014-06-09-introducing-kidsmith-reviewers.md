@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Introducing the Kidsmith Reviewers
 date: '2014-06-09T09:00:00.000-04:00'
 author: Clarissa Murphy

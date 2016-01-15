@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The battle is on!
 date: '2012-02-05T09:21:00.001-05:00'
 author: Shoshana

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Czech it Out!
 date: '2012-03-02T12:30:00.000-05:00'
 author: Natasha

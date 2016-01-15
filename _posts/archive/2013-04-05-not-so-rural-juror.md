@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Not-so Rural Juror
 date: '2013-04-05T11:57:00.000-04:00'
 author: Natasha

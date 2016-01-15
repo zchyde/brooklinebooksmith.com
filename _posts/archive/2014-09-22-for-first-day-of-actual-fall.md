@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: For the First Day of Actual Fall
 date: '2014-09-22T08:00:00.000-04:00'
 author: Amy

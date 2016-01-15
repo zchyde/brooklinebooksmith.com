@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Literary Mad Lib CONTEST!
 date: '2013-03-08T12:45:00.000-05:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Summers Are For Bucket Lists
 date: '2014-05-26T09:00:00.000-04:00'
 author: Amy

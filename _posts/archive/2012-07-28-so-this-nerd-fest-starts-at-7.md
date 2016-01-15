@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: '"So this nerd fest starts at 7?"'
 date: '2012-07-28T11:15:00.003-04:00'
 author: Zoe Hyde

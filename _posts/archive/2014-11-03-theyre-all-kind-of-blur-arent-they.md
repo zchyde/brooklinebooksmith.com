@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: They're All Kind of a Blur, Aren't They?
 date: '2014-11-03T10:02:00.000-05:00'
 author: Amy

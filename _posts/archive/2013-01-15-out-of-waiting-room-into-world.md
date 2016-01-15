@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Out of the Waiting Room, Into the World
 date: '2013-01-15T09:00:00.000-05:00'
 author: Jodie

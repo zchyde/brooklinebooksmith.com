@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: In Boston for AWP?
 date: '2013-03-06T12:15:00.000-05:00'
 author: Jamie

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: I hear it's below 90 in Canada
 date: '2013-07-08T09:20:00.000-04:00'
 author: Shoshana

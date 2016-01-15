@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How to Fold a Map
 date: '2012-10-22T19:42:00.002-04:00'
 author: Jodie

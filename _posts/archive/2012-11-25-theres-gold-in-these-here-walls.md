@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: There's gold in these here walls
 date: '2012-11-25T14:36:00.000-05:00'
 author: Lydia

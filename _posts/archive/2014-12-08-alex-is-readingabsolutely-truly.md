@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Alex Is Reading...ABSOLUTELY TRULY
 date: '2014-12-08T11:35:00.000-05:00'
 author: Alex S

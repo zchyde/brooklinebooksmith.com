@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: For a Long Time...I Talk About Proust
 date: '2012-11-13T13:07:00.000-05:00'
 author: Jodie

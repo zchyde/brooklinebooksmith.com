@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Begone, blahs!
 date: '2013-03-04T09:00:00.000-05:00'
 author: Shoshana

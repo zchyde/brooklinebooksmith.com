@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Latest & Greatest Hardcovers, also Finland
 date: '2014-09-12T12:38:00.001-04:00'
 author: Natasha

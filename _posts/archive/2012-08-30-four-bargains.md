@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Four Bargains
 date: '2012-08-30T10:00:00.000-04:00'
 author: Shuchi

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Bruins Booksmith!
 date: '2013-06-07T11:00:00.000-04:00'
 author: Natasha

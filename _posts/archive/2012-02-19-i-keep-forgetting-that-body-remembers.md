@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: I keep forgetting that the body remembers...
 date: '2012-02-19T10:58:00.025-05:00'
 author: Kate Robinson

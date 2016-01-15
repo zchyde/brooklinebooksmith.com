@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Those Wacky Authors!
 date: '2012-01-14T13:19:00.000-05:00'
 author: Natasha

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "&#35;WeNeedDiverseBooks. (We have some. We need more.)"
 date: '2014-05-05T09:00:00.000-04:00'
 author: Shoshana

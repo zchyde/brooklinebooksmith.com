@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Baedeker's Back
 date: '2012-10-02T09:00:00.000-04:00'
 author: Jodie

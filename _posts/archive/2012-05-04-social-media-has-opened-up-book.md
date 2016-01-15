@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Literary Mix Tapes
 date: '2012-05-04T09:51:00.001-04:00'
 author: Natasha

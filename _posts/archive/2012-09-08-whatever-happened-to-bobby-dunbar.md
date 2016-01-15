@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Whatever Happened to Bobby Dunbar?
 date: '2012-09-08T17:52:00.004-04:00'
 author: Zoe Hyde

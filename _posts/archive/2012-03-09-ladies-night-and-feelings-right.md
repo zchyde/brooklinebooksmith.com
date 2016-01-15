@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ladies Night, and the Feeling's Right
 date: '2012-03-09T00:01:00.000-05:00'
 author: Zoe Hyde

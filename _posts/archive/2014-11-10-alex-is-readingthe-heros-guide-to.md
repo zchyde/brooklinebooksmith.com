@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Alex Is Reading...THE HERO'S GUIDE TO SAVING YOUR KINGDOM
 date: '2014-11-10T10:56:00.000-05:00'
 author: Alex S

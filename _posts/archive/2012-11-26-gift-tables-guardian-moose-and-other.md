@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gift tables, a guardian moose, and other reasons I'm still feeling thankful
 date: '2012-11-26T11:42:00.004-05:00'
 author: Shoshana

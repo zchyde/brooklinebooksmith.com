@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Travelin' Partner
 date: '2012-08-07T09:25:00.000-04:00'
 author: Jodie

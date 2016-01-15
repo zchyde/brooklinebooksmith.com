@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: In the Emergency of an Event
 date: '2013-10-08T12:13:00.000-04:00'
 author: Lydia

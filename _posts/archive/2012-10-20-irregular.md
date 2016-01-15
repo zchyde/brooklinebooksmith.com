@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Irregular.
 date: '2012-10-20T15:34:00.001-04:00'
 author: Zoe Hyde
