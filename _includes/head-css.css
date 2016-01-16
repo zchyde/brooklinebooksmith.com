@@ -15,7 +15,7 @@
 {% assign background_image_mobile = page.featured_image_path %}
 
 
-{% if background_image != '' %}
+{% if page.featured_image_path and page.featured_image_path != '' %}
 
 <style type="text/css">
 header.navigation {

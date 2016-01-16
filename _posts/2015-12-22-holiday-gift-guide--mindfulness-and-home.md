@@ -5,7 +5,6 @@ date: 2015-12-22T00:00:00.000Z
 description: ''
 featured_image_path: /uploads/2015-holiday-gift-guide-banner.jpg
 featured_image_position: 50
-image_path: ''
 fancy_font: Fredericka+the+Great
 category: Holiday-Gift-Guide
 staff: '-staff-'

@@ -5,7 +5,6 @@ date: 2015-12-16T11:55:00.000Z
 description: ''
 featured_image_path: /uploads/2015-holiday-gift-guide-banner-cover-punbook.jpg
 featured_image_position: 35
-image_path: ''
 fancy_font: Fredericka+the+Great
 category: Holiday-Gift-Guide
 staff: '-staff-'

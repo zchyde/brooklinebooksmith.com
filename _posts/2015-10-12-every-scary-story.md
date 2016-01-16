@@ -3,6 +3,8 @@ layout: post
 title: Every Scary Story
 date: '2015-10-12T10:00:00.000-04:00'
 author: Alex S
+featured_image_path: '/uploads/secret-garden.jpg'
+featured_image_position: 50
 tags:
 - alex is blogging
 - halloween

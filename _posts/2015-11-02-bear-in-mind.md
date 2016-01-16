@@ -3,6 +3,8 @@ layout: post
 title: Bear In Mind
 date: '2015-11-02T10:30:00.000-05:00'
 author: Alex S
+featured_image_path: ''
+featured_image_position: 50
 tags:
 - alex is blogging
 modified_time: '2015-11-02T10:30:02.548-05:00'
