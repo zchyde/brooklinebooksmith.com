@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So long...so much waiting...
+title: "So long...so much waiting..."
 date: '2015-02-23T14:51:00.001-05:00'
 author: Amy
 tags:
