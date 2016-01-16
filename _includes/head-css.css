@@ -43,7 +43,7 @@ header.navigation {
       {% if page.banner_height %}
         height:{{ page.banner_height }}px;
       {% else %}
-        height: 450px;
+        height: 470px;
       {% endif %}
       max-height:90vh;
     }
