@@ -1,6 +1,6 @@
 <div class="entry-content">
   {% if page.image_path and page.image_path != '' %}
-    <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
+    <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;" />
   {% endif %}
 
   {% if page.lede %}
@@ -11,10 +11,7 @@
 
   {% if page.content %}
     <div class="items">
-      <div class="item editable">
-        {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
-        {{ page.content  | markdownify }}
-      </div>
+      <div class="item editable"><p>For the last week, Brookline Booksmith has joined the American Library Association in celebrating Banned Book Week&ndash;a yearly recognition of books that have been challenged and banned in American libraries and schools. As much as it&rsquo;s a celebration of books and their freedom to express, it&rsquo;s also a vocal reminder that censorship occurs in our country on a regular basis.</p><p>This year, to demonstrate our belief as a bookstore that readers should be allowed access to the books they want and need, we&rsquo;ve put our favorite banned and challenged books on display.</p><p><a href="http://1.bp.blogspot.com/-Yy1S5PX9fNg/VhGKStGWDeI/AAAAAAAAAKk/clBZlUTHpi0/s1600/IMG_1399.JPG"><img alt="" src="http://1.bp.blogspot.com/-Yy1S5PX9fNg/VhGKStGWDeI/AAAAAAAAAKk/clBZlUTHpi0/s320/IMG_1399.JPG" /></a></p><p>A lot of the titles (and the reasons they&rsquo;ve been banned for) have come as a surprise to staff and customers alike. You&rsquo;ll notice a lot of classics up there&ndash;as well as a lot of children&rsquo;s books. Books for young people are the most frequently banned and challenged literature in the U.S.; classics that appear on school curricula are also targeted.</p><p>Censorship is all about ending conversations. We wanted to start one. All week, as we&rsquo;ve been sharing our favorite banned books with our community of readers, we&rsquo;ve been adding your favorites to the bulletin board outside our front door. We have to say, we love the results.</p><p><a href="http://4.bp.blogspot.com/-7GptPELLonY/VhGKSyogAnI/AAAAAAAAAKo/P7XCDvPFELQ/s1600/IMG_1396.JPG"><img alt="" src="http://4.bp.blogspot.com/-7GptPELLonY/VhGKSyogAnI/AAAAAAAAAKo/P7XCDvPFELQ/s320/IMG_1396.JPG" /></a></p><p>We are always thankful for a community that would rather be challenged by books than challenge a book&rsquo;s right to exist. Thank you for stopping to look and think about what Banned Books Week means. Thank you for talking to us about the books we love. Thank you for taking part in the conversation. We hope you&rsquo;ll keep supporting books of all kinds. Where a challenge arises, let&rsquo;s keep the conversation going..........</p></div>
     </div>
   {% endif %}
 
