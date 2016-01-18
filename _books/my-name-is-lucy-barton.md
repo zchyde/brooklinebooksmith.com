@@ -1,7 +1,7 @@
 ---
 title: My Name Is Lucy Barton
-isbn: null
-binding: null
-image_path: null
+isbn: '9781400067695'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/695/067/9781400067695.jpg'
 ---
 
