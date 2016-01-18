@@ -1,7 +1,7 @@
 ---
 title: Five Minute Star Wars Stories
-isbn: null
-binding: null
-image_path: null
+isbn: '9781484728208'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/208/728/9781484728208.jpg'
 ---
 
