@@ -1,7 +1,7 @@
 ---
 title: 'Good Night, Gorilla'
-isbn: null
-binding: null
-image_path: null
+isbn: '9780399230035'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/035/230/9780399230035.jpg'
 ---
 
