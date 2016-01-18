@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Stick Figure Amy
 - Dog earing
-modified_time: '2015-05-11T10:00:01.545-04:00'
+modified_date: '2015-05-11T10:00:01.545-04:00'
 thumbnail: http://4.bp.blogspot.com/-NoAyGsEHv9c/VVAyrTfr9qI/AAAAAAAAAxA/KEzbauuEm9g/s72-c/dog%2Bear.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5983252758680787525
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/05/everyone-does-things-their-own-way.html

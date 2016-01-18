@@ -4,7 +4,7 @@ title: Cutting your bangs in a commercial means you are empowered.
 date: '2010-08-14T11:20:00.011-04:00'
 author: Kate Robinson
 tags: 
-modified_time: '2010-08-14T14:54:55.465-04:00'
+modified_date: '2010-08-14T14:54:55.465-04:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TGbfKo6z8JI/AAAAAAAAAHQ/BqJc9AfATTA/s72-c/bangs.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-34268222798218941
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/cutting-your-bangs-in-commercial-means.html

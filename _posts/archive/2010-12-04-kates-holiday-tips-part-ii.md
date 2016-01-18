@@ -9,7 +9,7 @@ tags:
 - other stuff
 - what is art
 - Confessions
-modified_time: '2010-12-04T09:31:55.577-05:00'
+modified_date: '2010-12-04T09:31:55.577-05:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TPpKos12h-I/AAAAAAAAALQ/e4mD2WtwmbY/s72-c/penny.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-818396394255168114
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/kates-holiday-tips-part-ii.html

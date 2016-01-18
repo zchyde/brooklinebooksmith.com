@@ -4,7 +4,7 @@ title: Two Quick Things, I Promise to Keep It Short
 date: '2011-06-18T17:00:00.003-04:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2011-06-18T17:15:01.123-04:00'
+modified_date: '2011-06-18T17:15:01.123-04:00'
 thumbnail: http://1.bp.blogspot.com/-LtlagIRVfEc/TbGLDfCRwEI/AAAAAAAADgE/me4Jc0oZcjY/s72-c/new+york+regional+mormon.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6129677328200445197
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/two-quick-things-i-promise-to-keep-it.html

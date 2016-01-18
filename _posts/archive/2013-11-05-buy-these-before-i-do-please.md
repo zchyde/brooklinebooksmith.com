@@ -12,7 +12,7 @@ tags:
 - sayonara home run
 - sad monsters
 - Frank lesser
-modified_time: '2013-11-05T11:00:03.264-05:00'
+modified_date: '2013-11-05T11:00:03.264-05:00'
 thumbnail: http://1.bp.blogspot.com/-oS_NhV2-6pg/UngxnIvUqpI/AAAAAAAAAFs/Sl9w4SsAxdU/s72-c/believer.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-149774345064446887
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/11/buy-these-before-i-do-please.html

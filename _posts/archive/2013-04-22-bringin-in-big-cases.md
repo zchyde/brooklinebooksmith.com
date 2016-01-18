@@ -7,7 +7,7 @@ tags:
 - children's books
 - section moves
 - the view from Tuesday
-modified_time: '2013-04-22T09:34:45.036-04:00'
+modified_date: '2013-04-22T09:34:45.036-04:00'
 thumbnail: http://3.bp.blogspot.com/-n3MRkVjdayI/UXU7hCiBe_I/AAAAAAAAAIw/xyjZiUZ7QxI/s72-c/2013-04-16+16.07.07.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4046337478675641553
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/bringin-in-big-cases.html

@@ -4,7 +4,7 @@ title: Classic Combinations
 date: '2012-01-27T12:35:00.000-05:00'
 author: Natasha
 tags: 
-modified_time: '2012-01-29T13:20:16.552-05:00'
+modified_date: '2012-01-29T13:20:16.552-05:00'
 thumbnail: http://4.bp.blogspot.com/--3SrB5mGxz4/TyWL5P-RghI/AAAAAAAAAS4/Fx6UIuOW2ZU/s72-c/panda-antler.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3812187306726596097
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/classic-combinations.html

@@ -7,7 +7,7 @@ tags:
 - ok it was nick flynn
 - jamie
 - fangirl
-modified_time: '2013-02-06T16:42:53.704-05:00'
+modified_date: '2013-02-06T16:42:53.704-05:00'
 thumbnail: http://3.bp.blogspot.com/-mjFmKcCxNKQ/URLNF4I87RI/AAAAAAAAAHs/u33aoPC9T0U/s72-c/coffee.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1904321244880106034
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/why-i-dont-drink-coffee-immediately.html

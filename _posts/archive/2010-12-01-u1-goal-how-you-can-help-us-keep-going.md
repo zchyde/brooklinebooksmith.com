@@ -4,7 +4,7 @@ title: 'The U+1 Goal: How you can help us keep going strong for free.'
 date: '2010-12-01T00:23:00.008-05:00'
 author: Evan
 tags: 
-modified_time: '2010-12-01T01:07:41.940-05:00'
+modified_date: '2010-12-01T01:07:41.940-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1807807796029493823
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/u1-goal-how-you-can-help-us-keep-going.html
 ---

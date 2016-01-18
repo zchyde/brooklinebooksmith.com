@@ -8,7 +8,7 @@ tags:
 - ama
 - meaning of life stuff
 - questions
-modified_time: '2013-01-25T16:40:50.847-05:00'
+modified_date: '2013-01-25T16:40:50.847-05:00'
 thumbnail: http://3.bp.blogspot.com/-vWWDML1WtO8/UQL68tOqc-I/AAAAAAAABG0/UqROq68maq4/s72-c/ubc_werd.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8376018577386628869
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/the-answer-you-seek-is-42.html

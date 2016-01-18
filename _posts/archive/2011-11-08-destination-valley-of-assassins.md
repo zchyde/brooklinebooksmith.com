@@ -4,7 +4,7 @@ title: 'Destination: Valley of the Assassins'
 date: '2011-11-08T18:04:00.015-05:00'
 author: Jodie
 tags: 
-modified_time: '2011-11-08T18:58:12.942-05:00'
+modified_date: '2011-11-08T18:58:12.942-05:00'
 thumbnail: http://4.bp.blogspot.com/-yu0YIozzVGs/Trm9tycVyNI/AAAAAAAAAIw/bqo2-my0TjY/s72-c/book-thousand-nights-one-night-not-available-paperback-cover-art.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7749534858562207737
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/destination-valley-of-assassins.html

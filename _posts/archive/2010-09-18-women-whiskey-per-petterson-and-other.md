@@ -9,7 +9,7 @@ tags:
 - local
 - Confessions
 - Fiction
-modified_time: '2010-09-18T13:44:23.958-04:00'
+modified_date: '2010-09-18T13:44:23.958-04:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TJTr9rfWU6I/AAAAAAAAAIQ/qF4RJoq_ZdU/s72-c/1owl.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3490138937508127925
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/women-whiskey-per-petterson-and-other.html

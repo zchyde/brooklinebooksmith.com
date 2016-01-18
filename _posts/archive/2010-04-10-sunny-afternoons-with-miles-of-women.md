@@ -8,7 +8,7 @@ tags:
 - martin amis
 - sex
 - chelsea handler
-modified_time: '2010-04-10T20:23:39.663-04:00'
+modified_date: '2010-04-10T20:23:39.663-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5921985540025594637
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/sunny-afternoons-with-miles-of-women.html
 ---

@@ -8,7 +8,7 @@ tags:
 - children's books
 - summer
 - young adult
-modified_time: '2013-07-01T09:00:13.606-04:00'
+modified_date: '2013-07-01T09:00:13.606-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-140983558609291478
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/tisnt-that-season-but.html
 ---

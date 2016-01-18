@@ -4,7 +4,7 @@ title: Bike into Booksmith
 date: '2012-04-17T15:07:00.000-04:00'
 author: Jodie
 tags: 
-modified_time: '2012-04-17T15:07:35.215-04:00'
+modified_date: '2012-04-17T15:07:35.215-04:00'
 thumbnail: http://3.bp.blogspot.com/-hkf_Q5v5t3M/T4s4Znp-K-I/AAAAAAAAAbU/RZ0-dnjoBTw/s72-c/bike_pic_sflb_1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9137269991983647010
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/bike-into-booksmith.html

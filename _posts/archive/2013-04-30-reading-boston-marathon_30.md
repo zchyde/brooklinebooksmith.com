@@ -11,7 +11,7 @@ tags:
 - boston marathon
 - camus
 - the spirit of place
-modified_time: '2013-04-30T09:00:13.730-04:00'
+modified_date: '2013-04-30T09:00:13.730-04:00'
 thumbnail: http://2.bp.blogspot.com/-RLZ3KHZfw5g/UX16PYd6GjI/AAAAAAAAAnE/vzJSQaQNi1M/s72-c/images+(2).jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3434970295894927396
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/reading-boston-marathon_30.html

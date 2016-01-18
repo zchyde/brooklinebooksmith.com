@@ -9,7 +9,7 @@ tags:
 - Small Presses
 - Dalkey
 - Poetry
-modified_time: '2010-06-14T00:37:09.951-04:00'
+modified_date: '2010-06-14T00:37:09.951-04:00'
 thumbnail: http://3.bp.blogspot.com/_lonf0gt6RtI/TBWsWCo3LvI/AAAAAAAAAvs/E9b9Yjj-HrI/s72-c/9781933633923.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1813101277605304661
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/what-i-am-reading.html

@@ -12,7 +12,7 @@ tags:
 - philosophy
 - aristotle
 - sartre
-modified_time: '2011-12-30T11:31:00.269-05:00'
+modified_date: '2011-12-30T11:31:00.269-05:00'
 thumbnail: http://4.bp.blogspot.com/-_TaFil0yzrc/TvnpA0ttRWI/AAAAAAAAAQI/y3HN0pICm2g/s72-c/brookline.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-471838770077668427
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/why-we-read.html

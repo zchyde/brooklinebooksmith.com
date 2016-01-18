@@ -6,7 +6,7 @@ author: Emily
 tags:
 - Popville
 - wordless picturebooks
-modified_time: '2010-05-19T10:59:09.776-04:00'
+modified_date: '2010-05-19T10:59:09.776-04:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/S_P8k4OzAGI/AAAAAAAAACY/0uVqamJ5V7M/s72-c/popville.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6433121922876076764
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/joy-of-pictures.html

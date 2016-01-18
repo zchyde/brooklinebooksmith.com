@@ -4,7 +4,7 @@ title: I know it's too long, once I start I can't stop.
 date: '2011-05-19T17:14:00.006-04:00'
 author: Zoe Hyde
 tags:
-modified_time: '2011-05-20T01:59:02.545-04:00'
+modified_date: '2011-05-20T01:59:02.545-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4001199747526505963
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/i-know-its-too-long-once-i-start-i-cant.html
 ---

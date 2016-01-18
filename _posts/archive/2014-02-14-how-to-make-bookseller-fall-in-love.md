@@ -12,7 +12,7 @@ tags:
 - hi jess
 - seriously though so much chicken
 - valentine's day
-modified_time: '2014-02-14T16:32:35.698-05:00'
+modified_date: '2014-02-14T16:32:35.698-05:00'
 thumbnail: http://3.bp.blogspot.com/-i4p6pZGC2B4/Uv6KhgA7trI/AAAAAAAACnI/SPk4Qx3C6Fc/s72-c/image.jpeg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6021271419621281633
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/02/how-to-make-bookseller-fall-in-love.html

@@ -11,7 +11,7 @@ tags:
 - nostalgia
 - nameless dread
 - scarves
-modified_time: '2012-09-29T18:15:01.518-04:00'
+modified_date: '2012-09-29T18:15:01.518-04:00'
 thumbnail: http://3.bp.blogspot.com/-ndKfcj36-30/UGdvduplnFI/AAAAAAAAAKs/QIPdTJ10o1k/s72-c/IMG_4048.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3505837286262028417
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/scarves-blog-post.html

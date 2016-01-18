@@ -7,7 +7,7 @@ tags:
 - YA
 - Trends
 - Faerie Books
-modified_time: '2014-04-14T09:00:06.918-04:00'
+modified_date: '2014-04-14T09:00:06.918-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9010759072929554723
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/perseverance-of-faeries.html
 ---

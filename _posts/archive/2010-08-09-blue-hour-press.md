@@ -4,7 +4,7 @@ title: Blue Hour Press
 date: '2010-08-09T13:53:00.006-04:00'
 author: Carl
 tags: 
-modified_time: '2010-08-09T14:19:32.841-04:00'
+modified_date: '2010-08-09T14:19:32.841-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8788354726052443229
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/blue-hour-press.html
 ---

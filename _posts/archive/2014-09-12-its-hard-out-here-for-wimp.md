@@ -9,7 +9,7 @@ tags:
 - finland
 - hardcover bestsellers
 - books
-modified_time: '2014-09-12T12:38:21.181-04:00'
+modified_date: '2014-09-12T12:38:21.181-04:00'
 thumbnail: http://4.bp.blogspot.com/--FdJsGQDOEA/VBMguezlhSI/AAAAAAAABu4/ANXEIUCiX1g/s72-c/Photo%2BSep%2B12%2C%2B12%2B06%2B50.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5988923233620473382
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/its-hard-out-here-for-wimp.html

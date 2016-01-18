@@ -4,7 +4,7 @@ title: Why We're Here
 date: '2010-03-07T10:16:00.002-05:00'
 author: dana brigham
 tags: 
-modified_time: '2010-03-07T10:41:04.182-05:00'
+modified_date: '2010-03-07T10:41:04.182-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6348126871940373124
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/why-were-here.html
 ---

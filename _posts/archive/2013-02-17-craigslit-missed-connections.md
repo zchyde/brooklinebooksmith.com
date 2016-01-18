@@ -6,7 +6,7 @@ author: Lydia
 tags:
 - missed connections
 - craigslist
-modified_time: '2013-02-17T14:23:40.125-05:00'
+modified_date: '2013-02-17T14:23:40.125-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3105671163802711586
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/craigslit-missed-connections.html
 ---

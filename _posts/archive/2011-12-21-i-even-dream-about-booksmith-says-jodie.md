@@ -4,7 +4,7 @@ title: '"I Even Dream About Booksmith" - Says Jodie'
 date: '2011-12-21T19:55:00.001-05:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2011-12-22T20:55:10.806-05:00'
+modified_date: '2011-12-22T20:55:10.806-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6636297275936261278
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/i-even-dream-about-booksmith-says-jodie.html
 ---

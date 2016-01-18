@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Romeo and Juliet
 - Stick Figure Amy
-modified_time: '2014-12-01T08:00:09.569-05:00'
+modified_date: '2014-12-01T08:00:09.569-05:00'
 thumbnail: http://2.bp.blogspot.com/-r8FAQN0Ftgg/VHxKAcU684I/AAAAAAAAAtg/VblyqX2DVZw/s72-c/RomeoandAmy.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3129874137420105622
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/12/what-being-in-book-would-really-be-like.html

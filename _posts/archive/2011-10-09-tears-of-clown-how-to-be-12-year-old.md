@@ -4,7 +4,7 @@ title: 'Tears of a Clown: How to be a 12 Year Old Girl'
 date: '2011-10-09T20:00:00.002-04:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2011-10-09T20:00:58.308-04:00'
+modified_date: '2011-10-09T20:00:58.308-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7316859288957724505
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/tears-of-clown-how-to-be-12-year-old.html
 ---

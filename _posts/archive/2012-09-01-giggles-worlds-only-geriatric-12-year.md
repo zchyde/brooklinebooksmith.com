@@ -11,7 +11,7 @@ tags:
 - giggles
 - what happened in the last 30 minutes
 - Events
-modified_time: '2012-09-01T19:27:48.264-04:00'
+modified_date: '2012-09-01T19:27:48.264-04:00'
 thumbnail: http://1.bp.blogspot.com/-0d6WIJWU268/UEKYyD1uMMI/AAAAAAAAAJs/ibLa8cZ35Co/s72-c/Untitled-1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3807239824186995483
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/giggles-worlds-only-geriatric-12-year.html

@@ -11,7 +11,7 @@ tags:
 - bad feminist
 - lovely dark deep
 - weekly bestsellers
-modified_time: '2014-09-17T10:24:56.386-04:00'
+modified_date: '2014-09-17T10:24:56.386-04:00'
 thumbnail: http://4.bp.blogspot.com/-3b8D2dZwp4I/VBiZ7Bh70AI/AAAAAAAARaE/cSAHrSiyZks/s72-c/oates.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-958644827510940640
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/weekly-bestsellers-september-8th.html

@@ -10,7 +10,7 @@ tags:
 - fall
 - autumn
 - virginia woolf
-modified_time: '2012-09-21T13:20:00.505-04:00'
+modified_date: '2012-09-21T13:20:00.505-04:00'
 thumbnail: http://4.bp.blogspot.com/-Ytt5pggWSSM/UFn6JI5ZEqI/AAAAAAAAA1c/4-ANPuMj76w/s72-c/autumn.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4441622633879360969
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/autumn-reads.html

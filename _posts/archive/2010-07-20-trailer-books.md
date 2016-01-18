@@ -4,7 +4,7 @@ title: Trailer Books
 date: '2010-07-20T13:32:00.004-04:00'
 author: Carl
 tags: 
-modified_time: '2010-07-20T13:56:16.783-04:00'
+modified_date: '2010-07-20T13:56:16.783-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5807006867146171991
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/trailer-books.html
 ---

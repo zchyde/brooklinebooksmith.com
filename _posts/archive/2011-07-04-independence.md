@@ -8,7 +8,7 @@ tags:
 - e-reader
 - independent
 - e-book
-modified_time: '2011-07-04T15:38:58.827-04:00'
+modified_date: '2011-07-04T15:38:58.827-04:00'
 thumbnail: http://1.bp.blogspot.com/-NvdG_wOFBto/ThIS16oVmcI/AAAAAAAAATE/VSTTMiv9lCo/s72-c/fireworks-photos-128.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7535533279094010174
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/independence.html

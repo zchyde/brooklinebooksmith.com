@@ -11,7 +11,7 @@ tags:
 - Hunger Games
 - Divergent
 - the fault in our stars
-modified_time: '2014-08-18T08:00:08.129-04:00'
+modified_date: '2014-08-18T08:00:08.129-04:00'
 thumbnail: http://2.bp.blogspot.com/-B1N2syrnI2A/U_GIihFoIjI/AAAAAAAAAok/Y1cGMdLFK_M/s72-c/fault-our-stars-movie-poster.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7949346959114948293
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/08/the-inevitable-movie-post.html

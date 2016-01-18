@@ -7,7 +7,7 @@ tags:
 - summer reading
 - used books
 - twilight
-modified_time: '2012-05-25T10:30:01.595-04:00'
+modified_date: '2012-05-25T10:30:01.595-04:00'
 thumbnail: http://3.bp.blogspot.com/-8MBPtAyv5go/T761ks67AOI/AAAAAAAAAdE/AH4yw48ugx0/s72-c/old-books.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1008857776228910277
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/back-to-work.html

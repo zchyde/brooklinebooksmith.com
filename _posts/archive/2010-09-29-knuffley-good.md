@@ -5,7 +5,7 @@ date: '2010-09-29T22:42:00.004-04:00'
 author: Emily
 tags:
 - Knuffle Bunny
-modified_time: '2010-09-29T22:50:29.643-04:00'
+modified_date: '2010-09-29T22:50:29.643-04:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TKP6I07qJaI/AAAAAAAAAKI/XnNjW8BfGXc/s72-c/Knuffle+Bunny+Free.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-586868892004766112
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/knuffley-good.html

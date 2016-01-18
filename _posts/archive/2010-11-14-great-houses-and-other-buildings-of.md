@@ -4,7 +4,7 @@ title: Great Houses and Other Buildings of High Quality
 date: '2010-11-14T10:41:00.003-05:00'
 author: Evan
 tags: 
-modified_time: '2010-11-14T11:57:49.986-05:00'
+modified_date: '2010-11-14T11:57:49.986-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1702830664760325919
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/great-houses-and-other-buildings-of.html
 ---

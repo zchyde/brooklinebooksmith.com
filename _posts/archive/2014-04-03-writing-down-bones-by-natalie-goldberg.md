@@ -8,7 +8,7 @@ tags:
 - grub street
 - books on writing
 - writing
-modified_time: '2014-04-05T08:32:15.715-04:00'
+modified_date: '2014-04-05T08:32:15.715-04:00'
 thumbnail: http://2.bp.blogspot.com/-InRPwYhm4P4/Uz1SIDghRhI/AAAAAAAAPvA/7RL4iZpqGBc/s72-c/writing-down-the-bones-natalie-goldberg_medium.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1443585274917920886
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/writing-down-bones-by-natalie-goldberg.html

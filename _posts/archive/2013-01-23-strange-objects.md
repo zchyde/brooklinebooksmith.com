@@ -9,7 +9,7 @@ tags:
 - seriously a seance
 - strange objects
 - meet godfather the events horse
-modified_time: '2013-01-23T17:55:44.464-05:00'
+modified_date: '2013-01-23T17:55:44.464-05:00'
 thumbnail: http://1.bp.blogspot.com/-sczKNzQXjtY/UQBpX-rUrzI/AAAAAAAAAHM/vwJHDUnbGZU/s72-c/photo+(10).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5136849613480142174
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/strange-objects.html

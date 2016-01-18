@@ -15,7 +15,7 @@ tags:
 - wow that's a lot of things
 - Events
 - lydia i totally read all of the labels
-modified_time: '2013-01-02T15:12:27.609-05:00'
+modified_date: '2013-01-02T15:12:27.609-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-198508471464237495
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/ridiculously-ridiculously-good.html
 ---

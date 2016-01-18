@@ -6,7 +6,7 @@ author: Emily
 tags:
 - gluten free
 - Cookbooks
-modified_time: '2011-01-19T11:27:39.544-05:00'
+modified_date: '2011-01-19T11:27:39.544-05:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TTcQiczkc2I/AAAAAAAAANo/BojIhmBqRuI/s72-c/9780738213613.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7138083631970852617
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/cooking-blues.html

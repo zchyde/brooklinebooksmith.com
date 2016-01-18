@@ -5,7 +5,7 @@ date: '2010-07-02T18:40:00.003-04:00'
 author: Paul Theriault
 tags:
 - publishers need to cut the crap
-modified_time: '2010-07-02T19:50:22.578-04:00'
+modified_date: '2010-07-02T19:50:22.578-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4576168592261927881
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/paper-books-are-not-dead-just-wasted.html
 ---

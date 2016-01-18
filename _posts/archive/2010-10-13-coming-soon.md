@@ -5,7 +5,7 @@ date: '2010-10-13T09:24:00.004-04:00'
 author: Emily
 tags:
 - kids audio
-modified_time: '2010-10-13T09:32:22.993-04:00'
+modified_date: '2010-10-13T09:32:22.993-04:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/TLW0dCdlrCI/AAAAAAAAAKg/cyLdGFO4Ml8/s72-c/6157koCUEgL._SL500_AA280_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1505644213652296648
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/coming-soon.html

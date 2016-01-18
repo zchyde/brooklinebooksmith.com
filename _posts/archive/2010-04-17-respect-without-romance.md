@@ -7,7 +7,7 @@ tags:
 - personal reflection
 - working on the weekends...
 - Artsy-Fartsy
-modified_time: '2010-04-17T15:33:35.521-04:00'
+modified_date: '2010-04-17T15:33:35.521-04:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/S8n5FTN_acI/AAAAAAAAACo/lTWNBTDqn9A/s72-c/bsmith.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4266998195664833938
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/respect-without-romance.html

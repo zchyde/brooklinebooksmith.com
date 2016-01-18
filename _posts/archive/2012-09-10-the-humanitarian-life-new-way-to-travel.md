@@ -4,7 +4,7 @@ title: 'The Humanitarian Life: A New Way to Travel'
 date: '2012-09-10T16:34:00.000-04:00'
 author: Emily
 tags: 
-modified_time: '2012-09-10T16:34:04.888-04:00'
+modified_date: '2012-09-10T16:34:04.888-04:00'
 thumbnail: http://1.bp.blogspot.com/-B0CnB-dudxg/UE5OaEFMZzI/AAAAAAAAAeU/_GgzTkbRVO8/s72-c/tutor-rachel.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2333206696938355253
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/the-humanitarian-life-new-way-to-travel.html

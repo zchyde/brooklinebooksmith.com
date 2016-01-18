@@ -4,7 +4,7 @@ title: Let There Be Letters
 date: '2010-11-09T09:08:00.003-05:00'
 author: dana brigham
 tags: 
-modified_time: '2010-11-09T09:35:08.993-05:00'
+modified_date: '2010-11-09T09:35:08.993-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2956973564482451450
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/let-there-be-letters.html
 ---

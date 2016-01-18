@@ -4,7 +4,7 @@ title: it doesn't matter what they read.
 date: '2010-08-13T17:11:00.003-04:00'
 author: Paul Theriault
 tags: 
-modified_time: '2010-08-13T21:13:04.011-04:00'
+modified_date: '2010-08-13T21:13:04.011-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7214899820421627421
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/it-doesnt-matter-what-they-read.html
 ---

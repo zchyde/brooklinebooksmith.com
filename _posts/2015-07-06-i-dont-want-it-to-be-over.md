@@ -9,7 +9,7 @@ tags:
 - Stick Figure Amy
 - Leigh Bardugo
 - Six of Crows
-modified_time: '2015-07-06T10:00:03.067-04:00'
+modified_date: '2015-07-06T10:00:03.067-04:00'
 thumbnail: http://4.bp.blogspot.com/-8ak64bQYn8U/VZmVpqOTUMI/AAAAAAAAA0A/WuesrPas2JM/s72-c/OverAmy.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1973799292369583840
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/07/i-dont-want-it-to-be-over.html

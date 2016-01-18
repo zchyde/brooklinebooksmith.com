@@ -4,7 +4,7 @@ title: Thanksgiving Means 25 More Days...
 date: '2010-11-24T11:48:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2010-11-24T11:48:41.795-05:00'
+modified_date: '2010-11-24T11:48:41.795-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6657808225530747427
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/thanksgiving-means-25-more-days.html
 ---

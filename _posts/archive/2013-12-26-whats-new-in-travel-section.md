@@ -12,7 +12,7 @@ tags:
 - san francisco
 - Globe Corner Travel Annex
 - Wall Maps
-modified_time: '2013-12-26T10:48:31.589-05:00'
+modified_date: '2013-12-26T10:48:31.589-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4910212075736278796
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/12/whats-new-in-travel-section.html
 ---

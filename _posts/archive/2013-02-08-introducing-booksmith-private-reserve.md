@@ -10,7 +10,7 @@ tags:
 - books
 - shirazzle-dazzle
 - rare books
-modified_time: '2013-02-08T11:30:02.011-05:00'
+modified_date: '2013-02-08T11:30:02.011-05:00'
 thumbnail: http://4.bp.blogspot.com/-oC98Vl6qg_U/URPyyEt9R8I/AAAAAAAABIQ/lnMzZ3xwJXU/s72-c/finereserve.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6940433684671181713
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/introducing-booksmith-private-reserve.html

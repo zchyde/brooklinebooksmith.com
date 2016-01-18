@@ -4,7 +4,7 @@ title: In which we join our heroine tubthumping midst the undergrads, or whatnot
 date: '2011-03-03T13:26:00.008-05:00'
 author: Zoe Hyde
 tags:
-modified_time: '2011-03-03T15:07:36.287-05:00'
+modified_date: '2011-03-03T15:07:36.287-05:00'
 thumbnail: http://4.bp.blogspot.com/_lj1_v2WNeLI/S9swAOC2DEI/AAAAAAAAANk/Ktj2vfE0zIs/s72-c/41XG9AHHEYL-1._SL500_AA300_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6248828050205465522
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/in-which-we-join-our-heroine.html

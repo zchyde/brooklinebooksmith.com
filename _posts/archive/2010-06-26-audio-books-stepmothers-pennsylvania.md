@@ -5,7 +5,7 @@ date: '2010-06-26T11:42:00.010-04:00'
 author: Kate Robinson
 tags:
 - audiobooks
-modified_time: '2010-06-26T13:19:45.375-04:00'
+modified_date: '2010-06-26T13:19:45.375-04:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TCYjbZ6n9-I/AAAAAAAAAE4/p65dFfFoH8Y/s72-c/empty-road-allentown-pennsylvania-361161401.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7421494296537393285
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/audio-books-stepmothers-pennsylvania.html

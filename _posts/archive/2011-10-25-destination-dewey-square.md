@@ -4,7 +4,7 @@ title: 'Destination: Dewey Square'
 date: '2011-10-25T17:27:00.006-04:00'
 author: Jodie
 tags: 
-modified_time: '2011-10-25T17:43:03.301-04:00'
+modified_date: '2011-10-25T17:43:03.301-04:00'
 thumbnail: http://4.bp.blogspot.com/-jENY7dzJJHc/Tqcs6e9l_nI/AAAAAAAAAGg/4QViGXQURqE/s72-c/imagesCAVP2OVI.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2313684518212057662
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/destination-dewey-square.html

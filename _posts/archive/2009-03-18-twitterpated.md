@@ -5,7 +5,7 @@ date: '2009-03-18T17:20:00.006-04:00'
 author: Lori
 tags:
 - Other Cool Stuff
-modified_time: '2009-03-18T18:21:26.083-04:00'
+modified_date: '2009-03-18T18:21:26.083-04:00'
 thumbnail: http://3.bp.blogspot.com/_zqgb4FOCazQ/ScFyUcMmCzI/AAAAAAAAAMU/UpwRLCSj1c8/s72-c/owl.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2322982193612528569
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/03/twitterpated.html

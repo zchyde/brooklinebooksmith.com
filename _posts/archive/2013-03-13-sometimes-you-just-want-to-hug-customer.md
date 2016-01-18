@@ -10,7 +10,7 @@ tags:
 - nine stories
 - just lovely
 - laughing man
-modified_time: '2013-03-13T14:59:14.972-04:00'
+modified_date: '2013-03-13T14:59:14.972-04:00'
 thumbnail: http://2.bp.blogspot.com/-R7U_Hb9QgyE/UUDICh5UIQI/AAAAAAAAATI/WL06Ls-V21c/s72-c/ninestories.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8418369125083661931
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/sometimes-you-just-want-to-hug-customer.html

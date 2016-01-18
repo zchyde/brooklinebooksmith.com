@@ -9,7 +9,7 @@ tags:
 - david foster wallace
 - jason segel
 - george lazenby
-modified_time: '2014-04-11T15:32:59.993-04:00'
+modified_date: '2014-04-11T15:32:59.993-04:00'
 thumbnail: http://2.bp.blogspot.com/-QeuFHYIwLF8/U0g8aC3wbmI/AAAAAAAAAG4/xKQNc083_n4/s72-c/Jason_Segel_David_Foster_Wallace.png.CROP.promo-mediumlarge.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5770690317197621775
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/the-german-word-for-that-permanent.html

@@ -17,7 +17,7 @@ tags:
 - party
 - dinner
 - spatula
-modified_time: '2012-03-16T15:47:27.308-04:00'
+modified_date: '2012-03-16T15:47:27.308-04:00'
 thumbnail: http://4.bp.blogspot.com/-FblElh9in0Y/T2K1-YY5eQI/AAAAAAAAAHA/qezxM708vaI/s72-c/IMG_4086.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5406483349767151557
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/how-to-have-rockin-dinner-party.html

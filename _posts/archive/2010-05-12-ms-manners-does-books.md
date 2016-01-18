@@ -4,7 +4,7 @@ title: Ms. Manners Does Books
 date: '2010-05-12T15:27:00.005-04:00'
 author: Eugenia
 tags: 
-modified_time: '2010-05-12T17:36:33.033-04:00'
+modified_date: '2010-05-12T17:36:33.033-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2439092407615782855
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/ms-manners-does-books.html
 ---

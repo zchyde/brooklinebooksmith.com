@@ -4,7 +4,7 @@ title: Fainting couches and courting candles
 date: '2010-11-16T14:14:00.009-05:00'
 author: Liz T.
 tags: 
-modified_time: '2010-11-16T17:19:49.976-05:00'
+modified_date: '2010-11-16T17:19:49.976-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6956751060736300108
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/fainting-couches-and-courting-candles.html
 ---

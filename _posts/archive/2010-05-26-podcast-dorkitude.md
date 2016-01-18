@@ -4,7 +4,7 @@ title: Podcast Dorkitude
 date: '2010-05-26T19:07:00.003-04:00'
 author: Eugenia
 tags: 
-modified_time: '2010-05-26T19:19:24.077-04:00'
+modified_date: '2010-05-26T19:19:24.077-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7469389949293532668
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/podcast-dorkitude.html
 ---

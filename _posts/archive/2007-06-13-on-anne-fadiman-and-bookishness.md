@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Confessions
-modified_time: '2007-06-13T20:57:25.691-04:00'
+modified_date: '2007-06-13T20:57:25.691-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-455678510571592219
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/on-anne-fadiman-and-bookishness.html
 ---

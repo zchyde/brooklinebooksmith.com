@@ -4,7 +4,7 @@ title: tradi-shuuuuun, tradition.  TRADITION!!
 date: '2010-08-20T13:54:00.005-04:00'
 author: Paul Theriault
 tags: 
-modified_time: '2010-08-20T18:53:58.691-04:00'
+modified_date: '2010-08-20T18:53:58.691-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8302271005346013347
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/tradi-shuuuuun-tradition-tradition.html
 ---

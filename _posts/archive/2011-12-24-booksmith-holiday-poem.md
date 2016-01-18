@@ -6,7 +6,7 @@ author: Natasha
 tags:
 - christmas
 - hanukkah
-modified_time: '2011-12-24T15:43:29.762-05:00'
+modified_date: '2011-12-24T15:43:29.762-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8319129106324736198
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/booksmith-holiday-poem.html
 ---

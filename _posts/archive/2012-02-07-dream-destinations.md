@@ -4,7 +4,7 @@ title: Dream Destinations
 date: '2012-02-07T10:55:00.000-05:00'
 author: Jodie
 tags: 
-modified_time: '2012-02-07T10:55:40.420-05:00'
+modified_date: '2012-02-07T10:55:40.420-05:00'
 thumbnail: http://4.bp.blogspot.com/-E7Dxpz1V2rg/TzCNRVCZA6I/AAAAAAAAAVE/wpSaCUT30wQ/s72-c/untitled.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7190996233494652964
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/dream-destinations.html

@@ -12,7 +12,7 @@ tags:
 - books
 - fantasy
 - young adult
-modified_time: '2015-03-18T08:00:04.653-04:00'
+modified_date: '2015-03-18T08:00:04.653-04:00'
 thumbnail: http://1.bp.blogspot.com/-APp2e0KC184/VQYahSYzv4I/AAAAAAAAAQQ/g5TkrlsnIoU/s72-c/YA%2BBOOK%2BREC.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3417585034078414310
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/kidsmith-presents-television-inspired.html

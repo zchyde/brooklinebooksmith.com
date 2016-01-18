@@ -4,7 +4,7 @@ title: Find it Here
 date: '2011-04-03T14:09:00.009-04:00'
 author: dana brigham
 tags: 
-modified_time: '2011-04-03T15:07:18.296-04:00'
+modified_date: '2011-04-03T15:07:18.296-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8933898913038909908
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/find-it-here.html
 ---

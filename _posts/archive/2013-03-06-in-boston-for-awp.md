@@ -7,7 +7,7 @@ tags:
 - jamie
 - picture post
 - bookstore
-modified_time: '2013-03-06T12:15:02.634-05:00'
+modified_date: '2013-03-06T12:15:02.634-05:00'
 thumbnail: http://1.bp.blogspot.com/-7eySNkOGaYw/UTZuR2D63GI/AAAAAAAAALs/w4X7MBtKqNs/s72-c/13+-+4
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6142797106434725475
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/in-boston-for-awp.html

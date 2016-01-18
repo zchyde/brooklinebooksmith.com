@@ -10,7 +10,7 @@ tags:
 - tea
 - marcel proust
 - philosophy
-modified_time: '2012-11-09T11:33:23.275-05:00'
+modified_date: '2012-11-09T11:33:23.275-05:00'
 thumbnail: http://2.bp.blogspot.com/-jw63S01nHKY/UJ0vf2Y2J3I/AAAAAAAAA8A/seDuIYYlF-o/s72-c/IMAG0465-1-1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2078970086315314804
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/the-proust-is-in-pudding.html

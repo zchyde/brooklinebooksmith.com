@@ -4,7 +4,7 @@ title: Tetris is for Hands, Not Remotes
 date: '2011-05-18T15:02:00.000-04:00'
 author: Emily
 tags: 
-modified_time: '2011-05-18T15:02:04.482-04:00'
+modified_date: '2011-05-18T15:02:04.482-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8313709422634173600
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/tetris-is-for-hands-not-remotes.html
 ---

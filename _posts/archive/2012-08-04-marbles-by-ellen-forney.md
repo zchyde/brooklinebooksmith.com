@@ -10,7 +10,7 @@ tags:
 - cartoonist
 - graphica
 - graphic novel
-modified_time: '2012-08-04T18:58:58.919-04:00'
+modified_date: '2012-08-04T18:58:58.919-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7667893161116947166
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/marbles-by-ellen-forney.html
 ---

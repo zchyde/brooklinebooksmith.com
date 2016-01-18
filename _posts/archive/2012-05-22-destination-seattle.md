@@ -9,7 +9,7 @@ tags:
 - Tesser
 - globecorner.com
 - Seattle
-modified_time: '2012-05-22T18:36:32.486-04:00'
+modified_date: '2012-05-22T18:36:32.486-04:00'
 thumbnail: http://2.bp.blogspot.com/-lapduEqBqgI/T7wSWt4_94I/AAAAAAAAAdc/FweXtYuhLGI/s72-c/a-wrinkle-in-time-1-e1337722558169-300x153.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1662599882468916864
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/destination-seattle.html

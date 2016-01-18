@@ -7,7 +7,7 @@ tags:
 - Hans Fallada
 - erik larson
 - history
-modified_time: '2011-03-08T20:51:40.878-05:00'
+modified_date: '2011-03-08T20:51:40.878-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7977301692109164556
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/history-class.html
 ---

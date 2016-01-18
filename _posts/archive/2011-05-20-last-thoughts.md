@@ -8,7 +8,7 @@ tags:
 - tour de france
 - rapture
 - we're all cheaters
-modified_time: '2011-05-20T21:12:41.824-04:00'
+modified_date: '2011-05-20T21:12:41.824-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6818269034265825702
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/last-thoughts.html
 ---

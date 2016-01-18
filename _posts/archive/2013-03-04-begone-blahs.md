@@ -7,7 +7,7 @@ tags:
 - do you know how hard it is not to say more about each of these books?
 - cheerfulness
 - young adult
-modified_time: '2013-03-04T09:00:09.644-05:00'
+modified_date: '2013-03-04T09:00:09.644-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2571979132894833389
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/begone-blahs.html
 ---

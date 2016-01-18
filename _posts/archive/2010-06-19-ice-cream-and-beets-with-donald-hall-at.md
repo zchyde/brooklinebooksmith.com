@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - writers
 - Poetry
-modified_time: '2010-06-20T09:08:51.903-04:00'
+modified_date: '2010-06-20T09:08:51.903-04:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TB4Ph5EnFbI/AAAAAAAAAEg/NwD2ZotLxsA/s72-c/Hall.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3088019381644118787
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/ice-cream-and-beets-with-donald-hall-at.html

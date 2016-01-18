@@ -5,7 +5,7 @@ date: '2011-10-14T08:00:00.000-04:00'
 author: Natasha
 tags:
 - used books
-modified_time: '2011-10-25T11:54:54.691-04:00'
+modified_date: '2011-10-25T11:54:54.691-04:00'
 thumbnail: http://2.bp.blogspot.com/-r-qC46-F9wY/To4hvuKOr-I/AAAAAAAAAI8/NSq3z9Rjbv8/s72-c/trueblood.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6266136346998344580
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/foreign-correspondent.html

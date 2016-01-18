@@ -6,7 +6,7 @@ author: Amy
 tags:
 - back to school
 - school
-modified_time: '2014-09-01T08:00:04.607-04:00'
+modified_date: '2014-09-01T08:00:04.607-04:00'
 thumbnail: http://3.bp.blogspot.com/-n1btPdn5P7M/VAOHRgqqzvI/AAAAAAAAAqQ/FfRVwIIcVEw/s72-c/a.elliot.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1490668692650440337
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/school-stories.html

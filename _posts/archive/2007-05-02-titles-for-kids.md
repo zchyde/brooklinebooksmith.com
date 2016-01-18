@@ -5,7 +5,7 @@ date: '2007-05-02T19:17:00.000-04:00'
 author: Lori
 tags:
 - Kid Stuff
-modified_time: '2007-05-08T16:53:33.324-04:00'
+modified_date: '2007-05-08T16:53:33.324-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5031899014365874354
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/titles-for-kids.html
 ---

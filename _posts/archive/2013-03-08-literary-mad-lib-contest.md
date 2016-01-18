@@ -15,7 +15,7 @@ tags:
 - snow
 - new years resolutions
 - war and peace
-modified_time: '2013-03-08T12:45:09.772-05:00'
+modified_date: '2013-03-08T12:45:09.772-05:00'
 thumbnail: http://2.bp.blogspot.com/-w-dVSzqazHY/UTogTLflOaI/AAAAAAAABLI/IYo1KbE4zfI/s72-c/9780307266934_custom-121987fc3e24ad1855e5ca5bea349c60d1328a48-s6-c10.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7654988171621521622
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/literary-mad-lib-contest.html

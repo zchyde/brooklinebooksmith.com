@@ -4,7 +4,7 @@ title: I have got to lay off the Hanukkah gelt before bedtime.
 date: '2012-12-03T09:52:00.003-05:00'
 author: Shoshana
 tags: 
-modified_time: '2012-12-03T09:53:59.841-05:00'
+modified_date: '2012-12-03T09:53:59.841-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-298134126288870978
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/i-have-got-to-lay-off-hanukkah-gelt.html
 ---

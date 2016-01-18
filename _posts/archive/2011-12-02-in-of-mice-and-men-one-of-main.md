@@ -13,7 +13,7 @@ tags:
 - touch
 - book design
 - cover design
-modified_time: '2011-12-02T11:30:01.648-05:00'
+modified_date: '2011-12-02T11:30:01.648-05:00'
 thumbnail: http://1.bp.blogspot.com/-qw0aHuqGgKo/TtUuWNpdSMI/AAAAAAAAAMg/5f-yCuSwg_s/s72-c/deckle.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2356667729150632968
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/in-of-mice-and-men-one-of-main.html

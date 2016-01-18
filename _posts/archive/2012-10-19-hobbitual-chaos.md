@@ -10,7 +10,7 @@ tags:
 - tolkein
 - dungeons and dragons
 - satan
-modified_time: '2012-10-19T11:00:04.741-04:00'
+modified_date: '2012-10-19T11:00:04.741-04:00'
 thumbnail: http://2.bp.blogspot.com/-Lej5poQijC4/UIAvV7M71jI/AAAAAAAAA5Q/4aGIfS0Gxnw/s72-c/janssondragon.jpeg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-382988135891244998
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/hobbitual-chaos.html

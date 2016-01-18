@@ -4,7 +4,7 @@ title: Team Zoe Gets Real About Easter
 date: '2012-02-23T23:24:00.001-05:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2012-02-23T23:24:43.806-05:00'
+modified_date: '2012-02-23T23:24:43.806-05:00'
 thumbnail: http://1.bp.blogspot.com/-lyaNfGW2wJI/T0cQljx28wI/AAAAAAAAAFw/kaHSWetJV-4/s72-c/IMG_0014.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7410464655178410570
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/team-zoe-gets-real-about-easter.html

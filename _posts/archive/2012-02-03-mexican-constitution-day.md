@@ -15,7 +15,7 @@ tags:
 - engraving
 - mexico
 - printmaking
-modified_time: '2012-02-03T12:30:01.442-05:00'
+modified_date: '2012-02-03T12:30:01.442-05:00'
 thumbnail: http://4.bp.blogspot.com/-1EF9pSF_1GQ/TxIC60CopDI/AAAAAAAAARk/P73ZaF8ojUk/s72-c/posada3.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-828827902884924226
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/mexican-constitution-day.html

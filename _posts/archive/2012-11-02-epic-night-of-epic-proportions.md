@@ -11,7 +11,7 @@ tags:
 - finland
 - kalevala
 - orchestra
-modified_time: '2012-11-02T11:00:05.240-04:00'
+modified_date: '2012-11-02T11:00:05.240-04:00'
 thumbnail: http://1.bp.blogspot.com/-JPXUWhZZVuE/UJKUcQSPQpI/AAAAAAAAA64/bmiU9_h6hqU/s72-c/philharmonic.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7969630247328418305
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/epic-night-of-epic-proportions.html

@@ -11,7 +11,7 @@ tags:
 - NYC
 - BEA 2015
 - Leigh Bardugo
-modified_time: '2015-06-22T11:21:20.706-04:00'
+modified_date: '2015-06-22T11:21:20.706-04:00'
 thumbnail: http://4.bp.blogspot.com/-8QmDbYdI30Y/VYeyQQ360mI/AAAAAAAAAyk/mab5KebtfIc/s72-c/BEAPacking.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6532693374461255456
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/06/amy-went-to-bea.html

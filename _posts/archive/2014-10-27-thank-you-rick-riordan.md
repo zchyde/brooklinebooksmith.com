@@ -6,7 +6,7 @@ author: Amy
 tags:
 - rick riordan
 - boston book festival
-modified_time: '2014-10-27T20:12:58.851-04:00'
+modified_date: '2014-10-27T20:12:58.851-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1787813897984983906
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/10/thank-you-rick-riordan.html
 ---

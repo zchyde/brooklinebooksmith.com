@@ -6,7 +6,7 @@ author: Shoshana
 tags:
 - the olfactory properties of banana peels
 - things that make my head spin
-modified_time: '2013-01-14T11:07:00.454-05:00'
+modified_date: '2013-01-14T11:07:00.454-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3460941171687984577
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/where-barbie-spins-with-spiderman.html
 ---

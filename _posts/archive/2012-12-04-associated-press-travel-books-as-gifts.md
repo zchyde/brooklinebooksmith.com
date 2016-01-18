@@ -11,7 +11,7 @@ tags:
 - Food Lovers
 - Gross America
 - holidaze
-modified_time: '2012-12-04T09:00:15.133-05:00'
+modified_date: '2012-12-04T09:00:15.133-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9071850956076841441
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/associated-press-travel-books-as-gifts.html
 ---

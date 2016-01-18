@@ -7,7 +7,7 @@ tags:
 - sappy booksellers
 - children's books
 - best darn team in kids' books
-modified_time: '2013-11-04T09:00:06.011-05:00'
+modified_date: '2013-11-04T09:00:06.011-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7321226522053024744
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/11/everythings-early-this-year-even-what.html
 ---

@@ -9,7 +9,7 @@ tags:
 - seriously gorgeous covers
 - young adult
 - categories that have a million more examples
-modified_time: '2013-05-27T08:00:51.016-04:00'
+modified_date: '2013-05-27T08:00:51.016-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7577529958735171716
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/because-history-happens-to-people.html
 ---

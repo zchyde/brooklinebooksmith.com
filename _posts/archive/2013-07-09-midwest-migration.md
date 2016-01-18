@@ -13,7 +13,7 @@ tags:
 - Minneapolis
 - migration
 - band shells
-modified_time: '2013-07-09T09:00:06.779-04:00'
+modified_date: '2013-07-09T09:00:06.779-04:00'
 thumbnail: http://1.bp.blogspot.com/-Tv95uIZo2Sk/Udc79PPkCmI/AAAAAAAAArM/pyc5CSUk_7w/s72-c/9780226046297.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1217944456166116773
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/midwest-migration.html

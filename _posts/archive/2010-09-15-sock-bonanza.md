@@ -6,7 +6,7 @@ author: Emily
 tags:
 - Kate DiCamillo
 - Alison Mcghee
-modified_time: '2010-09-15T09:56:56.922-04:00'
+modified_date: '2010-09-15T09:56:56.922-04:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/TJDQWtFnDmI/AAAAAAAAAIw/bczHOUrVJTk/s72-c/binkandgollie.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7535678766345631403
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/sock-bonanza.html

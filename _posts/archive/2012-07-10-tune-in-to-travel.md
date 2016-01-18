@@ -4,7 +4,7 @@ title: Tune in to Travel
 date: '2012-07-10T13:34:00.001-04:00'
 author: Jodie
 tags: 
-modified_time: '2012-07-10T13:34:36.685-04:00'
+modified_date: '2012-07-10T13:34:36.685-04:00'
 thumbnail: http://3.bp.blogspot.com/-fY7iDBRj-p8/T_d1mekNdjI/AAAAAAAAAfw/8J1UYmrb_5Y/s72-c/jourport.GIF
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4497529019548970388
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/tune-in-to-travel.html

@@ -10,7 +10,7 @@ tags:
 - cards
 - bags
 - eco-friendly
-modified_time: '2012-03-05T13:50:49.055-05:00'
+modified_date: '2012-03-05T13:50:49.055-05:00'
 thumbnail: http://1.bp.blogspot.com/-gwvNAvYLk-M/T0xPFGHGHBI/AAAAAAAAAFM/zT2ywbXYzHE/s72-c/CANDG%2B001.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4732743172357090080
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/i-admit-it-i-like-stuff.html

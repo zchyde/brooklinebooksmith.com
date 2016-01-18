@@ -7,7 +7,7 @@ tags:
 - New Arrivals
 - Not Fiction
 - What's Cooking
-modified_time: '2008-12-08T23:03:58.786-05:00'
+modified_date: '2008-12-08T23:03:58.786-05:00'
 thumbnail: http://4.bp.blogspot.com/_zqgb4FOCazQ/R8WSYtGm_UI/AAAAAAAAAEk/tG4Op0DVv1c/s72-c/fortune+cookie.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3617285981992376302
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/02/pick-of-week-fortune-cookie-chronicles.html

@@ -4,7 +4,7 @@ title: Slow Love Life
 date: '2010-10-11T12:35:00.002-04:00'
 author: dana brigham
 tags: 
-modified_time: '2010-10-11T12:59:19.985-04:00'
+modified_date: '2010-10-11T12:59:19.985-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6323885616487599951
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/slow-love-life.html
 ---

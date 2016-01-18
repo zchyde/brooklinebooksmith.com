@@ -10,7 +10,7 @@ tags:
 - divisadero
 - james salter
 - michael ondaatje
-modified_time: '2012-08-09T15:26:32.097-04:00'
+modified_date: '2012-08-09T15:26:32.097-04:00'
 thumbnail: http://4.bp.blogspot.com/-KT0kKUQl1sk/UCQN0335veI/AAAAAAAANyE/3weXVBs61GY/s72-c/running+in+the+family.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2798397563521603760
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/a-time-and-place.html

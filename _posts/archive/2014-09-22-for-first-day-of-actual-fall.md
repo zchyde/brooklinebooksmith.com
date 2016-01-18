@@ -7,7 +7,7 @@ tags:
 - fall
 - Stick Figure Amy
 - New Releases
-modified_time: '2014-09-22T08:00:07.017-04:00'
+modified_date: '2014-09-22T08:00:07.017-04:00'
 thumbnail: http://1.bp.blogspot.com/-Op3Xgo-45Ag/VB-wCDG8_HI/AAAAAAAAAsI/QWjVKtmzeLI/s72-c/FallAmy.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6661075213106606507
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/for-first-day-of-actual-fall.html

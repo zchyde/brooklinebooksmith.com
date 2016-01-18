@@ -4,7 +4,7 @@ title: 'Destination: Close Your Eyes and Point'
 date: '2011-12-06T18:09:00.020-05:00'
 author: Jodie
 tags: 
-modified_time: '2011-12-07T10:44:42.618-05:00'
+modified_date: '2011-12-07T10:44:42.618-05:00'
 thumbnail: http://4.bp.blogspot.com/-J71ScocedRU/Tt6yTsGva2I/AAAAAAAAAQk/MZBo5Q7j7_k/s72-c/Maphead_gearpatrol.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2995803902273103712
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/destination-close-your-eyes-and-point.html

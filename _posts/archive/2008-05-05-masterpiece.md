@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Kid Stuff
 - Coming Soon
-modified_time: '2008-12-08T23:03:57.470-05:00'
+modified_date: '2008-12-08T23:03:57.470-05:00'
 thumbnail: http://3.bp.blogspot.com/_zqgb4FOCazQ/SB-ENbVwiII/AAAAAAAAAGQ/NEltXrjZF_Q/s72-c/masterpiece.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5445168980620717684
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/05/masterpiece.html

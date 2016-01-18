@@ -7,7 +7,7 @@ tags:
 - let there be light
 - used books
 - oops
-modified_time: '2012-04-06T09:28:45.160-04:00'
+modified_date: '2012-04-06T09:28:45.160-04:00'
 thumbnail: http://3.bp.blogspot.com/-Tn9Z3JSyh70/T37uk-hoN-I/AAAAAAAAAY4/jUfzz5T5tgQ/s72-c/BSOD.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5081811295157961081
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/we-all-make-miss-steaks.html

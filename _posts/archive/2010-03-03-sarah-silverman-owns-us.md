@@ -4,7 +4,7 @@ title: Sarah Silverman Owns Us
 date: '2010-03-03T11:18:00.002-05:00'
 author: Eugenia
 tags: 
-modified_time: '2010-03-03T11:38:23.803-05:00'
+modified_date: '2010-03-03T11:38:23.803-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4551039380876048880
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/sarah-silverman-owns-us.html
 ---

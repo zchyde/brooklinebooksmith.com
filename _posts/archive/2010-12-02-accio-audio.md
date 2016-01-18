@@ -7,7 +7,7 @@ tags:
 - jim dale
 - audiobooks
 - harry potter
-modified_time: '2010-12-02T22:44:52.953-05:00'
+modified_date: '2010-12-02T22:44:52.953-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-114699547034413321
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/accio-audio.html
 ---

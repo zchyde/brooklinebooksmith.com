@@ -7,7 +7,7 @@ tags:
 - reading list
 - Dilemma
 - Rereading
-modified_time: '2013-09-02T09:00:01.097-04:00'
+modified_date: '2013-09-02T09:00:01.097-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2696934474319302615
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/readers-dilemma-number-678.html
 ---

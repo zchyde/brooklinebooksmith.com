@@ -5,7 +5,7 @@ title: 'Postcards from the Slough of Despond: how I kill vacationing right dead 
 date: '2011-06-23T16:52:00.004-04:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2011-06-23T18:16:30.124-04:00'
+modified_date: '2011-06-23T18:16:30.124-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8243419012973851974
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/postcards-from-slough-of-despond-how-i.html
 ---

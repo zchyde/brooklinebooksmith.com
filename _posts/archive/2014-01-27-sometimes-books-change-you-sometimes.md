@@ -10,7 +10,7 @@ tags:
 - Where Things Come Back
 - John Corey Whaley
 - Award winners
-modified_time: '2014-01-27T09:00:11.067-05:00'
+modified_date: '2014-01-27T09:00:11.067-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5128337167437592424
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/01/sometimes-books-change-you-sometimes.html
 ---

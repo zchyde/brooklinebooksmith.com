@@ -6,7 +6,7 @@ author: Shoshana
 tags:
 - children's books
 - Martin Luther King Jr.
-modified_time: '2013-01-21T08:00:11.882-05:00'
+modified_date: '2013-01-21T08:00:11.882-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1916274883589568155
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/the-content-of-kids-character.html
 ---

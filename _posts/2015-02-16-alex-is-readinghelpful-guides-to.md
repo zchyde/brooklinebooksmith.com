@@ -8,7 +8,7 @@ tags:
 - kids books
 - science fiction
 - dystopia
-modified_time: '2015-02-16T09:00:04.742-05:00'
+modified_date: '2015-02-16T09:00:04.742-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-146141319175257626
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/alex-is-readinghelpful-guides-to.html
 ---

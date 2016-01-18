@@ -4,7 +4,7 @@ title: March of the Authors
 date: '2011-03-07T23:34:00.002-05:00'
 author: Evan
 tags: 
-modified_time: '2011-03-08T01:13:36.365-05:00'
+modified_date: '2011-03-08T01:13:36.365-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5076146602613081132
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/march-of-authors.html
 ---

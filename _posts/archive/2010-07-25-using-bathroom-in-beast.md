@@ -4,7 +4,7 @@ title: Using the Bathroom in the Beast
 date: '2010-07-25T11:18:00.004-04:00'
 author: Kate Robinson
 tags: 
-modified_time: '2010-07-25T11:51:19.908-04:00'
+modified_date: '2010-07-25T11:51:19.908-04:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/TExWXLHpmiI/AAAAAAAAAGw/Df4jLaJyz8A/s72-c/bathroom.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2302756503994729967
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/using-bathroom-in-beast.html

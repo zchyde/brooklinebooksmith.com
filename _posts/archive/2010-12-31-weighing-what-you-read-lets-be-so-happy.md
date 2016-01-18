@@ -11,7 +11,7 @@ tags:
 - independent
 - Confessions
 - corporations
-modified_time: '2011-01-01T11:53:43.879-05:00'
+modified_date: '2011-01-01T11:53:43.879-05:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TR5SMH_Y2SI/AAAAAAAAAME/GAmiTBwZqyc/s72-c/gram.jpeg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6614431216646491049
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/weighing-what-you-read-lets-be-so-happy.html

@@ -4,7 +4,7 @@ title: Norman Lock's Grim Tales
 date: '2010-06-28T14:48:00.002-04:00'
 author: Carl
 tags: 
-modified_time: '2010-06-28T14:52:25.130-04:00'
+modified_date: '2010-06-28T14:52:25.130-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8822761395306954971
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/norman-locks-grim-tales.html
 ---

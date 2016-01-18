@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - flash poetry contest
 - Poetry
-modified_time: '2011-05-16T14:25:54.072-04:00'
+modified_date: '2011-05-16T14:25:54.072-04:00'
 thumbnail: http://4.bp.blogspot.com/-Elt_My9R5Qs/TcRYtgvT_QI/AAAAAAAAARA/I9SBd_lNGVc/s72-c/bsmith.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-583804914928216333
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/results-1st-booksmith-flash-poetry_06.html

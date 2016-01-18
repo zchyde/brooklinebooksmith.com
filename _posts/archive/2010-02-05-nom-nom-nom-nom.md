@@ -8,7 +8,7 @@ tags:
 - used books
 - Vegan
 - Cookies
-modified_time: '2010-02-09T11:49:18.861-05:00'
+modified_date: '2010-02-09T11:49:18.861-05:00'
 thumbnail: http://4.bp.blogspot.com/_31I5CF0nua0/S2xajYkMOkI/AAAAAAAAAAc/VsxBQiD52Bc/s72-c/Photo+on+2010-01-14+at+00.29.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2938441820623013268
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/01/nom-nom-nom-nom.html

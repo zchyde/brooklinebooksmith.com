@@ -8,7 +8,7 @@ tags:
 - YA
 - kids books
 - Award winners
-modified_time: '2014-11-25T16:00:09.847-05:00'
+modified_date: '2014-11-25T16:00:09.847-05:00'
 thumbnail: http://1.bp.blogspot.com/-zoQ6M6GAAoA/VHToWira-6I/AAAAAAAAABI/JkYROpkgIZE/s72-c/20821284.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1890693866095917198
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/alex-is-readingbrown-girl-dreaming.html

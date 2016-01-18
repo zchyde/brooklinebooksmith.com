@@ -13,7 +13,7 @@ tags:
 - Anka Muhlstein
 - New York City
 - Swann's Way
-modified_time: '2013-02-26T09:00:10.027-05:00'
+modified_date: '2013-02-26T09:00:10.027-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2918465776182542674
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/twenty-four-hours-with-proust.html
 ---

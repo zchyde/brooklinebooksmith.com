@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Alternate Point of Views
 - Same story Twice
-modified_time: '2014-06-23T13:30:22.040-04:00'
+modified_date: '2014-06-23T13:30:22.040-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1834697941519980036
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/06/the-same-only-different.html
 ---

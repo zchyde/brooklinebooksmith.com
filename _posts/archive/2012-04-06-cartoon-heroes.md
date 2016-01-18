@@ -19,7 +19,7 @@ tags:
 - graphic novels
 - spring
 - fukuzawa yukichi
-modified_time: '2012-04-06T01:49:42.481-04:00'
+modified_date: '2012-04-06T01:49:42.481-04:00'
 thumbnail: http://2.bp.blogspot.com/-x8DjWRBcjWY/T36C8YRbsMI/AAAAAAAAAJY/tUo9D9v9cVA/s72-c/otaku.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5739852282551232115
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/cartoon-heroes.html

@@ -8,7 +8,7 @@ tags:
 - Bryant Park
 - Grumpy Cat
 - New York City
-modified_time: '2013-06-04T09:00:07.412-04:00'
+modified_date: '2013-06-04T09:00:07.412-04:00'
 thumbnail: http://3.bp.blogspot.com/-JgmuspNQw1k/Ua0Rxy8StxI/AAAAAAAAApM/TaDx8HLvDdk/s72-c/0531131421_0001.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7071928032149720477
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/return-to-book-expo-america.html

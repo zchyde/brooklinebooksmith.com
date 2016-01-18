@@ -7,7 +7,7 @@ tags:
 - Not Fiction
 - Events
 - Fiction
-modified_time: '2007-05-16T20:34:39.027-04:00'
+modified_date: '2007-05-16T20:34:39.027-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-946643410756388854
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/christmas-in-may.html
 ---

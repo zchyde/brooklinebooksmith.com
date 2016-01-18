@@ -7,7 +7,7 @@ tags:
 - personal reflection
 - Poetry
 - there are eight bazillion people in the world and we don't all like the same thing
-modified_time: '2011-07-31T15:49:21.705-04:00'
+modified_date: '2011-07-31T15:49:21.705-04:00'
 thumbnail: http://2.bp.blogspot.com/-sUExdjEvdhM/TjWu1gOMNEI/AAAAAAAAATU/KdnQv-_zV1Q/s72-c/9780393072150.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1309861118265954498
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/we-like-stuff-that-hurts.html

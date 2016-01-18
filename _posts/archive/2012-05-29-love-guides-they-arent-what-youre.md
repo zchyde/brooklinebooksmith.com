@@ -13,7 +13,7 @@ tags:
 - eco-friendly
 - Globe Corner Bookstore
 - Fiona Caulfield
-modified_time: '2012-05-29T13:37:13.823-04:00'
+modified_date: '2012-05-29T13:37:13.823-04:00'
 thumbnail: http://4.bp.blogspot.com/-t4AD7Z734DQ/T8Kc5FspguI/AAAAAAAAAeA/N-S-UKAhAfg/s72-c/AllBooks.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2987366602719969342
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/love-guides-they-arent-what-youre.html

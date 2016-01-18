@@ -5,7 +5,7 @@ date: '2007-06-18T16:51:00.000-04:00'
 author: Lori
 tags:
 - Fiction
-modified_time: '2008-12-08T23:04:00.983-05:00'
+modified_date: '2008-12-08T23:04:00.983-05:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/Rnby9f4YXPI/AAAAAAAAAB4/wXALutihwyI/s72-c/family.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9114315946853084973
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/boston-globe-summer-reads.html

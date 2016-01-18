@@ -4,7 +4,7 @@ title: 'Destination: Eastern Europe'
 date: '2011-10-11T18:20:00.012-04:00'
 author: Jodie
 tags: 
-modified_time: '2011-10-11T19:17:21.475-04:00'
+modified_date: '2011-10-11T19:17:21.475-04:00'
 thumbnail: http://1.bp.blogspot.com/-0tXPZMTBem0/TpTJyuWoHXI/AAAAAAAAAEE/OmvJtpCXVp8/s72-c/592578.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3107504927605528205
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/destination-eastern-europe.html

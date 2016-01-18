@@ -4,7 +4,7 @@ title: Weed It and Reap
 date: '2010-06-06T16:27:00.002-04:00'
 author: dana brigham
 tags: 
-modified_time: '2010-06-06T17:12:17.726-04:00'
+modified_date: '2010-06-06T17:12:17.726-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5801226465966383756
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/weed-it-and-reap.html
 ---

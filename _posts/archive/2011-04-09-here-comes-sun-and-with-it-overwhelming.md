@@ -9,7 +9,7 @@ tags:
 - Events
 - non-fiction
 - running
-modified_time: '2011-04-09T14:59:33.691-04:00'
+modified_date: '2011-04-09T14:59:33.691-04:00'
 thumbnail: http://2.bp.blogspot.com/-Rp9z7F305uo/TaCpmhP9OKI/AAAAAAAAAOo/u_d6C7GAeUc/s72-c/img_1103.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3112860709069033442
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/here-comes-sun-and-with-it-overwhelming.html

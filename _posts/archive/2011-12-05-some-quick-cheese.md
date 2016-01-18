@@ -5,7 +5,7 @@ date: '2011-12-05T15:56:00.006-05:00'
 author: Kate Robinson
 tags:
 - Poetry
-modified_time: '2011-12-05T16:10:12.172-05:00'
+modified_date: '2011-12-05T16:10:12.172-05:00'
 thumbnail: http://2.bp.blogspot.com/-p70FJlfx-jE/Tt0w40ynl7I/AAAAAAAAAU4/eSiSqgRg1qo/s72-c/grace2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3459199309482587340
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/some-quick-cheese.html

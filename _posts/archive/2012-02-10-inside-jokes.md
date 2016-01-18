@@ -12,7 +12,7 @@ tags:
 - humor
 - lincoln
 - cats
-modified_time: '2012-02-10T10:41:05.267-05:00'
+modified_date: '2012-02-10T10:41:05.267-05:00'
 thumbnail: http://2.bp.blogspot.com/-Syz47SKlukk/TyWSOXPSpRI/AAAAAAAAATQ/AwNpfpx52JU/s72-c/ennui.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7915201956065395043
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/inside-jokes.html

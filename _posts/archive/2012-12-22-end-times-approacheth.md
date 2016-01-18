@@ -9,7 +9,7 @@ tags:
   part of the internet but i might just be talking to myself
 - apocalypse
 - Confessions
-modified_time: '2012-12-22T20:20:55.944-05:00'
+modified_date: '2012-12-22T20:20:55.944-05:00'
 thumbnail: http://3.bp.blogspot.com/-Q1pr9pkXxic/UNY4kBUK7II/AAAAAAAAACg/5rd4i7Wv328/s72-c/bb+xmas.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7427445640383387655
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/end-times-approacheth.html

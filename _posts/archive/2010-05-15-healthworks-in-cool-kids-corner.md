@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - Bookselling Life
 - bestsellers
-modified_time: '2010-05-15T14:58:09.300-04:00'
+modified_date: '2010-05-15T14:58:09.300-04:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/S-7uCJji8AI/AAAAAAAAAD4/Bkhtdct4Vyw/s72-c/3221820358_6bcd8f8224.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4969994487385671945
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/healthworks-in-cool-kids-corner.html

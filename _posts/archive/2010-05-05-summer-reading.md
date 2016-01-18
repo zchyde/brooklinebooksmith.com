@@ -4,7 +4,7 @@ title: Summer Reading
 date: '2010-05-05T17:27:00.003-04:00'
 author: Eugenia
 tags: 
-modified_time: '2010-05-05T18:04:15.626-04:00'
+modified_date: '2010-05-05T18:04:15.626-04:00'
 thumbnail: http://1.bp.blogspot.com/_wjUuRMMlrgk/S-HqddEAG3I/AAAAAAAAAOk/O_EW0KNCmxw/s72-c/dj_jazzy_jeff_summertime.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2586090529042724878
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/summer-reading.html

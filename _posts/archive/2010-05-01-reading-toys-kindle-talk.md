@@ -13,7 +13,7 @@ tags:
 - Page to Screen
 - Confessions
 - e-book
-modified_time: '2010-05-01T16:09:28.188-04:00'
+modified_date: '2010-05-01T16:09:28.188-04:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s72-c/burgess-kindle.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-273572289138579945
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/reading-toys-kindle-talk.html

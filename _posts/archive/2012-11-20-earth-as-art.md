@@ -11,7 +11,7 @@ tags:
 - World Upside Down
 - Railway Maps
 - Tyvek Map
-modified_time: '2012-11-20T09:00:00.608-05:00'
+modified_date: '2012-11-20T09:00:00.608-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1600077800796064736
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/earth-as-art.html
 ---

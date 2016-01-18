@@ -9,7 +9,7 @@ tags:
 - poc characters
 - "#WeNeedDiverseBooks"
 - kids books
-modified_time: '2015-06-15T10:30:01.121-04:00'
+modified_date: '2015-06-15T10:30:01.121-04:00'
 thumbnail: http://2.bp.blogspot.com/-10SXb4-7eJU/VX3OdLfLmeI/AAAAAAAAAIk/wGNzwlt3fN0/s72-c/one%2Bfamily.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3754970392942886085
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/06/alex-is-readingpicture-books-with.html

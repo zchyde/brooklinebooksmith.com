@@ -10,7 +10,7 @@ tags:
 - really though who are we kidding i'm buying everyone books
 - hoarders
 - ephemerality
-modified_time: '2012-12-15T17:54:17.733-05:00'
+modified_date: '2012-12-15T17:54:17.733-05:00'
 thumbnail: http://1.bp.blogspot.com/-yi1vl2kQcvo/UMzpTNV1sII/AAAAAAAAACM/YhiJ3wD3lXQ/s72-c/photo+(5).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1613156373631444898
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/its-ephemeral-circle-of-life-type-thing.html

@@ -8,7 +8,7 @@ tags:
 - YA
 - children's books
 - there's more where that came from
-modified_time: '2013-11-18T09:56:00.576-05:00'
+modified_date: '2013-11-18T09:56:00.576-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7436577005957823272
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/11/the-eight-nights-of-thanksgivukkah.html
 ---

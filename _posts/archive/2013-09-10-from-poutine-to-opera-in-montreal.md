@@ -12,7 +12,7 @@ tags:
 - Opera
 - Chihuly
 - lonely planet
-modified_time: '2013-09-10T09:00:04.892-04:00'
+modified_date: '2013-09-10T09:00:04.892-04:00'
 thumbnail: http://2.bp.blogspot.com/-ARQzcZg7CWo/UizPQ_iHsEI/AAAAAAAAAxE/wy2vH1wBdLc/s72-c/IMG_8859.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7080938985319641938
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/from-poutine-to-opera-in-montreal.html

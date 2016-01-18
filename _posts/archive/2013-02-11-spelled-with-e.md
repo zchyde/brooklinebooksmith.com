@@ -6,7 +6,7 @@ author: Shoshana
 tags:
 - orphans with gleams in their eyes
 - children's books
-modified_time: '2013-02-11T13:41:03.857-05:00'
+modified_date: '2013-02-11T13:41:03.857-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6862117048372343304
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/spelled-with-e.html
 ---

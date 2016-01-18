@@ -4,7 +4,7 @@ title: Post Holiday Buzz
 date: '2009-12-29T07:59:00.005-05:00'
 author: Kate Robinson
 tags: 
-modified_time: '2009-12-29T08:22:25.213-05:00'
+modified_date: '2009-12-29T08:22:25.213-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4638829614318620325
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/12/post-holiday-buzz.html
 ---

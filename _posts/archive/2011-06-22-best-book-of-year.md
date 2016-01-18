@@ -4,7 +4,7 @@ title: Best Book of the Year!
 date: '2011-06-22T18:18:00.000-04:00'
 author: Emily
 tags: 
-modified_time: '2011-06-22T18:18:07.275-04:00'
+modified_date: '2011-06-22T18:18:07.275-04:00'
 thumbnail: http://1.bp.blogspot.com/-XT0tHsuLDys/TgJpvNjipRI/AAAAAAAAAQA/Br8nAu7BNxM/s72-c/7824322.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3783081145879731004
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/best-book-of-year.html

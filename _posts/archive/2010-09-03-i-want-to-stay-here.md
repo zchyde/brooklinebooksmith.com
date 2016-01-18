@@ -7,7 +7,7 @@ tags:
 - paul murray
 - ownership
 - skippy dies
-modified_time: '2010-09-03T18:11:52.445-04:00'
+modified_date: '2010-09-03T18:11:52.445-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8352878461690713474
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/i-want-to-stay-here.html
 ---

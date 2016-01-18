@@ -7,7 +7,7 @@ tags:
 - Not Fiction
 - Bookselling Life
 - Fiction
-modified_time: '2007-05-25T20:21:52.094-04:00'
+modified_date: '2007-05-25T20:21:52.094-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8221533429577281722
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/thinking-of-fall.html
 ---

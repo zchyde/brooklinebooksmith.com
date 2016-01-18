@@ -6,7 +6,7 @@ author: Emily
 tags:
 - gluten free
 - Cookbooks
-modified_time: '2010-10-06T10:38:29.031-04:00'
+modified_date: '2010-10-06T10:38:29.031-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TKyJd-EIjtI/AAAAAAAAAKY/f7BRhGZyHgc/s72-c/41iOxtWHjoL._SS500_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-14797477138403096
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/cookbookstheyre-huge-part-of-life-you.html

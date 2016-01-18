@@ -10,7 +10,7 @@ tags:
 - saudade
 - globe corner
 - Jose Saramago
-modified_time: '2012-08-15T10:36:07.243-04:00'
+modified_date: '2012-08-15T10:36:07.243-04:00'
 thumbnail: http://2.bp.blogspot.com/-xe-UZTu-qec/UClb6nQYkRI/AAAAAAAAAgY/ULIZ6Yyb8Pw/s72-c/IMG_7956-300x225.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3347367368604544153
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/searching-for-saudade-in-city-of-lisbon.html

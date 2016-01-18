@@ -4,7 +4,7 @@ title: Narnia Had 100 Years of Winter, January in Boston Only Lasts About 40-50,
 date: '2011-11-03T21:12:00.000-04:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2011-11-03T21:13:33.162-04:00'
+modified_date: '2011-11-03T21:13:33.162-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3896978188873585807
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/narnia-had-100-years-of-winter-january.html
 ---

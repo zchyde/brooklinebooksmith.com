@@ -10,7 +10,7 @@ tags:
 - kids
 - World Upside Down
 - Wall Maps
-modified_time: '2013-08-20T09:00:05.265-04:00'
+modified_date: '2013-08-20T09:00:05.265-04:00'
 thumbnail: http://2.bp.blogspot.com/-hHtQHq1PNP8/UhEhv8yijII/AAAAAAAAAug/sCvDkhRRw20/s72-c/WUS-36x56-LT.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1603054048478851093
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/back-to-school.html

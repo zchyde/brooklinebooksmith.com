@@ -4,7 +4,7 @@ title: What the Hell is an Aperitif?  Guest Post by Gene Kwak
 date: '2011-01-19T23:54:00.001-05:00'
 author: Evan
 tags: 
-modified_time: '2011-01-20T00:09:36.978-05:00'
+modified_date: '2011-01-20T00:09:36.978-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2717341068918494020
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/what-hell-is-aperitif-guest-post-by.html
 ---

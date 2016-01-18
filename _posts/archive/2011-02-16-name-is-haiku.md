@@ -4,7 +4,7 @@ title: The Name is Haiku
 date: '2011-02-16T15:35:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2011-02-16T15:35:03.160-05:00'
+modified_date: '2011-02-16T15:35:03.160-05:00'
 thumbnail: http://1.bp.blogspot.com/-vBDhPyXLrCY/TVwztB-VUFI/AAAAAAAAAOM/N7xoKXg-U2w/s72-c/0805089950.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-378766038178603025
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/name-is-haiku.html

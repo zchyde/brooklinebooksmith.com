@@ -7,7 +7,7 @@ tags:
 - ganesh chaturthi
 - william darymple
 - city of djinns
-modified_time: '2012-10-14T14:02:25.956-04:00'
+modified_date: '2012-10-14T14:02:25.956-04:00'
 thumbnail: http://2.bp.blogspot.com/-oZRjnlDsQ-E/UHdJpvshl7I/AAAAAAAAPPI/VxTp-XYeWbc/s72-c/shuchi+blog+photo+1.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2623744231363905963
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/the-journey-home.html

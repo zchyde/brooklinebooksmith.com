@@ -13,7 +13,7 @@ tags:
 - books
 - Supernatural
 - Sara Rees Brennan
-modified_time: '2015-05-13T08:00:04.148-04:00'
+modified_date: '2015-05-13T08:00:04.148-04:00'
 thumbnail: http://4.bp.blogspot.com/-j6P10KudztY/VUZ3MmCTl5I/AAAAAAAAARQ/JnNpEiL8o0k/s72-c/May%2BTV%2BLit.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6720636198156735397
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/05/may-television-inspired-lit.html

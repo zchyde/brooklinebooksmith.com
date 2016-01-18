@@ -17,7 +17,7 @@ tags:
 - used books
 - ubc
 - Events
-modified_time: '2013-10-08T12:16:02.006-04:00'
+modified_date: '2013-10-08T12:16:02.006-04:00'
 thumbnail: http://1.bp.blogspot.com/-9tNa3SN-WgY/UlL2BP_6l-I/AAAAAAAAADo/fPlwdKvFNRk/s72-c/photo+2.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-891410757209052052
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/10/in-emergency-of-event.html

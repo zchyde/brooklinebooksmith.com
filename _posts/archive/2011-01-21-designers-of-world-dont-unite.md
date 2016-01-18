@@ -8,7 +8,7 @@ tags:
 - homogenous
 - book design
 - there are eight bazillion people in the world and we don't all like the same thing
-modified_time: '2011-01-21T21:42:41.174-05:00'
+modified_date: '2011-01-21T21:42:41.174-05:00'
 thumbnail: http://4.bp.blogspot.com/__XLYr0GLRDQ/TTo359ukqyI/AAAAAAAAAFE/dM5QHQeco6A/s72-c/turnedheads.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6641271563089300558
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/designers-of-world-dont-unite.html

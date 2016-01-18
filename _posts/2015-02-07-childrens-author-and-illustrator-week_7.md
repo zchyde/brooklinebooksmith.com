@@ -16,7 +16,7 @@ tags:
 - Selznick
 - Black
 - Clare
-modified_time: '2015-02-09T09:38:14.894-05:00'
+modified_date: '2015-02-09T09:38:14.894-05:00'
 thumbnail: http://1.bp.blogspot.com/-yTAUp3Pk1Sc/VC1Wjt4cVBI/AAAAAAAAAyU/qaMhF1h9OFw/s72-c/Seen%2Band%2BNot%2BHeard.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4912675899346815949
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_7.html

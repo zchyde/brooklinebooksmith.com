@@ -8,7 +8,7 @@ tags:
 - Kids Section
 - fall
 - halloween
-modified_time: '2014-09-15T08:00:13.261-04:00'
+modified_date: '2014-09-15T08:00:13.261-04:00'
 thumbnail: http://3.bp.blogspot.com/-XJZhZ6tc6ro/VBYF93SwoxI/AAAAAAAAArA/3shLtYTFWjo/s72-c/100_6086%5B1%5D.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3873587015805208161
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/the-fall-of-summer-reading.html

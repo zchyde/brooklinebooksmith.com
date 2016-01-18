@@ -17,7 +17,7 @@ tags:
 - mythology
 - theatre
 - comics
-modified_time: '2013-05-31T09:04:07.256-04:00'
+modified_date: '2013-05-31T09:04:07.256-04:00'
 thumbnail: http://1.bp.blogspot.com/-oJ5tx-YdLJU/UaieH4MGm1I/AAAAAAAABR8/dspjZnUKJq0/s72-c/centzon.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8134495734567733743
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/1000-drunken-bunny-rabbits.html

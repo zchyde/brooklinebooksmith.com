@@ -4,7 +4,7 @@ title: Waiting and waiting
 date: '2012-02-15T19:32:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2012-02-15T19:32:43.699-05:00'
+modified_date: '2012-02-15T19:32:43.699-05:00'
 thumbnail: http://1.bp.blogspot.com/-wceLlVz3w-s/TzxOBK9y-2I/AAAAAAAAAUA/2t1D8h_acWg/s72-c/and-then-its-spring-large.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5383788549633622619
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/waiting-and-waiting.html

@@ -4,7 +4,7 @@ title: Sue Grafton's Z is for ZZZZZZZ or How Mystery Books Put Me To Sleep
 date: '2010-06-06T23:37:00.009-04:00'
 author: Carl
 tags: 
-modified_time: '2010-06-07T08:46:14.562-04:00'
+modified_date: '2010-06-07T08:46:14.562-04:00'
 thumbnail: http://1.bp.blogspot.com/_lonf0gt6RtI/TAxz4xDTkCI/AAAAAAAAAvk/r2kIhtoHF80/s72-c/Jeff+Deaver+gets+Ian+Fleming+Dagger.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6874189239473673006
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/sue-graftons-z-is-for-zzzzzzz-or-how.html

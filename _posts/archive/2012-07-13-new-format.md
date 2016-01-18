@@ -8,7 +8,7 @@ tags:
 - used books
 - science fiction
 - comics
-modified_time: '2012-07-13T11:00:10.998-04:00'
+modified_date: '2012-07-13T11:00:10.998-04:00'
 thumbnail: http://1.bp.blogspot.com/-vDybxRbPE7M/T_2-cYyAIWI/AAAAAAAAAjQ/Q_BYUhJIE1E/s72-c/GoldenPlates1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2277376143494068387
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/new-format.html

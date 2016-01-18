@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Staff Picks
-modified_time: '2009-04-07T20:32:02.470-04:00'
+modified_date: '2009-04-07T20:32:02.470-04:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/SdvviooCQJI/AAAAAAAAANE/XwHoyz0d_X8/s72-c/sarna.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6483090788455670556
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/04/time-to-every-purposeincluding-holiday.html

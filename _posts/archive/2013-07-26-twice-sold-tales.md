@@ -12,7 +12,7 @@ tags:
 - religion
 - eastern philosophy
 - rain
-modified_time: '2013-07-26T10:28:23.820-04:00'
+modified_date: '2013-07-26T10:28:23.820-04:00'
 thumbnail: http://1.bp.blogspot.com/-fwS9g855eos/UfKHSesujMI/AAAAAAAABWY/JSnYl-CJDm8/s72-c/modern.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-961252166999923622
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/twice-sold-tales.html

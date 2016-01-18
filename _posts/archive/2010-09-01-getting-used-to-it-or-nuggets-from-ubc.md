@@ -4,7 +4,7 @@ title: Getting Used To It, Or, Nuggets From The UBC Desk!
 date: '2010-09-01T23:59:00.002-04:00'
 author: Carl
 tags: 
-modified_time: '2010-09-02T00:02:20.327-04:00'
+modified_date: '2010-09-02T00:02:20.327-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5877449775306094888
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/getting-used-to-it-or-nuggets-from-ubc.html
 ---

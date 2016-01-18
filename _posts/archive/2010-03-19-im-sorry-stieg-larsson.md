@@ -4,7 +4,7 @@ title: I'm sorry, Stieg Larsson
 date: '2010-03-19T19:42:00.003-04:00'
 author: Paul Theriault
 tags: 
-modified_time: '2010-03-19T20:22:56.473-04:00'
+modified_date: '2010-03-19T20:22:56.473-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2597831155833717957
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/im-sorry-stieg-larsson.html
 ---

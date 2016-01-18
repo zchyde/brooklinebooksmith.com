@@ -6,7 +6,7 @@ author: Emily
 tags:
 - fall
 - halloween
-modified_time: '2010-10-27T16:50:37.367-04:00'
+modified_date: '2010-10-27T16:50:37.367-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TMiPeT5aJ-I/AAAAAAAAALk/_WsHQAUxAjE/s72-c/brilliant-fall.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5220731894029477912
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/not-every-fall-book-is-about-goblins.html

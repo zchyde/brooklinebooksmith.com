@@ -4,7 +4,7 @@ title: Jabberwocky, Because It Matters...
 date: '2010-08-07T15:29:00.007-04:00'
 author: Kate Robinson
 tags: 
-modified_time: '2010-08-07T15:43:11.097-04:00'
+modified_date: '2010-08-07T15:43:11.097-04:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/TF22jl5ak1I/AAAAAAAAAHI/HipOWVRh9Dk/s72-c/1096279.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4360788098639712213
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/jabberwocky-because-it-matters.html

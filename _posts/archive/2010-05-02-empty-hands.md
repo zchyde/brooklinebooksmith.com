@@ -4,7 +4,7 @@ title: Empty Hands
 date: '2010-05-02T11:06:00.002-04:00'
 author: dana brigham
 tags: 
-modified_time: '2010-05-02T11:50:31.916-04:00'
+modified_date: '2010-05-02T11:50:31.916-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-563592658918701677
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/empty-hands.html
 ---

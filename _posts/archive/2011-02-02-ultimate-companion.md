@@ -4,7 +4,7 @@ title: The Ultimate Companion
 date: '2011-02-02T15:57:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2011-02-02T15:57:46.378-05:00'
+modified_date: '2011-02-02T15:57:46.378-05:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/TUnAnZ_xPyI/AAAAAAAAAN4/iRFr14s7qXw/s72-c/9781442403772.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5101115276001047433
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/ultimate-companion.html

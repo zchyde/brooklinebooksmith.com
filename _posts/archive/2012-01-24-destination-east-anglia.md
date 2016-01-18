@@ -4,7 +4,7 @@ title: 'Destination: East Anglia'
 date: '2012-01-24T13:46:00.000-05:00'
 author: Jodie
 tags: 
-modified_time: '2012-01-24T13:46:55.228-05:00'
+modified_date: '2012-01-24T13:46:55.228-05:00'
 thumbnail: http://3.bp.blogspot.com/-hXkHdCHXoIE/Txs4yoS3UNI/AAAAAAAAATU/KHS0o1c8iv0/s72-c/ringnames_big.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7939422223649612419
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/destination-east-anglia.html

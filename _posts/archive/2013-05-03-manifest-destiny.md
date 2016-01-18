@@ -12,7 +12,7 @@ tags:
 - store
 - Staff Picks
 - kids books
-modified_time: '2013-05-03T11:00:04.575-04:00'
+modified_date: '2013-05-03T11:00:04.575-04:00'
 thumbnail: http://1.bp.blogspot.com/-KOsRD0d5qrU/UYK279QLR0I/AAAAAAAABP4/umM6F4xNlU0/s72-c/CYMERA_20130502_145212.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2132487533639010656
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/manifest-destiny.html

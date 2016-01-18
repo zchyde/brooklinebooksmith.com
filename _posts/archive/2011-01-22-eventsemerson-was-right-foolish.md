@@ -6,7 +6,7 @@ date: '2011-01-22T15:08:00.015-05:00'
 author: Kate Robinson
 tags:
 - Patton Oswalt
-modified_time: '2011-01-22T17:32:35.246-05:00'
+modified_date: '2011-01-22T17:32:35.246-05:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TTs6dVCw5dI/AAAAAAAAAMU/6rFUwMbyuQE/s72-c/david-bowie-138.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4641214712905806354
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/eventsemerson-was-right-foolish.html

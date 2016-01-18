@@ -7,7 +7,7 @@ tags:
 - alison bechdel
 - fun home
 - graphic novels
-modified_time: '2010-11-04T19:58:19.157-04:00'
+modified_date: '2010-11-04T19:58:19.157-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6442476063822143906
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/warning-graphic-novel-content.html
 ---

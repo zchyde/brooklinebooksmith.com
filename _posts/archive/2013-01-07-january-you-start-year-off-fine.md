@@ -8,7 +8,7 @@ tags:
 - merry merry January
 - teens talking
 - okay we also really are hunching over clipboards
-modified_time: '2013-01-07T09:00:07.017-05:00'
+modified_date: '2013-01-07T09:00:07.017-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2185164926049697983
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/january-you-start-year-off-fine.html
 ---

@@ -10,7 +10,7 @@ tags:
 - Red Maps
 - Clifford
 - Rhode Island
-modified_time: '2012-10-08T18:22:23.120-04:00'
+modified_date: '2012-10-08T18:22:23.120-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8564529847542413327
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/neiba-lively-experiment.html
 ---

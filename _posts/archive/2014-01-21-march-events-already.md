@@ -13,7 +13,7 @@ tags:
 - march
 - momo
 - dancin'
-modified_time: '2014-01-21T10:00:04.689-05:00'
+modified_date: '2014-01-21T10:00:04.689-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-496865378270556501
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/01/march-events-already.html
 ---

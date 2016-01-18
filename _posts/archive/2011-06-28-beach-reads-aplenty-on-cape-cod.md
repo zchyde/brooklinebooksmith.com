@@ -4,7 +4,7 @@ title: Beach Reads Aplenty on Cape Cod
 date: '2011-06-28T17:14:00.004-04:00'
 author: Liz T.
 tags: 
-modified_time: '2011-06-28T18:04:07.335-04:00'
+modified_date: '2011-06-28T18:04:07.335-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1944258851190490358
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/beach-reads-aplenty-on-cape-cod.html
 ---

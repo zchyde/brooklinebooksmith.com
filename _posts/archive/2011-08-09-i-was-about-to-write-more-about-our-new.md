@@ -8,7 +8,7 @@ tags:
 - Old Corner Bookstore
 - Edgar Allan Poe
 - Literary Travel
-modified_time: '2011-08-09T17:08:07.099-04:00'
+modified_date: '2011-08-09T17:08:07.099-04:00'
 thumbnail: http://4.bp.blogspot.com/-dbeeN8qvXPs/TkGas9Xt-2I/AAAAAAAAACE/ZKJg0dWvPds/s72-c/raven.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1647364622584602280
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/i-was-about-to-write-more-about-our-new.html

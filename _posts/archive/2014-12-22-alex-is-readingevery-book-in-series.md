@@ -7,7 +7,7 @@ tags:
 - alex is reading
 - YA
 - kids books
-modified_time: '2014-12-22T16:45:45.030-05:00'
+modified_date: '2014-12-22T16:45:45.030-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8245373501932198260
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/12/alex-is-readingevery-book-in-series.html
 ---

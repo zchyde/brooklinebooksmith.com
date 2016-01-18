@@ -12,7 +12,7 @@ tags:
 - journaling
 - writing
 - longhand
-modified_time: '2012-06-07T14:15:51.133-04:00'
+modified_date: '2012-06-07T14:15:51.133-04:00'
 thumbnail: http://1.bp.blogspot.com/-bcr4ObyioIs/T9Dsi14DoqI/AAAAAAAANbs/Mlc8TYg6ZIE/s72-c/moleskine-classic-extra-large-soft-cover-squared-notebook-7.5-x-10-msx15-1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3718801118970506053
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/journaling.html

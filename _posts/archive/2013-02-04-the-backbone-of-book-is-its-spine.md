@@ -9,7 +9,7 @@ tags:
 - Artsy-Fartsy
 - book covers
 - book design
-modified_time: '2013-02-04T12:37:10.359-05:00'
+modified_date: '2013-02-04T12:37:10.359-05:00'
 thumbnail: http://4.bp.blogspot.com/-suC_42WRM2E/UQ58SzG6CxI/AAAAAAAAAZc/PaTYqMwc9cU/s72-c/Spines1.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1819981277676432122
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/the-backbone-of-book-is-its-spine.html

@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Page to Screen
 - Fiction
-modified_time: '2008-03-11T11:27:23.254-04:00'
+modified_date: '2008-03-11T11:27:23.254-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3940928248195454423
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/03/no-1-ladies-detective-agency-and-hbo.html
 ---

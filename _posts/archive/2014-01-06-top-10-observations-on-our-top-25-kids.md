@@ -7,7 +7,7 @@ tags:
 - children's books
 - lists
 - young adult
-modified_time: '2014-01-06T09:00:01.027-05:00'
+modified_date: '2014-01-06T09:00:01.027-05:00'
 thumbnail: http://4.bp.blogspot.com/-taN70CunG-Q/UsckhoTs66I/AAAAAAAAAM0/Kn8YaSeOfjM/s72-c/1456611_10151818181161964_985048835_n.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3154280885057884537
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/01/top-10-observations-on-our-top-25-kids.html

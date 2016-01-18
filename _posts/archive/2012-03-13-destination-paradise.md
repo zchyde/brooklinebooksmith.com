@@ -11,7 +11,7 @@ tags:
 - Destination Literature
 - travel
 - Jonathan Keates
-modified_time: '2012-03-13T13:44:41.554-04:00'
+modified_date: '2012-03-13T13:44:41.554-04:00'
 thumbnail: http://2.bp.blogspot.com/-X_D850_hqX0/T15xAKuh_fI/AAAAAAAAAYU/w6VTuwcFTfU/s72-c/The-Portable-Paradise.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7322026998051399661
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/destination-paradise.html

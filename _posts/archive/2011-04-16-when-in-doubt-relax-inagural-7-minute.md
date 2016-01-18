@@ -9,7 +9,7 @@ tags:
 - non-fiction
 - running
 - The 7-minute Booksmith Interview
-modified_time: '2011-04-17T10:17:50.842-04:00'
+modified_date: '2011-04-17T10:17:50.842-04:00'
 thumbnail: http://2.bp.blogspot.com/-NaaVSf3kQds/TaiaZYsKMCI/AAAAAAAAAO4/vtdPNN0Pd7w/s72-c/12222222222222222222.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2446145367037357635
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/when-in-doubt-relax-inagural-7-minute.html

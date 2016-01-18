@@ -11,7 +11,7 @@ tags:
 - Staff Picks
 - what is art
 - Poetry
-modified_time: '2011-04-02T14:57:57.261-04:00'
+modified_date: '2011-04-02T14:57:57.261-04:00'
 thumbnail: http://4.bp.blogspot.com/-cE9dtAb6IZ4/TZdCSulQ6II/AAAAAAAAAOQ/XssbbZyFgxw/s72-c/9780615163550.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-307589972676154678
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/national-poetry-month-or-as-i-like-to.html

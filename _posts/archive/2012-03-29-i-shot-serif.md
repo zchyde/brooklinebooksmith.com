@@ -18,7 +18,7 @@ tags:
 - quotes
 - print
 - book design
-modified_time: '2012-04-02T13:57:48.947-04:00'
+modified_date: '2012-04-02T13:57:48.947-04:00'
 thumbnail: http://1.bp.blogspot.com/-KAcGceBXlm4/T3JOJSVzKRI/AAAAAAAAAI4/tsIrAOtRTwg/s72-c/lovelabs.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1581673043993811918
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/i-shot-serif.html

@@ -10,7 +10,7 @@ tags:
 - fairy
 - Laura Amy Schlitz
 - bullying
-modified_time: '2010-03-31T09:14:20.102-04:00'
+modified_date: '2010-03-31T09:14:20.102-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/S7NJsZn7UOI/AAAAAAAAABM/0OgW8OSF6Nw/s72-c/night+fairy.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2550888273917543593
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/breath-of-fresh-air.html

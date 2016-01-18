@@ -8,7 +8,7 @@ tags:
 - geeking out
 - YA covers not featuring girls in evening gowns
 - awards
-modified_time: '2013-01-28T15:07:58.842-05:00'
+modified_date: '2013-01-28T15:07:58.842-05:00'
 thumbnail: http://3.bp.blogspot.com/-0cLZ9nq7QlI/UQWaJevReUI/AAAAAAAAAHE/Ez1EvgSvi_w/s72-c/1.27.13+004.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8691656147524361285
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/this-post-contains-eyeballs.html

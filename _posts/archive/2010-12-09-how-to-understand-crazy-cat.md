@@ -6,7 +6,7 @@ author: Amanda
 tags:
 - animals in translation
 - temple grandin
-modified_time: '2010-12-09T11:45:14.297-05:00'
+modified_date: '2010-12-09T11:45:14.297-05:00'
 thumbnail: http://3.bp.blogspot.com/_vN3v_zbfcFQ/TQEHOnAlFuI/AAAAAAAAAA4/PxOZJFM0zuI/s72-c/41YtOmq5d2L._SL500_AA300_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6792982028108316037
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/how-to-understand-crazy-cat.html

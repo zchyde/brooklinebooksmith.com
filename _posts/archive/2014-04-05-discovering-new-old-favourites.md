@@ -4,7 +4,7 @@ title: Discovering New Old Favourites
 date: '2014-04-05T13:30:00.000-04:00'
 author: Kat
 tags: 
-modified_time: '2014-04-05T13:30:00.929-04:00'
+modified_date: '2014-04-05T13:30:00.929-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7143483661514032781
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/discovering-new-old-favourites.html
 ---

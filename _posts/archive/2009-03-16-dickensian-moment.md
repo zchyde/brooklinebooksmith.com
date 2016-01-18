@@ -7,7 +7,7 @@ tags:
 - movies
 - Events
 - Fiction
-modified_time: '2009-03-16T19:01:44.553-04:00'
+modified_date: '2009-03-16T19:01:44.553-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2823113860555973762
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/03/dickensian-moment.html
 ---

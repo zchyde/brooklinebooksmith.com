@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Other Cool Stuff
 - What's Cooking
-modified_time: '2008-12-08T23:03:56.921-05:00'
+modified_date: '2008-12-08T23:03:56.921-05:00'
 thumbnail: http://3.bp.blogspot.com/_zqgb4FOCazQ/SDhrIwRpgeI/AAAAAAAAAGo/l1av4XMVszw/s72-c/blue+gigner.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2895985585093466673
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/05/ming-tsais-boston.html

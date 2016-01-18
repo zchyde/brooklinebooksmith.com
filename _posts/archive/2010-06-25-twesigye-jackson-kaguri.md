@@ -9,7 +9,7 @@ tags:
 - labor
 - AIDS
 - twesigye kaguri
-modified_time: '2010-06-25T17:52:07.799-04:00'
+modified_date: '2010-06-25T17:52:07.799-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8773438125262583565
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/twesigye-jackson-kaguri.html
 ---

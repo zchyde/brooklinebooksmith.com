@@ -4,7 +4,7 @@ title: The Poetics of Travel
 date: '2012-04-03T13:05:00.002-04:00'
 author: Jodie
 tags: 
-modified_time: '2012-04-03T13:05:46.179-04:00'
+modified_date: '2012-04-03T13:05:46.179-04:00'
 thumbnail: http://1.bp.blogspot.com/-MOfXB5m59u8/T3nwlvDov-I/AAAAAAAAAaU/oYo-fShpGYk/s72-c/road.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1335710308948225254
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/poetics-of-travel.html

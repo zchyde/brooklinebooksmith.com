@@ -8,7 +8,7 @@ tags:
 - Be Here Now
 - Hippie Junk
 - Self Help
-modified_time: '2012-02-16T09:00:12.659-05:00'
+modified_date: '2012-02-16T09:00:12.659-05:00'
 thumbnail: http://3.bp.blogspot.com/-C3MXe_HM5iw/TzxPGAgYMxI/AAAAAAAAAFQ/dU5VXM9HmmM/s72-c/BeHereNowLG.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5442219876005937495
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/being-right-exactly-here-in-this-spot.html

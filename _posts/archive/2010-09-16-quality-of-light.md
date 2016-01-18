@@ -6,7 +6,7 @@ author: Paul Theriault
 tags:
 - per petterson
 - i wish i was norwegian
-modified_time: '2010-09-16T19:22:41.847-04:00'
+modified_date: '2010-09-16T19:22:41.847-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6821664403373714599
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/quality-of-light.html
 ---

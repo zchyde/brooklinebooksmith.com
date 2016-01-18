@@ -4,7 +4,7 @@ title: Sweet Gifts (without the sugar)
 date: '2011-01-26T12:32:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2011-01-26T12:32:58.491-05:00'
+modified_date: '2011-01-26T12:32:58.491-05:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TUBZ-OhL20I/AAAAAAAAANw/14m9z38UVn8/s72-c/sendastory-2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2713605150708497681
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/sweet-gifts-without-sugar.html

@@ -5,7 +5,7 @@ title: 'Cheese, compromise, and America: Things you can expect me to blog about 
 date: '2010-11-25T18:04:00.006-05:00'
 author: Zoe Hyde
 tags: 
-modified_time: '2010-11-26T00:38:41.418-05:00'
+modified_date: '2010-11-26T00:38:41.418-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7731045968084953009
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/hello-internets-thursday-is-tentatively.html
 ---

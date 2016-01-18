@@ -11,7 +11,7 @@ tags:
 - price tags
 - Margaret Jane Radin
 - James Grimmelmann
-modified_time: '2012-10-13T14:32:55.828-04:00'
+modified_date: '2012-10-13T14:32:55.828-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1375650811649468528
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/stay-your-safety-scissors-gentles.html
 ---

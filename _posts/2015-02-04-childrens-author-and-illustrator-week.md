@@ -11,7 +11,7 @@ tags:
 - Mac Barnett
 - kids books
 - kidsmith
-modified_time: '2015-02-04T09:00:05.011-05:00'
+modified_date: '2015-02-04T09:00:05.011-05:00'
 thumbnail: http://2.bp.blogspot.com/-W_KKjbvhChk/UUpOUWhbNUI/AAAAAAAAAVU/csYqkzyZTLc/s72-c/IMG_3268.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4238795218768233797
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week.html

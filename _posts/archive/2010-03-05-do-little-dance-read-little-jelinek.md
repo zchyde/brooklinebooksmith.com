@@ -4,7 +4,7 @@ title: Do a little dance, read a little Jelinek
 date: '2010-03-05T14:45:00.001-05:00'
 author: Katie
 tags: 
-modified_time: '2010-03-05T15:14:47.637-05:00'
+modified_date: '2010-03-05T15:14:47.637-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2275130376996666662
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/do-little-dance-read-little-jelinek.html
 ---

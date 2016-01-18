@@ -11,7 +11,7 @@ tags:
 - robert galbraith
 - the fault in our stars
 - weekly bestsellers
-modified_time: '2014-07-09T19:42:40.051-04:00'
+modified_date: '2014-07-09T19:42:40.051-04:00'
 thumbnail: http://1.bp.blogspot.com/-lV-5DTa9raY/U72YTVPiXuI/AAAAAAAAQ7c/9yhlZODGKIE/s72-c/silkworm.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2032693239142958184
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/weekly-bestsellers-june-30th-july-6th.html

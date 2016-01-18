@@ -4,7 +4,7 @@ title: 'Destination: Florence'
 date: '2012-01-17T13:36:00.000-05:00'
 author: Jodie
 tags: 
-modified_time: '2012-01-17T13:36:41.497-05:00'
+modified_date: '2012-01-17T13:36:41.497-05:00'
 thumbnail: http://2.bp.blogspot.com/-1KLEs3Sl2wc/TxSbYZfqEJI/AAAAAAAAASk/4R1kicpg0TU/s72-c/florence-a-map-of-perceptions.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6288313491054378390
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/destination-florence.html

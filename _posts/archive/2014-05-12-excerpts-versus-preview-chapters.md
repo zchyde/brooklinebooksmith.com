@@ -9,7 +9,7 @@ tags:
 - YA
 - Stephanie Perkins
 - Leigh Bardugo
-modified_time: '2014-05-12T09:00:12.162-04:00'
+modified_date: '2014-05-12T09:00:12.162-04:00'
 thumbnail: http://2.bp.blogspot.com/-Fgt3YvCA6sE/U2_nNZBkwAI/AAAAAAAAAno/pX5Heiiupjo/s72-c/tumblr_mw2ifvQsrL1rhcw6to1_400.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7896415590010903035
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/excerpts-versus-preview-chapters.html

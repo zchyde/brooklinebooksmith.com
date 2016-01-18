@@ -5,7 +5,7 @@ title: In Which We Join Our Heroine On The Cusp Of Something Super Duper Serious
 date: '2012-01-20T10:14:00.002-05:00'
 author: Zoe Hyde
 tags:
-modified_time: '2012-01-20T10:14:20.005-05:00'
+modified_date: '2012-01-20T10:14:20.005-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6541029981021557556
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/in-which-we-join-our-heroine-on-cusp-of.html
 ---

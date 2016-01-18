@@ -11,7 +11,7 @@ tags:
 - Tokyo
 - Literary Travel
 - Poetry
-modified_time: '2013-07-19T11:30:00.265-04:00'
+modified_date: '2013-07-19T11:30:00.265-04:00'
 thumbnail: http://2.bp.blogspot.com/-QaGRhfgKRt0/Uef9sG-sokI/AAAAAAAABVk/UVsnGZnDEKk/s72-c/ink-dark-moon-love-poems-by-onono-komachi-jane-hirshfield-paperback-cover-art.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4977842903329159174
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/tattoos-dennys-and-other-japanese.html

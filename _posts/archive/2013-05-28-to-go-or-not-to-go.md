@@ -14,7 +14,7 @@ tags:
 - quest
 - Roxbury water tower
 - Rapunzel
-modified_time: '2013-05-28T19:22:28.248-04:00'
+modified_date: '2013-05-28T19:22:28.248-04:00'
 thumbnail: http://2.bp.blogspot.com/-IS4xHTko-zg/UaU7_cNx66I/AAAAAAAAAoU/T2GAqHEm7tY/s72-c/art-of-pilgrimage.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6165933218292069774
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/to-go-or-not-to-go.html

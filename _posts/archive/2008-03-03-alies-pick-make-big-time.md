@@ -5,7 +5,7 @@ date: '2008-03-03T17:10:00.004-05:00'
 author: Lori
 tags:
 - Fiction
-modified_time: '2008-12-08T23:03:58.561-05:00'
+modified_date: '2008-12-08T23:03:58.561-05:00'
 thumbnail: http://3.bp.blogspot.com/_zqgb4FOCazQ/R82E7c1af3I/AAAAAAAAAEs/xEFc9NhmTUw/s72-c/lights.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7712597720233247336
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/03/alies-pick-make-big-time.html

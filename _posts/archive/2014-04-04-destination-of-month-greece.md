@@ -12,7 +12,7 @@ tags:
 - philosophy
 - travel
 - aristotle
-modified_time: '2014-04-04T13:37:00.432-04:00'
+modified_date: '2014-04-04T13:37:00.432-04:00'
 thumbnail: http://1.bp.blogspot.com/-lnKg6xgauyE/Uz2cL9yE8uI/AAAAAAAABf8/k5OAdFifWe4/s72-c/C88E354C-3097-42D4-A33F-70082DB86C5A.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8221668198538245013
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/destination-of-month-greece.html

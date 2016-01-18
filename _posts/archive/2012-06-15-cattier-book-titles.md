@@ -7,7 +7,7 @@ tags:
 - used books
 - better book titles
 - cats
-modified_time: '2012-06-15T10:30:04.653-04:00'
+modified_date: '2012-06-15T10:30:04.653-04:00'
 thumbnail: http://1.bp.blogspot.com/-QkGklFQYaRs/T9JYqe7IX9I/AAAAAAAAAf4/HnWSbIByF2Q/s72-c/purrfect.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6585951350400525346
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/cattier-book-titles.html

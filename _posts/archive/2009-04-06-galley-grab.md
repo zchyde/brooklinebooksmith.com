@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Galley Grab
 - Fiction
-modified_time: '2009-04-06T18:42:23.749-04:00'
+modified_date: '2009-04-06T18:42:23.749-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9182502775662257811
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/04/galley-grab.html
 ---

@@ -4,7 +4,7 @@ title: The Year is Half Over...How Did That Happen?
 date: '2008-06-03T18:25:00.007-04:00'
 author: Lori
 tags: 
-modified_time: '2008-06-03T19:34:25.407-04:00'
+modified_date: '2008-06-03T19:34:25.407-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6560590350544157503
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/06/year-is-half-overhow-did-that-happen.html
 ---

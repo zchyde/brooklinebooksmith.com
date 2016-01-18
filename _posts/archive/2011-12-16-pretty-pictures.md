@@ -11,7 +11,7 @@ tags:
 - bunnies
 - illustration
 - children
-modified_time: '2011-12-16T12:00:04.311-05:00'
+modified_date: '2011-12-16T12:00:04.311-05:00'
 thumbnail: http://2.bp.blogspot.com/-ICOiD0BMvdg/TurN6ZbvhbI/AAAAAAAAAOU/boN5Yjnu3iU/s72-c/Photo+Dec+14%252C+7+11+58+PM.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5678078638019406625
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/pretty-pictures.html

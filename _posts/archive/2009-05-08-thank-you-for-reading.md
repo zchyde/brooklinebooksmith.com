@@ -4,7 +4,7 @@ title: Thank You for Reading!
 date: '2009-05-08T21:48:00.003-04:00'
 author: Lori
 tags: 
-modified_time: '2009-05-08T21:54:06.930-04:00'
+modified_date: '2009-05-08T21:54:06.930-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2502359280556368339
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/05/thank-you-for-reading.html
 ---

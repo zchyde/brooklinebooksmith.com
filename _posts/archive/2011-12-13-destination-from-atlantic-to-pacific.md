@@ -4,7 +4,7 @@ title: 'Destination: From Atlantic to Pacific'
 date: '2011-12-13T19:34:00.000-05:00'
 author: Jodie
 tags: 
-modified_time: '2011-12-13T19:34:08.499-05:00'
+modified_date: '2011-12-13T19:34:08.499-05:00'
 thumbnail: http://1.bp.blogspot.com/-gz3he2XU0QM/TufrVQhrUkI/AAAAAAAAARE/2i5wrg-xRWc/s72-c/logo2_medium.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2613183920804447915
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/destination-from-atlantic-to-pacific.html

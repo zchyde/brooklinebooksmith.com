@@ -4,7 +4,7 @@ title: 'Destination: Home'
 date: '2011-11-22T17:07:00.008-05:00'
 author: Jodie
 tags: 
-modified_time: '2011-11-22T17:28:12.022-05:00'
+modified_date: '2011-11-22T17:28:12.022-05:00'
 thumbnail: http://4.bp.blogspot.com/-esZIi6cxvsA/TswfsWKwTbI/AAAAAAAAALM/crmmg6kmXh4/s72-c/leibovitz_pilgrimage.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5836562259316885921
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/destination-home.html

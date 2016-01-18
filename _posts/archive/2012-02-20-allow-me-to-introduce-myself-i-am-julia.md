@@ -4,7 +4,7 @@ title: 'Allow me to introduce myself: I am Julia and I have a cold.'
 date: '2012-02-20T14:23:00.012-05:00'
 author: Julia
 tags: 
-modified_time: '2012-02-20T15:37:08.061-05:00'
+modified_date: '2012-02-20T15:37:08.061-05:00'
 thumbnail: http://1.bp.blogspot.com/-w0PGEYWx-T4/T0Kfi0hFi0I/AAAAAAAAADg/lZguKAA4OrU/s72-c/maladies.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4709076942496832955
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/allow-me-to-introduce-myself-i-am-julia.html

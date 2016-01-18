@@ -13,7 +13,7 @@ tags:
 - gift ideas
 - yankee swap
 - books
-modified_time: '2012-12-06T14:51:22.888-05:00'
+modified_date: '2012-12-06T14:51:22.888-05:00'
 thumbnail: http://4.bp.blogspot.com/-ZjmSdSPvPWc/UMDyXqgYPgI/AAAAAAAABAE/fXUvUiXXOu0/s72-c/interrogative.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-209847117204686103
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/1st-annual-yankee-swap-gift-guide.html

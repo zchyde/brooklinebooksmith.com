@@ -7,7 +7,7 @@ tags:
 - earth science
 - kids
 - non-fiction
-modified_time: '2010-03-10T16:40:39.778-05:00'
+modified_date: '2010-03-10T16:40:39.778-05:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/S5gL0BbC9YI/AAAAAAAAAAs/bSeFbfdZuIM/s72-c/51JJqfk4c9L._SS400_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7211284098048591283
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/pull-tabs-and-rubber-ducks.html

@@ -6,7 +6,7 @@ author: Emily
 tags:
 - movies
 - judy moody
-modified_time: '2011-05-25T21:47:56.582-04:00'
+modified_date: '2011-05-25T21:47:56.582-04:00'
 thumbnail: http://3.bp.blogspot.com/-pzV58TPc2Ao/Td1JwqMo6LI/AAAAAAAAAP0/CdESCjGgKdI/s72-c/images.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1678394388273049620
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/moody-vs-boredom.html

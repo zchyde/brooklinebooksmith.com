@@ -7,7 +7,7 @@ tags:
 - alex is reading
 - YA
 - kids books
-modified_time: '2015-03-23T08:30:00.539-04:00'
+modified_date: '2015-03-23T08:30:00.539-04:00'
 thumbnail: http://2.bp.blogspot.com/-bZU1mNjabD0/VQ3BeVsKEJI/AAAAAAAAAGM/_p_I5dERGgk/s72-c/CabinetofCuriosities_finalcover_hi-res.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7278041841436550483
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingthe-cabinet-of.html

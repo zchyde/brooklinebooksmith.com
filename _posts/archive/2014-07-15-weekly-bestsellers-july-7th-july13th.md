@@ -9,7 +9,7 @@ tags:
 - elizabeth gilbert
 - tommentary
 - the care and management of lies
-modified_time: '2014-07-21T09:50:46.070-04:00'
+modified_date: '2014-07-21T09:50:46.070-04:00'
 thumbnail: http://4.bp.blogspot.com/--t96OT4-Tvs/U8V65G0wQkI/AAAAAAAAQ70/CR8Y9ah3KO8/s72-c/care+and+management.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-486072614906115642
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/weekly-bestsellers-july-7th-july13th.html

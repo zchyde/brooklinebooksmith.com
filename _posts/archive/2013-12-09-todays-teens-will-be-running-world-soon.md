@@ -7,7 +7,7 @@ tags:
 - smart shoppers
 - Events
 - young adult
-modified_time: '2013-12-09T09:00:12.717-05:00'
+modified_date: '2013-12-09T09:00:12.717-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4681076123845790846
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/12/todays-teens-will-be-running-world-soon.html
 ---

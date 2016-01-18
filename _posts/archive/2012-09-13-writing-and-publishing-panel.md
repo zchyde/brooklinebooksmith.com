@@ -4,7 +4,7 @@ title: Writing and Publishing Panel
 date: '2012-09-13T16:45:00.000-04:00'
 author: Shuchi
 tags: 
-modified_time: '2012-09-13T17:05:21.381-04:00'
+modified_date: '2012-09-13T17:05:21.381-04:00'
 thumbnail: http://2.bp.blogspot.com/-6ljiNtR7KN8/UFJKfe3RQfI/AAAAAAAAN0U/FRs_0til5eg/s72-c/writing+books.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5179858841181143450
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/writing-and-publishing-panel.html

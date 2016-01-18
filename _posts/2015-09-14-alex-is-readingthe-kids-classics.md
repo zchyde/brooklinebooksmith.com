@@ -5,7 +5,7 @@ date: '2015-09-14T10:00:00.000-04:00'
 author: Alex S
 tags:
 - alex is reading
-modified_time: '2015-09-14T10:05:34.284-04:00'
+modified_date: '2015-09-14T10:05:34.284-04:00'
 thumbnail: http://2.bp.blogspot.com/-i83j2_aCx6o/VfRkuxzxovI/AAAAAAAAAKI/7LM8ECJAmZE/s72-c/IMG_1101.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-384896843425808903
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/09/alex-is-readingthe-kids-classics.html

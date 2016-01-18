@@ -14,7 +14,7 @@ tags:
 - gabriela clove and cinnamon
 - virginia woolf
 - jorge amado
-modified_time: '2013-03-29T12:17:00.499-04:00'
+modified_date: '2013-03-29T12:17:00.499-04:00'
 thumbnail: http://3.bp.blogspot.com/-Sd7wqFtS7RE/UVRr5tuxEBI/AAAAAAAABN4/UKI9m-YxhVU/s72-c/gabriela.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3301011774132442911
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/bookshelves-of-characters.html

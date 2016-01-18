@@ -5,7 +5,7 @@ date: '2009-01-28T19:25:00.003-05:00'
 author: Lori
 tags:
 - Staff Picks
-modified_time: '2009-01-28T19:35:23.108-05:00'
+modified_date: '2009-01-28T19:35:23.108-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-946356711926238509
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/01/staff-picks-dava.html
 ---

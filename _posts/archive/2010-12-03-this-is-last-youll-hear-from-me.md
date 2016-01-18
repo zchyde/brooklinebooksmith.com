@@ -6,7 +6,7 @@ author: Paul Theriault
 tags:
 - paul murray
 - skippy dies
-modified_time: '2010-12-03T23:11:26.066-05:00'
+modified_date: '2010-12-03T23:11:26.066-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4275456897514062042
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/this-is-last-youll-hear-from-me.html
 ---

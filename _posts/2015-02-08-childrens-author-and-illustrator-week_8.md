@@ -4,7 +4,7 @@ title: 'Children''s Author and Illustrator Week: Imagination'
 date: '2015-02-08T09:00:00.000-05:00'
 author: Kylie Brien
 tags:
-modified_time: '2015-02-08T13:55:26.141-05:00'
+modified_date: '2015-02-08T13:55:26.141-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5215572825728819573
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_8.html
 ---

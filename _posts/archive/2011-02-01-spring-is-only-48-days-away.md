@@ -8,7 +8,7 @@ tags:
 - erik larson
 - spring
 - my birthday
-modified_time: '2011-02-01T14:56:53.100-05:00'
+modified_date: '2011-02-01T14:56:53.100-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2319723824754685870
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/spring-is-only-48-days-away.html
 ---

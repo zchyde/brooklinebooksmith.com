@@ -4,7 +4,7 @@ title: Why is this night different?
 date: '2011-03-20T18:46:00.000-04:00'
 author: Shoshana
 tags: 
-modified_time: '2011-03-20T18:46:10.954-04:00'
+modified_date: '2011-03-20T18:46:10.954-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1212618524147308387
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/why-is-this-night-different.html
 ---

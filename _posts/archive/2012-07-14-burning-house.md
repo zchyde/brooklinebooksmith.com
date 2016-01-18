@@ -8,7 +8,7 @@ tags:
 - sentimental value
 - items
 - what you would rescue from a fire
-modified_time: '2012-07-14T11:52:03.249-04:00'
+modified_date: '2012-07-14T11:52:03.249-04:00'
 thumbnail: http://2.bp.blogspot.com/-J0tqbNRFbHw/T8vMlwshIPI/AAAAAAAA1mM/2wXoIgTsUgc/s72-c/Miguel%2520Barbot.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6264299283558981087
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/burning-house.html

@@ -7,7 +7,7 @@ tags:
 - Not Fiction
 - Coming Soon
 - Fiction
-modified_time: '2007-11-15T14:29:38.220-05:00'
+modified_date: '2007-11-15T14:29:38.220-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1283206287196902664
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/11/this-one-goes-out-to.html
 ---

@@ -12,7 +12,7 @@ tags:
 - Destination of the Month
 - Tokyo
 - take your shoes off before reading this post
-modified_time: '2013-04-16T09:00:16.045-04:00'
+modified_date: '2013-04-16T09:00:16.045-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8519447009321088530
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/samurai-or-destination-of-month-japan.html
 ---

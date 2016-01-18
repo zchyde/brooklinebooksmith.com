@@ -9,7 +9,7 @@ tags:
 - holidays
 - Bookselling Life
 - hanukkah
-modified_time: '2012-12-14T11:43:45.508-05:00'
+modified_date: '2012-12-14T11:43:45.508-05:00'
 thumbnail: http://1.bp.blogspot.com/-SRAr4ovfbaM/UMtWdkG85GI/AAAAAAAABDE/X07mw-tqaSE/s72-c/animals,humour,balloons,cat,,,funny-8046f240c682ef1101ff0a663ded3b90_h_large.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2486463172350475298
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/holicraze.html

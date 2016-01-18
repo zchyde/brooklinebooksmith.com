@@ -4,7 +4,7 @@ title: 'Destination: Booksmith'
 date: '2012-01-10T13:38:00.001-05:00'
 author: Jodie
 tags: 
-modified_time: '2012-01-10T13:38:32.833-05:00'
+modified_date: '2012-01-10T13:38:32.833-05:00'
 thumbnail: http://4.bp.blogspot.com/-MZAplBgqK-c/TwyFSVtfqqI/AAAAAAAAASM/Bx7utbnmD74/s72-c/g18318300000000000078ebe9905974e7a82305250bf824e19ead7bec5e.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7845152693520233580
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/destination-booksmith.html

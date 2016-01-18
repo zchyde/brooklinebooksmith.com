@@ -5,7 +5,7 @@ date: '2009-03-26T15:34:00.006-04:00'
 author: Lori
 tags:
 - Funny
-modified_time: '2009-03-26T15:46:40.389-04:00'
+modified_date: '2009-03-26T15:46:40.389-04:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/ScvZFSnTJbI/AAAAAAAAAMc/lL4AX9haeuc/s72-c/zombies.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6561126708853076747
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/03/pride-and-prejudice-and-zombies-and.html

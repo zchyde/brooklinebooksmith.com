@@ -4,7 +4,7 @@ title: Memories of Summer in NYC
 date: '2010-06-18T00:04:00.003-04:00'
 author: Evan
 tags: 
-modified_time: '2010-06-18T01:11:25.851-04:00'
+modified_date: '2010-06-18T01:11:25.851-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7318798192833530060
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/memories-of-summer-in-nyc.html
 ---

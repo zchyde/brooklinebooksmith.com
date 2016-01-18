@@ -12,7 +12,7 @@ tags:
 - conservative
 - compassion
 - america
-modified_time: '2012-09-07T11:29:16.889-04:00'
+modified_date: '2012-09-07T11:29:16.889-04:00'
 thumbnail: http://1.bp.blogspot.com/-xF1ALVU2TzE/UEoP40RT8xI/AAAAAAAAAzY/Xd1wqGhf4Rw/s72-c/goldwater.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3904216660189079821
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/its-all-politics.html

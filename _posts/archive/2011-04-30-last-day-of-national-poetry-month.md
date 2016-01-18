@@ -4,7 +4,7 @@ title: Last day of National Poetry Month !!!!! FLASH CONTEST!!!!!!!
 date: '2011-04-30T13:22:00.011-04:00'
 author: Kate Robinson
 tags: 
-modified_time: '2011-04-30T15:05:57.108-04:00'
+modified_date: '2011-04-30T15:05:57.108-04:00'
 thumbnail: http://2.bp.blogspot.com/-5Xw1fru8FvA/TbxMBDMHoUI/AAAAAAAAAQo/WYTw4U8oc6A/s72-c/Emily%252520Dickinson.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2377919748523805127
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/last-day-of-national-poetry-month.html

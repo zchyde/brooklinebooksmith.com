@@ -4,7 +4,7 @@ title: It's history for some, heritage for others
 date: '2012-02-01T20:18:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2012-02-01T20:18:30.188-05:00'
+modified_date: '2012-02-01T20:18:30.188-05:00'
 thumbnail: http://4.bp.blogspot.com/-HgCwbfL-94w/TyniIEygyMI/AAAAAAAAAS4/3dJtNeD2-us/s72-c/9781599907833.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5011237416899099518
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/its-history-for-some-heritage-for.html

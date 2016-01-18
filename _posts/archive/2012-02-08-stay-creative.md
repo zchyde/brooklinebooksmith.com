@@ -4,7 +4,7 @@ title: Stay Creative
 date: '2012-02-08T19:54:00.000-05:00'
 author: Emily
 tags: 
-modified_time: '2012-02-08T19:54:12.558-05:00'
+modified_date: '2012-02-08T19:54:12.558-05:00'
 thumbnail: http://1.bp.blogspot.com/-rNkQD6VYvvM/TzMXwciwMuI/AAAAAAAAATo/e-6ZtqzG31c/s72-c/Flower+Press+Nature+Cards.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5218464354751636014
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/stay-creative.html

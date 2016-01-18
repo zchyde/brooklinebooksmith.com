@@ -13,7 +13,7 @@ tags:
 - illustrious personages
 - football
 - san francisco
-modified_time: '2013-02-03T16:36:01.571-05:00'
+modified_date: '2013-02-03T16:36:01.571-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5976385081790566994
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/superbowl-sunday-literary-showdown.html
 ---

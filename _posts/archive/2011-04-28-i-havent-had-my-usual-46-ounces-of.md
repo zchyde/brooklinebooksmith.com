@@ -4,7 +4,7 @@ title: No but really. WILL WILL AND CATH MAKE IT!? INQUIRING MINDS WANT TO KNOW!
 date: '2011-04-28T16:25:00.008-04:00'
 author: Zoe Hyde
 tags:
-modified_time: '2011-04-29T00:30:37.793-04:00'
+modified_date: '2011-04-29T00:30:37.793-04:00'
 thumbnail: http://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s72-c/the-god-of-small-things.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5055408386278990831
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/i-havent-had-my-usual-46-ounces-of.html

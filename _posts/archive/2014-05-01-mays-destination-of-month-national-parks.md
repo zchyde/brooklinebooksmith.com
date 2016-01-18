@@ -11,7 +11,7 @@ tags:
 - may
 - summer
 - road trips
-modified_time: '2014-05-01T11:00:07.456-04:00'
+modified_date: '2014-05-01T11:00:07.456-04:00'
 thumbnail: http://1.bp.blogspot.com/-Qv9qBT4DYgc/U1bhX9oelQI/AAAAAAAABgg/xZNfnFYBSLc/s72-c/SierraClub_NPmap.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3827421532933204040
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/mays-destination-of-month-national-parks.html

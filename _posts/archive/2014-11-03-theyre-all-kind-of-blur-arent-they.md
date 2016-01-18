@@ -6,7 +6,7 @@ author: Amy
 tags:
 - holidays
 - Stick Figure Amy
-modified_time: '2014-11-03T10:02:00.338-05:00'
+modified_date: '2014-11-03T10:02:00.338-05:00'
 thumbnail: http://1.bp.blogspot.com/-xdPQQdpK5EU/VFeYoLIllwI/AAAAAAAAAs8/kJ6F7MTqY_g/s72-c/Halloween.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5650522094205982655
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/theyre-all-kind-of-blur-arent-they.html

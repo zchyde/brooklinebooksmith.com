@@ -4,7 +4,7 @@ title: kids/books
 date: '2010-05-21T13:42:00.003-04:00'
 author: Paul Theriault
 tags: 
-modified_time: '2010-05-21T14:31:13.949-04:00'
+modified_date: '2010-05-21T14:31:13.949-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1941805154182593772
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/kidsbooks.html
 ---

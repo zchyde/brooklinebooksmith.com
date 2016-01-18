@@ -11,7 +11,7 @@ tags:
 - mei mei street kitchen
 - snacks
 - paperback booksmith
-modified_time: '2014-03-26T17:30:35.876-04:00'
+modified_date: '2014-03-26T17:30:35.876-04:00'
 thumbnail: http://4.bp.blogspot.com/-BVq68upwMco/UzMfRYlHQEI/AAAAAAAACpY/q-eZTlx1AUk/s72-c/birthday.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5891362678953126372
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/03/vignettes.html

@@ -11,7 +11,7 @@ tags:
 - little sisters
 - not Constantinople
 - Istanbul
-modified_time: '2013-06-25T09:00:04.006-04:00'
+modified_date: '2013-06-25T09:00:04.006-04:00'
 thumbnail: http://3.bp.blogspot.com/-Xa99u_PzI38/UceJscII2PI/AAAAAAAAAqE/8PrwOAmwwBM/s72-c/SIFK_225_330_80.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7114236252522316001
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/how-to-choose-travel-guide-for-your.html

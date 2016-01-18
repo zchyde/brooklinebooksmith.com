@@ -5,7 +5,7 @@ date: '2007-08-03T14:15:00.000-04:00'
 author: Lori
 tags:
 - Kid Stuff
-modified_time: '2008-12-08T23:04:00.099-05:00'
+modified_date: '2008-12-08T23:04:00.099-05:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/RrN0UZ1WNGI/AAAAAAAAADE/gC2obLq3KfQ/s72-c/hive.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6661604633024187151
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/08/post-potter-pick-2.html

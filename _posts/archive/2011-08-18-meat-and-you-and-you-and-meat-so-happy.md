@@ -4,7 +4,7 @@ title: Meat and You, and You and Meat, So Happy Together?
 date: '2011-08-18T19:59:00.007-04:00'
 author: Zoe Hyde
 tags:
-modified_time: '2011-08-18T20:44:14.940-04:00'
+modified_date: '2011-08-18T20:44:14.940-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1112942822459183089
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/meat-and-you-and-you-and-meat-so-happy.html
 ---

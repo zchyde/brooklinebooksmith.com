@@ -4,7 +4,7 @@ title: Have book, will travel
 date: '2010-08-17T14:52:00.008-04:00'
 author: Liz T.
 tags: 
-modified_time: '2010-08-17T18:12:35.367-04:00'
+modified_date: '2010-08-17T18:12:35.367-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8433586222360191254
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/have-book-will-travel.html
 ---

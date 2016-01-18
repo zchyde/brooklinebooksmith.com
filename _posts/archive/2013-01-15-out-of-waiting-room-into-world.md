@@ -14,7 +14,7 @@ tags:
 - perfume samples
 - Local magazine
 - The Common
-modified_time: '2013-01-15T09:00:10.631-05:00'
+modified_date: '2013-01-15T09:00:10.631-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5672571332698623434
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/out-of-waiting-room-into-world.html
 ---

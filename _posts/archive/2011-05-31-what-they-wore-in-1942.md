@@ -8,7 +8,7 @@ tags:
 - fashion
 - smocks
 - WWII
-modified_time: '2011-05-31T17:22:33.356-04:00'
+modified_date: '2011-05-31T17:22:33.356-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-207802229201694364
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/what-they-wore-in-1942.html
 ---

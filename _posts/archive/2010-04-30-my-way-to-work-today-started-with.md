@@ -4,7 +4,7 @@ title:
 date: '2010-04-30T05:06:00.000-04:00'
 author: Paul Theriault
 tags: 
-modified_time: '2010-04-30T17:06:45.051-04:00'
+modified_date: '2010-04-30T17:06:45.051-04:00'
 thumbnail: http://1.bp.blogspot.com/__XLYr0GLRDQ/S9tF4OHrkWI/AAAAAAAAAEc/dU55hEmCVio/s72-c/libdandelion.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3671547676363802229
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/my-way-to-work-today-started-with.html

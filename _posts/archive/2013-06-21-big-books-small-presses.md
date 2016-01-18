@@ -9,7 +9,7 @@ tags:
 - used books
 - Small Presses
 - Poetry
-modified_time: '2013-06-21T09:47:24.902-04:00'
+modified_date: '2013-06-21T09:47:24.902-04:00'
 thumbnail: http://4.bp.blogspot.com/-4dNqM81hCDU/UcRYCIFyMFI/AAAAAAAABTQ/ND8oEXX2RQA/s72-c/madnessrack_1024x1024.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8808324188037118700
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/big-books-small-presses.html

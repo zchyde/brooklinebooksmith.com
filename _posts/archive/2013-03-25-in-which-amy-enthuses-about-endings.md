@@ -8,7 +8,7 @@ tags:
 - all the feels
 - Amy fills in awesomely while Shoshana eats matzah
 - young adult
-modified_time: '2013-03-25T09:00:13.333-04:00'
+modified_date: '2013-03-25T09:00:13.333-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7253954203873559490
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/in-which-amy-enthuses-about-endings.html
 ---

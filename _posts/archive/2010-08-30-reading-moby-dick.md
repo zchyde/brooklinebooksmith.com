@@ -4,7 +4,7 @@ title: Reading Moby Dick
 date: '2010-08-30T21:39:00.010-04:00'
 author: Liz T.
 tags: 
-modified_time: '2010-08-31T11:53:29.835-04:00'
+modified_date: '2010-08-31T11:53:29.835-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6616353875838350928
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/reading-moby-dick.html
 ---

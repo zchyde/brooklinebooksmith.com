@@ -12,7 +12,7 @@ tags:
 - Literary Travel
 - Myanmar
 - George Orwell
-modified_time: '2011-09-27T20:49:56.332-04:00'
+modified_date: '2011-09-27T20:49:56.332-04:00'
 thumbnail: http://2.bp.blogspot.com/-mSM1ASyjorM/ToJpgw4SPPI/AAAAAAAAAC8/1WGSBEpqjSg/s72-c/animalfarm.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5556945007394828151
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/destination-myanmar.html

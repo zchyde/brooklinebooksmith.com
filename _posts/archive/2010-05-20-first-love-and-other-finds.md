@@ -4,7 +4,7 @@ title: First Love and Other Finds.
 date: '2010-05-20T19:18:00.003-04:00'
 author: Evan
 tags: 
-modified_time: '2010-05-20T20:06:54.592-04:00'
+modified_date: '2010-05-20T20:06:54.592-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5823359986936413097
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/first-love-and-other-finds.html
 ---

@@ -8,7 +8,7 @@ tags:
 - Bookselling Life
 - Events
 - Fiction
-modified_time: '2008-04-01T18:20:08.072-04:00'
+modified_date: '2008-04-01T18:20:08.072-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2437820832437765670
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/04/brookline-booksmith-in-news.html
 ---

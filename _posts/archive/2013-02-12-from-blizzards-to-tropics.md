@@ -12,7 +12,7 @@ tags:
 - small places
 - Junot Diaz
 - Pirates
-modified_time: '2013-02-12T09:00:02.384-05:00'
+modified_date: '2013-02-12T09:00:02.384-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8461314379333530607
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/from-blizzards-to-tropics.html
 ---

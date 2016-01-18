@@ -8,7 +8,7 @@ tags:
 - weddings
 - DIY
 - marriage
-modified_time: '2011-08-06T16:21:07.992-04:00'
+modified_date: '2011-08-06T16:21:07.992-04:00'
 thumbnail: http://3.bp.blogspot.com/-PnMCd776IxM/Tj2cduEJF0I/AAAAAAAAATs/5CEG30sqWKQ/s72-c/1312571078247.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-142912248171073744
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/another-book-binding.html

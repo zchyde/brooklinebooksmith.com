@@ -11,7 +11,7 @@ tags:
 - Barcelona
 - ghosts
 - sistahs
-modified_time: '2013-05-14T09:00:00.649-04:00'
+modified_date: '2013-05-14T09:00:00.649-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3420968199614481796
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/vicarious-journeys-next-best-thing.html
 ---

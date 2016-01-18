@@ -10,7 +10,7 @@ tags:
 - used books
 - books
 - bruins
-modified_time: '2013-06-14T13:33:26.198-04:00'
+modified_date: '2013-06-14T13:33:26.198-04:00'
 thumbnail: http://4.bp.blogspot.com/-NlvhB5-ZPqw/UbDfNy0G2gI/AAAAAAAABSc/PIGOvEaqT68/s72-c/gnome_me.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5733071666609992392
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/bruins-booksmith.html

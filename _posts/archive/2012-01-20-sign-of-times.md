@@ -5,7 +5,7 @@ date: '2012-01-20T12:30:00.000-05:00'
 author: Natasha
 tags:
 - used books
-modified_time: '2012-01-20T12:30:02.273-05:00'
+modified_date: '2012-01-20T12:30:02.273-05:00'
 thumbnail: http://3.bp.blogspot.com/-TJ9Aos1W2Z0/TxMH9uA2III/AAAAAAAAASI/HSTOX7flxxU/s72-c/signing.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2264292166596707890
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/sign-of-times.html

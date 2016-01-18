@@ -4,7 +4,7 @@ title: Kate's Holiday helpful tip o' the week!
 date: '2010-11-20T15:58:00.006-05:00'
 author: Kate Robinson
 tags: 
-modified_time: '2010-11-20T16:26:24.025-05:00'
+modified_date: '2010-11-20T16:26:24.025-05:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TOg6xcRhM8I/AAAAAAAAAKo/ZzjTwRWO7uY/s72-c/stephanie.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5407661653452851368
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/kates-holiday-helpful-tip-o-week.html

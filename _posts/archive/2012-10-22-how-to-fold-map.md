@@ -8,7 +8,7 @@ tags:
 - folded maps
 - globecorner.com
 - Globe Corner Travel Annex
-modified_time: '2012-10-22T19:42:54.935-04:00'
+modified_date: '2012-10-22T19:42:54.935-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8267013479688633456
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/how-to-fold-map.html
 ---

@@ -4,7 +4,7 @@ title: The battle is on!
 date: '2012-02-05T09:21:00.001-05:00'
 author: Shoshana
 tags: 
-modified_time: '2012-02-05T09:21:30.155-05:00'
+modified_date: '2012-02-05T09:21:30.155-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1670190204705022736
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/battle-is-on.html
 ---

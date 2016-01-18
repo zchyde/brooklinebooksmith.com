@@ -4,7 +4,7 @@ title: So was the Turnpike from Stockbridge to Boston
 date: '2010-02-28T16:07:00.003-05:00'
 author: dana brigham
 tags: 
-modified_time: '2010-02-28T16:36:49.328-05:00'
+modified_date: '2010-02-28T16:36:49.328-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2908501638887653921
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/so-was-turnpike-from-stockbridge-to.html
 ---

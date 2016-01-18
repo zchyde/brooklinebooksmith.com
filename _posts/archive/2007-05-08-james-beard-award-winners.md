@@ -5,7 +5,7 @@ date: '2007-05-08T15:41:00.000-04:00'
 author: Lori
 tags:
 - What's Cooking
-modified_time: '2007-05-08T16:48:50.201-04:00'
+modified_date: '2007-05-08T16:48:50.201-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1350584912572905179
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/james-beard-award-winners.html
 ---

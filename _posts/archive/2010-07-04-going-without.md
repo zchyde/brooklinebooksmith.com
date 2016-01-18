@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - disconnect
 - Poetry
-modified_time: '2010-07-04T13:00:28.248-04:00'
+modified_date: '2010-07-04T13:00:28.248-04:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TDCx-JPDKMI/AAAAAAAAAFI/BQ6gKDeiapU/s72-c/AmishSpeedWagon.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8238786759341137798
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/going-without.html

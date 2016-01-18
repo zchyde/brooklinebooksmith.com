@@ -9,7 +9,7 @@ tags:
 - surprising awesomeness
 - illustration
 - Mo Willems
-modified_time: '2013-02-23T10:41:39.904-05:00'
+modified_date: '2013-02-23T10:41:39.904-05:00'
 thumbnail: http://1.bp.blogspot.com/-M9HP_nj_wg0/USJcMke54MI/AAAAAAAAAbo/-39AyT4yb6g/s72-c/spring.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4054549117239886231
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/surprise-picture-book-with-ninjas-and.html

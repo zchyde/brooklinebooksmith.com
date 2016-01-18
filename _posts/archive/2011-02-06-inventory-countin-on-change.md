@@ -4,7 +4,7 @@ title: Inventory, countin' on change....
 date: '2011-02-06T13:06:00.006-05:00'
 author: Kate Robinson
 tags: 
-modified_time: '2011-02-06T13:50:12.440-05:00'
+modified_date: '2011-02-06T13:50:12.440-05:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TU7kjJ8Zr0I/AAAAAAAAAM4/_seatEuRCRg/s72-c/a-counting-sheep2.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4554813768914583271
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/inventory-countin-on-change.html

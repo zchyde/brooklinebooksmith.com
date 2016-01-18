@@ -4,7 +4,7 @@ title: Time to Plan Your Summer Destination
 date: '2012-03-27T16:10:00.000-04:00'
 author: Jodie
 tags: 
-modified_time: '2012-03-27T16:10:00.521-04:00'
+modified_date: '2012-03-27T16:10:00.521-04:00'
 thumbnail: http://1.bp.blogspot.com/-ow8-smc1Ya8/T3DZK806rlI/AAAAAAAAAZk/oYP9JEZbA9U/s72-c/cg+041.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4414059768281619602
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/time-to-plan-your-summer-destination.html

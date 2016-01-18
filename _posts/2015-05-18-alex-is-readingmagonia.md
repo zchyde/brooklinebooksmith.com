@@ -18,7 +18,7 @@ tags:
 - gabrielle zevin
 - gemma doyle
 - stardust
-modified_time: '2015-05-18T10:00:05.093-04:00'
+modified_date: '2015-05-18T10:00:05.093-04:00'
 thumbnail: http://1.bp.blogspot.com/-ZQRYESZX-iw/VVjbFYbkfTI/AAAAAAAAAHk/hrhLXaCFo_U/s72-c/magoniacover.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7997845483886524306
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/05/alex-is-readingmagonia.html

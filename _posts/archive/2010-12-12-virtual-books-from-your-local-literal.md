@@ -13,7 +13,7 @@ tags:
 - independent
 - ownership
 - e-book
-modified_time: '2010-12-12T14:55:53.659-05:00'
+modified_date: '2010-12-12T14:55:53.659-05:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TQUhh2ng0cI/AAAAAAAAALw/FELOcSpXy68/s72-c/the%2Bfuture.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6253558252112289771
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/virtual-books-from-your-local-literal.html

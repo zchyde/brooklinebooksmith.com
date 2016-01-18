@@ -7,7 +7,7 @@ tags:
 - flash poetry contest
 - Free is awesome
 - Poetry
-modified_time: '2012-02-04T15:30:13.328-05:00'
+modified_date: '2012-02-04T15:30:13.328-05:00'
 thumbnail: http://4.bp.blogspot.com/-QTXTiZCOKZY/Ty2QiYQfgII/AAAAAAAAAWk/AY0nkhgR08Y/s72-c/reeee.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2759195640655894551
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/pre-super-bowl-flash-contest-poetry.html

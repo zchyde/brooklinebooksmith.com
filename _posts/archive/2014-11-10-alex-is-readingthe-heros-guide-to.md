@@ -12,7 +12,7 @@ tags:
 - fairy tales
 - kids
 - kids books
-modified_time: '2014-11-10T17:03:19.675-05:00'
+modified_date: '2014-11-10T17:03:19.675-05:00'
 thumbnail: http://1.bp.blogspot.com/-eouX1vzWxaE/VGDYBFoRz2I/AAAAAAAAAA8/uNS6TJZNfRE/s72-c/Ref%3Ddp_image_0.jpeg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4842075643762826101
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/alex-is-readingthe-heros-guide-to.html

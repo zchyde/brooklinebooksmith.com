@@ -8,7 +8,7 @@ tags:
 - YA
 - children's books
 - Bucket List
-modified_time: '2014-05-26T09:00:05.902-04:00'
+modified_date: '2014-05-26T09:00:05.902-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1344935399633288444
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/summers-are-for-bucket-lists.html
 ---

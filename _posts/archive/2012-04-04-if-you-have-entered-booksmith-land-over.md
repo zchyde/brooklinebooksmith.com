@@ -4,7 +4,7 @@ title: Blossoming
 date: '2012-04-04T20:38:00.001-04:00'
 author: Emily
 tags: 
-modified_time: '2012-04-04T20:39:22.074-04:00'
+modified_date: '2012-04-04T20:39:22.074-04:00'
 thumbnail: http://1.bp.blogspot.com/-1PsWUNBWPnQ/T3ycOwSr7BI/AAAAAAAAAVw/kP7P7cUw2iE/s72-c/12823369.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8889174108444072200
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/if-you-have-entered-booksmith-land-over.html

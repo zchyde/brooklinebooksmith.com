@@ -9,7 +9,7 @@ tags:
 - Collecting
 - ohio
 - other stuff
-modified_time: '2010-06-21T13:57:48.119-04:00'
+modified_date: '2010-06-21T13:57:48.119-04:00'
 thumbnail: http://4.bp.blogspot.com/_lonf0gt6RtI/TB-k0YHx3II/AAAAAAAAAwk/6Ex2vq-V30s/s72-c/comic-book-window-L%5B1%5D.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3512817221065385067
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/thrill-of-hunt.html

@@ -4,7 +4,7 @@ title: On Being Young and Writing
 date: '2010-08-06T03:25:00.002-04:00'
 author: Evan
 tags: 
-modified_time: '2010-08-06T04:30:09.594-04:00'
+modified_date: '2010-08-06T04:30:09.594-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8019785427831534968
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/on-being-young-and-writing.html
 ---

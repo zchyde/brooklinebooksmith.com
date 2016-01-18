@@ -10,7 +10,7 @@ tags:
 - travel
 - travel literature
 - there are eight bazillion people in the world and we don't all like the same thing
-modified_time: '2011-07-18T17:22:29.829-04:00'
+modified_date: '2011-07-18T17:22:29.829-04:00'
 thumbnail: http://4.bp.blogspot.com/-52kdwhxtIzI/TiSjxx9SaFI/AAAAAAAAABU/XhjBZvE0-IE/s72-c/FarruggiaYouareHere.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7250529233331117696
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/one-of-our-booksellers-jes-is-reading.html
