@@ -1,7 +1,7 @@
 ---
 title: Finding Winnie
-isbn: null
-binding: null
-image_path: null
+isbn: '9780316324908'
+binding: Hardcover
+image_path: ''
 ---
 
