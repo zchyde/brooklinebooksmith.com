@@ -8,7 +8,7 @@ tags:
 - travel
 - Globe Corner Bookstore
 - Seattle
-modified_date: '2012-05-27T16:58:57.623-04:00'
+modified_datetime: '2012-05-27T16:58:57.623-04:00'
 thumbnail: http://2.bp.blogspot.com/-MLy7ogS23oQ/T8JmAy6wXaI/AAAAAAAAAeI/Qe2OnpuU1mk/s72-c/36hrs.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1119605957633987059
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/36-hours-in-seattle.html

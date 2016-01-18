@@ -7,7 +7,7 @@ tags:
 - way too much fun
 - children's books
 - Waldo
-modified_date: '2013-08-05T09:00:02.801-04:00'
+modified_datetime: '2013-08-05T09:00:02.801-04:00'
 thumbnail: http://4.bp.blogspot.com/-tsEP1BWoLF4/Uf2o_n-D5FI/AAAAAAAAAKo/mDvGpMbn-3M/s72-c/waldo+elephant+piggie.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9056217433230002701
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/a-tale-of-24-waldos.html

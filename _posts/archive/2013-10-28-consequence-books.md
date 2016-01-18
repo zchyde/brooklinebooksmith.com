@@ -8,7 +8,7 @@ tags:
 - Consequence Books
 - Go Big or Go Home
 - Divergent
-modified_date: '2013-10-28T09:00:12.673-04:00'
+modified_datetime: '2013-10-28T09:00:12.673-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2871116217958726086
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/10/consequence-books.html
 ---

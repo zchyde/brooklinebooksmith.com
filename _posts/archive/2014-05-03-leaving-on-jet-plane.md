@@ -4,7 +4,7 @@ title: Leaving On a Jet Plane
 date: '2014-05-03T15:00:00.000-04:00'
 author: Kat
 tags:
-modified_date: '2014-05-03T15:00:01.708-04:00'
+modified_datetime: '2014-05-03T15:00:01.708-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8375820992578777260
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/leaving-on-jet-plane.html
 ---

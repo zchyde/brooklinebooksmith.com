@@ -4,7 +4,7 @@ title: Before you buy another pink anything....
 date: '2010-11-27T16:15:00.010-05:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-11-27T16:55:57.531-05:00'
+modified_datetime: '2010-11-27T16:55:57.531-05:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TPF3AOZn5rI/AAAAAAAAAKw/yzpUE7mEAxo/s72-c/cinderella.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6824940751169422322
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/before-you-buy-another-pink-anything.html

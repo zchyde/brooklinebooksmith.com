@@ -4,7 +4,7 @@ title: Lynda Barry love, animals getting drunk, did I mention I'm an art school 
 date: '2011-11-17T20:13:00.001-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-11-17T20:14:28.631-05:00'
+modified_datetime: '2011-11-17T20:14:28.631-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8182296013349503489
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/lynda-barry-love-animals-getting-drunk.html
 ---

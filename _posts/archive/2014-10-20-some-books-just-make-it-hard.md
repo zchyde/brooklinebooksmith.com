@@ -7,7 +7,7 @@ tags:
 - Noggin
 - John Corey Whaley
 - Stick Figure Amy
-modified_date: '2014-10-20T17:44:30.103-04:00'
+modified_datetime: '2014-10-20T17:44:30.103-04:00'
 thumbnail: http://4.bp.blogspot.com/-LSMYRPEW3Vo/VER2F2quuXI/AAAAAAAAAss/tjcn2qe7t8A/s72-c/Noggin.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7535348340413050092
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/10/some-books-just-make-it-hard.html

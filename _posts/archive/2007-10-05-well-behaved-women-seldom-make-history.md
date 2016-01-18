@@ -5,7 +5,7 @@ date: '2007-10-05T17:13:00.000-04:00'
 author: Lori
 tags:
 - Not Fiction
-modified_date: '2007-10-08T18:35:38.865-04:00'
+modified_datetime: '2007-10-08T18:35:38.865-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7241466232190930693
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/well-behaved-women-seldom-make-history.html
 ---

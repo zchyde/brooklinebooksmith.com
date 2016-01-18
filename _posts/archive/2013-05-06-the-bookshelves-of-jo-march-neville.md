@@ -15,7 +15,7 @@ tags:
 - Chronicles of Narnia
 - Neville Longbottom
 - Fern Arable
-modified_date: '2013-05-06T09:00:17.757-04:00'
+modified_datetime: '2013-05-06T09:00:17.757-04:00'
 thumbnail: http://3.bp.blogspot.com/-VZU19ClIsHI/UYRD8VPkvLI/AAAAAAAAAcM/Tk9R79aSj9M/s72-c/Jo+March+1.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6754191483179495968
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/the-bookshelves-of-jo-march-neville.html

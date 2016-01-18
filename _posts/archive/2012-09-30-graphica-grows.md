@@ -4,7 +4,7 @@ title: Graphica grows!
 date: '2012-09-30T15:51:00.000-04:00'
 author: Shoshana
 tags: 
-modified_date: '2012-09-30T15:51:19.473-04:00'
+modified_datetime: '2012-09-30T15:51:19.473-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6206439503843401358
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/graphica-grows.html
 ---

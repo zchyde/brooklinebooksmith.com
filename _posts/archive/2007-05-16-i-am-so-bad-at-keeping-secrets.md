@@ -5,7 +5,7 @@ date: '2007-05-16T20:10:00.000-04:00'
 author: Lori
 tags:
 - Events
-modified_date: '2007-05-16T20:32:57.546-04:00'
+modified_datetime: '2007-05-16T20:32:57.546-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2406615195016368429
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/i-am-so-bad-at-keeping-secrets.html
 ---

@@ -8,7 +8,7 @@ tags:
 - used books
 - resistance
 - other stuff
-modified_date: '2010-11-07T14:41:41.063-05:00'
+modified_datetime: '2010-11-07T14:41:41.063-05:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/TNb5KSbGP6I/AAAAAAAAAJw/Qv0q9xlcGXY/s72-c/floss.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4407399579148893494
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/seasonal-self-carewont-you-join-me.html

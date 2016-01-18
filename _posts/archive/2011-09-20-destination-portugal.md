@@ -4,7 +4,7 @@ title: 'Destination: Portugal'
 date: '2011-09-20T19:02:00.013-04:00'
 author: Jodie
 tags: 
-modified_date: '2011-09-20T19:35:20.615-04:00'
+modified_datetime: '2011-09-20T19:35:20.615-04:00'
 thumbnail: http://2.bp.blogspot.com/-_w44NI3A7mA/Tnkfqn9oVMI/AAAAAAAAACU/pF8JR2QxTlw/s72-c/Portugal_map.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6654047985911142153
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/destination-portugal.html

@@ -4,7 +4,7 @@ title: To be closely followed by its sequel, "donkeys never lie about altruism"
 date: '2012-01-06T00:31:00.002-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2012-01-06T00:34:24.372-05:00'
+modified_datetime: '2012-01-06T00:34:24.372-05:00'
 thumbnail: http://2.bp.blogspot.com/-HqyxIjXGkeE/TwaDYbL4SvI/AAAAAAAAAFE/0cFhN88vJmk/s72-c/IMG_4335.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5275719363774111988
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/to-be-closely-followed-by-its-sequel.html

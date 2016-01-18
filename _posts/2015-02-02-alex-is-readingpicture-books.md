@@ -7,7 +7,7 @@ tags:
 - alex is reading
 - picture books
 - kids books
-modified_date: '2015-02-02T09:00:05.939-05:00'
+modified_datetime: '2015-02-02T09:00:05.939-05:00'
 thumbnail: http://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s72-c/IMG_0090(1).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6413143070357599742
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/alex-is-readingpicture-books.html

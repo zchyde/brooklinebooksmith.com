@@ -18,7 +18,7 @@ tags:
 - working on the weekends...magazines
 - Confessions
 - distractions
-modified_date: '2010-09-25T17:00:26.166-04:00'
+modified_datetime: '2010-09-25T17:00:26.166-04:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TJ5eNXftHSI/AAAAAAAAAIY/nsprVwV4iN8/s72-c/7467040-md.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3131004746956065310
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/im-still-at-register.html

@@ -9,7 +9,7 @@ tags:
 - Food Lovers
 - travel
 - food
-modified_date: '2013-10-11T13:37:34.101-04:00'
+modified_datetime: '2013-10-11T13:37:34.101-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8464231562353028327
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/10/around-world-in-80-bites.html
 ---

@@ -5,7 +5,7 @@ date: '2010-11-15T09:11:00.008-05:00'
 author: Kate Robinson
 tags:
 - corporations
-modified_date: '2010-11-15T14:36:02.153-05:00'
+modified_datetime: '2010-11-15T14:36:02.153-05:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TOGH1GUa-7I/AAAAAAAAAKQ/aIYdlOvbFZ4/s72-c/moose_mag_bc.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7792811415219292785
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/fitters-for-urban.html

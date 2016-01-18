@@ -6,7 +6,7 @@ author: Shuchi
 tags:
 - books we love
 - writing
-modified_date: '2012-07-27T08:49:13.595-04:00'
+modified_datetime: '2012-07-27T08:49:13.595-04:00'
 thumbnail: http://1.bp.blogspot.com/-b5-psbBe1NE/UBHVwuQ0mUI/AAAAAAAANws/8qoKU647930/s72-c/brief+wondrous+life.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4181668908669706503
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/writers-on-writers.html

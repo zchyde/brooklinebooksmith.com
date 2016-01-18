@@ -10,7 +10,7 @@ tags:
 - books
 - Poetry
 - book art
-modified_date: '2013-03-15T15:52:06.416-04:00'
+modified_datetime: '2013-03-15T15:52:06.416-04:00'
 thumbnail: http://1.bp.blogspot.com/-oViH3TnTMhQ/UTo5Fx0e4uI/AAAAAAAABLc/Og0Ub-uvvbY/s72-c/katchadourian3.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3857511877395061924
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/sordid-books.html

@@ -13,7 +13,7 @@ tags:
 - reality
 - Free is awesome
 - self-knowledge
-modified_date: '2010-12-18T13:14:02.439-05:00'
+modified_datetime: '2010-12-18T13:14:02.439-05:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TQznjdTbnqI/AAAAAAAAAL4/7So8VD0z-ag/s72-c/article-0-020D023100000578-940_468x286_popup.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-846901082270907129
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/kates-holiday-tip-3-it-feels-like-you.html

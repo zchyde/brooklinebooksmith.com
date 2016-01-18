@@ -11,7 +11,7 @@ tags:
 - independent
 - self-knowledge
 - inspiration
-modified_date: '2011-04-17T15:58:16.483-04:00'
+modified_datetime: '2011-04-17T15:58:16.483-04:00'
 thumbnail: http://1.bp.blogspot.com/-u9Rc-f6tyFE/Tas85t39i8I/AAAAAAAAAPg/YZ5RjE7SpBg/s72-c/1111111111111111.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6257097578465359325
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/elizabeth-berkley-still-making-smart.html

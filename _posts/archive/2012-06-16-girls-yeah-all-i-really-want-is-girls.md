@@ -13,7 +13,7 @@ tags:
 - Sloane Crosley
 - beach reads
 - GIRLS
-modified_date: '2012-06-16T08:00:02.248-04:00'
+modified_datetime: '2012-06-16T08:00:02.248-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-115138646805656782
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/girls-yeah-all-i-really-want-is-girls.html
 ---

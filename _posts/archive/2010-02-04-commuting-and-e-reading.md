@@ -4,7 +4,7 @@ title: Commuting, and E-reading
 date: '2010-02-04T16:26:00.002-05:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-02-04T16:47:34.703-05:00'
+modified_datetime: '2010-02-04T16:47:34.703-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8221064990947470145
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/commuting-and-e-reading.html
 ---

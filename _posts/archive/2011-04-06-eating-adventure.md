@@ -4,7 +4,7 @@ title: The Eating Adventure
 date: '2011-04-06T20:08:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-04-06T20:08:50.028-04:00'
+modified_datetime: '2011-04-06T20:08:50.028-04:00'
 thumbnail: http://2.bp.blogspot.com/-ASyBcaeUU2w/TZz-3PHNvkI/AAAAAAAAAPU/WYgU3jFinlk/s72-c/0763652830.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8576587369172590712
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/eating-adventure.html

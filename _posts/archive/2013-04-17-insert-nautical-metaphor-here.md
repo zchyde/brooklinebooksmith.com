@@ -11,7 +11,7 @@ tags:
 - ubc
 - fishing
 - john boyne
-modified_date: '2013-04-17T13:50:14.748-04:00'
+modified_datetime: '2013-04-17T13:50:14.748-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5582544353815146490
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/insert-nautical-metaphor-here.html
 ---

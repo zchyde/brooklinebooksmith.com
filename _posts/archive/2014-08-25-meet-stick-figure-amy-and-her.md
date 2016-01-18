@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Bookseller Woes
 - Meet Stick Figure Amy
-modified_date: '2015-02-22T13:21:23.475-05:00'
+modified_datetime: '2015-02-22T13:21:23.475-05:00'
 thumbnail: http://3.bp.blogspot.com/-djAvsG2TuXM/U_rRXOe99tI/AAAAAAAAApU/Qo5Lqo_iN54/s72-c/Bookseller%2BWoes.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1955787712627905753
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/08/meet-stick-figure-amy-and-her.html

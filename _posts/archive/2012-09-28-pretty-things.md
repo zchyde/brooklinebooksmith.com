@@ -8,7 +8,7 @@ tags:
 - pretty books
 - book covers
 - calligraphy
-modified_date: '2012-09-28T13:38:00.888-04:00'
+modified_datetime: '2012-09-28T13:38:00.888-04:00'
 thumbnail: http://1.bp.blogspot.com/-xintpHDVCc0/UGSOJSnBDyI/AAAAAAAAA2E/pw2AChh10tg/s72-c/spark.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8541730136912195292
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/pretty-things.html

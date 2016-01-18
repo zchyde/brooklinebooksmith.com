@@ -7,7 +7,7 @@ tags:
 - friends
 - writers
 - booksellers
-modified_date: '2010-09-24T21:58:54.320-04:00'
+modified_datetime: '2010-09-24T21:58:54.320-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-549379171094040152
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/booksellers-at-mic-9242010.html
 ---

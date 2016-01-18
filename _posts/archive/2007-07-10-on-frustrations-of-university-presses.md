@@ -5,7 +5,7 @@ date: '2007-07-10T17:14:00.000-04:00'
 author: Lori
 tags:
 - Bookselling Life
-modified_date: '2007-07-10T18:42:43.326-04:00'
+modified_datetime: '2007-07-10T18:42:43.326-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8921826230448956790
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/07/on-frustrations-of-university-presses.html
 ---

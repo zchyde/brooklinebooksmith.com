@@ -4,7 +4,7 @@ title: Franzen's Freedom
 date: '2010-08-22T16:37:00.004-04:00'
 author: dana brigham
 tags: 
-modified_date: '2010-08-22T17:15:58.441-04:00'
+modified_datetime: '2010-08-22T17:15:58.441-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5710287464248869162
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/franzens-freedom.html
 ---

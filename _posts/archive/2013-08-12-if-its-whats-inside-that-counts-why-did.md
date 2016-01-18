@@ -8,7 +8,7 @@ tags:
 - harry potter
 - book covers
 - young adult
-modified_date: '2013-08-12T09:00:00.423-04:00'
+modified_datetime: '2013-08-12T09:00:00.423-04:00'
 thumbnail: http://3.bp.blogspot.com/-ovDjQgLaBOs/UgfxfwI24lI/AAAAAAAAAfI/9-IlcBtmsHM/s72-c/curse-workers.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-391053962945519854
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/if-its-whats-inside-that-counts-why-did.html

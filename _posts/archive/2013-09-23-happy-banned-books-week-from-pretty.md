@@ -7,7 +7,7 @@ tags:
 - children's books
 - Banned Books Week
 - young adult
-modified_date: '2013-09-23T09:32:00.252-04:00'
+modified_datetime: '2013-09-23T09:32:00.252-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2989842920493636927
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/happy-banned-books-week-from-pretty.html
 ---

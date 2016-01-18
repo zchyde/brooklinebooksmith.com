@@ -9,7 +9,7 @@ tags:
 - haunting
 - children
 - graduation
-modified_date: '2011-06-10T22:49:43.506-04:00'
+modified_datetime: '2011-06-10T22:49:43.506-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2871607589616092962
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/endings-haunt-me.html
 ---

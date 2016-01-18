@@ -8,7 +8,7 @@ tags:
 - not-so-scary phantoms
 - shoshana
 - rock stars
-modified_date: '2014-07-22T09:33:28.212-04:00'
+modified_datetime: '2014-07-22T09:33:28.212-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-889570838001067816
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/norton-juster-is-rock-star.html
 ---

@@ -8,7 +8,7 @@ tags:
 - children's book week
 - alex is blogging
 - kids books
-modified_date: '2015-02-06T20:18:02.931-05:00'
+modified_datetime: '2015-02-06T20:18:02.931-05:00'
 thumbnail: http://4.bp.blogspot.com/-My-b4oKf4pY/VNUuJVZSqhI/AAAAAAAAAE8/QuSRp7i34uY/s72-c/alexmwtpic.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3836715389062535180
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_6.html

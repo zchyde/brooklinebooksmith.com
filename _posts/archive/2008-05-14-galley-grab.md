@@ -4,7 +4,7 @@ title: Galley Grab!
 date: '2008-05-14T17:15:00.005-04:00'
 author: Lori
 tags: 
-modified_date: '2008-05-15T13:40:59.664-04:00'
+modified_datetime: '2008-05-15T13:40:59.664-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2050602785624804014
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/05/galley-grab.html
 ---

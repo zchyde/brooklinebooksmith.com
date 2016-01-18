@@ -10,7 +10,7 @@ tags:
 - kindle
 - e-reader
 - e-book
-modified_date: '2010-08-02T14:32:38.990-04:00'
+modified_datetime: '2010-08-02T14:32:38.990-04:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TFCB70pkEiI/AAAAAAAAAG4/DP6OWxkaS9M/s72-c/wordstock.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5980742451954468973
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/forgive-me-handsome-sir.html

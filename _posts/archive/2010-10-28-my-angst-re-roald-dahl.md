@@ -6,7 +6,7 @@ author: Amanda
 tags:
 - cynicism
 - Roald Dahl
-modified_date: '2010-10-28T20:59:25.693-04:00'
+modified_datetime: '2010-10-28T20:59:25.693-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9097814752877158294
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/my-angst-re-roald-dahl.html
 ---

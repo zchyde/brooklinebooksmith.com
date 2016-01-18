@@ -7,7 +7,7 @@ tags:
 - dollar cart
 - used books
 - sale
-modified_date: '2012-08-10T10:30:01.714-04:00'
+modified_datetime: '2012-08-10T10:30:01.714-04:00'
 thumbnail: http://1.bp.blogspot.com/-8i51kJS55SM/UCPTQsEha7I/AAAAAAAAAuk/Q8OmnfyEz8M/s72-c/dollarz.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2129135400093973067
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/hollah-for-dollah.html

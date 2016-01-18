@@ -7,7 +7,7 @@ tags:
 - Kid Stuff
 - Not Fiction
 - Artsy-Fartsy
-modified_date: '2007-06-19T19:16:17.423-04:00'
+modified_datetime: '2007-06-19T19:16:17.423-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2075875193244905242
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/busy-day-of-buying.html
 ---

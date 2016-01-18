@@ -13,7 +13,7 @@ tags:
 - Irrawaddy Literary Festival
 - Myanmar
 - George Orwell
-modified_date: '2013-01-08T09:00:04.396-05:00'
+modified_datetime: '2013-01-08T09:00:04.396-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8234018704414897142
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/destination-of-month-myanmar-burma.html
 ---

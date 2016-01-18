@@ -5,7 +5,7 @@ date: '2008-03-10T17:02:00.009-04:00'
 author: Lori
 tags:
 - Kid Stuff
-modified_date: '2008-12-08T23:03:58.171-05:00'
+modified_datetime: '2008-12-08T23:03:58.171-05:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/R9WqPrHndHI/AAAAAAAAAFU/Ol0GTHL1d04/s72-c/anatole.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6119021953269171477
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/03/picks-for-kids-anatole.html

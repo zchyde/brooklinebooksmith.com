@@ -4,7 +4,7 @@ title: Annapurna
 date: '2010-11-19T15:10:00.002-05:00'
 author: Paul Theriault
 tags: 
-modified_date: '2010-11-19T19:12:59.822-05:00'
+modified_datetime: '2010-11-19T19:12:59.822-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8407991224576999031
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/annapurna.html
 ---

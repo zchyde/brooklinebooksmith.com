@@ -8,7 +8,7 @@ tags:
 - Bookselling Life
 - bestsellers
 - distractions
-modified_date: '2010-05-29T10:43:00.860-04:00'
+modified_datetime: '2010-05-29T10:43:00.860-04:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TAEkUC7t7VI/AAAAAAAAAEI/Ze9wXTPUueE/s72-c/BatmanCaughtReading02.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1210365228682274977
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/do-you-want-your-booksellers-reading-at.html

@@ -4,7 +4,7 @@ title: Where to Begin
 date: '2010-04-05T02:09:00.003-04:00'
 author: Evan
 tags: 
-modified_date: '2010-04-05T02:50:49.129-04:00'
+modified_datetime: '2010-04-05T02:50:49.129-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8198497203691396218
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/where-to-begin.html
 ---

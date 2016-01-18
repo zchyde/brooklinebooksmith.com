@@ -5,7 +5,7 @@ date: '2010-02-24T12:18:00.000-05:00'
 author: Emily
 tags:
 - children lacing
-modified_date: '2010-02-24T12:17:15.954-05:00'
+modified_datetime: '2010-02-24T12:17:15.954-05:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/S3yjtSzZa4I/AAAAAAAAAAM/qebvVMnWs9I/s72-c/9780756658885H.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-665015159653281697
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/lace-up-kids.html

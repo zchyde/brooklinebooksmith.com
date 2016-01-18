@@ -5,7 +5,7 @@ date: '2010-06-23T08:29:00.003-04:00'
 author: Emily
 tags:
 - summer reading
-modified_date: '2010-06-23T08:40:07.603-04:00'
+modified_datetime: '2010-06-23T08:40:07.603-04:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/TCH_4O7hjAI/AAAAAAAAADw/Z4VvlFR3mtQ/s72-c/girlinhammock1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5607492631387178406
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/summer-reading.html

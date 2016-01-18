@@ -14,7 +14,7 @@ tags:
 - game of thrones
 - Imagined Cities
 - Infinite Jest
-modified_date: '2013-01-01T09:00:01.082-05:00'
+modified_datetime: '2013-01-01T09:00:01.082-05:00'
 thumbnail: http://3.bp.blogspot.com/-ZdocbxY_Ss4/UOHI8u_mPdI/AAAAAAAAAlY/tHBumndl_24/s72-c/better-than-fiction.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5684462691251085073
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/imagined-cities.html

@@ -7,7 +7,7 @@ tags:
 - paul murray
 - skippy dies
 - booker prize
-modified_date: '2010-08-27T20:51:43.252-04:00'
+modified_datetime: '2010-08-27T20:51:43.252-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2543792582233594273
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/skippy-dies.html
 ---

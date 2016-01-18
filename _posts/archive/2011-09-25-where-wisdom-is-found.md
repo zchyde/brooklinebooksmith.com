@@ -9,7 +9,7 @@ tags:
 - beginning readers
 - history
 - non-fiction
-modified_date: '2011-09-25T21:42:17.519-04:00'
+modified_datetime: '2011-09-25T21:42:17.519-04:00'
 thumbnail: http://4.bp.blogspot.com/-oYvG620_stk/Tn9tt1rZrNI/AAAAAAAAAH8/VSZS-znTP8c/s72-c/dancing_with_dragons.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9183880150225184462
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/where-wisdom-is-found.html

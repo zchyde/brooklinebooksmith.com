@@ -7,7 +7,7 @@ tags:
 - bears
 - bears beets battlestar galactica
 - used books
-modified_date: '2012-06-29T10:30:01.943-04:00'
+modified_datetime: '2012-06-29T10:30:01.943-04:00'
 thumbnail: http://2.bp.blogspot.com/-pFhwmWNMpSo/T-uLgBloOrI/AAAAAAAAAhI/8q_0YCaSq0s/s72-c/BEAR_closeup.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-336129244998435050
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/violent-bear-it-away.html

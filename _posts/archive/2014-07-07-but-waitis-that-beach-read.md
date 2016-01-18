@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Summer books
 - Beach books.
-modified_date: '2014-07-07T09:00:03.198-04:00'
+modified_datetime: '2014-07-07T09:00:03.198-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4269907357746093454
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/but-waitis-that-beach-read.html
 ---

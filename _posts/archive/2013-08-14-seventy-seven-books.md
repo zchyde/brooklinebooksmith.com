@@ -10,7 +10,7 @@ tags:
 - drowning in books
 - book hoarding
 - seventy seven books
-modified_date: '2013-08-14T16:48:48.393-04:00'
+modified_datetime: '2013-08-14T16:48:48.393-04:00'
 thumbnail: http://4.bp.blogspot.com/-1XDVC6FCMyg/UguIcScyDhI/AAAAAAAACc8/zluJgAd_xwc/s72-c/ENON+Cover.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6180262525653747759
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/seventy-seven-books.html

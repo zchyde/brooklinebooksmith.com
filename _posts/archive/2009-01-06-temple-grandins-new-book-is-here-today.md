@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Events
-modified_date: '2009-01-06T20:10:13.015-05:00'
+modified_datetime: '2009-01-06T20:10:13.015-05:00'
 thumbnail: http://4.bp.blogspot.com/_zqgb4FOCazQ/SWP_vxYHnhI/AAAAAAAAALo/z-Ej03atHrQ/s72-c/animals.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5857257283015147774
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/01/temple-grandins-new-book-is-here-today.html

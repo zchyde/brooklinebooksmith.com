@@ -5,7 +5,7 @@ date: '2009-03-10T18:32:00.010-04:00'
 author: Lori
 tags:
 - What's Cooking
-modified_date: '2009-03-10T19:36:33.156-04:00'
+modified_datetime: '2009-03-10T19:36:33.156-04:00'
 thumbnail: http://3.bp.blogspot.com/_zqgb4FOCazQ/Sbb42vJ8_5I/AAAAAAAAAMM/jmP-2X5iYh4/s72-c/vegan+soul.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-148513628968171399
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/03/delicious-soul-food-and-good-news-for.html

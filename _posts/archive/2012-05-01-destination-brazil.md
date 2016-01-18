@@ -14,7 +14,7 @@ tags:
 - Why this World
 - Latin American writers
 - Moon.com
-modified_date: '2012-05-01T08:54:55.525-04:00'
+modified_datetime: '2012-05-01T08:54:55.525-04:00'
 thumbnail: http://4.bp.blogspot.com/-_hdHI859Zvw/T52WK7xC5fI/AAAAAAAAAcM/L32EkXBd-v8/s72-c/blog-lispector-021211.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3467770378976299483
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/destination-brazil.html

@@ -12,7 +12,7 @@ tags:
 - dancing
 - enthusiastic walks
 - susannah cahalan
-modified_date: '2012-12-05T11:30:01.227-05:00'
+modified_datetime: '2012-12-05T11:30:01.227-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7718317737341448838
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/brookline-booksmith-musical.html
 ---

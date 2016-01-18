@@ -10,7 +10,7 @@ tags:
 - halloween
 - kids books
 - kidsmith
-modified_date: '2015-10-12T10:00:00.116-04:00'
+modified_datetime: '2015-10-12T10:00:00.116-04:00'
 thumbnail: http://3.bp.blogspot.com/-QkSnEYedQWI/VhqZPR0PyCI/AAAAAAAAAK8/3bQtj4yA-sc/s72-c/IMG_1379.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8916531343538854095
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/10/every-scary-story.html

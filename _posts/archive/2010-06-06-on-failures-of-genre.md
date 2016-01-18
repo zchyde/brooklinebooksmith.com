@@ -4,7 +4,7 @@ title: On the failures of genre.
 date: '2010-06-06T17:22:00.003-04:00'
 author: Evan
 tags: 
-modified_date: '2010-06-06T17:59:31.011-04:00'
+modified_datetime: '2010-06-06T17:59:31.011-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1485632144985866593
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/on-failures-of-genre.html
 ---

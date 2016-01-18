@@ -11,7 +11,7 @@ tags:
 - travel
 - globe corner
 - Colors of Catalonia
-modified_date: '2012-08-21T11:47:27.604-04:00'
+modified_datetime: '2012-08-21T11:47:27.604-04:00'
 thumbnail: http://4.bp.blogspot.com/-IAGrUbSaQqk/UDOsPEY6SiI/AAAAAAAAAhE/fdpGmmTZi-4/s72-c/IMG_7499-300x225.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5430060435800780764
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/travel-by-color.html

@@ -4,7 +4,7 @@ title: Some Alternative Narratives to Chew On
 date: '2011-10-20T18:49:00.000-04:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-10-20T18:49:59.699-04:00'
+modified_datetime: '2011-10-20T18:49:59.699-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-580955234131314315
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/some-alternative-narratives-to-chew-on.html
 ---

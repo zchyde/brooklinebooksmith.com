@@ -6,7 +6,7 @@ author: Amanda
 tags:
 - christmas
 - reading as a family
-modified_date: '2010-12-16T18:01:42.115-05:00'
+modified_datetime: '2010-12-16T18:01:42.115-05:00'
 thumbnail: http://3.bp.blogspot.com/_vN3v_zbfcFQ/TQqZpsAcprI/AAAAAAAAABo/WEnSQRNslno/s72-c/harvey.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5430121323284576331
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/and-thats-what-christmas-is-all-about.html

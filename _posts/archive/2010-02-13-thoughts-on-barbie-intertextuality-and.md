@@ -4,7 +4,7 @@ title: Thoughts on Barbie, Intertextuality and the E-reader
 date: '2010-02-13T11:16:00.008-05:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-02-13T13:41:22.257-05:00'
+modified_datetime: '2010-02-13T13:41:22.257-05:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/S3bW62tuGmI/AAAAAAAAABY/dWiIGL4djXw/s72-c/eve+ensler.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4271159353647561608
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/thoughts-on-barbie-intertextuality-and.html

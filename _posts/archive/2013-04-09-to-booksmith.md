@@ -15,7 +15,7 @@ tags:
 - the 66 bus
 - Olivia Laing
 - walkers
-modified_date: '2013-04-09T09:00:13.910-04:00'
+modified_datetime: '2013-04-09T09:00:13.910-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7761256172310952526
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/to-booksmith.html
 ---

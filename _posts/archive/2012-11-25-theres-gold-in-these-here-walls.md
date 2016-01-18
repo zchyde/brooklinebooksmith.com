@@ -9,7 +9,7 @@ tags:
 - treasure
 - 'fun fact: i slipped a hand-written letter into the art bookshelf before we fixed
   the hole so the internet might not outlive me but this voice will LIVE ON'
-modified_date: '2012-11-25T16:53:41.674-05:00'
+modified_datetime: '2012-11-25T16:53:41.674-05:00'
 thumbnail: http://2.bp.blogspot.com/-HKdKeR-7WOU/UKpXpXIF6iI/AAAAAAAAAAw/FMc0ZgvN-Lk/s72-c/photo+(2).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8508794923664595466
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/theres-gold-in-these-here-walls.html

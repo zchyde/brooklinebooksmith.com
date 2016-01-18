@@ -4,7 +4,7 @@ title: Used Books Are Super Awesome
 date: '2010-04-12T23:08:00.006-04:00'
 author: Carl
 tags: 
-modified_date: '2010-04-12T23:50:11.319-04:00'
+modified_datetime: '2010-04-12T23:50:11.319-04:00'
 thumbnail: http://4.bp.blogspot.com/_lonf0gt6RtI/S8PpB6pfQcI/AAAAAAAAAtE/DAr0uHkMunA/s72-c/228553888_d8ba156ade.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7198881742907751078
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/used-books-are-super-awesome.html

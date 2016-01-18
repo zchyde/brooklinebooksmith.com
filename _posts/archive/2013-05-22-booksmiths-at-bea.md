@@ -8,7 +8,7 @@ tags:
 - i'm a lady
 - bea
 - that's it
-modified_date: '2013-05-23T14:11:12.876-04:00'
+modified_datetime: '2013-05-23T14:11:12.876-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7340331567147386945
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/booksmiths-at-bea.html
 ---

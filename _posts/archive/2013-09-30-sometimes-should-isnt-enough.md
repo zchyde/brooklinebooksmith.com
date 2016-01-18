@@ -6,7 +6,7 @@ author: Amy
 tags:
 - Individuality
 - Popular Books
-modified_date: '2013-09-30T09:00:03.953-04:00'
+modified_datetime: '2013-09-30T09:00:03.953-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8680523710873311883
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/sometimes-should-isnt-enough.html
 ---

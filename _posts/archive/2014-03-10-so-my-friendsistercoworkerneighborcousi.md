@@ -8,7 +8,7 @@ tags:
 - children's books
 - yes of course you should get a book
 - shoshana
-modified_date: '2014-07-22T09:35:00.615-04:00'
+modified_datetime: '2014-07-22T09:35:00.615-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7708635242673191473
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/03/so-my-friendsistercoworkerneighborcousi.html
 ---

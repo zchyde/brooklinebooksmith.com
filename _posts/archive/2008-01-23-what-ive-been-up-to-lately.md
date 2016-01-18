@@ -5,7 +5,7 @@ date: '2008-01-23T19:57:00.001-05:00'
 author: Lori
 tags:
 - Bookselling Life
-modified_date: '2008-01-23T20:11:39.755-05:00'
+modified_datetime: '2008-01-23T20:11:39.755-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4736881684587358584
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/01/what-ive-been-up-to-lately.html
 ---

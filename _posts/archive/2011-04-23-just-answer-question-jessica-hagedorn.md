@@ -9,7 +9,7 @@ tags:
 - Just Answer the Question
 - Fiction
 - The 7-minute Booksmith Interview
-modified_date: '2011-04-23T15:00:02.459-04:00'
+modified_datetime: '2011-04-23T15:00:02.459-04:00'
 thumbnail: http://1.bp.blogspot.com/-4Nh9iLrZTJw/TbHUiCD5E6I/AAAAAAAAAQA/-gPz6FwQVjM/s72-c/Hagedorn.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1047001235776021308
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/just-answer-question-jessica-hagedorn.html

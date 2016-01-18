@@ -14,7 +14,7 @@ tags:
 - just kids by patti smith
 - learning to love you more
 - robert mapplethorpe
-modified_date: '2012-06-14T15:56:04.416-04:00'
+modified_datetime: '2012-06-14T15:56:04.416-04:00'
 thumbnail: http://4.bp.blogspot.com/-ZYgrMfMrZYw/T9o46rwKAzI/AAAAAAAANcA/drCh6L8s4PY/s72-c/just+kids.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7511939027875210988
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/dabbling-artist.html

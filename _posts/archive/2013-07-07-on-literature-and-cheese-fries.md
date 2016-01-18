@@ -4,7 +4,7 @@ title: On literature and cheese fries
 date: '2013-07-07T17:03:00.001-04:00'
 author: Lydia
 tags: 
-modified_date: '2013-07-07T18:38:40.395-04:00'
+modified_datetime: '2013-07-07T18:38:40.395-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6878309997491754175
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/on-literature-and-cheese-fries.html
 ---

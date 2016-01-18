@@ -12,7 +12,7 @@ tags:
 - what is art
 - ownership
 - painters
-modified_date: '2011-01-08T10:58:59.305-05:00'
+modified_datetime: '2011-01-08T10:58:59.305-05:00'
 thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TSiIWQ4745I/AAAAAAAAAMM/n_iLf2zcElY/s72-c/truth.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4065398665991138363
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/again-with-james-frey.html

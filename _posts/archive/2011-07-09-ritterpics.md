@@ -4,7 +4,7 @@ title: Ritterpics!
 date: '2011-07-09T14:04:00.005-04:00'
 author: Evan
 tags: 
-modified_date: '2011-07-09T14:26:00.024-04:00'
+modified_datetime: '2011-07-09T14:26:00.024-04:00'
 thumbnail: http://3.bp.blogspot.com/-0AK650CJ0nY/Thib2X1buSI/AAAAAAAAABg/laMJdTz5x_o/s72-c/JoshRitter_BrightsPassage-0023_WebRes.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8828156001283414934
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/ritterpics.html

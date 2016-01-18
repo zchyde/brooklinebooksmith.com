@@ -10,7 +10,7 @@ tags:
 - squirrels
 - autumn
 - ghosts
-modified_date: '2013-09-21T11:20:51.690-04:00'
+modified_datetime: '2013-09-21T11:20:51.690-04:00'
 thumbnail: http://1.bp.blogspot.com/-4Zogn6bg1RU/Uj24N64VBRI/AAAAAAAABZM/2e44UbbXwGo/s72-c/Eastern_Grey_Squirrel-black.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9050856880301809889
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/crunchy-leaves-smooth-books.html

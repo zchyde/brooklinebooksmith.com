@@ -4,7 +4,7 @@ title: Schools in the store!
 date: '2012-11-19T11:09:00.001-05:00'
 author: Shoshana
 tags: 
-modified_date: '2012-11-19T11:09:44.635-05:00'
+modified_datetime: '2012-11-19T11:09:44.635-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7793338308601804632
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/schools-in-store.html
 ---

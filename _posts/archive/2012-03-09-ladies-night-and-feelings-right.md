@@ -6,7 +6,7 @@ author: Zoe Hyde
 tags:
 - ladies
 - biography
-modified_date: '2012-03-09T01:15:31.445-05:00'
+modified_datetime: '2012-03-09T01:15:31.445-05:00'
 thumbnail: http://4.bp.blogspot.com/-5kM7zSZnCXs/T1lgPl2-C8I/AAAAAAAAAHQ/F4p80yHBN30/s72-c/bringing%2Bup%2Bbebe.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5827515969476204185
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/ladies-night-and-feelings-right.html

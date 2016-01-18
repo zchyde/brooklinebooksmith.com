@@ -7,7 +7,7 @@ tags:
 - if your books are this awesome we'll make a big deal of your 109th birthday too
 - children's books
 - Dr. Seuss
-modified_date: '2013-02-25T09:29:34.081-05:00'
+modified_datetime: '2013-02-25T09:29:34.081-05:00'
 thumbnail: http://1.bp.blogspot.com/-sIFar431S5I/USlBhcZg-BI/AAAAAAAAAHs/g0htbS1HHNA/s72-c/dr.+seuss+003.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3726292155542486394
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/the-bookshelves-of-booksmith-have-many.html

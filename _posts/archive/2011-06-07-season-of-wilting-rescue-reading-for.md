@@ -11,7 +11,7 @@ tags:
 - Confessions
 - e-book
 - Poetry
-modified_date: '2011-06-07T15:25:02.957-04:00'
+modified_datetime: '2011-06-07T15:25:02.957-04:00'
 thumbnail: http://2.bp.blogspot.com/-c_2jbdrj-OI/Te5Y36CGWUI/AAAAAAAAARc/OLIW0WZyEq0/s72-c/1111111111111111111.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5224154634656975158
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/season-of-wilting-rescue-reading-for.html

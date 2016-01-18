@@ -15,7 +15,7 @@ tags:
 - tom gauld
 - knives
 - robots
-modified_date: '2012-02-24T12:28:03.303-05:00'
+modified_datetime: '2012-02-24T12:28:03.303-05:00'
 thumbnail: http://2.bp.blogspot.com/-bLb0Ws10vvM/Ty1hkqXMKGI/AAAAAAAAATo/gPQwuHr6yWU/s72-c/edge_blackthorne.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1959382950681980935
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/magical-angry-robots-of-ubc.html

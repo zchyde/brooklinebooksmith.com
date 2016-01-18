@@ -11,7 +11,7 @@ tags:
 - booksellers - consider this your call to anecdotal arms
 - quotes
 - snark
-modified_date: '2013-01-21T00:58:40.533-05:00'
+modified_datetime: '2013-01-21T00:58:40.533-05:00'
 thumbnail: http://2.bp.blogspot.com/-YZSfqLP9YKc/T-2lKg2H_kI/AAAAAAAABHU/5b8jyJKl7uE/s72-c/tbm_bookshop-cover-front-v1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1020624643385879184
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/weird-things-customers-say-in-bookshops.html

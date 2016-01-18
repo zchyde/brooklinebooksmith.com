@@ -7,7 +7,7 @@ tags:
 - Other Cool Stuff
 - Not Fiction
 - Bookselling Life
-modified_date: '2007-08-03T17:55:45.104-04:00'
+modified_datetime: '2007-08-03T17:55:45.104-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7832181365750027913
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/08/making-big-times-new-york-times-that-is.html
 ---

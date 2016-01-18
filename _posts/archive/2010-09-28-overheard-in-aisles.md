@@ -4,7 +4,7 @@ title: Overheard in the aisles
 date: '2010-09-28T15:23:00.013-04:00'
 author: Liz T.
 tags: 
-modified_date: '2010-09-29T16:19:44.774-04:00'
+modified_datetime: '2010-09-29T16:19:44.774-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6807207509275552427
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/overheard-in-aisles.html
 ---

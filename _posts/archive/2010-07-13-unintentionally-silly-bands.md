@@ -4,7 +4,7 @@ title: Unintentionally Silly Bands
 date: '2010-07-13T20:43:00.002-04:00'
 author: Liz T.
 tags: 
-modified_date: '2010-07-13T21:22:22.104-04:00'
+modified_datetime: '2010-07-13T21:22:22.104-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8533561601397160849
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/unintentionally-silly-bands.html
 ---

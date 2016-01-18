@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Events
-modified_date: '2008-12-08T23:03:59.203-05:00'
+modified_datetime: '2008-12-08T23:03:59.203-05:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/Rw-tRiutWMI/AAAAAAAAAEM/ICnmAFmZkwI/s72-c/scent.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7048933057786805946
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/book-sense-picks-scent-yay.html

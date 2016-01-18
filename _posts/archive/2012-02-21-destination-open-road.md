@@ -4,7 +4,7 @@ title: 'Destination: The Open Road'
 date: '2012-02-21T14:51:00.001-05:00'
 author: Jodie
 tags: 
-modified_date: '2012-02-21T14:51:08.548-05:00'
+modified_datetime: '2012-02-21T14:51:08.548-05:00'
 thumbnail: http://2.bp.blogspot.com/-cf01VP537Dk/T0BIEBOmoCI/AAAAAAAAAWU/Vnvn40yXk-4/s72-c/all-the-roads-are-open-the-afghan-journey.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3797992522673155257
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/destination-open-road.html

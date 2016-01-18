@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Events
 - Fiction
-modified_date: '2008-12-08T23:03:57.682-05:00'
+modified_datetime: '2008-12-08T23:03:57.682-05:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/R-l4dqYYetI/AAAAAAAAAGI/k5d_4wcILr8/s72-c/tobias.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9087724186262733543
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/03/our-story-begins.html

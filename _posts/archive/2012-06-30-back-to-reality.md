@@ -8,7 +8,7 @@ tags:
 - Song of Solomon
 - Toni Morrison
 - I am gonna drive this vehicle to the moon
-modified_date: '2012-06-30T17:13:23.305-04:00'
+modified_datetime: '2012-06-30T17:13:23.305-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3438630882456025089
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/back-to-reality.html
 ---

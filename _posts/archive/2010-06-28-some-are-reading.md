@@ -4,7 +4,7 @@ title: Some Are Reading
 date: '2010-06-28T11:29:00.002-04:00'
 author: dana brigham
 tags: 
-modified_date: '2010-06-28T12:00:42.025-04:00'
+modified_datetime: '2010-06-28T12:00:42.025-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8324463927604495249
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/some-are-reading.html
 ---

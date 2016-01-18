@@ -6,7 +6,7 @@ author: Shuchi
 tags:
 - literary journals
 - literary magazines
-modified_date: '2012-07-12T11:38:33.444-04:00'
+modified_datetime: '2012-07-12T11:38:33.444-04:00'
 thumbnail: http://4.bp.blogspot.com/-IY1B9EUzsTQ/T_65Nj-kcFI/AAAAAAAANwM/TksF1zzvrgk/s72-c/photo-1.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4875648453525602382
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/readers-guide-to-literary-journals.html

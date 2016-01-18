@@ -7,7 +7,7 @@ tags:
 - reading
 - Bookselling Life
 - used books
-modified_date: '2013-01-11T11:30:02.133-05:00'
+modified_datetime: '2013-01-11T11:30:02.133-05:00'
 thumbnail: http://2.bp.blogspot.com/-gA5EIrC4E-k/UO2sOZZDz6I/AAAAAAAABFo/xcsedrBJZRg/s72-c/books1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4755944776931049126
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/a-life-in-books.html

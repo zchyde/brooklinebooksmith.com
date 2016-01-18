@@ -4,7 +4,7 @@ title: 'Destination: Where???'
 date: '2012-03-20T13:25:00.000-04:00'
 author: Jodie
 tags: 
-modified_date: '2012-03-20T13:25:54.470-04:00'
+modified_datetime: '2012-03-20T13:25:54.470-04:00'
 thumbnail: http://2.bp.blogspot.com/-YNjKCj7jHIQ/T2ZLEyxcT2I/AAAAAAAAAY0/4AgTm3cuNtg/s72-c/Obsession-453x650.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8903223110849016095
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/destination-where.html

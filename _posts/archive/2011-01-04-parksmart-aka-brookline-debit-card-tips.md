@@ -8,7 +8,7 @@ tags:
 - Brookline debit card
 - Aunt Gertie
 - meters
-modified_date: '2011-01-04T20:38:30.420-05:00'
+modified_datetime: '2011-01-04T20:38:30.420-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2212197267090782881
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/parksmart-aka-brookline-debit-card-tips.html
 ---

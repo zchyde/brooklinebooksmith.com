@@ -4,7 +4,7 @@ title: Girl Power
 date: '2010-02-23T16:32:00.005-05:00'
 author: Eugenia
 tags: 
-modified_date: '2010-02-23T17:12:12.570-05:00'
+modified_datetime: '2010-02-23T17:12:12.570-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4024958307318624287
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/girl-power.html
 ---

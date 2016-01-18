@@ -11,7 +11,7 @@ tags:
 - Destination Literature
 - Destination of the Month
 - travel
-modified_date: '2013-10-05T10:22:29.825-04:00'
+modified_datetime: '2013-10-05T10:22:29.825-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6634211248978923613
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/10/oktoberfest-or-it-could-be-wurst.html
 ---

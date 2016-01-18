@@ -5,7 +5,7 @@ date: '2011-07-06T18:48:00.001-04:00'
 author: Emily
 tags:
 - Events
-modified_date: '2011-07-07T13:58:56.156-04:00'
+modified_datetime: '2011-07-07T13:58:56.156-04:00'
 thumbnail: http://2.bp.blogspot.com/-IlUFV4WrEqc/ThTlUxfFVFI/AAAAAAAAAQQ/Im9ufipyU4I/s72-c/imagesCA25BYLP.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9192428969555698049
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/july-kids-events.html

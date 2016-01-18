@@ -14,7 +14,7 @@ tags:
 - french
 - gene yang
 - brindille
-modified_date: '2013-07-20T11:00:03.882-04:00'
+modified_datetime: '2013-07-20T11:00:03.882-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3865951071046765901
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/vacation-forever.html
 ---

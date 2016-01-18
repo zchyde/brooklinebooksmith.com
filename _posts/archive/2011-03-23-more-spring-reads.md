@@ -4,7 +4,7 @@ title: More Spring Reads
 date: '2011-03-23T15:29:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-03-23T15:29:59.888-04:00'
+modified_datetime: '2011-03-23T15:29:59.888-04:00'
 thumbnail: https://lh5.googleusercontent.com/-26m_tscWDdM/TYpIjF_2V7I/AAAAAAAAAO0/VcB705sbqHo/s72-c/mowat+owls+in+the+family.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8887414679003771528
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/more-spring-reads.html

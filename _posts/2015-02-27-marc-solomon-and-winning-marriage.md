@@ -13,7 +13,7 @@ tags:
 - marc solomon
 - legalize gay marriage
 - winning marriage
-modified_date: '2015-02-27T17:19:09.821-05:00'
+modified_datetime: '2015-02-27T17:19:09.821-05:00'
 thumbnail: http://3.bp.blogspot.com/-5U0lzBkKO6g/VPDtLsEFNzI/AAAAAAAAAkw/xZZpbM8hBEo/s72-c/marcsoloman.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8659042814300829251
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/marc-solomon-and-winning-marriage.html

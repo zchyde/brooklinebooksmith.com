@@ -4,7 +4,7 @@ title: All my best, Booksmith!
 date: '2010-06-29T17:48:00.002-04:00'
 author: Eugenia
 tags: 
-modified_date: '2010-06-29T18:04:57.067-04:00'
+modified_datetime: '2010-06-29T18:04:57.067-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5838232319634082188
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/all-my-best-booksmith.html
 ---

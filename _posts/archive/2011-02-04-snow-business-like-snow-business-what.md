@@ -4,7 +4,7 @@ title: Snow business like snow business (...what?)
 date: '2011-02-04T09:30:00.003-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-02-04T09:34:47.367-05:00'
+modified_datetime: '2011-02-04T09:34:47.367-05:00'
 thumbnail: http://2.bp.blogspot.com/_NUSW4Mi-QYM/TUwOgQdKvXI/AAAAAAAAACA/BT-gtpXpb18/s72-c/mai-tai-su-1835314-l.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6201234084490569071
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/snow-business-like-snow-business-what.html

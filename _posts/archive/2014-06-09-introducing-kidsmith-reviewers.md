@@ -4,7 +4,7 @@ title: Introducing the Kidsmith Reviewers
 date: '2014-06-09T09:00:00.000-04:00'
 author: Clarissa Murphy
 tags: 
-modified_date: '2014-06-14T17:16:24.001-04:00'
+modified_datetime: '2014-06-14T17:16:24.001-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7148820767211577625
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/06/introducing-kidsmith-reviewers.html
 ---

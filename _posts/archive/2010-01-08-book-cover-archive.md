@@ -6,7 +6,7 @@ author: Carl
 tags:
 - book cover archive
 - book design
-modified_date: '2010-01-08T22:13:09.040-05:00'
+modified_datetime: '2010-01-08T22:13:09.040-05:00'
 thumbnail: http://4.bp.blogspot.com/_lonf0gt6RtI/S0fzvNYOZ2I/AAAAAAAAApw/6Qd_PtT1fMM/s72-c/the_castle.large.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6788147890024367653
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/01/book-cover-archive.html

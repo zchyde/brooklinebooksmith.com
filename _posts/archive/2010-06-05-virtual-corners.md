@@ -4,7 +4,7 @@ title: Virtual Corners
 date: '2010-06-05T10:17:00.003-04:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-06-05T10:43:10.309-04:00'
+modified_datetime: '2010-06-05T10:43:10.309-04:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TApgoSj7mnI/AAAAAAAAAEY/w4EzOh-mhZI/s72-c/dudley-live.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6182697453843862259
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/virtual-corners.html

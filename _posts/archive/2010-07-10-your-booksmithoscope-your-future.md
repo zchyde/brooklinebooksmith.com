@@ -4,7 +4,7 @@ title: Your Booksmithoscope! Your Future Fortold...Sorta!
 date: '2010-07-10T14:30:00.003-04:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-07-10T14:40:57.635-04:00'
+modified_datetime: '2010-07-10T14:40:57.635-04:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/TDi8zFb74LI/AAAAAAAAAF4/Q8qiiMe2G2I/s72-c/velociraptor_mongoliensis_ms.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1543664425365640281
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/your-booksmithoscope-your-future.html

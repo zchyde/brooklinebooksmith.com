@@ -4,7 +4,7 @@ title: Some Spring Reading
 date: '2010-04-07T09:45:00.002-04:00'
 author: Emily
 tags: 
-modified_date: '2010-04-07T09:49:02.455-04:00'
+modified_datetime: '2010-04-07T09:49:02.455-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/S7yMpCTTmzI/AAAAAAAAABU/54RYerRyUt8/s72-c/Trumpet_of_the_Swan_Cover.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3957472122591130411
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/some-spring-reading.html

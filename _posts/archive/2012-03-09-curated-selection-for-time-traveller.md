@@ -24,7 +24,7 @@ tags:
 - present
 - space travel
 - massachusetts bay
-modified_date: '2012-03-09T12:13:21.134-05:00'
+modified_datetime: '2012-03-09T12:13:21.134-05:00'
 thumbnail: http://3.bp.blogspot.com/-Whnke1qa3Kg/T1oeapYiltI/AAAAAAAAAVM/LWbFhWhwNzA/s72-c/northshore.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6486160526784118328
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/curated-selection-for-time-traveller.html

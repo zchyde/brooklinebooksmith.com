@@ -11,7 +11,7 @@ tags:
 - booze
 - read local
 - books
-modified_date: '2012-09-04T16:30:55.621-04:00'
+modified_datetime: '2012-09-04T16:30:55.621-04:00'
 thumbnail: http://2.bp.blogspot.com/-t39LV12lMfk/UD6J0amxEiI/AAAAAAAAAg0/XRY0uOWfpOc/s72-c/SlumbrewPorterSquare.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6463007784051660560
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/read-local-drink-local.html

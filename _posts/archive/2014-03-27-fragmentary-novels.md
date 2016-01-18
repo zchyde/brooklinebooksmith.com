@@ -11,7 +11,7 @@ tags:
 - james wood
 - submergence
 - dept of speculation
-modified_date: '2014-03-27T11:50:47.261-04:00'
+modified_datetime: '2014-03-27T11:50:47.261-04:00'
 thumbnail: http://1.bp.blogspot.com/-s1X72t8xQ0E/UzMIBgjmXJI/AAAAAAAAPuk/2DMjVYIImv0/s72-c/dept_of_spec_cover.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7061952125018710433
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/03/fragmentary-novels.html

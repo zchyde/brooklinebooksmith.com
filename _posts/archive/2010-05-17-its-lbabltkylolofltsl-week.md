@@ -4,7 +4,7 @@ title: Its "LBABLTKYLOLOFLTSL-week!"
 date: '2010-05-17T13:24:00.003-04:00'
 author: Carl
 tags: 
-modified_date: '2010-05-17T14:24:12.166-04:00'
+modified_datetime: '2010-05-17T14:24:12.166-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7981361067268078028
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/its-lbabltkylolofltsl-week.html
 ---

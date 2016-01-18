@@ -7,7 +7,7 @@ tags:
 - Kid Stuff
 - Not Fiction
 - Bookselling Life
-modified_date: '2007-06-01T14:35:16.863-04:00'
+modified_datetime: '2007-06-01T14:35:16.863-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8502397299836931752
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/heaven-and-hell.html
 ---

@@ -6,7 +6,7 @@ author: Emily
 tags:
 - local
 - independent
-modified_date: '2010-08-26T07:43:31.495-04:00'
+modified_datetime: '2010-08-26T07:43:31.495-04:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/THVUiqlidMI/AAAAAAAAAII/wgIuyD8mcKA/s72-c/shop_local_crop.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4826086574627902159
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/raincoffeereading.html

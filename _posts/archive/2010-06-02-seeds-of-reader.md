@@ -4,7 +4,7 @@ title: Seeds of a Reader
 date: '2010-06-02T09:55:00.004-04:00'
 author: Emily
 tags: 
-modified_date: '2010-06-02T10:06:47.846-04:00'
+modified_datetime: '2010-06-02T10:06:47.846-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TAZjB962_JI/AAAAAAAAAC4/L3qutJS24qA/s72-c/little-mouse-the-red-ripe-strawberry-and-the-big-hungry-bear.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4662324192166107429
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/seeds-of-reader.html

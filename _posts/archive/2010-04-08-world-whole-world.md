@@ -4,7 +4,7 @@ title: A world, a whole world!
 date: '2010-04-08T19:19:00.004-04:00'
 author: Evan
 tags: 
-modified_date: '2010-04-08T20:13:17.166-04:00'
+modified_datetime: '2010-04-08T20:13:17.166-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-755297765475368522
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/world-whole-world.html
 ---

@@ -6,7 +6,7 @@ author: Natasha
 tags:
 - cool it
 - used books
-modified_date: '2012-06-22T11:00:08.954-04:00'
+modified_datetime: '2012-06-22T11:00:08.954-04:00'
 thumbnail: http://2.bp.blogspot.com/-PTOBQSVuoyI/T-MunBzLv4I/AAAAAAAAAgg/FH0Pt9Jj7Fc/s72-c/room_temp.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1345989773363828742
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/take-chill-pill.html

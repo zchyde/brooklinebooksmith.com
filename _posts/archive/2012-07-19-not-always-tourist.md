@@ -8,7 +8,7 @@ tags:
 - travel guides
 - Globe Corner Bookstore
 - New York City
-modified_date: '2012-07-25T10:47:31.403-04:00'
+modified_datetime: '2012-07-25T10:47:31.403-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6690569856208876116
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/not-always-tourist.html
 ---

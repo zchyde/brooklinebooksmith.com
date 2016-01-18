@@ -11,7 +11,7 @@ tags:
 - resistance
 - dreams
 - self-knowledge
-modified_date: '2010-06-04T18:45:02.450-04:00'
+modified_datetime: '2010-06-04T18:45:02.450-04:00'
 thumbnail: http://4.bp.blogspot.com/__XLYr0GLRDQ/TAmBYEMIUkI/AAAAAAAAAEk/opsPpuH6ZkE/s72-c/blog1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6859457797763041492
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/book-that-i-cant-stand-to-have-open-in.html

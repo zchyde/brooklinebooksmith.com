@@ -4,7 +4,7 @@ title: Gift tables, a guardian moose, and other reasons I'm still feeling thankf
 date: '2012-11-26T11:42:00.004-05:00'
 author: Shoshana
 tags: 
-modified_date: '2012-11-26T11:42:56.622-05:00'
+modified_datetime: '2012-11-26T11:42:56.622-05:00'
 thumbnail: http://3.bp.blogspot.com/-isZ4u_sD6S0/ULOZpofyZzI/AAAAAAAAAGM/lF1ShvYofbQ/s72-c/Wimpy+Kid+7+dump.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7516479733331114264
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/gift-tables-guardian-moose-and-other.html

@@ -4,7 +4,7 @@ title: I work with some pretty excellent ladies and dudes
 date: '2011-01-18T16:15:00.000-05:00'
 author: Liz T.
 tags: 
-modified_date: '2011-01-18T17:08:54.777-05:00'
+modified_datetime: '2011-01-18T17:08:54.777-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7802066847467002849
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/i-work-with-some-pretty-excellent.html
 ---

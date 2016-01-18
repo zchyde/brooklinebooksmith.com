@@ -12,7 +12,7 @@ tags:
 - used books
 - i wish i was norwegian
 - hemingway
-modified_date: '2012-11-30T13:08:47.985-05:00'
+modified_datetime: '2012-11-30T13:08:47.985-05:00'
 thumbnail: http://4.bp.blogspot.com/-6-VZrL7cvYw/UJ1LaXvFcDI/AAAAAAAAA84/0n8lSGUbc3Q/s72-c/frontispiece.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8505885698437664802
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/my-way-or-norway-or-tied-up-in-knuts.html

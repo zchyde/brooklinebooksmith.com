@@ -4,7 +4,7 @@ title: A Better Class of Garbage.
 date: '2012-02-02T20:11:00.001-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2012-02-02T20:11:33.030-05:00'
+modified_datetime: '2012-02-02T20:11:33.030-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5163644313462475972
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/better-class-of-garbage.html
 ---

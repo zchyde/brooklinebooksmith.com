@@ -8,7 +8,7 @@ tags:
 - National Geographic folded maps
 - globe corner
 - elopement
-modified_date: '2012-08-07T09:25:01.634-04:00'
+modified_datetime: '2012-08-07T09:25:01.634-04:00'
 thumbnail: http://1.bp.blogspot.com/-dPbFSgGxiWI/UCEOawcbcbI/AAAAAAAAAgE/3cxS3Ltjgec/s72-c/canoeblog.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8204992675077427701
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/travelin-partner_7.html

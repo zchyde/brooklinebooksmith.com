@@ -12,7 +12,7 @@ tags:
 - quiz
 - hot dog remnants
 - karl ove
-modified_date: '2014-07-09T10:00:03.355-04:00'
+modified_datetime: '2014-07-09T10:00:03.355-04:00'
 thumbnail: http://3.bp.blogspot.com/-5g_buaOJiL4/U7x0qwW9yII/AAAAAAAACyE/WjFGgobIUP0/s72-c/IMG_3439.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6191799877194615288
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/how-to-select-beach-read-quiz.html

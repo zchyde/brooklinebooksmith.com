@@ -7,7 +7,7 @@ tags:
 - Not Fiction
 - Bookselling Life
 - Winter Institute
-modified_date: '2008-01-26T00:22:44.973-05:00'
+modified_datetime: '2008-01-26T00:22:44.973-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7070600146835263905
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/01/winter-institute-part-one.html
 ---

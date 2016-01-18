@@ -11,7 +11,7 @@ tags:
 - Don George
 - travel writers
 - lonely planet
-modified_date: '2013-08-27T09:00:10.440-04:00'
+modified_datetime: '2013-08-27T09:00:10.440-04:00'
 thumbnail: http://3.bp.blogspot.com/-cdsUmMF26kM/Uhu6_-NPeFI/AAAAAAAAAvI/ehPlDcDxC4Q/s72-c/9781592407798_custom-87798853cddeef6f29a8659be1634532d3046714-s6-c30.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7843906077572824903
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/advice-for-travel-writer.html

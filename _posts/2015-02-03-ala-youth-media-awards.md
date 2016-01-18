@@ -10,7 +10,7 @@ tags:
 - Youth Media Awards
 - Alayma
 - Newbery
-modified_date: '2015-02-03T13:00:02.458-05:00'
+modified_datetime: '2015-02-03T13:00:02.458-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3421261965671488126
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/ala-youth-media-awards.html
 ---

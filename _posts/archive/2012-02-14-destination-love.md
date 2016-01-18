@@ -4,7 +4,7 @@ title: 'Destination: Love'
 date: '2012-02-14T10:05:00.000-05:00'
 author: Jodie
 tags: 
-modified_date: '2012-02-14T10:05:48.035-05:00'
+modified_datetime: '2012-02-14T10:05:48.035-05:00'
 thumbnail: http://1.bp.blogspot.com/-3b83Z4rzn2w/TzhPoXdnojI/AAAAAAAAAWE/H10pPkwIAwg/s72-c/honeymoon-planning-1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2116161187973947909
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/destination-love.html

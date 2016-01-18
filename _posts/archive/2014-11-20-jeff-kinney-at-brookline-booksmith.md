@@ -12,7 +12,7 @@ tags:
 - kids
 - Events
 - kidsmith
-modified_date: '2014-11-20T20:04:02.592-05:00'
+modified_datetime: '2014-11-20T20:04:02.592-05:00'
 thumbnail: http://1.bp.blogspot.com/-aatQYUyTKZY/VG6LsItXzAI/AAAAAAAAAik/yFBjquWxjDY/s72-c/Screenshot%2B2014-11-20%2B19.45.51.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4165959474721951629
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/jeff-kinney-at-brookline-booksmith.html

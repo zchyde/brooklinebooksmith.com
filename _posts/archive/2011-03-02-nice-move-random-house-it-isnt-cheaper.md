@@ -9,7 +9,7 @@ tags:
 - e-reader
 - Page to Screen
 - e-book
-modified_date: '2011-03-02T15:33:57.650-05:00'
+modified_datetime: '2011-03-02T15:33:57.650-05:00'
 thumbnail: http://1.bp.blogspot.com/-oRTfe5gHQw8/TW6gbt2WuxI/AAAAAAAAANQ/3jbOS2gWDr4/s72-c/ipadbook.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3787351745268508640
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/nice-move-random-house-it-isnt-cheaper.html

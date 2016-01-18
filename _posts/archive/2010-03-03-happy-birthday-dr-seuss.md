@@ -4,7 +4,7 @@ title: Happy Birthday, Dr. Seuss!
 date: '2010-03-03T11:36:00.004-05:00'
 author: Emily
 tags: 
-modified_date: '2010-03-05T14:17:36.237-05:00'
+modified_datetime: '2010-03-05T14:17:36.237-05:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/S46RN7PshCI/AAAAAAAAAAc/eVTG8od1PU8/s72-c/drseuss.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7079894561492364588
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/happy-birthday-dr-seuss.html

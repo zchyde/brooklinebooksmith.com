@@ -5,7 +5,7 @@ date: '2011-10-28T08:00:00.000-04:00'
 author: Natasha
 tags:
 - used books
-modified_date: '2011-10-28T08:00:02.472-04:00'
+modified_datetime: '2011-10-28T08:00:02.472-04:00'
 thumbnail: http://1.bp.blogspot.com/-yXxaYB68vfg/TqNOuaTzxJI/AAAAAAAAAJs/vo44hi75H9c/s72-c/faster.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6230643538340067027
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/obsession-by-calvin-coolidge.html

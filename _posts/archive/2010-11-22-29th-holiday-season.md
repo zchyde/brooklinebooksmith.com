@@ -4,7 +4,7 @@ title: 29th Holiday Season
 date: '2010-11-22T22:16:00.004-05:00'
 author: dana brigham
 tags: 
-modified_date: '2010-11-23T09:19:53.452-05:00'
+modified_datetime: '2010-11-23T09:19:53.452-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7293743388624609483
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/29th-holiday-season.html
 ---

@@ -7,7 +7,7 @@ tags:
 - animals in translation
 - art
 - art books
-modified_date: '2012-01-23T15:36:58.824-05:00'
+modified_datetime: '2012-01-23T15:36:58.824-05:00'
 thumbnail: http://4.bp.blogspot.com/-MDgXu9HC8tE/Tx29G28hwwI/AAAAAAAAAVE/jw1D0fsvHr4/s72-c/9783939566366.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5871589033271710157
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/herakut-why-you-need-to-know-that-name.html

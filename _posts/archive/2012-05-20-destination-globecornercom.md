@@ -9,7 +9,7 @@ tags:
 - Globe Corner Bookstore
 - Guide Books
 - Wall Maps
-modified_date: '2012-05-20T14:52:08.969-04:00'
+modified_datetime: '2012-05-20T14:52:08.969-04:00'
 thumbnail: http://4.bp.blogspot.com/-iKqD7bduC6E/T7k6kPRND0I/AAAAAAAAAdQ/SKNEZKf7xUg/s72-c/globetravel15-e1337468716942-300x184.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1355158050357302654
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/destination-globecornercom.html

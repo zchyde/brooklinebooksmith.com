@@ -8,7 +8,7 @@ tags:
 - used books
 - get well soon
 - therapy
-modified_date: '2013-03-01T12:56:07.689-05:00'
+modified_datetime: '2013-03-01T12:56:07.689-05:00'
 thumbnail: http://3.bp.blogspot.com/-z2298nQT9hI/US-maFFNGrI/AAAAAAAABKk/A0klGh75P-I/s72-c/04BOOK2-articleInline-v2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2295723862630915708
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/theres-used-book-for-that.html

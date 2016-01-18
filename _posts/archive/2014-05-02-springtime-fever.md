@@ -11,7 +11,7 @@ tags:
 - feverstate
 - empathy exams
 - i had some weird feverdreams too
-modified_date: '2014-05-02T11:44:58.108-04:00'
+modified_datetime: '2014-05-02T11:44:58.108-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6269816063127468776
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/springtime-fever.html
 ---

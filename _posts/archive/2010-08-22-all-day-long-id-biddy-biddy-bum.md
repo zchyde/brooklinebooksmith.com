@@ -5,7 +5,7 @@ date: '2010-08-22T16:41:00.005-04:00'
 author: Kate Robinson
 tags:
 - working on the weekends...magazines
-modified_date: '2010-08-22T17:16:08.568-04:00'
+modified_datetime: '2010-08-22T17:16:08.568-04:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/THGL4rAzB5I/AAAAAAAAAHo/AtepkekpSPg/s72-c/fiddler.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4695389279085696594
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/all-day-long-id-biddy-biddy-bum.html

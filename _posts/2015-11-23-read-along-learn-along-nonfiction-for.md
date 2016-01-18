@@ -14,7 +14,7 @@ tags:
 - alex is blogging
 - kids books
 - ta-nehisi coates
-modified_date: '2015-11-23T10:45:18.273-05:00'
+modified_datetime: '2015-11-23T10:45:18.273-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9214434478182440403
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/11/read-along-learn-along-nonfiction-for.html
 ---

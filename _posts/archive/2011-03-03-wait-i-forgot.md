@@ -5,7 +5,7 @@ date: '2011-03-03T14:00:00.000-05:00'
 author: Zoe Hyde
 tags:
 - Jodi Picoult
-modified_date: '2011-03-03T15:22:01.065-05:00'
+modified_datetime: '2011-03-03T15:22:01.065-05:00'
 thumbnail: http://2.bp.blogspot.com/-w_F-rulOKCg/TW_4ScVzKhI/AAAAAAAAAC0/54r4FB5Bm-4/s72-c/February102010409pmhouserules.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-377459779787806906
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/wait-i-forgot.html

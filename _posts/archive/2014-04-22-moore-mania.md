@@ -7,7 +7,7 @@ tags:
 - jamie
 - hi jess
 - christopher moore
-modified_date: '2014-04-22T15:01:54.808-04:00'
+modified_datetime: '2014-04-22T15:01:54.808-04:00'
 thumbnail: http://1.bp.blogspot.com/-FlglMDRWvRY/U1ad0mh_r6I/AAAAAAAACrw/g2ejYbrtFrI/s72-c/blog5.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8263298611937317298
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/moore-mania.html

@@ -4,7 +4,7 @@ title: Memory and Books
 date: '2011-02-04T00:47:00.002-05:00'
 author: Evan
 tags: 
-modified_date: '2011-02-04T01:32:30.709-05:00'
+modified_datetime: '2011-02-04T01:32:30.709-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8300281548197666489
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/memory-and-books.html
 ---

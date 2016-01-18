@@ -8,7 +8,7 @@ tags:
 - bookmarks
 - if you use a brookline booksmith bookmark you're obviously my favorite but let's
   spread the love
-modified_date: '2012-12-30T21:05:49.443-05:00'
+modified_datetime: '2012-12-30T21:05:49.443-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7279225926014596424
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/what-your-bookmark-reveals-about-you.html
 ---

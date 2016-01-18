@@ -13,7 +13,7 @@ tags:
 - summertime
 - beach reads
 - virginia woolf
-modified_date: '2013-08-06T09:00:07.600-04:00'
+modified_datetime: '2013-08-06T09:00:07.600-04:00'
 thumbnail: http://4.bp.blogspot.com/-fUvFslcPjPk/UgAoUo9sKsI/AAAAAAAAAtY/ZqxdQLkAoiQ/s72-c/16171258.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4346535530277909076
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/beach-reads-to-sink-or-swim-to.html

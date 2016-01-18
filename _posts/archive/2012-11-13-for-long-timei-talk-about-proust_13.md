@@ -9,7 +9,7 @@ tags:
 - In Search of Lost Time
 - Proust Club
 - We Love Madeleines
-modified_date: '2012-11-13T13:07:58.997-05:00'
+modified_datetime: '2012-11-13T13:07:58.997-05:00'
 thumbnail: http://4.bp.blogspot.com/-rGiEhkCPgzw/UKF4BRhNxtI/AAAAAAAAAkw/DHyEUMpnGuQ/s72-c/Tennis+%25281%2529.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6521935481828233638
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/for-long-timei-talk-about-proust_13.html

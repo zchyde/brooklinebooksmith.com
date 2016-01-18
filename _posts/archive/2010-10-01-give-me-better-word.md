@@ -5,7 +5,7 @@ date: '2010-10-01T13:59:00.002-04:00'
 author: Paul Theriault
 tags:
 - blog is an ugly word.
-modified_date: '2010-10-01T19:23:16.937-04:00'
+modified_datetime: '2010-10-01T19:23:16.937-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2782952847968067290
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/give-me-better-word.html
 ---

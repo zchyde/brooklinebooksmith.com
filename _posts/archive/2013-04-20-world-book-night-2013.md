@@ -5,7 +5,7 @@ date: '2013-04-20T09:37:00.000-04:00'
 author: Natasha
 tags:
 - world book night
-modified_date: '2013-04-20T09:37:00.388-04:00'
+modified_datetime: '2013-04-20T09:37:00.388-04:00'
 thumbnail: http://3.bp.blogspot.com/-kANWg_aRhVY/UXAdWA-K-eI/AAAAAAAABO8/dPhMnnUBa-A/s72-c/WBN_2013_logo.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-92521613974767200
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/world-book-night-2013.html

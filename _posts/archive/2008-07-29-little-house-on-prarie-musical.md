@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Kid Stuff
 - Other Cool Stuff
-modified_date: '2008-12-08T23:03:56.196-05:00'
+modified_datetime: '2008-12-08T23:03:56.196-05:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/SI90Tkva8SI/AAAAAAAAAHA/A23dqWYknxg/s72-c/lh2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5392050833177593363
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/07/little-house-on-prarie-musical.html

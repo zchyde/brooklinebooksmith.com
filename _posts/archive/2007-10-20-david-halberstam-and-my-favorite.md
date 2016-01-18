@@ -5,7 +5,7 @@ date: '2007-10-20T21:09:00.000-04:00'
 author: Lori
 tags:
 - Not Fiction
-modified_date: '2007-10-20T22:46:55.788-04:00'
+modified_datetime: '2007-10-20T22:46:55.788-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-235906826624271545
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/david-halberstam-and-my-favorite.html
 ---

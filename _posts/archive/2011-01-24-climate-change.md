@@ -4,7 +4,7 @@ title: Climate Change
 date: '2011-01-24T10:27:00.002-05:00'
 author: dana brigham
 tags: 
-modified_date: '2011-01-24T11:08:54.651-05:00'
+modified_datetime: '2011-01-24T11:08:54.651-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-717896946535277950
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/climate-change.html
 ---

@@ -7,7 +7,7 @@ tags:
 - vacation
 - children's books
 - short posts
-modified_date: '2013-07-08T09:20:00.267-04:00'
+modified_datetime: '2013-07-08T09:20:00.267-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4766472879983647204
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/i-hear-its-below-90-in-canada.html
 ---

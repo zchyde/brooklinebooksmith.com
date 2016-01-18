@@ -4,7 +4,7 @@ title: Rockets - Red Glare
 date: '2011-07-08T02:02:00.002-04:00'
 author: Zoe Hyde
 tags:
-modified_date: '2011-07-08T02:19:03.356-04:00'
+modified_datetime: '2011-07-08T02:19:03.356-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3359569862877402126
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/rockets-red-glare.html
 ---

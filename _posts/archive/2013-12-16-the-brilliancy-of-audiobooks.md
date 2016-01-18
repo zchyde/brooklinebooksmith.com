@@ -5,7 +5,7 @@ date: '2013-12-16T09:00:00.000-05:00'
 author: Amy
 tags:
 - audiobooks
-modified_date: '2013-12-16T09:00:07.064-05:00'
+modified_datetime: '2013-12-16T09:00:07.064-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8238353661773687062
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/12/the-brilliancy-of-audiobooks.html
 ---

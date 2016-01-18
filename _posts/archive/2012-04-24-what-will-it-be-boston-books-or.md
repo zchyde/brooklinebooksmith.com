@@ -14,7 +14,7 @@ tags:
 - James T. Fields
 - Edgar Allan Poe
 - Tell Tale Tacos
-modified_date: '2012-04-24T11:54:47.927-04:00'
+modified_datetime: '2012-04-24T11:54:47.927-04:00'
 thumbnail: http://1.bp.blogspot.com/-3lbXwdMxoww/T5SIKPg1cDI/AAAAAAAAAcE/w862DJiQLhY/s72-c/edgar-allan-poe1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5435225216727152196
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/what-will-it-be-boston-books-or.html

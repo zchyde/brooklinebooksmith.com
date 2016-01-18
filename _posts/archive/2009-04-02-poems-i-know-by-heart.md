@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Poetry;
 - Confessions
-modified_date: '2009-04-06T19:14:54.103-04:00'
+modified_datetime: '2009-04-06T19:14:54.103-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1631438101914822103
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/04/poems-i-know-by-heart.html
 ---

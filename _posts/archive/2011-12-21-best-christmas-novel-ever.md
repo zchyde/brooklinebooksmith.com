@@ -4,7 +4,7 @@ title: Best Christmas Novel Ever
 date: '2011-12-21T18:04:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2011-12-21T18:04:33.738-05:00'
+modified_datetime: '2011-12-21T18:04:33.738-05:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TQmWCYeoeXI/AAAAAAAAANY/ihfsEAC7gss/s72-c/christmas+p.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2286455572298913428
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/best-christmas-novel-ever.html

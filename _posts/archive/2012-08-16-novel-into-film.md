@@ -8,7 +8,7 @@ tags:
 - novel into film
 - the great gatsby
 - cloud atlas
-modified_date: '2012-08-17T03:56:39.769-04:00'
+modified_datetime: '2012-08-17T03:56:39.769-04:00'
 thumbnail: http://1.bp.blogspot.com/--rYtDOxRsO8/UC1CKO1v8zI/AAAAAAAANyg/BQ5aZICkR7o/s72-c/cloud+atlas.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8667814610919720101
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/novel-into-film.html

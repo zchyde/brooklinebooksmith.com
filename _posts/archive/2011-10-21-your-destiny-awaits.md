@@ -5,7 +5,7 @@ date: '2011-10-21T08:00:00.000-04:00'
 author: Natasha
 tags:
 - used books
-modified_date: '2011-10-25T11:54:30.805-04:00'
+modified_datetime: '2011-10-25T11:54:30.805-04:00'
 thumbnail: http://3.bp.blogspot.com/-6mMoZVIkSMU/Tp2i03GStPI/AAAAAAAAAJI/zxdX0GFSEG4/s72-c/threemins.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5320427520921591180
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/your-destiny-awaits.html

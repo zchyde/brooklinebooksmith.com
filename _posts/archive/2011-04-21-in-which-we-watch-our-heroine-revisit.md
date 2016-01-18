@@ -4,7 +4,7 @@ title: In which We Watch Our Heroine Revisit Childhood Drama in a Public Forum..
 date: '2011-04-21T11:56:00.007-04:00'
 author: Zoe Hyde
 tags:
-modified_date: '2011-04-21T20:46:39.855-04:00'
+modified_datetime: '2011-04-21T20:46:39.855-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3379625857261447925
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/in-which-we-watch-our-heroine-revisit.html
 ---

@@ -4,7 +4,7 @@ title: Creating a Feast
 date: '2012-04-25T20:23:00.002-04:00'
 author: Emily
 tags: 
-modified_date: '2012-04-25T20:23:44.458-04:00'
+modified_datetime: '2012-04-25T20:23:44.458-04:00'
 thumbnail: http://4.bp.blogspot.com/-r6adJ9rswNg/T5iTLxg3o1I/AAAAAAAAAW4/HJ-oTeTNC2E/s72-c/51ZUMsk2kTL__SL500_AA300_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6176761180890458709
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/creating-feast.html

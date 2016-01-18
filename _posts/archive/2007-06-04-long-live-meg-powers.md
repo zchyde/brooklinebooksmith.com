@@ -5,7 +5,7 @@ date: '2007-06-04T16:39:00.000-04:00'
 author: Lori
 tags:
 - Kid Stuff
-modified_date: '2008-12-08T23:04:01.198-05:00'
+modified_datetime: '2008-12-08T23:04:01.198-05:00'
 thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/RmSHxLwLziI/AAAAAAAAABw/J5BMyFKqIDQ/s72-c/presidents+dauther.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5231149990989657458
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/long-live-meg-powers.html

@@ -4,7 +4,7 @@ title: Aging, books
 date: '2010-04-08T11:25:00.002-04:00'
 author: Katie
 tags: 
-modified_date: '2010-04-08T17:20:02.179-04:00'
+modified_datetime: '2010-04-08T17:20:02.179-04:00'
 thumbnail: http://1.bp.blogspot.com/_LPi8W0DZBFE/S7Sn6Bo6t5I/AAAAAAAAALM/-5-6qet-Xog/s72-c/Sounds+Boring.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2537064953830677070
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/aging-books.html

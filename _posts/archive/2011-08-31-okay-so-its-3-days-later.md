@@ -4,7 +4,7 @@ title: Okay, so it's 3 days later...
 date: '2011-08-31T19:42:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-08-31T19:42:24.644-04:00'
+modified_datetime: '2011-08-31T19:42:24.644-04:00'
 thumbnail: http://2.bp.blogspot.com/-KzydZ0IK0Rk/Tl7GkCapRtI/AAAAAAAAARE/hkj1qp4FRKE/s72-c/flipout-600.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9121914212373029296
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/okay-so-its-3-days-later.html

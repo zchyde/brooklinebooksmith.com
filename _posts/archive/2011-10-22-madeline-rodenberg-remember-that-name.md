@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - children
 - Poetry
-modified_date: '2011-10-22T14:14:11.259-04:00'
+modified_datetime: '2011-10-22T14:14:11.259-04:00'
 thumbnail: http://2.bp.blogspot.com/-x9z-Nrkss8Y/TqMG1HbI-6I/AAAAAAAAAUc/0oh7lwkttNg/s72-c/deer-10.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8931746938789808252
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/madeline-rodenberg-remember-that-name.html

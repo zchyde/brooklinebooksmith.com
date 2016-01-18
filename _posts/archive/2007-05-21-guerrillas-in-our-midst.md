@@ -5,7 +5,7 @@ date: '2007-05-21T14:18:00.000-04:00'
 author: Lori
 tags:
 - Other Cool Stuff
-modified_date: '2007-05-21T16:31:20.835-04:00'
+modified_datetime: '2007-05-21T16:31:20.835-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6343888972242458877
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/guerrillas-in-our-midst.html
 ---

@@ -10,7 +10,7 @@ tags:
 - robert mccloskey
 - Chronicles of Narnia
 - good bye post
-modified_date: '2013-06-17T17:35:22.931-04:00'
+modified_datetime: '2013-06-17T17:35:22.931-04:00'
 thumbnail: http://1.bp.blogspot.com/-NErGLjtqRlg/Ub8gYaADe2I/AAAAAAAAAg0/zc_gQZrNyJU/s72-c/blog+1.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5085255367537266011
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/in-which-every-chapter-is-better-than.html

@@ -19,7 +19,7 @@ tags:
 - prague
 - travel
 - quit stalin
-modified_date: '2012-03-02T12:30:00.864-05:00'
+modified_datetime: '2012-03-02T12:30:00.864-05:00'
 thumbnail: http://4.bp.blogspot.com/-40VWapholAA/T06s5dhOTzI/AAAAAAAAAU8/ocXeN6hLxnU/s72-c/279923_10150329209395520_716350519_9727410_5319730_o.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8344015144556197588
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/czech-it-out.html

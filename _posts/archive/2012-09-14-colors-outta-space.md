@@ -9,7 +9,7 @@ tags:
 - lovecraft
 - used books
 - Collecting
-modified_date: '2012-09-14T13:50:36.165-04:00'
+modified_datetime: '2012-09-14T13:50:36.165-04:00'
 thumbnail: http://1.bp.blogspot.com/-ipoxzIUx4Lw/UFNt1sseltI/AAAAAAAAA0w/pVGG2k1Yvo0/s72-c/lovecraft.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-39149780941479394
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/colors-outta-space.html

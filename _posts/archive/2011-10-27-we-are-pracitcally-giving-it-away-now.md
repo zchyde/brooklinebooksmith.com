@@ -4,7 +4,7 @@ title: We Are Pracitcally GIVING It Away Now That We're 50...
 date: '2011-10-27T19:04:00.002-04:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-10-27T19:08:27.767-04:00'
+modified_datetime: '2011-10-27T19:08:27.767-04:00'
 thumbnail: http://4.bp.blogspot.com/-CfxuO-fPLO4/TqnjB59dDgI/AAAAAAAAAE4/uL_4yFGctOw/s72-c/AT_MagentFifty.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8796053535723080618
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/we-are-pracitcally-giving-it-away-now.html

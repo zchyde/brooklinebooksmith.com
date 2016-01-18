@@ -4,7 +4,7 @@ title: don't be sorry.
 date: '2011-04-15T21:57:00.002-04:00'
 author: Paul Theriault
 tags: 
-modified_date: '2011-04-15T22:32:05.797-04:00'
+modified_datetime: '2011-04-15T22:32:05.797-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8378626596621362575
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/dont-be-sorry.html
 ---

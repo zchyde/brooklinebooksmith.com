@@ -7,7 +7,7 @@ tags:
 - Fifty shades of grey
 - used books
 - adults only
-modified_date: '2012-06-01T10:44:00.191-04:00'
+modified_datetime: '2012-06-01T10:44:00.191-04:00'
 thumbnail: http://1.bp.blogspot.com/-k-qpm7OBl7c/T8I8MB5ZK9I/AAAAAAAAAdo/yulhn1bajQ8/s72-c/Photo+May+27,+10+34+33+AM.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7625053108248116531
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/hittin-it-lit.html

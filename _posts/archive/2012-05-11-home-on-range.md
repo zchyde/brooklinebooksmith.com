@@ -13,7 +13,7 @@ tags:
 - idaho
 - nascar
 - candy
-modified_date: '2012-05-11T10:30:01.908-04:00'
+modified_datetime: '2012-05-11T10:30:01.908-04:00'
 thumbnail: http://2.bp.blogspot.com/-3YcCfsNJh4o/T6qB0qm_OaI/AAAAAAAAAcc/cRhpEPSGe_Q/s72-c/idaho-wall-map-lg.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1883818227892631203
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/home-on-range.html

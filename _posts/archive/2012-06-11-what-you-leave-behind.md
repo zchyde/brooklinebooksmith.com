@@ -4,7 +4,7 @@ title: What you leave behind
 date: '2012-06-11T13:48:00.001-04:00'
 author: Kate Robinson
 tags: 
-modified_date: '2012-06-11T13:57:56.764-04:00'
+modified_datetime: '2012-06-11T13:57:56.764-04:00'
 thumbnail: http://4.bp.blogspot.com/-mWvzOFhLxjQ/T9Yo20EFn3I/AAAAAAAAAXo/D8K7ltmlJkw/s72-c/slide_193868_424071_huge.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6260641543022168781
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/what-you-leave-behind.html

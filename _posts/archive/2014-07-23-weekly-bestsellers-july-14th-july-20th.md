@@ -8,7 +8,7 @@ tags:
 - deborah harkness
 - jhumpa lahiri
 - the book of life
-modified_date: '2014-07-23T12:55:41.569-04:00'
+modified_datetime: '2014-07-23T12:55:41.569-04:00'
 thumbnail: http://2.bp.blogspot.com/-A8EySpdqyYQ/U82D6CcNkAI/AAAAAAAAQ8M/E_knpquq9UQ/s72-c/book+of+life.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1076406521520532041
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/weekly-bestsellers-july-14th-july-20th.html

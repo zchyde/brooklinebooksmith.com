@@ -11,7 +11,7 @@ tags:
 - hi jess
 - Events
 - pitchfork
-modified_date: '2014-03-12T15:29:56.965-04:00'
+modified_datetime: '2014-03-12T15:29:56.965-04:00'
 thumbnail: http://4.bp.blogspot.com/-aOgO30SgT-8/UyCoPwaJXqI/AAAAAAAACoA/s9w_jqjr9Qg/s72-c/pitchfork.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2176028452563411689
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/03/love-love-love.html

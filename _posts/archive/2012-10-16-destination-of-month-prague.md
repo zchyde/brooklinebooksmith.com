@@ -8,7 +8,7 @@ tags:
 - globecorner.com
 - prague
 - Globe Corner Travel Annex
-modified_date: '2012-10-16T09:00:13.448-04:00'
+modified_datetime: '2012-10-16T09:00:13.448-04:00'
 thumbnail: http://3.bp.blogspot.com/-EHEgumt79t0/UHyLL9N-S-I/AAAAAAAAAiI/6XwOEZp91iY/s72-c/unbearable_title_graphic.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4490179697798807084
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/destination-of-month-prague.html

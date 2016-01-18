@@ -6,7 +6,7 @@ author: Emily
 tags:
 - beginning readers
 - learning to read
-modified_date: '2010-06-09T21:45:39.098-04:00'
+modified_datetime: '2010-06-09T21:45:39.098-04:00'
 thumbnail: http://1.bp.blogspot.com/_88jO9uLLIi8/TBA71JSq_WI/AAAAAAAAADQ/cLZueWw_9T0/s72-c/IMG_4266.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9000596939627597175
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/learning-to-read.html

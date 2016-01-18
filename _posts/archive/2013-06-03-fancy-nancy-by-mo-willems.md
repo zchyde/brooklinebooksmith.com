@@ -11,7 +11,7 @@ tags:
 - mash-ups
 - Mo Willems
 - young adult
-modified_date: '2013-06-03T15:45:55.756-04:00'
+modified_datetime: '2013-06-03T15:45:55.756-04:00'
 thumbnail: http://4.bp.blogspot.com/-KCJhNCpNFCE/UazH9LXtPMI/AAAAAAAAAe8/P1cYxlN5oCk/s72-c/fancy+nancy.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-895645719304741132
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/fancy-nancy-by-mo-willems.html

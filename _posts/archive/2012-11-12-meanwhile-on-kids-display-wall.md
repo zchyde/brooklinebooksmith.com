@@ -4,7 +4,7 @@ title: Meanwhile, on the Kids' Display Wall...
 date: '2012-11-12T17:21:00.002-05:00'
 author: Shoshana
 tags: 
-modified_date: '2012-11-12T17:21:46.490-05:00'
+modified_datetime: '2012-11-12T17:21:46.490-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5101581218912317130
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/meanwhile-on-kids-display-wall.html
 ---

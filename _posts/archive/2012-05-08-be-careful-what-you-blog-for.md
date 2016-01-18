@@ -4,7 +4,7 @@ title: Be Careful What You Blog For
 date: '2012-05-08T10:26:00.002-04:00'
 author: Jodie
 tags: 
-modified_date: '2012-05-08T10:26:50.829-04:00'
+modified_datetime: '2012-05-08T10:26:50.829-04:00'
 thumbnail: http://1.bp.blogspot.com/-bLU7R6nP5Vc/T6hdk_u0YUI/AAAAAAAAAc8/o5aENkK22T8/s72-c/mini_500_5601_1209177392211052.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8689590410539559019
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/be-careful-what-you-blog-for.html

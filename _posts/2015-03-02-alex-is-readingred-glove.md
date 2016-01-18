@@ -5,7 +5,7 @@ date: '2015-03-02T13:08:00.000-05:00'
 author: Alex S
 tags:
 - alex is reading
-modified_date: '2015-03-02T13:08:00.724-05:00'
+modified_datetime: '2015-03-02T13:08:00.724-05:00'
 thumbnail: http://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s72-c/red%2Bglove.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8115528031677246661
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingred-glove.html

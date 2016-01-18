@@ -10,7 +10,7 @@ tags:
 - Desks
 - Free is awesome
 - distractions
-modified_date: '2010-03-08T00:32:19.376-05:00'
+modified_datetime: '2010-03-08T00:32:19.376-05:00'
 thumbnail: http://1.bp.blogspot.com/_lonf0gt6RtI/S5SLxsp4-jI/AAAAAAAAAro/ky8mEJURiQM/s72-c/4416303616_446e98f7aa.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6644390624560795307
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/this-stack-of-books-on-my-desk.html

@@ -12,7 +12,7 @@ tags:
 - Mysteries
 - paperbacks
 - Fiction
-modified_date: '2012-07-20T11:30:01.424-04:00'
+modified_datetime: '2012-07-20T11:30:01.424-04:00'
 thumbnail: http://4.bp.blogspot.com/-q3c6J8VaJ6w/UAiGi6MZU8I/AAAAAAAAAkg/_5htCK7lnl8/s72-c/pb4.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8319016318184438423
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/paperback-writer.html

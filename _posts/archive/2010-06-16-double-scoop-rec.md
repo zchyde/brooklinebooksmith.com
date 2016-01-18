@@ -8,7 +8,7 @@ tags:
 - Pete the Cat
 - Schneider Award
 - Recs
-modified_date: '2010-06-16T08:44:53.118-04:00'
+modified_datetime: '2010-06-16T08:44:53.118-04:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TBjDLkMN9uI/AAAAAAAAADg/bCM14djhtHA/s72-c/9780375863448.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3816243232286204009
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/double-scoop-rec.html

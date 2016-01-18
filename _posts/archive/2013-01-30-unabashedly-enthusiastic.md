@@ -11,7 +11,7 @@ tags:
 - ron currie jr
 - everything matters
 - flimsy plastic miracles
-modified_date: '2013-01-30T11:11:16.873-05:00'
+modified_datetime: '2013-01-30T11:11:16.873-05:00'
 thumbnail: http://4.bp.blogspot.com/-8SlxSbUi4lQ/UQcUt-kRfMI/AAAAAAAAAHc/_s8F8YeueVo/s72-c/Flimsy+Little+Plastic+Miracles+Cover+Hi+res.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2918317656921842430
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/unabashedly-enthusiastic.html

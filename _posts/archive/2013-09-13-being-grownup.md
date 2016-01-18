@@ -8,7 +8,7 @@ tags:
 - used books
 - tarot cards
 - flossing
-modified_date: '2013-09-13T11:00:00.992-04:00'
+modified_datetime: '2013-09-13T11:00:00.992-04:00'
 thumbnail: http://1.bp.blogspot.com/-mYM0GdI8veA/UjIavxdst0I/AAAAAAAABY0/s0GlJMdqCXc/s72-c/emperor.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7637821535270476672
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/being-grownup.html

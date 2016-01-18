@@ -14,7 +14,7 @@ tags:
 - funerals
 - sjon
 - youlo
-modified_date: '2013-07-14T18:39:26.265-04:00'
+modified_datetime: '2013-07-14T18:39:26.265-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7231096371458474010
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/5-books-to-be-caught-dead-with.html
 ---

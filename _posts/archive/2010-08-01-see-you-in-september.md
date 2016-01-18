@@ -5,7 +5,7 @@ date: '2010-08-01T10:58:00.003-04:00'
 author: Katie
 tags:
 - Events
-modified_date: '2010-08-01T12:11:33.954-04:00'
+modified_datetime: '2010-08-01T12:11:33.954-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6071675727975965588
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/see-you-in-september.html
 ---

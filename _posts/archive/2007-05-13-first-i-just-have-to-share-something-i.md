@@ -5,7 +5,7 @@ date: '2007-05-13T19:53:00.000-04:00'
 author: Lori
 tags:
 - Artsy-Fartsy
-modified_date: '2007-05-15T17:58:04.500-04:00'
+modified_datetime: '2007-05-15T17:58:04.500-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5349882265558020047
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/first-i-just-have-to-share-something-i.html
 ---

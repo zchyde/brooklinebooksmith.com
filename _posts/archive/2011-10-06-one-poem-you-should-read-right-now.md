@@ -8,7 +8,7 @@ tags:
 - human suffering
 - April Bernard
 - Poetry
-modified_date: '2011-10-06T15:15:00.508-04:00'
+modified_datetime: '2011-10-06T15:15:00.508-04:00'
 thumbnail: http://3.bp.blogspot.com/-suoH2AYxxO0/To36gnedciI/AAAAAAAAAUU/0Xe76qqwUjA/s72-c/april.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6344014916453662471
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/one-poem-you-should-read-right-now.html

@@ -8,7 +8,7 @@ tags:
 - flash poetry contest
 - Funny
 - Booksmith
-modified_date: '2011-06-14T15:29:56.224-04:00'
+modified_datetime: '2011-06-14T15:29:56.224-04:00'
 thumbnail: http://2.bp.blogspot.com/-j05LUNWmKqY/Tfe1uomGU8I/AAAAAAAAASk/xsN3bx85GaU/s72-c/House-Republicans.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6269861650725328742
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/3rd-place-in-our-flash-poetry-contest.html

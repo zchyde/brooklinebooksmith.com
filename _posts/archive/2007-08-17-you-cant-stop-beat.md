@@ -7,7 +7,7 @@ tags:
 - Other Cool Stuff
 - Not Fiction
 - Confessions
-modified_date: '2007-10-12T14:07:41.951-04:00'
+modified_datetime: '2007-10-12T14:07:41.951-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1529276114141422854
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/08/you-cant-stop-beat.html
 ---

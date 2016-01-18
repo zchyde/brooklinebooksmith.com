@@ -8,7 +8,7 @@ tags:
 - erin morgenstern
 - the night circus
 - the huffington post
-modified_date: '2012-07-08T19:20:26.750-04:00'
+modified_datetime: '2012-07-08T19:20:26.750-04:00'
 thumbnail: http://1.bp.blogspot.com/-yWutkTEqdbk/T_nloDEN0sI/AAAAAAAANtw/5HQGPcJIinc/s72-c/night+circus.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6544531307135126888
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/our-night-circus.html

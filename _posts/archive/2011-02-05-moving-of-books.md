@@ -4,7 +4,7 @@ title: The Moving of the Books.
 date: '2011-02-05T13:31:00.005-05:00'
 author: Katie
 tags: 
-modified_date: '2011-02-06T13:38:14.930-05:00'
+modified_datetime: '2011-02-06T13:38:14.930-05:00'
 thumbnail: http://1.bp.blogspot.com/_31I5CF0nua0/TU7kA4qpFRI/AAAAAAAAAB0/-ZVt1-hfWw4/s72-c/diybookshelves2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8545505052715544351
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/moving-of-books.html

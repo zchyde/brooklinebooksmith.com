@@ -4,7 +4,7 @@ title: Summer Reads
 date: '2012-06-20T19:44:00.001-04:00'
 author: Emily
 tags: 
-modified_date: '2012-06-20T19:44:10.228-04:00'
+modified_datetime: '2012-06-20T19:44:10.228-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6751791587259377582
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/summer-reads.html
 ---

@@ -9,7 +9,7 @@ tags:
 - Insurgent
 - kidsmith
 - Giveaway
-modified_date: '2015-03-16T09:20:14.615-04:00'
+modified_datetime: '2015-03-16T09:20:14.615-04:00'
 thumbnail: http://4.bp.blogspot.com/-HwdYdEfThFU/VQXIk6gccqI/AAAAAAAAAvk/wcd-myT2Vsk/s72-c/WP_20150315_13_34_09_Pro.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-174588098477623959
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/kidsmith-insurgent-poster-giveaway.html

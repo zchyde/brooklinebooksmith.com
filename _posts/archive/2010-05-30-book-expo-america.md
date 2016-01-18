@@ -4,7 +4,7 @@ title: Book Expo America
 date: '2010-05-30T17:07:00.002-04:00'
 author: dana brigham
 tags: 
-modified_date: '2010-05-30T17:41:04.953-04:00'
+modified_datetime: '2010-05-30T17:41:04.953-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1697513987754741942
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/book-expo-america.html
 ---

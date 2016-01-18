@@ -4,7 +4,7 @@ title: Handselling.  Not for the hesitant or unassuming.
 date: '2010-06-18T17:44:00.005-04:00'
 author: Paul Theriault
 tags: 
-modified_date: '2010-06-18T18:53:52.758-04:00'
+modified_datetime: '2010-06-18T18:53:52.758-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3516207037013634359
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/intro-to-advanced-bookselling-sec.html
 ---

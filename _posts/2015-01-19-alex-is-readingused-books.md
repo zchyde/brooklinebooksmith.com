@@ -7,7 +7,7 @@ tags:
 - alex is reading
 - ubc
 - kids books
-modified_date: '2015-01-19T09:04:06.935-05:00'
+modified_datetime: '2015-01-19T09:04:06.935-05:00'
 thumbnail: http://1.bp.blogspot.com/-M4RlYKNtoq4/VLvSOkpluHI/AAAAAAAAACA/XSbvCL39Lyg/s72-c/IMG_0034.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6083596961766646836
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/01/alex-is-readingused-books.html

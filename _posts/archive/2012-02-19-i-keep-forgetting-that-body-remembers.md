@@ -8,7 +8,7 @@ tags:
 - trauma
 - self-knowledge
 - Self Help
-modified_date: '2012-02-19T15:09:21.286-05:00'
+modified_datetime: '2012-02-19T15:09:21.286-05:00'
 thumbnail: http://3.bp.blogspot.com/-tv2evi1ujow/T0EcZkbxq9I/AAAAAAAAAWw/xxDPf0oahFg/s72-c/9781556439698.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-931460780505108333
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/i-keep-forgetting-that-body-remembers.html

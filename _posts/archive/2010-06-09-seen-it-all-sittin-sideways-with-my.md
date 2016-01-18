@@ -5,7 +5,7 @@ date: '2010-06-09T07:02:00.009-04:00'
 author: Paul Theriault
 tags:
 - bus commute 66 dudley coolidge race courtesy acknowledgement assumptions understanding
-modified_date: '2010-06-09T10:19:27.580-04:00'
+modified_datetime: '2010-06-09T10:19:27.580-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4177760837461450714
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/seen-it-all-sittin-sideways-with-my.html
 ---

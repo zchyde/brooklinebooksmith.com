@@ -4,7 +4,7 @@ title: Writing Home
 date: '2012-04-10T15:22:00.000-04:00'
 author: Jodie
 tags: 
-modified_date: '2012-04-10T17:54:47.241-04:00'
+modified_datetime: '2012-04-10T17:54:47.241-04:00'
 thumbnail: http://3.bp.blogspot.com/-KBpMgFKLLds/T4H3al1uTsI/AAAAAAAAAak/0xRqquZh6gc/s72-c/Strayed_jacket_300x447.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-324234819614662560
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/writing-home.html

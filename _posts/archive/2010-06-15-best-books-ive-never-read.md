@@ -4,7 +4,7 @@ title: The Best Books I've Never Read
 date: '2010-06-15T17:31:00.002-04:00'
 author: Eugenia
 tags: 
-modified_date: '2010-06-15T17:57:44.279-04:00'
+modified_datetime: '2010-06-15T17:57:44.279-04:00'
 thumbnail: http://4.bp.blogspot.com/_wjUuRMMlrgk/TBf3NB0OMSI/AAAAAAAAAPY/Uon4LoHeunM/s72-c/vampire_bill_read.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8859879096876461578
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/best-books-ive-never-read.html

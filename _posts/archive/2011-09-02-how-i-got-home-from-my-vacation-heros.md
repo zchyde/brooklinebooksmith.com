@@ -4,7 +4,7 @@ title: 'How I Got Home From My Vacation: A Hero''s Journey'
 date: '2011-09-02T01:08:00.003-04:00'
 author: Zoe Hyde
 tags:
-modified_date: '2011-09-02T01:31:00.928-04:00'
+modified_datetime: '2011-09-02T01:31:00.928-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4361871446559168990
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/how-i-got-home-from-my-vacation-heros.html
 ---

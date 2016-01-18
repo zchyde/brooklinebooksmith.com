@@ -7,7 +7,7 @@ tags:
 - christmas
 - christianity
 - nativity
-modified_date: '2010-12-15T23:41:54.207-05:00'
+modified_datetime: '2010-12-15T23:41:54.207-05:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TQmVBYqVcLI/AAAAAAAAANI/i0_1l2aOeR4/s72-c/The-Christmas-Miracle-of-Jonathan-Toomey-with-CD-Gift-Edition-0763636290-L.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4313349877745858662
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/come-to-nativity.html

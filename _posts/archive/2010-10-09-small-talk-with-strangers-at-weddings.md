@@ -4,7 +4,7 @@ title: Small talk with strangers at weddings --or-- is girdle really the right w
 date: '2010-10-09T12:38:00.003-04:00'
 author: Kate Robinson
 tags: 
-modified_date: '2010-10-09T13:04:03.704-04:00'
+modified_datetime: '2010-10-09T13:04:03.704-04:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/TLCa5qnfqqI/AAAAAAAAAIw/9_VPGBT81A4/s72-c/080828_b_muppets.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6296573361738443222
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/small-talk-with-strangers-at-weddings.html

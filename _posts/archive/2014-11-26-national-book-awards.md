@@ -8,7 +8,7 @@ tags:
 - literature
 - Ursula Le Guin
 - Neil Gaiman
-modified_date: '2014-12-03T11:52:24.629-05:00'
+modified_datetime: '2014-12-03T11:52:24.629-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3116979138740312553
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/national-book-awards.html
 ---

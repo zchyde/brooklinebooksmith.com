@@ -10,7 +10,7 @@ tags:
 - Middle grade
 - pride month
 - young adult
-modified_date: '2015-06-01T10:41:42.643-04:00'
+modified_datetime: '2015-06-01T10:41:42.643-04:00'
 thumbnail: http://3.bp.blogspot.com/-0A_BfyKxavU/VWuEFsHJdqI/AAAAAAAAAII/rZ0A4bR16QU/s72-c/IMG_0599.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4793795155624291865
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/06/alex-is-readingbooks-full-of-pride.html

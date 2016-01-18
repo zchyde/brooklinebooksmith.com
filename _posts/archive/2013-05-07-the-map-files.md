@@ -11,7 +11,7 @@ tags:
 - travel journals
 - the map files
 - travel accessories
-modified_date: '2013-05-07T09:00:16.105-04:00'
+modified_datetime: '2013-05-07T09:00:16.105-04:00'
 thumbnail: http://4.bp.blogspot.com/-a2yfZcZIqTQ/UYf9IkanYaI/AAAAAAAAAnk/11Y0D8I8emc/s72-c/travel+002.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3941596449413797262
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/the-map-files.html

@@ -4,7 +4,7 @@ title: A Blank Slate
 date: '2007-04-27T16:16:00.000-04:00'
 author: Lori
 tags:
-modified_date: '2007-04-27T16:24:58.580-04:00'
+modified_datetime: '2007-04-27T16:24:58.580-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6590078003920717401
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/04/blank-slate.html
 ---

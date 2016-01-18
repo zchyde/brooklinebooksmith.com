@@ -9,7 +9,7 @@ tags:
 - kate robinson
 - writers' room of boston
 - readings
-modified_date: '2012-06-22T10:42:19.434-04:00'
+modified_datetime: '2012-06-22T10:42:19.434-04:00'
 thumbnail: http://1.bp.blogspot.com/-lA7NBSfe3jw/T-R69UP_9-I/AAAAAAAANeM/TIpWtFfMy3s/s72-c/FC9780982363157.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7198610243470455552
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/on-readings.html

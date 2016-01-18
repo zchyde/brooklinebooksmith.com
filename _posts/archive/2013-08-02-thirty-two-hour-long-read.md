@@ -8,7 +8,7 @@ tags:
 - travel
 - unbridled optimism
 - Fiction
-modified_date: '2013-08-02T13:57:48.868-04:00'
+modified_datetime: '2013-08-02T13:57:48.868-04:00'
 thumbnail: http://2.bp.blogspot.com/-2b-V6Q6VPL8/UfVnbsbzaTI/AAAAAAAABWo/dGovT3tuxzw/s72-c/kristinlav-thumb-300x400-51764.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8455824277475987824
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/thirty-two-hour-long-read.html

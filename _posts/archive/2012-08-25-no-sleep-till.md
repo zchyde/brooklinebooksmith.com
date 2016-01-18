@@ -8,7 +8,7 @@ tags:
 - dark children's lit
 - Brothers Hilt
 - The Insomniacs
-modified_date: '2012-08-25T14:47:27.969-04:00'
+modified_datetime: '2012-08-25T14:47:27.969-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-835462578798017140
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/no-sleep-till.html
 ---

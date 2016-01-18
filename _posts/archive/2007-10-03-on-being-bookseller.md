@@ -5,7 +5,7 @@ date: '2007-10-03T19:25:00.000-04:00'
 author: Lori
 tags:
 - Bookselling Life
-modified_date: '2007-10-03T20:14:31.488-04:00'
+modified_datetime: '2007-10-03T20:14:31.488-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-378647192860585385
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/on-being-bookseller.html
 ---

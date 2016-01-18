@@ -4,7 +4,7 @@ title: Music for reading
 date: '2010-03-16T17:40:00.005-04:00'
 author: Eugenia
 tags: 
-modified_date: '2010-03-16T18:34:03.057-04:00'
+modified_datetime: '2010-03-16T18:34:03.057-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-591560778030625529
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/music-for-reading.html
 ---

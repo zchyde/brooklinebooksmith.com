@@ -7,7 +7,7 @@ tags:
 - children's books
 - long lines that aren't for iPhones
 - children's story time
-modified_date: '2013-08-19T09:35:00.636-04:00'
+modified_datetime: '2013-08-19T09:35:00.636-04:00'
 thumbnail: http://1.bp.blogspot.com/-fK2NFfOdCSc/UhDNejz2a1I/AAAAAAAAALA/glD8QywozFo/s72-c/photo.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4346358740029131964
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/why-history-section-was-lined-with.html

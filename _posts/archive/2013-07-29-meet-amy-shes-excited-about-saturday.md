@@ -8,7 +8,7 @@ tags:
 - panel
 - Middle grade
 - young adult
-modified_date: '2013-07-29T09:30:03.466-04:00'
+modified_datetime: '2013-07-29T09:30:03.466-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2772413566134300111
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/meet-amy-shes-excited-about-saturday.html
 ---

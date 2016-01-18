@@ -4,7 +4,7 @@ title: Open the box, and there you go...
 date: '2011-03-30T19:48:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-03-30T19:48:24.601-04:00'
+modified_datetime: '2011-03-30T19:48:24.601-04:00'
 thumbnail: http://4.bp.blogspot.com/-m0BjfbCCxfg/TZO_lHan1EI/AAAAAAAAAPM/vfFyS1fwqWw/s72-c/queen-of-france.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2546293433605582191
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/open-box-and-there-you-go.html

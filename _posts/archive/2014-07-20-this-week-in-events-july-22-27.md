@@ -13,7 +13,7 @@ tags:
 - staff talent show
 - celeste ng
 - joanna rakoff
-modified_date: '2014-07-20T14:00:03.171-04:00'
+modified_datetime: '2014-07-20T14:00:03.171-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5253628417476788760
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/this-week-in-events-july-22-27.html
 ---

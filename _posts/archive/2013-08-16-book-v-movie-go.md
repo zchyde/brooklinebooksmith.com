@@ -9,7 +9,7 @@ tags:
 - used books
 - adaptations
 - book
-modified_date: '2013-08-16T10:00:01.693-04:00'
+modified_datetime: '2013-08-16T10:00:01.693-04:00'
 thumbnail: http://2.bp.blogspot.com/-Oqku1JcAfsE/Ug0q3mX_hHI/AAAAAAAABXw/jUSQNFf0YeU/s72-c/ender.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5264065501895470160
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/book-v-movie-go.html

@@ -13,7 +13,7 @@ tags:
 - meat
 - summer
 - food
-modified_date: '2013-05-24T11:17:00.963-04:00'
+modified_datetime: '2013-05-24T11:17:00.963-04:00'
 thumbnail: http://4.bp.blogspot.com/--Aq2IuimjoQ/UZ4sEbCbzDI/AAAAAAAABRM/Q5t7QrAyPaE/s72-c/xl_5043_The-Prophets-of-Smoked-Meat-review.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3704850606873562911
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/dude-food-books.html

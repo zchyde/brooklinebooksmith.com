@@ -5,7 +5,7 @@ date: '2008-08-26T18:33:00.007-04:00'
 author: Lori
 tags:
 - Kid Stuff
-modified_date: '2008-08-26T19:11:28.235-04:00'
+modified_datetime: '2008-08-26T19:11:28.235-04:00'
 thumbnail: http://4.bp.blogspot.com/_zqgb4FOCazQ/SLSNjKnNN1I/AAAAAAAAAHY/GOcLwPt81as/s72-c/biglittle.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6657974815635681470
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/08/books-for-babies.html

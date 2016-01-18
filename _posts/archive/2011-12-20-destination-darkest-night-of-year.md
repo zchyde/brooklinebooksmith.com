@@ -4,7 +4,7 @@ title: 'Destination: The Darkest Night of the Year'
 date: '2011-12-20T18:59:00.000-05:00'
 author: Jodie
 tags: 
-modified_date: '2011-12-20T18:59:32.099-05:00'
+modified_datetime: '2011-12-20T18:59:32.099-05:00'
 thumbnail: http://4.bp.blogspot.com/-s9A37RX2Xqs/TvEfEq1cJxI/AAAAAAAAARk/aCm1odwocyE/s72-c/The-Quest-for-Christa-T-Wolf-Christa-9780374515348.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8118356162994799755
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/12/destination-darkest-night-of-year.html

@@ -8,7 +8,7 @@ tags:
 - christmas
 - April
 - hanukkah
-modified_date: '2013-04-01T08:09:16.524-04:00'
+modified_datetime: '2013-04-01T08:09:16.524-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8592381510218794945
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/04/only-9-shopping-months-until-christmas.html
 ---

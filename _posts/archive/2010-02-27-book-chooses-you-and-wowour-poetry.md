@@ -9,7 +9,7 @@ tags:
 - Poetry;
 - Artsy-Fartsy
 - Confessions
-modified_date: '2010-02-27T16:22:55.140-05:00'
+modified_datetime: '2010-02-27T16:22:55.140-05:00'
 thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/S4mL8oe7egI/AAAAAAAAABg/XdI4H4aJdjM/s72-c/poetry.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5571659337296123960
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/book-chooses-you-and-wowour-poetry.html

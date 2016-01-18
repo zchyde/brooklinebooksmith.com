@@ -9,7 +9,7 @@ tags:
 - garrison keillor
 - the writer's almanac
 - Events
-modified_date: '2014-06-26T12:30:17.644-04:00'
+modified_datetime: '2014-06-26T12:30:17.644-04:00'
 thumbnail: http://2.bp.blogspot.com/-Y8nqX68BT04/U6xH9Z-8THI/AAAAAAAAQ7E/bwEFnHyr_WQ/s72-c/TheKeillorreader_cover_0.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4427269469918098995
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/06/garrison-keillor-tonight.html

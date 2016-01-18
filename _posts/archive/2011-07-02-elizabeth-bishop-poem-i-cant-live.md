@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - publishers need to cut the crap
 - Poetry
-modified_date: '2011-07-02T15:48:30.913-04:00'
+modified_datetime: '2011-07-02T15:48:30.913-04:00'
 thumbnail: http://3.bp.blogspot.com/-oN-D2f_K6-c/Tg91Lk2v1kI/AAAAAAAAAS8/htE_i55OhQA/s72-c/bishop.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1481593389957515450
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/07/elizabeth-bishop-poem-i-cant-live.html

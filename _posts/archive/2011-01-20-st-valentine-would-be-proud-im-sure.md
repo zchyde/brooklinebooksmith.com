@@ -4,7 +4,7 @@ title: St Valentine would be proud, I'm sure.
 date: '2011-01-20T13:09:00.006-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-01-20T13:19:00.903-05:00'
+modified_datetime: '2011-01-20T13:19:00.903-05:00'
 thumbnail: http://2.bp.blogspot.com/_NUSW4Mi-QYM/TTh8kAAT1HI/AAAAAAAAAB0/T2f5c0LSifo/s72-c/you-complete-me-huge.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6112298664851222922
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/st-valentine-would-be-proud-im-sure.html

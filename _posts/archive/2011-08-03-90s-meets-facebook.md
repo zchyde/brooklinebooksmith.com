@@ -4,7 +4,7 @@ title: 90's meets Facebook
 date: '2011-08-03T15:58:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-08-03T15:58:00.935-04:00'
+modified_datetime: '2011-08-03T15:58:00.935-04:00'
 thumbnail: http://3.bp.blogspot.com/-jcaPlqaFzoQ/Tjml-bFwHkI/AAAAAAAAAQc/fowCYtQsG0k/s72-c/images.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8060789726570163422
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/90s-meets-facebook.html

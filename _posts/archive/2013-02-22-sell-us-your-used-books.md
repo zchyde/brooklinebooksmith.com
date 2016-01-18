@@ -7,7 +7,7 @@ tags:
 - sell your books
 - used books
 - declutter
-modified_date: '2013-02-22T19:02:44.730-05:00'
+modified_datetime: '2013-02-22T19:02:44.730-05:00'
 thumbnail: http://1.bp.blogspot.com/-5ugzU-YCbMI/USgGmfThWpI/AAAAAAAABKA/GtmO4fCwc3I/s72-c/ubcvintage.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3941696649548854169
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/sell-us-your-used-books.html

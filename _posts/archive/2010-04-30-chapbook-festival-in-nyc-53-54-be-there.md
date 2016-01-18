@@ -4,7 +4,7 @@ title: Chapbook Festival in NYC 5/3-5/4 Be There Or Be Rhombus
 date: '2010-04-30T16:34:00.003-04:00'
 author: Carl
 tags: 
-modified_date: '2010-04-30T16:42:48.098-04:00'
+modified_datetime: '2010-04-30T16:42:48.098-04:00'
 thumbnail: http://1.bp.blogspot.com/_lonf0gt6RtI/S9s--qHNm6I/AAAAAAAAAtk/n0v_aBF3_mw/s72-c/chapbook_festival_logo.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-750107022207291462
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/chapbook-festival-in-nyc-53-54-be-there.html

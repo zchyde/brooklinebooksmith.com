@@ -4,7 +4,7 @@ title: Two Things
 date: '2010-09-05T19:26:00.003-04:00'
 author: dana brigham
 tags: 
-modified_date: '2010-09-05T19:55:34.478-04:00'
+modified_datetime: '2010-09-05T19:55:34.478-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1391653783714312939
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/two-things.html
 ---

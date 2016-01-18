@@ -4,7 +4,7 @@ title: Apparently, you guys like YA-adult crossovers. And Boston. And also other
 date: '2012-12-31T12:21:00.000-05:00'
 author: Shoshana
 tags: 
-modified_date: '2012-12-31T12:21:19.006-05:00'
+modified_datetime: '2012-12-31T12:21:19.006-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5587939726510376111
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/apparently-you-guys-like-ya-adult.html
 ---

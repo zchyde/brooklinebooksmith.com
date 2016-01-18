@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Bookselling Life
 - Funny
-modified_date: '2008-12-08T23:03:57.962-05:00'
+modified_datetime: '2008-12-08T23:03:57.962-05:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/R97znbHndNI/AAAAAAAAAF4/sFHppZKS18E/s72-c/indexed.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8102971778120856290
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/03/secrets-of-bored-booksellers.html

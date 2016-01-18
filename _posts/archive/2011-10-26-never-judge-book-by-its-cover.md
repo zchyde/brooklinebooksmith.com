@@ -4,7 +4,7 @@ title: Never judge a book by its cover...
 date: '2011-10-26T16:54:00.002-04:00'
 author: Emily
 tags: 
-modified_date: '2011-10-26T16:54:41.053-04:00'
+modified_datetime: '2011-10-26T16:54:41.053-04:00'
 thumbnail: http://1.bp.blogspot.com/-rj9xshmLDa8/TqhywSB2nFI/AAAAAAAAARg/aseKbXTEwS4/s72-c/0064431975.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9033511467300626835
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/never-judge-book-by-its-cover.html

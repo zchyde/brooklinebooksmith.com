@@ -5,7 +5,7 @@ date: '2007-09-04T18:24:00.000-04:00'
 author: Lori
 tags:
 - What's Cooking
-modified_date: '2008-12-08T23:03:59.677-05:00'
+modified_datetime: '2008-12-08T23:03:59.677-05:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/Rt3gIdW8hjI/AAAAAAAAADk/qdRLZtAIC2k/s72-c/phantom.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7022715630096880992
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/09/with-apologies-to-shadow-its-really.html

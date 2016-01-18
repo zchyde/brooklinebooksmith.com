@@ -23,7 +23,7 @@ tags:
 - romance
 - housewares
 - dinner
-modified_date: '2012-04-19T18:54:00.337-04:00'
+modified_datetime: '2012-04-19T18:54:00.337-04:00'
 thumbnail: http://1.bp.blogspot.com/-LxUP5pgfI3g/T5COZHzjObI/AAAAAAAAAJg/Tvl8ZRu67QY/s72-c/blog+021.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2331657385587183287
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/awesome-advice-for-impressing-your-date.html

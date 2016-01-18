@@ -6,7 +6,7 @@ author: Emily
 tags:
 - caroline kennedy
 - Poetry
-modified_date: '2010-07-14T08:25:43.289-04:00'
+modified_datetime: '2010-07-14T08:25:43.289-04:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/TD2qWunKZ4I/AAAAAAAAAEg/EiuUbsIqung/s72-c/CarolineKennedyPoetryBookCover.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4849616731131324929
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/give-book-chance-will-you.html

@@ -4,7 +4,7 @@ title: As Heard On NPR
 date: '2012-06-27T18:19:00.001-04:00'
 author: Jodie
 tags: 
-modified_date: '2012-06-27T18:19:55.686-04:00'
+modified_datetime: '2012-06-27T18:19:55.686-04:00'
 thumbnail: http://1.bp.blogspot.com/-Ce12CmyC2k0/T-uFPgOunlI/AAAAAAAAAfY/UU-_Bk3xgvA/s72-c/FC9781598807608.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2968000075153097422
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/as-heard-on-npr.html

@@ -6,7 +6,7 @@ author: Kate Robinson
 tags:
 - Poetry;
 - Small Presses
-modified_date: '2010-04-25T12:01:18.722-04:00'
+modified_datetime: '2010-04-25T12:01:18.722-04:00'
 thumbnail: http://2.bp.blogspot.com/_L2x1PCw1zuI/S9Rm0WbaxbI/AAAAAAAAADo/0GZKwX9t3Tk/s72-c/tn9781933517438.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6993342169453130171
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/national-poetry-month.html

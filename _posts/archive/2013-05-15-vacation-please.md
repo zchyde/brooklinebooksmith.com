@@ -10,7 +10,7 @@ tags:
 - travel
 - lonely planet
 - thanks jodie
-modified_date: '2013-05-15T20:27:52.501-04:00'
+modified_datetime: '2013-05-15T20:27:52.501-04:00'
 thumbnail: http://2.bp.blogspot.com/-Sy3cARr9nlM/UZQBgoxtLyI/AAAAAAAABpQ/P4LnbjLKuRU/s72-c/462F5F69-E115-4EE1-A950-CCE069EFD49E.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6495048375257046778
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/vacation-please.html

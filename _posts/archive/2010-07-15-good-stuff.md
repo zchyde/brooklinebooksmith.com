@@ -4,7 +4,7 @@ title: Good stuff.
 date: '2010-07-15T13:45:00.009-04:00'
 author: Katie
 tags: 
-modified_date: '2010-07-15T14:34:18.093-04:00'
+modified_datetime: '2010-07-15T14:34:18.093-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1671334815452939837
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/good-stuff.html
 ---

@@ -8,7 +8,7 @@ tags:
 - travel guide books
 - Destination Literature
 - Literary Travel
-modified_date: '2013-11-15T11:00:03.139-05:00'
+modified_datetime: '2013-11-15T11:00:03.139-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1167821311960757322
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/11/of-tiny-soaps-and-books.html
 ---

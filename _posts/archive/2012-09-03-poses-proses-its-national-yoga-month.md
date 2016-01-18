@@ -4,7 +4,7 @@ title: 'Poses & Proses: It''s National Yoga Month!!!'
 date: '2012-09-03T12:53:00.001-04:00'
 author: Kate Robinson
 tags: 
-modified_date: '2012-09-03T12:53:13.034-04:00'
+modified_datetime: '2012-09-03T12:53:13.034-04:00'
 thumbnail: http://1.bp.blogspot.com/-Y3hB3LAZ29M/UETMwX_NS_I/AAAAAAAAAYw/EIJdtHQfcvI/s72-c/9780805210316.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2454118620214714828
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/poses-proses-its-national-yoga-month.html

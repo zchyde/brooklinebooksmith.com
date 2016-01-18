@@ -9,7 +9,7 @@ tags:
 - Bookselling Life
 - armin brott
 - elation
-modified_date: '2012-11-14T12:47:25.502-05:00'
+modified_datetime: '2012-11-14T12:47:25.502-05:00'
 thumbnail: http://4.bp.blogspot.com/-2RMWq9Iqc_c/UKPY8rhoGGI/AAAAAAAAAF0/-jevfiOYKUE/s72-c/blog_newfather.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8847181427678621016
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/11/hey-im-jamie-my-heartstrings-are-easily.html

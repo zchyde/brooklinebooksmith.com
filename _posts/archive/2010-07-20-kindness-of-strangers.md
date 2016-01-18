@@ -4,7 +4,7 @@ title: The Kindness of Strangers
 date: '2010-07-20T21:02:00.004-04:00'
 author: Liz T.
 tags: 
-modified_date: '2010-07-20T21:43:37.825-04:00'
+modified_datetime: '2010-07-20T21:43:37.825-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4108074663782975175
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/kindness-of-strangers.html
 ---

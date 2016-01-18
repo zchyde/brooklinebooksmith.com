@@ -4,7 +4,7 @@ title: Snow Books
 date: '2010-12-01T21:54:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2010-12-01T21:54:57.305-05:00'
+modified_datetime: '2010-12-01T21:54:57.305-05:00'
 thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TPcGvfkENFI/AAAAAAAAAMQ/bwbpRoRIKZs/s72-c/IMG_0652+copy.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1491475849121661777
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/12/snow-books.html

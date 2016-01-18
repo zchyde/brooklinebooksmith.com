@@ -10,7 +10,7 @@ tags:
 - linda ronstadt
 - signed books
 - shipping
-modified_date: '2013-08-21T11:00:08.062-04:00'
+modified_datetime: '2013-08-21T11:00:08.062-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5889113110683042301
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/08/psa-linda-ronstadt-edition.html
 ---

@@ -4,7 +4,7 @@ title: 'Destination: A White Whale'
 date: '2011-11-15T16:47:00.013-05:00'
 author: Jodie
 tags: 
-modified_date: '2011-11-15T19:36:01.346-05:00'
+modified_datetime: '2011-11-15T19:36:01.346-05:00'
 thumbnail: http://2.bp.blogspot.com/-UU2eaNL78Ek/TsL9pID9ErI/AAAAAAAAAKo/1WoIjBr9AJQ/s72-c/mobydick.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-184077802275670683
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/destination-white-whale.html

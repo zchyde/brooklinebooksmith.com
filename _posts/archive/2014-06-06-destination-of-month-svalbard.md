@@ -12,7 +12,7 @@ tags:
 - travel
 - Philip Pullman
 - svalbard
-modified_date: '2014-06-06T16:57:25.106-04:00'
+modified_datetime: '2014-06-06T16:57:25.106-04:00'
 thumbnail: http://4.bp.blogspot.com/-6Hg2HnLV7_I/U5Hbmrt_NJI/AAAAAAAABjM/X1mcKPuFr0s/s72-c/Longyearbyen-Svalbard.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5146666175745938551
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/06/destination-of-month-svalbard.html

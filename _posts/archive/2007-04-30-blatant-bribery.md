@@ -4,7 +4,7 @@ title: Blatant Bribery
 date: '2007-04-30T17:02:00.000-04:00'
 author: Lori
 tags:
-modified_date: '2007-04-30T17:27:05.487-04:00'
+modified_datetime: '2007-04-30T17:27:05.487-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4508923018420979606
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/04/blatant-bribery.html
 ---

@@ -11,7 +11,7 @@ tags:
 - i dislike unbearable lightness
 - rosie schaap
 - opinions
-modified_date: '2013-02-13T17:46:30.047-05:00'
+modified_datetime: '2013-02-13T17:46:30.047-05:00'
 thumbnail: http://2.bp.blogspot.com/-0qXjlcYOEBE/URwNjPFZ60I/AAAAAAAAAH8/o4GD3es7KCw/s72-c/photo+(12).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5176860131031946031
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/drinking-with-booksellers.html

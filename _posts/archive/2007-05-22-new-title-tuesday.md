@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Confessions
-modified_date: '2008-12-08T23:04:01.535-05:00'
+modified_datetime: '2008-12-08T23:04:01.535-05:00'
 thumbnail: http://4.bp.blogspot.com/_zqgb4FOCazQ/RlOAv7wLzhI/AAAAAAAAABo/tyaHwRFHCpA/s72-c/illuminated.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6688314648188866716
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/new-title-tuesday.html

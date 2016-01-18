@@ -9,7 +9,7 @@ tags:
 - trans fat ban
 - bobby brown
 - carpets
-modified_date: '2010-04-06T10:05:33.940-04:00'
+modified_datetime: '2010-04-06T10:05:33.940-04:00'
 thumbnail: http://2.bp.blogspot.com/_lonf0gt6RtI/S7qsrsm_tWI/AAAAAAAAAs0/Ahi8ozF-r0o/s72-c/Mr+Carpet+Logo.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1426712207006659513
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/farewell-to-pal.html

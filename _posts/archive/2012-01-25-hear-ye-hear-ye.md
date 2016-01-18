@@ -4,7 +4,7 @@ title: Hear Ye Hear Ye
 date: '2012-01-25T21:55:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2012-01-25T21:55:24.846-05:00'
+modified_datetime: '2012-01-25T21:55:24.846-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7842021263151502932
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/hear-ye-hear-ye.html
 ---

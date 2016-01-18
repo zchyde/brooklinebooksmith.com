@@ -7,7 +7,7 @@ tags:
 - travel guide books
 - Baedeker
 - globe corner
-modified_date: '2012-10-02T09:00:03.454-04:00'
+modified_datetime: '2012-10-02T09:00:03.454-04:00'
 thumbnail: http://1.bp.blogspot.com/-X_YCdYt_5uc/UGifP_P3f1I/AAAAAAAAAh0/MhOlLKD0WxQ/s72-c/9783829765442-500x500.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8483481739864434921
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/baedekers-back.html

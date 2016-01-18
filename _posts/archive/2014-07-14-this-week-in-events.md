@@ -14,7 +14,7 @@ tags:
 - book of life
 - expedition to the baobab tree
 - archipelago books
-modified_date: '2014-07-14T18:17:05.717-04:00'
+modified_datetime: '2014-07-14T18:17:05.717-04:00'
 thumbnail: http://4.bp.blogspot.com/-DqO3dqTvMHA/U8RWfQYoLVI/AAAAAAAACyk/rtD1i_BaE9E/s72-c/9780525426684.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6991564477018354188
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/this-week-in-events.html

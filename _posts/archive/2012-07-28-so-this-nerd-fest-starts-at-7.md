@@ -9,7 +9,7 @@ tags:
 - staff reading
 - kate robinson
 - Poetry
-modified_date: '2012-07-28T11:16:04.694-04:00'
+modified_datetime: '2012-07-28T11:16:04.694-04:00'
 thumbnail: http://4.bp.blogspot.com/-DKLXTwhFKr8/UBP61BMlX5I/AAAAAAAAAJY/n_sd2fHvVZw/s72-c/2012-07-28+10.32.29.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1655579557683748236
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/so-this-nerd-fest-starts-at-7.html

@@ -4,7 +4,7 @@ title: 'Destination: Morocco'
 date: '2011-11-29T16:59:00.025-05:00'
 author: Jodie
 tags: 
-modified_date: '2011-11-29T18:05:13.839-05:00'
+modified_datetime: '2011-11-29T18:05:13.839-05:00'
 thumbnail: http://3.bp.blogspot.com/-8HYEVc4rM5M/TtVbkFIbwTI/AAAAAAAAALk/4ZVejNuW6Sc/s72-c/morocco-map.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4687393751408863032
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/destination-morocco.html

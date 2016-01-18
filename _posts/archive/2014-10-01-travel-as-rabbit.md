@@ -14,7 +14,7 @@ tags:
 - finnish
 - travel
 - Seattle
-modified_date: '2014-10-01T09:00:06.320-04:00'
+modified_datetime: '2014-10-01T09:00:06.320-04:00'
 thumbnail: http://2.bp.blogspot.com/-4Y5kSZ2_kjE/VBMhwR4VBrI/AAAAAAAABvg/I9kNUMTb3Aw/s72-c/Photo%2BSep%2B12%2C%2B12%2B07%2B54.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2722411298142363123
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/10/travel-as-rabbit.html

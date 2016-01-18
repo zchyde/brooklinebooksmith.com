@@ -7,7 +7,7 @@ tags:
 - children's books
 - scope for imagination
 - school
-modified_date: '2013-09-09T09:00:01.222-04:00'
+modified_datetime: '2013-09-09T09:00:01.222-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-552227101713527362
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/chin-up-kids.html
 ---

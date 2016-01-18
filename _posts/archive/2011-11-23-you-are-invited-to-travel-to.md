@@ -4,7 +4,7 @@ title: You are Invited to Travel To...
 date: '2011-11-23T18:53:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2011-11-23T18:53:21.485-05:00'
+modified_datetime: '2011-11-23T18:53:21.485-05:00'
 thumbnail: http://2.bp.blogspot.com/-7SIAzrEtyvc/Ts2FvCP7oXI/AAAAAAAAASI/4g2Opkywz38/s72-c/travel%252520puzzles.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5706550120048903899
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/you-are-invited-to-travel-to.html

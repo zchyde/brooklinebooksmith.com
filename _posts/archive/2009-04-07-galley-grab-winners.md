@@ -5,7 +5,7 @@ date: '2009-04-07T19:31:00.004-04:00'
 author: Lori
 tags:
 - Galley Grab
-modified_date: '2009-04-07T19:33:29.081-04:00'
+modified_datetime: '2009-04-07T19:33:29.081-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5816466076335326555
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/04/galley-grab-winners.html
 ---

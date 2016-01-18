@@ -6,7 +6,7 @@ author: Emily
 tags:
 - autumn
 - Fletcher
-modified_date: '2010-09-22T08:41:27.427-04:00'
+modified_datetime: '2010-09-22T08:41:27.427-04:00'
 thumbnail: http://4.bp.blogspot.com/_88jO9uLLIi8/TJn4ZL78t0I/AAAAAAAAAJ4/4Db_LbZEGWY/s72-c/index.aspx.jpeg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3147799786454672476
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/i-smell-goodness-approaching-d.html

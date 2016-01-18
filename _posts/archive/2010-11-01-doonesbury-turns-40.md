@@ -4,7 +4,7 @@ title: Doonesbury Turns 40
 date: '2010-11-01T15:28:00.002-04:00'
 author: dana brigham
 tags: 
-modified_date: '2010-11-01T15:46:17.627-04:00'
+modified_datetime: '2010-11-01T15:46:17.627-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8955354711291106705
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/doonesbury-turns-40.html
 ---

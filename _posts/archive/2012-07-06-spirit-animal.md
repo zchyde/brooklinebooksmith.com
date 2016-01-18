@@ -10,7 +10,7 @@ tags:
 - animals
 - bulgakov
 - paasilinna
-modified_date: '2012-07-06T11:50:00.712-04:00'
+modified_datetime: '2012-07-06T11:50:00.712-04:00'
 thumbnail: http://4.bp.blogspot.com/-027bKOa1AKo/T_W3lB0k7AI/AAAAAAAAAiw/9vdW4w524D8/s72-c/fbackes-lievrevatanen.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2946982159062841984
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/07/spirit-animal.html

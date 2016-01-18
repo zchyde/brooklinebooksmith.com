@@ -7,7 +7,7 @@ tags:
 - picture books
 - 'Yes'
 - Little Elliot is my favorite
-modified_date: '2014-07-21T09:00:07.777-04:00'
+modified_datetime: '2014-07-21T09:00:07.777-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7507355224843273172
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/07/i-havestrange-taste-in-picture-books.html
 ---

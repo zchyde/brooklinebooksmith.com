@@ -9,7 +9,7 @@ tags:
 - the white tiger
 - evening is the whole day
 - divisadero
-modified_date: '2012-08-31T10:18:23.966-04:00'
+modified_datetime: '2012-08-31T10:18:23.966-04:00'
 thumbnail: http://3.bp.blogspot.com/-MiY4RAtF_PE/UDJGY49CfMI/AAAAAAAANy8/ry_tBNyN3zc/s72-c/four+bargains.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6481042269260666358
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/four-bargains.html

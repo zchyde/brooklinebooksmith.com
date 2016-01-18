@@ -4,7 +4,7 @@ title: Killer Stories
 date: '2012-02-09T17:43:00.002-05:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2012-02-09T17:43:22.746-05:00'
+modified_datetime: '2012-02-09T17:43:22.746-05:00'
 thumbnail: http://3.bp.blogspot.com/_6kYzhJGqq2M/SxrF-tC89GI/AAAAAAAAByo/xwi-q6iu8fM/s72-c/Helter+Skelter.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5204274533121731337
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/02/killer-stories.html

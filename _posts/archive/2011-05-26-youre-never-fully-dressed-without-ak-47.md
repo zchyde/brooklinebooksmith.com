@@ -4,7 +4,7 @@ title: You're Never Fully Dressed Without an AK-47 and an Apocalyptic Grimace
 date: '2011-05-26T17:15:00.005-04:00'
 author: Zoe Hyde
 tags:
-modified_date: '2011-05-29T13:14:15.974-04:00'
+modified_datetime: '2011-05-29T13:14:15.974-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2665925898693930191
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/youre-never-fully-dressed-without-ak-47.html
 ---

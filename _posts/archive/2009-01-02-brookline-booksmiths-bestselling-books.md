@@ -7,7 +7,7 @@ tags:
 - Not Fiction
 - bestsellers
 - Fiction
-modified_date: '2009-01-09T17:10:22.475-05:00'
+modified_datetime: '2009-01-09T17:10:22.475-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1211997063177380912
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/01/brookline-booksmiths-bestselling-books.html
 ---

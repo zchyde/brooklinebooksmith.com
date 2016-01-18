@@ -5,7 +5,7 @@ date: '2007-05-25T20:22:00.000-04:00'
 author: Lori
 tags:
 - What's Cooking
-modified_date: '2007-05-25T20:35:28.962-04:00'
+modified_datetime: '2007-05-25T20:35:28.962-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6218512828180839990
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/05/cookbook-remainder-alert.html
 ---

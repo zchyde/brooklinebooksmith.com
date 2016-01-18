@@ -4,7 +4,7 @@ title: Headed Toward Icy Waters
 date: '2012-04-18T19:39:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2012-04-18T19:39:46.030-04:00'
+modified_datetime: '2012-04-18T19:39:46.030-04:00'
 thumbnail: http://1.bp.blogspot.com/-MQITXE6FSVE/T49MTWgAzGI/AAAAAAAAAWQ/sd4GrPycr5c/s72-c/9781409383390.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1395127600279226718
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/headed-toward-icy-waters.html

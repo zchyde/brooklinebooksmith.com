@@ -4,7 +4,7 @@ title: More Than Turkey
 date: '2010-11-17T20:33:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2010-11-17T20:33:28.604-05:00'
+modified_datetime: '2010-11-17T20:33:28.604-05:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TOR_rHA-o-I/AAAAAAAAAME/xZxQdDmV2uY/s72-c/9780060537111_0_Cover.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6804321824375182662
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/11/more-than-turkey.html

@@ -15,7 +15,7 @@ tags:
 - soaps
 - women
 - body care
-modified_date: '2012-03-22T20:12:21.941-04:00'
+modified_datetime: '2012-03-22T20:12:21.941-04:00'
 thumbnail: http://3.bp.blogspot.com/-Jd2YB_Ut8eo/T2uxFOy3MaI/AAAAAAAAAHw/h4Sa9Ap-C_M/s72-c/display.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6492591135054142879
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/sigh-no-more-ladies.html

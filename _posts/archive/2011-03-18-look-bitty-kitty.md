@@ -4,7 +4,7 @@ title: look bitty kitty
 date: '2011-03-18T14:47:00.002-04:00'
 author: Paul Theriault
 tags: 
-modified_date: '2011-03-18T22:36:48.881-04:00'
+modified_datetime: '2011-03-18T22:36:48.881-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6349533999462845958
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/look-bitty-kitty.html
 ---

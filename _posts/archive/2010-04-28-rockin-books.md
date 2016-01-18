@@ -4,7 +4,7 @@ title: Rockin' Books
 date: '2010-04-28T10:49:00.002-04:00'
 author: Eugenia
 tags: 
-modified_date: '2010-04-28T11:34:22.018-04:00'
+modified_datetime: '2010-04-28T11:34:22.018-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7196896032000996225
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/rockin-books.html
 ---

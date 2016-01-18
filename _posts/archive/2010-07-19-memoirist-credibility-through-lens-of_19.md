@@ -5,7 +5,7 @@ title: memoirist credibility through the lens of the greatest sporting event kno
 date: '2010-07-19T09:00:00.004-04:00'
 author: Paul Theriault
 tags: 
-modified_date: '2010-07-19T11:39:37.171-04:00'
+modified_datetime: '2010-07-19T11:39:37.171-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4853658887858248447
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/07/memoirist-credibility-through-lens-of_19.html
 ---

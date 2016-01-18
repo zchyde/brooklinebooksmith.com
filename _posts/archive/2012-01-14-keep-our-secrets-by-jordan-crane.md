@@ -6,7 +6,7 @@ author: Zoe Hyde
 tags:
 - magic books
 - keep our secrets
-modified_date: '2012-01-14T13:32:10.217-05:00'
+modified_datetime: '2012-01-14T13:32:10.217-05:00'
 thumbnail: https://img.youtube.com/vi/cp8o_xCFl0I/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5221771583086312428
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/keep-our-secrets-by-jordan-crane.html

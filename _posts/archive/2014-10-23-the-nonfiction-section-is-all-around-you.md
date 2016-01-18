@@ -13,7 +13,7 @@ tags:
 - books
 - good bye post
 - New York City
-modified_date: '2014-10-23T13:19:10.125-04:00'
+modified_datetime: '2014-10-23T13:19:10.125-04:00'
 thumbnail: http://4.bp.blogspot.com/-yMNK18uPU9s/VEP-8I2MFKI/AAAAAAAAB0Q/2DkvyImZTTc/s72-c/10691802_352031938290047_111202081_n.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7688167133460731603
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/10/the-nonfiction-section-is-all-around-you.html

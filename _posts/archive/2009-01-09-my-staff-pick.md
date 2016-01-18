@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Staff Picks
 - Fiction
-modified_date: '2009-01-09T18:03:01.990-05:00'
+modified_datetime: '2009-01-09T18:03:01.990-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-468919979514848186
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/01/my-staff-pick.html
 ---

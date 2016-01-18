@@ -4,7 +4,7 @@ title: Let the annual card and gift sale extravaganza...COMMENCE!
 date: '2011-02-23T20:20:00.006-05:00'
 author: Zoe Hyde
 tags:
-modified_date: '2011-02-24T12:01:49.230-05:00'
+modified_datetime: '2011-02-24T12:01:49.230-05:00'
 thumbnail: http://4.bp.blogspot.com/_oon5ywLYfrs/RylwkygBPsI/AAAAAAAAAas/NRqy-A2LsME/s72-c/theFamishedRoad.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1524820686047088096
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/02/let-annual-card-and-gift-sale.html

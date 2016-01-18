@@ -13,7 +13,7 @@ tags:
 - colors
 - houghton
 - i swear i'm not a hoarder
-modified_date: '2013-02-20T17:43:50.023-05:00'
+modified_datetime: '2013-02-20T17:43:50.023-05:00'
 thumbnail: http://1.bp.blogspot.com/-7irmqdP9cdg/USUvp-0O1iI/AAAAAAAAAJc/HWZzEq4Hgzk/s72-c/melvillehouse.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3528048021361616753
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/02/where-all-promotional-materials-go-to.html

@@ -4,7 +4,7 @@ title: RIP Sendak
 date: '2012-05-09T20:44:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2012-05-09T20:44:00.170-04:00'
+modified_datetime: '2012-05-09T20:44:00.170-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8143020496799902836
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/rip-sendak.html
 ---

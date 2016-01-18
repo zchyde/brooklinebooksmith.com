@@ -11,7 +11,7 @@ tags:
 - book stores
 - western MA
 - montague
-modified_date: '2014-09-11T18:11:30.869-04:00'
+modified_datetime: '2014-09-11T18:11:30.869-04:00'
 thumbnail: http://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s72-c/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-931238756094639080
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/booksmith-visits-montague-bookmill.html

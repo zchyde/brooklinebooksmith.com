@@ -9,7 +9,7 @@ tags:
 - booksmith also helps you lose weight by buying back your old books
 - now i'm hungry
 - food
-modified_date: '2012-09-23T00:38:14.996-04:00'
+modified_datetime: '2012-09-23T00:38:14.996-04:00'
 thumbnail: http://3.bp.blogspot.com/-31qTBHMHluA/T9eTaTL7f8I/AAAAAAAAABI/wkxlFdAieO4/s72-c/bookeater.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7009044941607737185
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/for-those-who-devour-books.html

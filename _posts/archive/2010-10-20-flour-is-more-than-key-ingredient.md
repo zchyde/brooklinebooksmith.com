@@ -6,7 +6,7 @@ author: Emily
 tags:
 - Joanne Chang
 - Flour
-modified_date: '2010-10-20T11:57:57.765-04:00'
+modified_datetime: '2010-10-20T11:57:57.765-04:00'
 thumbnail: http://3.bp.blogspot.com/_88jO9uLLIi8/TL8QavNLr8I/AAAAAAAAALE/XJkRZMHJgwA/s72-c/9780811869447_large.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8431490049397601826
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/flour-is-more-than-key-ingredient.html

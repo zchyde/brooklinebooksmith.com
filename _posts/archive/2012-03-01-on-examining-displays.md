@@ -9,7 +9,7 @@ tags:
 - luxurious bridal nails
 - displays
 - merchandising
-modified_date: '2012-03-01T20:01:11.025-05:00'
+modified_datetime: '2012-03-01T20:01:11.025-05:00'
 thumbnail: http://1.bp.blogspot.com/-Ra8xjFRaYHk/T0gb5Eo2RGI/AAAAAAAAAGI/sq0y9VdN1G8/s72-c/IMG_8869.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3096263560930480452
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/on-examining-displays.html

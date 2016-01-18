@@ -9,7 +9,7 @@ tags:
 - used books
 - barbecue
 - travel
-modified_date: '2012-08-24T10:55:14.350-04:00'
+modified_datetime: '2012-08-24T10:55:14.350-04:00'
 thumbnail: http://4.bp.blogspot.com/-jaFKuwF9etg/UDeUclr3ePI/AAAAAAAAAyw/nBzTLkPPGKs/s72-c/franklinnew1000.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6542045348989370917
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/chaos-in-tejas.html

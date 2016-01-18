@@ -11,7 +11,7 @@ tags:
 - jessica keener
 - kristopher jansma
 - morris collins
-modified_date: '2013-11-30T09:54:47.519-05:00'
+modified_datetime: '2013-11-30T09:54:47.519-05:00'
 thumbnail: http://1.bp.blogspot.com/-JNHQIfyFQ6I/Upn7m9vfqGI/AAAAAAAACgU/fJv33rP8pL8/s72-c/indiesFirst.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-732865243835920290
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/11/bookselling-informative-guide.html

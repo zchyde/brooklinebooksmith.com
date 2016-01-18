@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Confessions
-modified_date: '2007-08-15T18:27:08.982-04:00'
+modified_datetime: '2007-08-15T18:27:08.982-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3681716479350631890
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/08/best-of-bathroom.html
 ---

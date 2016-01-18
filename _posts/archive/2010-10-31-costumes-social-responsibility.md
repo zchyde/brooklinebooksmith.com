@@ -9,7 +9,7 @@ tags:
 - working on the weekends...
 - halloween
 - religion
-modified_date: '2010-10-31T12:35:03.958-04:00'
+modified_datetime: '2010-10-31T12:35:03.958-04:00'
 thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/TM2ZzEak4_I/AAAAAAAAAJg/zIbDHT-_NyU/s72-c/a1b2.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6766520133287995538
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/costumes-social-responsibility.html

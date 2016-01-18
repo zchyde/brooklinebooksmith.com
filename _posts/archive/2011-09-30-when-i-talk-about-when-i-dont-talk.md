@@ -4,7 +4,7 @@ title: When I Talk About When I Don't Talk About Books
 date: '2011-09-30T01:23:00.001-04:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2011-09-30T01:25:29.971-04:00'
+modified_datetime: '2011-09-30T01:25:29.971-04:00'
 thumbnail: http://1.bp.blogspot.com/-X0mN6WsrSDY/ToVRnRyA3pI/AAAAAAAAAEo/jTVeipxl76A/s72-c/IMG_6412.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1608848517424927783
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/when-i-talk-about-when-i-dont-talk.html

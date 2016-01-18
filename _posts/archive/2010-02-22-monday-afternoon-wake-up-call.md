@@ -8,7 +8,7 @@ tags:
 - favorite books of all time
 - bus lit
 - pessoa
-modified_date: '2010-02-22T16:13:54.338-05:00'
+modified_datetime: '2010-02-22T16:13:54.338-05:00'
 thumbnail: http://1.bp.blogspot.com/_lonf0gt6RtI/S4Lyjwatd0I/AAAAAAAAAq8/7CRY5gFgs_M/s72-c/pessoa.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8943740557588518401
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/monday-afternoon-wake-up-call.html

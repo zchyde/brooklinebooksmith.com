@@ -4,7 +4,7 @@ title: Location is everything
 date: '2011-08-10T17:59:00.000-04:00'
 author: Emily
 tags: 
-modified_date: '2011-08-10T17:59:42.908-04:00'
+modified_datetime: '2011-08-10T17:59:42.908-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1957927373050470662
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/location-is-everything.html
 ---

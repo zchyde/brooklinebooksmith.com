@@ -4,7 +4,7 @@ title: Poetic license lets you lisp thelectively.
 date: '2011-04-03T18:08:00.000-04:00'
 author: Shoshana
 tags: 
-modified_date: '2011-04-03T18:08:43.186-04:00'
+modified_datetime: '2011-04-03T18:08:43.186-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4130011338887897641
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/poetic-license-lets-you-lisp.html
 ---

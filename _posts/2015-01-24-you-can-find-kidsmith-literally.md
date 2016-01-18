@@ -6,7 +6,7 @@ author: Alex S
 tags:
 - alex is blogging
 - kidsmith
-modified_date: '2015-01-24T14:48:41.770-05:00'
+modified_datetime: '2015-01-24T14:48:41.770-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9127314945144650399
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/01/you-can-find-kidsmith-literally.html
 ---

@@ -4,7 +4,7 @@ title:
 date: '2010-02-26T14:03:00.001-05:00'
 author: Paul Theriault
 tags: 
-modified_date: '2010-02-26T14:04:33.239-05:00'
+modified_datetime: '2010-02-26T14:04:33.239-05:00'
 thumbnail: http://2.bp.blogspot.com/__XLYr0GLRDQ/S4gbKtK9Y7I/AAAAAAAAAEU/p7IXl3z0pSU/s72-c/DSCN1149.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1077692241039062557
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/blobs-of-sweet-pink-grapefruit-spit_26.html

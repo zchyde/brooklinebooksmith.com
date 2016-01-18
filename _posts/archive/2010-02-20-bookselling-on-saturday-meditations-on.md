@@ -6,7 +6,7 @@ date: '2010-02-20T16:16:00.006-05:00'
 author: Kate Robinson
 tags:
 - working on the weekends...
-modified_date: '2010-02-20T17:18:01.424-05:00'
+modified_datetime: '2010-02-20T17:18:01.424-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6392081717991303936
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/bookselling-on-saturday-meditations-on.html
 ---

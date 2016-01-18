@@ -4,7 +4,7 @@ title: 'Destination: Japan'
 date: '2011-11-01T18:04:00.009-04:00'
 author: Jodie
 tags: 
-modified_date: '2011-11-01T18:28:28.982-04:00'
+modified_datetime: '2011-11-01T18:28:28.982-04:00'
 thumbnail: http://3.bp.blogspot.com/-wqCRgAEZJQ0/TrBvMyTVltI/AAAAAAAAAGs/CSymMRue200/s72-c/the-sound-of-waves_yukio-mishima_szs3400.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6290334546720976987
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/destination-japan.html

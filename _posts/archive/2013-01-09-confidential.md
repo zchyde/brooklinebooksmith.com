@@ -9,7 +9,7 @@ tags:
 - the squee
 - Events
 - you have to look real close to see who the authors are
-modified_date: '2013-01-09T11:57:05.579-05:00'
+modified_datetime: '2013-01-09T11:57:05.579-05:00'
 thumbnail: http://4.bp.blogspot.com/-0k-K5_RVB6w/UOtjRQMHI_I/AAAAAAAAAG8/r0765z4k4JY/s72-c/spring2013preview.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3520026524223744390
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/confidential.html

@@ -4,7 +4,7 @@ title: Share the Wealth
 date: '2011-03-09T15:39:00.000-05:00'
 author: Emily
 tags: 
-modified_date: '2011-03-09T15:39:33.888-05:00'
+modified_datetime: '2011-03-09T15:39:33.888-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5423145810446336112
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/share-wealth.html
 ---

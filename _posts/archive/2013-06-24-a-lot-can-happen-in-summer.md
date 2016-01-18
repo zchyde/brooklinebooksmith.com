@@ -9,7 +9,7 @@ tags:
 - epic nosebleeds
 - summer
 - young adult
-modified_date: '2013-06-24T09:04:30.741-04:00'
+modified_datetime: '2013-06-24T09:04:30.741-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4694657109985123532
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/a-lot-can-happen-in-summer.html
 ---

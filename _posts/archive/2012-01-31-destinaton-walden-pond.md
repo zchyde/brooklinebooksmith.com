@@ -4,7 +4,7 @@ title: 'Destinaton: Walden Pond'
 date: '2012-01-31T09:00:00.000-05:00'
 author: Jodie
 tags: 
-modified_date: '2012-01-31T10:16:06.449-05:00'
+modified_datetime: '2012-01-31T10:16:06.449-05:00'
 thumbnail: http://4.bp.blogspot.com/-MTwrZY64scY/TyW6qy8jfDI/AAAAAAAAAT8/8LQVIRNsysY/s72-c/picture_kafka_drawing.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5570802229018065326
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/destinaton-walden-pond.html

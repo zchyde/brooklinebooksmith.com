@@ -8,7 +8,7 @@ tags:
 - kindred spirits
 - children's books
 - shoshana
-modified_date: '2014-08-11T09:00:08.419-04:00'
+modified_datetime: '2014-08-11T09:00:08.419-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1685618246266602930
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/08/shut-up-and-listen-and-other.html
 ---

@@ -13,7 +13,7 @@ tags:
 - retro
 - paperbacks
 - Fiction
-modified_date: '2012-03-16T10:56:54.876-04:00'
+modified_datetime: '2012-03-16T10:56:54.876-04:00'
 thumbnail: http://3.bp.blogspot.com/-8I0XS2WwH84/T2NTaZeNf_I/AAAAAAAAAWQ/TsAOadQJb6A/s72-c/hasek.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-231038808452705151
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/sole-collector.html

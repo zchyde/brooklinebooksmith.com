@@ -12,7 +12,7 @@ tags:
 - gene yang
 - kazu kibuishi
 - signed books
-modified_date: '2013-10-16T11:00:00.525-04:00'
+modified_datetime: '2013-10-16T11:00:00.525-04:00'
 thumbnail: http://2.bp.blogspot.com/-A_UnOI5NyjM/UlhKWsb2ifI/AAAAAAAACes/tfDjzPMQqmA/s72-c/photo+(1).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1005277924252609800
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/10/happy-birthday-jay.html

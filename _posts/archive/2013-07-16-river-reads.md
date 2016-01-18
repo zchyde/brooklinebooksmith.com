@@ -14,7 +14,7 @@ tags:
 - Merrimack
 - Olivia Laing
 - Meander
-modified_date: '2013-07-16T09:00:07.464-04:00'
+modified_datetime: '2013-07-16T09:00:07.464-04:00'
 thumbnail: http://1.bp.blogspot.com/-w4HXI7ZxWKs/UeSR5rBv_tI/AAAAAAAAAsI/0wVW1AzhENU/s72-c/images+(4).jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3643145855349096846
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/river-reads.html

@@ -12,7 +12,7 @@ tags:
 - Edith Pearlman
 - Junot Diaz
 - boston book festival
-modified_date: '2012-10-31T11:26:23.361-04:00'
+modified_datetime: '2012-10-31T11:26:23.361-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5107334061420983982
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/10/earnest-readers-at-boston-book-festival.html
 ---

@@ -8,7 +8,7 @@ tags:
 - recommendations
 - efficiency expert
 - flowchart
-modified_date: '2013-01-18T11:52:51.658-05:00'
+modified_datetime: '2013-01-18T11:52:51.658-05:00'
 thumbnail: http://3.bp.blogspot.com/-6rMo7MeDxro/UPl9WGNkfCI/AAAAAAAABGQ/eaWsdCOM71I/s72-c/Straight+Flowin'+(1).jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1996961792498809536
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/go-with-flow.html

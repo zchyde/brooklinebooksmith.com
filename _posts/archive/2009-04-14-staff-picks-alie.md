@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Staff Picks
 - Mysteries
-modified_date: '2009-04-14T21:40:22.584-04:00'
+modified_datetime: '2009-04-14T21:40:22.584-04:00'
 thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/SeU61iZDBTI/AAAAAAAAANU/VwowUJ0wkLc/s72-c/fourth+man.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2205955031414332978
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/04/staff-picks-alie.html

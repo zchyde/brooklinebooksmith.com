@@ -4,7 +4,7 @@ title: What is it about these Mad Men?
 date: '2012-04-02T16:02:00.002-04:00'
 author: Zoe Hyde
 tags: 
-modified_date: '2012-04-02T16:02:53.518-04:00'
+modified_datetime: '2012-04-02T16:02:53.518-04:00'
 thumbnail: http://2.bp.blogspot.com/-9eDwmKfUu-A/T3oBZ18eIVI/AAAAAAAAAII/2h_zf6JFm2Q/s72-c/mad%2Bwomen.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2906731298382768334
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/what-is-it-about-these-mad-men.html

@@ -7,7 +7,7 @@ tags:
 - Ten books
 - Amy is excited as usual
 - '2014'
-modified_date: '2013-12-30T09:00:05.844-05:00'
+modified_datetime: '2013-12-30T09:00:05.844-05:00'
 thumbnail: http://4.bp.blogspot.com/-HgC3lc7guSs/UsCECKT4xSI/AAAAAAAAAiQ/dlsTWKoCTz8/s72-c/Noggin+comp+rev2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4522512500006648986
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/12/theres-always-next-year.html

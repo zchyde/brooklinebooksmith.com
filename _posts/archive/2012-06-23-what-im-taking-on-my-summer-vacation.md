@@ -11,7 +11,7 @@ tags:
 - bring to me my goblet that I might fill it with decadence
 - Ulysses
 - Are You My Mother? Lorrie Moore
-modified_date: '2012-06-23T08:00:09.681-04:00'
+modified_datetime: '2012-06-23T08:00:09.681-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-982519036643371258
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/what-im-taking-on-my-summer-vacation.html
 ---

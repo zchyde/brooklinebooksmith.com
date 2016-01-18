@@ -14,7 +14,7 @@ tags:
 - moving
 - travel
 - change
-modified_date: '2013-09-24T17:42:54.336-04:00'
+modified_datetime: '2013-09-24T17:42:54.336-04:00'
 thumbnail: http://3.bp.blogspot.com/-b5_txuX6UK4/Uj3he5_rk1I/AAAAAAAAAxs/O9HMfNj1DYs/s72-c/IMG_9041.JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-470105701259052441
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/without-map.html

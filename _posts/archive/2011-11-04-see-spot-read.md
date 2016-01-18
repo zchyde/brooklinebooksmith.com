@@ -5,7 +5,7 @@ date: '2011-11-04T08:00:00.000-04:00'
 author: Natasha
 tags:
 - used books
-modified_date: '2011-11-08T19:33:34.711-05:00'
+modified_datetime: '2011-11-08T19:33:34.711-05:00'
 thumbnail: http://4.bp.blogspot.com/-GB8DWPQ9TAU/Tq2d-ZrTX7I/AAAAAAAAAKU/8x37jYsgRkg/s72-c/barlowe.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3508341874462494169
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/11/see-spot-read.html

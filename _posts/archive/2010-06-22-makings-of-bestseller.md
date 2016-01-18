@@ -4,7 +4,7 @@ title: The Makings of a Bestseller
 date: '2010-06-22T16:55:00.004-04:00'
 author: Eugenia
 tags: 
-modified_date: '2010-06-22T17:39:09.514-04:00'
+modified_datetime: '2010-06-22T17:39:09.514-04:00'
 thumbnail: http://2.bp.blogspot.com/_wjUuRMMlrgk/TCEmYwF34-I/AAAAAAAAAPg/VvAfCtguJmU/s72-c/BookGoldenDollarSign83041.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6673644837054661814
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/makings-of-bestseller.html

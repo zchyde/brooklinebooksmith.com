@@ -12,7 +12,7 @@ tags:
 - Gretel Ehrlich
 - place names
 - road trips
-modified_date: '2013-06-18T09:00:07.264-04:00'
+modified_datetime: '2013-06-18T09:00:07.264-04:00'
 thumbnail: http://1.bp.blogspot.com/-n9KHMeiBFfE/Ub4CbwbEKRI/AAAAAAAAAps/SB6RJL_QlVg/s72-c/61245-RA-2014-Slick-hi-res-cmyk-md.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3490419542310937226
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/happy-anniversary-rand-mcnally-atlas.html

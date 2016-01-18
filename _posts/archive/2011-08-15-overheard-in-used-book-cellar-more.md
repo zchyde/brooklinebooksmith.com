@@ -10,7 +10,7 @@ tags:
 - quotes
 - kids audio
 - father
-modified_date: '2011-08-15T15:20:22.851-04:00'
+modified_datetime: '2011-08-15T15:20:22.851-04:00'
 thumbnail: http://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s72-c/penny.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2760378671534960924
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/overheard-in-used-book-cellar-more.html

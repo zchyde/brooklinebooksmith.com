@@ -13,7 +13,7 @@ tags:
 - sailing
 - sea
 - denmark
-modified_date: '2012-04-27T09:54:40.531-04:00'
+modified_datetime: '2012-04-27T09:54:40.531-04:00'
 thumbnail: http://4.bp.blogspot.com/-X9JXv1dZDLE/T5qhZnSNxcI/AAAAAAAAAaM/csgMv_Jg0UI/s72-c/Islands+2.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-211932824058009907
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/sea-swept-and-fancy-free.html

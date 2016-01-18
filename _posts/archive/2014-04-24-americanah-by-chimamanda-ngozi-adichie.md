@@ -7,7 +7,7 @@ tags:
 - bestsellers
 - americanah
 - chimamanda ngozi adichie
-modified_date: '2014-04-24T12:00:42.064-04:00'
+modified_datetime: '2014-04-24T12:00:42.064-04:00'
 thumbnail: http://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s72-c/americanah.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9074958763352868200
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/americanah-by-chimamanda-ngozi-adichie.html

@@ -9,7 +9,7 @@ tags:
 - awards
 - not to brag
 - young adult
-modified_date: '2014-02-03T10:26:00.211-05:00'
+modified_datetime: '2014-02-03T10:26:00.211-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3224359692512794914
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/02/before-they-were-cool-newbery-caldecott.html
 ---

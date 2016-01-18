@@ -6,7 +6,7 @@ author: Lori
 tags:
 - Not Fiction
 - Bookselling Life
-modified_date: '2007-07-12T15:47:03.811-04:00'
+modified_datetime: '2007-07-12T15:47:03.811-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4612339767771890234
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/07/on-frustrations-of-university-presses_11.html
 ---

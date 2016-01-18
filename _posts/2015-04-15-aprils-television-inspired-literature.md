@@ -10,7 +10,7 @@ tags:
 - books
 - fairy tales
 - Once Upon a Time
-modified_date: '2015-04-15T09:00:09.399-04:00'
+modified_datetime: '2015-04-15T09:00:09.399-04:00'
 thumbnail: http://2.bp.blogspot.com/-jM5uHz5wwzE/VShP-ihrB6I/AAAAAAAAAQo/1A5ql6fDve0/s72-c/Untitled%2B1.gif
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-719285323373355392
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/04/aprils-television-inspired-literature.html

@@ -7,7 +7,7 @@ tags:
 - alex is reading
 - kids
 - young adult
-modified_date: '2014-12-08T11:35:59.770-05:00'
+modified_datetime: '2014-12-08T11:35:59.770-05:00'
 thumbnail: http://4.bp.blogspot.com/-tlcjuiOeBtk/VISnvsH_EWI/AAAAAAAAABY/q680fGlzDqY/s72-c/Absolutely-Truly-cover-2014.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5727351145162353351
 blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/12/alex-is-readingabsolutely-truly.html
