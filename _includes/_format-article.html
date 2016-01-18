@@ -1,4 +1,4 @@
-<div class="entry-content editable">
+<div class="entry-content">
   {% if page.image_path and page.image_path != '' %}
     <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
   {% endif %}
@@ -11,7 +11,7 @@
 
   {% if page.content %}
     <div class="items">
-      <div class="item">
+      <div class="item editable">
         {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
         {{ page.content  | markdownify }}
       </div>
