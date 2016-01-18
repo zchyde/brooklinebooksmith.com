@@ -1,4 +1,4 @@
-<div class="entry-content">
+<div class="entry-content editable">
   {% if page.image_path and page.image_path != '' %}
     <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
   {% endif %}
@@ -27,7 +27,7 @@
   {% if page.include == 'events/list-future.html' %}
      {% include events/list-future.html %}
   {% endif %}
-  
+
   {% if page.include == 'list-blog-posts.html' %}
      {% include list-blog-posts.html %}
   {% endif %}
