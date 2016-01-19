@@ -6,10 +6,12 @@ layout: default
 
       {% assign posts = site.posts %}
       {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
-      {% assign posts_limit = 5 %}
+      {% assign posts_limit = 10 %}
     <div class="cards">
       {% for object in posts limit:posts_limit %}
+      {% unless object.category == 'Holiday-Gift-Guide' %}
         {% include _format-blog-posts.html %}
+        {% endunless %}
       {% endfor %}
     </div>
     <a href="/blog/">
