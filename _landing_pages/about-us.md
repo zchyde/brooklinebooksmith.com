@@ -20,7 +20,9 @@ Brookline Booksmith, located just outside of Boston in Coolidge Corner, original
 
 &nbsp;
 
-[![](/uploads/versions/bostonparents---x----437-220x---.png)](http://bostonparentspaper.com/article/top-5-book-stores-in-massachusetts-in-2015.html)
+&nbsp;
+
+[![](/uploads/versions/bostonparents---x----437-220x---.png)](/kidsmith/2016/01/08/top-25-kids-books-of-2015/)
 
 ---
 
