@@ -10,7 +10,7 @@ book_isbn:
   - ''
 ---
 
-![](/uploads/versions/hqdefault---x----480-360x---.jpg)
+&nbsp;
 
 Amir Aczel wrote over 20 popular math and science books on a range of subjects - including Fermat's Last Theorem, Einstein, Infinity in mathematics and Kabbalah, the invention of the compass and the pendulum, chance, entanglement in physics, Teilhard de Chardin, Uranium, CERN, and why science doesn't disprove God. Most recently, he wrote about his search–and discovery–of a stele containing the oldest ever-found zero. This event is a chance for his friends and readers to talk about the subjects nearest to Amir's heart–everything from mathematics and physics to religion, anthropology, and culture.
 
