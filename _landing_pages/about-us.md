@@ -28,13 +28,13 @@ Brookline Booksmith, located just outside of Boston in Coolidge Corner, original
 
 [![](/uploads/versions/bob-clean-stack-year-solid---x----300-430x---.png)](http://www.bestofboston.com/winners/)
 
+&nbsp;
+
 ---
+
+[![](/uploads/versions/winner-ribbon---x----217-266x---.png)](http://boston.cityvoter.com/award/brookline-booksmith-best-bookstore-2014/776022)---
 
 [![](/uploads/versions/pheonix-best-2012---x----216-142x---.png)](http://contests.thephoenix.com/thebest/boston/2012/results/shop/bookstore,-new/)
-
----
-
-[![](/uploads/versions/winner-ribbon---x----217-266x---.png)](http://boston.cityvoter.com/award/brookline-booksmith-best-bookstore-2014/776022)
 
 ---
 
