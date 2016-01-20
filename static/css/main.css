@@ -1001,7 +1001,7 @@ article.hentry {
   article.hentry .items h3 {
     font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
   article.hentry .items hr {
-    border-top-color: #ccc;
+    border-top-color: #eee;
     margin: 4em 0 8em 0; }
   article.hentry img {
     max-width: 100%; }
