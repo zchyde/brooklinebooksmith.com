@@ -11,7 +11,7 @@
 
   {% if page.content %}
     <div class="items">
-      <div class="item editable">
+      <div class="item">
         {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
         {{ page.content  | markdownify }}
       </div>
