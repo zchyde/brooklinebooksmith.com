@@ -22,26 +22,6 @@ Brookline Booksmith, located just outside of Boston in Coolidge Corner, original
 
 &nbsp;
 
-[![](/uploads/versions/bostonparents---x----437-220x---.png)](/kidsmith/2016/01/08/top-25-kids-books-of-2015/)
+![](/uploads/versions/bosparents_small---x----100-100x---.png)![](/uploads/versions/bob-clean-stack-year-solid_small---x----100-100x---.png)![](/uploads/versions/winner-ribbon_small---x----100-100x---.png)
 
----
-
-[![](/uploads/versions/bob-clean-stack-year-solid---x----300-430x---.png)](http://www.bestofboston.com/winners/)
-
-&nbsp;
-
----
-
-[![](/uploads/versions/winner-ribbon---x----217-266x---.png)](http://boston.cityvoter.com/award/brookline-booksmith-best-bookstore-2014/776022)
-
----
-
-[![](/uploads/versions/pheonix-best-2012---x----216-142x---.png)](http://contests.thephoenix.com/thebest/boston/2012/results/shop/bookstore,-new/)
-
----
-
-[![Brookline HUB](/uploads/versions/brookline-hub-com-logo-tagline-8001---x----350-30x---.png)](http://www.brooklinehub.com/)
-
----
-
-[![](/uploads/versions/ccma---x----454-67x---.png)](http://www.coolidgecornermerchants.com/index.php)
+![](/uploads/versions/pheonix-best-2012---x----100-100x---.png)![](/uploads/versions/brooklinehub_small---x----100-100x---.png)![](/uploads/versions/ccma---x----100-100x---.png)
