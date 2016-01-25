@@ -4,8 +4,6 @@ featured_image_position: 50
 fancy_font: ''
 page_heading: ''
 Hardcover:
-  - '9781476748825'
-  - ''
   - '9780812988406'
   - '9781400067695'
   - '9780307962331'
