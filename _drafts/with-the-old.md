@@ -1,5 +1,5 @@
 ---
-title: With The Old
+title: "Hello Again! The Year's Best Children's Books"
 published: false
 date: ''
 description: ''
@@ -15,6 +15,8 @@ books:
 Whew! That sure was the holidays. With the pinnacle of gift-giving season behind us, the shelves restocked, and the deep breaths taken, I'm very excited to turn back to my old friend the Booksmith blog–now hosted on our new website, and involving a whole new process, so please: if you see something way, way weird in here, blame me. It's my fault. Mine and the technology's. There's a reason I'm primarily engaged with paper books.
 
 Since the last time you heard from me, the website is not the only thing that's braved and dazzled the public eye. The American Library Association Youth Media Awards, AKA the Oscars of kids' books (although, um, we've seen the nominations, and we think our awards did a *little* better than they did), were announced on January 11.
+
+![](/uploads/versions/img_2100---x----3264-2448x---.jpg)
 
 The Newbery was a historic choice this year. Usually the grand daddy of all children's literature prizes goes to a middle grade novel, but this time the award went to Matt de la Pe&ntilde;a and Christian Robinson's picture book [*Last Stop on Market Street*](http://www.brooklinebooksmith-shop.com/book/9780399257742). The Caldecott went to *[Finding Winnie](http://www.brooklinebooksmith-shop.com/book/9780316324908),*[which has been featured on our blog before](http://www.brooklinebooksmith.com/2015/11/02/bear-in-mind/). These are only the two best-known prizes, though–a full list can be found [here](http://www.ilovelibraries.org/article/2016-youth-media-awards-winners), and you can find most of the winners on display in the Kids' section.
 
