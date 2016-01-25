@@ -1,7 +1,7 @@
 ---
 title: Rules for a Knight
-isbn: null
-binding: null
-image_path: null
+isbn: '9780307962331'
+binding: Hardcover
+image_path: ''
 ---
 
