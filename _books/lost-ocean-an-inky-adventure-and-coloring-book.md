@@ -1,7 +1,7 @@
 ---
 title: 'Lost Ocean: An Inky Adventure and Coloring Book'
-isbn: null
-binding: null
-image_path: null
+isbn: '9780143108993'
+binding: Hardcover
+image_path: ''
 ---
 
