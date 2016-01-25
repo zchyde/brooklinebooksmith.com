@@ -1,7 +1,7 @@
 ---
 title: 'Star Wars: 5-Minute Star Wars Stories'
-isbn: null
-binding: null
-image_path: null
+isbn: '9781484728208'
+binding: Hardcover
+image_path: /uploads/9781484728208.jpg
 ---
 
