@@ -1,7 +1,7 @@
 ---
 title: The Man in the High Castle
-isbn: null
-binding: null
-image_path: null
+isbn: '9780547572482'
+binding: Hardcover
+image_path: /uploads/9780547572482.jpg
 ---
 
