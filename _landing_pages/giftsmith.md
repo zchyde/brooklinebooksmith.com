@@ -13,7 +13,7 @@ The Giftsmith began in 1997 and has since grown from a small wall of greeting ca
 
 ![](/uploads/versions/_dsc3201---copy---x----600-399x---.jpg)![](/uploads/versions/_dsc3736---copy---x----600-399x---.jpg)![](/uploads/versions/_dsc3705---copy---x----600-399x---.jpg)
 
-&nbsp;
+---
 
 &nbsp;
 
