@@ -8,3 +8,13 @@ fancy_font: Cabin-sketch
 ---
 
 The Giftsmith began in 1997 and has since grown from a small wall of greeting cards and a few quirky items to the current, beautifully designed room packed with everything from the sublime to the ridiculous. Our selection is award-winning and has helped us keep to our mission of being both an inspiring, iconic bookstore and a marvelous one-stop shopping experience. Many is the customer who remarks “I came in for a book” or “I came in for a gift” and then happily leaves with several of both.
+
+&nbsp;
+
+![](/uploads/versions/_dsc3201---copy---x----600-399x---.jpg)![](/uploads/versions/_dsc3736---copy---x----600-399x---.jpg)![](/uploads/versions/_dsc3705---copy---x----600-399x---.jpg)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
