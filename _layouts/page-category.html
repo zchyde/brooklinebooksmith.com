@@ -6,7 +6,7 @@ layout: default
       {% assign category_posts = site.posts | where: 'category', page.category %}
       {% assign posts_limit = 15 %}
       <h4 class="brand blocked">
-        Kidsmith Blog Posts
+        {{ page.title }} Blog Posts
       </h4>
 
     <div class="cards">
@@ -22,7 +22,7 @@ layout: default
   </article>
   <aside>
     <h4 class="brand blocked">
-      Kidsmith Events
+      {{ page.title }} Events
     </h4>
      {% include events/list-future.html format_output="long" program="childrens-story-time" %}
      <a href="/events/">
