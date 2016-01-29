@@ -1,5 +1,5 @@
 ---
-title: '**James Geary**, *Short Flights: 32 Modern Writers Share Aphorisms of Insight, Inspiration and Wit*'
+title: '**James Geary** *Short Flights: 32 Modern Writers Share Aphorisms of Insight, Inspiration and Wit*'
 published: true
 start_at: 2016-02-26T19:00:00.000Z
 image_path: ''
