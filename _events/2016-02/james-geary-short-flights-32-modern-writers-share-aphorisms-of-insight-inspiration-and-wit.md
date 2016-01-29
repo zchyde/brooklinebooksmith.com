@@ -3,7 +3,7 @@ title: '**James Geary**, *Short Flights: 32 Modern Writers Share Aphorisms of In
 published: true
 start_at: 2016-02-26T19:00:00.000Z
 image_path: ''
-book_category: ''
+book_category: Essays
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
