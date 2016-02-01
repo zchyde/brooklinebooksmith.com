@@ -30,17 +30,23 @@ Maybe they didn't get all the awards, but if you check out our front window, you
 
 [Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780553499117)&nbsp;a sprawling space opera filled with chaos, reluctant romance, and paperwork that really should not be getting into the wrong hands.
 
+&nbsp;
+
 ![](/uploads/versions/9780553499117---x----265-400x---.jpg)
 
 &nbsp;
 
 [Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780062403162) the story of all those other people, the normal kids just on the fringes of the Chosen Few, those extras in Sunnydale who never get a line, but they know *something* is weird about their school.
 
+&nbsp;
+
 ![](/uploads/versions/9780062403162---x----264-400x---.jpg)
 
 &nbsp;
 
 [Maybe you want](http://www.brooklinebooksmith-shop.com/book/9781481432320) a boy who is terrified of a baby brother who might not live, and the quiet, insistent, dry-winged monsters in the attic who whisper promises of better things. Maybe you want a book where love is stronger than monsters.
+
+&nbsp;
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)
 
