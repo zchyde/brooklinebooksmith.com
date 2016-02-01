@@ -1,7 +1,7 @@
 ---
 title: World Gone By
-isbn: null
-binding: null
-image_path: null
+isbn: '9780062351814'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/814/351/9780062351814.jpg'
 ---
 
