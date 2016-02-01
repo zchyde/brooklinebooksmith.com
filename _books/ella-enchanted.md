@@ -1,7 +1,7 @@
 ---
 title: Ella Enchanted
-isbn: null
-binding: null
-image_path: null
+isbn: '9780064407052'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/052/407/9780064407052.jpg'
 ---
 
