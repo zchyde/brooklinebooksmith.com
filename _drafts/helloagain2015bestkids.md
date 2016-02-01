@@ -1,9 +1,9 @@
 ---
 title: "Hello Again! The Year's Best Children's Books"
 published: false
-date: 2016-01-26T00:00:00.000Z
+date: 2016-02-01T02:40:00.000Z
 description: ''
-featured_image_path: ''
+featured_image_path: /uploads/img_2116.jpg
 featured_image_position: 50
 fancy_font: ''
 category: ''
