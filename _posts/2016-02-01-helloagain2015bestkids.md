@@ -28,11 +28,9 @@ Meanwhile–
 
 Maybe they didn't get all the awards, but if you check out our front window, you'll also find the Kidsmith booksellers' own first-place favorites for 2015.
 
-[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780553499117)&nbsp;a sprawling space opera filled with chaos, reluctant romance, and paperwork that really should not be getting into the wrong hands.
-
----
-
 ![](/uploads/versions/9780553499117---x----265-400x---.jpg)
+
+[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780553499117)&nbsp;a sprawling space opera filled with chaos, reluctant romance, and paperwork that really should not be getting into the wrong hands.
 
 ---
 
