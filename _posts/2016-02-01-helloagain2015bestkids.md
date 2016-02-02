@@ -29,17 +29,17 @@ Meanwhile–
 Maybe they didn't get all the awards, but if you check out our front window, you'll also find the Kidsmith booksellers' own first-place favorites for 2015.
 
 [Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780553499117) a sprawling space opera filled with chaos, reluctant romance, and paperwork that really should not be getting into the wrong hands.
-
+<br>
 ![](/uploads/versions/9780553499117---x----265-400x---.jpg)
-
+<br>
 [Maybe you want](http://www.brooklinebooksmith-shop.com/book/9780062403162) the story of all those other people, the normal kids just on the fringes of the Chosen Few, those extras in Sunnydale who never get a line, but they know *something* is weird about their school.
-
-
+<br>
 
 ![](/uploads/versions/9780062403162---x----264-400x---.jpg)
+<br>
 
-[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9781481432320) a boy who is terrified of a baby brother who might not live, and the quiet, insistent, dry-winged monsters in the attic who whisper promises of better things. Maybe you want a book where love is stronger than monsters.
+[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9781481432320) a boy who is terrified of a baby brother who might not live, and the quiet, insistent, dry-winged monsters in the attic who whisper promises of better things. Maybe you want a book where love is stronger than monsters.<br>
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)
-
+<br>
 Whatever you want, we've got a favorite for you. And, striding and reading into 2016 with a vengeance, we're sure to have more children's book love to share with you the next time you ask.
