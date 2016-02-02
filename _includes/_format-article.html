@@ -32,7 +32,7 @@
      {% include list-blog-posts.html %}
   {% endif %}
 
-  {% if page.books %}
+  {% if page.books and page.books[0] !='' %}
     {% include _format-list-books.html %}
   {% endif %}
 
