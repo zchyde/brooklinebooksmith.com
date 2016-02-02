@@ -38,7 +38,8 @@ Maybe they didn't get all the awards, but if you check out our front window, you
 ![](/uploads/versions/9780062403162---x----264-400x---.jpg)
 <br>
 
-[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9781481432320) a boy who is terrified of a baby brother who might not live, and the quiet, insistent, dry-winged monsters in the attic who whisper promises of better things. Maybe you want a book where love is stronger than monsters.<br>
+[Maybe you want](http://www.brooklinebooksmith-shop.com/book/9781481432320) a boy who is terrified of a baby brother who might not live, and the quiet, insistent, dry-winged monsters in the attic who whisper promises of better things. Maybe you want a book where love is stronger than monsters.
+<br>
 
 ![](/uploads/versions/9781481432320---x----283-400x---.jpg)
 <br>
