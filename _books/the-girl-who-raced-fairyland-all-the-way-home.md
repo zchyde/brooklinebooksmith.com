@@ -1,7 +1,7 @@
 ---
 title: The Girl Who Raced Fairyland All the Way Home
-isbn: null
-binding: null
-image_path: null
+isbn: '9781250023513'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/513/023/9781250023513.jpg'
 ---
 
