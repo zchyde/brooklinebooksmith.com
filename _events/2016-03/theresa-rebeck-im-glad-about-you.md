@@ -2,7 +2,7 @@
 title: '**Theresa Rebeck**  *I’m Glad About You*'
 published: false
 start_at: 2016-03-03T19:00:00.000Z
-image_path: ''
+image_path: 'http://images.booksense.com/images/885/172/9780399172885.jpg'
 book_category: FICTION
 program: '-writers-and-readers'
 ticketed: false
