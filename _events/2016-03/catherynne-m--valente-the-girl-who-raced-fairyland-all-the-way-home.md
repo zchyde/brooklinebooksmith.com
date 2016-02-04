@@ -1,13 +1,13 @@
 ---
 title: '**Catherynne M. Valente** *The Girl Who Raced Fairyland All the Way Home*'
 published: false
-start_at: 2016-01-15T09:00:00.000Z
-image_path: ''
-book_category: ''
+start_at: 2016-03-03T15:00:00.000Z
+image_path: 'http://images.booksense.com/images/513/023/9781250023513.jpg'
+book_category: KIDS
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
-  - null
+  - '9781250023513'
 ---
 
-
+Come celebrate the last volume of September’s adventures in Fairyland with a very special Fairyland party extravaganza. There will be costumes, fairy namings, photo ops and so much more!
