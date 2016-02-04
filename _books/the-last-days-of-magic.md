@@ -1,7 +1,7 @@
 ---
 title: The Last Days of Magic
-isbn: null
-binding: null
-image_path: null
+isbn: '9780525429531'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/531/429/9780525429531.jpg'
 ---
 
