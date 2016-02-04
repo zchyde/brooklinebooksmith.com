@@ -1,7 +1,7 @@
 ---
 title: "I'm Glad about You"
-isbn: null
-binding: null
-image_path: null
+isbn: '9780399172885'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/885/172/9780399172885.jpg'
 ---
 
