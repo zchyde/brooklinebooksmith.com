@@ -1,7 +1,7 @@
 ---
 title: 13 Ways of Looking at a Fat Girl
-isbn: null
-binding: null
-image_path: null
+isbn: '9780143128489'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/489/128/9780143128489.jpg'
 ---
 
