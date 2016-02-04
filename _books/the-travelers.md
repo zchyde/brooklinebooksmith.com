@@ -1,7 +1,7 @@
 ---
 title: The Travelers
-isbn: null
-binding: null
-image_path: null
+isbn: '9780385348485'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/485/348/9780385348485.jpg'
 ---
 
