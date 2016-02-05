@@ -1,8 +1,8 @@
 ---
 title: '**Theresa Rebeck**  *I’m Glad About You*'
-published: false
+published: true
 start_at: 2016-03-03T19:00:00.000Z
-image_path: 'http://images.booksense.com/images/885/172/9780399172885.jpg'
+image_path: ''
 book_category: FICTION
 program: '-writers-and-readers'
 ticketed: false
@@ -10,4 +10,4 @@ book_isbn:
   - '9780399172885'
 ---
 
-From Theresa Rebeck, Pulitzer Prize finalist playwright and creator of NBC’s Smash, I’m Glad About You is a glittering study of how far the compromises two people make will take them from the lives they were meant to live. Alison is determined to shed her Midwestern roots and emerge an actress. Kyle believes medicine can heal the world. What could these mismatched souls have to do with each other? Everything and nothing. Even as their fates rocket them forward and apart, neither can fully let go of the past.
+From Theresa Rebeck, Pulitzer Prize finalist playwright and creator of NBC’s *Smash*, *I’m Glad About You* is a glittering study of how far the compromises two people make will take them from the lives they were meant to live. Alison is determined to shed her Midwestern roots and emerge an actress. Kyle believes medicine can heal the world. What could these mismatched souls have to do with each other? Everything and nothing. Even as their fates rocket them forward and apart, neither can fully let go of the past.
