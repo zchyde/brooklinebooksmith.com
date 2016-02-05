@@ -1,6 +1,6 @@
 ---
 title: "**Children's Storytime**"
-published: false
+published: true
 start_at: 2016-03-27T10:30:00.000Z
 image_path: 'http://images.brooklinebooksmith.com/kids_storytime_web.jpg'
 program: childrens-story-time
