@@ -10,7 +10,7 @@ book_isbn:
   - '9780765336422'
 ---
 
-Appearing in conversation with**Max Gladstone**
+Appearing in conversation with&nbsp;**Max Gladstone**
 
 &nbsp;
 
