@@ -1183,7 +1183,7 @@ h3.event_title, .event_title {
   font-family: "Chronica W03 Black", "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 h1.special {
-  font-size: 2.5em !important; }
+  font-size: 1.75em !important; }
   @media screen and (min-width: 56.25em) {
     h1.special {
       font-size: 4em !important; } }
