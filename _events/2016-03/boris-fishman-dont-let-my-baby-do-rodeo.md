@@ -2,7 +2,7 @@
 title: '**Boris Fishman**  *Don’t Let My Baby Do Rodeo*'
 published: true
 start_at: 2016-03-16T19:00:00.000Z
-image_path: 'http://images.booksense.com/images/362/384/9780062384362.jpg'
+image_path: ''
 book_category: FICTION
 program: '-writers-and-readers'
 ticketed: false
