@@ -2,7 +2,7 @@
 title: '**Donna Leon**  *The Waters of Eternal Youth*'
 published: true
 start_at: 2016-03-30T18:00:00.000Z
-image_path: 'http://images.booksense.com/images/807/124/9780802124807.jpg'
+image_path: ''
 book_category: MYSTERY
 program: '-writers-and-readers'
 ticketed: true
