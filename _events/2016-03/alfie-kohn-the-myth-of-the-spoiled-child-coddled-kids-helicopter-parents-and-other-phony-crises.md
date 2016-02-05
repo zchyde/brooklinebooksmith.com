@@ -2,7 +2,7 @@
 title: '**Alfie Kohn** *The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other Phony Crises*'
 published: true
 start_at: 2016-03-09T19:00:00.000Z
-image_path: 'http://images.booksense.com/images/889/073/9780807073889.jpg'
+image_path: ''
 book_category: PARENTING
 program: '-writers-and-readers'
 ticketed: false
