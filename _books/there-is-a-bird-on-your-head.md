@@ -1,7 +1,7 @@
 ---
 title: 'There Is a Bird on Your Head!'
-isbn: null
-binding: null
-image_path: null
+isbn: '9781423106869'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/869/106/9781423106869.jpg'
 ---
 
