@@ -1012,7 +1012,10 @@ article.hentry {
 aside {
   font-size: .875em; }
   aside a {
-    color: #981C41; }
+    color: #981C41;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all; }
     aside a:hover {
       color: #333; }
   aside h6 {
