@@ -1,6 +1,7 @@
 ---
 title: Jackaby
-isbn: null
-binding: null
-image_path: null
+isbn: '9781616205461'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/461/205/9781616205461.jpg'
 ---
+
