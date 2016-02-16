@@ -18,11 +18,11 @@ Whether it's been pouring rain, pelting ice, blinding snow, or burning cold, thi
 
 I tend to think that while messy weather is a good time for books, some books are especially good in messy weather. Cuddle weather needs cuddle reads: the books that make your heart content. Here are ten books that I think will make you feel snug, with or without a cup of cocoa.
 
-*Creaturepedia* by Adrienne Barman - This bright, friendly, fully-illustrated guide to wildlife categorizes creatures like nobody else. Learn to look at animals in all kinds of ways you haven't before, and spend hours happily doing so.
+[*Creaturepedia*](http://www.brooklinebooksmith-shop.com/book/9781847806963) by Adrienne Barman - This bright, friendly, fully-illustrated guide to wildlife categorizes creatures like nobody else. Learn to look at animals in all kinds of ways you haven't before, and spend hours happily doing so.
 
-*Frog and Toad All Year*by Arnold Lobel - We've had every weather this month, and every weather is in this book. The wonderful thing about Frog and Toad stories is that they always feel whole. They're self-contained and interesting, tremendously funny and generous. A frog and a toad have never taught us more about what it really means to be a friend. (Easy reader.)
+*[Frog and Toad All Year](http://www.brooklinebooksmith-shop.com/book/9780064440592)*by Arnold Lobel - We've had every weather this month, and every weather is in this book. The wonderful thing about Frog and Toad stories is that they always feel whole. They're self-contained and interesting, tremendously funny and generous. A frog and a toad have never taught us more about what it really means to be a friend. (Easy reader.)
 
-*Coleccion de oro Jorge el curioso* by Margret and H.A. Rey - Our collection of children's books in Spanish has been steadily growing, I'm happy to say, and one of the coziest books among them is this hefty bilingual collection of Curious George stories. They're not the originals, but they've got all of George's style. (Picture book.)
+[*Coleccion de oro Jorge el curioso*](http://www.brooklinebooksmith-shop.com/book/9780547523101) by Margret and H.A. Rey - Our collection of children's books in Spanish has been steadily growing, I'm happy to say, and one of the coziest books among them is this hefty bilingual collection of Curious George stories. They're not the originals, but they've got all of George's style. (Picture book.)
 
 [*Arctic White*](http://www.brooklinebooksmith-shop.com/book/9781627791045) by Danna Smith, illustrated by Lee White - In the white winter Arctic, a girl and her family make a breath-catching trek over the nighttime ice to find color in the vast, vivid, brilliant display of the Northern Lights. (Picture book.)
 
