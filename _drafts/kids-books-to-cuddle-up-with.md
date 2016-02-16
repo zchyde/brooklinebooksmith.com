@@ -11,3 +11,5 @@ staff: null
 books:
   - null
 ---
+
+Whether it's been pouring rain, pelting ice, blinding snow, or burning cold, this February has been a month to stay indoors.
