@@ -20,8 +20,8 @@ I tend to think that while messy weather is a good time for books, some books ar
 
 *Arctic White* by Danna Smith, illustrated by Lee White - In the white winter Arctic, a girl and her family make a breath-catching trek over the nighttime ice to find color in the vast, vivid, brilliant display of the Northern Lights. (Picture book.)
 
-***The Barefoot Book of Classic Poems* compiled and illustrated by Jackie Morris - Saturated with Jackie Morris's warm, stylish painted illustrations, this is a lovely poetry collection to read together, with plenty of variety in style and tone. (All ages.)
+*The Barefoot Book of Classic Poems* compiled and illustrated by Jackie Morris - Saturated with Jackie Morris's warm, stylish painted illustrations, this is a lovely poetry collection to read together, with plenty of variety in style and tone. (All ages.)
 
 *Tuck Everlasting* by Natalie Babbitt - Winnie Foster finds herself with a momentous choice when she meets the immortal Tuck family. Will she drink the water of life and stay with them always, or go back to normal life? This contemplative classic is a the kind of dream you bask in while you're reading it. Would you make the same choice as Winnie? (Intermediate.)
 
-&nbsp;
+*The Radiant Road* by Katherine Catmull - One of my favorite new books of the year so far is this fairy tale of a YA novel. Clare returns to Ireland and faces terrible danger, but Catmull spins her words into warm, living, growing, powerful things.
