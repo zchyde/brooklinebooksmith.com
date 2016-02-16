@@ -28,15 +28,14 @@ I tend to think that while messy weather is a good time for books, some books ar
 
 *The Barefoot Book of Classic Poems* compiled and illustrated by Jackie Morris - Saturated with Jackie Morris's warm, stylish painted illustrations, this is a lovely poetry collection to read together, with plenty of variety in style and tone. (All ages.)
 
-*The Authoritative Calvin and Hobbes* by Bill Watterson - If you have ever met a kid with their own Calvin and Hobbes books, odds are those things are worn to bits. Calvin and Hobbes aren't just best friends: when you read about them, they're *your*friends. All it takes is them whiling away the hours to while away your own.
-**
+*The Authoritative Calvin and Hobbes* by Bill Watterson - If you have ever met a kid with their own Calvin and Hobbes books, odds are those things are worn to bits. Calvin and Hobbes aren't just best friends: when you read about them, they're *your*friends. All it takes is them whiling away the hours to while away your own. \*\*
 
 *Tuck Everlasting* by Natalie Babbitt - Winnie Foster finds herself with a momentous choice when she meets the immortal Tuck family. Will she drink the water of life and stay with them always, or go back to normal life? This contemplative classic is a the kind of dream you bask in while you're reading it. Would you make the same choice as Winnie? (Intermediate.)
 
 *The Radiant Road* by Katherine Catmull - One of my favorite new books of the year so far is this fairy tale of a YA novel. Clare returns to Ireland and faces terrible danger, but Catmull spins her words into warm, living, growing, powerful things. (Young adult.)
 
-When you finally need to just **DO SOMETHING, try coloring a page of Kerby Rosanes's *Animorphia*, a coloring book that lets you feel fidgety with a combination of colossal, realistic animals, otherworldly cartoon characters, and doodle pages for your own inventions.
+When you finally need to just DO SOMETHING, try coloring a page of Kerby Rosanes's [*Animorphia*](http://www.brooklinebooksmith-shop.com/book/9780147518361), a coloring book that lets you feel fidgety with a combination of colossal, realistic animals, otherworldly cartoon characters, and doodle pages for your own inventions.
 
-When even that won't do the trick, pull out the secret weapon*:**Wee Sing*sing-alongs. These things have been around for decades, with their catchy tunes and kid chorus. *The Best of Wee Sing* is a compilation of some of their best-loved songs and children's classics. Maybe don't break it out first thing in the morning, but when you all need to blow off a little steam, bellowing along to something cheery can really do the trick.
+When even that won't do the trick, pull out the secret weapon*: Wee Sing*sing-alongs. These things have been around for decades, with their catchy tunes and kid chorus. [*The Best of Wee Sing*](http://www.brooklinebooksmith-shop.com/book/9780843121841) is a compilation of some of their best-loved songs and children's classics. Maybe don't break it out first thing in the morning, but when you all need to blow off a little steam, bellowing along to something cheery can really do the trick.
 
 &nbsp;
