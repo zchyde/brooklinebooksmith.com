@@ -12,6 +12,8 @@ books:
   - ''
 ---
 
+![](/uploads/versions/img_2281---x----1632-1224x---.jpg)
+
 Whether it's been pouring rain, pelting ice, blinding snow, or burning cold, this February has been a month to stay indoors. You could use the time you're trapped inside to feverishly organize everything you own, or you could stare into the forgiving face of Netflix for ten hours at a time. (There are ten seasons of *Friends*. There are seven seasons of *Gilmore Girls*. There are a *number*of infinitely re-watchable David Attenborough nature specials. I know. These things are tempting. The David Attenborough specials are very, very good.) But what better time to hunker down with a book than when the outdoors are uninviting?
 
 I tend to think that while messy weather is a good time for books, some books are especially good in messy weather. Cuddle weather needs cuddle reads: the books that make your heart content. Here are ten books that I think will make you feel snug, with or without a cup of cocoa.
@@ -31,4 +33,10 @@ I tend to think that while messy weather is a good time for books, some books ar
 
 *Tuck Everlasting* by Natalie Babbitt - Winnie Foster finds herself with a momentous choice when she meets the immortal Tuck family. Will she drink the water of life and stay with them always, or go back to normal life? This contemplative classic is a the kind of dream you bask in while you're reading it. Would you make the same choice as Winnie? (Intermediate.)
 
-*The Radiant Road* by Katherine Catmull - One of my favorite new books of the year so far is this fairy tale of a YA novel. Clare returns to Ireland and faces terrible danger, but Catmull spins her words into warm, living, growing, powerful things.
+*The Radiant Road* by Katherine Catmull - One of my favorite new books of the year so far is this fairy tale of a YA novel. Clare returns to Ireland and faces terrible danger, but Catmull spins her words into warm, living, growing, powerful things. (Young adult.)
+
+When you finally need to just **DO SOMETHING, try coloring a page of Kerby Rosanes's *Animorphia*, a coloring book that lets you feel fidgety with a combination of colossal, realistic animals, otherworldly cartoon characters, and doodle pages for your own inventions.
+
+When even that won't do the trick, pull out the secret weapon*:**Wee Sing*sing-alongs. These things have been around for decades, with their catchy tunes and kid chorus. *The Best of Wee Sing* is a compilation of some of their best-loved songs and children's classics. Maybe don't break it out first thing in the morning, but when you all need to blow off a little steam, bellowing along to something cheery can really do the trick.
+
+&nbsp;
