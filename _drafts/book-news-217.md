@@ -1,6 +1,6 @@
 ---
 title: 'This Week In Books: Black Creators'
-published: false
+published: true
 date: 2016-02-17T09:00:00.000Z
 description: 'Credit: Shaniqwa Jarvis for The New York Times'
 featured_image_path: /uploads/07jackson1-superjumbo-v4.jpg
