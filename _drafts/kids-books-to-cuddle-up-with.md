@@ -20,7 +20,7 @@ I tend to think that while messy weather is a good time for books, some books ar
 
 [*Creaturepedia*](http://www.brooklinebooksmith-shop.com/book/9781847806963) by Adrienne Barman - This bright, friendly, fully-illustrated guide to wildlife categorizes creatures like nobody else. Learn to look at animals in all kinds of ways you haven't before, and spend hours happily doing so.
 
-*[Frog and Toad All Year](http://www.brooklinebooksmith-shop.com/book/9780064440592)*by Arnold Lobel - We've had every weather this month, and every weather is in this book. The wonderful thing about Frog and Toad stories is that they always feel whole. They're self-contained and interesting, tremendously funny and generous. A frog and a toad have never taught us more about what it really means to be a friend. (Easy reader.)
+*[Frog and Toad All Year](http://www.brooklinebooksmith-shop.com/book/9780064440592)* by Arnold Lobel - We've had every weather this month, and every weather is in this book. The wonderful thing about Frog and Toad stories is that they always feel whole. They're self-contained and interesting, tremendously funny and generous. A frog and a toad have never taught us more about what it really means to be a friend. (Easy reader.)
 
 [*Coleccion de oro Jorge el curioso*](http://www.brooklinebooksmith-shop.com/book/9780547523101) by Margret and H.A. Rey - Our collection of children's books in Spanish has been steadily growing, I'm happy to say, and one of the coziest books among them is this hefty bilingual collection of Curious George stories. They're not the originals, but they've got all of George's style. (Picture book.)
 
@@ -34,8 +34,8 @@ I tend to think that while messy weather is a good time for books, some books ar
 
 [*The Radiant Road*](http://www.brooklinebooksmith-shop.com/book/9780525953470) by Katherine Catmull - One of my favorite new books of the year so far is this fairy tale of a YA novel. Clare returns to Ireland and faces terrible danger, but Catmull spins her words into warm, living, growing, powerful things. (Young adult.)
 
-When you finally need to just DO SOMETHING, try coloring a page of Kerby Rosanes's [*Animorphia*](http://www.brooklinebooksmith-shop.com/book/9780147518361), a coloring book that lets you feel fidgety with a combination of colossal, realistic animals, otherworldly cartoon characters, and doodle pages for your own inventions.
+When you finally need to just DO SOMETHING, try coloring a page of Kerby Rosanes's [*Animorphia*](http://www.brooklinebooksmith-shop.com/book/9780147518361), a coloring book that lets you feel fidgety with a combination of colossal, realistic animals; otherworldly cartoon characters; and doodle pages for your own inventions.
 
-When even that won't do the trick, pull out the secret weapon*: Wee Sing*sing-alongs. These things have been around for decades, with their catchy tunes and kid chorus. [*The Best of Wee Sing*](http://www.brooklinebooksmith-shop.com/book/9780843121841) is a compilation of some of their best-loved songs and children's classics. Maybe don't break it out first thing in the morning, but when you all need to blow off a little steam, bellowing along to something cheery can really do the trick.
+When even that won't do the trick, pull out the secret weapon*: Wee Sing* sing-alongs. These things have been around for decades, with their catchy tunes and kid chorus. [*The Best of Wee Sing*](http://www.brooklinebooksmith-shop.com/book/9780843121841) is a compilation of some of their best-loved songs and children's classics. Maybe don't break it out first thing in the morning, but when you all need to blow off a little steam, bellowing along to something cheery can really do the trick.
 
 &nbsp;
