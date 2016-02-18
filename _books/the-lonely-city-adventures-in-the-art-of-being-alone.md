@@ -1,6 +1,7 @@
 ---
 title: 'The Lonely City: Adventures in the Art of Being Alone'
-isbn: null
-binding: null
-image_path: null
+isbn: '9781250039576'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/576/039/9781250039576.jpg'
 ---
+
