@@ -1,6 +1,6 @@
 ---
 title: '**Olivia Laing** *The Lonely City: Adventures in the Art of Being Alone*'
-published: false
+published: true
 start_at: 2016-03-18T19:00:00.000Z
 image_path: ''
 book_category: BIOGRAPHY/MEMOIR
