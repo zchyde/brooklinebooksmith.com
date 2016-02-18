@@ -1,12 +1,13 @@
 ---
-title: 'Rania Matar: L’Enfant-Femme'
-published: false
-start_at: 2016-01-15T09:00:00.000Z
+title: '**Rania Matar** *Rania Matar: L’Enfant-Femme*'
+published: true
+start_at: 2016-03-31T19:00:00.000Z
 image_path: ''
-book_category: ''
+book_category: PHOTOGRAPHY
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
-  - null
+  - '9788862084505'
 ---
 
+In today’s world of endless photographing, tagging and posting images online, what is a pre-teen girl’s relationship to the camera? Photographing girls in the Middle East and the United States, Rania Matar makes us examine our universality, a beauty that transcends place, background and religion. Candidly capturing her subjects at a critical juncture in the early stages of adolescence, Matar conveys the confluence of angst, sexuality and personhood that defines the progression from childhood into adulthood.
