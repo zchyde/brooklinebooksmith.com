@@ -1,9 +1,9 @@
 ---
 title: "Kids' Books to Cuddle Up With"
-published: false
+published: true
 date: 2016-02-18T09:00:00.000Z
 description: ''
-featured_image_path: ''
+featured_image_path: /uploads/banner_alex_2.jpg
 featured_image_position: 50
 fancy_font: ''
 category: kidsmith
@@ -12,7 +12,9 @@ books:
   - ''
 ---
 
-![](/uploads/versions/img_2281---x----1632-1224x---.jpg)
+&nbsp;
+
+![](/uploads/versions/img_2281-compressor---x----500-375x---.jpg)
 
 Whether it's been pouring rain, pelting ice, blinding snow, or burning cold, this February has been a month to stay indoors. You could use the time you're trapped inside to feverishly organize everything you own, or you could stare into the forgiving face of Netflix for ten hours at a time. There are ten seasons of *Friends*. There are seven seasons of *Gilmore Girls*. There are a *number* of infinitely re-watchable David Attenborough nature specials. I know. These things are tempting. The David Attenborough specials are very, very good. But what better time to hunker down with a book than when the outdoors are uninviting?
 
