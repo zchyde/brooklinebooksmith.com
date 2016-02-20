@@ -20,7 +20,7 @@ Picks from Alex!
 
 ![](/uploads/versions/nick-and-norahs-infinite-playlist-paperback---x----393-594x---.jpg)
 
-**Nick and Norah's Infinite Playlist** by: Racehl Cohn & David Levithan
+[**Nick and Norah's Infinite Playlist**](http://www.brooklinebooksmith-shop.com/book/9780375835339) by: Racehl Cohn & David Levithan
 
 When the future is looming, step into the night and let the music catch you.
 
@@ -30,7 +30,7 @@ When the future is looming, step into the night and let the music catch you.
 
 ![](/uploads/versions/jellicoeroadmelinamarchetta---x----315-475x---.jpg)
 
-**Jellicoe Road** by: Melina Marchetta
+[**Jellicoe Road**](http://www.brooklinebooksmith-shop.com/book/9780061431852) by: Melina Marchetta
 
 Like a drowning, burning, wonderful punch to the heart, it's everything YA in one book.
 
@@ -40,7 +40,7 @@ Like a drowning, burning, wonderful punch to the heart, it's everything YA in on
 
 ![](/uploads/versions/weefreemen---x----328-500x---.jpg)
 
-**Wee Free Men** by: Terry Pratchett&nbsp;
+[**Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett&nbsp;
 
 When the world's in peril, can you do better than a witch, a frying pan, and some angry tiny guys?
 
@@ -48,7 +48,7 @@ When the world's in peril, can you do better than a witch, a frying pan, and som
 
 ---
 
-![](/uploads/versions/dealingwithdragons---x----336-499x---.jpg)
+&nbsp;
 
 **Dealing With Dragons** by: Patricia Wrede
 
