@@ -14,7 +14,7 @@ books:
 
 Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and re-tweets! (haven't seen the Kidsmith twitter? check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks))
 
-&nbsp;
+![](/uploads/versions/fullsizerender---x----1224-1632x---.jpg)
 
 ---
 
