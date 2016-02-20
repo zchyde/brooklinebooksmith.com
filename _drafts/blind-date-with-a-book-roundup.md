@@ -102,7 +102,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/these-broken-stars---x----93-140x---.jpg)
 
-**These Broken Stars**by: Amie Kaufman & Meghan Spooner
+[**These Broken Stars**](http://www.brooklinebooksmith-shop.com/book/9781423171218) by: Amie Kaufman & Meghan Spooner
 
 &nbsp; &nbsp; Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
 
@@ -110,7 +110,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/thsisongwillsaveyourlife---x----93-140x---.jpg)
 
-**This Song Will Save Your Life** by: Leila Sales
+[**This Song Will Save Your Life**](http://www.brooklinebooksmith-shop.com/book/9781250050748) by: Leila Sales
 
 &nbsp; &nbsp; In life you'll meet a lot of people. Some of them are jerks. Some of them help you figure out who you are.
 
@@ -118,7 +118,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/this-is-what-happy-looks-like---x----93-140x---.jpg)
 
-**This is What Happy Looks Like**by: Jennifer E Smith
+**[This is What Happy Looks Like](http://www.brooklinebooksmith-shop.com/book/9780316212816)**by: Jennifer E. Smith
 
 &nbsp; &nbsp; One boy. One girl. One mis-sent email about a pig named Wilbur.
 
@@ -128,13 +128,13 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**I'll Give You The Sun**](http://www.brooklinebooksmith-shop.com/book/9780142425763) by: Jandy Nelson
 
-&nbsp; &nbsp; Love is a messy, complicated, beautiful, poetic, disaster.
+&nbsp; &nbsp; Love is a messy, complicated, beautiful, poetic disaster.
 
 ---
 
 ![](/uploads/versions/case-of-the-moonstone---x----271-400x---.jpg)
 
-[**Case of the Missing Moonstone (Wollstonecraft Detective bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
+[**The Case of the Missing Moonstone (The Wollstonecraft Detective Agency bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
 
 &nbsp; &nbsp; High stakes Victorian adventure with your new favorite, female, Sherlock-Watson style duo!
 
@@ -158,7 +158,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/3---x----275-400x---.jpg)
 
-[**Iron Trial (Magisterium bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
+[**The Iron Trial (Magisterium bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
 
 &nbsp; &nbsp; If there's a magic school there's a super villain. There's probably a rule about it somewhere.
 
@@ -170,9 +170,9 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/young-elites---x----267-400x---.jpg)
 
-[**Young Elites**](http://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
+[**The Young Elites**](http://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
 
-&nbsp; &nbsp; This is not the story of a heroine, but &nbsp;the birth of a villainess.
+&nbsp; &nbsp; This is not the story of a heroine, but the birth of a villainess.
 
 ---
 
@@ -186,7 +186,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/darkest-part-of-the-forest---x----267-400x---.jpg)
 
-[**Darkest Part of the Forest**](http://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
+[**The Darkest Part of the Forest**](http://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
 
 &nbsp; &nbsp; These are most definitely NOT your Disney faeries.
 
@@ -196,21 +196,21 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**Daughter of Smoke and Bone**](http://www.brooklinebooksmith-shop.com/book/9780316133999) by: Laini Taylor
 
-&nbsp; &nbsp; If and angel and a devil fall in love, will the world survive?
+&nbsp; &nbsp; If an angel and a devil fall in love, will the world survive?
 
 ---
 
 ![](/uploads/versions/search-for-wondla---x----266-400x---.jpg)
 
-[**Search for Wondla**](http://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
+[**The Search for Wondla**](http://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
 
-&nbsp; &nbsp; Welcome to Earth. It &nbsp;just might look a little… different
+&nbsp; &nbsp; Welcome to Earth. It just might look a little… different.
 
 ---
 
 ![](/uploads/versions/glass-sentence---x----257-400x---.jpg)
 
-[**Glass Sentence**](http://www.brooklinebooksmith-shop.com/book/9780142423660) by: S E Grove
+[**The Glass Sentence**](http://www.brooklinebooksmith-shop.com/book/9780142423660) by: S. E. Grove
 
 &nbsp; &nbsp; Maps can be dangerous things indeed.
 
@@ -218,7 +218,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/last-wild---x----261-400x---.jpg)
 
-[**Last Wild**](http://www.brooklinebooksmith-shop.com/book/9780147509659) by: Piers Torday
+[**The Last Wild**](http://www.brooklinebooksmith-shop.com/book/9780147509659) by: Piers Torday
 
 You were kidnapped by pigeons, and a talking cockroach is telling you to save the world. What would you do?
 
