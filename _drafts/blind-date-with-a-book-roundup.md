@@ -1,12 +1,12 @@
 ---
 title: 'Roundup: Kidsmith Blind Date with a Book'
 published: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-02-22T09:00:00.000Z
 description: ''
 featured_image_path: ''
 featured_image_position: 50
 fancy_font: ''
-category: ''
+category: kidsmith
 staff: '-staff-'
 books:
   - ''
@@ -32,15 +32,11 @@ When the future is looming, step into the night and let the music catch you.
 
 ---
 
----
-
 ![](/uploads/versions/jellicoe-rd---x----266-400x---.jpg)
 
 [**Jellicoe Road**](http://www.brooklinebooksmith-shop.com/book/9780061431852) by: Melina Marchetta
 
 Like a drowning, burning, wonderful punch to the heart, it's everything YA in one book.
-
----
 
 ---
 
@@ -52,15 +48,11 @@ When the world's in peril, can you do better than a witch, a frying pan, and som
 
 ---
 
----
-
 ![](/uploads/versions/dealing-with-dragons---x----94-140x---.jpg)
 
 [**Dealing With Dragons**](http://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
 
 Best princess. Best dragons. Worst wizards. Go.
-
----
 
 ---
 
@@ -72,15 +64,11 @@ Wonder + Hatchet + your best, biggest box of tissues
 
 ---
 
----
-
 ![](/uploads/versions/saffy's-angel---x----94-140x---.jpg)
 
 [**Saffy’s Angel**](http://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
 
 You ran out of Penderwicks?! Pick up this book.
-
----
 
 ---
 
@@ -96,13 +84,11 @@ Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kin
 
 [**Wind in the Willows**](http://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
 
-If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.****
+If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.**
 
 ---
 
 ***Picks from Amy!***
-
----
 
 ---
 
@@ -118,7 +104,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 **These Broken Stars** by: Amie Kaufman & Meghan Spooner
 
-&nbsp; &nbsp; Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually...)
+&nbsp; &nbsp; Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
 
 ---
 
@@ -166,7 +152,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Great Greene Heist**](http://www.brooklinebooksmith-shop.com/book/9780545525534) by: Varian Johnson
 
-&nbsp; &nbsp; He swore he'd stop with the cons...okay maybe one more...but it's for a good reason!
+&nbsp; &nbsp; He swore he'd stop with the cons…okay maybe one more…but it's for a good reason!
 
 ---
 
@@ -190,7 +176,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-****![](/uploads/versions/jackaby---x----266-400x---.jpg)
+**![](/uploads/versions/jackaby---x----266-400x---.jpg)
 
 [**Jackaby**](http://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
 
@@ -240,4 +226,4 @@ You were kidnapped by pigeons, and a talking cockroach is telling you to save th
 
 &nbsp;
 
-****
+---
