@@ -12,7 +12,7 @@ books:
   - ''
 ---
 
-Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and re-tweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
+Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
 
 ---
 
@@ -26,7 +26,7 @@ Blind Date with a Book was a resounding success in the Kidsmith! We want to than
 
 ![](/uploads/versions/nick-and-nora---x----268-400x---.jpg)
 
-[**Nick and Norah's Infinite Playlist**](http://www.brooklinebooksmith-shop.com/book/9780375835339) by: Racehl Cohn & David Levithan
+[**Nick and Norah's Infinite Playlist**](http://www.brooklinebooksmith-shop.com/book/9780375835339) by: Rachel Cohn & David Levithan
 
 When the future is looming, step into the night and let the music catch you.
 
@@ -42,7 +42,7 @@ Like a drowning, burning, wonderful punch to the heart, it's everything YA in on
 
 ![](/uploads/versions/wee-free-men---x----265-400x---.jpg)
 
-[**Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett&nbsp;
+[**The Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett&nbsp;
 
 When the world's in peril, can you do better than a witch, a frying pan, and some angry tiny guys?
 
@@ -60,7 +60,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 [**The Honest Truth**](http://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
 
-Wonder + Hatchet + your best, biggest box of tissues
+*Wonder*+ *Hatchet*+ your best, biggest box of tissues
 
 ---
 
@@ -82,9 +82,9 @@ Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kin
 
 ![](/uploads/versions/wind-in-the-willows---x----290-400x---.jpg)
 
-[**Wind in the Willows**](http://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
+[**The Wind in the Willows**](http://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
 
-If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.**
+If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.\*\*
 
 ---
 
@@ -102,7 +102,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/these-broken-stars---x----93-140x---.jpg)
 
-**These Broken Stars** by: Amie Kaufman & Meghan Spooner
+**These Broken Stars**by: Amie Kaufman & Meghan Spooner
 
 &nbsp; &nbsp; Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
 
@@ -176,7 +176,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-**![](/uploads/versions/jackaby---x----266-400x---.jpg)
+\*\*![](/uploads/versions/jackaby---x----266-400x---.jpg)
 
 [**Jackaby**](http://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
 
