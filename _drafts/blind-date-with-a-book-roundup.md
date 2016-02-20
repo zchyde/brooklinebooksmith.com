@@ -126,4 +126,36 @@ A book about growing up, moving on, and maybe a body transplant.
 
 &nbsp;
 
+**I'll Give You The Sun** by: Jandy Nelson
+
+&nbsp; &nbsp; Love is a messy, complicated, beautiful, poetic, disaster.
+
+---
+
+![](/uploads/versions/case-of-the-moonstone---x----271-400x---.jpg)
+
+[**Case of the Missing Moonstone (Wollstonecraft Detective bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
+
+&nbsp; &nbsp; High stakes Victorian adventure with your new favorite, female, Sherlock-Watson style duo!
+
+---
+
+![](/uploads/versions/bridge-to-terabithia---x----243-400x---.jpg)
+
+[**Bridge to Terabithia**](http://www.brooklinebooksmith-shop.com/book/9780060734015) by: Katherine Paterson
+
+&nbsp; &nbsp; We all need somewhere to escape to and someone to escape with.
+
+---
+
+![](/uploads/versions/great-greene-heist---x----275-400x---.jpg)
+
+[**The Great Greene Heist**](http://www.brooklinebooksmith-shop.com/book/9780545525534) by: Varian Johnson
+
+&nbsp; &nbsp; He swore he'd stop with the cons...okay maybe one more...but it's for a good reason!
+
+---
+
+&nbsp;
+
 &nbsp;
