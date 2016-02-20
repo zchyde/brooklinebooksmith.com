@@ -12,7 +12,9 @@ books:
   - null
 ---
 
-Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks))
+Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and re-tweets! (haven't seen the Kidsmith twitter? check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks))
+
+&nbsp;
 
 ---
 
@@ -218,10 +220,22 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-&nbsp;
+![](/uploads/versions/glass-sentence---x----257-400x---.jpg)
 
-**Glass Sentence** by: S E Grove
+[**Glass Sentence**](http://www.brooklinebooksmith-shop.com/book/9780142423660) by: S E Grove
 
 &nbsp; &nbsp; Maps can be dangerous things indeed.
+
+---
+
+![](/uploads/versions/last-wild---x----261-400x---.jpg)
+
+[**Last Wild**](http://www.brooklinebooksmith-shop.com/book/9780147509659) by: Piers Torday
+
+You were kidnapped by pigeons, and a talking cockroach is telling you to save the world. What would you do?
+
+---
+
+&nbsp;
 
 ****
