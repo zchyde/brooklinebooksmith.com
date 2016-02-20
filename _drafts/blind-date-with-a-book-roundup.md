@@ -1,18 +1,20 @@
 ---
-title: Blind Date with a Book Roundup
+title: 'Roundup: Kidsmith Blind Date with a Book'
 published: false
 date: 2016-01-15T09:00:00.000Z
-description: null
-featured_image_path: null
+description: ''
+featured_image_path: ''
 featured_image_position: 50
-fancy_font: null
-category: null
-staff: null
+fancy_font: ''
+category: ''
+staff: '-staff-'
 books:
-  - null
+  - ''
 ---
 
-Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and re-tweets! (haven't seen the Kidsmith twitter? check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks))
+Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and re-tweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
+
+---
 
 ![](/uploads/versions/fullsizerender---x----1224-1632x---.jpg)
 
