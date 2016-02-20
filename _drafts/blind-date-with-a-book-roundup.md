@@ -14,7 +14,9 @@ books:
 
 Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks))
 
-Picks from Alex!
+---
+
+***Picks from Alex!***
 
 ---
 
@@ -86,7 +88,15 @@ Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kin
 
 ---
 
-Picks from Amy!
+![](/uploads/versions/wind-in-the-willows---x----290-400x---.jpg)
+
+[**Wind in the Willows**](http://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
+
+If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.****
+
+---
+
+***Picks from Amy!***
 
 ---
 
@@ -124,9 +134,9 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-&nbsp;
+![](/uploads/versions/ill-give-you-the-sun---x----267-400x---.jpg)
 
-**I'll Give You The Sun** by: Jandy Nelson
+[**I'll Give You The Sun**](http://www.brooklinebooksmith-shop.com/book/9780142425763) by: Jandy Nelson
 
 &nbsp; &nbsp; Love is a messy, complicated, beautiful, poetic, disaster.
 
@@ -156,6 +166,62 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-&nbsp;
+![](/uploads/versions/3---x----275-400x---.jpg)
+
+[**Iron Trial (Magisterium bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
+
+&nbsp; &nbsp; If there's a magic school there's a super villain. There's probably a rule about it somewhere.
+
+---
+
+***Picks from Clarissa!***
+
+---
+
+![](/uploads/versions/young-elites---x----267-400x---.jpg)
+
+[**Young Elites**](http://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
+
+&nbsp; &nbsp; This is not the story of a heroine, but &nbsp;the birth of a villainess.
+
+---
+
+****![](/uploads/versions/jackaby---x----266-400x---.jpg)
+
+[**Jackaby**](http://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
+
+&nbsp; &nbsp; Folklore, mystery, sharp wit and a dash of the macabre. Oh and a tip? Don’t Stare At The Frog.
+
+---
+
+![](/uploads/versions/darkest-part-of-the-forest---x----267-400x---.jpg)
+
+[**Darkest Part of the Forest**](http://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
+
+&nbsp; &nbsp; These are most definitely NOT your Disney faeries.
+
+---
+
+![](/uploads/versions/daughter-of-smoke-and-bone---x----262-400x---.jpg)
+
+[**Daughter of Smoke and Bone**](http://www.brooklinebooksmith-shop.com/book/9780316133999) by: Laini Taylor
+
+&nbsp; &nbsp; If and angel and a devil fall in love, will the world survive?
+
+---
+
+![](/uploads/versions/search-for-wondla---x----266-400x---.jpg)
+
+[**Search for Wondla**](http://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
+
+&nbsp; &nbsp; Welcome to Earth. It &nbsp;just might look a little… different
+
+---
 
 &nbsp;
+
+**Glass Sentence** by: S E Grove
+
+&nbsp; &nbsp; Maps can be dangerous things indeed.
+
+****
