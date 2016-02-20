@@ -18,7 +18,7 @@ Picks from Alex!
 
 ---
 
-![](/uploads/versions/nick-and-norahs-infinite-playlist-paperback---x----393-594x---.jpg)
+![](/uploads/versions/nick-and-nora---x----268-400x---.jpg)
 
 [**Nick and Norah's Infinite Playlist**](http://www.brooklinebooksmith-shop.com/book/9780375835339) by: Racehl Cohn & David Levithan
 
@@ -28,7 +28,7 @@ When the future is looming, step into the night and let the music catch you.
 
 ---
 
-![](/uploads/versions/jellicoeroadmelinamarchetta---x----315-475x---.jpg)
+![](/uploads/versions/jellicoe-rd---x----266-400x---.jpg)
 
 [**Jellicoe Road**](http://www.brooklinebooksmith-shop.com/book/9780061431852) by: Melina Marchetta
 
@@ -38,7 +38,7 @@ Like a drowning, burning, wonderful punch to the heart, it's everything YA in on
 
 ---
 
-![](/uploads/versions/weefreemen---x----328-500x---.jpg)
+![](/uploads/versions/wee-free-men---x----265-400x---.jpg)
 
 [**Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett&nbsp;
 
@@ -48,9 +48,9 @@ When the world's in peril, can you do better than a witch, a frying pan, and som
 
 ---
 
-&nbsp;
+![](/uploads/versions/dealing-with-dragons---x----94-140x---.jpg)
 
-**Dealing With Dragons** by: Patricia Wrede
+[**Dealing With Dragons**](http://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
 
 Best princess. Best dragons. Worst wizards. Go.
 
@@ -58,9 +58,9 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ---
 
-![](/uploads/versions/honesttruth---x----238-346x---.jpg)
+![](/uploads/versions/honest-truth---x----96-140x---.jpg)
 
-**The Honest Truth** by: Dan Gemeinhart
+[**The Honest Truth**](http://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
 
 Wonder + Hatchet + your best, biggest box of tissues
 
@@ -68,9 +68,9 @@ Wonder + Hatchet + your best, biggest box of tissues
 
 ---
 
-![](/uploads/versions/saffy's-angel---x----233-346x---.jpg)
+![](/uploads/versions/saffy's-angel---x----94-140x---.jpg)
 
-**Saffy’s Angel** by: Hilary Mckay
+[**Saffy’s Angel**](http://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
 
 You ran out of Penderwicks?! Pick up this book.
 
@@ -78,19 +78,23 @@ You ran out of Penderwicks?! Pick up this book.
 
 ---
 
-![](/uploads/versions/house-of-many-ways---x----314-475x---.jpg)
+![](/uploads/versions/house-of-many-ways---x----94-140x---.jpg)
 
-**House of Many Ways** by: Diana Wynne Jones
+[**House of Many Ways**](http://www.brooklinebooksmith-shop.com/book/9780061477973) by: Diana Wynne Jones
 
 Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kingdom, as it turns out.
 
 ---
 
+Picks from Amy!
+
 ---
 
-![](/uploads/versions/noggin---x----314-475x---.jpg)
+---
 
-**Noggin** by: John Corey Whaley
+![](/uploads/versions/noggin---x----267-400x---.jpg)
+
+[**Noggin**](http://www.brooklinebooksmith-shop.com/search/site/noggin) by: John Corey Whaley
 
 A book about growing up, moving on, and maybe a body transplant.
 
