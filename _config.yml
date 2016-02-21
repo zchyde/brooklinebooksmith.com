@@ -23,6 +23,7 @@ bindings:
 
 
 ## DO NOT EDIT BELOW THIS LINE
+version: 3.0.3
 images_domain: http://images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
 incremental: true
