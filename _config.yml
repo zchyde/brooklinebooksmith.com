@@ -30,7 +30,6 @@ incremental: true
 # full_rebuild: false
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
 env: development
 url: http://www.brooklinebooksmith.com
 sitename: brookline booksmith

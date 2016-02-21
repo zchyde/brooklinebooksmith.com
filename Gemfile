@@ -9,7 +9,7 @@ group :jekyll_plugins do
   # gem 'jekyll-assets'
   # gem 'autoprefixer-rails'
   # gem 'uglifier'
-  gem 'jekyll-sitemap'
+  # gem 'jekyll-sitemap'
   # gem 'jekyll-archives'
 end
 # gem 'jekyll-paginate'
