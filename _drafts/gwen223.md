@@ -1,5 +1,5 @@
 ---
-title: "Keeping cozy 'til spring comes -- Great new titles: Winter 2016"
+title: "Keeping cozy 'til Spring comes -- Great new titles: Winter 2016"
 published: false
 date: 2016-02-21T09:00:00.000Z
 description: ''
