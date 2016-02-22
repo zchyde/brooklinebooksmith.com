@@ -4,6 +4,7 @@ title: 'Read-Along, Learn-Along: Nonfiction for Kids and Adults'
 date: '2015-11-23T10:00:00.000-05:00'
 author: Alex S
 featured_image_path: http://images.booksense.com/images/319/665/9780763665319.jpg
+show_featured_image_in_post: false
 tags:
 - National Book Award
 - roxane gay

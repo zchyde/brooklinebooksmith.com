@@ -4,6 +4,7 @@ published: true
 date: 2015-11-20T12:00:00.000Z
 featured_image_path: /uploads/maxresdefault.jpg
 featured_image_position: 20
+show_featured_image_in_post: false
 category: Holiday-Gift-Guide
 fancy_font: Fredericka+the+Great
 comments: false

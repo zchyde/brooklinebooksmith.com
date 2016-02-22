@@ -9,10 +9,16 @@
     </div>
   {% endif %}
 
+  {% if page.show_featured_image_in_post == true %}
+    <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;" />
+  {% endif %}
+
+
   {% if page.content %}
     <div class="items">
       <div class="item">
         {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
+
         {{ page.content  | markdownify }}
       </div>
     </div>

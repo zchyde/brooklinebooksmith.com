@@ -5,6 +5,7 @@ date: 2015-11-23T00:00:00.000Z
 description: ''
 featured_image_path: /uploads/5546d9a756ca7_east_finalcover.jpg
 featured_image_position: 50
+show_featured_image_in_post: false
 fancy_font: Fredericka+the+Great
 category: Holiday-Gift-Guide
 staff: '-staff-'

@@ -5,6 +5,7 @@ date: '2015-10-12T10:00:00.000-04:00'
 author: Alex S
 featured_image_path: '/uploads/secret-garden.jpg'
 featured_image_position: 50
+show_featured_image_in_post: false
 tags:
 - alex is blogging
 - halloween

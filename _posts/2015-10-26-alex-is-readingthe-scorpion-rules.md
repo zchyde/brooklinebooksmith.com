@@ -4,6 +4,7 @@ title: Alex Is Reading...THE SCORPION RULES
 date: '2015-10-26T10:30:00.000-04:00'
 author: Alex S
 featured_image_path: http://d.gr-assets.com/books/1428689952l/11516221.jpg
+show_featured_image_in_post: false
 tags:
 - alex is reading
 - kids books

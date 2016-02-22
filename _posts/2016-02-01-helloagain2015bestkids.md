@@ -5,6 +5,7 @@ date: 2016-02-01T02:40:00.000Z
 description: ''
 featured_image_path: /uploads/img_2116.jpg
 featured_image_position: 50
+show_featured_image_in_post: false
 fancy_font: ''
 category: kidsmith
 staff: alex-s

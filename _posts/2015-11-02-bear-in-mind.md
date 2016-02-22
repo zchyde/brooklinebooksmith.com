@@ -5,6 +5,7 @@ date: '2015-11-02T10:30:00.000-05:00'
 author: Alex S
 featured_image_path: ''
 featured_image_position: 50
+show_featured_image_in_post: false
 tags:
 - alex is blogging
 modified_datetime: '2015-11-02T10:30:02.548-05:00'
