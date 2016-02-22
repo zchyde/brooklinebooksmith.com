@@ -2,7 +2,7 @@
 title: "Keeping cozy 'til Spring -- Great new titles"
 published: false
 date: 2016-02-21T09:00:00.000Z
-description: ''
+description: Short blurbs about new books in 2016
 featured_image_path: ''
 featured_image_position: 50
 fancy_font: ''
@@ -15,7 +15,7 @@ books:
   - 'In a Different Key: The Story of Autism by John Donvan'
 ---
 
-The new year has been rolling right along -- and some great new books have been rolling in along with it.&nbsp; These are some titles that have already made an impact in 2016:
+The new year has been rolling right along – and some great new books have been rolling in along with it.&nbsp; These are some titles that have already made an impact in 2016:
 
 [The Vegetarian](http://www.brooklinebooksmith-shop.com/book/9780553448184) by Han Kang
 
