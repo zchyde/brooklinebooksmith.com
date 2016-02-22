@@ -1,6 +1,7 @@
 ---
 title: 'Amulet 7: Firelight'
-isbn: null
-binding: null
-image_path: null
+isbn: '9780545433167'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/167/433/9780545433167.jpg'
 ---
+
