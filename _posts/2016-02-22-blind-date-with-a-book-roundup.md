@@ -3,7 +3,7 @@ title: 'Roundup: Kidsmith Blind Date with a Book'
 published: true
 date: 2016-02-22T10:15:00.000Z
 description: ''
-featured_image_path: /uploads/blinddate_full.jpg
+featured_image_path: ''
 featured_image_position: 0
 fancy_font: ''
 category: kidsmith
@@ -18,7 +18,7 @@ books:
 
 ---
 
-***Picks from Alex!***
+## ***Picks from Alex!***
 
 ---
 
@@ -86,7 +86,7 @@ If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious b
 
 ---
 
-***Picks from Amy!***
+## ***Picks from Amy!***
 
 ---
 
@@ -162,7 +162,7 @@ If there's a magic school there's a super villain. There's probably a rule about
 
 ---
 
-***Picks from Clarissa!***
+## ***Picks from Clarissa!***
 
 ---
 
