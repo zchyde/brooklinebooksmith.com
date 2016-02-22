@@ -15,7 +15,7 @@ books:
   - 'In a Different Key: The Story of Autism by John Donvan'
 ---
 
-The new year has been rolling right along and some great new books have been rolling in along with it.&nbsp; These are some titles that have already made an impact in 2016:
+The new year has been rolling right along -- and some great new books have been rolling in along with it.&nbsp; These are some titles that have already made an impact in 2016:
 
 [The Vegetarian](http://www.brooklinebooksmith-shop.com/book/9780553448184) by Han Kang
 
@@ -33,7 +33,7 @@ Wonder why economic disparity runs rampant in America? Jane Mayer finds out in t
 
 A comprehensive history of the doctors, lawyers, scientists, families and individuals that have influenced society's understanding of autism.
 
-These books are currently keeping us cozy.&nbsp; Slowly the days are getting longer and the nights more mild – warm air is flooding in promising more new great books to read.
+These books are currently keeping us cozy.&nbsp; Slowly, though, the days are getting longer and the nights more mild – warm air is flooding in promising more new great books to read.
 
 'Til then,
 
