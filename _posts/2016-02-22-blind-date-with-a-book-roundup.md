@@ -3,8 +3,8 @@ title: 'Roundup: Kidsmith Blind Date with a Book'
 published: true
 date: 2016-02-22T10:15:00.000Z
 description: ''
-featured_image_path: /uploads/blinddate_full.jpg
-featured_image_position: 50
+featured_image_path: /uploads/blinddate_banner.jpg
+featured_image_position: 0
 fancy_font: ''
 category: kidsmith
 staff: '-staff-'
@@ -12,15 +12,13 @@ books:
   - ''
 ---
 
-Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
+&nbsp;
+
+![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
 
 ---
 
-![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)
-
----
-
-***Picks from Alex!***
+## ***Picks from Alex!***
 
 ---
 
@@ -42,13 +40,13 @@ Like a drowning, burning, wonderful punch to the heart, it's everything YA in on
 
 ![](/uploads/versions/wee-free-men---x----265-400x---.jpg)
 
-[**The Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett&nbsp;
+[**The Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett
 
 When the world's in peril, can you do better than a witch, a frying pan, and some angry tiny guys?
 
 ---
 
-![](/uploads/versions/dealing-with-dragons---x----94-140x---.jpg)
+![](/uploads/versions/dealingdragons---x----268-400x---.jpg)
 
 [**Dealing With Dragons**](http://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
 
@@ -56,7 +54,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ---
 
-![](/uploads/versions/honest-truth---x----96-140x---.jpg)
+![](/uploads/versions/honesttruth---x----265-400x---.jpg)
 
 [**The Honest Truth**](http://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
 
@@ -64,7 +62,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ---
 
-![](/uploads/versions/saffy's-angel---x----94-140x---.jpg)
+![](/uploads/versions/saffysangel---x----269-400x---.jpg)
 
 [**Saffy’s Angel**](http://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
 
@@ -72,7 +70,7 @@ You ran out of Penderwicks?! Pick up this book.
 
 ---
 
-![](/uploads/versions/house-of-many-ways---x----94-140x---.jpg)
+![](/uploads/versions/houseofmanyways---x----268-400x---.jpg)
 
 [**House of Many Ways**](http://www.brooklinebooksmith-shop.com/book/9780061477973) by: Diana Wynne Jones
 
@@ -88,7 +86,7 @@ If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious b
 
 ---
 
-***Picks from Amy!***
+## ***Picks from Amy!***
 
 ---
 
@@ -100,27 +98,27 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-![](/uploads/versions/these-broken-stars---x----93-140x---.jpg)
+![](/uploads/versions/thesebrokenstars---x----266-400x---.jpg)
 
 [**These Broken Stars**](http://www.brooklinebooksmith-shop.com/book/9781423171218) by: Amie Kaufman & Meghan Spooner
 
-&nbsp; &nbsp; Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
+Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
 
 ---
 
-![](/uploads/versions/thsisongwillsaveyourlife---x----93-140x---.jpg)
+![](/uploads/versions/songwillsaveyourlife---x----267-400x---.jpg)
 
 [**This Song Will Save Your Life**](http://www.brooklinebooksmith-shop.com/book/9781250050748) by: Leila Sales
 
-&nbsp; &nbsp; In life you'll meet a lot of people. Some of them are jerks. Some of them help you figure out who you are.
+In life you'll meet a lot of people. Some of them are jerks. Some of them help you figure out who you are.
 
 ---
 
-![](/uploads/versions/this-is-what-happy-looks-like---x----93-140x---.jpg)
+![](/uploads/versions/thisiswhathappylookslike---x----267-400x---.jpg)
 
 **[This is What Happy Looks Like](http://www.brooklinebooksmith-shop.com/book/9780316212816)**by: Jennifer E. Smith
 
-&nbsp; &nbsp; One boy. One girl. One mis-sent email about a pig named Wilbur.
+One boy. One girl. One mis-sent email about a pig named Wilbur.
 
 ---
 
@@ -128,7 +126,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**I'll Give You The Sun**](http://www.brooklinebooksmith-shop.com/book/9780142425763) by: Jandy Nelson
 
-&nbsp; &nbsp; Love is a messy, complicated, beautiful, poetic disaster.
+Love is a messy, complicated, beautiful, poetic disaster.
 
 ---
 
@@ -136,7 +134,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Case of the Missing Moonstone (The Wollstonecraft Detective Agency bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
 
-&nbsp; &nbsp; High stakes Victorian adventure with your new favorite, female, Sherlock-Watson style duo!
+High stakes Victorian adventure with your new favorite, female, Sherlock-Watson style duo!
 
 ---
 
@@ -144,7 +142,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**Bridge to Terabithia**](http://www.brooklinebooksmith-shop.com/book/9780060734015) by: Katherine Paterson
 
-&nbsp; &nbsp; We all need somewhere to escape to and someone to escape with.
+We all need somewhere to escape to and someone to escape with.
 
 ---
 
@@ -152,7 +150,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Great Greene Heist**](http://www.brooklinebooksmith-shop.com/book/9780545525534) by: Varian Johnson
 
-&nbsp; &nbsp; He swore he'd stop with the cons…okay maybe one more…but it's for a good reason!
+He swore he'd stop with the cons…okay maybe one more…but it's for a good reason!
 
 ---
 
@@ -160,11 +158,11 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Iron Trial (Magisterium bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
 
-&nbsp; &nbsp; If there's a magic school there's a super villain. There's probably a rule about it somewhere.
+If there's a magic school there's a super villain. There's probably a rule about it somewhere.
 
 ---
 
-***Picks from Clarissa!***
+## ***Picks from Clarissa!***
 
 ---
 
@@ -172,7 +170,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Young Elites**](http://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
 
-&nbsp; &nbsp; This is not the story of a heroine, but the birth of a villainess.
+This is not the story of a heroine, but the birth of a villainess.
 
 ---
 
@@ -180,7 +178,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**Jackaby**](http://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
 
-&nbsp; &nbsp; Folklore, mystery, sharp wit and a dash of the macabre. Oh and a tip? Don’t Stare At The Frog.
+Folklore, mystery, sharp wit and a dash of the macabre. Oh and a tip? Don’t Stare At The Frog.
 
 ---
 
@@ -188,7 +186,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Darkest Part of the Forest**](http://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
 
-&nbsp; &nbsp; These are most definitely NOT your Disney faeries.
+These are most definitely NOT your Disney faeries.
 
 ---
 
@@ -196,7 +194,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**Daughter of Smoke and Bone**](http://www.brooklinebooksmith-shop.com/book/9780316133999) by: Laini Taylor
 
-&nbsp; &nbsp; If an angel and a devil fall in love, will the world survive?
+If an angel and a devil fall in love, will the world survive?
 
 ---
 
@@ -204,7 +202,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Search for Wondla**](http://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
 
-&nbsp; &nbsp; Welcome to Earth. It just might look a little… different.
+Welcome to Earth. It just might look a little… different.
 
 ---
 
@@ -212,7 +210,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 [**The Glass Sentence**](http://www.brooklinebooksmith-shop.com/book/9780142423660) by: S. E. Grove
 
-&nbsp; &nbsp; Maps can be dangerous things indeed.
+Maps can be dangerous things indeed.
 
 ---
 
@@ -223,7 +221,5 @@ A book about growing up, moving on, and maybe a body transplant.
 You were kidnapped by pigeons, and a talking cockroach is telling you to save the world. What would you do?
 
 ---
-
-&nbsp;
 
 ---
