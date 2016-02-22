@@ -1,10 +1,10 @@
 ---
 title: 'Roundup: Kidsmith Blind Date with a Book'
-published: false
+published: true
 date: 2016-02-22T10:15:00.000Z
 description: ''
 featured_image_path: /uploads/blinddate_full.jpg
-featured_image_position: 50
+featured_image_position: 0
 fancy_font: ''
 category: kidsmith
 staff: '-staff-'
@@ -12,11 +12,9 @@ books:
   - ''
 ---
 
-Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here [Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
+&nbsp;
 
----
-
-![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)
+![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
 
 ---
 
@@ -48,7 +46,7 @@ When the world's in peril, can you do better than a witch, a frying pan, and som
 
 ---
 
-![](/uploads/versions/dealing-with-dragons---x----94-140x---.jpg)
+![](/uploads/versions/dealingdragons---x----268-400x---.jpg)
 
 [**Dealing With Dragons**](http://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
 
@@ -56,7 +54,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ---
 
-![](/uploads/versions/honest-truth---x----96-140x---.jpg)
+![](/uploads/versions/honesttruth---x----265-400x---.jpg)
 
 [**The Honest Truth**](http://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
 
@@ -64,7 +62,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ---
 
-![](/uploads/versions/saffy's-angel---x----94-140x---.jpg)
+![](/uploads/versions/saffysangel---x----269-400x---.jpg)
 
 [**Saffy’s Angel**](http://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
 
@@ -72,7 +70,7 @@ You ran out of Penderwicks?! Pick up this book.
 
 ---
 
-![](/uploads/versions/house-of-many-ways---x----94-140x---.jpg)
+![](/uploads/versions/houseofmanyways---x----268-400x---.jpg)
 
 [**House of Many Ways**](http://www.brooklinebooksmith-shop.com/book/9780061477973) by: Diana Wynne Jones
 
@@ -100,7 +98,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ---
 
-![](/uploads/versions/these-broken-stars---x----93-140x---.jpg)
+![](/uploads/versions/thesebrokenstars---x----266-400x---.jpg)
 
 [**These Broken Stars**](http://www.brooklinebooksmith-shop.com/book/9781423171218) by: Amie Kaufman & Meghan Spooner
 
@@ -108,7 +106,7 @@ Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Tita
 
 ---
 
-![](/uploads/versions/thsisongwillsaveyourlife---x----93-140x---.jpg)
+![](/uploads/versions/songwillsaveyourlife---x----267-400x---.jpg)
 
 [**This Song Will Save Your Life**](http://www.brooklinebooksmith-shop.com/book/9781250050748) by: Leila Sales
 
@@ -116,7 +114,7 @@ In life you'll meet a lot of people. Some of them are jerks. Some of them help y
 
 ---
 
-![](/uploads/versions/this-is-what-happy-looks-like---x----93-140x---.jpg)
+![](/uploads/versions/thisiswhathappylookslike---x----267-400x---.jpg)
 
 **[This is What Happy Looks Like](http://www.brooklinebooksmith-shop.com/book/9780316212816)**by: Jennifer E. Smith
 
@@ -223,7 +221,5 @@ Maps can be dangerous things indeed.
 You were kidnapped by pigeons, and a talking cockroach is telling you to save the world. What would you do?
 
 ---
-
-
 
 ---
