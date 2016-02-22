@@ -4,11 +4,12 @@ layout: default
 <main class="layout_two_column_wide row">
   <article class="">
 
-      {% assign posts = site.posts | where: 'featured', false %}
+      {% assign posts = site.posts | where: 'featured', -true %}
       {% assign posts_featured = site.posts | where: 'featured', true %}
       {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
       {% assign posts_limit = 10 %}
     <div class="cards">
+
       {% for object in posts_featured limit: 1 %}
         {% include _format-blog-posts.html %}
       {% endfor %}
