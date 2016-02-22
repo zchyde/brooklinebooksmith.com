@@ -1,6 +1,7 @@
 ---
 title: The Story of a New Name
-isbn: null
-binding: null
-image_path: null
+isbn: '9781609451349'
+binding: Paperback
+image_path: 'http://images.booksense.com/images/349/451/9781609451349.jpg'
 ---
+
