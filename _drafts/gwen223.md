@@ -9,7 +9,10 @@ fancy_font: ''
 category: ''
 staff: '-staff-'
 books:
-  - ''
+  - The Vegetarian by Han Kang
+  - "We've Already Gone This Far by Patrick Dacey"
+  - Dark Money by Jane Mayer
+  - 'In a Different Key: The Story of Autism by John Donvan'
 ---
 
 The new year has been rolling right along and some great new books have been rolling in along with it.&nbsp; These are some titles that have already made an impact in 2016:
@@ -32,5 +35,6 @@ A comprehensive history of the doctors, lawyers, scientists, families and indivi
 
 These books are currently keeping us cozy.&nbsp; Slowly the days are getting longer and the nights more mild – warm air is flooding in promising more new great books to read.
 
-'Til then
+'Til then,
+
 Gwen
