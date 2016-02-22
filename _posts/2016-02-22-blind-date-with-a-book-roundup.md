@@ -8,14 +8,12 @@ featured_image_position: 0
 show_featured_image_in_post: false
 fancy_font: ''
 category: kidsmith
-staff: '-staff-'
+staff: clarissa
 books:
   - ''
 ---
 
-&nbsp;
-
-![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here&nbsp;[Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
+![](/uploads/versions/blinddatewithabook---x----300-400x---.jpg)Blind Date with a Book was a resounding success in the Kidsmith! We want to thank all of you who participated, whether you came in and nabbed yourself a date, or blew up our twitter with likes and retweets! (haven't seen the Kidsmith twitter? Check it out over here [Brookline Kidsmith](https://twitter.com/kidsmithbooks)). For those of you who were trying to guess what books matched what blurbs, or if there was a book you missed out on getting, here is the list revealed!
 
 ---
 
