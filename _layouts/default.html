@@ -20,7 +20,7 @@ layout: compress
       <meta name="MobileOptimized" content="320">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-      <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{% capture title %}{{ page.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}{{ title }} - {% endif %} {{site.sitename}}</title>
+      <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape | remove: '*' }} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
         <link rel="canonical" href="{{site.url}}" />
       {% endif %}
