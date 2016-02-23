@@ -1189,7 +1189,7 @@ h1.special {
   font-size: 1.75em !important; }
   @media screen and (min-width: 56.25em) {
     h1.special {
-      font-size: 4em !important; } }
+      font-size: 3em !important; } }
 
 .content {
   min-height: 100%;
