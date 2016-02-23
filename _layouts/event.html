@@ -3,40 +3,10 @@ layout: default
 ---
 <div class="has-layout__full-width layout-three-column">
   <aside class="top">
-    {% if page.description  %}
-      {{ page.description  | markdownify }}
-    {% endif %}
-    {% capture page_categories %}{{ page.categories }}{% endcapture %}
-          <h4>{{ page_categories | replace: '-', ' ' | capitalize }}</h4>
     &nbsp;
-    {% comment %} {% assign page_cats = site.categories | where: 'category.name', page.category %} {% endcomment %}
-      {% assign page_cats = site.categories %}
-    {% if page_cats %}
-      <ul style="margin:0;">
-        {% for category in page_cats %}
-          {% for posts in category %}
-            {% for post in posts %}
-              {% if post.category == page.category %}
-                <li>
-                  <strong>
-                    {% if post.title %}
-                    <a href="{{ post.url }}">
-                      {{ post.title | markdownify }}
-                    </a>
-                    {% endif %}
-                  </strong>
-                </li>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        {% endfor %}
-      </ul>
-    {% endif %}
-
   </aside>
   <article class="hentry">
-    {% include _format-article.html %}
-    {% include form-comments-disqus.html %}
+    {% include events/output-format-individual.html %}
   </article>
   <aside class="bottom">
     &nbsp;
