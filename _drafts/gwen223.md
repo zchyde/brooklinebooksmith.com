@@ -19,13 +19,9 @@ The new year has been rolling right along – and some great new books have been
 
 ![](/uploads/versions/gc223-010---x----2401-2623x---.jpg)
 
-![](/uploads/versions/gc223-010---x----2401-2623x---.jpg)
-
 [The Vegetarian](http://www.brooklinebooksmith-shop.com/book/9780553448184) by Han Kang
 
 Satisfy your appetite for creepy – grab a copy of Han Kang's The Vegetarian.&nbsp; Watch out, it will keep you up at night.
-
-![](/uploads/versions/gc223-014---x----2791-2538x---.jpg)
 
 ![](/uploads/versions/gc223-014---x----2791-2538x---.jpg)
 
@@ -35,13 +31,9 @@ Dacey's works have been published in many notable forums including the Paris Rev
 
 ![](/uploads/versions/gc223-047---x----2966-2437x---.jpg)
 
-![](/uploads/versions/gc223-047---x----2966-2437x---.jpg)
-
 [Dark Money](http://www.brooklinebooksmith-shop.com/book/9780385535595) by Jane Mayer
 
 Wonder why economic disparity runs rampant in America? Jane Mayer finds out in this meticulously researched expos&eacute; on the Koch Bros.
-
-![](/uploads/versions/gc223-022---x----2821-2087x---.jpg)
 
 ![](/uploads/versions/gc223-022---x----2821-2087x---.jpg)
 
