@@ -68,7 +68,7 @@ collections:
     output: true
     permalink: '/:path/'
   events:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
     future: true
   programs:
@@ -94,7 +94,7 @@ defaults:
       path: ''
       type: events
     values:
-      layout: page
+      layout: event
   - scope:
       path: ''
       type: landing_pages
