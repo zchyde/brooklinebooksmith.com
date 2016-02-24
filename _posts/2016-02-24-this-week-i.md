@@ -24,18 +24,26 @@ So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Re
 
 ***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)***\*\*by Anna Kavan
 
-![](/uploads/versions/9780720612684---x----273-400x---.jpg)—
+![](/uploads/versions/9780720612684---x----273-400x---.jpg)
+
+---
 
 [***Berg***](http://www.brooklinebooksmith-shop.com/book/9781564783028) by Ann Quin
 
-![](/uploads/versions/9781564783028---x----258-400x---.jpg)—
+![](/uploads/versions/9781564783028---x----258-400x---.jpg)
+
+---
 
 [***The Exquisite Corpse***](http://www.brooklinebooksmith-shop.com/book/9781574231977) by Alfred Chester
 
-![](/uploads/versions/9781574231977---x----256-400x---.jpg)—
+![](/uploads/versions/9781574231977---x----256-400x---.jpg)
+
+---
 
 *\*\**[***The Trumpets of Jericho***](http://www.brooklinebooksmith-shop.com/book/9781939663092) by Unica Z&uuml;rn.
 
-![](/uploads/versions/9781939663092---x----256-400x---.jpg)—
+![](/uploads/versions/9781939663092---x----256-400x---.jpg)
+
+---
 
 Plus, there's always the [Used Book Cellar](http://www.brooklinebooksmith.com/used-books/) to tickle your more esoteric fancies. I've seen several of these names pass through our inventory (that's where I first encountered Kavan's *Ice*, actually.) If that doesn't keep you busy, quite a few independent presses are dedicated to bringing old masterpieces out of the ether - [Dalkey Archive](http://www.dalkeyarchive.com/) is a favorite, but [hit us up](https://twitter.com/smallpressbkcb) for more suggestions! Meanwhile if you need me, I'll be nose-deep in *Berg*.
