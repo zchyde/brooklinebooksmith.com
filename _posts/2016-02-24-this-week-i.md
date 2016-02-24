@@ -22,7 +22,7 @@ So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Re
 
 ---
 
-***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)***\*\*by Anna Kavan
+***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)*** by Anna Kavan
 
 ![](/uploads/versions/9780720612684---x----273-400x---.jpg)
 
@@ -40,7 +40,7 @@ So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Re
 
 ---
 
-*\*\**[***The Trumpets of Jericho***](http://www.brooklinebooksmith-shop.com/book/9781939663092) by Unica Z&uuml;rn.
+**[***The Trumpets of Jericho***](http://www.brooklinebooksmith-shop.com/book/9781939663092) by Unica Z&uuml;rn.
 
 ![](/uploads/versions/9781939663092---x----256-400x---.jpg)
 
