@@ -18,4 +18,4 @@ Roughly 18 months ago [LitHub](http://lithub.com/)(top-notch news source, [Books
 
 ---
 
-So last week when LitHub released a follow-up piece, "10 More Writers Nobody Reads", I was giddy. Many of these authors are languishing out of print
+So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Reads](http://lithub.com/10-more-writers-nobody-reads/)", I was giddy. Many of these authors are languishing out of print but there are several that we'll be putting on the shelves post-haste.:XXXXXXXXXXXXX
