@@ -18,4 +18,10 @@ Roughly 18 months ago [LitHub](http://lithub.com/)(top-notch news source, [Books
 
 ---
 
-So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Reads](http://lithub.com/10-more-writers-nobody-reads/)", I was giddy. Many of these authors are languishing out of print but there are several that we'll be putting on the shelves post-haste.:XXXXXXXXXXXXX
+So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Reads](http://lithub.com/10-more-writers-nobody-reads/)", I was giddy. Many of these authors are languishing out of print but there are several that we'll be bringing to Brookline post-haste (and the first two titles make a great pair, no?).
+
+---
+
+By this time next week you should see ***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)*******by Anna Kavan; [***Berg***](http://www.brooklinebooksmith-shop.com/book/9781564783028) by Ann Quin (a good pair of titles, right?); [***The Exquisite Corpse***](http://www.brooklinebooksmith-shop.com/book/9781574231977) by Alfred Chester; and The Trumpets of Jericho by Unica Z&uuml;rn.
+
+Of course there's always the Used Book Cellar to tickle your more esoteric fancies. I've seen several of these names pass through our inventory (that's where I first encountered Kavan's "Ice", in fact.) Feel free to hit us up for recommendations of other forgotten classics too!
