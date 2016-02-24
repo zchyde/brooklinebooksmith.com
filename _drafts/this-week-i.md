@@ -1,15 +1,16 @@
 ---
-title: This Week I
+title: 'This Week In Books: Forgotten Authors'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: null
-featured_image_path: null
+description: ''
+featured_image_path: ''
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: null
+fancy_font: ''
+category: ''
+staff: '-staff-'
 books:
-  - null
+  - ''
 ---
+
