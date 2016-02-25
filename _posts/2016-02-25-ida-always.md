@@ -2,7 +2,7 @@
 title: 'Ida, Always'
 published: true
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-02-25T16:00:00.000Z
 description: ''
 featured_image_path: /uploads/ida-always-9781481426404_hr-compressor.jpg
 featured_image_position: 50
