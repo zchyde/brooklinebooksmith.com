@@ -22,4 +22,6 @@ This week&nbsp; a beautiful picture book was released.
 
 ---
 
-&nbsp;
+![](/uploads/versions/ida-always---x----440-400x---.jpg)
+
+[ida, Always by Carson Levis and Charles Santoso](http://www.brooklinebooksmith-shop.com/book/9781481426404)
