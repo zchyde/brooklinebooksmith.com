@@ -3,15 +3,15 @@ title: 'Ida, Always'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: null
-featured_image_path: null
+description: ''
+featured_image_path: /uploads/ida-always-9781481426404_hr-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: null
+fancy_font: ''
+category: ''
+staff: '-staff-'
 books:
-  - null
+  - ''
 ---
 
 Grief is a perhaps the most difficult emotion of all to explain. It is complicated, messy, awkward, and very individual.
@@ -30,4 +30,4 @@ This week a beautiful picture book landed in our store and brought tears to our 
 
 Gus and Ida are best of friends. They play together, eat together, and listen to the surrounding city's heartbeat together. But one day Ida gets sick and Gus is told there is no cure. Gus knows that their days together are never going to be the same, but the two friends make the best of it. They have good days, and bad days, and days where they don't quite know what they are feeling. Gus and Ida fumble through their shared grief in a beautiful, and very real way.
 
-Levis and Santoso have managed to depict so many of the nuances and depths of emotion grief brings to us.&nbsp; Even knowing the inevitable ending, I felt hope and love while reading this story. It is certainly a tear jerk-er, but I think it might be one of the best children's books about grief I have ever read.
+Levis and Santoso have managed to depict so many of the nuances and depths of emotion grief brings to us.  Even knowing the inevitable ending, I felt hope and love while reading this story. It is certainly a tear jerk-er, but I think it might be one of the best children's books about grief I have ever read.
