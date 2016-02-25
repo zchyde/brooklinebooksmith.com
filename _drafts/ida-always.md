@@ -28,6 +28,6 @@ This week&nbsp; a beautiful picture book was released.
 
 ---
 
-Gus and Ida are best of friends. They play together, eat together, and listen to the surrounding city's heartbeat together. But one day Ida gets sick and there is no cure. Gus knows that their days together are never going to be the same, but the two friends make the best of it. They have good days, and bad days, and days where they don't quite know what they are feeling.
+Gus and Ida are best of friends. They play together, eat together, and listen to the surrounding city's heartbeat together. But one day Ida gets sick and there is no cure. Gus knows that their days together are never going to be the same, but the two friends make the best of it. They have good days, and bad days, and days where they don't quite know what they are feeling. Gus and Ida fumble through their shared grief in a beautiful, and very real way.
 
-Gus and Ida fumble through their shared grief in a beautiful, and very real way. Levis and Santoso have managed to depict so many of the nuances and depths of emotion grief and loss bring to us.&nbsp; Even knowing the inevitable ending, I felt hope and love and
+Levis and Santoso have managed to depict so many of the nuances and depths of emotion grief brings to us.&nbsp; Even knowing the inevitable ending, I felt hope and love while reading this story. It is certainly a tear jerk-er, but I think it might be one of the best children's books about grief I have ever read.
