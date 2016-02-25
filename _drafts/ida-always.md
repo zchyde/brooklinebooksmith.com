@@ -1,24 +1,22 @@
 ---
-title: 'Ida, Always'
+title: 'ida, Always'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: ''
-featured_image_path: /uploads/ida-always-9781481426404_hr-compressor.jpg
+featured_image_path: ''
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font: ''
 category: ''
-staff: '-staff-'
+staff: clarissa
 books:
   - ''
 ---
 
-Grief is a perhaps the most difficult emotion of all to explain. It is complicated, messy, awkward, and very individual.
+Grief is perhaps the most difficult emotion of all to explain. One of the hardest tasks a parent or guardian faces is explaining grief to a child.
 
-One of the hardest tasks a parent or guardian is faced with is explaining grief in all its faucets and nuances to a child.
-
-This week a beautiful picture book landed in our store and brought tears to our eyes.
+This week, a beautiful picture book landed in our store and brought tears to our eyes.
 
 ---
 
@@ -30,4 +28,4 @@ This week a beautiful picture book landed in our store and brought tears to our 
 
 Gus and Ida are best of friends. They play together, eat together, and listen to the surrounding city's heartbeat together. But one day Ida gets sick and Gus is told there is no cure. Gus knows that their days together are never going to be the same, but the two friends make the best of it. They have good days, and bad days, and days where they don't quite know what they are feeling. Gus and Ida fumble through their shared grief in a beautiful, and very real way.
 
-Levis and Santoso have managed to depict so many of the nuances and depths of emotion grief brings to us.  Even knowing the inevitable ending, I felt hope and love while reading this story. It is certainly a tear jerk-er, but I think it might be one of the best children's books about grief I have ever read.
+Levis and Santoso have managed, through few words and soft images, to depict the range of emotion that grief brings to us.&nbsp; Even knowing the inevitable ending, I felt hope and love while reading this story. It is certainly a tearjerker, but I think it might be one of the best children's books about grief I have ever read.
