@@ -8,7 +8,7 @@ featured_image_path: /abandoned-books.jpg
 featured_image_position: 75
 show_featured_image_in_post: false
 fancy_font: ''
-category: ''
+category: this-week-in-books
 staff: lydia
 books:
   - ''
@@ -22,7 +22,7 @@ So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Re
 
 ---
 
-***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)&nbsp;***by Anna Kavan
+***[Ice](http://www.brooklinebooksmith-shop.com/book/9780720612684)***by Anna Kavan
 
 ![](/uploads/versions/9780720612684---x----273-400x---.jpg)
 
@@ -40,7 +40,7 @@ So last week when LitHub released a follow-up piece, "[10 More Writers Nobody Re
 
 ---
 
-***&nbsp;[The Trumpets of Jericho](http://www.brooklinebooksmith-shop.com/book/9781939663092)*** by Unica Z&uuml;rn.
+***[The Trumpets of Jericho](http://www.brooklinebooksmith-shop.com/book/9781939663092)*** by Unica Zürn.
 
 ![](/uploads/versions/9781939663092---x----256-400x---.jpg)
 
