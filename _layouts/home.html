@@ -4,8 +4,8 @@ layout: default
 <main class="layout_two_column_wide row">
   <article class="">
 
-      {% assign posts = site.posts | where: 'featured', -true %}
-      {% assign posts_featured = site.posts | where: 'featured', true %}
+      {% assign posts = site.posts | sort: 'date' | reverse %}
+      {% assign posts_featured = site.posts | where: 'featured', true | sort: 'date' | reverse %}
       {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
       {% assign posts_limit = 10 %}
     <div class="cards">
@@ -15,7 +15,7 @@ layout: default
       {% endfor %}
 
       {% for object in posts limit:posts_limit %}
-      {% unless object.category == 'Holiday-Gift-Guide' %}
+      {% unless object.featured == true %}
         {% include _format-blog-posts.html %}
         {% endunless %}
       {% endfor %}
