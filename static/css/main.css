@@ -1164,10 +1164,6 @@ aside.bottom .content-aside {
       font-size: 0.875rem;
       margin: 0 0 0.8rem;
       color: #555; }
-      .card .card-copy p img, a.card .card-copy p img {
-        max-height: 225px; }
-    .card .card-copy img, a.card .card-copy img {
-      max-height: 225px; }
   .card:active, a.card:active {
     background-color: white; }
     .card:active .card-header, a.card:active .card-header {
@@ -1360,11 +1356,14 @@ html, body {
             max-width: 40%; } }
 
 .image-cover-small {
-  width: auto;
-  height: 14em;
+  width: 100%;
   float: left;
   margin-right: 1em;
   margin-bottom: 2em; }
+  @media screen and (min-width: 56.25em) {
+    .image-cover-small {
+      width: auto;
+      height: 14em; } }
 
 .image-small {
   max-width: 14em;
