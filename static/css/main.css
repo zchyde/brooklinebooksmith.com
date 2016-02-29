@@ -529,7 +529,7 @@ label {
 
 input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], textarea,
 select[multiple=multiple] {
-  background-color: #f6f6f6;
+  background-color: rgba(255, 255, 255, 0.05);
   border: 1px solid #ddd;
   border-radius: 3px;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
@@ -1972,7 +1972,7 @@ header.navigation {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
-        background: transparent;
+        background: rgba(255, 255, 255, 0);
         border-radius: 6px;
         border: none;
         color: white;
@@ -1987,7 +1987,7 @@ header.navigation {
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
       header.navigation .search-bar form button[type=submit] {
-        background: #3a414d;
+        background: rgba(255, 255, 255, 0);
         border: none;
         bottom: 0.3em;
         left: auto;
