@@ -24,10 +24,11 @@
 
 .blocked, h4.blocked {
   font-size: 1.375rem;
-  color:#111;//#9c9c9c;
+  color:darken($base-background-color, 65%);//#111;//#9c9c9c;
   //background-color:#e6e6e6;
   padding:.25em .5em;
-  border-bottom: 6px solid #111;
+  width: 100%;
+  border-bottom: 4px solid darken($base-background-color, 15%);
 }
 
 
