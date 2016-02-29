@@ -22,7 +22,7 @@ The past few weeks have given us the mass media convulsions of [#OscarsSoWhite](
 
 ---
 
-In response to L&L's findings, Brooklyn Magazine's Molly Mcardle spoke with minority members of the publishing world about their experiences (NY is to publishing what LA is to movies). The piece includes dozens of amazing interviews but here's a small sample:
+In response to L&L's findings, Brooklyn Magazine's Molly Mcardle [spoke with minority members of the publishing world](http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/) about their experiences (NY is to publishing what LA is to movies). The piece includes dozens of amazing interviews but here's a small sample:
 
 ---
 
