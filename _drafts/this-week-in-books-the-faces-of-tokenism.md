@@ -1,6 +1,6 @@
 ---
 title: 'This Week In Books: The Faces of Tokenism'
-published: false
+published: true
 featured: true
 date: 2016-01-15T09:00:00.000Z
 description: ''
@@ -30,7 +30,7 @@ In response to L&L's findings, Brooklyn Magazine's Molly Mcardle [spoke with min
 
 ---
 
-> **Ken Chen, poet & executive&nbsp; director, Asian American Writers' Workshop**: People are used to seeing race as an action. Daniel Handler says something racist so he’s a racist, it’s a moral shame. Racism is more about controlling equity and power, racism as a sin of omission. Publishers aren’t really curious about the histories of the rest of the world. They say, we pick books because we are pressured by market forces. But these things are really about imaginative acts. The way the system is set up, you exclude potential, the people who would help you build more markets.
+> **Ken Chen, poet & executive  director, Asian American Writers' Workshop**: People are used to seeing race as an action. Daniel Handler says something racist so he’s a racist, it’s a moral shame. Racism is more about controlling equity and power, racism as a sin of omission. Publishers aren’t really curious about the histories of the rest of the world. They say, we pick books because we are pressured by market forces. But these things are really about imaginative acts. The way the system is set up, you exclude potential, the people who would help you build more markets.
 
 ---
 
