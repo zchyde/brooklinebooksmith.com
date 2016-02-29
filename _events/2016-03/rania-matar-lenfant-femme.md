@@ -10,4 +10,6 @@ book_isbn:
   - '9788862084505'
 ---
 
-In today’s world of endless photographing, tagging and posting images online, what is a pre-teen girl’s relationship to the camera? Photographing girls in the Middle East and the United States, Rania Matar makes us examine our universality, a beauty that transcends place, background and religion. Candidly capturing her subjects at a critical juncture in the early stages of adolescence, Matar conveys the confluence of angst, sexuality and personhood that defines the progression from childhood into adulthood.
+In today’s world of endless photographing, tagging and posting images online, what is a pre-teen girl’s relationship to the camera? Photographing girls in the Middle East and the United States, Coolidge Corner native Rania Matar makes us examine our universality, a beauty that transcends place, background and religion. Candidly capturing her subjects at a critical juncture in the early stages of adolescence, Matar conveys the confluence of angst, sexuality and personhood that defines the progression from childhood into adulthood.
+
+There will be an AV Component to this event.&nbsp;
