@@ -22,8 +22,20 @@ The past few weeks have given us the mass media convulsions of [#OscarsSoWhite](
 
 ---
 
-In response to L&L's findings, Brooklyn Magazine's Molly Mcardle spoke with minority members of the publishing world about their experiences.&nbsp;
+In response to L&L's findings, Brooklyn Magazine's Molly Mcardle spoke with minority members of the publishing world about their experiences (NY is to publishing what LA is to movies). The piece includes dozens of amazing interviews but here's a small sample:
 
 ---
 
-So where do we go from here? Mcardle closes *Brooklyn Mag*'s article with a line from Claire Vaye Watkins' infamous Tin House essay '[On Pandering](http://www.tinhouse.com/blog/41314/on-pandering.html)': "Let us burn this motherf\*\*\*ing system to the ground and build something better."
+> **Rahawa Haile, writer**: Brilliant black millennials, are they writing fiction? No. They are writing for The New Republic, editing the New York Times Magazine, working for BuzzFeed. Fiction feels like a losing game if you are a minority. See: living in Brooklyn as beneficial but limiting because of class status. If our rent was in the $400-500 per month range I feel like this would be a different conversation. These conversations don’t happen from a place of comfort. This isn’t an MFA vs NYC thing, it’s an eat or don’t eat thing.
+
+---
+
+> **Ken Chen, poet & executive&nbsp; director, Asian American Writers' Workshop**: People are used to seeing race as an action. Daniel Handler says something racist so he’s a racist, it’s a moral shame. Racism is more about controlling equity and power, racism as a sin of omission. Publishers aren’t really curious about the histories of the rest of the world. They say, we pick books because we are pressured by market forces. But these things are really about imaginative acts. The way the system set is up, you exclude potential, the people who would help you build more markets.
+
+---
+
+> **William Johnson, managing director, Lambda Literary**: When I go to publishing events, it’s primarily gay white men. Who is making the guest list? Who gets invited? We know that William black and gay so we invite him and that covers it. I don’t cover it. I went to a book party last night and I brought all the people of color! I brought them as a form of self-care. I will not be a minstrel, I will not be the gay sidekick, but I will be fully black and fully gay. Lambda has also given me the opportunity to do this. We keep bringing others through till we fill up this room.
+
+---
+
+Where do we go from here? Mcardle closes *Brooklyn Mag*'s article with a line from Claire Vaye Watkins' infamous Tin House essay '[On Pandering](http://www.tinhouse.com/blog/41314/on-pandering.html)': "Let us burn this motherf\*\*\*ing system to the ground and build something better."
