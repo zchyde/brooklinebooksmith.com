@@ -2,7 +2,7 @@
 title: 'This Week In Books: The Faces of Tokenism'
 published: true
 featured: true
-date: 2016-01-15T09:00:00.000Z
+date: 2016-02-29T18:48:00.000Z
 description: ''
 featured_image_path: /14839821373_86e9ddf980_z.jpg
 featured_image_position: 50
