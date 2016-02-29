@@ -34,7 +34,7 @@ In response to L&L's findings, Brooklyn Magazine's Molly Mcardle [spoke with min
 
 ---
 
-> **William Johnson, managing director, Lambda Literary**: When I go to publishing events, it’s primarily gay white men. Who is making the guest list? Who gets invited? We know that William black and gay so we invite him and that covers it. I don’t cover it. I went to a book party last night and I brought all the people of color! I brought them as a form of self-care. I will not be a minstrel, I will not be the gay sidekick, but I will be fully black and fully gay. Lambda has also given me the opportunity to do this. We keep bringing others through till we fill up this room.
+> **William Johnson, managing director, Lambda Literary**: When I go to publishing events, it’s primarily gay white men. Who is making the guest list? Who gets invited? We know that William is black and gay so we invite him and that covers it. I don’t cover it. I went to a book party last night and I brought all the people of color! I brought them as a form of self-care. I will not be a minstrel, I will not be the gay sidekick, but I will be fully black and fully gay. Lambda has also given me the opportunity to do this. We keep bringing others through till we fill up this room.
 
 ---
 
