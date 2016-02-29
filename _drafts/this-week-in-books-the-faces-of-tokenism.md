@@ -13,3 +13,5 @@ staff: null
 books:
   - null
 ---
+
+The past few weeks have seen the mass media convulsions of #OscarsSoWhite, Chris Rock's scathing hosting performance and
