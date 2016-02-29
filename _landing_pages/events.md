@@ -18,13 +18,23 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
   _Please note that Brookline parking meters run **as late as 8pm** Monday
   through Saturday._
 
 
 
+
+
   Please know our events space is only accessible by stairs.  If you have any
-  questions about this matter, please contact us at 617-566-6660.
+  questions about this matter, please contact us at **617-566-6660**.
 regenerate: true
 ---
 
