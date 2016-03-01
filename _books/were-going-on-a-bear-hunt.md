@@ -1,6 +1,7 @@
 ---
 title: "We're Going on a Bear Hunt"
-isbn: null
-binding: null
-image_path: null
+isbn: '9780689815812'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/812/815/9780689815812.jpg'
 ---
+
