@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
+{% assign campaign = site.campaigns | where: 'show', true %}
 <main class="layout_two_column_wide row">
   <article class="">
+    {% if campaign.size > 0 %}
+      <div class="mobile-only">
+        {% include _campaigns-image.html %}
+      </div>
+    {% endif %}
+
 
       {% assign posts = site.posts | sort: 'date' | reverse %}
       {% assign posts_featured = site.posts | where: 'featured', true | sort: 'date' | reverse %}
@@ -31,6 +38,13 @@ layout: default
     </a>
   </article>
   <aside>
+
+      {% if campaign.size > 0 %}
+      <div class="desktop-only">
+        {% include _campaigns-image.html %}
+      </div>
+      {% endif %}
+
     {% comment %} TODO: exhange this ugly hack {% endcomment %}
     <style media="screen">
       .event {

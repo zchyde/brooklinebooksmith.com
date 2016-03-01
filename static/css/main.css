@@ -2066,7 +2066,7 @@ h6 {
   color: #505050;
   padding: .25em .5em;
   width: 100%;
-  border-bottom: 4px solid #d0d0d0; }
+  border-bottom: 4px solid #e2e2e2; }
 
 .section-title {
   color: #111;
@@ -2272,6 +2272,18 @@ figure[data-type=quote] cite:before {
   figure[data-type=video] iframe {
     width: 100% !important;
     height: auto !important; } }
+
+.mobile-only {
+  display: block; }
+
+.desktop-only {
+  display: none; }
+
+@media screen and (min-width: 56.25em) {
+  .mobile-only {
+    display: none; }
+  .desktop-only {
+    display: block; } }
 
 body:before {
   display: none; }

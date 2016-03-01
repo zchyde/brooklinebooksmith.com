@@ -161,3 +161,18 @@ figure[data-type=quote] cite:before {
   }
 }
 
+.mobile-only {
+  display: block;
+}
+.desktop-only {
+  display: none;
+}
+
+@include media($lg-up) {
+  .mobile-only {
+    display: none;
+  }
+  .desktop-only {
+    display: block;
+  }
+}
