@@ -2,7 +2,7 @@
 title: '**Augusten Burroughs** *Lust & Wonder: A Memoir*'
 published: true
 start_at: 2016-04-14T18:00:00.000Z
-image_path:
+image_path: null
 book_category: MEMOIR
 program: '-writers-and-readers'
 ticketed: false
@@ -15,4 +15,4 @@ In chronicling the development and demise of the different relationships he's ha
 
 **This event will take place at the Coolidge Corner Theatre and require tickets.&nbsp;**
 
-### [PU](https://www.eventbrite.com/e/augusten-burroughs-414-tickets-22222845128)[RCHASE TICKETS](__notset__)
+#### [PU](https://www.eventbrite.com/e/augusten-burroughs-414-tickets-22222845128)[RCHASE TICKETS](__notset__)
