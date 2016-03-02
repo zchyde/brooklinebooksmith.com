@@ -7,11 +7,11 @@ description: 'In March we celebrate World Water Day (March 22), a time to be tha
 featured_image_path: /uploads/water-babies---cover---wm-burt.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font:
-category:
+fancy_font: null
+category: null
 staff: liz-e-
 books:
-  -
+  - null
 ---
 
 
@@ -39,11 +39,7 @@ In March we celebrate [World Water Day](http://www.unwater.org/worldwaterday) (M
 
 ---
 
-Personal, livelihood-centered narratives on our waterways include Linda Greenlaw's *[The Lobster Chronicles: Life on a Very Small Island](http://www.brooklinebooksmith-shop.com/book/9780786885916)*and [*[The Oyster War: The True Story of a Small Farm](http://www.brooklinebooksmith-shop.com/book/9781619025271)*](http://www.brooklinebooksmith-shop.com/book/9781619025271)[*, Big Politics, and the Future of Wilderness in America*](__notset__) by Summer Brennan.
-
-&nbsp;
-
-Personal, livelihood-centered narratives on our waterways include Linda Greenlaw’s [The Lobster Chronicles: Life on a Very Small Island](http://www.brooklinebooksmith-shop.com/book/9780786885916) and The Oyster War: The True Story of a Small Farm, Big Politics, and the Future of Wilderness in America by Summer Brennan.&nbsp;
+Personal, livelihood-centered narratives on our waterways include Linda Greenlaw’s [The Lobster Chronicles: Life on a Very Small Island](http://www.brooklinebooksmith-shop.com/book/9780786885916) and [The Oyster War: The True Story of a Small Farm, Big Politics, and the Future of Wilderness in America](http://www.brooklinebooksmith-shop.com/book/9781619025271) by Summer Brennan.&nbsp;
 
 ---
 
