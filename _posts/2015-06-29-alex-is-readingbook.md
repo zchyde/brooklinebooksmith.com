@@ -20,7 +20,7 @@ blogger_orig_url: 'http://brooklinebooksmith.blogspot.com/2015/06/alex-is-readin
 ---
 
 
-[![leftist](http://4.bp.blogspot.com/-pwfxSCM6D8o/VZA8Fg0OOsI/AAAAAAAAAJA/wFpWcCKW4gs/s320/bookcover.jpg)](http://4.bp.blogspot.com/-pwfxSCM6D8o/VZA8Fg0OOsI/AAAAAAAAAJA/wFpWcCKW4gs/s1600/bookcover.jpg)
+[![this is a  this is a picture right](http://4.bp.blogspot.com/-pwfxSCM6D8o/VZA8Fg0OOsI/AAAAAAAAAJA/wFpWcCKW4gs/s320/bookcover.jpg)](http://4.bp.blogspot.com/-pwfxSCM6D8o/VZA8Fg0OOsI/AAAAAAAAAJA/wFpWcCKW4gs/s1600/bookcover.jpg)
 
 I already had the idea for this post in my head when a new book came in. (Today, it came in. Good timing.) It's called [Book](http://www.brooklinebooksmith-shop.com/book/9781939629654). Written by David Miles and illustrated by Natalie Hoopes, it's a lovely collage, a love letter to the paper book. (It doesn't care much for electronics, so if you have too soft a soft spot for your e-reader, it might hit you where you're vulnerable.) It's also the newest addition to what I think is a genuinely lovely and not often named genre of books that let art come–literally–alive.
 

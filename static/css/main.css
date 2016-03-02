@@ -990,8 +990,15 @@ article.hentry {
   article.hentry .items img {
     max-height: 15em;
     float: left;
-    margin: .25em 1em .25em 0;
+    margin: .75em 1.5em .75em 0;
     padding-bottom: 1em; }
+    article.hentry .items img[alt~="img-on-right"] {
+      float: right;
+      margin: .75em 0 .75em 1.5em; }
+    article.hentry .items img[alt~="full-img"] {
+      float: none;
+      max-height: none;
+      margin: .75em auto 1.25em auto; }
     @media screen and (max-width: 31.25em) {
       article.hentry .items img {
         width: 100%;

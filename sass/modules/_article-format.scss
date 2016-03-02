@@ -5,12 +5,24 @@ article.hentry {
   header {
     margin-bottom: .5em;
   }
-  .items {
+  .items { // in
     img {
       max-height: 15em;
       float:left;
-      margin: .25em 1em .25em 0;
+      margin: .75em 1.5em .75em 0;
       padding-bottom: 1em;
+      &[alt~="img-on-left"] {
+      }
+      &[alt~="img-on-right"] {
+        float:right;
+        margin: .75em 0 .75em 1.5em;
+      }
+      &[alt~="full-img"] {
+        float:none;
+        max-height: none;
+        margin: .75em auto 1.25em auto;
+      }
+
       @include media($sm-dn) {
         // on small screens make the image fill the width of the screen to
         // avoid awkwardness
