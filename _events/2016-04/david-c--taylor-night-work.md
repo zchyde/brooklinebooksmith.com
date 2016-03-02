@@ -1,12 +1,14 @@
 ---
 title: '**David C. Taylor** *Night Work*'
-published: false
-start_at: 2016-01-15T09:00:00.000Z
+published: true
+start_at: 2016-04-19T07:00:00.000Z
 image_path:
-book_category:
+book_category: MYSTERY
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
-  - null
+  - '9780765374851'
 ---
 
+
+Michael Cassidy, a New York cop and hero of the Edgar Award nominated-Night Life, escorts a prisoner accused of murder to Havana on the cusp of Fidel Castro's successful revolution. The arrival of Fidel Castro in New York three months later complicates the cop's life once more. Cassidy's investigation of a young man's murder in Central Park is interrupted when he is assigned to Castro's protective detail. Castro has many enemies and Cassidy is already investigating one murder. Can he prevent another?
