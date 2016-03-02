@@ -1,5 +1,5 @@
 ---
-title: Breakwater
+title: Breakwater Reading Series
 published: true
 start_at: 2016-04-15T19:00:00.000Z
 image_path:
