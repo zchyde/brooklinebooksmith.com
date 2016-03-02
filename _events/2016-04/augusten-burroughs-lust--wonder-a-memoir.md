@@ -15,4 +15,4 @@ In chronicling the development and demise of the different relationships he's ha
 
 **This event will take place at the Coolidge Corner Theatre and require tickets.&nbsp;**
 
-#### [PU](https://www.eventbrite.com/e/augusten-burroughs-414-tickets-22222845128)[RCHASE TICKETS](https://www.eventbrite.com/e/augusten-burroughs-414-tickets-22222845128)
+#### [PURCHASE TICKETS](https://www.eventbrite.com/e/augusten-burroughs-414-tickets-22222845128)
