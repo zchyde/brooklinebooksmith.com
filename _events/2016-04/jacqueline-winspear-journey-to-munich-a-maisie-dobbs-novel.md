@@ -1,7 +1,7 @@
 ---
 title: '**Jacqueline Winspear** *Journey to Munich: A Maisie Dobbs Novel*'
 published: true
-start_at: 2016-04-14T19:00:00.000Z
+start_at: 2016-04-04T19:00:00.000Z
 image_path:
 book_category: MYSTERY
 program: '-writers-and-readers'
