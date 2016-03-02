@@ -539,7 +539,8 @@ select[multiple=multiple] {
   margin-bottom: 0.8rem;
   padding: 0.53333rem;
   transition: border-color 150ms ease;
-  width: 100%; }
+  width: 100%;
+  color: white; }
   input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="email"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover, textarea:hover,
   select[multiple=multiple]:hover {
     border-color: #b1b1b1; }
