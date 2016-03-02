@@ -7,18 +7,19 @@ description: 'In March we celebrate World Water Day (March 22), a time to be tha
 featured_image_path: /uploads/water-babies---cover---wm-burt.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: ''
-category: ''
+fancy_font:
+category:
 staff: liz-e-
 books:
-  - ''
+  -
 ---
+
 
 In March we celebrate [World Water Day](http://www.unwater.org/worldwaterday) (March 22), a time to be thankful for our waterways (streams, ponds, lakes, rivers, bogs, estuaries, wetlands, and our oceans). It's also a time to remember how lucky many of us are to have clean, fresh drinking water, water for recreation, and picturesque water-centered landscapes to view. One might also say, everywhere we are, we're in a watershed. World Water Day finds its roots in the 1992 United Nations Conference on Environment and Development. At that time, the U.N. recommended an international observance for water. The first celebration was in 1993, and each year there is a new theme. The 2016 theme is water and jobs. This water-inspired, eco-initiative reminds us to learn more about water issues, and to take eco-actions to protect this valuable natural resource. To properly celebrate World Water Day, let's explore some good books about water.
 
 ---
 
-[![](/uploads/versions/usborneoceancreaturejpg---x----330-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780794532444)Kids love discovering the critters that dwell in our salty seas. See amazing photos, and learn cool facts with either [*The Usborne Big Book of Big Sea Creatures*](http://www.brooklinebooksmith-shop.com/book/9780794532444) or with the DK Eyewitness [*Ocean*](http://www.brooklinebooksmith-shop.com/book/9781465420541) book.
+[![](/uploads/versions/usborneoceancreaturejpg---x----330-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780794532444)Kids love discovering the critters that dwell in our salty seas. See amazing photos, and learn cool facts with either [*The Usborne Big Book of Big Sea Creatures*](http://www.brooklinebooksmith-shop.com/book/9780794532444) or with the DK Eyewitness&nbsp;[*Ocean*](http://www.brooklinebooksmith-shop.com/book/9781465420541) book.
 
 ---
 
@@ -34,11 +35,15 @@ In March we celebrate [World Water Day](http://www.unwater.org/worldwaterday) (M
 
 ---
 
-[![](/uploads/versions/swampwalkersjournal---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780618127375)One of my favorite books on the wonders of water is [*Swampwalker's Journal*](http://www.brooklinebooksmith-shop.com/book/9780618127375) by David M. Carroll. In this nature narrative, Carroll spends a year journeying through the wetlands, documenting what he finds along the way. He even illustrates the book with his own artwork, noticing the amazing details of the flora and fauna.
+[![](/uploads/versions/swampwalkersjournal---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780618127375)One of my favorite books on the wonders of water is&nbsp;[*Swampwalker's Journal*](http://www.brooklinebooksmith-shop.com/book/9780618127375) by David M. Carroll. In this nature narrative, Carroll spends a year journeying through the wetlands, documenting what he finds along the way. He even illustrates the book with his own artwork, noticing the amazing details of the flora and fauna.
 
 ---
 
 Personal, livelihood-centered narratives on our waterways include Linda Greenlaw's *[The Lobster Chronicles: Life on a Very Small Island](http://www.brooklinebooksmith-shop.com/book/9780786885916)*and [*[The Oyster War: The True Story of a Small Farm](http://www.brooklinebooksmith-shop.com/book/9781619025271)*](http://www.brooklinebooksmith-shop.com/book/9781619025271)[*, Big Politics, and the Future of Wilderness in America*](__notset__) by Summer Brennan.
+
+&nbsp;
+
+Personal, livelihood-centered narratives on our waterways include Linda Greenlaw’s [The Lobster Chronicles: Life on a Very Small Island](http://www.brooklinebooksmith-shop.com/book/9780786885916) and The Oyster War: The True Story of a Small Farm, Big Politics, and the Future of Wilderness in America by Summer Brennan.&nbsp;
 
 ---
 
@@ -70,4 +75,4 @@ Some of your favorite eco-books may be hard to come come by these days, but luck
 
 ---
 
-What are your favorite titles celebrating our waterways?  We'd love to know!
+What are your favorite titles celebrating our waterways?&nbsp; We'd love to know!
