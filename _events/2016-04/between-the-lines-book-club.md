@@ -1,6 +1,6 @@
 ---
 title: Between the Lines Book Club
-published: true
+published: false
 start_at: 2016-04-26T16:30:00.000Z
 image_path: /uploads/betweenthelines_logo-01-compressor.png
 book_category:
