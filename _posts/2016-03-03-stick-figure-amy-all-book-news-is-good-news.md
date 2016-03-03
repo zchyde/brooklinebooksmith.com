@@ -10,8 +10,6 @@ show_featured_image_in_post: true
 fancy_font:
 category: kidsmith
 staff: amy
-books:
-  -
 ---
 
 
