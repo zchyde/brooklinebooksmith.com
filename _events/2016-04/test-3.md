@@ -1,13 +1,14 @@
 ---
-title: Test 3
+title: Test 3f
 published: false
 start_at: 2016-01-15T09:00:00.000Z
 image_path:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test: null
+test:
 book_isbn:
-  - null
+  -
 ---
+
 
