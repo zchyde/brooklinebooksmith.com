@@ -7,13 +7,16 @@ description: But really have you seen the jacket copy for Gemina?
 featured_image_path: /uploads/book news amy.jpg
 featured_image_position: 50
 show_featured_image_in_post: true
-fancy_font:
+fancy_font: null
 category: kidsmith
 staff: amy
 books:
-  -
+  - null
 ---
 
 
 But really have you seen the jacket copy for Gemina?
+
+---
+
 [Amie Kaufman's Instagram](https://www.instagram.com/p/BBV_56xCHq5/)
