@@ -1,6 +1,6 @@
 ---
 title: 'Stick Figure Amy: All Book News is Good News'
-published: false
+published: true
 featured: false
 date: 2016-03-03T09:00:00.000Z
 description: But really have you seen the jacket copy for Gemina?
