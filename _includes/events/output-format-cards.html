@@ -50,6 +50,7 @@
 
       <div style="float:left:margin-right:1em;">
         {% for isbn in related_books_isbn %}
+        {{ related_books_isbn.size }}
           {% if isbn != '' %}
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
