@@ -1,7 +1,6 @@
 ---
 title: "Kids' Books to Cuddle Up With"
 published: true
-featured: false
 date: 2016-02-18T09:00:00.000Z
 description: ''
 featured_image_path: /uploads/banner_alex_2.jpg

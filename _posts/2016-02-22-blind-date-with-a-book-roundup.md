@@ -1,7 +1,6 @@
 ---
 title: 'Roundup: Kidsmith Blind Date with a Book'
 published: true
-featured: false
 date: 2016-02-22T10:15:00.000Z
 description: ''
 featured_image_path: /uploads/blinddate_banner.jpg
