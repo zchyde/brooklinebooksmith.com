@@ -7,8 +7,9 @@ ticketed: false
 ---
 
 
-![](/uploads/versions/41t6jwcfzql._sx321_bo1,204,203,200_---x----150-232x---.jpg)Our new book club selects readings from independent presses. Read something off the beaten path! Free and open to the public, meeting the third Thursday of every month at 7:00pm. To contact our moderator, email [**smallpress@brooklinebooksmith.com**](mailto:smallpress@brooklinebooksmith.com)
+Our new book club selects readings from independent presses. Read something off the beaten path! Free and open to the public, meeting the third Thursday of every month at 7:00pm. To contact our moderator, email [**smallpress@brooklinebooksmith.com**](mailto:smallpress@brooklinebooksmith.com)
 
-&nbsp;
+---
+***![](/uploads/versions/41t6jwcfzql._sx321_bo1,204,203,200_---x----150-232x---.jpg)******---***
 
-This month we will discuss:&nbsp;***Rochester Knockings* by Hubert Haddad.**
+***This month we will discuss:&nbsp;***Rochester Knocki***ngs* by Hubert Haddad.**
