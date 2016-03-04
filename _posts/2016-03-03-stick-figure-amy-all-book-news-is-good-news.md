@@ -13,4 +13,4 @@ staff: amy
 ---
 
 
-But really have you seen the [jacket copy for Gemina](https://www.instagram.com/p/BBV_56xCHq5/)?
+But really have you read the [jacket copy for Gemina](https://www.instagram.com/p/BBV_56xCHq5/)?
