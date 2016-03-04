@@ -1,0 +1,19 @@
+.nav-aside {
+  background-color:darken($base-background-color, 5%);
+  div {
+    @include outer-container;
+    padding: 1em .75em;
+      @include media($lg-up) {
+        padding: 1em 0;
+      }
+  }
+  img {
+    max-height: 1.75em;
+    vertical-align: middle;
+  }
+  p {
+    display: inline-block;
+    margin: 0;
+    font-weight: bold;
+  }
+}

@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+{% if page.description %}
+  {% include nav-aside.html %}
+{% endif %}
 <main class="layout_two_column_wide row">
+
   <article class="">
       {% assign category_posts = site.posts | where: 'category', page.category %}
       {% assign posts_limit = 15 %}
