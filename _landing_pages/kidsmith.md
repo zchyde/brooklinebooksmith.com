@@ -7,7 +7,7 @@ fancy_font: Cabin-sketch
 category: kidsmith
 layout: page-category
 include_description: events/kids.html
-description: '###### [![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
+description: '[![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
 follow: true
 Kids:
   - '9780545433167'
@@ -21,4 +21,5 @@ Kids:
   - '9781416902720'
   - '9780763680879'
 ---
+
 
