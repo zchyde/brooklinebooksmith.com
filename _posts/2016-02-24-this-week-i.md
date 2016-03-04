@@ -1,7 +1,7 @@
 ---
 title: 'This Week In Books: Forgotten Authors'
 published: true
-featured: false
+featured: true
 date: 2016-02-24T17:00:00.000Z
 description: ''
 featured_image_path: /abandoned-books.jpg

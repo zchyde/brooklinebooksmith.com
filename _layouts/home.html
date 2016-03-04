@@ -11,7 +11,7 @@ layout: default
     {% endif %}
 
 
-      {% assign posts = site.posts | sort: 'date' | reverse %}
+      {% assign posts = site.posts | where: 'featured', false | sort: 'date' | reverse %}
       {% assign posts_featured = site.posts | where: 'featured', true | sort: 'date' | reverse %}
       {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
       {% assign posts_limit = 5 %}
@@ -26,9 +26,8 @@ layout: default
         Latest from the Blog
       </h4>
       {% for object in posts limit:posts_limit %}
-      {% unless object.featured == true %}
         {% include _format-blog-posts.html %}
-        {% endunless %}
+      {% comment %} {% unless object.featured == true %}  {% endunless %} {% endcomment %}
       {% endfor %}
     </div>
     <a href="/blog/">
