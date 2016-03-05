@@ -3,15 +3,15 @@ title: "Naptime In Grave City: Brian Chippendale's Puke Force"
 published: false
 featured: false
 date: 2016-03-08T09:00:00.000Z
-description: null
-featured_image_path: null
-featured_image_position: 50
+description:
+featured_image_path: /pukeforcecover.jpg
+featured_image_position: 30
 show_featured_image_in_post: false
-fancy_font: null
-category: null
+fancy_font:
+category:
 staff: carl
 books:
-  - null
+  -
 ---
 
 
