@@ -135,3 +135,7 @@ body.kidsmith {
     color:white;
   }
 }
+
+.shift-on-mobile {
+  @include shift(12 of 12);
+}

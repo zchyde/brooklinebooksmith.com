@@ -42,6 +42,9 @@ $gallery-cell-colors:
     background: #8C8;
     ///counter-increment: gallery-cell;
     position: relative;
+    @include media($lg) {
+      min-height: 400px;
+    }
 
     @for $i from 1 to 7 { // assign colors from $flex-box-top-colors list
       &:nth-child(#{$i}) {
@@ -87,18 +90,23 @@ $gallery-cell-colors:
     //@include outer-container;
     //@include clearfix;
     margin: auto;
-    padding: 3em 3.125em 1em 3.125em;
+    padding: 1.5em 2.5em;
     text-align: center;
     vertical-align: middle;
     display: flex;
     align-items: center;
     justify-content: center;
 
-
+@include media($lg) {
+  padding: 3em 3.125em 3em 3.125em;
+}
     .hero-copy {
       text-align: center;
       /////////////// padding-bottom: 3.5em;
+
+      @include media($lg) {
       max-width: 60%;
+      }
 
       h1 {
         color: $hero-color;

@@ -41,9 +41,7 @@ header.navigation {
 
     .hero {
       {% if page.banner_height %}
-        height:{{ page.banner_height }}px;
-      {% else %}
-        height: 470px;
+        height:{{ page.banner_height }}px;      
       {% endif %}
       max-height:90vh;
     }
@@ -76,6 +74,5 @@ header.navigation {
    .background-fixed {
       background-attachment: fixed;
     }
-  {% comment %} @media screen and (min-width: 46.5em) {} {% endcomment %}
 </style>
 {% endif %}

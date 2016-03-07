@@ -1,6 +1,7 @@
 ---
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
+banner_height: 450
 fancy_font: ''
 page_heading: ''
 Hardcover:
