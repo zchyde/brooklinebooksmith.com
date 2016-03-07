@@ -19,7 +19,7 @@ If you're unfamiliar with [Melville House](http://www.mhpbooks.com/), I can tell
 
 ---
 
-If the press has a calling card, it's probably "always irreverent but never really kidding." They gave Penguin/Random House a good ribbing [back when Trump was still a joke](https://twitter.com/i/moments/656111585090543616), and their backlist runs the gamut from [How to Sharpen Pencils](http://www.brooklinebooksmith-shop.com/book/9781612193267) (for which MH pulled out all the stops, marketing-wise) by David Rees (from whom you can in fact [buy a $40 hand-sharpened pencil](http://www.artisanalpencilsharpening.com/)); to [The Senate Intelligence Committee Report on Torture](http://www.brooklinebooksmith-shop.com/book/9781612194851) (in a Herculean feat, MH undercut Big Publishing by bringing the book to print mere days after the report was made public).
+If the press has a calling card, it's probably "always irreverent but never really kidding." They gave Penguin/Random House [a good ribbing](https://twitter.com/i/moments/656111585090543616) back when Trump was still a joke, and their catalog of titles runs the gamut from [How to Sharpen Pencils](http://www.brooklinebooksmith-shop.com/book/9781612193267) (for which MH pulled out all the stops, marketing-wise) by David Rees (from whom you can in fact [buy a $40 hand-sharpened pencil](http://www.artisanalpencilsharpening.com/)); to [The Senate Intelligence Committee Report on Torture](http://www.brooklinebooksmith-shop.com/book/9781612194851) (in a Herculean feat, MH undercut Big Publishing by bringing the book to print mere days after the report was made public).
 
 ---
 
