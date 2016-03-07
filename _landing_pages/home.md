@@ -2,15 +2,15 @@
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
 banner_height: 450
-fancy_font: ''
-page_heading: ''
+fancy_font:
+page_heading:
 Hardcover:
+  - '9781400069538'
+  - '9780812988406'
+  - '9780399172885'
   - '9781101875551'
-  - '9781619025738'
   - '9781400067695'
   - '9780062415837'
-  - '9780451492937'
-  - '9780812988406'
 Paperback:
   - '9780143124542'
   - '9780804172707'
@@ -21,7 +21,8 @@ Paperback:
   - '9780812984965'
 permalink: /
 layout: home
-description: ''
+description:
 regenerate: true
 ---
+
 
