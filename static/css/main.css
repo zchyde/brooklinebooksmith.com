@@ -1338,7 +1338,7 @@ html, body {
     margin-bottom: 1em; }
   .hero .hero-inner {
     margin: auto;
-    padding: 1.5em 2.5em;
+    padding: 3em 2em;
     text-align: center;
     vertical-align: middle;
     display: flex;
@@ -1658,9 +1658,6 @@ body.kidsmith aside.page {
   min-height: 300px; }
   .row-social h5 {
     color: white; }
-
-.shift-on-mobile {
-  margin-left: 102.77778%; }
 
 .sliding-panel-content {
   position: fixed;
