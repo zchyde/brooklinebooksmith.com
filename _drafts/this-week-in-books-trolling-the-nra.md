@@ -23,7 +23,7 @@ If the press has a calling card, it's probably "always irreverent but never real
 
 ---
 
-The latest to fall victim to the indie publisher's razor wit? The National Rifle Association, as [Jonathon Sturgeon reports for Flavorwire](http://flavorwire.com/564126/independent-book-publisher-trolls-nra-over-gun-violence?):
+And now the latest victim of the indie publisher's razor wit? The National Rifle Association, as [Jonathon Sturgeon reports for Flavorwire](http://flavorwire.com/564126/independent-book-publisher-trolls-nra-over-gun-violence?):
 
 > Melville House wouldn’t be Melville House if they didn’t find a crazy way to publicize the book (another way of saying “intervening in the political order on the book’s behalf”). This go-round, they’ve selected a number of these old, American stories of gun violence and put them in a fake, old-timey newspaper that they’re sending to gun-drunk politicians, like Ted Cruz. And they’ve vowed to bombard NRA executive vice president Wayne LaPierre with stories of gun violence each day until the book’s publication on March 22. That’s publishing, I think, as a political art.
 
