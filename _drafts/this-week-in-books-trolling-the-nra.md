@@ -3,15 +3,15 @@ title: 'This Week In Books: Trolling the NRA'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: null
+description:
 featured_image_path: /nra.png
 featured_image_position: 40
 show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: '-staff-'
+fancy_font:
+category:
+staff: lydia
 books:
-  - null
+  -
 ---
 
 
