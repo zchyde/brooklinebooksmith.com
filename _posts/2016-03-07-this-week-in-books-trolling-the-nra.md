@@ -7,11 +7,11 @@ description: "If you're unfamiliar with Melville House, I can tell you that they
 featured_image_path: /nra.png
 featured_image_position: 40
 show_featured_image_in_post: false
-fancy_font:
-category:
+fancy_font: null
+category: null
 staff: lydia
 books:
-  -
+  - null
 ---
 
 
@@ -19,11 +19,11 @@ If you're unfamiliar with [Melville House](http://www.mhpbooks.com/), I can tell
 
 ---
 
-If the press has a calling card, it's probably "always irreverent but never really kidding." They gave Penguin/Random House [a good ribbing](https://twitter.com/i/moments/656111585090543616) back when Trump was still a joke, and their catalog of titles runs the gamut from [How to Sharpen Pencils](http://www.brooklinebooksmith-shop.com/book/9781612193267) (for which MH pulled out all the stops, marketing-wise) by David Rees (from whom you can in fact [buy a $40 hand-sharpened pencil](http://www.artisanalpencilsharpening.com/)); to [The Senate Intelligence Committee Report on Torture](http://www.brooklinebooksmith-shop.com/book/9781612194851) (in a Herculean feat, MH undercut Big Publishing by bringing the book to print mere days after the report was made public).
+If the press has a calling card, it's probably "always irreverent but never really kidding." They gave Penguin/Random House [a good ribbing](https://twitter.com/i/moments/656111585090543616) back when Trump was still a joke, and their catalog of titles runs the gamut from *[How to Sharpen Pencils](http://www.brooklinebooksmith-shop.com/book/9781612193267)* (for which MH pulled out all the stops, marketing-wise) by David Rees (from whom you can in fact [buy a $40 hand-sharpened pencil](http://www.artisanalpencilsharpening.com/)); to *[The Senate Intelligence Committee Report on Torture](http://www.brooklinebooksmith-shop.com/book/9781612194851)* (in a Herculean feat, MH undercut Big Publishing by bringing the book to print mere days after the report was made public).
 
 ---
 
-The latest victim of the indie publisher's razor wit? The National Rifle Association, as [Jonathon Sturgeon reports for Flavorwire](http://flavorwire.com/564126/independent-book-publisher-trolls-nra-over-gun-violence?):
+The latest victim of the indie publisher's razor wit? The National Rifle Association, as [Jonathon Sturgeon reports for *Flavorwire*](http://flavorwire.com/564126/independent-book-publisher-trolls-nra-over-gun-violence?):
 
 > Melville House wouldn’t be Melville House if they didn’t find a crazy way to publicize the book (another way of saying “intervening in the political order on the book’s behalf”). This go-round, they’ve selected a number of these old, American stories of gun violence and put them in a fake, old-timey newspaper that they’re sending to gun-drunk politicians, like Ted Cruz. And they’ve vowed to bombard NRA executive vice president Wayne LaPierre with stories of gun violence each day until the book’s publication on March 22. That’s publishing, I think, as a political art.
 
@@ -31,4 +31,4 @@ The latest victim of the indie publisher's razor wit? The National Rifle Associa
 
 ---
 
-It's all a pitch for [Melancholy Accidents: Three Centuries of Stray Bullets and Bad Luck](http://www.brooklinebooksmith-shop.com/book/9781612195063) by Peter Manseau, which hits shelves later this month.
+It's all a pitch for *[Melancholy Accidents: Three Centuries of Stray Bullets and Bad Luck](http://www.brooklinebooksmith-shop.com/book/9781612195063)* by Peter Manseau, which hits shelves later this month.
