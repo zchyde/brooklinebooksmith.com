@@ -15,7 +15,7 @@ books:
 ---
 
 
-If you're unfamiliar with Melville House, I can tell you that they have one of the funniest twitter feeds out there and they publish some pretty slick books too. They won me over right from the start with their beautifully designed series (check out their tribute to a neglected form in [The Art of the Novella](http://www.mhpbooks.com/series/the-art-of-the-novella/), or the oft' overlooked classics of [The Neversink Library](http://www.mhpbooks.com/series/the-neversink-library/)), but style over substance is not MH's game.
+If you're unfamiliar with [Melville House](http://www.mhpbooks.com/), I can tell you that they have one of the [funniest twitter feeds out there](https://twitter.com/melvillehouse) and they publish some pretty slick books too. They won me over right from the start with their beautifully designed series (check out their tribute to a neglected form in [The Art of the Novella](http://www.mhpbooks.com/series/the-art-of-the-novella/), or the oft' overlooked classics of [The Neversink Library](http://www.mhpbooks.com/series/the-neversink-library/)), but style over substance is not MH's game.
 
 ---
 
