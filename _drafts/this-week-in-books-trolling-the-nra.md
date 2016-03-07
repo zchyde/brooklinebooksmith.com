@@ -31,4 +31,4 @@ The latest victim of the indie publisher's razor wit? The National Rifle Associa
 
 ---
 
-It's all a pitch for [Melancholy Accidents: Three Centuries of Stray Bullets and Bad Luck](http://www.brooklinebooksmith-shop.com/book/9781612195063) by Peter Manseau, which hits shelves March 22nd.
+It's all a pitch for [Melancholy Accidents: Three Centuries of Stray Bullets and Bad Luck](http://www.brooklinebooksmith-shop.com/book/9781612195063) by Peter Manseau, which hits shelves later this month.
