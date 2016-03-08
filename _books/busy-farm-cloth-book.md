@@ -1,6 +1,8 @@
 ---
 title: Busy Farm Cloth Book
-isbn: null
-binding: null
-image_path: null
+isbn: '9780312517915'
+binding: Hardcover
+image_path:
 ---
+
+
