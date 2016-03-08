@@ -7,10 +7,10 @@ description: "If you're unfamiliar with Melville House, I can tell you that they
 featured_image_path: /nra.png
 featured_image_position: 40
 show_featured_image_in_post: false
-fancy_font:
-category:
-staff:
-books:
+fancy_font: null
+category: null
+staff: null
+books: null
 ---
 
 
