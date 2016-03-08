@@ -100,9 +100,10 @@ Recent Events: Lena Dunham, Nick Offerman, Rainn Wilson.
 Recent Success Notes: The Wilbur is very collaborative in their marketing strategies and are eager to use their connections as Boston’s preeminent comedy theatre to promote our events. Beyond our events being promoted alongside theirs on their website and print advertising, they’ve gone so far as to feature our events on digital billboards along the highway, and use their marketing team to help coordinate radio interviews and promotional giveaways.
 
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-1-compressor.jpg)
+![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg)
-![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg)
+
 
 ---
 
