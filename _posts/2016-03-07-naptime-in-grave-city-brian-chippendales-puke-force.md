@@ -3,21 +3,23 @@ title: "Naptime In Grave City: Brian Chippendale's Puke Force"
 published: true
 featured: false
 date: 2016-03-08T09:00:00.000Z
-description:
+description: null
 featured_image_path: /pukeforcecover.jpg
 featured_image_position: 30
 show_featured_image_in_post: false
-fancy_font:
-category:
+fancy_font: null
+category: null
 staff: carl
 books:
-  -
+  - null
 ---
 
 
 ![](/uploads/versions/pukeforcecover---x----1500-1159x---.jpg)
 
 I first became hip to Brian Chippendale back in 2002. I was standing in a now-defunct record store in Cambridge rifling through the new arrivals when it hit me-actually more like singed my fingertips. I was assured by the clerk that upon listening to the record, my face would melt off. Myself not being much of a looker, I took the risk. And *Ride The Skies* by the band Lightning Bolt would become a cherished fixture in my record collection.
+
+---
 
 ![](/uploads/versions/img_1927---x----1280-1280x---.jpg)
 
