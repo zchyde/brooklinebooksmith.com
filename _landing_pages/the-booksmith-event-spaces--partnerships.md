@@ -101,9 +101,8 @@ Recent Success Notes: The Wilbur is very collaborative in their marketing strate
 
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-1-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg)
-![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg)
-
+![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg)
 
 ---
 
