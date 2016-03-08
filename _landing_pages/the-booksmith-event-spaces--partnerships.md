@@ -82,10 +82,11 @@ Recent Success Notes: We sold 900 ticket/book bundles for Elvis Costello’s mem
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-2-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-3-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-4-compressor.jpg)
+![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-5-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-6-compressor.jpg)
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-7-compressor.jpg)
-![](http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg)
+
 
 
 ---
