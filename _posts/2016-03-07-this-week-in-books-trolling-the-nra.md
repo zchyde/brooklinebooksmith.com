@@ -4,14 +4,13 @@ published: true
 featured: true
 date: 2016-03-07T09:00:00.000Z
 description: "If you're unfamiliar with Melville House, I can tell you that they have one of the funniest twitter feeds out there and they publish some pretty slick books too."
-featured_image_path: /nra.png
+featured_image_path: /uploads/untitled.png
 featured_image_position: 40
-show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: lydia
+show_featured_image_in_post: true
+fancy_font:
+category:
+staff:
 books:
-  - null
 ---
 
 
