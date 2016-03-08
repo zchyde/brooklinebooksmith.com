@@ -28,7 +28,7 @@ The latest victim of the indie publisher's razor wit? The National Rifle Associa
 
 &nbsp;
 
----![](/uploads/versions/untitled-compressor---x----525-797x---.png)
+—![full-img](/uploads/versions/untitled-compressor---x----525-797x---.png)
 
 ---
 
