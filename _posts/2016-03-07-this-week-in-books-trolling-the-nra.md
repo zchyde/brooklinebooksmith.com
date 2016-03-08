@@ -5,7 +5,7 @@ featured: true
 date: 2016-03-07T09:00:00.000Z
 description: "If you're unfamiliar with Melville House, I can tell you that they have one of the funniest twitter feeds out there and they publish some pretty slick books too."
 featured_image_path: /uploads/untitled.png
-featured_image_position: 40
+featured_image_position: 15
 show_featured_image_in_post: true
 fancy_font:
 category:
@@ -26,7 +26,7 @@ The latest victim of the indie publisher's razor wit? The National Rifle Associa
 
 > Melville House wouldn’t be Melville House if they didn’t find a crazy way to publicize the book (another way of saying “intervening in the political order on the book’s behalf”). This go-round, they’ve selected a number of these old, American stories of gun violence and put them in a fake, old-timey newspaper that they’re sending to gun-drunk politicians, like Ted Cruz. And they’ve vowed to bombard NRA executive vice president Wayne LaPierre with stories of gun violence each day until the book’s publication on March 22. That’s publishing, I think, as a political art.
 
-![](/uploads/versions/untitled---x----525-797x---.png)
+&nbsp;
 
 ---
 
