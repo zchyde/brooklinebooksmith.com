@@ -2,15 +2,15 @@
 {% if page.resetHeroBackgroundTop %}
   {% assign heroBackgroundTop = page.resetHeroBackgroundTop %}
 {% else %}
-{% assign heroBackgroundTop = 0.68 %}
+  {% assign heroBackgroundTop = 0.68 %}
 {% endif %}
 {% if page.resetHeroBackgroundBottom %}
   {% assign heroBackgroundBottom = page.resetHeroBackgroundBottom %}
 {% else %}
-{% assign heroBackgroundBottom = 0.27 %}
+  {% assign heroBackgroundBottom = 0.27 %}
 {% endif %}
-{% assign background_image = page.featured_image_path %}
-{% assign background_image_mobile = page.featured_image_path %}
+  {% assign background_image = page.featured_image_path %}
+  {% assign background_image_mobile = page.featured_image_path %}
 {% if page.featured_image_path and page.featured_image_path != '' %}
 
 <style type="text/css">
