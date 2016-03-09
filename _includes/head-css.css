@@ -4,17 +4,13 @@
 {% else %}
 {% assign heroBackgroundTop = 0.68 %}
 {% endif %}
-
 {% if page.resetHeroBackgroundBottom %}
   {% assign heroBackgroundBottom = page.resetHeroBackgroundBottom %}
 {% else %}
 {% assign heroBackgroundBottom = 0.27 %}
 {% endif %}
-
 {% assign background_image = page.featured_image_path %}
 {% assign background_image_mobile = page.featured_image_path %}
-
-
 {% if page.featured_image_path and page.featured_image_path != '' %}
 
 <style type="text/css">
@@ -29,19 +25,15 @@ header.navigation {
     background-repeat: no-repeat;
 
   }
-
   .gradient:hover {
     opacity: 0.98;
     -webkit-transition:opacity 0s ease-in 0s;
     -moz-transition:opacity 0s ease-in 0s;
     transition:opacity 0s ease-in 0s
   }
-
-
-
     .hero {
       {% if page.banner_height %}
-        height:{{ page.banner_height }}px;      
+        height:{{ page.banner_height }}px;
       {% endif %}
       max-height:90vh;
     }
