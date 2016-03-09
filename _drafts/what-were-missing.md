@@ -4,19 +4,19 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: "Water, water everywhere, let's find that book together."
-featured_image_path:
+featured_image_path: null
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font:
-category:
-staff:
-books:
+fancy_font: null
+category: null
+staff: null
+books: null
 ---
 
 
 This last week, the children's bookselling team had the privilege of attending a meeting of the New England Children's Booksellers Advisory Council at the Boston offices of Little, Brown. We got a fabulous behind-the-scenes look at how cover designs come together, and sneak peaks of some tremendous upcoming books.&nbsp;
 
-(These included: Grace Lin's WHEN THE SEA TURNED TO SILVER, a companion to her Newbery Honor-winning WHERE THE MOUNTAINS MEET THE MOON; Peter Brown's first middle grade novel, THE WILD ROBOT; Dan Santat's time-warping ARE WE THERE YET?; Sherman Alexie and Yuyi Morales's picture book THUNDER BOY JR.; and Ame Dyckman and Zachariah Ohora's picture book HORRIBLE BEAR!. I made at least–AT LEAST–one terrible noise of unbearable excitement while all these books were being shown to us. There is a limit on shame, and that limit is long passed by when someone hands you a copy of THE WILD ROBOT.)
+(These included: Grace Lin's [WHEN THE SEA TURNED TO SILVER](http://www.brooklinebooksmith-shop.com/book/9780316125925), a companion to her Newbery Honor-winning [WHERE THE MOUNTAIN MEETS THE MOON](http://www.brooklinebooksmith-shop.com/book/9780316038638); Peter Brown's first middle grade novel, THE WILD ROBOT; Dan Santat's time-warping [ARE WE THERE YET?](http://www.brooklinebooksmith-shop.com/search/site/are%2520we%2520there%2520yet%2520santat); Sherman Alexie and Yuyi Morales's picture book THUNDER BOY JR.; and Ame Dyckman and Zachariah Ohora's picture book HORRIBLE BEAR!. I made at least–AT LEAST–one terrible noise of unbearable excitement while all these books were being shown to us. There is a limit on shame, and that limit is long passed by when someone hands you a copy of THE WILD ROBOT.)
 
 When the conversation was turned over to the booksellers, one question that came up was a question that I think everyone who reads runs up against: where on the shelf is the kind of book *I'm*looking for? That's to say, of the thousands of books that are published for children every year, of all the books that are carried by bookstores, libraries, and schools, who is still missing? What's still invisible? Which necessary stories have fallen out of vogue, or have never been seen?
 
