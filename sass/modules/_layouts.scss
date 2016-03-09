@@ -77,6 +77,16 @@
   margin: 4em auto;
 }
 
+.row__clear-bottom {
+  clear: both;
+  @include clearfix;
+  //@include outer-container(60%);
+  @include outer-container();
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 14em;
+}
+
 .row__clear {
   @include clearfix;
 }

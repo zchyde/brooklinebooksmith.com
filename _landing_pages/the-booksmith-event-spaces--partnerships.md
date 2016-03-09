@@ -14,7 +14,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ---
 
-#### Brookline Booksmith Readers and Writers Room (Downstairs)
+### Brookline Booksmith Readers and Writers Room (Downstairs)
 
 ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-4-compressor.jpg) **Capacity Readings/Signing**: 110-130 seated, plus standing room for 40+.
 
@@ -23,8 +23,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 **Recent Success Notes**: This past fall we hosted four local launches with crowds of 120+ and sales of 50+ frontlist copies. Our biggest in-store event of the fall was Colleen Hoover who drew a crowd of approximately 140 with 148 frontlist sales.
 
 
-<div class="hidden-case-no-js gallery js-flickity"
-  data-flickity-options='{ "imagesLoaded": true,  "percentPosition": false ,"lazyLoad": 2, "initialIndex": 2, "wrapAround": true}'>
+{% include flickity-start.html %}
 
 <img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg" alt="">
 <img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg" alt="">
@@ -39,7 +38,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 
 
-#### Brookline Booksmith Store Level (Upstairs Signing Only)
+### Brookline Booksmith Store Level (Upstairs Signing Only)
 
 ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-1-compressor.jpg) **Capacity Signing Only**: 750 best to date.
 
@@ -47,11 +46,18 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 **Recent Success Notes**: The biggest signing-only event we’ve hosted was 750 people for Youtuber Joey Graceffa. Our other biggest signing-only events had attendance capped by the publisher. These include Neil Patrick Harris (600 books in under three hours), Jeff Kinney (500 people with kids activity stations) and Mindy Kaling (400 people in under two hours). Staff members are always available to take pictures, but we also have a great relationship with a professional photographer who can take customers’ pictures and upload them to a website immediately after the event. We’ve perfected our setup for a standard signing line and have a wristband system in place for distributing pre-signed books.
 
+
+{% include flickity-start.html %}
+
+
 ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-upstairs-2-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-UPstairs-3-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-4-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-5-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-6-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-7-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-8-compressor.jpg)
+
+
+{% include div-close.html %}
 
 ---
 
-#### Coolidge Corner Theatre Event Space
+### Coolidge Corner Theatre Event Space
 
 ![](http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-1-compressor.jpg) **Capacity**: Moviehouse 1 can hold 440; Moviehouse 2 can hold 220.
 
@@ -63,7 +69,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ---
 
-#### Berklee Performance Center Event Space
+### Berklee Performance Center Event Space
 
 ![](http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-1-compressor.jpg) **Capacity**: 1,215 (732 Orchestra Level + 432 Balcony Level).
 
@@ -75,7 +81,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ---
 
-#### Wilbur Theatre Event Space
+### Wilbur Theatre Event Space
 
 ![](http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-1-compressor.jpg) **Capacity**: 1,200.
 
@@ -87,7 +93,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ---
 
-#### Congregation Kehillath Israel
+### Congregation Kehillath Israel
 
 **Capacity**: 100-1,000.
 
