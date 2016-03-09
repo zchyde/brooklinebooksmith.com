@@ -1,5 +1,5 @@
 ---
-title: 'The Booksmith Event Spaces & Partnerships'
+title: 'Brookline Booksmith Programs and Partnerships'
 published: true
 featured_image_path: null
 featured_image_position: 50
@@ -8,7 +8,7 @@ description: null
 ---
 
 
-Events take place in our downstairs Readers and Writers Room, which can hold up to 150 people. The Coolidge Corner Theatre directly across the street is available to us on most weekdays for ticketed events with theatres seating 220 or 440 people. We also have relationships with larger venues in Boston ranging from 500 to 1,200+ seats.
+In-store events take place in our downstairs Readers and Writers Room, which can hold up to 150 people. The Coolidge Corner Theatre directly across the street is available to us on most weeknights for ticketed events with theatres seating 220 or 440 people. We also have relationships with larger venues in Boston ranging from 500 to 1,200+ seats.
 
 Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Likes, 2,450 Instagram followers), our weekly B-Mail newsletter (7,500 subscribers), our in-store events posters, on a sandwich board in front of the store, and on flyers with events listings placed in every customer's bag. Event books are always displayed in the front windows leading up to the event and if the publisher provides cover blow-ups we hang them over the front registers. We also send out a bi-monthly press release to media outlets and our events are listed in *The Boston Globe* and other publications. We are a *New York Times* reporting store.
 
@@ -58,7 +58,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ![](http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-1-compressor.jpg) **Capacity**: Moviehouse 1 can hold 440; Moviehouse 2 can hold 220.
 
-**Recent Events**: Michael Chabon, Jhumpa Lahiri, Richard Ford, Junot Diaz, Felicia Day, John Waters, Caroli ne Kennedy, Judy Blume, Brandon Sanderson, Christopher Moore, Joe Perry of Aerosmith.
+**Recent Events**: Michael Chabon, Jhumpa Lahiri, Richard Ford, Junot Diaz, Felicia Day, John Waters, Caroline Kennedy, Judy Blume, Brandon Sanderson, Christopher Moore, Joe Perry of Aerosmith.
 
 **Recent Success Notes**: Coolidge events usually have sales of 200+ frontlist units for Moviehouse 1 and 100+ for Moviehouse 2. In the past couple of months we’ve had sold-out events for Brandon Sanderson and Felicia Day, both of whom walked the line outside of the theater, greeting fans and generating terrific energy throughout the neighborhood. They also had exemplary sales with 410 hardcovers sold for Felicia Day (MH1) and 211 hardcovers sold for Brandon Sanderson (MH2). After our Coolidge event with Joe Perry of Aerosmith, his manager told me, “You ran the best event of the tour with the worst people….” (meaning troublesome fans, not us). The Coolidge is directly across the street from the store and post-Coolidge signings are held at Brookline Booksmith. The signings are open to all, giving us the opportunity to sell books to non-ticketholders if the theater is sold-out.
 
