@@ -3,7 +3,7 @@ title: "What We're Missing"
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: 'Water, water everywhere, let me find that for you.'
+description: "Water, water everywhere, let's find that book together."
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -22,14 +22,18 @@ When the conversation was turned over to the booksellers, one question that came
 
 Booksellers (have you met one?) have opinions and answers. (You have probably noticed, if you have met one.) It is kind of our job. Certain traits, such as being opinionated and having answers, are key to the bookseller lifestyle. Needless to say, everyone in the room could point to something that they wanted to see more of. Picture books with longer stories! Middle grade novels where no parents die! YA lesbians with happy endings! Middle grade lesbians, full stop! Narrative nonfiction for 8-12 year olds! Books featuring black characters that are not about slavery!
 
-(Side note: one suggestion was for more introspective middle grade books like Holly Goldberg Sloan's heart-wrenching and wonderful COUNTING BY 7S, but featuring a male protagonist--I'd like to give a loud shout out for Leslie Connor's newly released ALL RISE FOR THE HONORABLE PERRY T. COOK.)
+(Side note: one suggestion was for more introspective middle grade books like Holly Goldberg Sloan's heart-wrenching and wonderful COUNTING BY 7S, but featuring a male protagonist–I'd like to give a loud shout out for Leslie Connor's newly released ALL RISE FOR THE HONORABLE PERRY T. COOK.)
 
-Part of the joy of being in a bookstore, for me, is trying to pick through and find the one good thing that will satisfy the reading itch I'm feeling. And part of the joy in being a bookseller is in getting it right for someone else. Leaping in feet first can be frustrating--I too have wandered the shelves in libraries and bookstores unable to settle on anything, because I know what I want to feel, and I don't know how to find it.
+Part of the joy of being in a bookstore, for me, is trying to pick through and find the one good thing that will satisfy the reading itch I'm feeling. And part of the joy in being a bookseller is in getting it right for someone else. Leaping in feet first can be frustrating–I too have wandered the shelves in libraries and bookstores unable to settle on anything, because I know what I want to feel, and I don't know how to find it.
 
 Sometimes it's just that, in what is truly a boom in children's publishing, it's impossible for any reader to keep up with everything that's coming out. It's a *lot of books.&nbsp;*It can be daunting. It can be hard to know even how to start looking.&nbsp;
 
-Sometimes what you care about in a book isn't what makes it onto the cover (even when the cover is beautiful)--the part that will be remembered decades later by you or your child is not the part someone else thought was most important. Sometimes not finding the book of your heart is due to an actual dearth of material--even if it's being written, maybe that story is not making it to print. No matter how many books we have, it seems inevitable that there will be gaps.&nbsp;
+Sometimes what you care about in a book isn't what makes it onto the cover (even when the cover is beautiful)–the part that will be remembered decades later by you or your child is not the part someone else thought was most important. Sometimes not finding the book of your heart is due to an actual dearth of material–even if it's being written, maybe that story is not making it to print. No matter how many books we have, it seems inevitable that there will be gaps.&nbsp;
 
-One of the great things about getting together in a room and talking about what we're missing, though, is to discover what we're not.&nbsp;
+One of the great things about getting together in a room and talking about what we're missing, though, is to discover what we're not. I might not have answers to every single person's questions, but I have a mental lists of suggestions already. If the book exists, enough people talking will find it. If the book doesn't exist, enough people talking may mean that someone will write it, and publish it, and a bookstore will stock it, and when you come in and ask about it, we'll be able to put it straight into your hands.&nbsp;
+
+In short, keep talking about the books you want. Maybe it exists! Maybe we can find it! We love when you trust us to find it. Maybe you, talking about what's missing, are going to be one of the first steps that bring that missing thing out of hiding.&nbsp;
+
+&nbsp;
 
 &nbsp;
