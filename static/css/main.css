@@ -871,7 +871,7 @@ http://flickity.metafizzy.co
 .flickity-page-dots {
   position: absolute;
   width: 100%;
-  bottom: -35px;
+  bottom: -25px;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -896,84 +896,6 @@ http://flickity.metafizzy.co
 .flickity-page-dots .dot.is-selected {
   filter: alpha(opacity=100);
   /* IE8 */
-  opacity: 1; }
-
-/* big buttons, no circle */
-.flickity-prev-next-button {
-  display: none; }
-  @media screen and (min-width: 56.25em) {
-    .flickity-prev-next-button {
-      display: block;
-      width: 100px;
-      height: 100px;
-      background: white;
-      background: rgba(0, 0, 0, 0.625); } }
-
-.flickity-prev-next-button:hover {
-  background: transparent; }
-
-/* arrow color */
-.flickity-prev-next-button .arrow {
-  fill: white; }
-
-.flickity-prev-next-button.no-svg {
-  color: white; }
-
-/* hide disabled button */
-.flickity-prev-next-button:disabled {
-  display: none; }
-
-.flickity-enabled:focus .flickity-viewport {
-  outline: thin dotted;
-  outline: 5px auto -webkit-focus-ring-color; }
-
-.gallery-cell-image {
-  transition: opacity 0.4s;
-  opacity: 0; }
-
-.gallery-cell-image.flickity-lazyloaded,
-.gallery-cell-image.flickity-lazyerror {
-  opacity: 1; }
-
-/* external css: flickity.css */
-.gallery {
-  padding: 2em 1em 3em 1em; }
-  .gallery:focus {
-    outline: 0; }
-
-.gallery a img {
-  display: block;
-  min-height: 22.5em;
-  margin-right: 1.5em;
-  max-width: 100%; }
-  .gallery a img:focus {
-    outline: 0; }
-  @media screen and (min-width: 56.25em) {
-    .gallery a img {
-      width: auto;
-      height: 25em; } }
-
-.gallery-cell {
-  width: 100%;
-  margin-right: 0; }
-  @media screen and (min-width: 56.25em) {
-    .gallery-cell {
-      width: 25%;
-      max-height: 22.5em;
-      margin-right: 1.5em; } }
-
-.gallery-cell-image {
-  display: block;
-  max-height: 100%;
-  margin: 0 auto;
-  max-width: 100%;
-  opacity: 0;
-  -webkit-transition: opacity 0.4s;
-  transition: opacity 0.4s; }
-
-/* fade in lazy loaded image */
-.gallery-cell-image.flickity-lazyloaded,
-.gallery-cell-image.flickity-lazyerror {
   opacity: 1; }
 
 @font-face {
@@ -1176,6 +1098,50 @@ aside.bottom .content-aside {
     background-color: white; }
     .card:active .card-header, a.card:active .card-header {
       background-color: white; }
+
+.gallery {
+  padding: 2em 1em 3em 1em;
+  min-height: 25em; }
+  .gallery:focus {
+    outline: 0; }
+
+.gallery a img {
+  display: block;
+  min-height: 22.5em;
+  margin-right: 1.5em;
+  max-width: 100%; }
+  .gallery a img:focus {
+    outline: 0; }
+  @media screen and (min-width: 56.25em) {
+    .gallery a img {
+      width: auto;
+      height: 25em; } }
+
+.flickity-viewport {
+  min-height: 400px !important; }
+
+.gallery-cell {
+  width: 100%;
+  margin-right: 0; }
+  @media screen and (min-width: 56.25em) {
+    .gallery-cell {
+      width: 25%;
+      max-height: 22.5em;
+      margin-right: 1.5em; } }
+
+.gallery-cell-image {
+  display: block;
+  max-height: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+  opacity: 0;
+  -webkit-transition: opacity 0.4s;
+  transition: opacity 0.4s; }
+
+/* fade in lazy loaded image */
+.gallery-cell-image.flickity-lazyloaded,
+.gallery-cell-image.flickity-lazyerror {
+  opacity: 1; }
 
 h3.event_title, .event_title {
   font-size: 1.25em;
@@ -2364,10 +2330,6 @@ body.grid:before {
 
 .light, li .light, p .light {
   color: #7b7b7b; }
-
-.flickity-enabled:focus .flickity-viewport {
-  outline: thin dotted;
-  outline: 1px auto -webkit-focus-ring-color; }
 
 .date {
   color: #981C41; }

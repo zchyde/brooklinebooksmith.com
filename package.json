@@ -11,7 +11,7 @@
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "enquire.js": "^2.1.1",
-    "flickity": "^1.1.1",
+    "flickity": "^1.1.2",
     "foundation-sites": "^6.0.1",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",

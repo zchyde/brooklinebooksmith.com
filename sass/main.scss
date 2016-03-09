@@ -18,6 +18,7 @@
 @import
   "modules/article-format",
   "modules/cards",
+  "modules/carousel",
   "modules/events",
   "modules/fonts-fancy",
   "modules/footer",
@@ -69,10 +70,10 @@
 .light, li .light, p .light {
   color: lighten($base-font-color, 15%);
 }
-.flickity-enabled:focus .flickity-viewport {
-  outline: thin dotted;
-  outline: 1px auto -webkit-focus-ring-color;
-}
+// .flickity-enabled:focus .flickity-viewport {
+//   outline: thin dotted;
+//   outline: 1px auto -webkit-focus-ring-color;
+// }
 
 .date {
   color: $color-4;
@@ -87,3 +88,4 @@ body {
   //background-color: #fcfcfc;
   background-color: $base-background-color;
 }
+
