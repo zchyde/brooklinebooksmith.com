@@ -22,9 +22,22 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 **Recent Success Notes**: This past fall we hosted four local launches with crowds of 120+ and sales of 50+ frontlist copies. Our biggest in-store event of the fall was Colleen Hoover who drew a crowd of approximately 140 with 148 frontlist sales.
 
-![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg) ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg)
 
----
+<div class="hidden-case-no-js gallery js-flickity"
+  data-flickity-options='{ "imagesLoaded": true,  "percentPosition": false ,"lazyLoad": 2, "initialIndex": 2, "wrapAround": true}'>
+
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg" alt="">
+<img src="http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg" alt="">
+
+
+</div>
+
+
 
 #### Brookline Booksmith Store Level (Upstairs Signing Only)
 
