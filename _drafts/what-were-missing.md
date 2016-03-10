@@ -1,6 +1,6 @@
 ---
 title: "What We're Missing"
-published: false
+published: true
 featured: false
 date: 2016-03-10T09:00:00.000Z
 description: "Water, water everywhere, let's find that book together."
