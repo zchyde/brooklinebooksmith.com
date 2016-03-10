@@ -1,7 +1,7 @@
 ---
 title: 'Brookline Booksmith Programs and Partnerships'
 published: true
-featured_image_path: null
+featured_image_path: uploads/wow-compressor.jpg
 featured_image_position: 50
 fancy_font: null
 description: null
