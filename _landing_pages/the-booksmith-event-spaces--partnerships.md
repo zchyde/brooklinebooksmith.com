@@ -14,7 +14,9 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ---
 
-## Brookline Booksmith Programs and Partnerships
+## Brookline Booksmith
+
+## Programs and Partnerships
 
 ---
 
