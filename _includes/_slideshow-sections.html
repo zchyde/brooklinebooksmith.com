@@ -1,0 +1,22 @@
+{% capture section_number %}page.{{ include.image_section }}{% endcapture %}
+<h1>{{ section_number }}</h1>
+
+{% assign section = section_number %}
+<h2>{{ section }}</h2>
+
+
+{% for image in page.section_1.image_path[2] %}
+{{ image }}
+
+{% endfor %}
+
+{% comment %}
+
+<div class="row__clear-bottom hidden-case-no-js galleryTK js-flickity"
+  data-flickity-options='{ "imagesLoaded": true,  "percentPosition": false ,"lazyLoad": 2, "initialIndex": 2, "wrapAround": true}'>
+  {% for image in section %}
+  {{ image}}
+    <img src="{{ image.image_path }}" alt="" />
+  {% endfor %}
+</div>
+ {% endcomment %}
