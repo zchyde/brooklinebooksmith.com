@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign campaign = site.campaigns | where: 'show', true %}
+{% assign posts = site.posts %}
 <main class="layout_two_column_wide row">
   <article class="">
     {% if campaign.size > 0 %}
@@ -9,19 +10,9 @@ layout: default
         {% include _campaigns-image.html %}
       </div>
     {% endif %}
-
-
-      {% assign posts = site.posts | where: 'featured', false | sort: 'date' | reverse %}
-      {% assign posts_featured = site.posts | where: 'featured', true | sort: 'date' | reverse %}
       {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
       {% assign posts_limit = 5 %}
-    <div class="cards">
-      <h4 class="brand blocked">
-        Featured
-      </h4>
-      {% for object in posts_featured limit: 1 %}
-        {% include _format-blog-posts.html %}
-      {% endfor %}
+    <div class="cards">      
       <h4 class="brand blocked">
         Latest from the Blog
       </h4>
