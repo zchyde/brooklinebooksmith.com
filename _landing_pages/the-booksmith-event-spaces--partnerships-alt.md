@@ -6,39 +6,39 @@ featured_image_position: 50
 fancy_font: null
 description: null
 section_1:
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg
 section_2:
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-upstairs-2-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-UPstairs-3-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-4-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-5-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-6-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-7-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-8-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-upstairs-2-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-UPstairs-3-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-4-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-5-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-6-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-7-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-8-compressor.jpg
 section_3:
-  image_path: http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-2-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-3-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-4-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-5-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-6-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-2-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-3-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-4-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-5-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-6-compressor.jpg
 section_4:
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-2-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-3-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-4-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-7-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-5-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-6-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-2-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-3-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-4-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-7-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-5-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Berklee/berklee-6-compressor.jpg
 section_5:
-  image_path: http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg
-  image_path: http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg
+  - http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg
 ---
 
 In-store events take place in our downstairs Readers and Writers Room, which can hold up to 150 people. The Coolidge Corner Theatre directly across the street is available to us on most weeknights for ticketed events with theatres seating 220 or 440 people. We also have relationships with larger venues in Boston ranging from 500 to 1,200+ seats. See below for details and images of in-store and offsite venues.
