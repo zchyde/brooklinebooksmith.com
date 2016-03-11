@@ -66,6 +66,8 @@ twitter_id: budparr
 collections:
   campaigns:
     output: false
+  first-edition-books:
+    output: true
   landing_pages:
     output: true
     permalink: '/:path/'
@@ -97,6 +99,11 @@ defaults:
       type: events
     values:
       layout: event
+  - scope:
+      path: ''
+      type: first-edition-books
+    values:
+      layout: book
   - scope:
       path: ''
       type: landing_pages
