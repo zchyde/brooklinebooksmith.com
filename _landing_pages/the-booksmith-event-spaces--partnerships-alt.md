@@ -41,6 +41,8 @@ section_5:
   - http://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg
 ---
 
+# DO NOT EDIT THIS PAGE. IT'S FOR TESTING ONLY
+
 In-store events take place in our downstairs Readers and Writers Room, which can hold up to 150 people. The Coolidge Corner Theatre directly across the street is available to us on most weeknights for ticketed events with theatres seating 220 or 440 people. We also have relationships with larger venues in Boston ranging from 500 to 1,200+ seats. See below for details and images of in-store and offsite venues.
 
 Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Likes, 2,450 Instagram followers), our weekly B-Mail newsletter (7,500 subscribers), our in-store events posters, on a sandwich board in front of the store, and on flyers with events listings placed in every customer's bag. Event books are always displayed in the front windows leading up to the event and if the publisher provides cover blow-ups we hang them over the front registers. We also send out a bi-monthly press release to media outlets and our events are listed in *The Boston Globe* and other publications. We are a *New York Times* reporting store.
