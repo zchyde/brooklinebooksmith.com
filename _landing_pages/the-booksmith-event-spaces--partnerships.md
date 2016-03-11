@@ -3,7 +3,7 @@ title: null
 published: true
 featured_image_path: /uploads/wow-compressor.jpg
 featured_image_position: 20
-banner_height: 350
+banner_height: 450
 fancy_font: null
 description: null
 ---
