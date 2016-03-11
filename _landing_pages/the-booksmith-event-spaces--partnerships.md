@@ -13,8 +13,11 @@ In-store events take place in our downstairs Readers and Writers Room, which can
 Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Likes, 2,450 Instagram followers), our weekly B-Mail newsletter (7,500 subscribers), our in-store events posters, on a sandwich board in front of the store, and on flyers with events listings placed in every customer's bag. Event books are always displayed in the front windows leading up to the event and if the publisher provides cover blow-ups we hang them over the front registers. We also send out a bi-monthly press release to media outlets and our events are listed in *The Boston Globe* and other publications. We are a *New York Times* reporting store.
 
 ---
+
 ### Brookline Booksmith Programs and Partnerships
+
 ---
+
 ### Brookline Booksmith Readers and Writers Room (Downstairs)
 
 ![](http://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-4-compressor.jpg) **Capacity Readings/Signing**: 110-130 seated, plus standing room for 40+.
