@@ -1,10 +1,10 @@
 ---
-title:
+title: null
 published: true
 featured_image_path: /uploads/wow-compressor.jpg
 featured_image_position: 50
-fancy_font:
-description:
+fancy_font: null
+description: null
 ---
 
 
@@ -16,7 +16,9 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ## Brookline Booksmith Programs and Partnerships
 
-### ---
+---
+
+&nbsp;
 
 ### Brookline Booksmith Readers and Writers Room (Downstairs)
 
