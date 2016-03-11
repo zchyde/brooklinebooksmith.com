@@ -27,7 +27,14 @@
     if page.include
       include {{ page.include }}
     endif
+
    {% endcomment %}
+
+
+     {% if page.include == 'buy-books.html' %}
+        {% include buy-books.html %}
+     {% endif %}
+
 
   {% if page.include == 'events/list-future.html' %}
      {% include events/list-future.html %}
