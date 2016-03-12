@@ -64,8 +64,6 @@ fancy_fonts:
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
-  first-edition-book-club-subscriptions:
-    output: false
   campaigns:
     output: false
   first-edition-books:

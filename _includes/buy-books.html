@@ -2,22 +2,32 @@
 
 <div class="row">
 
-  {% assign subscriptions = site.first-edition-book-club-subscriptions %}
+  {% assign subscriptions = page.subscriptions %}
   {% for object in subscriptions %}
+
+  <hr />
+
+  object: {{ object }}<br />
+name: {{ object.subscription.name }}<br />
+  term: {{ object.subscription.term_months }}<br />
+  subscription_price: {{ object.subscription.subscription_price }}<br />
+  <hr />
+
 
     <a
       style="margin-top:-2em;text-align:right;"
       href="#"
       class="snipcart-add-item"
-      data-item-id="{{ object._id}}"
+      data-item-id=" term months: {{ object.term_months}}"
       data-item-name="{{ object.name }}"
-      data-item-price="{{ object.sale_price}}"
+      data-item-price="{{ object.subscription_price}}"
       data-item-weight="20"
-      data-item-url="{{ object.url }}"
-      data-item-description="{{ object.content }}"
-    >
+      data-item-url="{{ page.url }}"
+      data-item-description="{{ page.content }}"
+      >
+
       <button type="button" name="button" class="special">
-        Buy {{ object.title }}
+        Buy {{ page.title }}
       </button>
     </a>
     <small>
@@ -29,6 +39,7 @@
       {% endif %}
     </small>
     <hr />
+
   {% endfor %}
 
 
