@@ -1,17 +1,17 @@
 ---
-title: Short on Time?
+title: Novellas Are My New Best Friend
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: null
-featured_image_path: null
+description: Introducing a new subsection to Science Fiction and Fantasy highlighting novellas from Tor.com.
+featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
+fancy_font:
+category:
 staff:
   - clarissa
-books: null
+books:
 ---
 
 
