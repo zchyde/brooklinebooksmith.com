@@ -25,7 +25,7 @@ I have since acquired almost all of the Tor.com short fiction works they have av
 
 Having my own collection is great, but as a bookseller one of my greatest joys is sharing all my new bookish obsessions with everyone I can get to listen! So I made some lists, chattered over exuberantly to the right people, and now we are going to have a little section dedicated to Tor.com short fictions in the Science Fiction and Fantasy section!
 
-Titles are still rolling in so here is a virtual version of what the section will have:
+Titles are still rolling in but here is a sneak peak of some of my favorites so far:
 
 ---
 
@@ -37,4 +37,8 @@ Titles are still rolling in so here is a virtual version of what the section wil
 
 ---
 
-![](/uploads/versions/songfornomansland---x----250-400x---.jpg)[A Song for No Man's Land by Andy Remic](http://www.brooklinebooksmith-shop.com/book/9780765387875) - A surreal war story with nightma
+![](/uploads/versions/ballad-of-black-tom---x----250-400x---.jpg)[Ballad of Black Tom by Victor LaValle](http://www.brooklinebooksmith-shop.com/book/9780765387868)
+
+---
+
+&nbsp;
