@@ -33,6 +33,8 @@ Titles are still rolling in so here is a virtual version of what the section wil
 
 ---
 
-&nbsp;
+![](/uploads/versions/binti---x----250-400x---.jpg)[Binti by Nnedi Okorafor](http://www.brooklinebooksmith-shop.com/book/9780765385253) - and yet another great quote"Binti is a supreme read about a sexy, edgy Afropolitan in space. It's a wondrous combination of extra-terrestrial adventure and age-old African diplomacy. Unforgettable " Wanuri Kahiu
 
-&nbsp;
+---
+
+![](/uploads/versions/songfornomansland---x----250-400x---.jpg)[A Song for No Man's Land by Andy Remic](http://www.brooklinebooksmith-shop.com/book/9780765387875) - A surreal war story with nightma
