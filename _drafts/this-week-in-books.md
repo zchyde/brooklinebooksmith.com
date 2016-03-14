@@ -1,5 +1,5 @@
 ---
-title: "This Week in Books: Cuba's Literary Renaissance?"
+title: 'This Week in Books: Cuba On the Rise?'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
