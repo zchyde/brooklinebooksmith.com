@@ -7,11 +7,11 @@ description: A landmark literary conference heralds a new dawn of exchange betwe
 featured_image_path: /untitled.png
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font:
-category:
+fancy_font: null
+category: null
 staff:
   - lydia
-books:
+books: null
 ---
 
 
@@ -19,7 +19,7 @@ In February 2016 the Cuban government opened its doors to 40 American writers, e
 
 > Cuba was represented by officials from the Cuban Book Institute, the Ministry of Culture, and the Cuban Writers Association, as well as by Cuban authors, publishers, academics, and students…. [The purpose of] the two days of meetings … was to build bridges of understanding and explore opportunities for greater cultural and economic collaboration.
 
-Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on exports of books and literature to Cuba.
+Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on exports of books and literature to Cuba:
 
 > Our position:
 >
@@ -37,9 +37,9 @@ A toppling of the legislation that keeps American books from Cuban shelves would
 
 On the other hand,
 
-> Malena Salazar Maciá (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
+> Malena Salazar Maci&aacute; (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
 >
-> Daína Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
+> Da&iacute;na Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
 
 As American commercial access to Cuban readers expands, it will be interesting to see whether opportunities for Cuban writers grow with it.
 
