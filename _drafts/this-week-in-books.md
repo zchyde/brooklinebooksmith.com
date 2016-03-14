@@ -18,7 +18,7 @@ In February 2016 the Cuban government opened its doors to 40 American writers, e
 
 > Cuba was represented by officials from the Cuban Book Institute, the Ministry of Culture, and the Cuban Writers Association, as well as by Cuban authors, publishers, academics, and students…. [The purpose of] the two days of meetings … was to build bridges of understanding and explore opportunities for greater cultural and economic collaboration.
 
-Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on books and literature.
+Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on exports of books and literature to Cuba.
 
 > Our position:
 >
@@ -30,7 +30,7 @@ Subsequent to their return home, members of the U.S. publishing mission drafted 
 > * Exciting commercial opportunities exist for the American and Cuban publishing communities to collaborate for the benefit of readers and writers everywhere.
 > * The American book publishing community stands ready to help Cuba's writers and publishers gain access to the global book market, and to help the Cuban people gain greater access to the amazing diversity of books published by American publishers.
 
-A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers - the country is an under-served market with a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html). After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for LitHub, though, one wonders what might be in it for Cuba. On the one hand, as Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller,
+A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for LitHub, though, one wonders what might be in it for Cuba. On the one hand, as Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller,
 
 > The Cuban reader is a mediocre figure, it needs to be annihilated with a tender touch of text-rrorism… [For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango.
 
