@@ -17,7 +17,7 @@ books: null
 
 In February 2016 the Cuban government opened its doors to 40 American writers, educators, agents, booksellers, distributors and publishing representatives for a landmark conference. The delegation disembarked in the capital city of Havana a month before Barack Obama is set to become the first sitting U.S. President to visit the island in 88 years (not since Calvin Coolidge held the Oval Office have relations between the two countries been so open.) According to [Publisher's Weekly](http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/69612-end-the-book-embargo-against-cuba.html):
 
-> Cuba was represented by officials from the Cuban Book Institute, the Ministry of Culture, and the Cuban Writers Association, as well as by Cuban authors, publishers, academics, and students…. [The purpose of] the two days of meetings … was to build bridges of understanding and explore opportunities for greater cultural and economic collaboration.
+> "Cuba was represented by officials from the Cuban Book Institute, the Ministry of Culture, and the Cuban Writers Association, as well as by Cuban authors, publishers, academics, and students…. [The purpose of] the two days of meetings … was to build bridges of understanding and explore opportunities for greater cultural and economic collaboration."
 
 Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on exports of books and literature to Cuba:
 
