@@ -3,15 +3,15 @@ title: 'This Week in Books: Cuba On the Rise?'
 published: true
 featured: false
 date: 2016-03-14T09:00:00.000Z
-description: A landmark literary conference heralds a new dawn of literary exchange between countries; will writers be left out in the cold?
+description: A landmark literary conference heralds a new dawn of exchange between countries; will writers be left out in the cold?
 featured_image_path: /untitled.png
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
+fancy_font:
+category:
 staff:
   - lydia
-books: null
+books:
 ---
 
 
@@ -31,15 +31,15 @@ Subsequent to their return home, members of the U.S. publishing mission drafted 
 > * Exciting commercial opportunities exist for the American and Cuban publishing communities to collaborate for the benefit of readers and writers everywhere.
 > * The American book publishing community stands ready to help Cuba's writers and publishers gain access to the global book market, and to help the Cuban people gain greater access to the amazing diversity of books published by American publishers.
 
-A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for LitHub, though, one wonders what might be in it for Cuba. On the one hand, Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller that Cuba needs this lifeline:&nbsp;
+A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for LitHub, though, one wonders what might be in it for Cuba. On the one hand, Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller that Cuba needs this lifeline:
 
 > [For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango.
 
 On the other hand,
 
-> Malena Salazar Maci&aacute; (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
+> Malena Salazar Maciá (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
 >
-> Da&iacute;na Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
+> Daína Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
 
 As American commercial access to Cuban readers expands, it will be interesting to see whether opportunities for Cuban writers grow with it.
 
