@@ -1,16 +1,17 @@
 ---
 title: 'This Week in Books: Cuba On the Rise?'
-published: false
+published: true
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-03-14T09:00:00.000Z
 description: A landmark literary conference heralds a new dawn of literary exchange between countries; will writers be left out in the cold?
 featured_image_path: /untitled.png
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: null
-books: null
+fancy_font:
+category:
+staff:
+  - lydia
+books:
 ---
 
 
@@ -30,9 +31,9 @@ Subsequent to their return home, members of the U.S. publishing mission drafted 
 > * Exciting commercial opportunities exist for the American and Cuban publishing communities to collaborate for the benefit of readers and writers everywhere.
 > * The American book publishing community stands ready to help Cuba's writers and publishers gain access to the global book market, and to help the Cuban people gain greater access to the amazing diversity of books published by American publishers.
 
-A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for *LitHub*, though, one wonders what might be in it for Cuba. On the one hand, as Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller,
+A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Tillman Miller's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* for LitHub, though, one wonders what might be in it for Cuba. On the one hand, Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller that Cuba needs this lifeline:&nbsp;
 
-> The Cuban reader is a mediocre figure, it needs to be annihilated with a tender touch of text-rrorism… [For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango.
+> [For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango.
 
 On the other hand,
 
