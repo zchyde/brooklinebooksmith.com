@@ -3,14 +3,14 @@ title: 'This Week in Books: Cuba On the Rise?'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: null
-featured_image_path: null
+description: A landmark literary conference heralds a new era of literary exchange between countries; will writers be left out in the cold?
+featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
-staff: null
-books: null
+fancy_font:
+category:
+staff:
+books:
 ---
 
 
