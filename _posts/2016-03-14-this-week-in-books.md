@@ -33,7 +33,7 @@ Subsequent to their return home, members of the U.S. publishing mission drafted 
 
 A toppling of the legislation that keeps American books from Cuban shelves would be an unquestionable financial boon for continental publishers (Cuba is an under-served market that nevertheless boasts a [nearly 100% literacy rate](http://www.independent.co.uk/news/world/americas/latin-lessons-what-can-we-learn-from-the-worldrsquos-most-ambitious-literacy-campaign-2124433.html).) After reading Lithub's *[The Rise of the Cuban Literati](http://lithub.com/the-rise-of-the-cuban-literati-in-sunshine-and-in-shadow/)* by Tillman Miller, though, one wonders what might be in it for Cuba. On the one hand, Orlando Luis Pardo Lazo (Cuban novelist, blogger, photographer, and ICORN guest writer in Iceland) points out in his correspondence with Miller that Cuba needs this lifeline:
 
-> [For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango.
+> "[For Havana to become a hotbed of literary culture] it would take Europe or America to be there again to, please, re-rediscover us. Our colonialized culture is congenital. A hotbed depends on euros and dollars to be really hot. It’s called prostitution and we are prone to it. Don’t be late: it takes two for a tango."
 
 On the other hand,
 
