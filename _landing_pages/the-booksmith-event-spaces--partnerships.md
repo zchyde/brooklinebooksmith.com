@@ -7,7 +7,7 @@ fancy_font: null
 description: null
 ---
 
-### Brookline Booksmith Programs and Partnerships
+## Brookline Booksmith Programs and Partnerships
 
 In-store events take place in our downstairs Readers and Writers Room, which can hold up to 150 people. The Coolidge Corner Theatre directly across the street is available to us on most weeknights for ticketed events with theatres seating 220 or 440 people. We also have relationships with larger venues in Boston ranging from 500 to 1,200+ seats. See below for details and images of in-store and offsite venues.
 

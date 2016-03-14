@@ -2,8 +2,9 @@
 $lato:'Lato';
 $base-font-family: $lato, $helvetica;
 //$heading-font-family: 'Chronica W03 Book',$base-font-family;
-$heading-font-family: $base-font-family;
-$brand-font-family: 'Chronica W03 Black', $heading-font-family;
+
+$brand-font-family: 'Chronica W03 Black', $base-font-family;
+$heading-font-family: $brand-font-family;
 
 
 
