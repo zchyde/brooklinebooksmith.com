@@ -7,10 +7,10 @@ description: A landmark literary conference heralds a new dawn of literary excha
 featured_image_path: /untitled.png
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font:
-category:
-staff:
-books:
+fancy_font: null
+category: null
+staff: null
+books: null
 ---
 
 
@@ -18,7 +18,7 @@ In February 2016 the Cuban government opened its doors to 40 American writers, e
 
 > Cuba was represented by officials from the Cuban Book Institute, the Ministry of Culture, and the Cuban Writers Association, as well as by Cuban authors, publishers, academics, and students…. [The purpose of] the two days of meetings … was to build bridges of understanding and explore opportunities for greater cultural and economic collaboration.
 
-Subsequent to their return, members of the U.S. publishing mission put forth a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on books and literature.
+Subsequent to their return home, members of the U.S. publishing mission drafted a petition (currently [open for signatures](https://petitions.whitehouse.gov//petition/end-book-embargo-against-cuba)) calling on Congress and the President to lift the American economic embargo on books and literature.
 
 > Our position:
 >
