@@ -3,7 +3,7 @@ title: Novellas Are My New Best Friend
 published: true
 featured: false
 date: 2016-03-15T12:00:00.000Z
-description: Introducing a new subsection to Science Fiction and Fantasy highlighting novellas from Tor.com.
+description: 'Introducing a new subsection to Science Fiction and Fantasy, highlighting novellas from Tor.com.'
 featured_image_path: /uploads/81-rtwdw-ul-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
