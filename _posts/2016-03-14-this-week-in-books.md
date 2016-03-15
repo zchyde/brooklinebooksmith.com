@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-03-14T09:00:00.000Z
 description: A landmark literary conference heralds a new dawn of exchange between countries; will writers be left out in the cold?
-featured_image_path: /uploads/untitled.jpg
+featured_image_path: /uploads/cuba.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
