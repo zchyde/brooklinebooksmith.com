@@ -4,14 +4,14 @@ published: true
 featured: false
 date: 2016-03-14T09:00:00.000Z
 description: A landmark literary conference heralds a new dawn of exchange between countries; will writers be left out in the cold?
-featured_image_path: /untitled.png
+featured_image_path: /uploads/untitled.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font: null
-category: null
+fancy_font:
+category:
 staff:
   - lydia
-books: null
+books:
 ---
 
 
@@ -37,9 +37,9 @@ A toppling of the legislation that keeps American books from Cuban shelves would
 
 On the other hand,
 
-> Malena Salazar Maci&aacute; (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
+> Malena Salazar Maciá (novelist in Havana): "Cuban publishing houses have their published plans very tight. They rarely accept manuscripts of unpublished writers. There is no publishing market. It is tortuous."
 >
-> Da&iacute;na Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
+> Daína Chaviano (novelist in Miami, author of [The Island of Eternal Love](http://www.brooklinebooksmith-shop.com/book/9781594483790), the most widely translated Cuban novel of all time): "There is a huge wave of emigrant writers [now] that didn’t exist in the 80s. This literary exodus is leaving niches that can’t be fulfilled at the same speed. If a country can’t make its most prominent young writers stay at home, its literary ranks will face a permanent lack of growing, or at least a difficult time to progress."
 
 As American commercial access to Cuban readers expands, it will be interesting to see whether opportunities for Cuban writers grow with it.
 
