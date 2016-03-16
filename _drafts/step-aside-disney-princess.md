@@ -28,3 +28,5 @@ Let's started with [Lumberjanes](http://www.brooklinebooksmith-shop.com/book/978
 ![](/uploads/versions/lumberjanes---x----260-400x---.jpg)![](/uploads/versions/lumberjanes2---x----260-400x---.jpg)Lumberjanes is like the Girl Scout camp we all really wish we went to. It is for HARDCORE LADY TYPES ONLY which is a good thing because our gang gets caught up in some rather fishy activities. Wrestling sea monsters from a canoe, running into some emo yetis, and saving those helpless Boy Scouts when they foolishly get brainwashed.
 
 Noel Stevenson also wrote and illustrated Nimona which is one of my favorite stand alone graphic novels out there.
+
+![](/uploads/versions/nimona---x----267-400x---.jpg)There is so much going on in this story. Nimona is a shapeshifter who isn't quite sure she likes herself. When you think your a monster how could you?&nbsp;
