@@ -2,6 +2,23 @@
 
 <div class="row">
 
+
+  site.collections.collec :
+{{ site.collections[3] }}
+<hr />
+site.collections.first-edition-books.docs :
+{{ site.collections.first-edition-books.docs }}
+<hr />
+site.collections.first-edition-books.docs[0].title_inside :
+{{ site.collections.first-edition-books.docs[0].title_inside }}
+<hr />
+site.first-edition-books :
+{{ site.first-edition-books }}
+<hr />
+site.first-edition-books[0].title_inside :
+{{ site.first-edition-books[0].title_inside }}<hr />
+
+  <hr />  <hr />  <hr />  <hr />
   {% assign subscriptions = page.subscriptions %}
   {% for object in subscriptions %}
 
