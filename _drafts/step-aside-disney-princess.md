@@ -4,14 +4,14 @@ published: false
 featured: false
 date: 2016-03-17T09:00:00.000Z
 description: 'No damsels-in-distress in these graphic novels!'
-featured_image_path:
+featured_image_path: null
 featured_image_position: 50
 show_featured_image_in_post: false
-fancy_font:
+fancy_font: null
 category: kidsmith
 staff:
   - clarissa
-books:
+books: null
 ---
 
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklineb
 
 ---
 
-A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki****](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -81,7 +81,7 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel\*\*](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[\*\*](http://www.brooklinebooksmith-shop.com/book/9780785190219)&nbsp;***is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.&nbsp;
+The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)&nbsp;*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)*&nbsp;***is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.&nbsp;
 
 ---
 
