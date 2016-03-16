@@ -3,7 +3,7 @@ title: Step Aside Disney Princesses
 published: false
 featured: false
 date: 2016-03-17T09:00:00.000Z
-description: 'No wimpy damsels in distress in these graphic novels!'
+description: 'No damsels-in-distress in these graphic novels!'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -15,7 +15,7 @@ books:
 ---
 
 
-Graphic novels are BOOMING here at the 'Smith. And not only the Children's Graphic novels either.&nbsp;
+Graphic novels are BOOMING here at the Booksmith. And not only the Children's Graphic novels either.&nbsp;
 
 But today Children's is our focus.
 
@@ -23,7 +23,7 @@ Specifically kick-butt lady 'centric I'm-not-helpless graphic novels. Which are 
 
 So.
 
-Let's start with [Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)[&nbsp;by Noel Stevenson, Grace Ellis, and Brooke Allen](__notset__)&nbsp;
+Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*[&nbsp;by Noel Stevenson, Grace Ellis, and Brooke Allen](__notset__)&nbsp;
 
 ---
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklineb
 
 ---
 
-A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind by Hayao Miyazaki***](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki****](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -49,7 +49,7 @@ A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of th
 
 ---
 
-"The story Disney should have been telling for the past twenty years" - ***Comics Alliance*** (http://comicsalliance.com/)
+"The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](http://comicsalliance.com/)&nbsp;
 
 ---
 
@@ -81,7 +81,7 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel**](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[**](http://www.brooklinebooksmith-shop.com/book/9780785190219)&nbsp;***is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.&nbsp;
+The new ***[Ms Marvel\*\*](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[\*\*](http://www.brooklinebooksmith-shop.com/book/9780785190219)&nbsp;***is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.&nbsp;
 
 ---
 
