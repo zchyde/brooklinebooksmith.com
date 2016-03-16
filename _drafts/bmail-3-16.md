@@ -3,7 +3,7 @@ title: 'Booksmith Says: Share Books With a Vengeance'
 published: false
 featured: false
 date: 2016-03-16T09:00:00.000Z
-description: 'Hamilton the musical at the White House, sneaky revisions, the Man Booker International longlist, meet the saddest bookworm.'
+description: "'Hamilton' at the White House, sneaky authors, the Man Booker International longlist, meet the saddest bookworm."
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
