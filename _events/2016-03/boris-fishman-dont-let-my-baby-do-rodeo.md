@@ -2,7 +2,7 @@
 title: '**Boris Fishman**  *Don’t Let My Baby Do Rodeo*'
 published: true
 start_at: 2016-03-16T19:00:00.000Z
-image_path:
+image_path: /uploads/borisfishman-compressor.jpg
 book_category: FICTION
 program: '-writers-and-readers'
 ticketed: false
