@@ -2,8 +2,8 @@
 title: '**Nathalia Holt** *Rise of the Rocket Girls*'
 published: true
 start_at: 2016-04-05T19:00:00.000Z
-image_path:
-book_category: SCIENCE/HISTORY
+image_path: /uploads/nathalieholt-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
