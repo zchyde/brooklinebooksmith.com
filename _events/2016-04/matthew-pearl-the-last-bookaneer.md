@@ -2,8 +2,8 @@
 title: '**Matthew Pearl** *The Last Bookaneer*'
 published: true
 start_at: 2016-04-26T19:00:00.000Z
-image_path:
-book_category: ADVENTURE/MYSTERY
+image_path: /uploads/matthewpearl-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
