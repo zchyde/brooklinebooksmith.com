@@ -2,8 +2,8 @@
 title: '**William Geroux** *The Mathews Men*'
 published: true
 start_at: 2016-04-22T19:00:00.000Z
-image_path:
-book_category: HISTORY
+image_path: /uploads/matthewgeroux-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
