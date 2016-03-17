@@ -2,8 +2,8 @@
 title: '**Daniel Shapiro** *Negotiating the Nonnegotiable*'
 published: true
 start_at: 2016-04-20T19:00:00.000Z
-image_path:
-book_category: PSYCHOLOGY/BUSINESS
+image_path: /uploads/danshapiro-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
