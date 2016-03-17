@@ -2,8 +2,8 @@
 title: '**Philip Kerr** *The Other Side of Silence*'
 published: true
 start_at: 2016-04-07T19:00:00.000Z
-image_path:
-book_category: MYSTERY
+image_path: /uploads/phillipkerr-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
