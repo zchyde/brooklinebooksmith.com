@@ -2,13 +2,14 @@
 title: '**Brian Staveley**  *The Last Mortal Bond*'
 published: true
 start_at: 2016-03-24T19:00:00.000Z
-image_path: ''
-book_category: SCIENCE FICTION/FANTASY
+image_path: /uploads/brianstaveley-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
   - '9780765336422'
 ---
+
 
 Appearing in conversation with **Max Gladstone**
 
