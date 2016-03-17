@@ -2,8 +2,8 @@
 title: '**David C. Taylor** *Night Work*'
 published: true
 start_at: 2016-04-19T07:00:00.000Z
-image_path:
-book_category: MYSTERY
+image_path: /uploads/davidctaylor-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
