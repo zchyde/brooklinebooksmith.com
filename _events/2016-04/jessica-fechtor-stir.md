@@ -2,8 +2,8 @@
 title: '**Jessica Fechtor** *Stir*'
 published: true
 start_at: 2016-04-18T19:00:00.000Z
-image_path:
-book_category: MEMOIR/COOKING
+image_path: /uploads/jessicafechtor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
