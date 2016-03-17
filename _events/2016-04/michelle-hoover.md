@@ -2,8 +2,8 @@
 title: '**Michelle Hoover & Christopher Castellani** *Bottomland* & *The Art of Perspective: Who Tells the Story*'
 published: true
 start_at: 2016-04-12T19:00:00.000Z
-image_path:
-book_category: FICTION/WRITING
+image_path: /uploads/christophercastellaniandmichellehoover-compressor.png
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
