@@ -2,8 +2,8 @@
 title: '**Jacqueline Winspear** *Journey to Munich: A Maisie Dobbs Novel*'
 published: true
 start_at: 2016-04-04T19:00:00.000Z
-image_path:
-book_category: MYSTERY
+image_path: /uploads/jaquelynwinspear-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
