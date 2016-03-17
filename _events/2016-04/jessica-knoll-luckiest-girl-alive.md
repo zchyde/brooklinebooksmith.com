@@ -2,8 +2,8 @@
 title: '**Jessica Knoll** *Luckiest Girl Alive*'
 published: true
 start_at: 2016-04-25T19:00:00.000Z
-image_path:
-book_category: MYSTERY
+image_path: /uploads/jessicaknoll-compressor.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
