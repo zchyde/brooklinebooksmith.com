@@ -2,8 +2,8 @@
 title: '**Chaitali Sen & Jennifer Tseng** *The Pathless Sky* & *Mayumi and the Sea of Happiness*'
 published: true
 start_at: 2016-04-28T19:00:00.000Z
-image_path:
-book_category: FICTION
+image_path: /uploads/chitali-compressor.png
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
