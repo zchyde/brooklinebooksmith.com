@@ -1,6 +1,6 @@
 ---
 title: Step Aside Disney Princesses
-published: false
+published: true
 featured: false
 date: 2016-03-17T16:00:00.000Z
 description: 'No damsels-in-distress in these graphic novels!'
@@ -15,15 +15,15 @@ books:
 ---
 
 
-Graphic novels are BOOMING here at the Booksmith. And not only the Children's Graphic novels either.&nbsp;
+Graphic novels are BOOMING here at the Booksmith. And not only the Children's Graphic novels either.
 
 But today Children's is our focus.
 
-Specifically kick-butt lady 'centric I'm-not-helpless graphic novels. Which are not just for girls by the way.&nbsp;
+Specifically kick-butt lady 'centric I'm-not-helpless graphic novels. Which are not just for girls by the way.
 
 So.
 
-Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*[&nbsp;by Noel Stevenson, Grace Ellis, and Brooke Allen](__notset__)&nbsp;
+Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*[by Noel Stevenson, Grace Ellis, and Brooke Allen](__notset__)
 
 ---
 
@@ -33,7 +33,7 @@ Lumberjanes is like the Girl Scout camp we all really wish we went to. It is for
 
 ---
 
-Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklinebooksmith-shop.com/book/9780062278227)&nbsp;***which is one of my favorite stand-alone graphic novels.
+Noel Stevenson also wrote and illustrated ***[Nimona](http://www.brooklinebooksmith-shop.com/book/9780062278227)***which is one of my favorite stand-alone graphic novels.
 
 ---
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklineb
 
 ---
 
-A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel of [***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -49,11 +49,11 @@ A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of th
 
 ---
 
-"The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](http://comicsalliance.com/)&nbsp;
+"The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](http://comicsalliance.com/)
 
 ---
 
-This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),***&nbsp;and I could not agree with it more.
+This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),*** and I could not agree with it more.
 
 ![](/uploads/versions/princeless1---x----255-400x---.jpg)
 
@@ -65,7 +65,7 @@ First off: diverse characters! Secondly, no damsels in distress! Third, practica
 
 ![](/uploads/versions/adrienne2-compressor---x----500-452x---.jpg)
 
-&nbsp;
+
 
 ---
 
@@ -73,7 +73,7 @@ So. Brilliant. The humor is spot-on, and the girl power is perfect. And it only 
 
 ---
 
-Lastly, I have to give Marvel a big high five. I am so proud to champion their new *Marvel Now!* stories. This is a great series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?&nbsp;
+Lastly, I have to give Marvel a big high five. I am so proud to champion their new *Marvel Now!* stories. This is a great series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?
 
 ---
 
@@ -83,8 +83,8 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)&nbsp;*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)*&nbsp;***is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.&nbsp;
+The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)****is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
 
 ---
 
-SO, did I add to your reading list? I certainly hope so! If you want even more recommendations just roll on in and ask us!&nbsp;
+SO, did I add to your reading list? I certainly hope so! If you want even more recommendations just roll on in and ask us!
