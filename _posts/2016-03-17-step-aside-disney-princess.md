@@ -33,7 +33,7 @@ Lumberjanes is like the Girl Scout camp we all really wish we went to. It is for
 
 ---
 
-Noel Stevenson also wrote and illustrated ***[Nimona](http://www.brooklinebooksmith-shop.com/book/9780062278227)***which is one of my favorite stand-alone graphic novels.
+Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklinebooksmith-shop.com/book/9780062278227)***which is one of my favorite stand-alone graphic novels.
 
 ---
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated ***[Nimona](http://www.brooklinebooks
 
 ---
 
-A little less known, the graphic novel of [***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -53,7 +53,7 @@ A little less known, the graphic novel of [***Nausicaa: of the Valley of the Wi
 
 ---
 
-This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),*** and I could not agree with it more.
+This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),***&nbsp;and I could not agree with it more.
 
 ![](/uploads/versions/princeless1---x----255-400x---.jpg)
 
@@ -61,11 +61,9 @@ This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley 
 
 First off: diverse characters! Secondly, no damsels in distress! Third, practical armor! Which leads to one of my favorite Princeless moments: when Adrienne (pictured on the cover) goes in search of armor and well… these two snippets should give you an idea of how she reacts:
 
-![](/uploads/versions/asdrienne1---x----267-189x---.jpg)
+![full-img](/uploads/versions/asdrienne1---x----267-189x---.jpg)
 
-![](/uploads/versions/adrienne2-compressor---x----500-452x---.jpg)
-
-
+![full-img](/uploads/versions/adrienne2-compressor---x----500-452x---.jpg)
 
 ---
 
@@ -83,7 +81,7 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)****is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
+The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)**\*\*is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
 
 ---
 
