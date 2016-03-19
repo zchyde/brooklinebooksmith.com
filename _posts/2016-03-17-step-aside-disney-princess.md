@@ -23,7 +23,7 @@ Specifically kick-butt lady 'centric I'm-not-helpless graphic novels. Which are 
 
 So.
 
-Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*[by Noel Stevenson, Grace Ellis, and Brooke Allen](__notset__)
+Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*by Noel Stevenson, Grace Ellis, and Brooke Allen
 
 ---
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklineb
 
 ---
 
-A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**\*\*](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel series [***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -51,9 +51,9 @@ A little less known, the graphic novel of&nbsp;[***Nausicaa: of the Valley of th
 
 "The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](http://comicsalliance.com/)
 
----
-
 This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),***&nbsp;and I could not agree with it more.
+
+---
 
 ![](/uploads/versions/princeless1---x----255-400x---.jpg)
 
@@ -67,13 +67,11 @@ First off: diverse characters! Secondly, no damsels in distress! Third, practica
 
 ---
 
-So. Brilliant. The humor is spot-on, and the girl power is perfect. And it only gets better as the story goes on!
+So. Brilliant. The humor is spot-on, and the girl power is perfect. Plus, it only gets better as the story goes on!
 
 ---
 
-Lastly, I have to give Marvel a big high five. I am so proud to champion their new *Marvel Now!* stories. This is a great series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?
-
----
+Lastly, I have to give [Marvel](http://marvel.com/) a big high five. I am so proud to champion their new [*Marvel Now!*](http://marvel.com/comics/events/311/marvel_now) stories. This is a great bunch series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?
 
 Yup, I am head over heels in love with Kamala Khan!
 
@@ -81,7 +79,7 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)**\*\*is just perfect in all ways as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
+The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)** is just perfect as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
 
 ---
 
