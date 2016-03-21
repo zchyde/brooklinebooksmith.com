@@ -18,9 +18,9 @@ Showcasing new titles.
 
 ---
 
-![](/uploads/versions/_mg_0087---x----2233-2209x---.jpg)
+&nbsp;
 
-![](/uploads/versions/12325898_580827658746182_166535913_o---x----2048-2025x---.jpg)
+![full-img](/uploads/versions/12325898_580827658746182_166535913_o---x----2048-2025x---.jpg)
 
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier &nbsp;
 
@@ -32,15 +32,15 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 
 ---
 
-![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)
-
-![](/uploads/versions/12873426_580827728746175_1277713210_o---x----2016-2048x---.jpg)
+![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)![full-img](/uploads/versions/12873426_580827728746175_1277713210_o---x----2016-2048x---.jpg)
 
 [The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
 Olivia Laing's deep and enlightening work
 
-<u>The Lonely City</u> explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
+<u>The Lonely City</u>
+
+explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
 
 Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp;
 
