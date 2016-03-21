@@ -1,5 +1,5 @@
 ---
-title: G3/22
+title: 'Book Bento: Care Packages for the Soul'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
