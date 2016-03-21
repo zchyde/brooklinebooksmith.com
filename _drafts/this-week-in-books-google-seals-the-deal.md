@@ -22,4 +22,10 @@ As *The Atlantic*'s Dan Cohen [reported back in October](http://www.theatlantic.
 
 > [A]s audacious as Google Books appeared at its inception, it seems less monumental today. Although Google did tip entire library shelves into the scanner without regard for copyright status—triggering an unsurprising revolt from authors and publishers—the tech giant only shows small “snippets” of in-copyright works. The full digitized books are walled-off, making only certain uses possible. Researchers can fact-check using Google Books, or they can examine the number of times particular words and phrases are mentioned in the corpus each year, but they can’t really read Google’s online version of most volumes. What Google has created is less a universal library than a tinted window into one.
 
-As the legal dispute draws to a close,
+As the legal dispute draws to a close, what does this mean for readers? The Atlantic article goes into greater depth, but Cohen ruefully notes that
+
+http://www.theatlantic.com/technology/archive/2015/10/what-the-google-books-victory-means-for-readers-and-libraries/411910/
+
+http://www.readersfirst.org/news/2016/3/2/is-the-commercial-ebook-market-really-slowing-down
+
+https://books.google.com/ngrams
