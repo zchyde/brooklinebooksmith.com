@@ -16,12 +16,19 @@ books:
 
 This week we decided on a different way to showcase new titles.
 
----
+At The Edge of the Orchard by Tracy Chevalier
+&nbsp;
 
-![](/uploads/versions/_mg_0087---x----2233-2209x---.jpg)---
+Tracy Chevalier is best known for her historical drama Girl With a Pearl Earring -- a captivating work about art and expression. Chevalier's new novel showcases her talent for immersing readers in a gorgeous landscape.&nbsp; At the Edge of the Orchard illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.&nbsp;
 
-[At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier
+&nbsp;
 
-Tracy Chevalier is best known for her work Girl With a Pearl Earring -- a captivating novel about art and expression.&nbsp; In her new novel
+The Lonely City by Olivia Laing
+&nbsp;
 
-<u>At The Edge of the Orchard</u> Chevalier showcases her talent again immersing readers in a gorgeous landscape. Chevalier's orchard becomes a fundamental character of its own in her new novel about a dysfunctional family and high stakes.&nbsp;
+Olivia Laing's deep and enlightening work The Lonely City explores the significance of loneliness in urban life, art, and our experience of reality.&nbsp; Laing includes deft investigations of artists like Edward Hopper (Nighthawks) whose loneliness defined their work.&nbsp; These biographies, alongside her own provocative memoir, create a sense of companionship in the empty, negative space of loneliness.
+&nbsp;
+
+Read more about Laing's Lonely City in the New York Times Book Review here:
+
+http://nyti.ms/1Mj9dPl
