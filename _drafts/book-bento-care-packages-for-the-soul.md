@@ -34,11 +34,9 @@ Chevalier's new novel showcases her talent for immersing readers in a gorgeous l
 
 ![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)![full-img](/uploads/versions/12873426_580827728746175_1277713210_o---x----2016-2048x---.jpg)
 
-[The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
+[The Lonely City: Adventures in the Art of Being Alone](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
-Olivia Laing's deep and enlightening work
-
-<u>The Lonely City</u> explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
+Olivia Laing's deep and enlightening work *e*xplores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
 
 Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp;
 
