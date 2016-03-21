@@ -27,7 +27,9 @@ Tracy Chevalier is best known for her historical drama Girl With a Pearl Earring
 
 Chevalier's new novel showcases her talent for immersing readers in a gorgeous landscape.&nbsp;
 
-At the Edge of the Orchard illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.&nbsp;
+At the Edge of the Orchard illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.
+
+---
 
 ![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)
 
