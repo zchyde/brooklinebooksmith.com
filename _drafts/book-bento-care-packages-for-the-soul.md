@@ -28,7 +28,7 @@ Tracy Chevalier is best known for her historical drama [<u>Girl With a Pearl Ear
 
 Chevalier's new novel showcases her talent for immersing readers in a gorgeous landscape.&nbsp;
 
-At the Edge of the Orchard illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.
+<u>At the Edge of the Orchard</u> illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.
 
 ---
 
@@ -36,7 +36,9 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 
 [The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
-Olivia Laing's deep and enlightening work The Lonely City explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
+Olivia Laing's deep and enlightening work
+
+<u>The Lonely City</u> explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
 
 Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp;
 
