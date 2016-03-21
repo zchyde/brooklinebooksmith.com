@@ -31,7 +31,7 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 
 ![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)
 
-The Lonely City by Olivia Laing
+[The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing
 &nbsp;
 
 Olivia Laing's deep and enlightening work The Lonely City explores the significance of loneliness in urban life, art, and our experience of reality.&nbsp;
