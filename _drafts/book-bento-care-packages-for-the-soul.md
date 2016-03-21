@@ -20,7 +20,7 @@ This week we decided on a different way to showcase new titles.
 
 ![](/uploads/versions/_mg_0087---x----2233-2209x---.jpg)
 
-At The Edge of the Orchard by Tracy Chevalier
+[At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier
 &nbsp;
 
 Tracy Chevalier is best known for her historical drama Girl With a Pearl Earring -- a captivating work about art and expression.
