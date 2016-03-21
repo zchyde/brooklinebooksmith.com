@@ -14,16 +14,15 @@ books:
 ---
 
 
-This week we decided on a different way to showcase new titles.
+Showcasing new titles.
 
 ---
 
 ![](/uploads/versions/_mg_0087---x----2233-2209x---.jpg)
 
-[At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier
-&nbsp;
+[At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier &nbsp;
 
-Tracy Chevalier is best known for her historical drama Girl With a Pearl Earring -- a captivating work about art and expression.
+Tracy Chevalier is best known for her historical drama Girl With a Pearl Earring – a captivating work about art and expression.
 
 Chevalier's new novel showcases her talent for immersing readers in a gorgeous landscape.&nbsp;
 
@@ -33,16 +32,14 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 
 ![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)
 
-[The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing
-&nbsp;
+[The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
-Olivia Laing's deep and enlightening work The Lonely City explores the significance of loneliness in urban life, art, and our experience of reality.&nbsp;
+Olivia Laing's deep and enlightening work
 
-Laing includes deft investigations of artists like Edward Hopper (Nighthawks) whose loneliness defined their work.&nbsp;
+<u>The Lonely City</u> explores the significance of loneliness in urban life, art, and our experience of reality.&nbsp;
 
-These biographies, alongside her own provocative memoir, create a sense of companionship in the empty, negative space of loneliness.
-&nbsp;
+Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp;
 
-Read more about Laing's Lonely City in the New York Times Book Review here:
+These biographies, alongside her own provocative memoir, create a sense of companionship in the empty, negative space of loneliness. &nbsp;
 
-http://nyti.ms/1Mj9dPl
+Read more about Laing's *Lonely City* in the New York Times Book Review [here](http://www.nytimes.com/2016/03/20/books/review/the-lonely-city-by-olivia-laing.html?rref=collection/sectioncollection/book-review&amp;action=click&amp;contentCollection=review&amp;region=rank&amp;module=package&amp;version=highlights&amp;contentPlacement=6&amp;pgtype=sectionfront&amp;_r=0)
