@@ -20,6 +20,8 @@ Showcasing new titles.
 
 ![](/uploads/versions/_mg_0087---x----2233-2209x---.jpg)
 
+![](/uploads/versions/12325898_580827658746182_166535913_o---x----2048-2025x---.jpg)
+
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier &nbsp;
 
 Tracy Chevalier is best known for her historical drama [<u>Girl With a Pearl Earring</u>](http://www.tchevalier.com/15-gwape/94-girl-with-a-pearl-earring) – a captivating work about art and expression.
@@ -31,6 +33,8 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 ---
 
 ![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)
+
+![](/uploads/versions/12873426_580827728746175_1277713210_o---x----2016-2048x---.jpg)
 
 [The Lonely City](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
