@@ -46,6 +46,6 @@ Read more about Laing's *Lonely City* in the New York Times Book Review [here](h
 
 ---
 
-For more great goodies check out the [GiftSmith](http://www.brooklinebooksmith.com/giftsmith/)
+For more awesome goodies check out the [GiftSmith](http://www.brooklinebooksmith.com/giftsmith/)
 
-\*Our gift items can be purchased in-store.&nbsp; Give us a call (617) 566-6660 and ask for Kerri or Gwen.
+\*Our gift items can be purchased in-store.&nbsp; Give us a call at (617) 566-6660 and ask for Kerri or Gwen.
