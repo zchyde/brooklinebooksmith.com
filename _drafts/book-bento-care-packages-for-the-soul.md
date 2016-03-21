@@ -38,7 +38,7 @@ At the Edge of the Orchard illuminates the lives of a dysfunctional farming fami
 
 Olivia Laing's deep and enlightening work
 
-<u>The Lonely City</u> explores the significance of loneliness in urban life, art, and our experience of reality.&nbsp;
+<u>The Lonely City</u> explores the significance of loneliness in cities, in art, and in our experience of reality.&nbsp;
 
 Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp;
 
