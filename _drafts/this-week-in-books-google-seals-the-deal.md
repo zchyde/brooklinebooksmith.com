@@ -3,7 +3,7 @@ title: 'This Week In Books: Last Stand Against Google Scans'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: The tech company wins its long battle over the right to digitize books.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -28,8 +28,6 @@ As the legal dispute draws to a close, what does this mean for readers (especial
 
 For good or for bad, the digital preservation of vast tracts of literature at least means we and [the news team at](__notset__)[FiveThirtyEight](http://fivethirtyeight.com/features/our-favorite-examples-of-how-the-internet-talks-on-reddit/) can still spend hours on Google Ngram studying particular histories of the written word.
 
-http://www.theatlantic.com/technology/archive/2015/10/what-the-google-books-victory-means-for-readers-and-libraries/411910/
-
-http://www.readersfirst.org/news/2016/3/2/is-the-commercial-ebook-market-really-slowing-down
+&nbsp;
 
 https://books.google.com/ngrams
