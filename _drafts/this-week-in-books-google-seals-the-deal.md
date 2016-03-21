@@ -3,7 +3,7 @@ title: 'This Week In Books: Last Stand Against Google Scans'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: The tech company wins a long battle over the right to digitize books.
+description: The tech company wins the long battle over the right to digitize books.
 featured_image_path: /16036957624_e2c1b964d3_b.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
@@ -20,12 +20,10 @@ On March 15th the Authors Guild [filed its final reply brief](http://www.publish
 
 As *The Atlantic*'s Dan Cohen [reported back in October](http://www.theatlantic.com/technology/archive/2015/10/what-the-google-books-victory-means-for-readers-and-libraries/411910/) after the Second Circuit sided with Google, the threat posed by these conflicting interests may never have materialized:
 
-> Although Google did tip entire library shelves into the scanner without regard for copyright status—triggering an unsurprising revolt from authors and publishers—the tech giant only shows small “snippets” of in-copyright works. The full digitized books are walled-off, making only certain uses possible. Researchers can fact-check using Google Books, or they can examine the number of times particular words and phrases are mentioned in the corpus each year, but they can’t really read Google’s online version of most volumes... What Google has created is less a universal library than a tinted window into one.
+> Although Google did tip entire library shelves into the scanner without regard for copyright status—triggering an unsurprising revolt from authors and publishers—the tech giant only shows small “snippets” of in-copyright works. The full digitized books are walled-off, making only certain uses possible. Researchers can fact-check using Google Books, or they can examine the number of times particular words and phrases are mentioned in the corpus each year, but they can’t really read Google’s online version of most volumes… What Google has created is less a universal library than a tinted window into one.
 
 As the legal dispute draws to a close, what does this mean for readers (especially when the future of digital print looks [decidedly murky](http://www.readersfirst.org/news/2016/3/2/is-the-commercial-ebook-market-really-slowing-down)? The Atlantic article goes into greater depth, but Cohen ruefully notes that,
 
-> A lawsuit can run on for so long that, even if major issues are still at stake, it can seem dated and even inconsequential by the time it’s resolved…&nbsp; So much has changed on the Internet, in libraries, and with books in the decade since the Authors Guild first filed suit. In 2005, Google was a relatively young search engine—it had only gone public the previous year—looking to expand its horizon beyond the web. Now Google is part of a conglomerate named Alphabet, and Google Books seems very much like an early, vestigial effort among Alphabet’s larger body of projects, which includes higher-profile ventures like self-driving cars.
+> A lawsuit can run on for so long that, even if major issues are still at stake, it can seem dated and even inconsequential by the time it’s resolved…  So much has changed on the Internet, in libraries, and with books in the decade since the Authors Guild first filed suit. In 2005, Google was a relatively young search engine—it had only gone public the previous year—looking to expand its horizon beyond the web. Now Google is part of a conglomerate named Alphabet, and Google Books seems very much like an early, vestigial effort among Alphabet’s larger body of projects, which includes higher-profile ventures like self-driving cars.
 
 For good or for bad, the digital preservation of vast tracts of literature at least means I, you, and [the news team at](__notset__)[FiveThirtyEight](http://fivethirtyeight.com/features/our-favorite-examples-of-how-the-internet-talks-on-reddit/) can still spend hours on [Google Ngram](https://books.google.com/ngrams) studying quirky particular histories of the written word.
-
-&nbsp;
