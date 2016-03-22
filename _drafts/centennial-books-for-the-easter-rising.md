@@ -1,9 +1,9 @@
 ---
-title: Centennial books for the Easter Rising
+title: 'Easter Rising: The Centennial in Books'
 published: false
 featured: false
 date: 2016-03-25T09:00:00.000Z
-description:
+description: 'A often overlooked, but staggeringly important event in Irish history celebrates its centennial this weekend.'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -31,6 +31,4 @@ The anniversary of the Easter Rising will be celebrated over this year’s Easte
 
 ---
 
-[![](/uploads/versions/1916-irish-rebellion---x----318-242x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780268036140)Br&iacute;ona Nic Dhiarmada brings together a collection of photographs documenting the devastating effects of the Easter Rising upon the city of Dublin and its people. Such visuals provide a more visceral understanding of the enormous ramifications of those five days.
-
-&nbsp;
+[![](/uploads/versions/1916-irish-rebellion---x----318-242x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780268036140)Bríona Nic Dhiarmada brings together a collection of photographs documenting the devastating effects of the Easter Rising upon the city of Dublin and its people. Such visuals provide a more visceral understanding of the enormous ramifications of those five days.
