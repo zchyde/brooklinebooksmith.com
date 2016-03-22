@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: New titles arranged with great gifts
-featured_image_path: /_mg_0137.jpg
+featured_image_path: /bento_banner-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -20,7 +20,7 @@ Showcasing new titles.
 
 &nbsp;
 
-![full-img](/uploads/versions/12325898_580827658746182_166535913_o---x----2048-2025x---.jpg)
+![](/uploads/versions/bento_1-compressor---x----2048-2025x---.jpg)
 
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier &nbsp;
 
@@ -28,11 +28,13 @@ Tracy Chevalier is best known for her historical drama [<u>Girl With a Pearl Ear
 
 Chevalier's new novel showcases her talent for immersing readers in a gorgeous landscape.&nbsp;
 
-<u>At the Edge of the Orchard</u> illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.
+<u>At the Edge of the Orchard</u>
+
+illuminates the lives of a dysfunctional farming family in the Midwest and also the high stakes of the California Gold Rush.
 
 ---
 
-![](/uploads/versions/_mg_0122---x----2432-2471x---.jpg)![full-img](/uploads/versions/12873426_580827728746175_1277713210_o---x----2016-2048x---.jpg)
+![](/uploads/versions/bento_2-compressor---x----2016-2048x---.jpg)
 
 [The Lonely City: Adventures in the Art of Being Alone](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing &nbsp;
 
