@@ -18,8 +18,6 @@ Showcasing new titles.
 
 ---
 
-&nbsp;
-
 ![](/uploads/versions/bento_1-compressor---x----2048-2025x---.jpg)
 
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier &nbsp;
