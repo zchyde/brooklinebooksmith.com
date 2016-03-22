@@ -17,7 +17,7 @@ books:
 
 ---
 
-![](/uploads/versions/bento_1-compressor---x----2048-2025x---.jpg)
+![full-img](/uploads/versions/bento_1-compressor---x----2048-2025x---.jpg)
 
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier
 
@@ -31,7 +31,7 @@ illuminates the lives of a dysfunctional farming family in the Midwest and also 
 
 ---
 
-![](/uploads/versions/bento_2-compressor---x----2016-2048x---.jpg)
+![full-img](/uploads/versions/bento_2-compressor---x----2016-2048x---.jpg)
 
 [The Lonely City: Adventures in the Art of Being Alone](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing
 
@@ -47,4 +47,4 @@ Read more about Laing's *Lonely City* in the New York Times Book Review [here](h
 
 For more awesome goodies check out the [GiftSmith](http://www.brooklinebooksmith.com/giftsmith/)
 
-\*Our gift items can be purchased in-store.  Give us a call at (617) 566-6660 and ask for Kerri or Gwen.
+\*Our gift items can be purchased in-store.&nbsp; Give us a call at (617) 566-6660 and ask for Kerri or Gwen.
