@@ -17,7 +17,7 @@ books:
 
 ---
 
-![full-img](/uploads/versions/bento_1-compressor---x----2048-2025x---.jpg)
+![](/uploads/versions/bento_1-compressor---x----700-692x---.jpg)
 
 [At The Edge of the Orchard](http://www.brooklinebooksmith-shop.com/book/9780525953005) by Tracy Chevalier
 
@@ -31,7 +31,7 @@ illuminates the lives of a dysfunctional farming family in the Midwest and also 
 
 ---
 
-![full-img](/uploads/versions/bento_2-compressor---x----2016-2048x---.jpg)
+![](/uploads/versions/bento_2-compressor---x----700-711x---.jpg)
 
 [The Lonely City: Adventures in the Art of Being Alone](http://www.brooklinebooksmith-shop.com/book/9781250039576) by Olivia Laing
 
