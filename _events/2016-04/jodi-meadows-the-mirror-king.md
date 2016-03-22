@@ -1,17 +1,15 @@
 ---
 title: '**Jodi Meadows** *The Mirror King*'
 published: true
-start_at: 2016-01-15T09:00:00.000Z
-image_path:
-book_category: YOUNG ADULT
+start_at: 2016-03-22T09:00:00.000Z
+image_path: /uploads/61cyko+npkl._ux250_.jpg
+book_category:
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
   - '9780062317414'
 ---
 
-
-&nbsp;
 
 **Appearing in conversation with Erin Bowman**
 
