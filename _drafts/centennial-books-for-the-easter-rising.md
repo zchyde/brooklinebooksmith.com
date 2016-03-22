@@ -31,4 +31,4 @@ The anniversary of the Easter Rising will be celebrated over this year’s Easte
 
 ---
 
-[![](/uploads/versions/1916-irish-rebellion---x----318-242x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780268036140)Bríona Nic Dhiarmada brings together a collection of photographs documenting the devastating effects of the Easter Rising upon the city of Dublin and its people. Such visuals provide a more visceral understanding of the enormous ramifications of those five days.
+[![](/uploads/versions/1916-irish-rebellion---x----318-242x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780268036140)Br&iacute;ona Nic Dhiarmada brings together a collection of photographs documenting the devastating effects of the Easter Rising upon the city of Dublin and its people. Such visuals provide a more visceral understanding of the enormous ramifications of those five days.
