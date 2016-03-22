@@ -33,6 +33,8 @@ Chevalier's new novel showcases her talent for immersing readers in a gorgeous l
 
 Olivia Laing's deep and enlightening work explores the significance of loneliness in cities, in art, and in our understanding of reality.&nbsp; Laing includes deft investigations of artists like Edward Hopper ([Nighthawks](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg)) whose loneliness defined their work.&nbsp; These biographies, alongside her own provocative memoir, create a sense of companionship amid the loneliness.&nbsp;
 
+&nbsp;
+
 Read more about Laing's *Lonely City* in the New York Times Book Review [here](http://www.nytimes.com/2016/03/20/books/review/the-lonely-city-by-olivia-laing.html?rref=collection/sectioncollection/book-review&amp;action=click&amp;contentCollection=review&amp;region=rank&amp;module=package&amp;version=highlights&amp;contentPlacement=6&amp;pgtype=sectionfront&amp;_r=0)
 
 ---
