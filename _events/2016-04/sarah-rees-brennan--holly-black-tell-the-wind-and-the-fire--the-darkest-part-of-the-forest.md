@@ -3,7 +3,7 @@ title: '**Sarah Rees Brennan & Holly Black** *Tell the Wind and the Fire* & *The
 published: true
 start_at: 2016-04-14T19:00:00.000Z
 image_path: /uploads/sarahreesehollyblack-compressor.png
-book_category:
+book_category: kidsmith
 program: '-writers-and-readers'
 ticketed: false
 book_isbn:
