@@ -3,8 +3,8 @@ title: '**Jodi Meadows** *The Mirror King*'
 published: true
 start_at: 2016-04-06T19:00:00.000Z
 image_path: /uploads/61cyko+npkl._ux250_.jpg
-book_category:
-program: '-writers-and-readers'
+book_category: kidsmith
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:
