@@ -25,8 +25,12 @@ In closing, congratulations to Reginald Dwayne Betts, author of staff favorite (
 
 Wait, one more thing:&nbsp;[I found where I want to retire](http://www.popularmechanics.com/culture/movies/a19929/popeye-village/?dom=fb_ao&amp;src=social&amp;mag=pop). Any costumed re-enactors will have to beat it, though. I ain'ts gots no paish-kence for 'em.
 
-Thanks for reading,Paul
+Thanks for reading,
 
-currently reading&nbsp;[Servants of the Map](http://www.nytimes.com/2002/02/03/books/biology-is-destiny-and-so-is-chemistry.html?pagewanted=all), by Andrea Barrett.currently listening to[Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)&nbsp;by CHVRCHES.
+Paul
+
+currently reading&nbsp;[Servants of the Map](http://www.nytimes.com/2002/02/03/books/biology-is-destiny-and-so-is-chemistry.html?pagewanted=all), by Andrea Barrett.
+
+currently listening to&nbsp;[Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)&nbsp;by CHVRCHES.
 
 \*our full weekly bmail newsletter includes&nbsp;[upcoming events](http://www.brooklinebooksmith.com/events/), new releases, great used and bargain books, what’s new in the&nbsp;[giftsmith](http://www.brooklinebooksmith.com/giftsmith/), and our always surprising find of the week. To get bmail delivered to your inbox, sign up below.
