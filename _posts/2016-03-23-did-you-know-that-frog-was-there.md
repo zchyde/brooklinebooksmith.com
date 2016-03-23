@@ -4,7 +4,7 @@ published: false
 featured: true
 date: 2016-03-23T16:00:00.000Z
 description: 'Using keen observation, dig into the backlist.'
-featured_image_path: /ducklings.jpg
+featured_image_path: /ducklingbanner_long-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -15,7 +15,9 @@ books:
 ---
 
 
-![](/uploads/versions/ducklings---x----1364-938x---.jpg)My seven-year-old daughter found something in&nbsp;*Make Way for Ducklings*&nbsp;that I never saw before. There's a frog down there! Kids see everything. She also claims she never read the book before. Kids lie all the time. (By the way, on the book's [Wikipedia](https://en.wikipedia.org/wiki/Make_Way_for_Ducklings)&nbsp;page, it is noted that McCloskey's masterpiece "was criticised for having a loose plot…as well as poor characterization." Huh?)
+![full-img](/uploads/versions/ducklingbanner-compressor---x----800-550x---.jpg)
+
+My seven-year-old daughter found something in&nbsp;*Make Way for Ducklings*&nbsp;that I never saw before. There's a frog down there! Kids see everything. She also claims she never read the book before. Kids lie all the time. (By the way, on the book's [Wikipedia](https://en.wikipedia.org/wiki/Make_Way_for_Ducklings)&nbsp;page, it is noted that McCloskey's masterpiece "was criticised for having a loose plot…as well as poor characterization." Huh?)
 
 From time to time I get a look of disbelief from a customer when I admit that I haven't read the hot new book they are looking for. You haven't read this yet?! Part of me wants to theatrically sweep my arm across the&nbsp;[panorama](http://www.notesontheroad.com/Ying-s-Links/Stockholm-Public-Library-Imagined-by-Olivier-Charles.html)&nbsp;of thousands upon thousands of books before us, but I keep that to myself and instead just tell them that personally I am drawn to older books, books that have stood the test of time. What we in the biz call "backlist" titles. Listen, I have kids. I don't like to gamble with my reading time. Here's some of my fellow booksellers enthusing over their&nbsp;[favorite backlist books](https://www.youtube.com/watch?v=XMyH8Nc6qYI&amp;feature=youtu.be).
 
