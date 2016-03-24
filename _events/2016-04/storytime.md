@@ -1,5 +1,5 @@
 ---
-title: "**Children's Storytime**"
+title: "**Children's Storytime with  Julia Denos**"
 published: true
 start_at: 2016-04-16T10:30:00.000Z
 image_path: 'http://images.brooklinebooksmith.com/kids_storytime_web.jpg'
