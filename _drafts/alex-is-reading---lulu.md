@@ -29,10 +29,10 @@ Both series are solidly middle grade; they're great to read on your own, but als
 
 Somehow I missed it when McKay started publishing an early chapter book series about a little black English girl named Lulu (illustrated by Priscilla Lamont), whose defining feature is her no-nonsense, steadfast, all-encompassing love for EVERY ANIMAL ON EARTH. Fans of Sara Pennypacker's Clementine series will enjoy the riotous misadventures of Lulu and her episodic crusades for the well-being of beasts, but Lulu has a confidence and wit of her very own.
 
-I meandered optimistically into the first book, Lulu and the Duck in the Park,[](__notset__)**in which (following a dog riot at a local park) Lulu rescues an imperiled duck egg only to have it hatch under her sweater in class.
+I meandered optimistically into the first book, Lulu and the Duck in the Park,[](**notset**)\*\*in which (following a dog riot at a local park) Lulu rescues an imperiled duck egg only to have it hatch under her sweater in class.
 
 GOOD NEWS: LULU IS PERFECT.
 
 At this point I started picking up the next Lulu book every time I stopped by the library. Lulu (who starts with a sizable personal zoo in book one) goes on to meet a wet hedgehog, a bagged cat, a disreputable dog at the seaside, a neighborly rabbit and its apathetic young owner, and a rooftop hamster. Her stories rollick along with great humor, and Lulu's unshakably responsible attitude towards the creatures under her care is impressive, but never a drag. Fellow animal lovers will find a kindred spirit.
 
-I recommend the whole series wholeheartedly, but I'm a particular fan of book two, Lulu and the Dog from the Sea. For young readers who want to learn more about the animals they love, you might try the alluringly palm-sized and picture-packed paperback DK Pocket Guides for Dogs and Animals, or (in the Nature section) Do Unto Animals, a loving guide to caring for animals domestic and wild by Tracey Stewart, abundantly illustrated by Lisel Ashlock.
+I recommend the whole series wholeheartedly, but I'm a particular fan of book two, [Lulu and the Dog from the Sea](http://www.brooklinebooksmith-shop.com/book/9780807548219). For young readers who want to learn more about the animals they love, you might try the alluringly palm-sized and picture-packed paperback DK Pocket Guides for Dogs and Animals, or (in the Nature section) [Do Unto Animals](http://www.brooklinebooksmith-shop.com/book/9781579656232), a loving guide to caring for animals domestic and wild by Tracey Stewart, abundantly illustrated by Lisel Ashlock.
