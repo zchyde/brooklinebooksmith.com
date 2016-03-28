@@ -29,4 +29,4 @@ I meandered optimistically into the first book, *Lulu and the Duck in the Park,*
 
 GOOD NEWS: LULU IS PERFECT.
 
-At this point I started picking up the next Lulu book every time I stopped by the library. Lulu (who starts with a sizable personal zoo in book one) goes on to meet a wet hedgehog, a bagged cat, a disreputable dog at the seaside, a neighborly rabbit and its apathetic young owner, and a rooftop hamster.
+At this point I started picking up the next Lulu book every time I stopped by the library. Lulu (who starts with a sizable personal zoo in book one) goes on to meet a wet hedgehog, a bagged cat, a disreputable dog at the seaside, a neighborly rabbit and its apathetic young owner, and a rooftop hamster. Her stories rollick along with great humor, and Lulu's unshakably responsible attitude towards the creatures under her care is impressive, but never a drag. Fellow animal lovers will find a kindred spirit.
