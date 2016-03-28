@@ -18,6 +18,12 @@ http://www.mhpbooks.com/fbi-investigated-buffalo-bookstore-owner-for-over-two-ye
 
 http://www.mhpbooks.com/anonymous-targets-denvers-tattered-cover-book-store-over-citys-handling-of-homeless/
 
-"The FBI’s investigation included sending their sources to the bookstore, and tasking them with attending certain lectures hosted at Burning Books. The investigation started as a result of  Pickering’s ties to the Earth Liberation Front (ELF), a radical environmental group known for a series of fire-bombings in the 1990s… Pickering acknowledges his links to the ELF, but alleges that he did nothing illegal."
+"The FBI’s investigation included sending their sources to the bookstore, and tasking them with attending certain lectures hosted at Burning Books. The investigation started as a result of &nbsp;Pickering’s ties to the Earth Liberation Front (ELF), a radical environmental group known for a series of fire-bombings in the 1990s… Pickering acknowledges his links to the ELF, but alleges that he did nothing illegal."
 
 "In July of last year, Pickering set up a multimedia exhibit designed to shine a light on the FBI’s use of surveillance. Speaking to the Buffalo News when it opened, he told them he hoped it would pose the question, “‘Is this free speech or criminal activity?…It will also raise the question, ‘Did the FBI engage in criminal activity?’”
+
+&nbsp;
+
+"Tattered Cover is a member of the Downtown Denver Partnership, a city-improvement organization that is known to be in support of the camp sweeps. So the bookshop is guilty by affiliation—at least according to Anonymous."
+
+"Our refusal to take a stance on matters of public policy is principled; our customers need to know that they have unfettered access to books and content without fear of judgment or reprisal."
