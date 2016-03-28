@@ -29,7 +29,7 @@ Both series are solidly middle grade; they're great to read on your own, but als
 
 Somehow I missed it when McKay started publishing an early chapter book series about a little black English girl named Lulu (illustrated by Priscilla Lamont), whose defining feature is her no-nonsense, steadfast, all-encompassing love for EVERY ANIMAL ON EARTH. Fans of Sara Pennypacker's Clementine series will enjoy the riotous misadventures of Lulu and her episodic crusades for the well-being of beasts, but Lulu has a confidence and wit of her very own.
 
-I meandered optimistically into the first book,[](__notset__)*[Lulu and the Duck in the Park](__notset__),*in which (following a dog riot at a local park) Lulu rescues an imperiled duck egg only to have it hatch under her sweater in class.
+I meandered optimistically into the first book, Lulu and the Duck in the Park,[](__notset__)[Lulu and the Duck in the Par](__notset__)[k](__notset__)*,*in which (following a dog riot at a local park) Lulu rescues an imperiled duck egg only to have it hatch under her sweater in class.
 
 GOOD NEWS: LULU IS PERFECT.
 
