@@ -15,6 +15,10 @@ books:
 ---
 
 
+&nbsp;
+
+&nbsp;
+
 The first book I read by Hilary McKay was a used copy of THE EXILES picked up for 90p at a charity shop in England, sometime in (I think) the mid-nineties. (I was smaller, then. All the nineties bear a fairly strong resemblance to all the other nineties.)
 
 THE EXILES is the first book in a classic family adventure trilogy, featuring a pack of wild-haired, dreadfully fearless sisters with the will of bulldozers, who race grubs, read books by the bushel, and get muddy and sunburnt at every opportunity. They're the kind of funny that hurts you in the middle, and the kind of family that (if you're an only kid like I was) make you equal parts jealous and grateful not to have siblings.
@@ -31,4 +35,4 @@ GOOD NEWS: LULU IS PERFECT.
 
 At this point I started picking up the next Lulu book every time I stopped by the library. Lulu (who starts with a sizable personal zoo in book one) goes on to meet a wet hedgehog, a bagged cat, a disreputable dog at the seaside, a neighborly rabbit and its apathetic young owner, and a rooftop hamster. Her stories rollick along with great humor, and Lulu's unshakably responsible attitude towards the creatures under her care is impressive, but never a drag. Fellow animal lovers will find a kindred spirit.
 
-I recommend the whole series wholeheartedly, but I'm a particular fan of book two, Lulu and the Dog from the Sea. For young readers who want to learn more about the animals they love, you might try the alluringly palm-sized and picture-packed paperback DK Pocket Guides for Dogs and Animals, or (in the Nature section) Do Unto Animals, a loving guide to caring for animals domestic and wild by Tracey Stewart, abundantly illustrated
+I recommend the whole series wholeheartedly, but I'm a particular fan of book two, Lulu and the Dog from the Sea. For young readers who want to learn more about the animals they love, you might try the alluringly palm-sized and picture-packed paperback DK Pocket Guides for Dogs and Animals, or (in the Nature section) Do Unto Animals, a loving guide to caring for animals domestic and wild by Tracey Stewart, abundantly illustrated by Lisel Ashlock.
