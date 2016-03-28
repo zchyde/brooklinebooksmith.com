@@ -17,7 +17,7 @@ books:
 
 &nbsp;
 
-&nbsp;
+![](/uploads/versions/img_2554smaller---x----500-371x---.jpg)
 
 The first book I read by Hilary McKay was a used copy of THE EXILES picked up for 90p at a charity shop in England, sometime in (I think) the mid-nineties. (I was smaller, then. All the nineties bear a fairly strong resemblance to all the other nineties.)
 
