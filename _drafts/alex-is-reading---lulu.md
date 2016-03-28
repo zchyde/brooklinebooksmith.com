@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-03-31T09:00:00.000Z
 description: "Hilary McKay's Lulu loves animals, and this animal lover loves Lulu."
-featured_image_path:
+featured_image_path: /9780807548219.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
