@@ -19,9 +19,9 @@ books:
 
 ![](/uploads/versions/img_2554smaller---x----500-371x---.jpg)
 
-The first book I read by Hilary McKay was a used copy of [The Exiles](http://www.brooklinebooksmith-shop.com/book/9781416967286) picked up for 90p at a charity shop in England, sometime in (I think) the mid-nineties. (I was smaller, then. All the nineties bear a fairly strong resemblance to all the other nineties.)
+The first book I read by Hilary McKay was a used copy of [The Exiles](http://www.brooklinebooksmith-shop.com/book/9781416967286) picked up for 90p at a charity shop in England, sometime in (I think) the mid-nineties. (I was smaller, then. All the years in the nineties bear a fairly strong resemblance to all the other years in the nineties.)
 
-The Exiles is the first book in a classic family adventure trilogy, featuring a pack of wild-haired, dreadfully fearless sisters with the will of bulldozers, who race grubs, read books by the bushel, and get muddy and sunburnt at every opportunity. They're the kind of funny that hurts you in the middle, and the kind of family that (if you're an only kid like I was) make you equal parts jealous and grateful not to have siblings.
+*The Exiles* is the first book in a classic family adventure trilogy, featuring a pack of wild-haired, dreadfully fearless sisters with the will of bulldozers, who race grubs, read books by the bushel, and get muddy and sunburned at every opportunity. They're the kind of funny that hurts you in the middle, and the kind of family that (if you're an only kid like I was) make you equal parts jealous and grateful not to have siblings.
 
 The second McKay series I read begins with [Saffy's Angel](http://www.brooklinebooksmith-shop.com/book/9780689849343). These books feature the Cassons, a family with artist parents and children named for paint colors–except for Saffron, who is an adopted cousin and can't find her name on the color wheel. When she's left a mysterious legacy by the children's grandfather, it might be the thing she needs to feel fully Casson again. The whole story is, once again, both tender and ruthlessly funny.
 
