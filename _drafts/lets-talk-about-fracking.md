@@ -22,7 +22,7 @@ books:
 
 ---
 
-![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for The Wall Street Journal, takes on the topic of fracking in his 2014 book entitled [The Boom](http://www.brooklinebooksmith-shop.com/book/9781451692297).&nbsp;
+![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for *The Wall Street Journal*, takes on the topic of fracking in his 2014 book entitled [The Boom](http://www.brooklinebooksmith-shop.com/book/9781451692297). Writing in a narrative, journalistic style, Gold offers a thorough investigation into the technological, environmental, and monetary facets that define Fracking.&nbsp; What does the future of fracking mean for our global economy? &nbsp;How does this energy source impact our environment?&nbsp; Gold describes his and others’ personal experiences with fracking in this even-handed book.&nbsp; This title was longlisted for the *Financial Times and McKinsey Business*Book of the Year Award.&nbsp;
 
 ---
 
