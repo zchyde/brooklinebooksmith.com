@@ -28,4 +28,8 @@ April is Earth Month – with one certain day reserved for celebrating, Earth Da
 
 ![](/uploads/versions/slick-water---x----259-400x---.jpg)The process of fracking uses lots of water.&nbsp; Many people are concerned about how much water is used, and further, how water is contaminated by fracking techniques.&nbsp; &nbsp;Andrew Nikiforuk exposes these concerns in [Slick Water](http://www.brooklinebooksmith-shop.com/book/9781771640763).
 
+---
+
+&nbsp;
+
 &nbsp;
