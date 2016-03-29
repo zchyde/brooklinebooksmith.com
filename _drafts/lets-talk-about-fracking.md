@@ -14,7 +14,7 @@ books:
 ---
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April is Earth Month – with one certain date, April 22, set aside for special eco-celebrations.&nbsp; &nbsp; &nbsp;It’s an important time of year to explore various conservation initiatives and environmental concerns, such as Hydraulic Fracturing, better known as “Fracking.”&nbsp; The Merriam-Webster Dictionary defines fracking as “the injection of fluid into shale beds at high pressure in order to free up petroleum resources (such as oil or natural gas).”&nbsp; For further investigations into this hot eco-topic, check out some of the books listed below and then come on in to Booksmith and grab one, reserve a copy on the phone, or shop online
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April is Earth Month – with one certain date, April 22, set aside for special eco-celebrations.&nbsp; It’s an important time of year to explore various conservation initiatives and environmental concerns, such as Hydraulic Fracturing, better known as "Fracking.”&nbsp; The Merriam-Webster Dictionary defines fracking as “the injection of fluid into shale beds at high pressure in order to free up petroleum resources (such as oil or natural gas).”&nbsp; For further investigations into this hot eco-topic, check out some of the books listed below and then come on in to Booksmith and grab one, reserve a copy on the phone, or shop online
 
 ---
 
@@ -22,7 +22,7 @@ books:
 
 ---
 
-![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for The Wall Street Journal, takes on the topic of fracking in his 2014 book entitled [The Boom]( http://www.brooklinebooksmith-shop.com/book/9781451692297).&nbsp;
+![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for The Wall Street Journal, takes on the topic of fracking in his 2014 book entitled [The Boom](http://www.brooklinebooksmith-shop.com/book/9781451692297).&nbsp;
 
 ---
 
