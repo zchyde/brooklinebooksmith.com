@@ -24,4 +24,8 @@ April is Earth Month – with one certain day reserved for celebrating, Earth Da
 
 ![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for The Wall Street Journal, takes on the topic of fracking in his 2014 book entitled [The Boom]( http://www.brooklinebooksmith-shop.com/book/9781451692297).&nbsp;
 
+---
+
+![](/uploads/versions/slick-water---x----259-400x---.jpg)The process of fracking uses lots of water.&nbsp; Many people are concerned about how much water is used, and further, how water is contaminated by fracking techniques.&nbsp; &nbsp;Andrew Nikiforuk exposes these concerns in [Slick Water](http://www.brooklinebooksmith-shop.com/book/9781771640763).
+
 &nbsp;
