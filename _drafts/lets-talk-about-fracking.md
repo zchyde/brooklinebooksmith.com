@@ -18,7 +18,7 @@ books:
 
 ---
 
-![](/uploads/versions/12-things-to-know-about-fracking---x----311-400x---.jpg)[12 Things to Know About Fracking](http://www.brooklinebooksmith-shop.com/book/9781632350893) by Rebecca Felix
+![](/uploads/versions/12-things-to-know-about-fracking---x----311-400x---.jpg)[12 Things to Know About Fracking](http://www.brooklinebooksmith-shop.com/book/9781632350893) by Rebecca Felix is perfect for any one, at any age, who’s looking to learn the basics about fracking.&nbsp; Written with clear language and illustrated with vivid, colorful photographs, this piece offers a great guide to fracking, defining the process, highlighting the various aspects, and clarifying much that might seem confusing.&nbsp; It’s part of the *Today’s News* series of books (grades 4-6), which discuss important topics grabbing the headlines today.&nbsp; Other scientific subject matters covered in this series include: climate change, invasive species, space exploration, and wild weather.&nbsp; &nbsp;
 
 ---
 
