@@ -28,8 +28,6 @@ books:
 
 ![](/uploads/versions/slick-water---x----259-400x---.jpg)The process of fracking uses lots of water.&nbsp; Many people are concerned about this, and further, about how much water might be contaminated by fracking techniques.&nbsp; Andrew Nikiforuk exposes these concerns in [Slick Water](http://www.brooklinebooksmith-shop.com/book/9781771640763).&nbsp; This book relates the story of Jessica Ernst’s battle with the Encana Energy company.&nbsp; Ernst, a biologist and oil patch consultant, discovers that her own drinking water has become contaminated by fracking practices, and seeks justice for her community.&nbsp; Nikiforuk uses Ernst’s story as the groundwork for his search for truth in a controversial energy market.&nbsp; Nikiforuk, a journalist who has won the Rachel Carson Environmental Book Award, among others, has worked tirelessly to make known the connections among fracking, small communities, and the global economy.
 
----
-
-![](/uploads/versions/green-and-the-black---x----263-400x---.jpg)jdhgfkjshdfksdhfksdjhfhhhhhjjkkjhkjhkjhknnnnjhk
+![](/uploads/versions/green-and-the-black---x----263-400x---.jpg)[The Green and the Black]( http://www.brooklinebooksmith-shop.com/book/9781250080660) by Gary Sernovitz was released in February 2016.&nbsp; Sernovitz, an essayist, novelist, and oil consultant, takes on fracking in a serious yet witty style.&nbsp; The book looks at the whole picture of the shale revolution, instead of focusing on just pieces of random technological information, confusing monetary figures, or environmental “dramatizing.”&nbsp; This is an important piece for our current energy debate.
 
 &nbsp;
