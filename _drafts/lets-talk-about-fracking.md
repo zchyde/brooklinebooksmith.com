@@ -1,9 +1,9 @@
 ---
-title: "Let's Talk About Fracking!  Earth Month is coming...Liz E."
+title: "Let's Talk About Fracking!  Earth Month is coming..."
 published: false
 featured: false
 date: 2016-03-29T13:00:00.000Z
-description:
+description: Exploring Fracking in Books
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
