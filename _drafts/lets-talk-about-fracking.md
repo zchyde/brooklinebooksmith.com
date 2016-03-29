@@ -30,6 +30,6 @@ April is Earth Month – with one certain day reserved for celebrating, Earth Da
 
 ---
 
-&nbsp;
+![](/uploads/versions/green-and-the-black---x----263-400x---.jpg)
 
 &nbsp;
