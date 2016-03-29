@@ -22,6 +22,6 @@ April is Earth Month – with one certain day reserved for celebrating, Earth Da
 
 ---
 
-![](/uploads/versions/the-boom---x----263-400x---.jpg)
+![](/uploads/versions/the-boom---x----263-400x---.jpg)Russell Gold, Senior Energy Reporter for The Wall Street Journal, takes on the topic of fracking in his 2014 book entitled [The Boom]( http://www.brooklinebooksmith-shop.com/book/9781451692297).&nbsp;
 
 &nbsp;
