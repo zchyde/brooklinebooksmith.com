@@ -23,7 +23,7 @@ On a recent early morning commute I counted seven out of twelve people in my tra
 
 Our events series brings&nbsp;[Augusten Burroughs](http://www.brooklinebooksmith.com/events/2016-04/augusten-burroughs-lust--wonder-a-memoir/)&nbsp;in a couple weeks, and a whole lot more - including the amazing portrait photography of&nbsp;[Rania Matar](http://www.brooklinebooksmith.com/events/2016-03/rania-matar-lenfant-femme/)&nbsp;- in between.
 
-And if mine is the only Booksmith voice you listen to, you are depriving yourself. Over on our [blog](http://www.brooklinebooksmith.com/blog/)&nbsp;we've got booksellers covering everything from literary&nbsp;[legal](http://www.brooklinebooksmith.com/2016/03/21/this-week-in-books-google-seals-the-deal/)wars to&nbsp;[fracking.](http://www.brooklinebooksmith.com/2016/03/29/lets-talk-about-fracking/)
+And if mine is the only Booksmith voice you listen to, you are depriving yourself. Over on our [blog](http://www.brooklinebooksmith.com/blog/)&nbsp;we've got booksellers covering everything from literary&nbsp;[legal](http://www.brooklinebooksmith.com/2016/03/21/this-week-in-books-google-seals-the-deal/)&nbsp;wars to&nbsp;[fracking.](http://www.brooklinebooksmith.com/2016/03/29/lets-talk-about-fracking/)
 
 Thanks for reading,
 
