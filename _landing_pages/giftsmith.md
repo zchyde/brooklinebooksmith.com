@@ -7,14 +7,67 @@ description: '###### [![Facebook](/static/images/facebook-dreamstale25.png) Gift
 fancy_font: Cabin-sketch
 ---
 
+
 The Giftsmith began in 1997 and has since grown from a small wall of greeting cards and a few quirky items to the current, beautifully designed room packed with everything from the sublime to the ridiculous. Our selection is award-winning and has helped us keep to our mission of being both an inspiring, iconic bookstore and a marvelous one-stop shopping experience. Many is the customer who remarks “I came in for a book” or “I came in for a gift” and then happily leaves with several of both.
 
 &nbsp;
 
-![](/uploads/versions/bbooksmith-52_mini---x----500-333x---.jpg)![](/uploads/versions/bbooksmith-47_mini---x----500-333x---.jpg)![](/uploads/versions/bbooksmith-12_mini---x----500-333x---.jpg)![](/uploads/versions/bbooksmith-41_mini---x----500-333x---.jpg)![](/uploads/versions/bbooksmith-11_mini---x----500-333x---.jpg)![](/uploads/versions/giftsmith1_mini---x----500-333x---.jpg)![](/uploads/versions/giftsmith2_mini---x----500-333x---.jpg)![](/uploads/versions/giftsmith3_mini---x----500-333x---.jpg)
+![full-img](/uploads/versions/3---x----800-800x---.jpg)
+
+## Feast
 
 ---
 
-&nbsp;
+![full-img](/uploads/versions/8---x----800-800x---.jpg)
 
-&nbsp;
+## Renew
+
+---
+
+![full-img](/uploads/versions/5---x----800-800x---.jpg)
+
+## Equip
+
+---
+
+![full-img](/uploads/versions/4---x----800-800x---.jpg)
+
+## Adorn
+
+---
+
+![full-img](/uploads/versions/6---x----800-857x---.jpg)
+
+## Compose
+
+---
+
+![full-img](/uploads/versions/7---x----800-732x---.jpg)
+
+## Be bookish
+
+---
+
+![full-img](/uploads/versions/2---x----800-800x---.jpg)
+
+## Be local
+
+---
+
+![full-img](/uploads/versions/9---x----800-800x---.jpg)
+
+## Trek
+
+---
+
+![full-img](/uploads/versions/1---x----800-800x---.jpg)
+
+## Amuse
+
+---
+
+![full-img](/uploads/versions/10---x----800-800x---.jpg)
+
+## Make merry
+
+---
