@@ -119,3 +119,8 @@ defaults:
       type: staff
     values:
       layout: page
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false
