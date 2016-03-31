@@ -26,50 +26,31 @@ The Giftsmith began in 1997 and has since grown from a small wall of greeting ca
 
 ![full-img](/uploads/versions/5---x----800-800x---.jpg)
 
-&nbsp;
-
-&nbsp;
-
----
+## adorn.
 
 ![full-img](/uploads/versions/4---x----800-800x---.jpg)
 
-## Adorn
-
----
+## compose.
 
 ![full-img](/uploads/versions/6---x----800-857x---.jpg)
 
-## Compose
-
----
+## be bookish.
 
 ![full-img](/uploads/versions/7---x----800-732x---.jpg)
 
-## Be bookish
-
----
-
+## be local.
 ![full-img](/uploads/versions/2---x----800-800x---.jpg)
 
-## Be local
-
----
+## trek.
 
 ![full-img](/uploads/versions/9---x----800-800x---.jpg)
 
-## Trek
-
----
+## amuse.
 
 ![full-img](/uploads/versions/1---x----800-800x---.jpg)
 
-## Amuse
-
----
+## make merry.
 
 ![full-img](/uploads/versions/10---x----800-800x---.jpg)
 
-## Make merry
-
----
+## &nbsp;
