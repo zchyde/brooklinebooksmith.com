@@ -16,17 +16,27 @@ The Giftsmith began in 1997 and has since grown from a small wall of greeting ca
 
 ## feast
 
+&nbsp;
+
 ---
 
 ![full-img](/uploads/versions/8---x----800-800x---.jpg)
 
 ## renew.
 
+&nbsp;
+
+&nbsp;
+
 ---
 
 ![full-img](/uploads/versions/5---x----800-800x---.jpg)
 
 ## equip.
+
+&nbsp;
+
+&nbsp;
 
 ---
 
