@@ -1,6 +1,6 @@
 ---
 title: The Waters of Eternal Youth
-selection_date:
+selection_date: 2016-04-01T00:00:00.000Z
 isbn: 9780802124807
 binding: Hardcover
 image_path: /uploads/9780802124807.jpg
@@ -9,6 +9,7 @@ available_date: 2016-03-11T00:00:00.000Z
 price: 26.95
 meta: 'Atlantic Monthly Press, March 2016'
 ---
+
 
 In Donna Leon’s Commissario Guido Brunetti series, the Venetian inspector has been called on to investigate many things, from shocking to petty crimes. But in *The Waters of Eternal Youth*, the 25th novel in this celebrated series, Brunetti finds himself drawn into a case that may not be a case at all.
 
