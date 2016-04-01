@@ -1,4 +1,8 @@
-
+<style media="screen">
+  button {
+  display: inline-block;
+  }
+</style>
 
 <div class="row">
 
@@ -6,40 +10,29 @@
   {% assign subscriptions = page.subscriptions %}
   {% for object in subscriptions %}
 
-  <hr />
-
-  object: {{ object }}<br />
-name: {{ object.subscription.name }}<br />
-  term: {{ object.subscription.term_months }}<br />
-  subscription_price: {{ object.subscription.subscription_price }}<br />
-  <hr />
+    {% assign name = object.subscription.name %}
+    {% assign subscription_price = object.subscription.subscription_price %}
+    {% assign shipping_charge = object.subscription.shipping_charge %}
+    {% capture total_price %}{{ subscription_price | plus: shipping_charge }} {% endcapture %}
 
 
-    <a
-      style="margin-top:-2em;text-align:right;"
-      href="#"
-      class="snipcart-add-item"
-      data-item-id=" term months: {{ object.term_months}}"
-      data-item-name="{{ object.name }}"
-      data-item-price="{{ object.subscription_price}}"
-      data-item-weight="20"
-      data-item-url="{{ page.url }}"
-      data-item-description="{{ page.content }}"
-      >
+{% comment %}
+  <div style="padding: 1em;background-color:#f6f6f6;border:1px solid #777;margin:3em auto;">
+    <h6>Definitions (button attributes)</h6>
+    <ul>
+      <li>object: {{ object }}</li>
+      <li>name: {{ object.subscription.name }}</li>
+      <li>term: {{ object.subscription.term_months }}</li>
+      <li>subscription_price: {{ subscription_price }}</li>
+      {% if shipping_charge %}<li>shipping_charge: {{ shipping_charge }}</li>{% endif %}
+      <li>total_price: {{ total_price }}</li>
+    </ul>
+  </div> {% endcomment %}
 
-      <button type="button" name="button" class="special">
-        Buy {{ page.title }}
-      </button>
-    </a>
-    <small>
-      ${{ object.price }}
-      {% if object.shipping_charge %}
-        {% if object.shipping_charge < 0.01 %}
-          &nbsp;Free Shipping
-        {% endif %}
-      {% endif %}
-    </small>
-    <hr />
+
+
+  <button type="submit" type="submit" href="javascript: submitform()" name="amount" value="{{ total_price }}" class="button button-list">{{ name }} - ${{ total_price }}</button>
+
 
   {% endfor %}
 

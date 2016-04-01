@@ -1,0 +1,29 @@
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal" id="paypal_form">
+
+{% comment %}  <input type="hidden" value="http://retroreport.org/?ACT=20" name="notify_url" />  {% endcomment %}
+<input type="hidden" value="http://retroreport.org/donate/thank-you/" name="return" />
+<input type="hidden" value="http://retroreport.org/donate/cancel/" name="cancel_return" />
+
+<input type="hidden" name="business" value="{{ site.paypal_email }}" />
+
+<input type="hidden" name="item_name" value="Donation" />
+<input type="hidden" name="item_number" value="1" />
+<!-- <input type="hidden" name="amount" value="100" /> -->
+
+<input type="hidden" name="add" value="1" />
+<input type="hidden" name="no_note" value="1" />
+
+<input type="hidden" name="no_shipping" value="2" />
+<input type="hidden" name="cmd" value="_donations">
+
+<!-- <button type="image" class="button" name="submit" border="0">Donate</button><br /> -->
+
+
+
+
+<button type="submit" type="submit" href="javascript: submitform()" name="amount" value="{{ total_price }}" class="button button-list">{{ name }} - ${{ total_price }}</button>
+
+
+
+
+</form>

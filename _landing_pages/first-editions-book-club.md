@@ -1,28 +1,21 @@
 ---
 title: First Editions Book Club
 published: true
-featured_image_path:
+featured_image_path: /uploads/book-swirl-1600.jpg
 featured_image_position: 50
-fancy_font:
+fancy_font: Pacifico
 description:
 include: buy-books.html
 subscriptions:
   - subscription:
-      name: '6 Month subscription'
+      name: 'Pick up at the store'
       term_months: 6
-      subscription_price: 25.99
+      subscription_price: 1.99
   - subscription:
-      name: '12 Month subscription'
+      name: 'Ship to your Door'
       term_months: 12
-      subscription_price: 24.99
-  - subscription:
-      name: 'Ongoing subscription'
-      term_months: 0
-      subscription_price: 22.99
-  - subscription:
-      name: 'Forever Test'
-      term_months: 3
-      subscription_price: 11.99
+      subscription_price: 1.99
+      shipping_charge: 7.00
 ---
 
 
