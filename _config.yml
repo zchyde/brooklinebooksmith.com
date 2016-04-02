@@ -19,7 +19,7 @@ bindings:
   - Paperback
   - Board Books
 
-// Paypal
+# Paypal
 paypal_email: operations@sonnetmedia.net
 duration_units:
   - D
@@ -32,7 +32,7 @@ duration:
   - 6
   - 9
   - 12
-  - 99  
+  - 99
 
 
 ## DO NOT EDIT BELOW THIS LINE
