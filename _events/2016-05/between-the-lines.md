@@ -1,11 +1,12 @@
 ---
-title: Between the Lines Book Club
+title: Between the Lines
 published: true
-start_at: 2016-04-26T16:30:00.000Z
+start_at: 2016-05-31T04:30:00.000Z
 image_path:
 book_category:
 program: between-the-lines-book-club
 ticketed: false
+test:
 book_isbn:
   -
 ---
@@ -13,10 +14,6 @@ book_isbn:
 
 Open to grades 5-8. Join us on the last Tuesday of every month 4:30-6pm to read and discuss a great book! Ask a kids' bookseller about this month's pick.
 
-**This month we are reading *The Graveyard Book&nbsp;*by Neil Gaiman**
+**This month we are reading *The Scandalous Sisterhood of Prickwillow Place*&nbsp;by Julie Berry**
 
-![](/uploads/versions/9780060530945---x----270-400x---.jpg)
-
-&nbsp;
-
-&nbsp;
+![](/uploads/versions/9781250073396---x----272-400x---.jpg)
