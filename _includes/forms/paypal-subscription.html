@@ -1,20 +1,35 @@
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal" id="paypal_form">
 
 {% comment %}  <input type="hidden" value="http://retroreport.org/?ACT=20" name="notify_url" />  {% endcomment %}
-<input type="hidden" value="http://retroreport.org/donate/thank-you/" name="return" />
-<input type="hidden" value="http://retroreport.org/donate/cancel/" name="cancel_return" />
-
+<input type="hidden" value="{{ site.url }}/thank-you/" name="return" />
+<input type="hidden" value="{{ site.url }}/cancel/" name="cancel_return" />
 <input type="hidden" name="business" value="{{ site.paypal_email }}" />
 
-<input type="hidden" name="item_name" value="Donation" />
-<input type="hidden" name="item_number" value="1" />
+
+
+
+<input type="hidden" name="item_name" value="{{ name }}" />
+<input type="hidden" name="item_number" value="febc_{{ forloop.index }}" />
 <!-- <input type="hidden" name="amount" value="100" /> -->
 
 <input type="hidden" name="add" value="1" />
 <input type="hidden" name="no_note" value="1" />
 
+
+
 <input type="hidden" name="no_shipping" value="2" />
-<input type="hidden" name="cmd" value="_donations">
+
+
+
+<input type="hidden" name="a3" value="{{ total_price }}">
+<input type="hidden" name="p3" value="{{ duration }}">
+<input type="hidden" name="t3" value="{{ duration_unit }}">
+<input type="hidden" name="src" value="1"> {% comment %}  subscription payments recur {% endcomment %}
+
+
+<input type="hidden" name="modify" value="1"> {% comment %} allows subscribers to sign up for new subscriptions and modify their current subscriptions {% endcomment %}
+
+
 
 <!-- <button type="image" class="button" name="submit" border="0">Donate</button><br /> -->
 

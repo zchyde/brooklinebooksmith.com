@@ -18,9 +18,21 @@ bindings:
   - Hardcover
   - Paperback
   - Board Books
+
+// Paypal
 paypal_email: operations@sonnetmedia.net
+duration_units:
+  - D
+  - W
+  - M
+  - Y
 
-
+duration:
+  - 3
+  - 6
+  - 9
+  - 12
+  - 99  
 
 
 ## DO NOT EDIT BELOW THIS LINE
@@ -61,13 +73,14 @@ fancy_fonts:
   - 'Fredericka+the+Great'
   - 'Cabin-sketch'
   - 'Lato'
+  - 'Pacifico'
 directory_assets_img: /static/images/
 twitter_id: budparr
 collections:
   campaigns:
     output: false
   first-edition-books:
-    output: true
+    output: false
   landing_pages:
     output: true
     permalink: '/:path/'

@@ -1,8 +1,10 @@
 ---
 title: The Waters of Eternal Youth
+published: true
 selection_date: 2016-04-01T00:00:00.000Z
 isbn: 9780802124807
 binding: Hardcover
+author: Donna Leon
 image_path: /uploads/9780802124807.jpg
 author: Donna Leon
 available_date: 2016-03-11T00:00:00.000Z

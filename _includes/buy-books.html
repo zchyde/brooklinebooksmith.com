@@ -1,5 +1,5 @@
 <style media="screen">
-  button {
+  form,  form button {
   display: inline-block;
   }
 </style>
@@ -11,6 +11,9 @@
   {% for object in subscriptions %}
 
     {% assign name = object.subscription.name %}
+    {% assign duration_unit = object.subscription.duration_unit %}
+    {% assign duration = object.subscription.duration %}
+
     {% assign subscription_price = object.subscription.subscription_price %}
     {% assign shipping_charge = object.subscription.shipping_charge %}
     {% capture total_price %}{{ subscription_price | plus: shipping_charge }} {% endcapture %}
@@ -29,10 +32,7 @@
     </ul>
   </div> {% endcomment %}
 
-
-
-  <button type="submit" type="submit" href="javascript: submitform()" name="amount" value="{{ total_price }}" class="button button-list">{{ name }} - ${{ total_price }}</button>
-
+{% include forms/paypal-subscription.html %}
 
   {% endfor %}
 
@@ -50,11 +50,18 @@
   {% for book in site.first-edition-books %}
 
 
-    <div class="" style="width:13em;">
+    <div class="" style="width:13em;float:left;margin-right:2em;">
+        {% if book.selection_date %}
+          <h5>{{ book.selection_date | date: '%B, %Y' }}</h5>
+        {% endif %}
       {% if book.image_path %}
         <img src="{{ book.image_path }}" alt="" style="max-width:13em;" /><br />
       {% endif %}
-      <h6>{{ book.title }}</h6>
+      {% if book.author %}
+        <h6>
+          {{ book.author }}
+        </h6>
+      {% endif %}
     </div>
 
 
