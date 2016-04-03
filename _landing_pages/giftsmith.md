@@ -39,6 +39,7 @@ The Giftsmith began in 1997 and has since grown from a small wall of greeting ca
 ![full-img](/uploads/versions/7---x----800-732x---.jpg)
 
 ## be local.
+
 ![full-img](/uploads/versions/2---x----800-800x---.jpg)
 
 ## trek.
@@ -54,3 +55,5 @@ The Giftsmith began in 1997 and has since grown from a small wall of greeting ca
 ![full-img](/uploads/versions/10---x----800-800x---.jpg)
 
 ## &nbsp;
+
+Photos by Gwendolyn Corkill 2016
