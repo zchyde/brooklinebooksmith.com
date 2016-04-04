@@ -8,7 +8,7 @@ featured_image_path: /16036957624_e2c1b964d3_b-compressor.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
   - lydia
 books:
@@ -25,6 +25,6 @@ As *The Atlantic*'s Dan Cohen [reported back in October](http://www.theatlantic.
 
 As the legal dispute draws to a close, what does this mean for readers (especially when the future of digital print looks [decidedly murky](http://www.readersfirst.org/news/2016/3/2/is-the-commercial-ebook-market-really-slowing-down)?) *The Atlantic* article goes into greater depth, but Cohen ruefully notes that,
 
-> A lawsuit can run on for so long that, even if major issues are still at stake, it can seem dated and even inconsequential by the time it’s resolved…&nbsp; So much has changed on the Internet, in libraries, and with books in the decade since the Authors Guild first filed suit. In 2005, Google was a relatively young search engine—it had only gone public the previous year—looking to expand its horizon beyond the web. Now Google is part of a conglomerate named Alphabet, and Google Books seems very much like an early, vestigial effort among Alphabet’s larger body of projects, which includes higher-profile ventures like self-driving cars.
+> A lawsuit can run on for so long that, even if major issues are still at stake, it can seem dated and even inconsequential by the time it’s resolved…  So much has changed on the Internet, in libraries, and with books in the decade since the Authors Guild first filed suit. In 2005, Google was a relatively young search engine—it had only gone public the previous year—looking to expand its horizon beyond the web. Now Google is part of a conglomerate named Alphabet, and Google Books seems very much like an early, vestigial effort among Alphabet’s larger body of projects, which includes higher-profile ventures like self-driving cars.
 
-For good or for bad, the digital preservation of vast tracts of literature at least means I, you, and the news team at&nbsp;[FiveThirtyEight](http://fivethirtyeight.com/features/our-favorite-examples-of-how-the-internet-talks-on-reddit/) can still spend hours on [Google Ngram](https://books.google.com/ngrams) studying quirky particular histories of the written word.
+For good or for bad, the digital preservation of vast tracts of literature at least means I, you, and the news team at [FiveThirtyEight](http://fivethirtyeight.com/features/our-favorite-examples-of-how-the-internet-talks-on-reddit/) can still spend hours on [Google Ngram](https://books.google.com/ngrams) studying quirky particular histories of the written word.
