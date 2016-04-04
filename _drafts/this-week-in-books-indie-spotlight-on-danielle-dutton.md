@@ -3,7 +3,7 @@ title: 'This Week in Books: Indie Spotlight on Danielle Dutton'
 published: false
 featured: false
 date: 2016-04-04T18:00:00.000Z
-description:
+description: 'On the indie publisher and author of the new novel, Margaret the First.'
 featured_image_path: /eyes.png
 featured_image_position: 75
 show_featured_image_in_post: false
@@ -29,7 +29,7 @@ Published by [Catapult](https://catapult.co/)
 
 —
 
-New York Times reviewer Katharine Grant [heralded Dutton](http://www.nytimes.com/2016/04/03/books/review/danielle-duttons-margaret-the-first.html) for "expertly [capturing] the pathos of a woman whose happiness is furrowed with the anxiety of &shy;underacknowledgment," and Michele Filgate drew the same parallel that I did re: her predecessor [last month for the LA Times](http://www.latimes.com/books/la-ca-jc-danielle-dutton-20160313-story.html):
+*New York Times* reviewer Katharine Grant [heralded Dutton](http://www.nytimes.com/2016/04/03/books/review/danielle-duttons-margaret-the-first.html) for "expertly [capturing] the pathos of a woman whose happiness is furrowed with the anxiety of &shy;underacknowledgment," and Michele Filgate drew the same parallel that I did re: her predecessor [last month for the LA Times](http://www.latimes.com/books/la-ca-jc-danielle-dutton-20160313-story.html):
 
 > [Virginia Woolf] was at the center of the Bloomsbury literary scene and began an independent publishing house out of her home with her husband, Leonard Woolf. The writer and publisher Danielle Dutton follows in Woolf's footsteps. After working at the independent Dalkey Archive Press, Dutton founded her own small press in 2010 with her husband, Martin Riker. Called Dorothy, a publishing project, it upends typical expectations and releases just two books a year, both in the fall. All, save one, have been by women.
 
@@ -43,7 +43,7 @@ Relative to its size, Dorothy is a giant in the publishing world, printing debut
 
 ![](/uploads/versions/9780989760751---x----314-400x---.jpg)
 
-*[Vertigo](http://www.brooklinebooksmith-shop.com/book/9780989760751)*by Joanna Walsh
+*[Vertigo](http://www.brooklinebooksmith-shop.com/book/9780989760751)&nbsp;*by Joanna Walsh
 
 Paperback, $16.00
 
