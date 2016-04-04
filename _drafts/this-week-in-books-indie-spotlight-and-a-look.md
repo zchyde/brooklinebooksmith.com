@@ -1,5 +1,5 @@
 ---
-title: 'This Week in Books: Indie Spotlight and A Look'
+title: 'This Week in Books: Indie Spotlight on Danielle Dutton'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
