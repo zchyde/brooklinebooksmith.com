@@ -2,14 +2,15 @@
 title: 'This Week in Books: Indie Spotlight on Danielle Dutton'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-04-04T18:00:00.000Z
 description:
 featured_image_path: /eyes.png
 featured_image_position: 75
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
+  - lydia
 books:
 ---
 
@@ -30,7 +31,7 @@ Published by [Catapult](https://catapult.co/)
 
 New York Times reviewer Katharine Grant [heralded Dutton](http://www.nytimes.com/2016/04/03/books/review/danielle-duttons-margaret-the-first.html) for "expertly [capturing] the pathos of a woman whose happiness is furrowed with the anxiety of &shy;underacknowledgment," and Michele Filgate drew the same parallel that I did re: her predecessor [last month for the LA Times](http://www.latimes.com/books/la-ca-jc-danielle-dutton-20160313-story.html):
 
-[Virginia Woolf] was at the center of the Bloomsbury literary scene and began an independent publishing house out of her home with her husband, Leonard Woolf. The writer and publisher Danielle Dutton follows in Woolf's footsteps. After working at the independent Dalkey Archive Press, Dutton founded her own small press in 2010 with her husband, Martin Riker. Called Dorothy, a publishing project, it upends typical expectations and releases just two books a year, both in the fall. All, save one, have been by women.
+> [Virginia Woolf] was at the center of the Bloomsbury literary scene and began an independent publishing house out of her home with her husband, Leonard Woolf. The writer and publisher Danielle Dutton follows in Woolf's footsteps. After working at the independent Dalkey Archive Press, Dutton founded her own small press in 2010 with her husband, Martin Riker. Called Dorothy, a publishing project, it upends typical expectations and releases just two books a year, both in the fall. All, save one, have been by women.
 
 And now we get to the crux of my Dutton obsession: her ground-breaking work as a publisher. In the years since first hearing her read, I've been following the release of gem after gem by [Dorothy, a publishing project](http://dorothyproject.com/books-gallery/):
 
