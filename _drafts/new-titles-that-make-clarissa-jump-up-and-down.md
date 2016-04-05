@@ -48,8 +48,8 @@ Robots, wildlife, adventure, illustrations (by Peter Brown of course!) and a WHO
 
 ---
 
-Kwame Alexander knocked us out with his Newbery Award winning novel [The Crossover](http://www.brooklinebooksmith-shop.com/book/9780544107717). Proving to be a master of the novel-in-verse, Alexander is back to take our breath away as we meet soccer star Nick Hall. So many kids are looking for books about sports. It is SUCH a pleasure to put Alexander's books in their hands and know that they are not only going to read a book on a topic they want, but they are going to read some incredible literature as well. Because Alexander is giving us so much more than a sports story. He is giving us diverse novels full of REAL LIFE. Not reality stretched a bit to make a good story, but a story that feels like you lived a day in someone else's shoes and you are a bigger person for it.
+Kwame Alexander knocked us out with his Newbery Award winning novel [The Crossover](http://www.brooklinebooksmith-shop.com/book/9780544107717). Proving to be a master of the novel-in-verse, Alexander is back to take our breath away as we meet soccer star Nick Hall. So many kids are looking for books about sports. It is SUCH a pleasure to put Alexander's books in their hands and know that they are not only going to read a book on a topic they want, but they are also going to read some incredible literature. Alexander is giving us so much more than a "sports story". He is giving us diverse novels full of REAL LIFE. Not reality stretched a bit to make a good story, but a story that feels like you lived a day in someone else's shoes and you are a bigger person for it.
 
 ---
 
-&nbsp;
+![](/uploads/versions/halflaost---x----263-400x---.jpg)[Half Lost (Half Bad Trilogy bk 3) by Sally Green](http://www.brooklinebooksmith-shop.com/book/9780670017140)
