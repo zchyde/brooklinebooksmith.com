@@ -1,10 +1,10 @@
 ---
 title: 'What Carl Might Read, Or, More To The Point, What His Cat Will Try To Lay On'
-published: false
+published: true
 featured: false
 date: 2016-04-05T11:00:00.000Z
 description: 'In which I briefly mention Mud Man, bumpkins, the candy jar at work (employees only!), skipping school to buy comics, and an embarrassing encounter with god.'
-featured_image_path: 'http://cdn.pastemagazine.com/www/articles/carpetmain.jpg'
+featured_image_path: /carpetsweepertales---x----1826-2144x----compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -21,7 +21,10 @@ I've been between book for about two weeks. I've quickly read a few graphic nove
 First up:
 {: .present-before-paste}
 
-[![](/uploads/versions/tdr_bookcover_theglacier_7f75025a-dbea-4cc3-80c1-83ff5400d103_grande---x----443-600x---.png)](http://www.brooklinebooksmith-shop.com/book/9781937512415)[![](/uploads/versions/tdr_bookcover_squarewave_grande---x----443-600x---.png)](http://www.brooklinebooksmith-shop.com/book/9781937512392)
+![](/uploads/versions/tdr_bookcover_theglacier_7f75025a-dbea-4cc3-80c1-83ff5400d103_grande-compressor---x----443-600x---.png)
+{: .present-before-paste}
+
+![](/uploads/versions/tdr_bookcover_squarewave_grande-compressor---x----443-600x---.png)
 {: .present-before-paste}
 
 [***The Glacier*** by Jeff Wood](http://www.brooklinebooksmith-shop.com/book/9781937512415) (Two Dollar Radio)
@@ -39,7 +42,7 @@ I've been on board with [Two Dollar Radio](http://twodollarradio.com) from jump 
 Likewise Mark De Silva's debut novel *Square Wave* looks equally captivating (though no mention of any mud men or women). In parts political espionage and dystopian environmentalism, *Square Wave* seems like one of those books that in a couple years everyone in the know will make me feel like a bit of a rube for not having read. I probably will end up reading this book but I fear at some point I'll be made to feel like a rube regardless. Most stunningly, my cat neither sniffed nor sat on nor remotely seemed interested in this book. Maybe *Square Wave*&nbsp;contains ideas so big they'd crush my cat's brain - or even worse, mine - into a diamond. What couple of rubes.
 {: .present-before-paste}
 
-[![](/uploads/versions/clinch_english---x----326-500x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781782271925)
+![](/uploads/versions/clinch_english-compressor---x----326-500x---.jpg)
 {: .present-before-paste}
 
 [***Clinch*** by Martin Holm&eacute;n](http://www.brooklinebooksmith-shop.com/book/9781782271925) (Pushkin Press)
@@ -48,7 +51,7 @@ Likewise Mark De Silva's debut novel *Square Wave* looks equally captivating (th
 While slated for a June release, (I managed to score an advance reading copy (The second best perk of working in a bookstore - the first being unlimited access to a candy jar))&nbsp;*Clinch* is set in a 1930's Stockholm teeming with salty, nefarious figures slogging through nightclubs and opulent hotels. Like any good Nordic mystery novel there's a murder and then someone inevitably tries to solve it with little to no razzle-dazzle. I don't know. The back cover does mention 'gritty violence' three times (!!!) and compares Holm&eacute;n to Raymond Chandler which is a guaranteed one way trip right up my alley. Will I end up reading this? Yeah… maybe. But let's not commit to anything just yet. This is all moving so fast for me.
 {: .present-before-paste}
 
-[![](/uploads/versions/carpetsweepertales---x----1826-2144x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781770462397)
+![](/uploads/versions/carpetsweepertales-compressor---x----1826-2144x---.jpg)
 {: .present-before-paste}
 
 [***Carpet Sweeper Tales&nbsp;***by Julie Doucet](http://www.brooklinebooksmith-shop.com/book/9781770462397) (Drawn & Quarterly)
