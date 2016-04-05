@@ -3,13 +3,14 @@ title: "Books That Make Clarissa's Heart Beat Faster"
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: 'A host of heart pounding new releases to add to your TBR list!'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - clarissa
 books:
 ---
 
@@ -52,4 +53,18 @@ Kwame Alexander knocked us out with his Newbery Award winning novel [The Crossov
 
 ---
 
-![](/uploads/versions/halflaost---x----263-400x---.jpg)[Half Lost (Half Bad Trilogy bk 3) by Sally Green](http://www.brooklinebooksmith-shop.com/book/9780670017140)
+Also on my list of heart-stoppers:
+
+![](/uploads/versions/halflaost---x----263-400x---.jpg)[&nbsp;Half Lost (Half Bad Trilogy bk 3) by Sally Green](http://www.brooklinebooksmith-shop.com/book/9780670017140)&nbsp;(Young Adult)
+
+---
+
+![](/uploads/versions/nameless-city---x----282-400x---.jpg)[The Nameless City by Faith Erin Hicks](http://www.brooklinebooksmith-shop.com/book/9781626721562) (Graphic Novel, Middle Grade)
+
+---
+
+![](/uploads/versions/riders---x----267-400x---.jpg)[Riders by Veronica Rossi](http://www.brooklinebooksmith-shop.com/book/9780765382542)(Young Adult)
+
+---
+
+&nbsp;
