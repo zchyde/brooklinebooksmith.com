@@ -3,7 +3,7 @@ title: The Best Words
 published: true
 featured: false
 date: 2016-04-06T14:00:00.000Z
-description: 'Spring is here, really?, Tuesday Nights in 1980, shallow reading,'
+description: 'Spring is here, really?, Tuesday Nights in 1980, shallow reading.'
 featured_image_path: /uploads/paulbanner-compressor.gif
 featured_image_position: 50
 show_featured_image_in_post: false
