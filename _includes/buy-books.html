@@ -1,3 +1,6 @@
+{% assign books = site.first-edition-books | sort: 'selection_date' 'last' | reverse %}
+{% assign book_latest = books[0] %}
+
 <style media="screen">
   form,  form button {
   display: inline-block;
@@ -11,12 +14,12 @@
   {% for object in subscriptions %}
 
     {% assign name = object.subscription.name %}
-    {% assign duration_unit = object.subscription.duration_unit %}
-    {% assign duration = object.subscription.duration %}
-
-    {% assign subscription_price = object.subscription.subscription_price %}
+    {% assign t3_duration_unit = object.subscription.t3_duration_unit %}
+    {% assign p3_duration = object.subscription.p3_duration %}
+    {% assign subscription_recurring_time = object.subscription.subscription_recurring_time %}
+    {% assign a3_subscription_price = object.subscription.a3_subscription_price %}
     {% assign shipping_charge = object.subscription.shipping_charge %}
-    {% capture total_price %}{{ subscription_price | plus: shipping_charge }} {% endcapture %}
+    {% capture total_price %}{% if shipping_charge %}{{ a3_subscription_price | plus: shipping_charge }}{% else %}{{ a3_subscription_price }}{% endif %}{% endcapture %}
 
 
 {% comment %}
@@ -36,9 +39,10 @@
 
   {% endfor %}
 
-
-
-
+<div class="row">
+  <h6>Subscription payments processed by</h6>
+<img src="https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png" alt="Subscribe now with PayPal" />
+</div>
 
 
 
@@ -46,8 +50,10 @@
 
 
 <div class="row">
+
+
   <h3>Selections</h3>
-  {% for book in site.first-edition-books %}
+  {% for book in books  %}
 
 
     <div class="" style="width:13em;float:left;margin-right:2em;">

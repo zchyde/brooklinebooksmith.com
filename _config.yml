@@ -20,19 +20,19 @@ bindings:
   - Board Books
 
 # Paypal
-paypal_email: operations@sonnetmedia.net
+paypal_email: budparr@sonnetmedia.net
 duration_units:
   - D
   - W
   - M
   - Y
 
-duration:
+subscription_recurring_times:
   - 3
   - 6
   - 9
   - 12
-  - 99
+  - 24
 
 
 ## DO NOT EDIT BELOW THIS LINE

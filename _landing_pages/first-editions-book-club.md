@@ -8,16 +8,18 @@ description:
 include: buy-books.html
 subscriptions:
   - subscription:
-      name: 'Pick up at the store'
-      duration_unit: M
-      duration: 99
-      subscription_price: 1.99
-      shipping_charge: 
+      name: 'First Editions Book Club'
+      t3_duration_unit: M
+      p3_duration: 1
+      subscription_recurring_time:
+      a3_subscription_price: 1.99
+      shipping_charge:
   - subscription:
-      name: 'Ship to your Door'
-      duration_unit: M
-      duration: 99
-      subscription_price: 1.99
+      name: 'First Editions Book Club: Ship to your Door'
+      t3_duration_unit: M
+      p3_duration: 1
+      subscription_recurring_time: 12
+      a3_subscription_price: 1.99
       shipping_charge: 7.00
 regenerate: true
 ---
