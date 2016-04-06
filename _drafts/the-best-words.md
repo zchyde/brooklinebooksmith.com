@@ -10,22 +10,23 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - paul
 books:
 ---
 
 
-[![](/uploads/versions/horse---x----931-1209x---.jpg)](http://www.vintagechildrensbooksmykidloves.com/2013/04/the-cat-who-wore-pot-on-her-head.html)[This](http://www.biancoshock.com/borderlife.html),and then&nbsp;[this](http://www.thisiscolossal.com/2016/04/a-rocking-chair-that-knits-you-a-hat-as-you-read-the-paper/).
+[![](/uploads/versions/horse---x----931-1209x---.jpg)](http://www.vintagechildrensbooksmykidloves.com/2013/04/the-cat-who-wore-pot-on-her-head.html)[This](http://www.biancoshock.com/borderlife.html), and then&nbsp;[this](http://www.thisiscolossal.com/2016/04/a-rocking-chair-that-knits-you-a-hat-as-you-read-the-paper/).
 <br>
 <br>I'm a poor reader.&nbsp;
 <br>Oh, I know all the best words, believe me.&nbsp;
 <br>Check me out: traipse, zephyr, antagonistic,&nbsp;
 <br>pneumonoultramicroscopicsilicovolcanoconiosis.
 <br>Shallots.&nbsp;
-<br>Yup, word by word, I can comprehend with the best. No, my problem is that once the whole parade has passed by, I don't exactly recall what happened, in what order, and to whom. What I do recall is the sensation of it all. Reading the Harry Potter series with my son and wife was a long, humbling journey, as I nearly drowned in the wave of their total recall and withering scorn when they found that Dad had forgotten that Dimley Gorse-weft was the third Modern Unicorn Studies professer, not the fifth. I enjoyed the avalanche of plot...but they actually remembered it.&nbsp;
+<br>Yup, word by word, I can comprehend with the best. No, my problem is that once the whole parade has passed by, I don't exactly recall what happened, in what order, and to whom. What I do recall is the sensation of it all. Reading the Harry Potter series with my son and wife was a long, humbling journey, as I nearly drowned in the wave of their total recall and withering scorn when they found that Dad had forgotten that Dimley Gorse-weft was the third Modern Unicorn Studies professer, not the fifth. I enjoyed the avalanche of plot…but they actually remembered it.&nbsp;
 <br>
 <br>The point of all of this is that there is a debut novel that comes out this week which has stayed with me for many weeks since I read an advance copy.&nbsp;[Molly Prentiss](http://www.theguardian.com/books/2016/apr/04/tuesday-nights-in-1980-molly-prentiss-review)'&nbsp;*[Tuesday Nights in 1980](https://ui.constantcontact.com/rnavmap/emcf/email/view?flow=view&amp;agent.uid=1124307781282)*&nbsp;appealed to me as a flawed artist searching for my true mode of expression, forever at the crossroads of creative passion and adult responsibility. Set in New York City at the moment when the art scene was exploding out of the squats and the streets and onto the walls of the galleries and the high-end collectors, Prentiss explores art and love through the incendiary potential of a young immigrant artist burning every bridge behind him, and the falling star of a synesthetic art critic whose gift abandons him at a critical moment, rendering him incapable of experiencing art the way he once did. And while those are the few facts that I can reliably recall, I remember feeling thrilled and challenged by the novel. I cringed, I made a lot of art while I read it. That's all I've got. It's a great read.
 <br>
-<br>Now,that's my recommendation for the week, but check out what my compatriots are pushing - we've put up a brand new staff recommends shelf at the front of the store...right next to the shelves of chocolate. It's called "merchandising", folks. We've mastered the&nbsp;[art of bookselling](http://www.thebookseller.com/blogs/do-bookshops-have-shelf-life-325580).
+<br>Now,that's my recommendation for the week, but check out what my compatriots are pushing - we've put up a brand new staff recommends shelf at the front of the store…right next to the shelves of chocolate. It's called "merchandising", folks. We've mastered the&nbsp;[art of bookselling](http://www.thebookseller.com/blogs/do-bookshops-have-shelf-life-325580).
 <br>
 <br>You know who doesn't mind a winter storm in early Spring? Your kids who out there slipping downhill on their sleds. You know who doesn't notice that&nbsp;[this book](http://www.junketdesserts.com/flibbityjibbit.aspx)&nbsp;has a bite mark, a busted corner and taped up pages? The small one snuggled up next to you at bedtime. You know who won't eat her dinner unless the rice, peas and chicken each have their own bowl?&nbsp;
 <br>She's smiling at you right here.
