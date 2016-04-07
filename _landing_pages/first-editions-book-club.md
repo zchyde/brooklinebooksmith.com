@@ -12,7 +12,7 @@ subscriptions:
       t3_duration_unit: M
       p3_duration: 1
       subscription_recurring_time:
-      a3_subscription_price: 1.99
+      a3_subscription_price: .99
       shipping_charge:
   - subscription:
       name: 'First Editions Book Club: Ship to your Door'
