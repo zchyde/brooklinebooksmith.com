@@ -17,7 +17,7 @@ books:
 
 There is an amazing moment as a bookseller when those new titles that you have been waiting and waiting and waiting for FINALLY come out of the box and hit the shelf. The next challenge is to put those new books into as many customers hands as possible! A challenge a bookseller will rise to with gusto.
 
-So.
+So.&nbsp;
 
 Without further ado, here are some of the latest titles that make my heart go thump thump thump.
 
