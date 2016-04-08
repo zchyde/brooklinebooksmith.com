@@ -1,5 +1,5 @@
 ---
-title: '*Cynthia Levinson* **Hillary Rodham Clinton: Do All the Good You Can **'
+title: '*Cynthia Levinson* **Hillary Rodham Clinton: Do All the Good You Can**'
 published: true
 start_at: 2016-05-01T04:00:00.000Z
 image_path:
