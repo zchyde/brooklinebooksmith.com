@@ -33,7 +33,7 @@ currently reading&nbsp;[Forty Rooms](http://www.brooklinebooksmith-shop.com/book
 
 currently listening to&nbsp;[Laura Gibson](https://www.youtube.com/watch?v=jZQS_o1eT7Y), what a fantastic songwriter.
 
-[email me](paul@brooklinebooksmith.com)&nbsp;if you'd like to make this a conversation.
+[email me](javascript:void(location.href='mailto:'+String.fromCharCode(112,97,117,108,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)))&nbsp;if you'd like to make this a conversation.
 
 unless you're tired of me? in that case, my fellow booksellers are over at&nbsp;[brooklinebooksmith.com/blog](http://www.brooklinebooksmith.com/blog/).
 
