@@ -15,13 +15,15 @@ deploy:
   provider: gcs
   access_key_id: GOOGZOZD2KM62E4KE7P4
   secret_access_key:
-    secure:
+    secure: 
   bucket: www.brooklinebooksmith.com
   acl: public-read
-  detect_encoding: true # <== default is false
-  cache_control: "no-cache"
+  detect_encoding: true
+  cache_control: no-cache
   local-dir: _site
   skip_cleanup: true
   on:
     repo: sonnetmedia/brooklinebooksmith.com
     branch: gh-pages
+  108dababd6efe5aed6bc056d76b535e34149b61f:
+    secure: bsfSxbiae2EJEGVRN8nC28jhMBbYLj6OUz1NyBu80YYkMeEgirrcY2O5n+r7y6xA4ZzhEgqz/O6by1y8pLFRj6I27d3/guykplY5LGwWnbK+NNC9Obpgr2a0zDu+onKdKOQOkGXRL1HVRqIT0OU5w28MpH5pdQ3NFaJlhySXlkqq0wSkuc6EAuMLaQSQAapLWSb2bANGCnan4UOuX0EhmgsmYE/rLl7qKzbR5TRNQzs5afyZO951iPDE4QgK+m90oFQxV73qtYYkQ6Sa4bRk9tA0LXuCMGRc5cT4XopF2UkrM9Zc/FLVSpXFdMUPU0JbEiUWmXv5W5RFAimZPCWCdTYXn1aD7mmbGM4HXy7uOMGpSmSfaQCuLmBz1FwNw0Ct5VuafjL9omD6ebOXozhWk3BaqvF1/A2fQprKfR2jcojxYR+JpygQUyAEWpgT9NiOh2yppQqGg7nvS+ro9EVusST44nEWzZkjv9MnoH1fDnJeqIfSCew1RrVSOyG9cMeLH5CPXJRoFpdghwB0dRH8vSG4IIxxd8gl2UQbAwqaln6dfA8TGpNAnZAGbWavvhuAGYPGnuV6G39Cf3JmArvOuGp0/16fLpgjKqeYzVmDbAWxFscEw0nm3kOaTsm6HXSe/7bGjOuN7b6m9wutGd58ZDQ33yrVnxe8V9zcNlNViJw=
