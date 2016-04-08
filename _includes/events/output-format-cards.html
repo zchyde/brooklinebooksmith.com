@@ -1,5 +1,4 @@
 {% assign related_books_isbn = event.book_isbn %}
-
 <div class="card event" id="event-{{count}}">
   <div class="card-header">
     <div class="flagged">
@@ -43,7 +42,7 @@
     {% endcomment %}
     {% if event.image_path and event.image_path !='' %}
       <div class="" style="float:left:margin-right:1em;">
-        <img class="image-small" src="{{ event.image_path }}" alt="{{ event.title }} image" />
+        <img class="image-small" src="{{ event.image_path }}" alt="{{ event_title }} image" />
       </div>
     {% endif %}
     {% if related_books_isbn !='' and related_books_isbn.size > 0 %}

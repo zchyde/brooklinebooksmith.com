@@ -16,7 +16,7 @@
     {% else %}{{ d }}th
     {% endcase %} {{ page.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
   {% endcapture %}
-
+{% capture event_title %}{{ page.title }}{% endcapture %}
 {% assign related_books_isbn = page.book_isbn %}
 <div class="card event" id="event-{{count}}">
   <div class="card-header">
@@ -48,7 +48,7 @@
     {% endif %}
     {% if page.title  %}
       <h3 class="event_title">
-        <a href="{{ page.url }}">{{ event_title }}</a>
+        <a href="{{ page.url }}" title="{{ event_title | markdownify | strip_html }}" >{{ event_title | markdownify }}</a>
       </h3>
     {% endif %}
   </div>
@@ -61,7 +61,7 @@
     {% endcomment %}
     {% if page.image_path and page.image_path !='' %}
       <div class="" style="float:left:margin-right:1em;">
-        <img class="image-small" src="{{ page.image_path }}" alt="{{ page.title }} image" />
+        <img class="image-small" src="{{ page.image_path }}" alt="{{ event_title | markdownify | strip_html | escape }} image" />
       </div>
     {% endif %}
     {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
@@ -73,11 +73,11 @@
             {% for book in related_books %}
               {% if book.image_path %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}" />
+                  <img class="image-cover-small" src="{{ book.image_path }}" alt="Book cover image_path{{ the_isbn }}" />
                 </a>
               {% elsif book.isbn %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn" />
+                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="Book Cover {{ the_isbn }} image_cdn" />
                 </a>
               {% endif %}
             {% endfor %}
