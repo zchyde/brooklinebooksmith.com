@@ -14,7 +14,7 @@ books:
 ---
 
 
-An open letter addressed to the [PEN American Center](https://www.pen.org/) in March sparked controversy when it was released to the public last week. The letter, which was signed by more than a hundred authors, criticized the organization for accepting sponsorship from the Israeli government. PEN-AC responded in an email to its members that refers to its policy of non-participation in cultural boycotts.
+An open letter addressed to the [PEN American Center](https://www.pen.org/) in March sparked controversy after its release to the public last week. The letter, which was signed by more than a hundred writers, criticized the organization for accepting sponsorship from the Israeli government. PEN-AC responded in an email that it does not participate in cultural boycotts.
 
 PEN, originally an acronym for "Poets, Essayists, Novelists," now extends to "Poets, Playwrights, Editors, Essayists, Novelists," and includes writers of any form of literature, such as journalists and historians. It is the world's oldest human rights organization and the oldest international literary organization. The open letter released Wednesday addresses the foundation's American branch, specifically the funding of its annual [World Voices Festival](http://worldvoices.pen.org/), and potentially puts the PEN-AC at odds with its international counterparts. As [reported in the Guardian](http://www.theguardian.com/books/2016/apr/06/israeli-backing-for-new-york-festival-rejected-in-angry-letter-by-authors):
 
