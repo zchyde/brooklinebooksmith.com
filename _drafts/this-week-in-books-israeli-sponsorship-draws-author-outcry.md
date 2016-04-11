@@ -1,5 +1,5 @@
 ---
-title: 'This Week in Books: Israeli Sponsorship Draws Author OUtcry'
+title: 'This Week in Books: Israeli Sponsorship Draws Author Outcry'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
