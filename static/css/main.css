@@ -2031,6 +2031,9 @@ header.navigation {
           box-sizing: border-box;
           display: block; } }
 
+.snipcart-checkout-container {
+  z-index: 1000000 !important; }
+
 h1 {
   font-size: 3.05176em; }
 

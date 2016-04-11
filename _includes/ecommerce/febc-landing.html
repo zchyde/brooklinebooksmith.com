@@ -1,0 +1,12 @@
+{% assign books = site.first-edition-books | sort: 'selection_date' 'last' | reverse %}
+{% assign book_latest = books[0] %}
+{% assign subscriptions = page.subscriptions %}
+<div class="row">
+  {% for object in subscriptions %}
+
+  {% endfor %}
+</div>
+<div class="row">
+  <h3>Selections</h3>
+ {% include ecommerce/febc-books.html %}
+</div>

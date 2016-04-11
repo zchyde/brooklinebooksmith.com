@@ -31,9 +31,14 @@
    {% endcomment %}
 
 
-        {% if page.include == 'buy-books.html' %}
-           {% include buy-books.html %}
-        {% endif %}
+  {% if page.include == 'ecommerce/febc-landing.html' %}
+     {% include ecommerce/febc-landing.html %}
+  {% endif %}
+
+
+  {% if page.include == 'ecommerce/febc-landing-snipcart.html' %}
+     {% include ecommerce/febc-landing-snipcart.html %}
+  {% endif %}
 
 
   {% if page.include == 'events/list-future.html' %}

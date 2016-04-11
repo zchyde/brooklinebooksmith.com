@@ -5,7 +5,7 @@ featured_image_path: /uploads/book-swirl-1600.jpg
 featured_image_position: 50
 fancy_font: Pacifico
 description:
-include: ecommerce/febc-landing.html
+include: ecommerce/febc-landing-snipcart.html
 subscriptions:
   - subscription:
       name: 'First Editions Book Club'

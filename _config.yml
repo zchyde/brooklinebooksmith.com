@@ -21,11 +21,11 @@ bindings:
 
 # Paypal
 paypal_email: budparr@sonnetmedia.net
-duration_units:
-  - D
-  - W
-  - M
-  - Y
+intervals:
+  - Day
+  - Week
+  - Month
+  - Year
 
 subscription_recurring_times:
   - 3
@@ -81,6 +81,7 @@ collections:
     output: false
   first-edition-books:
     output: false
+    commerce: 'subscription'
   landing_pages:
     output: true
     permalink: '/:path/'
