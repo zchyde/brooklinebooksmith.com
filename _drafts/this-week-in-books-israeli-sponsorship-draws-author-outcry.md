@@ -14,3 +14,6 @@ books:
 ---
 
 
+An open letter addressed to the PEN American Center in March sparked controversy when it was released to the public last week. The letter, which was signed by more than a hundred authors, criticized the organization for accepting sponsorship from the Israeli government. PEN responded in an email to its members that refers to its policy of non-participation in cultural boycotts.
+
+The letter, which was signed by
