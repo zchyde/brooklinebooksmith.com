@@ -2,7 +2,7 @@
 title: '**Julian Barnes**  *The Noise of Time*'
 published: true
 start_at: 2016-05-26T18:00:00.000Z
-image_path:
+image_path: /uploads/julian-barnes-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: true
