@@ -55,16 +55,3 @@ data-plan-amount: {{ data-plan-amount }} <br />
       ({{ subscription_price }} + {{ shipping_charge }} shipping)
     {% endif %}
 </small>
-
-
-{% if shipping_charge %}
-
-<button style="display:none"
-  class="snipcart-add-item"
-  data-item-id="{{ data-plan-id }}_shipping"
-  data-item-name="{{ data-plan-name }}_shipping"
-  data-item-url="{{ data-plan-url }}"
-  data-item-amount="0" />
-</button>
-
-{% endif %}

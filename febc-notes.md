@@ -24,7 +24,9 @@ need: to have gift subscription for a limited basis.
 
 snipcart:
 "At the moment the subscription will last one year max. There is no way to change it as of now. I added it to our backlog."
-doesn't have shipping, but has a workaround
+doesn't have shipping, but has a workaround:
+http://docs.snipcart.com/javascript-api-reference/public-methods#item-add
+
 doesn't have limited times - check on this?
 
 paypal:
