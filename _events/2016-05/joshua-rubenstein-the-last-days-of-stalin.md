@@ -2,7 +2,7 @@
 title: '**Joshua Rubenstein**  *The Last Days of Stalin*'
 published: true
 start_at: 2016-05-25T19:00:00.000Z
-image_path:
+image_path: /uploads/joshua-rubenstein-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
