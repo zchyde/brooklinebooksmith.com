@@ -2,7 +2,7 @@
 title: '**Ace Atkins**  *Robert B. Parker’s Slow Burn*'
 published: true
 start_at: 2016-05-05T19:00:00.000Z
-image_path:
+image_path: /uploads/ace atkins.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
