@@ -8,7 +8,6 @@
     $(document).ready(function () {
       $('#shipping-plan').on('click', function() {
         Snipcart.execute('item.add', {
-          // Required properties
           id: 'shipping-plan',
           name: 'First Edition Book Club Delivery',
           url: 'http://www.brooklinebooksmith.com/first-editions-book-club-snipcart/',
@@ -16,10 +15,6 @@
           quantity: 1,
           shippable: true
         });
-
-        console.log("good job");
-
-
     });
   });
 
