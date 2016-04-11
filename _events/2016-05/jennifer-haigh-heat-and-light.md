@@ -2,7 +2,7 @@
 title: '**Jennifer Haigh** *Heat and Light*'
 published: true
 start_at: 2016-05-02T07:00:00.000Z
-image_path:
+image_path: /uploads/jenniferhaigh-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
