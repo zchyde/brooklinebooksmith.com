@@ -22,7 +22,7 @@ PEN, originally an acronym for "Poets, Essayists, Novelists," now extends to wri
 
 Protestors allege that PEN-AC's acceptance of funding from Israel ([festival programming](http://worldvoices.pen.org/2016-world-voices-supporters) credits the country's embassy as a "champion" level sponsor) aligns the literary institution with the Israeli government - a body whose record on artistic liberty and free speech is disputed by the letter's authors:
 
-> It is deeply regrettable that the festival has chosen to accept sponsorship from the Israeli government, even as it intensifies its decades-long denial of basic rights to the Palestinian people, including the frequent targeting of Palestinian writers and journalists.
+> "Given PEN American Center’s mission of supporting freedom of expression, it is deeply regrettable that the festival has chosen to accept sponsorship from the Israeli government, even as it intensifies its decades-long denial of basic rights to the Palestinian people, including the frequent targeting of Palestinian writers and journalists."
 
 Author Colm T&oacute;ib&iacute;n, who is chairing the 2016 World Voices Festival, and Jakab Orsos, PEN AC's director, responded to allegations in an email to PEN members. Orsos and T&oacute;ib&iacute;n state that their organization does not participate in “cultural boycotts of any kind – which impede individual free expression – no matter the cause”. They refer to [PEN-AC's formal policy](http://www.pen.org/press-release/2007/06/22/pen-american-center-urges-rejection-academic-boycotts):
 
