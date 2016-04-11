@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-04-12T13:00:00.000Z
 description: An American literary foundation faces criticism for accepting Israeli government funding.
-featured_image_path:
+featured_image_path: /22191195460_65e9448e64_b.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
