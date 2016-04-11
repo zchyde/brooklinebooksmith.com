@@ -2,7 +2,7 @@
 title: '**Daniel Palmer** *Forgive Me* **Matthew Palmer** *The Wolf of Sarajevo*'
 published: true
 start_at: 2016-05-31T19:00:00.000Z
-image_path:
+image_path: /uploads/palmers.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
