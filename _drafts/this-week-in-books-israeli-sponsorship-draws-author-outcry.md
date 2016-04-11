@@ -3,7 +3,7 @@ title: 'This Week in Books: Israeli Sponsorship Draws Author Outcry'
 published: false
 featured: false
 date: 2016-04-12T13:00:00.000Z
-description:
+description: An American literary foundation faces criticism for accepting Israeli government funding.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -24,16 +24,10 @@ Protestors allege that PEN-AC's acceptance of funding from Israel ([festival pro
 
 > "Given PEN American Center’s mission of supporting freedom of expression, it is deeply regrettable that the festival has chosen to accept sponsorship from the Israeli government, even as it intensifies its decades-long denial of basic rights to the Palestinian people, including the frequent targeting of Palestinian writers and journalists."
 
-Author Colm T&oacute;ib&iacute;n, chairperson of the 2016 World Voices Festival, and Jakab Orsos, PEN-AC's director, responded to the allegations in an email to members. Orsos and T&oacute;ib&iacute;n state that their organization does not participate in “cultural boycotts of any kind – which impede individual free expression – no matter the cause”. They refer to [PEN-AC's formal policy](http://www.pen.org/press-release/2007/06/22/pen-american-center-urges-rejection-academic-boycotts):
+Author Colm Tóibín, chairperson of the 2016 World Voices Festival, and Jakab Orsos, PEN-AC's director, responded to the allegations in an email to members. Orsos and Tóibín state that their organization does not participate in “cultural boycotts of any kind – which impede individual free expression – no matter the cause”. They refer to [PEN-AC's formal policy](http://www.pen.org/press-release/2007/06/22/pen-american-center-urges-rejection-academic-boycotts):
 
-> PEN... believes that literature, works of art, and ideas must remain common currency among people despite political or international upheavals, and that political and national passions should not prevent or interrupt intellectual and cultural exchange...
+> PEN… believes that literature, works of art, and ideas must remain common currency among people despite political or international upheavals, and that political and national passions should not prevent or interrupt intellectual and cultural exchange…
 > <br>
-> <br>We believe that such boycotts threaten the free expression rights not only of those associated with the boycotted institutions but also of those in the countries where the boycott is practiced, and that the universally guaranteed right of all to seek, receive, and impart information and ideas... includes the right to engage in direct, face-to-face discussions, debates, challenges, and collaborations.
+> <br>We believe that such boycotts threaten the free expression rights not only of those associated with the boycotted institutions but also of those in the countries where the boycott is practiced, and that the universally guaranteed right of all to seek, receive, and impart information and ideas… includes the right to engage in direct, face-to-face discussions, debates, challenges, and collaborations.
 
-The controversy comes a year after PEN-AC awarded the 2015 Freedom of Expression Courage Award to the cartoonists of French magazine Charlie Hebdo, drawing [criticism from a number of authors](the 2015 Toni and James C. Goodale Freedom of Expression Courage Award). Signatories of the recent letter include prominent literary figures Alice Walker, Angela Davis, and Junot D&iacute;az. The full list of dissenters, along with the letter in its entirety, can be read [here](https://adalahny.org/web-action/1376/letter-pen-american-center-don-t-partner-israeli-government).
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+The controversy comes a year after PEN-AC awarded the 2015 Freedom of Expression Courage Award to the cartoonists of French magazine Charlie Hebdo, drawing [criticism from a number of authors](the 2015 Toni and James C. Goodale Freedom of Expression Courage Award). Signatories of the recent letter include prominent literary figures Alice Walker, Angela Davis, and Junot Díaz. The full list of dissenters, along with the letter in its entirety, can be read [here](https://adalahny.org/web-action/1376/letter-pen-american-center-don-t-partner-israeli-government).
