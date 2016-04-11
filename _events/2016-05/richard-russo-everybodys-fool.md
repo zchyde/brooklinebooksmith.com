@@ -2,7 +2,7 @@
 title: '**Richard Russo**  *Everybody’s Fool*'
 published: true
 start_at: 2016-05-04T19:00:00.000Z
-image_path:
+image_path: /uploads/richardrusso-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
