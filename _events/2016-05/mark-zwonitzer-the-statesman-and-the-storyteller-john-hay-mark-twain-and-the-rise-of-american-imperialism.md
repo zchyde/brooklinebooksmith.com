@@ -2,7 +2,7 @@
 title: '**Mark Zwonitzer**  *The Statesman and the Storyteller: John Hay, Mark Twain, and the Rise of American Imperialism*'
 published: true
 start_at: 2016-05-12T19:00:00.000Z
-image_path:
+image_path: /uploads/mark-zwonitzer-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
