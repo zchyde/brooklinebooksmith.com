@@ -1,8 +1,8 @@
 ---
 title: Breakwater Reading
-published: false
-start_at: 2016-01-15T09:00:00.000Z
-image_path:
+published: true
+start_at: 2016-05-27T19:00:00.000Z
+image_path: /uploads/breakwater.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
@@ -11,3 +11,5 @@ book_isbn:
   -
 ---
 
+
+Join us for a night of new stories, essays, and poems by MFA candidates from Emerson, BU, and UMass Boston. Fore more information, please visit breakwaterreadingseries.wordpress.com
