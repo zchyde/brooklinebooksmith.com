@@ -2,7 +2,7 @@
 title: '**Simon Sebag Montefiore**  *The Romanovs: 1613-1918*'
 published: true
 start_at: 2016-05-06T19:00:00.000Z
-image_path:
+image_path: /uploads/simon-sebag-montefiore-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
