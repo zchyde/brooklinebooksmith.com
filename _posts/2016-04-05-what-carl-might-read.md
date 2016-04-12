@@ -15,7 +15,7 @@ books:
 ---
 
 
-I've been between book for about two weeks. I've quickly read a few graphic novels which I liked but not enough to convincingly recommend to a stranger. I've thumbed through a few mysteries; flipped through a short story collection all to no avail. I watched a bunch of stuff on Netflix and spent nearly a full day researching which leather recliner to buy. Oh and I had a blog post to finish. Under the influence of a flexible deadline I emptied my bookcases and culled a handful of books that I'd hoped would end this misery. I won't go into how these books were culled but lets just say that it may or may not have revolved around having my [cat](https://www.instagram.com/p/BCJ4AAwObWn/) sniff and then lay on each one. Let's get started, shall we?
+I've been between books for about two weeks. I've quickly read a few graphic novels which I liked but not enough to convincingly recommend to a stranger. I've thumbed through a few mysteries; flipped through a short story collection all to no avail. I watched a bunch of stuff on Netflix and spent nearly a full day researching which leather recliner to buy. Oh and I had a blog post to finish. Under the influence of a flexible deadline I emptied my bookcases and culled a handful of books that I'd hoped would end this misery. I won't go into how these books were culled but let's just say that it may or may not have revolved around having my [cat](https://www.instagram.com/p/BCJ4AAwObWn/) sniff and then lay on each one. Let's get started, shall we?
 {: .present-before-paste}
 
 First up:
