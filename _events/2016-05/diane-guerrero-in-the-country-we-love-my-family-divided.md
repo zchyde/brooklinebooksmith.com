@@ -1,7 +1,7 @@
 ---
 title: '**Diane Guerrero**  *In the Country We Love: My Family Divided*'
 published: true
-start_at: 2016-05-03T07:00:00.000Z
+start_at: 2016-05-03T19:00:00.000Z
 image_path: /uploads/dianeguerrero.jpg
 book_category:
 program: '-writers-and-readers'
