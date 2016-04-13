@@ -1,13 +1,17 @@
 ---
 title: Book Club
-published: false
-start_at: 2016-01-15T09:00:00.000Z
+published: true
+start_at: 2016-05-09T19:30:00.000Z
 image_path:
 book_category:
-program: '-writers-and-readers'
+program: book-club
 ticketed: false
 test:
 book_isbn:
   -
 ---
 
+
+The Brookline Booksmith Book Club meets the second Monday of every month, at 7:30 pm downstairs in our Writers and Readers Room. No need to sign up, just show up. To contact our moderator, email bookclub@brooklinebooksmith.com
+
+**This month, we will be reading and discussing&nbsp;*The Sympathize* by Viet Nguyen**
