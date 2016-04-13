@@ -10,7 +10,7 @@
 <h5>{{ name }}</h5>
 <h6>${{ a3_subscription_price | remove: '.' | remove: '0' }} per month, or ${{ total_price | remove: '.' | remove: '0' }} delivered</h6>
 <p>
-	<small>Choose your options, then hit "subscribe" to be taken to Paypal to check out. <br />You can cancel at any time, by clicking <a href="/first-editions-book-club-cancelation/">Here</a>.</small>
+	<small>Choose your options, then hit "subscribe" to be taken to Paypal for check out.</small>
 </p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal" id="paypal_form_{{ forloop.index }}">
 
@@ -109,7 +109,7 @@ https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-g
   	</label>
 	 <label>
   		<input type="radio" name="a3" value="{{ a3_subscription_price }}">
-  		<span class="button-group-item">Pick up at the Store (Save ${{ shipping_charge }}/mo)</span>
+  		<span class="button-group-item">Pick up at the Store (Save ${{ shipping_charge | remove: '.' | remove: '0'  }}/mo)</span>
   	</label>
  </div>
 
@@ -140,3 +140,6 @@ Subscribe
 
 
 </form>
+<p style="margin-top:2em;">
+	<small>You can cancel at any time, by clicking <a href="/first-editions-book-club-cancelation/">here</a>.</small>
+</p>
