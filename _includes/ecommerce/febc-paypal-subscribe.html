@@ -35,7 +35,9 @@
 <input type="hidden" name="no_note" value="1" />
 
 {% comment %} Require an address {% endcomment %}
-<input type="hidden" name="no_shipping" value="2" />
+
+
+<input type="hidden" name="no_shipping" value="2" id="shipping_charge" />
 
 
 {% comment %} Recurring Payments variables https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/#id08A6HI00JQU
@@ -71,17 +73,6 @@ https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-g
  {% endcomment %}
 
 
-
-
-{% comment %}
-<input type="hidden" name="on0" value="Shipping or Pickup">Pick a term
-<select name="srt">
-	<option value="">Until Canceled</option>
-	<option value="3">3 months</option>
-	<option value="6">6 months</option>
-	<option value="12">12 months</option>
-</select>
- {% endcomment %}
  <div class="button-group">
    <label>
      <input type="radio" name="srt" value="" checked>
@@ -104,19 +95,16 @@ https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-g
 <br />
  <div class="button-group">
 	 <label>
-  		<input type="radio" name="a3" value="{{ total_price }}" checked>
+  		<input type="radio" name="a3" value="{{ total_price }}" id="ship" checked>
   		<span class="button-group-item">Ship to your Door</span>
   	</label>
 	 <label>
-  		<input type="radio" name="a3" value="{{ a3_subscription_price }}">
+  		<input type="radio" name="a3" value="{{ a3_subscription_price }}" id="pick-up">
   		<span class="button-group-item">Pick up at the Store (Save ${{ shipping_charge | remove: '.' | remove: '0'  }}/mo)</span>
   	</label>
  </div>
 
 <br />
-
-
-
 
 
 {% comment %} allows subscribers to sign up for new subscriptions and modify their current subscriptions {% endcomment %}
