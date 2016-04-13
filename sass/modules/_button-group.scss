@@ -4,7 +4,7 @@
   $button-group-color: lighten($base-font-color, 30%);
   $button-group-border: 1px solid silver;
   $button-group-inner-border: 1px solid lighten(silver, 18%);
-  $button-group-background-checked: $blue-lighter;//$action-color;
+  $button-group-background-checked: #777;//$blue-lighter;//$action-color;
   $button-group-color-checked: white;
   $button-group-border-checked: darken($button-group-background-checked, 15%);
 
