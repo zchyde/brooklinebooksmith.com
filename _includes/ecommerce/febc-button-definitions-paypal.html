@@ -1,0 +1,28 @@
+<h6>Name</h6>
+{% assign name = object.subscription.name %}
+{{ name }}
+
+<h6>data-plan-interval</h6>
+<small>The interval of the recurring payments. Possible values are Day, Week, Month or Year</small><br />
+{% assign t3_duration_unit = object.subscription.t3_duration_unit %}
+{{ t3_duration_unit }}
+
+
+<h6>data-plan-interval-count</h6>
+<small>If you want a plan where recurring payments will occur each 2 weeks, you could set it to 2 and set data-plan-interval to Week</small><br />
+{% assign p3_duration = object.subscription.p3_duration | default: '1' %}
+{{ p3_duration }}
+
+<h6>subscription_recurring_time</h6>
+{% assign subscription_recurring_time = object.subscription.subscription_recurring_time  %}
+{{ subscription_recurring_time }}
+
+
+
+<h6>data-plan-amount</h6>
+{% assign a3_subscription_price = object.subscription.a3_subscription_price %}
+{% assign shipping_charge = object.subscription.shipping_charge %}
+{% capture total_price %}{% if shipping_charge %}{{ a3_subscription_price | plus: shipping_charge }}{% else %}{{ a3_subscription_price }}{% endif %}{% endcapture %}
+subscription_price: {{ a3_subscription_price }} <br />
+shipping_charge: {{ shipping_charge }}<br />
+data-plan-amount: {{ total_price }} <br />
