@@ -5,7 +5,7 @@ featured_image_path: /uploads/book-swirl-1600.jpg
 featured_image_position: 50
 featured_image_height: 400px
 fancy_font: Pacifico
-description: '###### Subscription payments processed by ![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)'
+description: '###### Subscription payments processed by Paypal  ![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)'
 include: ecommerce/febc-landing.html
 subscriptions:
   - subscription:
