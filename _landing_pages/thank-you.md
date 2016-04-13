@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-published: false
+published: true
 featured_image_path:
 featured_image_position: 50
 fancy_font: ''
