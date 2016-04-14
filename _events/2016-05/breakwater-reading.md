@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-Join us for a night of new stories, essays, and poems by MFA candidates from Emerson, BU, and UMass Boston. Fore more information, please visit breakwaterreadingseries.wordpress.com
+Join us for a night of new stories, essays, and poems by MFA candidates from Emerson, BU, and UMass Boston.&nbsp;
