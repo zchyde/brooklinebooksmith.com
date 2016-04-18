@@ -1,6 +1,8 @@
 ---
 title: "Let's Play!"
-isbn:
-binding:
-image_path:
+isbn: '9781452154770'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/770/154/9781452154770.jpg'
 ---
+
+
