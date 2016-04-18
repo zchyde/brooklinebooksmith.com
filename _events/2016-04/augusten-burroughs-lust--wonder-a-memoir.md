@@ -1,6 +1,6 @@
 ---
 title: '**Augusten Burroughs** *Lust & Wonder: A Memoir*'
-published: true
+published: false
 start_at: 2016-04-14T18:00:00.000Z
 image_path: /uploads/augusten-burroughs-190-compressor.jpg
 book_category:
@@ -15,4 +15,4 @@ In chronicling the development and demise of the different relationships he's ha
 
 **Tickets for this event are no longer available!**
 
-#### &nbsp;
+####
