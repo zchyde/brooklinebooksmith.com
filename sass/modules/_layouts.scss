@@ -89,6 +89,8 @@
 
 .row__clear {
   @include clearfix;
+  width: 100%;
+  clear: both;
 }
 .boxes {
   background-color: #fff;

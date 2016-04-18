@@ -1616,10 +1616,13 @@ html, body {
     content: "";
     display: table; }
 
-.row__clear::after {
-  clear: both;
-  content: "";
-  display: table; }
+.row__clear {
+  width: 100%;
+  clear: both; }
+  .row__clear::after {
+    clear: both;
+    content: "";
+    display: table; }
 
 .boxes {
   background-color: #fff;

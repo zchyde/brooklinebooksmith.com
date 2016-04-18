@@ -9,9 +9,6 @@
 
 <h5>{{ name }}</h5>
 <h6>${{ a3_subscription_price | remove: '.' | remove: '0' }} per month, or ${{ total_price | remove: '.' | remove: '0' }} delivered</h6>
-<p>
-	<small>Choose your options, then hit "subscribe" to be taken to Paypal for check out.</small>
-</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal" id="paypal_form_{{ forloop.index }}">
 
 {% comment %} Redirection Pages {% endcomment %}
@@ -72,36 +69,48 @@ https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-g
 {% endif %}
  {% endcomment %}
 
+<p>
+	To subscribe to our SFE program, just make your choices below and then hit the Subscribe button.
+</p>
 
- <div class="button-group">
+<p class="row__clear">
+	<small style="color: #000;">Choose a subscription for either a Pickup Plan (29.00/month) or a Delivery Plan (36.00/month) by selecting a button below.</small>
+</p>
+
+<div class="button-group row__clear">
+
+	<label>
+		 <input type="radio" name="a3" value="{{ a3_subscription_price }}" id="pick-up" checked>
+		 <span class="button-group-item">Pickup Plan</span>
+	 </label>
+	 <label>
+ 		 <input type="radio" name="a3" value="{{ total_price }}" id="ship">
+ 		 <span class="button-group-item">Delivery Plan</span>
+ 	 </label>
+</div>
+
+<p class="row__clear">
+	<small style="color: #000;">Now, choose how long you'd like to subscribe for yourself (or as a gift) by selecting one of the button options below.</small>
+</p>
+
+ <div class="button-group row__clear">
    <label>
      <input type="radio" name="srt" value="" checked>
-     <span class="button-group-item">Until Canceled</span>
+     <span class="button-group-item">Ongoing</span>
    </label>
-   <label>
-     <input type="radio" name="srt" value="3">
-     <span class="button-group-item">3 Months</span>
+	 <label>
+     <input type="radio" name="srt" value="12">
+     <span class="button-group-item">12 Months</span>
    </label>
    <label>
      <input type="radio" name="srt" value="6">
      <span class="button-group-item">6 Months</span>
    </label>
-   <label>
-     <input type="radio" name="srt" value="12">
-     <span class="button-group-item">12 Months</span>
+	 <label>
+     <input type="radio" name="srt" value="3">
+     <span class="button-group-item">3 Months</span>
    </label>
- </div>
 
-<br />
- <div class="button-group">
-	 <label>
-  		<input type="radio" name="a3" value="{{ total_price }}" id="ship" checked>
-  		<span class="button-group-item">Ship to your Door</span>
-  	</label>
-	 <label>
-  		<input type="radio" name="a3" value="{{ a3_subscription_price }}" id="pick-up">
-  		<span class="button-group-item">Pick up at the Store (Save ${{ shipping_charge | remove: '.' | remove: '0'  }}/mo)</span>
-  	</label>
  </div>
 
 <br />
