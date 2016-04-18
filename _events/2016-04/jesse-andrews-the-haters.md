@@ -1,6 +1,6 @@
 ---
 title: '**Jesse Andrews** *The Haters*'
-published: true
+published: false
 start_at: 2016-04-17T18:00:00.000Z
 image_path: /uploads/jesseandrews-compressor.jpg
 book_category:
