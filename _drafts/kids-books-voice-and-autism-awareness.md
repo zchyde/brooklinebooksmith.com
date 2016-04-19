@@ -23,4 +23,4 @@ The book is a gratifying blend of not-yet-in-space opera and disaster movie, pag
 
 They're not gone here. They're not all earmarked as victims. They're just on the edge with everyone else. And they have a voice.
 
-Corinne Duyvis is&nbsp;
+Corinne Duyvis is herself autistic.
