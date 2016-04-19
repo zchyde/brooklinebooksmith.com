@@ -1,5 +1,5 @@
 ---
-title: Something
+title: But Here to Stay
 published: false
 featured: false
 date: 2016-04-21T09:00:00.000Z
@@ -17,6 +17,4 @@ books:
 
 I
 
-
-
-April is Autism Awareness Month.
+One of my favorite young adult reads in recent months has been Corinne Duyvis's&nbsp;*On the Edge of Gone*.&nbsp;
