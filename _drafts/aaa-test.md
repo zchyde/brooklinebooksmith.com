@@ -1,8 +1,8 @@
 ---
-title: aaa test
-published: false
+title: Test Post
+published: true
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2015-09-29T09:00:00.000Z
 description:
 featured_image_path:
 featured_image_position: 50
@@ -11,5 +11,7 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
+This is a test post
