@@ -21,7 +21,7 @@ books:
 <br>
 <br>Hey! For only the second time ever in the 10+ years we've been collecting the "find of the week" - those wonderful bits of mystery and memory hiding inside of the used books we buy - the "find" was found! A reader got in touch with me last week, it turns out she knew the happy couple in the wedding photo, and the snapshot has now been returned to its owners.&nbsp;
 <br>
-<br>That photo up above is my kids in the woods yesterday, on top of a very short mountain in Dedham, listening to my super dramatic plein air reading of Nathaniel Hawthorne's A Wonder-Book for Girls and Boys, one of the most delightfully entertaining pieces of literature to emerge from the 1850s.&nbsp;
+<br>That photo up above is my kids in the woods yesterday, on top of a very short mountain in Dedham, listening to my super dramatic plein air reading of Nathaniel Hawthorne's *A Wonder-Book for Girls and Boys*, one of the most delightfully entertaining pieces of literature to emerge from the 1850s.&nbsp;
 <br>
 <br>Here's&nbsp;[one more thing](https://www.instagram.com/legokarlove/)&nbsp;before we part for the week, offered in recognition of yesterday's release of the fifth book in Karl Ove Knausgaard's&nbsp;[My Struggle](http://www.brooklinebooksmith-shop.com/book/9780914671398)&nbsp;cycle.
 
