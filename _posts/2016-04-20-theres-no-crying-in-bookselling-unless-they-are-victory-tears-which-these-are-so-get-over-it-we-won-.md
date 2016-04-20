@@ -26,7 +26,7 @@ books:
 <br>
 <br>That photo up above is my kids in the woods yesterday, on top of a very short mountain in Dedham, listening to my super dramatic plein air reading of Nathaniel Hawthorne's *A Wonder-Book for Girls and Boys*, one of the most delightfully entertaining pieces of literature to emerge from the 1850s.&nbsp;
 <br>
-<br>Here's&nbsp;[one more thing](https://www.instagram.com/legokarlove/)&nbsp;before we part for the week, offered in recognition of yesterday's release of the fifth book in Karl Ove Knausgaard's&nbsp;[My Struggle](http://www.brooklinebooksmith-shop.com/book/9780914671398)&nbsp;cycle.
+<br>Here's&nbsp;[one more thing](https://www.instagram.com/legokarlove/)&nbsp;before we part for the week, offered in recognition of yesterday's release of the fifth book in Karl Ove Knausgaard's&nbsp;[My Struggle](http://www.brooklinebooksmith-shop.com/book/9780914671398)&nbsp;cycle.&nbsp;
 
 Thanks for reading,
 <br>Paul
