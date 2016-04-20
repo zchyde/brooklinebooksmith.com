@@ -36,7 +36,7 @@ April is Autism Awareness Month. For those of you who, like me, are not on the a
 Suggested further browsing:
 
 * Reviewers discuss autism on&nbsp;[Disability in Kidlit](http://disabilityinkidlit.com/disability/autism/)
-* Corinne Duyvis interviews on [Thinking Person's Guide to Autism](http://www.thinkingautismguide.com/2016/04/on-edge-of-gone-corinne-duyvis-on-post.html)
+* Corinne Duyvis interviewed on [Thinking Person's Guide to Autism](http://www.thinkingautismguide.com/2016/04/on-edge-of-gone-corinne-duyvis-on-post.html)
 
 
 <br>\*Note: Many people have a strong preference between the terms&nbsp;*autistic&nbsp;*and&nbsp;*person with autism.*&nbsp;I'm sticking with the former here based on the language of the book and how Corinne Duyvis has described her own feelings regarding terminology.
