@@ -1,6 +1,6 @@
 ---
 title: 'Alex Is Reading: On the Edge of Gone'
-published: false
+published: true
 featured: false
 date: 2016-04-21T09:00:00.000Z
 description: "Corinne Duyvis's near-futuristic YA disaster novel, and where to find young autistic writers speaking for themselves."
@@ -33,7 +33,7 @@ April is Autism Awareness Month. For those of you who, like me, are not on the a
 
 &nbsp;
 
-Suggested further browsing:
+Suggested further browsing:&nbsp;
 
 * Reviewers discuss autism on&nbsp;[Disability in Kidlit](http://disabilityinkidlit.com/disability/autism/)
 * Corinne Duyvis interviewed on [Thinking Person's Guide to Autism](http://www.thinkingautismguide.com/2016/04/on-edge-of-gone-corinne-duyvis-on-post.html)
