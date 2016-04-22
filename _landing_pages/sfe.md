@@ -1,12 +1,24 @@
 ---
 title: Signed First Editions Book Club
 published: true
-featured_image_path: /uploads/book-swirl-1600.jpg
+featured_image_path:
 featured_image_position: 50
-banner_height: 400
+banner_height:
 fancy_font: Pacifico
-description: '###### Subscription payments processed by Paypal  ![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)'
-include: ecommerce/febc-landing.html
+description: '###### Subscription payments processed by Paypal   
+
+![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)  
+
+
+[**Subscribe**](#subscribe)  
+
+
+[**Selections**](#selections)    
+
+
+[**Frequently Asked Questions**](#faqs)
+'
+
 subscriptions:
   - subscription:
       name: First Editions Book Club
@@ -15,6 +27,7 @@ subscriptions:
       subscription_recurring_time: 4
       a3_subscription_price: 29
       shipping_charge: 7
+include: ecommerce/febc-landing.html
 regenerate: true
 sitemap: false
 ---
@@ -31,3 +44,5 @@ Just the facts, ma'am:
 **Money stuff**: You can either pay $29.00/month for our Pickup Plan, where you collect your prepaid book in-store at your convenience, or $36.00/month for the Delivery Plan, where we ship books straight to you (or a gift recipient). We bill your card for the flat fee once a month on the 15th. Payment takes place via our website.
 
 **Other stuff**: You can find the more detailed explanations and more on our Frequently Asked Questions (FAQ) list. For further help or lively conversation our SFE point man Tim Huggins can be reached at 617.739.6660 during regular business hours or by email at [sfe@brooklinebooksmith.com](javascript:void(location.href='mailto:'+String.fromCharCode(115,102,101,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)+'?subject=Signed%20First%20Editions%20Book%20Club')).
+
+[Frequently Asked Questions](#faq)

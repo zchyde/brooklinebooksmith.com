@@ -8,14 +8,24 @@
   }
 </style>
 
-<div class="row">
+<div id="subscribe" class="row">
   {% for object in subscriptions %}
     {% include ecommerce/febc-paypal-subscribe.html %}
   {% endfor %}
 </div>
 
 
-<div class="row">
+<div id="selections" class="row">
   <h3>Selections</h3>
  {% include ecommerce/febc-books.html %}
+ <hr />
+</div>
+
+
+<div id="faqs" class="row">
+  {% assign faqs = site.landing_pages | where: 'related', 'sfe' %}
+  {% if faqs %}
+    <h3>{{ faqs[0].title | markdownify }}</h3>
+    {{ faqs[0].content | markdownify }}
+  {% endif %}
 </div>

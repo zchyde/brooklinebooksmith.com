@@ -1,5 +1,5 @@
 ---
-title: First Editions Book Club
+title: First Editions Book Club - cancelation
 published: true
 featured_image_path: /uploads/book-swirl-1600.jpg
 featured_image_position: 50
