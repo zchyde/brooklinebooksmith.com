@@ -1,6 +1,6 @@
 ---
 title: Clarissa
-published: false
+published: true
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description:
@@ -11,5 +11,17 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
+Bright Smoke Cold Fire
+
+Hodge in general
+
+robin hood bk - wolf
+
+queen of hearts
+
+thomas - wicked thing
+
+MIDDLE GRADE&gt;&gt;....... or YA specific??
