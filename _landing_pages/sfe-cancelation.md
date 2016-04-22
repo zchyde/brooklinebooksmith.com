@@ -1,12 +1,15 @@
 ---
 title: First Editions Book Club - cancelation
 published: true
-featured_image_path: /uploads/book-swirl-1600.jpg
-featured_image_position: 50
-featured_image_height: 400
+featured_image_path:
+featured_image_position:
+featured_image_height:
 fancy_font: Pacifico
 description: '######Subscription payments processed by
-![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)'
+![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)
+
+[**Subscribe at the Signed First Editions page**](/sfe/)
+'
 include: ecommerce/febc-landing.html
 regenerate: true
 sitemap: false
