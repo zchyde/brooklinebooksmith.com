@@ -22,6 +22,14 @@ SO, if your a book lover after my own heart, read on and discover some great alt
 
 Since I mentioned Wonderland, lets start with this:
 
+---
+
+![](/uploads/versions/queen-of-hearts---x----264-400x---.jpg)[Queen of Hearts (Queen of Hearts saga bk 1) by Colleen Oakes](http://www.brooklinebooksmith-shop.com/book/9780062409720)
+
+---
+
+This one comes out May 3rd, and I already know this series is going to be a guilty pleasure of mine! I first discovered it via the [Epic Reads First 5](http://www.epicreads.com/first5/)newsletter. Which you need to sign up for because it is GREAT! Every morning you get an email with a chapter of a book (that isn't published yet!). You rate the chapter, and then the next day you get chapter 2.
+
 Queen of Hearts by
 
 Bright Smoke Cold Fire
