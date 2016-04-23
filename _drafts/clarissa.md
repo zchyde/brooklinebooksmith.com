@@ -14,6 +14,12 @@ books:
 ---
 
 
+I have always loved fairy tale re-tellings, and adaptations. I love how they can surprise you, add a twist you never thought of, shine light on the past of that villain you hated so much, and make you fall in love with them. Or they pick a new perspective, maybe from a side character, and you can see the story in a whole other way. There are millions of adaptations, 100's that come out each year, you might think to yourself just how many different versions of Wonderland could there POSSIBLY be?
+
+&nbsp;
+
+&nbsp;
+
 Bright Smoke Cold Fire
 
 Hodge in general
@@ -24,4 +30,4 @@ queen of hearts
 
 thomas - wicked thing
 
-MIDDLE GRADE&gt;&gt;....... or YA specific??
+MIDDLE GR ADE&gt;&gt;……. or YA specific??
