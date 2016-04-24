@@ -14,10 +14,12 @@ books:
 ---
 
 
-Papercuts JP // 5 Green St., Jamaica Plain
+Papercuts JP // 5 Green St., Jamaica Plain :
 
-Porter Square Books
+[Porter Square Books](http://www.portersquarebooks.com/event/independent-bookstore-day-0) // 25 White St., Cambridge : Trivia (for adults); scavenger hunt (for kids); local authors in conversation with dead authors (i.e., bookseller actors in costume); temporary tattoos; galleys for unreleased books (pre-publication copies) on sale for charity.
+
+Wellesley Books // 82 Central St., Wellesley : Dr. Seuss Green Eggs & Ham Breakfast; Mad Hatter Tea Party; Shakespeare's Publick House; literary trivia competition, special giveaways.
 
 [New England Mobile Book Fair](http://www.nebookfair.com/event/430-independent-bookstore-day) // 82 Needham St., Newton Highlands : Face painting, coloring contest, origami & paper airplanes, goody bags, scenes from Shakespeare, temporary tattoos, morning story hour.
 
-Harvard Book Store // : "Blind Date with a Book" bookseller recommendations,
+[Harvard Book Store](http://www.harvard.com/event/after_hours_at_the_bookstore/) // 1256 Massachusetts Ave., Cambridge : Ticketed after-hours event with authors Samantha Hunt and Kelly Link; "Blind Date with a Book" bookseller recommendations; special literary displays; homemade baked goods + cookbook raffle; temporary tattoos; selfie station; social media giveaways.
