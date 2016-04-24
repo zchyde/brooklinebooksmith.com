@@ -14,9 +14,7 @@ books:
 ---
 
 
-I have always loved fairy tale re-tellings, and adaptations. I love how they can surprise you, add a twist you never thought of, shine light on the past of that villain you hated so much, and make you fall in love with them. Or they pick a new perspective, maybe from a side character, and you can see the story in a whole other way. There are millions of adaptations, 100's that come out each year, you might think to yourself just how many different versions of Wonderland could there POSSIBLY be?
-
-Well millions and millions! Which delights me to no end!
+I have always loved fairy tale re-tellings, and classic adaptations. I love how they can surprise you, add a twist you never thought of, make you fall in love with a character you once hated. Sometimes it is told from a new perspective, maybe from a side character, and you can see the story in a whole other way. There are millions of adaptations, 100's that come out each year, and with each one a classic gains a new chapter.
 
 SO, if your a book lover after my own heart, read on and discover some great alternative versions to the tales you love so much.
 
