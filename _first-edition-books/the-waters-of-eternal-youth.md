@@ -9,7 +9,7 @@ image_path: /uploads/9780802124807.jpg
 available_date: 2016-03-11T00:00:00.000Z
 price: 26.95
 meta: 'Atlantic Monthly Press, March 2016'
-
+hide_content
 ---
 
 
