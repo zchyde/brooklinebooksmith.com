@@ -35,4 +35,4 @@ Once you've hit up the Booksmith, don't forget to check out your other local boo
 
 [New England Mobile Book Fair](http://www.nebookfair.com/event/430-independent-bookstore-day) // 82 Needham St., Newton Highlands : Face painting, coloring contest, origami & paper airplanes, goody bags, scenes from Shakespeare, temporary tattoos, morning story hour.
 
-[Harvard Book Store](http://www.harvard.com/event/after_hours_at_the_bookstore/) // 1256 Massachusetts Ave., Cambridge : Ticketed after-hours event with authors Samantha Hunt and Kelly Link; "Blind Date with a Book" bookseller recommendations; special literary displays; homemade baked goods + cookbook raffle; temporary tattoos; selfie station; social media giveaways.
+[Harvard Book Store](http://www.harvard.com/event/after_hours_at_the_bookstore/) // 1256 Massachusetts Ave., Cambridge : Ticketed after-hours event with authors Samantha Hunt and Kelly Link; "Blind Date with a Book" bookseller recommendations; special literary displays; homemade baked goods + cookbook raffle; temporary tattoos; selfie station; social media giveaways.&nbsp;
