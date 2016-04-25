@@ -25,7 +25,7 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 
 ---
 
-[![](/uploads/versions/forest-unseen---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143122944)Take a journey with nature log [*The Forest Unseen: A Year's Watch in Nature*](http://www.brooklinebooksmith-shop.com/book/9780143122944) by David George Haskell.&nbsp; Haskell, a professor of biology at the University of the South, spends a year exploring one-square-meter portion of the Tennessee forest.&nbsp; &nbsp; He chronicles the details, the seasons, the critters, the plants, the dirt, &nbsp; within this poetic nature writing.&nbsp; This book was a 2013 Pulitzer Prize Finalist for General Nonfiction.&nbsp;
+[![](/uploads/versions/forest-unseen---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143122944)Take a journey with nature log [*The Forest Unseen: A Year's Watch in Nature*](http://www.brooklinebooksmith-shop.com/book/9780143122944) by David George Haskell.&nbsp; Haskell, a professor of biology at the University of the South, spends a year exploring one-square-meter portion of the Tennessee forest.&nbsp; He chronicles the details, the seasons, the critters, the plants, the dirt, within this poetic nature writing.&nbsp; This book was a 2013 Pulitzer Prize Finalist for General Nonfiction.&nbsp;
 
 ---
 
