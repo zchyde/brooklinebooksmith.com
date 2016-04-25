@@ -3,7 +3,7 @@ title: 'Trees! ...... I Speak for the Trees....'
 published: false
 featured: false
 date: 2016-04-25T16:00:00.000Z
-description: 'trees, field guides, Arbor Day, Go outside!, nature'
+description: 'trees, field guides, Arbor Day, nature, Go Outside!'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
