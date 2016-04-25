@@ -19,4 +19,4 @@ National Arbor Day, a celebration of our trees, is this Friday, April 29…..&nb
 
 Arbor Day reminds us to be thankful for our trees, inspires us to care for and learn about our trees, and encourages us to plant more trees.&nbsp; Trees offer us flowers in the spring, shade in the summer, bursts of orange, red, yellow, and brown color in the autumn, and structure to the white landscape in the winter.&nbsp;
 
-Get outside and identify those trees!&nbsp; One of my favorite tree identifying books, AND published by the Arbor Day Foundation, is *What Tree is That?&nbsp; A Guide to the More Common Trees Found in North America.*
+Get outside and identify those trees!&nbsp; One of my favorite tree identifying books, AND published by the Arbor Day Foundation, is [*What Tree is That?&nbsp; A Guide to the More Common Trees Found in North America.*](http://www.brooklinebooksmith-shop.com/book/9780963465757)
