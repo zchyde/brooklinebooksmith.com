@@ -30,3 +30,7 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 ---
 
 [![](/uploads/versions/forest-forensics---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780881509182)Discover the natural history of the forests in New England in *[Forest Forensics](http://www.brooklinebooksmith-shop.com/book/9780881509182)*by ecologist Tom Wessels.&nbsp; Note the direction trees have fallen, where stonewalls are (and aren’t), the locations of cradles and pillows in the topography, how certain plants grow, and decay trends; soon you’ll see the story of your woodlands.&nbsp; Wessels is the author of *[Reading the Forested Landscape](http://www.brooklinebooksmith-shop.com/book/9780881504200)*which inspired this field guide.&nbsp;
+
+---
+
+![](/uploads/versions/trees-up-close---x----400-400x---.jpg)Memorize and be mesmerized by the details of trees in two beautiful books by author/photographer team Nancy Ross Hugo and Robert Llewellyn.&nbsp; Witness the “big picture” trees in *Seeing Trees* and observe the details of bark, seeds, and flowers in *Trees Up Close.&nbsp;*Llewellyn’s pictures are amazing, supported by Hugo’s clearly written eco-trivia.
