@@ -17,6 +17,12 @@ books:
 
 National Arbor Day, a celebration of our trees, is this Friday, April 29…..&nbsp; This tree-focused holiday is always the last Friday in April, every year.&nbsp; The first [National Arbor Day celebration](https://www.arborday.org/celebrate/history.cfm) was on April 10, 1872; some say that 1 million trees were planted that first “tree day.”&nbsp; [Julius Sterling Morton](https://en.wikipedia.org/wiki/Julius_Sterling_Morton) (1832-1902), a Nebraska editor, who was also considered an expert in agriculture and forestry, founded Arbor Day.&nbsp; Morton served as President Grover Cleveland's Secretary of Agriculture from 1893-1897.&nbsp; The Arbor Day Foundation (ADF) was established in 1972.
 
-Arbor Day reminds us to be thankful for our trees, inspires us to care for and learn about our trees, and encourages us to plant more trees.&nbsp; Trees offer us flowers in the spring, shade in the summer, bursts of orange, red, yellow, and brown color in the autumn, and structure to the white landscape in the winter.&nbsp;
+Arbor Day reminds us to be thankful for our trees, inspires us to care for and learn about our trees, and encourages us to plant more trees.&nbsp; Trees offer us flowers in the spring, shade in the summer, bursts of orange, red, yellow, and brown color in the autumn, and structure to the white landscape in the winter. Get outside and identify those trees!&nbsp; One of my favorite tree identifying books, AND published by the Arbor Day Foundation, is [*What Tree is That?&nbsp; A Guide to the More Common Trees Found in North America.*](http://www.brooklinebooksmith-shop.com/book/9780963465757)
 
-Get outside and identify those trees!&nbsp; One of my favorite tree identifying books, AND published by the Arbor Day Foundation, is [*What Tree is That?&nbsp; A Guide to the More Common Trees Found in North America.*](http://www.brooklinebooksmith-shop.com/book/9780963465757)
+---
+
+![](/uploads/versions/bark---x----248-400x---.jpg)Learn how to identify trees by their…..Bark!&nbsp; [*Bark: A Field Guide to Trees of the Northeast*](http://www.brooklinebooksmith-shop.com/book/9781584658528) by Michael Wojtech is a terrific guide book for winter tree identification and, too, for those tree-enthusiasts wishing to know more details and characteristics, other than just leaves, about trees.&nbsp; Vivid illustrations and easy-to-understand identification keys make this nature guide very user friendly.
+
+---
+
+![](/uploads/versions/forest-unseen---x----266-400x---.jpg)Take a journey with nature log *The Forest Unseen: A Year's Watch in Nature* by David George Haskell.&nbsp; Haskell, a professor of biology at the University of the South, spends a year exploring one-square-meter portion of the Tennessee forest.&nbsp; &nbsp; He chronicles the details, the seasons, the critters, the plants, the dirt, &nbsp; within this poetic nature writing.&nbsp; This book was a 2013 Pulitzer Prize Finalist for General Nonfiction.&nbsp;
