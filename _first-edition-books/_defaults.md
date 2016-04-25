@@ -3,6 +3,6 @@ title:
 published: true
 selection_date:
 isbn:
-binding:
+author:
 image_path:
 ---

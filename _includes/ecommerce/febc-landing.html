@@ -1,4 +1,5 @@
-{% assign books = site.first-edition-books | sort: 'selection_date' 'last' | reverse %}
+{% assign books = site.first-edition-books | where: 'published', true %}
+{% assign books = books | sort: 'selection_date' 'last' | reverse %}
 {% assign book_latest = books[0] %}
 {% assign subscriptions = page.subscriptions %}
 
