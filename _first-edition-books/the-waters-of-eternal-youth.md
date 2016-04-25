@@ -1,6 +1,6 @@
 ---
 title: The Waters of Eternal Youth
-published: false
+published: true
 selection_date: 2016-04-01T00:00:00.000Z
 isbn: 9780802124807
 binding: Hardcover

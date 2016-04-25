@@ -1,17 +1,27 @@
-sidf
-{% assign books = site.first-edition-books %}
-{% assign books = books | sort: 'selection_date' 'last' | reverse %}
-
-{% for book in books  %}
-  <div class="" style="width:13em;float:left;margin-right:2em;">
-    {% if book.selection_date %}
-      <h5>{{ book.selection_date | date: '%B, %Y' }}</h5>
-    {% endif %}
-    {{ book.title }}
-    {% if book.author %}
-      <h6>
-        {{ book.author }}
-      </h6>
-    {% endif %}
-  </div>
-{% endfor %}
+{% assign past_selections = site.first-edition-books %}
+{% assign past_selections = past_selections | sort: 'selection_date' 'last' | reverse %}
+{% if past_selections %}
+    {% for book in past_selections  %}
+      {% assign selection_start = book.selection_date | date: "%Y%m%d" %}
+      {% if selection_start <= current_date %}
+        <p>
+          <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank" >
+            <strong>
+              <em>
+                {{ book.title }}
+              </em>
+            </strong>
+          </a>
+          {% if book.selection_date %}
+            (
+              {{ book.selection_date | date: '%B, %Y' }}
+            )
+          {% endif %}
+          {% if book.author %}
+            <br />
+            {{ book.author }}
+          {% endif %}
+        </p>
+      {% endif %}
+    {% endfor %}
+{% endif %}

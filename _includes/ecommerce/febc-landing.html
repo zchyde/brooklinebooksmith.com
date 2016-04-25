@@ -2,6 +2,9 @@
 {% assign books = books | sort: 'selection_date' 'last' %}
 {% assign book_latest = books[0] %}
 {% assign subscriptions = page.subscriptions %}
+{% assign current_date = site.time | date: "%Y%m%d" %}
+
+
 
 <style media="screen">
   form,  form button {
@@ -9,6 +12,9 @@
   }
   h3  {
     color: #00547E;
+  }
+  .row {
+    padding-bottom: 4em;
   }
 </style>
 
@@ -23,9 +29,12 @@
 <div id="selections" class="row">
   <h3>Selections</h3>
  {% include ecommerce/febc-books.html %}
- <hr />
 </div>
 
+<div id="selections" class="row">
+  <h3>Past Selections</h3>
+  {% include ecommerce/febc-books-past-selections.html %}
+</div>
 
 <div id="faqs" class="row">
   {% assign faqs = site.landing_pages | where: 'related', 'sfe' %}

@@ -6,5 +6,3 @@ isbn: '9781101947135'
 author: Yaa Gyasi
 image_path: 'https://images.booksense.com/images/135/947/9781101947135.jpg'
 ---
-
-
