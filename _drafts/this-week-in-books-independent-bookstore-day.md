@@ -2,9 +2,9 @@
 title: 'This Week in Books: Independent Bookstore Day'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-04-25T17:00:00.000Z
 description: "Ain't no party like a Booksmith party."
-featured_image_path:
+featured_image_path: /bn_independent-bookstore-day-2016.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
