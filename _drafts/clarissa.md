@@ -1,6 +1,6 @@
 ---
 title: Clarissa
-published: true
+published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description:
@@ -30,9 +30,13 @@ I already know this series is going to be a guilty pleasure of mine! It tells th
 
 ---
 
-&nbsp;
+Next I want to introduce you to one of my favorite authors. She had created not one, but 3, fabulous re-tellings. I sincerely hope she continues to write many, because the worlds and characters she creates are incredible.
 
-&nbsp;
+Introducing [Rosamund Hodge](http://www.rosamundhodge.net/)!
+
+(cover images)
+
+Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/9780062224743) is a drool worthy re-imagining of Beauty and the Beast. There is a magical library (of course!), a very angry teen named Nyx who wants nothing more than to escape her prescribed duty, and of course, The Beast. It might sound like a pretty typical version of a
 
 Bright Smoke Cold Fire
 
