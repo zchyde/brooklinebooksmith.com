@@ -37,4 +37,4 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 
 ---
 
-[![](/uploads/versions/strange-trees---x----294-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781616894597)Let youngsters learn about the odd trees of the world in [*Strange Trees*](http://www.brooklinebooksmith-shop.com/book/9781616894597) by Bernadette Pourquie and Cecile Gambini. Or about historic trees of the world in *[Celebritrees](http://www.brooklinebooksmith-shop.com/book/9781250073198)*by Margi Preus and illustrated by Rebecca Gibbon.&nbsp; Encourage your young naturalists!&nbsp; &nbsp;
+[![](/uploads/versions/strange-trees---x----294-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781616894597)Let youngsters learn about the odd trees of the world in [*Strange Trees*](http://www.brooklinebooksmith-shop.com/book/9781616894597) by Bernadette Pourquie and Cecile Gambini. Or about historic trees of the world in *[Celebritrees](http://www.brooklinebooksmith-shop.com/book/9781250073198)*by Margi Preus, illustrated by Rebecca Gibbon.&nbsp; Encourage your young naturalists!&nbsp; &nbsp;
