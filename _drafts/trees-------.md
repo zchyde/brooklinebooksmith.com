@@ -21,7 +21,7 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 
 ---
 
-![](/uploads/versions/bark---x----248-400x---.jpg)Learn how to identify trees by their…..Bark!&nbsp; [*Bark: A Field Guide to Trees of the Northeast*](http://www.brooklinebooksmith-shop.com/book/9781584658528) by Michael Wojtech is a terrific guide book for winter tree identification and, too, for those tree-enthusiasts wishing to know more details and characteristics, other than just leaves, about trees.&nbsp; Vivid illustrations and easy-to-understand identification keys make this nature guide very user friendly.
+[![](/uploads/versions/bark---x----248-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781584658528)Learn how to identify trees by their…..Bark!&nbsp; [*Bark: A Field Guide to Trees of the Northeast*](http://www.brooklinebooksmith-shop.com/book/9781584658528) by Michael Wojtech is a terrific guide book for winter tree identification and, too, for those tree-enthusiasts wishing to know more details and characteristics, other than just leaves, about trees.&nbsp; Vivid illustrations and easy-to-understand identification keys make this nature guide very user friendly.
 
 ---
 
