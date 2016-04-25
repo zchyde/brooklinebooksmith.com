@@ -20,7 +20,7 @@ sitemap: false
 ---
 
 
-Just the facts, ma'am:
+### Just the facts, ma'am:
 
 **What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
 

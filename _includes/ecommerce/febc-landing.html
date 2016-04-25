@@ -1,5 +1,5 @@
 {% assign books = site.first-edition-books | where: 'published', true %}
-{% assign books = books | sort: 'selection_date' 'last' | reverse %}
+{% assign books = books | sort: 'selection_date' 'last' %}
 {% assign book_latest = books[0] %}
 {% assign subscriptions = page.subscriptions %}
 
@@ -10,6 +10,7 @@
 </style>
 
 <div id="subscribe" class="row">
+  <h3>Subscribe</h3>
   {% for object in subscriptions %}
     {% include ecommerce/febc-paypal-subscribe.html %}
   {% endfor %}
