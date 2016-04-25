@@ -57,7 +57,7 @@ No discounts apply.
 
 #### Can I get my signed book personalized by the author?
 
-If the SFE book of the month is by an author in our events series, personalizations are possible but never guaranteed. ContactTim Huggins at 617.739.6660 during business hours or email sfe@brooklinebooksmith.com with specific inquiries. Personalized books are non-returnable.
+If the SFE book of the month is by an author in our events series, personalizations are possible but never guaranteed. Contact Tim Huggins at 617.739.6660 during business hours or email sfe@brooklinebooksmith.com with specific inquiries. Personalized books are non-returnable.
 
 #### Can I give someone a membership to the SFE as a gift?
 
