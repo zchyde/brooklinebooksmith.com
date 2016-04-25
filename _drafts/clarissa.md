@@ -26,7 +26,7 @@ Here are some of my favorite YA re-tellings and adaptations that have come out i
 
 I already know this series is going to be a guilty pleasure of mine! It tells the story of Dinah the Princess of Hearts, and future Queen of Wonderland. We see many of the classic characters, and meet a few new ones as well. I love a great villain, or villainess, but have never particularly liked the Queen of Hearts. She is cruel, spiteful, has a hairpin trigger, and YELLS so much (at least in the movies). However, when we meet Dinah this time around she is young, struggling not to cave under the oppression of her father, and just learning that Wonderland has some pretty dark secrets. It is essentially the tale of an underdog. Dinah isn't classically beautiful, she is grumpy, distrusting, and has no self confidence. All things most people can relate to, and relate I did!! Four chapters in and the rest of my day was dedicated to this book.
 
-**Side note:**I first discovered *Queen of Hearts* via the [Epic Reads First 5](http://www.epicreads.com/first5/) newsletter. Which you need to sign up for because it is GREAT! You get a daily email with the first five chapters of a book, one chapter per day, and after reading you rate the portion you read. Its great fun!
+**Side note:**I first discovered *Queen of Hearts* via the [Epic Reads First 5](http://www.epicreads.com/first5/) newsletter. Which you need to sign up for because it is GREAT! You get a daily email with the first five chapters of a book, one chapter per day, and after reading you rate the portion you read. Its geat fun!
 
 ---
 
@@ -36,7 +36,9 @@ Introducing [Rosamund Hodge](http://www.rosamundhodge.net/)!
 
 (cover images)
 
-Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/9780062224743) is a drool worthy re-imagining of Beauty and the Beast. There is a magical library (of course!), a very angry teen named Nyx who wants nothing more than to escape her prescribed duty, and of course, The Beast. It might sound like a pretty typical version of a
+Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/9780062224743) is a drool worthy re-imagining of Beauty and the Beast. There is a magical library (of course!), a very angry teen named Nyx who wants nothing more than to escape her prescribed duty, and an evil ruler who plays the role of The Beast. It might sound like a pretty typical version of a well worn story, but I assure you it is anything but that.
+
+[Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shapeshifters. In some ways this might be her most fairy-tale like so far
 
 Bright Smoke Cold Fire
 
