@@ -1,8 +1,10 @@
 ---
 title: The Noise of Time
 published: true
-selection_date:
-isbn:
-author:
-image_path:
+selection_date: 2016-06-01T00:00:00.000Z
+isbn: '9781101947241'
+author: '9781101947241'
+image_path: 'https://images.booksense.com/images/241/947/9781101947241.jpg'
 ---
+
+
