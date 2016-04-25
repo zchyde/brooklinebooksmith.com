@@ -3,7 +3,7 @@ title: 'This Week in Books: Independent Bookstore Day'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: The time has come to party.
+description: "Ain't no party like a Booksmith party."
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -14,11 +14,23 @@ books:
 ---
 
 
-&nbsp;
+Did you know this Saturday, April 30th is the second annual [Independent Bookstore Day](http://www.indiebookstoreday.com/)? Over 400 bookstores around the country are gearing up with special activities and exclusive items to celebrate the tradition of locally-run bookslingers, still going strong in the digital age.
 
-(Click store names for more event info)
+Feel like joining the party? Come to the Booksmith on Saturday! Every $10 you spend gets you a raffle ticket for our grand drawing. We're giving away three deluxe book & gift arrangements, and every ticket increases your chances of winning! Short on dough at the end of the month? We still want to see your lovely faces - you can get a ticket by dropping by and snapping a selfie in your favorite part of the store. Tag us in your photo on Facebook, Twitter (@booksmithtweets), or Instagram (@brooklinebooksmith) and include #BookstoreDay in the description. Just bring your phone to the register, show the cashier your post and claim your raffle ticket.
 
-Papercuts JP // 5 Green St., Jamaica Plain : Mimosas & cupcakes; readings by authors Natalia Holt and Jesse Andrews; open-mic literary reading.
+![](/uploads/versions/img_0739---x----640-640x---.jpg)
+
+![](/uploads/versions/img_0740---x----640-640x---.jpg)
+
+![](/uploads/versions/img_0741---x----640-640x---.jpg)
+
+Winning raffle numbers will be announced Sunday, 5/1. Hang on to those tickets & check our Facebook, Twitter or Instagram to see if you've won.
+
+---
+
+Once you've hit up the Booksmith, don't forget to check out your other local book hubs. There are tons of festivities in the Boston area - click store names for more event info:
+
+[Papercuts JP](http://www.papercutsjp.com/events/2016/4/30/independent-bookstore-day) // 5 Green St., Jamaica Plain : Mimosas & cupcakes; readings by authors Natalia Holt and Jesse Andrews; open-mic literary reading.
 
 [Porter Square Books](http://www.portersquarebooks.com/event/independent-bookstore-day-0) // 25 White St., Cambridge : Trivia (for adults); scavenger hunt (for kids); local authors in conversation with dead authors (i.e., bookseller actors in costume); temporary tattoos; galleys for unreleased books (pre-publication copies) on sale for charity.
 
