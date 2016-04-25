@@ -7,6 +7,9 @@
   form,  form button {
     display: inline-block;
   }
+  h3  {
+    color: #00547E;
+  }
 </style>
 
 <div id="subscribe" class="row">
@@ -27,7 +30,7 @@
 <div id="faqs" class="row">
   {% assign faqs = site.landing_pages | where: 'related', 'sfe' %}
   {% if faqs %}
-    <h3>{{ faqs[0].title | markdownify }}</h3>
+    <h3>{{ faqs[0].title | markdownify | remove: '<p>' | remove: '</p>'  }}   </h3>
     {{ faqs[0].content | markdownify }}
   {% endif %}
 </div>
