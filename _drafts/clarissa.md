@@ -38,7 +38,7 @@ Introducing [Rosamund Hodge](http://www.rosamundhodge.net/)!
 
 Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/9780062224743) is a drool worthy re-imagining of Beauty and the Beast. There is a magical library (of course!), a very angry teen named Nyx who wants nothing more than to escape her prescribed duty, and an evil ruler who plays the role of The Beast. It might sound like a pretty typical version of a well worn story, but I assure you it is anything but that.
 
-[Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shapeshifters. In some ways this might be her most fairy-tale like so far
+[Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shapeshifters. In some ways this might be her most fairy-tale like so far, in that she doesn't fully explain the magic, or peoples, or religions. Something I have come to love in a book beacause it give me free
 
 Bright Smoke Cold Fire
 
