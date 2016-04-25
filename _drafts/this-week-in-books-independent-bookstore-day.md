@@ -1,7 +1,7 @@
 ---
 title: 'This Week in Books: Independent Bookstore Day'
 published: false
-featured: false
+featured: true
 date: 2016-04-25T17:00:00.000Z
 description: "Ain't no party like a Booksmith party."
 featured_image_path: /bn_independent-bookstore-day-2016.jpg
@@ -19,10 +19,6 @@ Did you know this Saturday, April 30th is the second annual [Independent Booksto
 Feel like joining the party? Come to the Booksmith on Saturday! Every $10 you spend gets you a raffle ticket for our grand drawing. We're giving away three deluxe book & gift arrangements, and every ticket increases your chances of winning! Short on dough at the end of the month? We still want to see your lovely faces - you can get a ticket by dropping by and snapping a selfie in your favorite part of the store. Tag us in your photo on [Facebook](https://www.facebook.com/brooklinebooksmith), Twitter ([@booksmithtweets](https://twitter.com/booksmithtweets)), or Instagram ([@brooklinebooksmith](https://www.instagram.com/brooklinebooksmith/)) and include #BookstoreDay in the description. Just bring your phone to the register, show the cashier your post and claim your raffle ticket.
 
 ![](/uploads/versions/img_0739---x----640-1923x---.jpg)
-
-![](/uploads/versions/img_0740---x----640-640x---.jpg)
-
-![](/uploads/versions/img_0741---x----640-640x---.jpg)
 
 Winning raffle numbers will be announced Sunday, 5/1. Hang on to those tickets & check our Facebook, Twitter or Instagram to see if you've won.
 
