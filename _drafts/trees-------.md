@@ -26,3 +26,7 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 ---
 
 ![](/uploads/versions/forest-unseen---x----266-400x---.jpg)Take a journey with nature log *The Forest Unseen: A Year's Watch in Nature* by David George Haskell.&nbsp; Haskell, a professor of biology at the University of the South, spends a year exploring one-square-meter portion of the Tennessee forest.&nbsp; &nbsp; He chronicles the details, the seasons, the critters, the plants, the dirt, &nbsp; within this poetic nature writing.&nbsp; This book was a 2013 Pulitzer Prize Finalist for General Nonfiction.&nbsp;
+
+---
+
+![](/uploads/versions/forest-forensics---x----267-400x---.jpg)Discover the natural history of the forests in New England in *Forest Forensics*by ecologist Tom Wessels.&nbsp; Note the direction trees have fallen, where stonewalls are (and aren’t), the locations of cradles and pillows in the topography, how certain plants grow, and decay trends; soon you’ll see the story of your woodlands.&nbsp; Wessels is the author of *Reading the Forested Landscape*which inspired this field guide.&nbsp;
