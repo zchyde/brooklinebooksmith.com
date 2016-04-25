@@ -33,4 +33,4 @@ Arbor Day reminds us to be thankful for our trees, inspires us to care for and l
 
 ---
 
-![](/uploads/versions/trees-up-close---x----400-400x---.jpg)Memorize and be mesmerized by the details of trees in two beautiful books by author/photographer team Nancy Ross Hugo and Robert Llewellyn.&nbsp; Witness the “big picture” trees in *Seeing Trees* and observe the details of bark, seeds, and flowers in *Trees Up Close.&nbsp;*Llewellyn’s pictures are amazing, supported by Hugo’s clearly written eco-trivia.
+[![](/uploads/versions/trees-up-close---x----400-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781604695823)Memorize and be mesmerized by the details of trees in two beautiful books by author/photographer team Nancy Ross Hugo and Robert Llewellyn.&nbsp; Witness the “big picture” trees in [*Seeing Trees*](http://www.brooklinebooksmith-shop.com/book/9781604692198) and observe the details of bark, seeds, and flowers in *[Trees Up Close](http://www.brooklinebooksmith-shop.com/book/9781604695823).&nbsp;*Llewellyn’s pictures are amazing, supported by Hugo’s clearly written eco-trivia.
