@@ -9,4 +9,4 @@ description: |
 
 ---
 
-Thank you for your Subscription!.
+Thank you for your Subscription!. Your transaction has been completed, and a receipt for your purchase has been emailed to you. You may log into your account at www.paypal.com to view details of this transaction.
