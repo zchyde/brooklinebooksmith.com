@@ -5,7 +5,7 @@ featured_image_path:
 featured_image_position: 50
 banner_height:
 fancy_font: Pacifico
-description: "###### Subscription payments processed by Paypal   \n![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)  \n\n[**Subscribe**](#subscribe)  \n\n[**Selections**](#selections)    \n\n[**Frequently Asked Questions**](#faqs) "
+description: "###### Subscription payments processed by Paypal   \n![Subscribe now with PayPal](https://www.paypalobjects.com/webstatic/en_US/logo/pp_cc_mark_74x46.png)  \n\n[**Subscribe**](#subscribe)  \n\n[**Selections**](#selections)    \n\n[**Frequently Asked Questions**](#faqs)  "
 subscriptions:
   - subscription:
       name: First Editions Book Club
@@ -22,7 +22,7 @@ sitemap: false
 
 ### Just the facts, ma'am:
 
-**What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
+![SFE Logo](/uploads/paypal-logo-brookline-sfe.png) **What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
 
 **What you do**: Subscribe [here](#subscribe)&nbsp;and simply choose how many months you'd like to enroll: you can do three (3), six (6), twelve (12), or ongoing. (Ongoing plans can be canceled, all other plans are extendable by request).
 
