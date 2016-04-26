@@ -17,7 +17,6 @@ sitemap: false
 
 We're sorry to see you go.
 
-
-<A HREF="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=RXNARXPWU6B7U">
+<A HREF="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3CV2BTL9PFY7E">
 <IMG SRC="https://www.paypalobjects.com/en_US/i/btn/btn_unsubscribe_LG.gif" BORDER="0">
 </A>
