@@ -1,35 +1,4 @@
-{% if page.url contains '/first-editions-book-club-snipcart/' %}
-  <script src="/static/js/dist/scripts-concatenated.min.js"></script>
-  <script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
-  data-api-key="N2YzMTJkYzEtODk2Mi00OGFiLTljMTUtYjQ4YjZhODg4ZmM4NjM1OTMwNzA2NTgxOTk4NDc3"></script>
-
-
-  <script type="text/javascript">
-    $(document).ready(function () {
-      $('#shipping-plan').on('click', function() {
-        Snipcart.execute('item.add', {
-          id: 'shipping-plan',
-          name: 'First Edition Book Club Delivery',
-          url: 'http://www.brooklinebooksmith.com/first-editions-book-club-snipcart/',
-          price: 0.00,
-          quantity: 1,
-          shippable: true
-        });
-    });
-  });
-
-  </script>
-
-
-
-
-
-
-{% else %}
-  <script src="/static/js/dist/scripts-concatenated.min.js" async></script>
-{% endif %}
-
-
+<script src="/static/js/dist/scripts-concatenated.min.js" async></script>
 
 <script type="text/javascript">
   function downloadJSAtOnload() {

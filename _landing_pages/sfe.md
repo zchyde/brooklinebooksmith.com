@@ -9,11 +9,13 @@ description: "###### Subscription payments processed by Paypal   \n![Subscribe n
 subscriptions:
   - subscription:
       name: First Editions Book Club
+      plan1: Pickup Plan
+      plan2: Delivery Plan
       t3_duration_unit: M
       p3_duration: 1
       subscription_recurring_time: 4
-      a3_subscription_price: 29
-      shipping_charge: 7
+      a3_subscription_price_plan1: 29
+      a3_subscription_price_plan2: 36
 include: ecommerce/febc-landing.html
 regenerate: true
 sitemap: false
@@ -22,7 +24,7 @@ sitemap: false
 
 ### Just the facts, ma'am:
 
-![SFE Logo](/uploads/paypal-logo-brookline-sfe.png) **What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
+**What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
 
 **What you do**: Subscribe [here](#subscribe)&nbsp;and simply choose how many months you'd like to enroll: you can do three (3), six (6), twelve (12), or ongoing. (Ongoing plans can be canceled, all other plans are extendable by request).
 

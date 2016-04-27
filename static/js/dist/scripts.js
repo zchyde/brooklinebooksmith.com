@@ -20,14 +20,14 @@ $('.accordion-tabs').on('click', 'li > a.tab-link', function(event) {
   }
 });
 //opens non-local links in new window
- $('a:not([href^="{{ site.url }}"]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
+ //$('a:not([href^="{{ site.url }}"]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
 
- $('#pick-up').change(function() {
-   $('#shipping_charge').val('1', $(this).val());
+  $('#pick-up').on('click', function() {
+    $('#shipping_charge').val('1', $(this).val());
+    $('#item_name').val('First Editions Book Club: Pickup Plan', $(this).val());
+  });
 
- });
-
- $('#ship').change(function() {
-   $('#shipping_charge').val('2', $(this).val());
-
- });
+  $('#ship').on('click', function() {
+    $('#shipping_charge').val('2', $(this).val());
+    $('#item_name').val('First Editions Book Club: Delivery Plan', $(this).val());
+  });
