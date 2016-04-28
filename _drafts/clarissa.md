@@ -1,15 +1,16 @@
 ---
-title: Clarissa
+title: 'You swoon for a good fairy tale re-telling? Oh good I do too!'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: The latest in YA fairy tale and classic re-imaginings
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - clarissa
 books:
 ---
 
@@ -64,8 +65,16 @@ Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/978006
 
 ---
 
-[Tell the Wind and Fire](http://www.brooklinebooksmith-shop.com/book/9780544318175) is a bright and inventive retelling of Dickens' A Tale of Two Cities. It's sharp, entertaining, and full of echoes of the original. There's not a weak character in the lot and each of them earn every word their given with blood. Full of wit and brimming with action, it doesn't matter if you're a fan of Dickens or not you'll be hooked.
+"[Tell the Wind and Fire](http://www.brooklinebooksmith-shop.com/book/9780544318175) is a bright and inventive retelling of Dickens' A Tale of Two Cities. It's sharp, entertaining, and full of echoes of the original. There's not a weak character in the lot and each of them earn every word their given with blood. Full of wit and brimming with action, it doesn't matter if you're a fan of Dickens or not you'll be hooked."
 
-&nbsp;robin hood bk - wolf
+- Amy &nbsp;
 
-thomas - wicked thing
+---
+
+The last one I will leave you with is by Sara J Maas. She is most known perhaps, for her [Throne of Glass](http://www.brooklinebooksmith-shop.com/book/9781619630345) series. Which I LOVE. But have you read [A](__notset__)[&nbsp;Court of Thorns and Roses](http://www.brooklinebooksmith-shop.com/book/9781619635180)? It is a seriously juicy, saucy, and all around addicting re-imagining of Beauty and the Beast. Like, WHOA, she made me blush, heat up, and fall head over heals in love with her main hunk. Who happens to be a prince in a fairy realm, talk about unobtainable! The sequel, A Court of Mist and Fury ,comes out the first week in May and I am counting down the hours until I get my greedy hands on it.
+
+---
+
+![](/uploads/versions/courtofthornsandroses---x----267-400x---.jpg)![](/uploads/versions/courtofmistandfury---x----263-400x---.jpg)---
+
+&nbsp;
