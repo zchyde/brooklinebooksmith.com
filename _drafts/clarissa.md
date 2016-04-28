@@ -1,9 +1,9 @@
 ---
-title: 'You swoon for a good fairy tale re-telling? Oh good I do too!'
+title: 'You swoon for a good fairy tale retelling? Oh, good, I do too!'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
-description: The latest in YA fairy tale and classic re-imaginings
+date: 2016-04-28T09:00:00.000Z
+description: The latest in YA fairy tale and classic reimaginings
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -15,7 +15,7 @@ books:
 ---
 
 
-I have always loved fairy tale re-tellings, and adaptations of classics. I love how they can surprise you, add a twist you never thought of, make you fall in love with a character you once hated. Sometimes it is told from a new perspective, maybe from a side character, and you can see the story in a whole other way. There are millions of adaptations, 100's that come out each year, and with each one a classic gains a new chapter and fresh life.
+I have always loved fairy tale retellings and adaptations of classics. I love how they can surprise you, add a twist you never thought of, make you fall in love with a character you once hated. Sometimes it is told from a new perspective, maybe from a side character, and you can see the story in a whole other way. There are millions of adaptations, 100's that come out each year, and with each one a classic gains a new chapter and fresh life.
 
 Here are some of my favorite YA re-tellings and adaptations that have come out in the past few years, and a couple that are yet to be!
 
@@ -45,13 +45,13 @@ Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/978006
 
 ---
 
-![](/uploads/versions/crimsonbound---x----265-400x---.jpg)---
+![](/uploads/versions/crimsonbound---x----265-400x---.jpg)—
 
 [Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shape shifters. In some ways this might be her most fairy-tale like so far, in that she doesn't fully explain the magic, or peoples, or religions. Something I have come to love in a book because then I can let my imagination run wild and fill in all the spaces.
 
 ---
 
-![](/uploads/versions/brightsmokecoldfire---x----264-400x---.jpg)---
+![](/uploads/versions/brightsmokecoldfire---x----264-400x---.jpg)—
 
 [Bright Smoke C](http://www.brooklinebooksmith-shop.com/book/9780062369413)[old Fire](http://www.brooklinebooksmith-shop.com/search/site/bright%2520smoke%2520cold%2520fire)&nbsp;(coming in the fall) is DELICIOUS. A re-imagining of Romeo and Juliet, Hodge went all out for this one. A doomed world, ancient magics, feuding families (of course), and dark plots. This is Hodge's strongest work so far. Her characters are bold, doomed, stubborn, and relatable. You won't want to miss it! Plus, isn't that cover KILLER?!
 
@@ -67,7 +67,8 @@ Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/978006
 
 "[Tell the Wind and Fire](http://www.brooklinebooksmith-shop.com/book/9780544318175) is a bright and inventive retelling of Dickens' A Tale of Two Cities. It's sharp, entertaining, and full of echoes of the original. There's not a weak character in the lot and each of them earn every word their given with blood. Full of wit and brimming with action, it doesn't matter if you're a fan of Dickens or not you'll be hooked."
 
-- Amy &nbsp;
+* Amy &nbsp;
+
 
 ---
 
@@ -75,6 +76,6 @@ The last one I will leave you with is by Sara J Maas. She is most known perhaps,
 
 ---
 
-![](/uploads/versions/courtofthornsandroses---x----267-400x---.jpg)![](/uploads/versions/courtofmistandfury---x----263-400x---.jpg)---
+![](/uploads/versions/courtofthornsandroses---x----267-400x---.jpg)![](/uploads/versions/courtofmistandfury---x----263-400x---.jpg)—
 
 &nbsp;
