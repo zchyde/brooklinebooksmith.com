@@ -30,20 +30,42 @@ I already know this series is going to be a guilty pleasure of mine! It tells th
 
 ---
 
-Next I want to introduce you to one of my favorite authors. She had created not one, but 3, fabulous re-tellings. I sincerely hope she continues to write many, because the worlds and characters she creates are incredible.
+Next I want to introduce you to one of my favorite authors. She has created not one, but 3, fabulous re-tellings. I sincerely hope she continues to write many, because the worlds and characters she creates are incredible.
 
 Introducing [Rosamund Hodge](http://www.rosamundhodge.net/)!
 
-(cover images)
+---
+
+![](/uploads/versions/9780062224743---x----266-400x---.jpg)
+
+---
 
 Her first book [Cruel Beauty](http://www.brooklinebooksmith-shop.com/book/9780062224743) is a drool worthy re-imagining of Beauty and the Beast. There is a magical library (of course!), a very angry teen named Nyx who wants nothing more than to escape her prescribed duty, and an evil ruler who plays the role of The Beast. It might sound like a pretty typical version of a well worn story, but I assure you it is anything but that.
 
-[Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shapeshifters. In some ways this might be her most fairy-tale like so far, in that she doesn't fully explain the magic, or peoples, or religions. Something I have come to love in a book beacause it give me free
+---
 
-Bright Smoke Cold Fire
+![](/uploads/versions/crimsonbound---x----265-400x---.jpg)---
 
-Hodge in general
+[Crimson Bound](http://www.brooklinebooksmith-shop.com/book/9780062224767) is a mind bending and swoon worthy tribute to Little Red Ridding Hood. I loved the world Hodge built. Full of very mysterious magics, secrets, otherworldly forests, and shape shifters. In some ways this might be her most fairy-tale like so far, in that she doesn't fully explain the magic, or peoples, or religions. Something I have come to love in a book because then I can let my imagination run wild and fill in all the spaces.
 
-robin hood bk - wolf
+---
+
+![](/uploads/versions/brightsmokecoldfire---x----264-400x---.jpg)---
+
+[Bright Smoke C](http://www.brooklinebooksmith-shop.com/book/9780062369413)[old Fire](http://www.brooklinebooksmith-shop.com/search/site/bright%2520smoke%2520cold%2520fire)&nbsp;(coming in the fall) is DELICIOUS. A re-imagining of Romeo and Juliet, Hodge went all out for this one. A doomed world, ancient magics, feuding families (of course), and dark plots. This is Hodge's strongest work so far. Her characters are bold, doomed, stubborn, and relatable. You won't want to miss it! Plus, isn't that cover KILLER?!
+
+---
+
+[Sara Rees Brennan](http://www.brooklinebooksmith-shop.com/search/author/%22Brennan%2C%20Sarah%20Rees%22) is a staff favorite, and Amy just loved her latest novel, a retelling of Dicken's Tale of Two Cities.
+
+---
+
+![](/uploads/versions/tellthewindandfire---x----265-400x---.jpg)
+
+---
+
+[Tell the Wind and Fire](http://www.brooklinebooksmith-shop.com/book/9780544318175) is a bright and inventive retelling of Dickens' A Tale of Two Cities. It's sharp, entertaining, and full of echoes of the original. There's not a weak character in the lot and each of them earn every word their given with blood. Full of wit and brimming with action, it doesn't matter if you're a fan of Dickens or not you'll be hooked.
+
+&nbsp;robin hood bk - wolf
 
 thomas - wicked thing
