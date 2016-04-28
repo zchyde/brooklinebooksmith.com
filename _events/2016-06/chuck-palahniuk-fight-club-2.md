@@ -8,7 +8,7 @@ program: '-writers-and-readers'
 ticketed: true
 test:
 book_isbn:
-  -
+  - '9781616559458'
 ---
 
 
@@ -16,13 +16,13 @@ book_isbn:
 
 <div>&nbsp;</div>
 
-* **This FIGHT CLUB 2 appearance is a signing <u>ONLY</u>.&nbsp;**
+* **This FIGHT CLUB 2 appearance is a signing <u>ONLY</u>.**
 * **Chuck will not be performing or reading at this event.**
-* **This is a ticketed event and each ticket will include a copy of the FIGHT CLUB 2 hardcover ($29.95).&nbsp;**
+* **This is a ticketed event and each ticket will include a copy of the FIGHT CLUB 2 hardcover ($29.95).**
 * **Tickets must be purchased in order to join the signing line.**
 * **In addition to FIGHT CLUB 2, Chuck will sign only TWO other items (pieces of memorabilia or books).**
 * **Chuck will happily pose for photos with fans.**
 * **Line formation will begin at noon.**
 
 
-**- &nbsp; &nbsp;&nbsp; Ticket on-sale date to be announced shortly.**
+**-      Ticket on-sale date to be announced shortly.**
