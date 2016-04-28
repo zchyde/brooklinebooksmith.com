@@ -23,6 +23,4 @@ book_isbn:
 * **In addition to FIGHT CLUB 2, Chuck will sign only TWO other items (pieces of memorabilia or books).**
 * **Chuck will happily pose for photos with fans.**
 * **Line formation will begin at noon.**
-
-
-**-      Ticket on-sale date to be announced shortly.**
+* **&nbsp;Ticket on-sale date to be announced shortly.**
