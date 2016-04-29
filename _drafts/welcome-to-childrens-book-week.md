@@ -27,7 +27,7 @@ And it's true. The books we read as kids are about us. They're for us. We take t
 <br>
 <br>This week we would like to celebrate children's books. We'd like to dig through our memories and shine a light on our new favorites. We'd like to acknowledge the wonderful things that exist in children's literature, and its huge variety, and its great worth. You'll find posts here on the blog all week, and a display of staff favorites back in the kids' section.
 <br>
-<br>Here is something I can't forget, from Kate DiCamillo's 2004 Newbery acceptance speech for her novel&nbsp;*The Tale of Despereaux*. (You can find the whole speech in that year's September/October issue of *Horn Book Magazine*, if you can reach back that far, or in the anthology&nbsp;*In the Words of the Winners*.)&nbsp;
+<br>Here is something I can't forget, from Kate DiCamillo's 2004 Newbery acceptance speech for her novel&nbsp;[*The Tale of Despereaux*](http://www.brooklinebooksmith-shop.com/book/9780763680893). (You can find the whole speech in that year's September/October issue of *Horn Book Magazine*, if you can reach back that far, or in the anthology&nbsp;*In the Words of the Winners*.)&nbsp;
 
 Kate, describing a regretted moment as a four-year-old, says:&nbsp;
 <br>
