@@ -27,10 +27,12 @@ And it's true. The books we read as kids are about us. They're for us. We take t
 <br>
 <br>This week we would like to celebrate children's books. We'd like to dig through our memories and shine a light on our new favorites. We'd like to acknowledge the wonderful things that exist in children's literature, and its huge variety, and its great worth. You'll find posts here on the blog all week, and a display of staff favorites back in the kids' section.
 <br>
-<br>There are some people you can't do better than, so in closing, here is something I can't forget from Kate DiCamillo's 2004 Newbery acceptance speech for her novel&nbsp;*The Tale of Despereaux*. (You can find the whole speech in that year's September/October issue, if you can reach back that far, or in the anthology&nbsp;*In the Words of the Winners*.)&nbsp;
+<br>Here is something I can't forget, from Kate DiCamillo's 2004 Newbery acceptance speech for her novel&nbsp;*The Tale of Despereaux*. (You can find the whole speech in that year's September/October issue of *Horn Book Magazine*, if you can reach back that far, or in the anthology&nbsp;*In the Words of the Winners*.)&nbsp;
+
+Kate, describing a regretted moment as a four-year-old, says:&nbsp;
 <br>
 <br>"...there are people who believe that stories for children should not have darkness in them. There are people who believe that children know nothing of darkness...Children's hearts, like our hearts, are complicated. And children need, just as we do, stories that reflect the truth of their own experience of being human. That truth is this: we all do battle with the darkness that is inside of us and outside of us. Stories that embody this truth offer great comfort because they tell us we do not do battle alone."
 <br>
-<br>Oof. That, there, is one of the things
+<br>There. That's it. That's one of the reasons that children's books matter.
 
 &nbsp;
