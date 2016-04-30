@@ -16,8 +16,14 @@ books:
 
 The numbers are in! Check below to see if one of your ticket stubs matches up with a gift basket. Winners can claim their prizes at the front desk by presenting the winning ticket.
 
-![](/uploads/versions/img_0739---x----640-640x---.jpg)
+![](/uploads/versions/img_0739---x----640-640x---.jpg)Book Basket
 
-![](/uploads/versions/img_0740---x----640-640x---.jpg)
+Winning number:
 
-![](/uploads/versions/img_0741---x----640-640x---.jpg)
+![](/uploads/versions/img_0740---x----640-640x---.jpg)Cook's Basket
+
+Winning Number:
+
+![](/uploads/versions/img_0741---x----640-640x---.jpg)Boston Basket
+
+Winning Number:
