@@ -2,9 +2,9 @@
 title: Winning Raffle Numbers - Independent Bookstore Day
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
-description:
-featured_image_path:
+date: 2016-05-01T12:00:00.000Z
+description: 'Check your ticket stub against these these numbers and see if you won an Indie Day gift basket!'
+featured_image_path: /img_07392.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
