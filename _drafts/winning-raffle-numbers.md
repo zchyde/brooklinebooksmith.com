@@ -14,3 +14,4 @@ books:
 ---
 
 
+The numbers are in! Check below to see if one of your ticket stubs matches up with a gift basket. Winners can claim their prizes at the front desk by presenting the winning ticket.
