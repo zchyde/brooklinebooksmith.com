@@ -1,8 +1,8 @@
 ---
 title: Winning Raffle Numbers - Independent Bookstore Day
-published: false
+published: true
 featured: false
-date: 2016-05-01T12:00:00.000Z
+date: 2016-05-01T11:53:00.000Z
 description: 'Check your ticket stub against these these numbers and see if you won an Indie Day gift basket!'
 featured_image_path: /img_07392.jpg
 featured_image_position: 50
@@ -20,9 +20,13 @@ The numbers are in! Check below to see if one of your ticket stubs matches up wi
 
 Winning number: 069524
 
+&nbsp;
+
 ![](/uploads/versions/img_0740---x----640-640x---.jpg)Cook's Basket
 
 Winning Number: 049202
+
+&nbsp;
 
 ![](/uploads/versions/img_0741---x----640-640x---.jpg)Boston Basket
 
