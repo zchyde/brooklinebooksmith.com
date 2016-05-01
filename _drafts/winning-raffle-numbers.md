@@ -14,16 +14,16 @@ books:
 ---
 
 
-The numbers are in! Check below to see if one of your ticket stubs matches up with a gift basket. Winners can claim their prizes at the front desk by presenting the winning ticket.
+The numbers are in! Check below to see if one of your ticket stubs matches up with a gift basket. Winners can claim their prizes at the front desk by presenting the winning ticket. Thanks again to everyone who came out to celebrate Independent Bookstore Day with us!
 
-![](/uploads/versions/img_0739---x----640-640x---.jpg)Book Basket
+![](/uploads/versions/img_0739---x----640-640x---.jpg)Books Basket
 
-Winning number:
+Winning number: 069524
 
 ![](/uploads/versions/img_0740---x----640-640x---.jpg)Cook's Basket
 
-Winning Number:
+Winning Number: 049202
 
 ![](/uploads/versions/img_0741---x----640-640x---.jpg)Boston Basket
 
-Winning Number:
+Winning Number: 069341
