@@ -20,13 +20,13 @@ The numbers are in! Check below to see if one of your ticket stubs matches up wi
 
 Winning number: 069524
 
-&nbsp;
+---
 
 ![](/uploads/versions/img_0740---x----640-640x---.jpg)Cook's Basket
 
 Winning Number: 049202
 
-&nbsp;
+---
 
 ![](/uploads/versions/img_0741---x----640-640x---.jpg)Boston Basket
 
