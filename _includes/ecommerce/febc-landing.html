@@ -1,8 +1,23 @@
 {% assign books = site.first-edition-books | where: 'published', true %}
 {% assign books = books | sort: 'selection_date' 'last' %}
-{% assign book_latest = books[0] %}
+
 {% assign subscriptions = page.subscriptions %}
 {% assign current_date = site.time | date: "%Y%m%d" %}
+{% assign count = '0' %}
+{% assign idx = '0' %}
+{% for book in books %}
+  {% assign selection_start = book.selection_date | date: "%Y%m%d" %}
+  {% comment %} Only show future events, i.e. where the start date is greater than current {% endcomment %}
+  {% if selection_start >= current_date %}
+    {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+    {% capture idx %}{{count}}{% endcapture %}
+    {% if count == '1' %}
+      {{ book.title }} {{ forloop.index }} - {{ idx }}<br>
+      {% assign book_latest = book.title %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
 
 
 
@@ -19,9 +34,13 @@
 </style>
 
 <div id="subscribe" class="row">
+
+
+
+
   <h3>Subscribe</h3>
   {% for object in subscriptions %}
-    {% include ecommerce/febc-paypal-recurring.html %}
+    {% include ecommerce/febc-paypal-subscribe.html %}
   {% endfor %}
 </div>
 
