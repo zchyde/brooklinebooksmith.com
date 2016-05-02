@@ -15,11 +15,11 @@ books:
 ---
 
 
-What I find appealing about children's picture books is that as an adult they take me roughly two minutes to read. Lets say I devoted an entire lunch break to reading picture books. I could bang out 30 books! 30! Extrapolate that out over the course of a work week and that's … hold on I have to take my shoes off for this one … a lot of books! Imagine if I were to go to a party and strike up a conversation with a person of affluence. *Did you hear? Carl read 150 books last week! The brain on that guy! He should be mayor!*A crowd would gather around me.*&nbsp;Tell us which one was your favorite, old sport!*I'd swish my cocktail around in my sippy cup and tell them about how [*My Cousin Momo*](http://www.brooklinebooksmith-shop.com/book/9780803740112) brought up some interesting points on how as a society we're so quick to make sweeping generalizations based on personal appearances and how on a glo-*that's great, Carl, but have you tried this p&acirc;t&eacute;? I hear the meat was minced less than hour ago!*
+What I find appealing about children's picture books is that as an adult they take me roughly two minutes to read. Lets say I devoted an entire lunch break to reading picture books. I could bang out 30 books! 30! Extrapolate that out over the course of a work week and that's … hold on I have to take my shoes off for this one … a lot of books! Imagine if I were to go to a party and strike up a conversation with a person of affluence. *Did you hear? Carl read 150 books last week! The brain on that guy! He should be mayor!&nbsp;*A crowd would gather around me.*&nbsp;Tell us which one was your favorite, old sport!&nbsp;*I'd swish my cocktail around in my sippy cup and tell them about how [*My Cousin Momo*](http://www.brooklinebooksmith-shop.com/book/9780803740112) brought up some interesting points on how as a society we're so quick to make sweeping generalizations based on personal appearances and how on a glo-*that's great, Carl, but have you tried this p&acirc;t&eacute;? I hear the meat was minced less than hour ago!*
 
 Golly, do I hate [p&acirc;t&eacute;](https://en.wikipedia.org/wiki/Pâté).
 
-But I do love *My Cousin Momo*and its creator, [Zachariah OHora](http://www.zohora.com), could probably get me to not hate p&acirc;t&eacute;.&nbsp;
+But I do love *My Cousin Momo&nbsp;*and its creator, [Zachariah OHora](http://www.zohora.com), could probably get me to not hate p&acirc;t&eacute;.&nbsp;
 
 ![](/uploads/versions/cqj9pxfvaaaxb2u---x----600-382x---.jpg)
 
