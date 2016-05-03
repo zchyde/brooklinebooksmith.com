@@ -15,7 +15,7 @@ books:
 ---
 
 
-I may be a full-fledged adult but that doesn't mean I can't get excited about seeing a flying squirrel dressed up as a muffin. Just when I thought that no mortal being would dare disrupt the balance of the world by immeasurably tilting the cuteness-scale so heavily in one direction, I stumble upon the art of&nbsp;[Zachariah OHora](http://www.zohora.com).&nbsp;
+I may be a full-fledged adult but that doesn't mean I can't get excited about seeing a flying squirrel dressed up as a muffin. Just when I thought that no mortal being would dare disrupt the balance of the world by immeasurably tilting the cuteness-scale so heavily in one direction, I stumble upon the art of&nbsp;[Zachariah OHora](http://www.zohora.com). &nbsp;
 
 ![](/uploads/versions/recbmark-01-compressor---x----850-607x---.jpg)
 
