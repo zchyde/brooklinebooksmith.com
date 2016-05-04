@@ -25,4 +25,4 @@ book_isbn:
 * **Line formation will begin at noon.**
 
 
-## [BUY TICKETS NOW](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-2520245121)
+## [BUY TICKETS NOW](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-25202451210)
