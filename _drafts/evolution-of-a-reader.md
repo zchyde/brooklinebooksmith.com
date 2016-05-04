@@ -3,7 +3,7 @@ title: The Evolution of a Reader
 published: false
 featured: false
 date: 2016-05-05T09:00:00.000Z
-description:
+description: "I wasn't a voracious reader as a child. I was rambunctious and had approximately no desire to make myself sit still long enough to get through a book. That's not to say that I didn't read anything. I did, just not as much as people assume when they hear that I'm a children's bookseller. But what I did have a desire for were stories."
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -35,7 +35,7 @@ It started in sixth grade, when we had to write and illustrate books to read to 
 <br>
 <br>I didn't do particularly well on that assignment.
 <br>
-<br>But then I discovered&nbsp;[my first Tamora Pierce book](http://www.brooklinebooksmith-shop.com/book/9780590554091), which hit me like a punch to the chest. I realized that I wanted to make other people feel the way that I did when I read that book. Even now, many years later, I'm on a quest to find more books that make me feel that way and to write books that do that to someone else. What I've discovered in my travels is that the stories that have that effect are often found in children's books.
+<br>But then I discovered [my first Tamora Pierce book](http://www.brooklinebooksmith-shop.com/book/9780590554091), which hit me like a punch to the chest. I realized that I wanted to make other people feel the way that I did when I read that book. Even now, many years later, I'm on a quest to find more books that make me feel that way and to write books that do that to someone else. What I've discovered in my travels is that the stories that have that effect are often found in children's books.
 <br>
 <br>I am always looking to change and evolve. I want to be better - a stronger writer, a more patient person, more clever, more concise - and the characters in children's books are always changing. Characters in children's books are constantly on the verge of becoming something else. I want to always feel on the verge of being something new. They question everything and analyze everything they do in a way that I think many adults pretend that they don't as they get older. I never want to grow out of that. I want to always examine why I do what I do. I want to be aware of myself in the world in a way that children's books almost always acknowledge.
 <br>
