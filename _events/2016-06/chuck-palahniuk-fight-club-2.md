@@ -23,4 +23,6 @@ book_isbn:
 * **In addition to FIGHT CLUB 2, Chuck will sign only TWO other items (pieces of memorabilia or books).**
 * **Chuck will happily pose for photos with fans.**
 * **Line formation will begin at noon.**
-* **&nbsp;Ticket on-sale date to be announced shortly.**
+
+
+## [BUY TICKETS NOW](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-2520245121)
