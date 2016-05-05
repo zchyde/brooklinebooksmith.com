@@ -3,7 +3,7 @@ title: The Evolution of a Reader
 published: true
 featured: false
 date: 2016-05-05T09:00:00.000Z
-description:
+description: "I wasn't a voracious reader as a child."
 featured_image_path: /uploads/amy_pic-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
