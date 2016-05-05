@@ -15,9 +15,10 @@ books:
 ---
 
 
-I wasn't a voracious reader as a child. I was rambunctious and had approximately no desire to make myself sit still long enough to get through a book. That's not to say that I didn't read anything. I did, just not as much as people assume when they hear that I'm a children's bookseller. What I did have a desire for was telling stories. Rather than sitting and reading, I was more likely to be found outside making up some elaborate story for why we were wearing bed sheets in the backyard and then getting loudly upset when someone didn't follow the story that I had so meticulously created.
+I wasn't a voracious reader as a child. I was rambunctious and had approximately no desire to make myself sit still long enough to get through a book. That's not to say that I didn't read anything. I did, just not as much as people assume when they hear that I'm a children's bookseller. What I did have a desire for was telling stories. Rather than sitting and reading, I was more likely to be found outside making up some elaborate story for why we were wearing bed sheets in the backyard and then getting loudly upset when someone didn't follow the story that I had so meticulously created.&nbsp;
 
 ---
+
 <br>
 <br>![full-img](/uploads/versions/cbw1---x----848-355x---.png)
 
