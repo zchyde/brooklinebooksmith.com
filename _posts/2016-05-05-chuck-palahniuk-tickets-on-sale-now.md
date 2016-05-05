@@ -16,6 +16,6 @@ books:
 
 [![full-img](/uploads/versions/chuck-compressor &#40;1&#41;---x----1000-746x---.jpg)](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-25202451210)
 
-Tickets to our signing event with Chuck Palahniuk are available for purchase now! Tickets are exclusively through eventbrite, so you can purchase them by visiting our eventbrite page.&nbsp;
+Tickets to our signing event with Chuck Palahniuk are available for purchase now! Tickets are exclusively through eventbrite, so you can purchase them by visiting our eventbrite page. &nbsp;
 
 ## [Buy Tickets Now](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-25202451210)
