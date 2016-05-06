@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-05-07T09:00:00.000Z
 description:
-featured_image_path:
+featured_image_path: /uploads/dr.-seuss-the-lorax-2.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -15,7 +15,7 @@ books:
 ---
 
 
-I cannot think of a time in my life where I did not love to read. My father was a submariner so he was often out at sea, and my mother was a social worker who toiled on for long hours into the night. Despite their busy schedules, my fondest childhood memories with my parents revolved around books and their encouragement of my reading habits. My mother would take me to the library and record herself reading aloud my favorite stories so that I could listen to them as often as I'd like whether or not she was around. Her particular version of the song the mother sings in "Love You Forever" by &nbsp;Robert Munsch will be forever ingrained in my heart. My father would share with me lists of his favorite books from childhood, and when he returned from the watery depths, I would gush to him about my thoughts on Charlie and his bizarre adventures at that chocolate factory or Milo's quest to rescue the Princesses of Sweet Rhyme and Pure Reason.
+I cannot think of a time in my life where I did not love to read. My father was a submariner so he was often out at sea, and my mother was a social worker who toiled on for long hours into the night. Despite their busy schedules, my fondest childhood memories with my parents revolved around books and their encouragement of my reading habits. My mother would take me to the library and record herself reading aloud my favorite stories so that I could listen to them as often as I'd like whether or not she was around. Her particular version of the song the mother sings in "Love You Forever" by  Robert Munsch will be forever ingrained in my heart. My father would share with me lists of his favorite books from childhood, and when he returned from the watery depths, I would gush to him about my thoughts on Charlie and his bizarre adventures at that chocolate factory or Milo's quest to rescue the Princesses of Sweet Rhyme and Pure Reason.
 
 These stories became more than mere friends to me. They have been life-long guides and have helped shape my personality. A few quirks in particular stand out to me.
 
@@ -25,11 +25,11 @@ These stories became more than mere friends to me. They have been life-long guid
 
 Like [Paul](http://www.brooklinebooksmith.com/2016/05/04/this-ones-going-out-to-your-moms/), I read (and re-read) *The Chronicles of Narnia* continually throughout my childhood. Puddlegum's valiant speech to the Green Lady has always remained a constant reminder to me of the strength of hope. How I would much rather be the type of person who believes in all that is beautiful and to let that be the guiding light of my life rather than focusing on the darkness that might surround me. Whenever I find life overwhelming, the mere thought of those words can bring me a bit of sunshine!
 
-> “Go back?" he thought. "No good at all! Go sideways? Impossible! Go forward? Only thing to do! On we go!" So up he got, and trotted along with his little sword held in front of him and one hand feeling the wall, and his heart all of a patter and a pitter.”&nbsp;
+> “Go back?" he thought. "No good at all! Go sideways? Impossible! Go forward? Only thing to do! On we go!" So up he got, and trotted along with his little sword held in front of him and one hand feeling the wall, and his heart all of a patter and a pitter.”
 >
 > -J.R.R. Tolkien, **The Hobbit**
 
-If you ask me where my spirit of adventure came from I might eventually lead you here! I read *The Hobbit* when I was in the 3rd grade because my older brother was reading it in high school at the time and he hated it! Either to prove him wrong to get ahead of the game I picked it up and quickly fell in love. Bilbo's adventures made me long for mountains, and taught me so much about being courageous!&nbsp;
+If you ask me where my spirit of adventure came from I might eventually lead you here! I read *The Hobbit* when I was in the 3rd grade because my older brother was reading it in high school at the time and he hated it! Either to prove him wrong to get ahead of the game I picked it up and quickly fell in love. Bilbo's adventures made me long for mountains, and taught me so much about being courageous!
 
 > “To live will be an awfully big adventure.”
 >
@@ -38,13 +38,13 @@ If you ask me where my spirit of adventure came from I might eventually lead you
 Oh my sweet never-aging Lost Boy. Peter's held a firm place in my heart for ages, but it was only after I read the book in its entirety that I truly understood the importance of it. Like Wendy, I got lost in my childhood and it took me quite awhile to actually be okay with the idea of growing up, but this book taught me that growing older did not also mean losing mean losing myself because to live at all is an adventure.
 
 > “Unless someone like you cares a whole awful lot,
-> <br>Nothing is going to get better. It's not.”&nbsp;
+> <br>Nothing is going to get better. It's not.”
 >
 > -Dr. Seuss, **The Lorax**
 
-My absolute favorite of Seuss' books. The Lorax not only taught me the importance of caring for the world around me, but with this one simple phrase he also taught me that my actions mattered. A lot.&nbsp;
+My absolute favorite of Seuss' books. The Lorax not only taught me the importance of caring for the world around me, but with this one simple phrase he also taught me that my actions mattered. A lot.
 
-> “It is our choices, Harry, that show what we truly are, far more than our abilities.”&nbsp;
+> “It is our choices, Harry, that show what we truly are, far more than our abilities.”
 >
 > -J.K. Rowling, **Harry Potter and the Chamber of Secret**s
 
