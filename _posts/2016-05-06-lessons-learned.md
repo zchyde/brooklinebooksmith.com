@@ -1,6 +1,6 @@
 ---
 title: Lessons Learned
-published: false
+published: true
 featured: false
 date: 2016-05-07T12:00:00.000Z
 description: These stories became more than mere friends to me. They have been life-long guides and have helped shape my personality. Here are a few lessons from some of my favorites.
@@ -15,7 +15,7 @@ books:
 ---
 
 
-I cannot think of a time in my life where I did not love to read. My father was a submariner so he was often out at sea, and my mother was a social worker who toiled on for long hours into the night. Despite their busy schedules, my fondest childhood memories with my parents revolved around books. My mother would take me to the library and record herself reading aloud my favorite stories so that I could listen to them as often as I'd like whether or not she was around. Her particular version of the song the mother sings in [Love You Forever&nbsp;](http://www.brooklinebooksmith-shop.com/book/9780920668375)by Robert Munsch will be forever ingrained in my heart. My father would share with me lists of his favorite books from childhood, and when he returned from the watery depths, I would gush to him about my thoughts on Charlie and his bizarre adventures at that chocolate factory or Milo's quest to rescue the Princesses of Sweet Rhyme and Pure Reason.
+I cannot think of a time in my life where I did not love to read. My father was a submariner so he was often out at sea, and my mother was a social worker who toiled on for long hours into the night. Despite their busy schedules, my fondest childhood memories with my parents revolved around books. My mother would take me to the library and record herself reading aloud my favorite stories so that I could listen to them as often as I'd like whether or not she was around. Her particular version of the song the mother sings in [Love You Forever](http://www.brooklinebooksmith-shop.com/book/9780920668375)by Robert Munsch will be forever ingrained in my heart. My father would share with me lists of his favorite books from childhood, and when he returned from the watery depths, I would gush to him about my thoughts on Charlie and his bizarre adventures at that chocolate factory or Milo's quest to rescue the Princesses of Sweet Rhyme and Pure Reason.
 
 ![](/uploads/versions/india-blog---x----2248-2871x---.jpg)These stories became more than mere friends to me. They have been life-long guides and have helped shape my personality. Here are a few lessons from some of my favorites.
 
