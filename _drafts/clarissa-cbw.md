@@ -1,17 +1,17 @@
 ---
-title: Clarissa CBW
+title: "Every Week is Children's Book Week At the Booksmith"
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
-featured_image_path:
+description: "The official Children's Book Week 2016 may be over, but we never stop celebrating our love of Children's literature!"
+featured_image_path: 'https://images-na.ssl-images-amazon.com/images/G/01/books/hopub/images/Spread3LRG._V200956226_.jpg'
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - clarissa
 books:
-  -
 ---
 
 
@@ -189,3 +189,23 @@ From Liz:
 ![](/uploads/versions/wrinkle---x----270-400x---.jpg)
 
 [A Wrinkle in Time by Madeleine L'Engle](__notset__)
+
+(http://www.brooklinebooksmith-shop.com/book/9780312367541)
+
+*intermediate fiction*
+
+---
+
+From Joell:
+
+---
+
+![](/uploads/versions/jackaby---x----267-400x---.jpg)Jackaby by William Ritter
+
+http://www.brooklinebooksmith-shop.com/book/9781616205461
+
+*young adult*
+
+---
+
+&nbsp;
