@@ -15,8 +15,8 @@ books:
 ---
 
 
-If you spend time in our Children's Section you know that we will send you home with a stack of books as tall as you are if we are given the chance.
-<br>We figured that you see our names (Alex, Amy, Clarissa, and India) enough on the shelf talkers that crowd our beloved shelves, so for Children's Book week 2016 we asked all the OTHER bookstore folks for their favorite children's books!
+If you spend time in our Children's Section you know that we will send you home with a stack of books as tall as you are if given the chance.
+<br>The Kids Team figured that you see our names (Alex, Amy, Clarissa, and India) enough on the shelf talkers that crowd our beloved shelves, so for Children's Book Week 2016 we asked all the OTHER bookstore folks for *their* favorite children's books!
 
 From Lindsay :
 
@@ -68,7 +68,9 @@ From Richard:
 
 ---
 
-![](/uploads/versions/myfathersdragon---x----315-400x---.jpg)[My Father's Dragon by Ruth Stiles Gannett](http://www.brooklinebooksmith-shop.com/book/9780679889113)
+![](/uploads/versions/myfathersdragon---x----315-400x---.jpg)
+
+[My Father's Dragon by Ruth Stiles Gannett](http://www.brooklinebooksmith-shop.com/book/9780679889113)
 
 *first chapter books*
 
@@ -188,9 +190,7 @@ From Liz:
 
 ![](/uploads/versions/wrinkle---x----270-400x---.jpg)
 
-[A Wrinkle in Time by Madeleine L'Engle](__notset__)
-
-(http://www.brooklinebooksmith-shop.com/book/9780312367541)
+[A Wrinkle in Time by Madeleine L'Engle](http://www.brooklinebooksmith-shop.com/book/9780312367541)
 
 *intermediate fiction*
 
@@ -200,12 +200,16 @@ From Joell:
 
 ---
 
-![](/uploads/versions/jackaby---x----267-400x---.jpg)Jackaby by William Ritter
-
-http://www.brooklinebooksmith-shop.com/book/9781616205461
+![](/uploads/versions/jackaby---x----267-400x---.jpg)[Jackaby by William Ritter](http://www.brooklinebooksmith-shop.com/book/9781616205461)
 
 *young adult*
 
 ---
+
+Children's Book Week might be over, but we celebrate our love of children's literature year round. So if you need a great recommendation, don't be shy, because we could go on all day.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
