@@ -171,3 +171,21 @@ From Dan:
 *intermediate fiction*
 
 ---
+
+From Ric:
+
+---
+
+![](/uploads/versions/presidentsquid---x----275-400x---.jpg)[President Squid by Aaron Reynolds](http://www.brooklinebooksmith-shop.com/book/9780763680862)
+
+*picture book*
+
+---
+
+From Liz:
+
+---
+
+![](/uploads/versions/wrinkle---x----270-400x---.jpg)
+
+[A Wrinkle in Time by Madeleine L'Engle](__notset__)
