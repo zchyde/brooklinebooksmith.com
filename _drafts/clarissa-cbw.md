@@ -54,6 +54,16 @@ From Tim:
 
 From Jon:
 
+![](/uploads/versions/windinthewillows---x----290-400x---.jpg)
+
+[The Wind in the Willows by Kenneth Grahame](http://www.brooklinebooksmith-shop.com/book/9781442473553)
+
+*intermediate fiction*
+
+---
+
+From Richard:
+
 &nbsp;
 
 &nbsp;
