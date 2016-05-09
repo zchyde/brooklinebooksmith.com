@@ -15,7 +15,7 @@ The Signed First Editions Club (SFE) is a subscription for newly released books 
 
 #### Why join the SFE?
 
-First and foremost, you get the benefit of our taste! If you shop at Brookline Booksmith you’re used to checking out our favorites, be they from the Staff Picks corner, our “Books We Love” table or the dozens of hand-written recommendations lining our shelves. If there is one thing that gets us giddier than the books we carry, it’s the books that haven’t come out yet and that we can’t wait to share with you. The SFE is our chance to give you the scoop on the next big thing – because what booksellers are reading today, critics are writing about tomorrow. Not only that, but your signed first edition is a personal connection to the author and will be the pride of your library for years to come – there’s just something about seeing that signature and knowing the hand that made it is shaping minds all over the world.
+First and foremost, you get the benefit of our experience! If you shop at Brookline Booksmith you’re used to checking out our favorites, be they from the Staff Picks corner, our “Books We Love” table or the dozens of hand-written recommendations lining our shelves. If there is one thing that gets us giddier than the books we carry, it’s the books that haven’t come out yet and that we can’t wait to share with you. The SFE is our chance to give you the scoop on the next big thing – because what booksellers are reading today, critics are writing about tomorrow. Not only that, but your signed first edition is a personal connection to the author and will be the pride of your library for years to come – there’s just something about seeing that signature and knowing the hand that made it is shaping minds all over the world.
 
 #### How much does SFE membership cost?
 
@@ -25,7 +25,7 @@ There are two options:
 2. Delivery Plan - $36.00/month: your signed book is mailed to you each month via USPS Media Mail.
 
 
-Both plans charge your credit card automatically every month on the 15th (although book availability/shipment dates vary – see below). You can subscribe for 3, 6, or 12 months, or become an ongoing member. Charges cease at the end of your enrollment.
+Both plans charge your credit card automatically every month on the date you initially signed up (although book availability/shipment dates vary – see below). You can subscribe for 3, 6, or 12 months, or become an ongoing member. Charges cease at the end of your enrollment.
 
 #### How do I join?
 
@@ -45,7 +45,7 @@ Most selections are a part of our acclaimed Writers & Readers event series. In o
 
 #### Can I pay with cash/gift card/store credit?
 
-No - this program is separate from our regular, in-store payment system.
+No - this program is separate from our regular, in-store payment system. Payment is done by credit card only, via PayPal.
 
 #### Can I pay the entire cost up-front or in-store?
 
@@ -53,7 +53,7 @@ No. See previous question.
 
 #### Can I apply my discount (WGBH, Coolidge etc.)?
 
-No discounts apply.
+Sorry, no discounts apply.
 
 #### Can I get my signed book personalized by the author?
 
@@ -73,7 +73,7 @@ No. Each book choice is linked to a specific month, and monthly plans are consec
 
 #### Can I return or opt out of an SFE selection?
 
-Returns are no problem - our store policy accepts books in their original unread condition (with the exception of personalized copies, which are nonreturnable.) Once we receive your return we credit a refund to the card on your SFE account. In addition, our twelve (12) month and ongoing subscribers receive “opt out” privileges. These members can notify us ahead of time to decline one selection per year.
+While there are no opt-out priviledges, returns are no problem. Our store policy accepts books in their original unread condition (with the exception of personalized copies, which are nonreturnable.) Once we receive your return we credit a refund to the card on your SFE account. For people in our delivery plan who have any questions or concerns about returns, please email SFE@brooklinebooksmith.com
 
 #### Can I attend ticketed readings by SFE authors?
 
