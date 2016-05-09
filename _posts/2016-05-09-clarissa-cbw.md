@@ -26,7 +26,7 @@ From Lindsay :
 
 *picture book*
 
-From the illustrator of the #1 smash hit [The Day the Crayons Quit](http://www.brooklinebooksmith-shop.com/book/9780399255373) comes a whodunnit just right for the youngest of readers (not to mention instructions for how to build the perfect paper airplane)! The animals' homes are disappearing. Tree by tree, the forest is being cut down. Clues, there must be clues! For instance, look--there is a mysterious bear carrying an ax. But what would a bear want with so many trees? Perhaps the discarded paper airplanes littering the forest floor have a story to tell?
+From the illustrator of the #1 smash hit [The Day the Crayons Quit](http://www.brooklinebooksmith-shop.com/book/9780399255373) comes a whodunnit just right for the youngest of readers (not to mention instructions for how to build the perfect paper airplane)! The animals' homes are disappearing. Tree by tree, the forest is being cut down. Clues, there must be clues! For instance, look–there is a mysterious bear carrying an ax. But what would a bear want with so many trees? Perhaps the discarded paper airplanes littering the forest floor have a story to tell?
 
 ---
 
@@ -53,6 +53,10 @@ From Tim:
 [Ollie's Odyssey](http://www.brooklinebooksmith-shop.com/book/9781442473553) by William Joyce
 
 *intermediate fiction*
+
+In the secret realm of toys, there are many mysteries. There is the Code of the Toys, which is as ancient as childhood. There's also the magic of becoming a child's favorite, the highest honor in the Toy World. Made by hand by Billy's mother, Ollie is a special toy, a toy who will matter. He becomes Billy's best friend, confidant, pal, and yes, Billy's favorite.
+<br>&nbsp; &nbsp;&nbsp; But there are villains in the Toy World, and Zozo, the clown king, is the most feared. He and his toy henchman (the Creeps) have sworn to steal and imprison favorite toys until they forget their children and become forever lost.
+<br>When Ollie is toynapped, Billy must rescue his beloved favorite from Zozo's subterranean lair in the old Carnival Place, past the park, through the woods, and into the night. Never has a journey of ten blocks been more epic.
 
 ---
 
