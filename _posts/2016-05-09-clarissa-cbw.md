@@ -170,9 +170,11 @@ From Amanda:
 
 ![](/uploads/versions/postman---x----511-400x---.jpg)
 
-[The Jolly Postman by Janet & Allan Ahlberg](http://www.brooklinebooksmith-shop.com/book/9780316126441)
+[The Jolly Postman](http://www.brooklinebooksmith-shop.com/book/9780316126441) by Janet & Allan Ahlberg
 
 *picture book*
+
+This classic depicts amusing correspondence from one fairy tale or Mother Goose character to another, giving readers a chance to follow-up on some favorite tales.
 
 ---
 
@@ -182,9 +184,11 @@ From Peter:
 
 ![](/uploads/versions/ferdinand---x----338-400x---.jpg)
 
-[The Story of Ferdinand by Munro Leaf](http://www.brooklinebooksmith-shop.com/book/9780670674244)
+[The Story of Ferdinand](http://www.brooklinebooksmith-shop.com/book/9780670674244) by Munro Leaf, illustrated by Robert Lawson
 
 *picture book*
+
+All the other bulls would run and jump and butt their heads together. But Ferdinand would rather sit and smell the flowers. And he does just that, until the day a bumblebee and some men from the Madrid bullfights give gentle Ferdinand a chance to be the most ferocious star of the "corrida" and the most unexpected comic hero.
 
 ---
 
@@ -194,9 +198,11 @@ From Dan:
 
 ![](/uploads/versions/winndixie---x----269-400x---.jpg)
 
-[Because of Winn-Dixie by Kate DiCamillo](http://www.brooklinebooksmith-shop.com/book/9780763680862)
+[Because of Winn-Dixie](http://www.brooklinebooksmith-shop.com/book/9780763680862) by Kate DiCamillo
 
 *intermediate fiction*
+
+One summer's day, ten-year-old India Opal Buloni goes down to the local supermarket for some groceries and comes home with a dog. But Winn-Dixie is no ordinary dog. It's because of Winn-Dixie that Opal begins to make friends. And it's because of Winn-Dixie that she finally dares to ask her father about her mother, who left when Opal was three. In fact, as Opal admits, just about everything that happens that summer is because of Winn-Dixie.
 
 ---
 
@@ -204,9 +210,11 @@ From Ric:
 
 ---
 
-![](/uploads/versions/presidentsquid---x----275-400x---.jpg)[President Squid by Aaron Reynolds](http://www.brooklinebooksmith-shop.com/book/9780763680862)
+![](/uploads/versions/presidentsquid---x----275-400x---.jpg)[President Squid](http://www.brooklinebooksmith-shop.com/book/9781452136479) by Aaron Reynolds, illustrated by Sara Varon
 
 *picture book*
+
+Join Aaron Reynolds and Sara Varon as they explore the ideal qualities of leaders, diplomats...and giant squid. Squid knows all about being president. It means living in a big house, doing all the talking oh, and having a tie is crucial. He's all set In the next election, make a more informed choice. Vote for President Squid.
 
 ---
 
@@ -216,9 +224,11 @@ From Liz:
 
 ![](/uploads/versions/wrinkle---x----270-400x---.jpg)
 
-[A Wrinkle in Time by Madeleine L'Engle](http://www.brooklinebooksmith-shop.com/book/9780312367541)
+[A Wrinkle in Time](http://www.brooklinebooksmith-shop.com/book/9780312367541) by Madeleine L'Engle
 
 *intermediate fiction*
+
+A tesseract (in case the reader doesn't know) is a wrinkle in time. To tell more would rob the reader of the enjoyment of Miss L'Engle's unusual book. Winner of the Newbery Medal in 1963, it is the story of the adventures in space and time of Meg, Charles Wallace, and Calvin O'Keefe (athlete, student, and one of the most popular boys in high school). They are in search of Meg's father, a scientist who disappeared while engaged in secret work for the government on the tesseract problem.
 
 ---
 
@@ -226,9 +236,11 @@ From Joell:
 
 ---
 
-![](/uploads/versions/jackaby---x----267-400x---.jpg)[Jackaby by William Ritter](http://www.brooklinebooksmith-shop.com/book/9781616205461)
+![](/uploads/versions/jackaby---x----267-400x---.jpg)[Jackaby](http://www.brooklinebooksmith-shop.com/book/9781616205461) by William Ritter
 
 *young adult*
+
+Newly arrived in New Fiddleham, New England, 1892, and in need of a job, Abigail Rook meets R. F. Jackaby, an investigator of the unexplained with a keen eye for the extraordinary--including the ability to see supernatural beings. Abigail has a gift for noticing ordinary but important details, which makes her perfect for the position of Jackaby's assistant. On her first day, Abigail finds herself in the midst of a thrilling case: A serial killer is on the loose. The police are convinced it's an ordinary villain, but Jackaby is certain the foul deeds are the work of the kind of creature whose very existence the local authorities--with the exception of a handsome young detective named Charlie Cane--seem adamant to deny.
 
 ---
 
