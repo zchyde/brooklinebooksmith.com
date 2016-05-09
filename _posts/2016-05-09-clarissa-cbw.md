@@ -134,10 +134,9 @@ From Russ:
 
 ![](/uploads/versions/swordandstone---x----273-400x---.jpg)[The Sword in the Stone](http://www.brooklinebooksmith-shop.com/book/9780399225024) by T. H. White
 
-intermediate fiction
+*intermediate fiction*
 
-Before there was a famous king named Arthur, there was a curious boy named Wart and a kind old wizard named Merlyn. Transformed by Merlyn into the forms of his fantasy, Wart learns the value of history from a snake, of education from a badger, and of courage from a hawk–the lessons that help turn a boy into a man. Together, Wart and Merlyn take the reader through this timeless story of childhood and adventure–"The Sword in the Stone."
-<br>T.H. White's classic tale of the young Arthur's questioning and discovery of his life is unparalleled for its wit and wisdom, and for its colorful characters, from the wise Merlyn to the heroic Robin Wood to the warmhearted King Pellinore.
+Before there was a famous king named Arthur, there was a curious boy named Wart and a kind old wizard named Merlyn. Transformed by Merlyn into the forms of his fantasy, Wart learns the value of history from a snake; of education from a badger; and of courage from a hawk–the lessons that help turn a boy into a man. Together, Wart and Merlyn take the reader through this timeless story of childhood and adventure.
 
 ---
 
