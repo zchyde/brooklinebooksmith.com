@@ -5,7 +5,7 @@ featured: false
 date: 2016-05-09T09:00:00.000Z
 description: "The official Children's Book Week 2016 may be over, but we never stop celebrating our love of Children's literature!"
 featured_image_path: 'https://images-na.ssl-images-amazon.com/images/G/01/books/hopub/images/Spread3LRG._V200956226_.jpg'
-featured_image_position: 50
+featured_image_position: 70
 show_featured_image_in_post: false
 fancy_font:
 category: kidsmith
@@ -15,14 +15,14 @@ books:
 ---
 
 
-If you spend time in our Children's Section you know that we will send you home with a stack of books as tall as you are if given the chance.
-<br>The Kids Team figured that you see our names (Alex, Amy, Clarissa, and India) enough on the shelf talkers that crowd our beloved shelves, so for Children's Book Week 2016 we asked all the OTHER bookstore folks for *their* favorite children's books! &nbsp;
+If you spend time in our Children's Section you know that we will send you home with a stack of books as tall as you are, if given the chance.
+<br>The Kids team figured that you see our names (Alex, Amy, Clarissa, and India) enough on the shelf talkers that crowd our beloved shelves, so for Children's Book Week 2016 we asked all the OTHER bookstore folks for *their* favorite children's books! &nbsp;
 
 From Lindsay :
 
 ---
 
-![](/uploads/versions/papercaper---x----315-400x---.jpg)[The Great Paper Caper](http://www.brooklinebooksmith-shop.com/book/9780399250972) by[Oliver Jeffers](http://www.oliverjeffers.com/)
+![](/uploads/versions/papercaper---x----315-400x---.jpg)[The Great Paper Caper](http://www.brooklinebooksmith-shop.com/book/9780399250972) by [Oliver Jeffers](http://www.oliverjeffers.com/)
 
 *picture book*
 
@@ -34,7 +34,7 @@ From Zoe:
 
 ![](/uploads/versions/sweep---x----258-400x---.jpg)
 
-[Sweep by Cate Tiernan](http://www.brooklinebooksmith-shop.com/book/9780142417171)
+[Sweep](http://www.brooklinebooksmith-shop.com/book/9780142417171) by Cate Tiernan
 
 *young adult*
 
@@ -46,7 +46,7 @@ From Tim:
 
 ![](/uploads/versions/olies-oddyssey---x----311-400x---.jpg)
 
-[Ollie's Odyssey by William Joyce](http://www.brooklinebooksmith-shop.com/book/9781442473553)
+[Ollie's Odyssey](http://www.brooklinebooksmith-shop.com/book/9781442473553) by William Joyce
 
 *intermediate fiction*
 
@@ -58,7 +58,7 @@ From Jon:
 
 ![](/uploads/versions/windinthewillows---x----290-400x---.jpg)
 
-[The Wind in the Willows by Kenneth Grahame](http://www.brooklinebooksmith-shop.com/book/9781442473553)
+[The Wind in the Willows](http://www.brooklinebooksmith-shop.com/book/9780141321134) by Kenneth Grahame, illustrated by Robin Lawrie
 
 *intermediate fiction*
 
@@ -70,7 +70,7 @@ From Richard:
 
 ![](/uploads/versions/myfathersdragon---x----315-400x---.jpg)
 
-[My Father's Dragon by Ruth Stiles Gannett](http://www.brooklinebooksmith-shop.com/book/9780679889113)
+[My Father's Dragon](http://www.brooklinebooksmith-shop.com/book/9780679889113) by Ruth Stiles Gannett, illustrated by Ruth Chrisman Gannett
 
 *first chapter books*
 
@@ -82,7 +82,7 @@ From Shuchi:
 
 ![](/uploads/versions/people---x----299-400x---.jpg)
 
-[People by Peter Spier](http://www.brooklinebooksmith-shop.com/book/9780385244695)
+[People](http://www.brooklinebooksmith-shop.com/book/9780385244695) by Peter Spier
 
 *children's non-fiction*
 
@@ -92,7 +92,7 @@ From Dana:
 
 ---
 
-![](/uploads/versions/madeline---x----285-400x---.jpg)[Madeline by Ludwig Bemelmans](http://www.brooklinebooksmith-shop.com/book/9780670445806)
+![](/uploads/versions/madeline---x----285-400x---.jpg)[Madeline](http://www.brooklinebooksmith-shop.com/book/9780670445806) by Ludwig Bemelmans
 
 *picture book*
 
@@ -102,7 +102,7 @@ From Jordan:
 
 ---
 
-![](/uploads/versions/first-test---x----250-400x---.jpg)[First Test by Tamora Pierce](http://www.brooklinebooksmith-shop.com/book/9780375829055)
+![](/uploads/versions/first-test---x----250-400x---.jpg)[First Test: Book 1 of the Protector of the Small Quartet](http://www.brooklinebooksmith-shop.com/book/9780375829055) by Tamora Pierce
 
 *young adult*
 
@@ -112,9 +112,12 @@ From Russ:
 
 ---
 
-![](/uploads/versions/swordandstone---x----273-400x---.jpg)[The Sword in the Stone by T H White](http://www.brooklinebooksmith-shop.com/book/9780399225024)
+![](/uploads/versions/swordandstone---x----273-400x---.jpg)[The Sword in the Stone](http://www.brooklinebooksmith-shop.com/book/9780399225024) by T. H. White
 
-*intermediate fiction*
+intermediate fiction
+
+Before there was a famous king named Arthur, there was a curious boy named Wart and a kind old wizard named Merlyn. Transformed by Merlyn into the forms of his fantasy, Wart learns the value of history from a snake, of education from a badger, and of courage from a hawk--the lessons that help turn a boy into a man. Together, Wart and Merlyn take the reader through this timeless story of childhood and adventure--"The Sword in the Stone."
+<br>T.H. White's classic tale of the young Arthur's questioning and discovery of his life is unparalleled for its wit and wisdom, and for its colorful characters, from the wise Merlyn to the heroic Robin Wood to the warmhearted King Pellinore.
 
 ---
 
