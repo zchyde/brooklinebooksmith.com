@@ -22,14 +22,12 @@ sitemap: false
 ---
 
 
-### Just the facts, ma'am:
-
-**What it is**: The Signed First Editions Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
+**What it is**: The Signed First Editions Book Club (SFE) is like a book of the month club, with a twist – every book is a first edition (produced in limited quantities) and signed by the author. The dust jacket gets a protective cover to keep everything pristine and collectible for your home library. Plus, these titles are our personal picks!
 
 **What you do**: Subscribe [here](#subscribe)&nbsp;and simply choose how many months you'd like to enroll: you can do three (3), six (6), twelve (12), or ongoing. (Ongoing plans can be canceled, all other plans are extendable by request).
 
 **What we do**: Read a ton of books (we do this part anyway) and give our most anticipated picks to a committee of experienced buyers and author event coordinators. A spirited debate ensues and one stellar forthcoming title wins the day. We order first editions from the publisher and arrange to have them signed ahead of time or in-store during visiting author readings. After that each book gets its own protective cover and a tucked-in personal note from a bookseller introducing the month's choice. Depending on your plan, we either pack your book up to be shipped or set it aside for you to pick up at our counter.
 
-**Money stuff**: You can either pay $29.00/month for our Pickup Plan, where you collect your prepaid book in-store at your convenience, or $36.00/month for the Delivery Plan, where we ship books straight to you (or a gift recipient). We bill your card for the flat fee once a month on the 15th. Subscription payments are processed by Paypal (though you do not need a Paypal account).
+**Money stuff**: You can either pay $29.00/month for our Pickup Plan, where you collect your prepaid book in-store at your convenience, or $36.00/month for the Delivery Plan, where we ship books straight to you (or a gift recipient). We bill your card for the flat fee once a month on the date you originally signed up. Subscription payments are processed by Paypal (though you do not need a Paypal account).
 
 **Other stuff**: You can find the more detailed explanations and more on our [Frequently Asked Questions (FAQ)](#faqs) list. For further help or lively conversation our SFE point man Tim Huggins can be reached by email at [sfe@brooklinebooksmith.com](javascript:void(location.href='mailto:'+String.fromCharCode(115,102,101,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)+'?subject=Signed%20First%20Editions%20Book%20Club')).
