@@ -106,9 +106,13 @@ From Dana:
 
 ---
 
-![](/uploads/versions/madeline---x----285-400x---.jpg)[Madeline](http://www.brooklinebooksmith-shop.com/book/9780670445806) by Ludwig Bemelmans
+![](/uploads/versions/madeline---x----285-400x---.jpg)
+
+[Madeline](http://www.brooklinebooksmith-shop.com/book/9780670445806) by Ludwig Bemelmans
 
 *picture book*
+
+"Bemelmans' drawings have put an authentic Paris within the covers of this book. The rhymes in which the tale is told make it one that children will enjoy repeating." --The New York Times.
 
 ---
 
@@ -119,6 +123,8 @@ From Jordan:
 ![](/uploads/versions/first-test---x----250-400x---.jpg)[First Test: Book 1 of the Protector of the Small Quartet](http://www.brooklinebooksmith-shop.com/book/9780375829055) by Tamora Pierce
 
 *young adult*
+
+Ten years after knighthood training was opened to females as well as males, no girl has been brave enough to try. But knighthood is Keladry's one true desire, and so she steps forward to put herself to the test. Up against the traditional hazing of pages and a grueling schedule, Kel faces one roadblock that seems insurmountable: Lord Wyldon, the training master of pages and squires. He is absolutely against girls becoming knights. So while he is forced to train her, Wyldon puts her on a probationary trial period that no male page has ever had to endure. Further set apart from her fellow trainees, Kel's path to knighthood is now that much harder. But she is determined to try, and she's making friends in the most unlikely places. One thing is for sure, Kel is not a girl to underestimate.
 
 ---
 
