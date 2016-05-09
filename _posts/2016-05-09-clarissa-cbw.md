@@ -70,6 +70,8 @@ From Jon:
 
 *intermediate fiction*
 
+The much-loved classic tales of Ratty, Mole, Badger and Toad. When Mole goes boating with Ratty instead of doing his spring-cleaning, he discovers a whole new world. As well as adventures on the river and in the Wild Wood, there are hijinx on the open road with that reckless ruffian, Mr. Toad of Toad Hall. Ratty, Mole, Badger and Toad become the firmest of friends, but after Toad's latest escapade, can they join together and beat the wretched weasels once and for all?
+
 ---
 
 From Richard:
@@ -82,6 +84,8 @@ From Richard:
 
 *first chapter books*
 
+The classic fantasy trilogy of Elmer Elevator and the flying baby dragon has delighted children and their parents for generations.
+
 ---
 
 From Shuchi:
@@ -93,6 +97,8 @@ From Shuchi:
 [People](http://www.brooklinebooksmith-shop.com/book/9780385244695) by Peter Spier
 
 *children's non-fiction*
+
+Emphasizes the uniqueness of each individual on earth.
 
 ---
 
