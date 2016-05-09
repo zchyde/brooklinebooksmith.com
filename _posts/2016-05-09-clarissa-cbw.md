@@ -40,6 +40,8 @@ From Zoe:
 
 *young adult*
 
+Morgan Rowlands never thought she was anything other than a typical sixteen-year-old girl. But when she meets Cal, a captivatingly handsome coven leader, she makes a discovery that turns her whole world upside down: she is a witch, descended from an ancient and powerful line. And so is Cal. Their connection is immediate and unbreakable; Cal teases out Morgan's power, her love, her magick. But Morgan discovers too soon that her powers are strong, almost too powerful to control. And she begins to suspect that Cal may be keeping secrets from her . . . secrets that could destroy them both.
+
 ---
 
 From Tim:
