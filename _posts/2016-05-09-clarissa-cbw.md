@@ -144,9 +144,11 @@ From Lisa:
 
 ---
 
-![](/uploads/versions/danny---x----259-400x---.jpg)[Danny the Champion of the World by Roald Dahl](http://www.brooklinebooksmith-shop.com/book/9780142410332)
+![](/uploads/versions/danny---x----259-400x---.jpg)[Danny the Champion of the World](http://www.brooklinebooksmith-shop.com/book/9780142410332) by Roald Dahl, illustrated by Quentin Blake
 
 *intermediate fiction*
+
+Danny has a life any boy would love: his home is a gypsy caravan; he's the youngest master car mechanic around; and his best friend is his dad, who never runs out of wonderful stories to tell. But one night Danny discovers a shocking secret that his father has kept hidden for years. Soon Danny finds himself the mastermind behind the most incredible plot ever attempted against nasty Victor Hazell, a wealthy landowner with a bad attitude. Can they pull it off? If so, Danny will truly be the champion of the world.
 
 ---
 
@@ -154,9 +156,11 @@ From Paul:
 
 ---
 
-![](/uploads/versions/bunny---x----217-400x---.jpg)[I am a Bunny by Ole Risom](http://www.brooklinebooksmith-shop.com/book/9780375827785)
+![](/uploads/versions/bunny---x----217-400x---.jpg)[I am a Bunny](http://www.brooklinebooksmith-shop.com/book/9780375827785) by Ole Risom, illustrated by Richard Scarry
 
 *board book*
+
+This classic Golden Book, illustrated by Richard Scarry, celebrates its 50th anniversary with the story of Nicholas, a bunny clad in red overalls. In the spring, he picks flowers, and in the summer, watches the frogs in the pond. In the fall, he sees the animals getting ready for winter. And when winter comes, he watches the snow falling from the sky...then curls up in his hollow tree to dream about spring.
 
 ---
 
