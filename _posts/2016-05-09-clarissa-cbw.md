@@ -26,6 +26,8 @@ From Lindsay :
 
 *picture book*
 
+From the illustrator of the #1 smash hit [The Day the Crayons Quit](http://www.brooklinebooksmith-shop.com/book/9780399255373) comes a whodunnit just right for the youngest of readers (not to mention instructions for how to build the perfect paper airplane)! The animals' homes are disappearing. Tree by tree, the forest is being cut down. Clues, there must be clues! For instance, look--there is a mysterious bear carrying an ax. But what would a bear want with so many trees? Perhaps the discarded paper airplanes littering the forest floor have a story to tell?
+
 ---
 
 From Zoe:
@@ -116,7 +118,7 @@ From Russ:
 
 intermediate fiction
 
-Before there was a famous king named Arthur, there was a curious boy named Wart and a kind old wizard named Merlyn. Transformed by Merlyn into the forms of his fantasy, Wart learns the value of history from a snake, of education from a badger, and of courage from a hawk--the lessons that help turn a boy into a man. Together, Wart and Merlyn take the reader through this timeless story of childhood and adventure--"The Sword in the Stone."
+Before there was a famous king named Arthur, there was a curious boy named Wart and a kind old wizard named Merlyn. Transformed by Merlyn into the forms of his fantasy, Wart learns the value of history from a snake, of education from a badger, and of courage from a hawk–the lessons that help turn a boy into a man. Together, Wart and Merlyn take the reader through this timeless story of childhood and adventure–"The Sword in the Stone."
 <br>T.H. White's classic tale of the young Arthur's questioning and discovery of his life is unparalleled for its wit and wisdom, and for its colorful characters, from the wise Merlyn to the heroic Robin Wood to the warmhearted King Pellinore.
 
 ---
