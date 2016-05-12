@@ -18,7 +18,6 @@ books:
 A beautiful book has been making its way through the children's section.
 
 [![](/uploads/versions/9781101994825---x----268-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781101994825)
-<br>![](/uploads/versions/9781101994825---x----268-400x---.jpg)
 
 Lauren Wolk's middle grade debut, *[Wolf Hollow](http://www.brooklinebooksmith-shop.com/book/9781101994825)*, is a foreboding and contemplative piece of historical fiction set in rural Pennsylvania during World War II. (Amy compared the feeling of reading it to the feeling of reading&nbsp;*[To Kill a Mockingbird](http://www.brooklinebooksmith-shop.com/book/9780061120084).*) Everyone is touched by the war, but Annabelle, the book's young narrator, knows the town itself as a safe and peaceful place–until the arrival of one fourteen-year-old girl.
 
