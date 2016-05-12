@@ -2,7 +2,7 @@
 title: 'Alex is Reading: WOLF HOLLOW'
 published: true
 featured: false
-date: 2016-05-12T18:40:00.000Z
+date: 2016-05-12T18:44:00.000Z
 description: "In children's books, a good ending and a happy one aren't always the same thing."
 featured_image_path: /wolf hollow.jpg
 featured_image_position: 50
