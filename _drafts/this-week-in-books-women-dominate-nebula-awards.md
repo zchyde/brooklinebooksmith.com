@@ -8,8 +8,9 @@ featured_image_path: /uprooted-naomi-novik-book-review-ya-fantasy2.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
+  - lydia
 books:
 ---
 
