@@ -38,6 +38,6 @@ Short Story: ["Hungry Daughters of Starving Mothers"](http://www.nightmare-magaz
 
 Andre Norton Award for YA Science Fiction and Fantasy: [*Updraft*](http://www.brooklinebooksmith-shop.com/book/9780765377838) by Fran Wilde
 
-You can read a complete list of Nebula winners (and many outstanding nominees) here.
+You can read a complete list of Nebula winners (and many outstanding nominees) [here](http://www.sfwa.org/nebula-awards/).
 
 http://www.theguardian.com/books/2016/may/16/women-writers-dominate-nebula-awards-naomi-novik-uprooted
