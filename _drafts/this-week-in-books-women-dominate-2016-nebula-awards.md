@@ -14,11 +14,9 @@ books:
 ---
 
 
-&nbsp;
-
 http://www.theguardian.com/books/2016/may/16/women-writers-dominate-nebula-awards-naomi-novik-uprooted
 
-the Science Fiction & Fantasy Writers of America.
+Women writers came close\*\* to sweeping the Nebula Awards for outstanding sci-fi/fantasy writing published in 2015, which were presented this weekend. The Nebulas, which are awarded by the [Science Fiction & Fantasy Writers of America](http://www.sfwa.org/).
 
 Novel: Uprooted by Naomi Novik
 
@@ -31,3 +29,5 @@ Short Story: Hungry Daughters of Starving Mothers by Alyssa Wong
 Andre Norton Award for YA Science Fiction and Fantasy: Updraft by Fran Wilde
 
 You can read a complete list of Nebula winners (and many outstanding nominees) [here](http://www.sfwa.org/nebula-awards/).
+
+\*\* George Miller, Brendan McCarthy and Nick Lathouris took home the Ray Bradbury Award for Outstanding Dramatic Presentation for their acclaimed screenplay Mad Max: Fury Road, [widely](http://nypost.com/2015/05/14/why-mad-max-fury-road-is-the-feminist-picture-of-the-year/) [hailed](http://www.theverge.com/2015/5/20/8620229/mad-max-fury-road-anti-feminist-mens-rights-boycott) [as](http://www.hitfix.com/harpy/7-ways-mad-max-fury-road-sublimely-subverts-movie-sexism) a [feminist](http://www.themarysue.com/george-miller-feminist-answer-franchise/) [magnum](http://www.theguardian.com/commentisfree/2015/may/27/sexists-are-scared-of-mad-max-because-it-is-a-call-to-dismantle-patriarchies) [opus](http://www.gender-focus.com/2015/05/26/who-killed-the-world-the-complicated-feminism-of-mad-max-fury-road/).
