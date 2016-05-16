@@ -36,7 +36,7 @@ Short Story: ["Hungry Daughters of Starving Mothers"](http://www.nightmare-magaz
 
 "As my date—Harvey? Harvard?—brags about his alma mater and Manhattan penthouse, I take a bite of overpriced kale and watch his ugly thoughts swirl overhead. It’s hard to pay attention to him with my stomach growling and my body ajitter, for all he’s easy on the eyes. Harvey doesn’t look much older than I am, but his thoughts, covered in spines and centipede feet, glisten with ancient grudges and carry an entitled, Ivy League stink..."
 
-Andre Norton Award for YA Science Fiction and Fantasy: Updraft by Fran Wilde
+Andre Norton Award for YA Science Fiction and Fantasy: [*Updraft*](http://www.brooklinebooksmith-shop.com/book/9780765377838) by Fran Wilde
 
 You can read a complete list of Nebula winners (and many outstanding nominees) here.
 
