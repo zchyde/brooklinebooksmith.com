@@ -1,8 +1,8 @@
 ---
 title: 'This Week in Books: Women Dominate Nebula Awards'
-published: false
+published: true
 featured: false
-date: 2016-05-16T14:30:00.000Z
+date: 2016-05-16T17:20:00.000Z
 description: 'In a genre once dominated by men, the best work of 2015 was all by or about women.'
 featured_image_path: /uprooted-naomi-novik-book-review-ya-fantasy2.jpg
 featured_image_position: 1
