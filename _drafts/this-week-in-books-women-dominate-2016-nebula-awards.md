@@ -1,5 +1,5 @@
 ---
-title: 'This Week in Books: Women Dominate 2015 Nebula Awards'
+title: 'This Week in Books: Women Dominate Nebula Awards'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
