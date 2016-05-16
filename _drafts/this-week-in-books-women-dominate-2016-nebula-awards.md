@@ -14,9 +14,11 @@ books:
 ---
 
 
-http://www.sfwa.org/nebula-awards/
+&nbsp;
 
 http://www.theguardian.com/books/2016/may/16/women-writers-dominate-nebula-awards-naomi-novik-uprooted
+
+the Science Fiction & Fantasy Writers of America.
 
 Novel: Uprooted by Naomi Novik
 
@@ -28,4 +30,4 @@ Short Story: Hungry Daughters of Starving Mothers by Alyssa Wong
 
 Andre Norton Award for YA Science Fiction and Fantasy: Updraft by Fran Wilde
 
-&nbsp;
+You can read a complete list of Nebula winners (and many outstanding nominees) [here](http://www.sfwa.org/nebula-awards/).
