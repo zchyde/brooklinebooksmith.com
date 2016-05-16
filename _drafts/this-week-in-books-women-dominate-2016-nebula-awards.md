@@ -21,7 +21,9 @@ Novel: *[Uprooted](http://www.brooklinebooksmith-shop.com/book/9780804179058)*by
 Agnieszka loves her valley home, her quiet village, the forests and the bright shining river. But the corrupted Wood stands on the border, full of malevolent power, and its shadow lies over her life. Her people rely on the cold, driven wizard known only as the Dragon to keep its powers at bay. But he demands a terrible price for his help: one young woman handed over to serve him for ten years, a fate almost as terrible as falling to the Wood.
 <br>The next choosing is fast approaching, and Agnieszka is afraid. She knows "everyone" knows that the Dragon will take Kasia: beautiful, graceful, brave Kasia, all the things Agnieszka isn t, and her dearest friend in the world. And there is no way to save her. But Agnieszka fears the wrong things. For when the Dragon comes, it is not Kasia he will choose.
 
-Novella: Binti by Nnedi Okorafor
+&nbsp;
+
+Novella: [*Binti*](http://www.brooklinebooksmith-shop.com/book/9780765385253) by Nnedi Okorafor
 
 Novelette: Our Lady of the Open Road by Sarah Pinsker
 
