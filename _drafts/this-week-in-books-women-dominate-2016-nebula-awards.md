@@ -30,7 +30,11 @@ Knowledge comes at a cost, one that Binti is willing to pay, but her journey wil
 
 Novelette: ["Our Lady of the Open Road"](http://www.sarahpinsker.com/our_lady_of_the_open_road/) by Sarah Pinsker
 
-Short Story: Hungry Daughters of Starving Mothers by Alyssa Wong
+"The needle on the veggie oil tank read flat empty by the time we came to China Grove. A giant pink and purple fiberglass dragon loomed over the entrance, refugee from some shuttered local amusement park, no doubt; it looked more medieval than Chinese. The parking lot held a mix of Chauffeurs and manual farm trucks, but I didn't spot any other greasers, so I pulled in..."
+
+Short Story: ["Hungry Daughters of Starving Mothers"](http://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/) by Alyssa Wong
+
+"As my date—Harvey? Harvard?—brags about his alma mater and Manhattan penthouse, I take a bite of overpriced kale and watch his ugly thoughts swirl overhead. It’s hard to pay attention to him with my stomach growling and my body ajitter, for all he’s easy on the eyes. Harvey doesn’t look much older than I am, but his thoughts, covered in spines and centipede feet, glisten with ancient grudges and carry an entitled, Ivy League stink..."
 
 Andre Norton Award for YA Science Fiction and Fantasy: Updraft by Fran Wilde
 
