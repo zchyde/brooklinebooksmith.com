@@ -1,6 +1,6 @@
 ---
 title: Before You Head Out
-published: true
+published: false
 featured: false
 date: 2016-05-17T10:00:00.000Z
 description: Let the Booksmith inspire your next big adventure
