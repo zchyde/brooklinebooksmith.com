@@ -21,7 +21,7 @@ Here at Brookline Booksmith we have everything you need to inspire you this summ
 
 Far Ride is a periodical dedicated to documenting cycling journeys around the world.&nbsp;
 
-The beautiful photos and detailed articles illuminate the world of adventure cycling. &nbsp;
+The beautiful photos and detailed articles illuminate the world of adventure cycling -- a challenging but rewarding way to travel.&nbsp;
 
 ![](/uploads/versions/_mg_0950-compressor---x----750-500x---.jpg)
 
