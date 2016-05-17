@@ -1,5 +1,5 @@
 ---
-title: '???'
+title: Before Your Next Adventure
 published: false
 featured: false
 date: 2016-05-17T10:00:00.000Z
@@ -17,7 +17,7 @@ books:
 
 ![](/uploads/versions/_mg_1024-compressor---x----500-500x---.jpg)
 
-Here at Brookline Booksmith we have everything you need to inspire your next big adventure. &nbsp;Great titles, helpful travel guides and some nifty magazines like Far Ride.
+Here at Brookline Booksmith we have everything you need to inspire your next big adventure. &nbsp;Great titles, helpful travel guides and some nifty magazines like [Far Ride](http://farridemag.com/main).
 
 Far Ride is a periodical dedicated to documenting cycling journeys around the world.&nbsp;
 
