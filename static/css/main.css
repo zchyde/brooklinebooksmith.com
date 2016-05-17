@@ -1652,6 +1652,64 @@ html, body {
       .boxes-2-across:nth-child(2n+1) {
         clear: left; } }
 
+.boxes-2-layers {
+  margin-bottom: 2em;
+  float: left;
+  display: block;
+  margin-right: 2.77778%;
+  width: 100%; }
+  .boxes-2-layers img {
+    width: 100%; }
+  .boxes-2-layers:last-child {
+    margin-right: 0; }
+  @media screen and (min-width: 56.25em) {
+    .boxes-2-layers {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 48.61111%; }
+      .boxes-2-layers:last-child {
+        margin-right: 0; }
+      .boxes-2-layers:nth-child(3n) {
+        margin-right: 0; }
+      .boxes-2-layers:nth-child(3n+1) {
+        clear: left; } }
+
+.boxes-2-layer {
+  margin-bottom: 2em;
+  float: left;
+  display: block;
+  margin-right: 2.77778%;
+  width: 100%; }
+  .boxes-2-layer img {
+    width: 100%; }
+  .boxes-2-layer:last-child {
+    margin-right: 0; }
+  @media screen and (max-width: 48em) {
+    .boxes-2-layer {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 48.61111%; }
+      .boxes-2-layer:last-child {
+        margin-right: 0; }
+      .boxes-2-layer:nth-child(1n) {
+        margin-right: 0; }
+      .boxes-2-layer:nth-child(1n+1) {
+        clear: left; } }
+  @media screen and (min-width: 75em) {
+    .boxes-2-layer {
+      float: left;
+      display: block;
+      margin-right: 2.77778%;
+      width: 48.61111%; }
+      .boxes-2-layer:last-child {
+        margin-right: 0; }
+      .boxes-2-layer:nth-child(1n) {
+        margin-right: 0; }
+      .boxes-2-layer:nth-child(1n+1) {
+        clear: left; } }
+
 .boxes-3-across {
   margin-bottom: 2em;
   float: left;
