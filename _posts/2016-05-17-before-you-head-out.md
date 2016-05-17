@@ -35,8 +35,6 @@ This detailed coloring book will certainly take you places. &nbsp;It's not your 
 
 This book will offer you a chance to explore a whole different world.&nbsp;
 
-&nbsp;
-
 As the weather warms up get outside, ride a bike, and come visit your favorite local bookstore.
 
 ---
