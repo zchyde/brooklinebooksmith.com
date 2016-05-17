@@ -1,6 +1,6 @@
 ---
 title: Before You Head Out
-published: false
+published: true
 featured: false
 date: 2016-05-17T10:00:00.000Z
 description: Let the Booksmith inspire your next big adventure
@@ -15,13 +15,15 @@ books:
 ---
 
 
+&nbsp;
+
 ![](/uploads/versions/_mg_1024-compressor---x----500-500x---.jpg)
 
 Here at Brookline Booksmith we have everything you need to inspire you this summer.&nbsp; Before your vacation (or staycation) cycle through our great titles, helpful travel guides and nifty magazines like [Far Ride](http://farridemag.com/main).
 
 Far Ride is a periodical dedicated to documenting cycling journeys around the world.&nbsp;
 
-The beautiful photos and detailed articles illuminate the world of adventure cycling -- a challenging but rewarding way to travel.&nbsp;
+The beautiful photos and detailed articles illuminate the world of adventure cycling – a challenging but rewarding way to travel.&nbsp;
 
 ![](/uploads/versions/_mg_0950-compressor---x----750-500x---.jpg)
 
