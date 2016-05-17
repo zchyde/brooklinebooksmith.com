@@ -3,7 +3,7 @@ title: Before Your Next Adventure
 published: false
 featured: false
 date: 2016-05-17T10:00:00.000Z
-description: '???'
+description: Let the Booksmith inspire your next big adventure
 featured_image_path: /uploads/_mg_0924-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -29,7 +29,9 @@ If you're spending time indoors grab a copy of
 
 [The Bicycling Coloring Book – Journey to the Edge of the World by Shan Jiang&nbsp;](http://www.brooklinebooksmith-shop.com/book/9781780677491)
 
-This detailed coloring book will certainly take you places. &nbsp;It's not your average de-stressing mechanism – this book will offer you a chance to explore a whole different world.&nbsp;
+This detailed coloring book will certainly take you places. &nbsp;It's not your average de-stressing mechanism.
+
+This book will offer you a chance to explore a whole different world.&nbsp;
 
 As the weather warms up get outside, ride a bike, and come visit your favorite local bookstore.
 
