@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-05-19T09:00:00.000Z
 description: 'parent-pleasing board books!'
-featured_image_path: /uploads/pea_0001-compressor.png
+featured_image_path: /uploads/pea_0001.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
