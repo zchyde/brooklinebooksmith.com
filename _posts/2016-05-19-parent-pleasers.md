@@ -15,7 +15,7 @@ books:
 ---
 
 
-Looking for some new great board books? Whether they are a gift or for you, these are sure to be parent pleasers!
+Looking for some new great board books? Whether they are a gift or for you, these are sure to be parent pleasers!&nbsp;
 
 [Little Pea by Amy Krouse Rosenthal illustrated by Jen Corace](http://www.brooklinebooksmith-shop.com/book/9781452142890)
 
