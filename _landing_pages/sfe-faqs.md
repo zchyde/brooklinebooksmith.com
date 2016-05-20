@@ -57,7 +57,7 @@ Sorry, no discounts apply.
 
 #### Can I get my signed book personalized by the author?
 
-If the SFE book of the month is by an author in our events series, personalizations are possible but never guaranteed. Contact Tim Huggins by email at <sfe@brooklinebooksmith.com> with specific inquiries. Personalized books are non-returnable.
+If the SFE book of the month is by an author in our events series, personalizations are possible but never guaranteed. Contact Tim Huggins by email at [sfe@brooklinebooksmith.com](mailto:sfe@brooklinebooksmith.com) with specific inquiries. Personalized books are non-returnable.
 
 #### Can I give someone a membership to the SFE as a gift?
 
@@ -69,7 +69,7 @@ Yes, we announce authors and titles in advance.
 
 #### Can I select which months/titles I want?
 
-No. Each book choice is linked to a specific month, and monthly plans are consecutive – in other words, no skipping around. 
+No. Each book choice is linked to a specific month, and monthly plans are consecutive – in other words, no skipping around.
 
 #### Can I return or opt-out of an SFE selection?
 
@@ -77,11 +77,11 @@ While there are no opt-out priviledges, returns are no problem. Our store policy
 
 #### Can I attend ticketed readings by SFE authors?
 
-Yes, although seating is limited and can't be guaranteed. No more than one complimentary ticket per subscriber. Your book will not be available for pick-up the same night as the event. For further event-related inquiries or if you'd like to attend a ticketed reading please email Tim Huggins at <sfe@brooklinebooksmith.com> as early as possible.
+Yes, although seating is limited and can't be guaranteed. No more than one complimentary ticket per subscriber. Your book will not be available for pick-up the same night as the event. For further event-related inquiries or if you'd like to attend a ticketed reading please email Tim Huggins at [sfe@brooklinebooksmith.com](mailto:sfe@brooklinebooksmith.com) as early as possible.
 
 #### When will I receive my books?
 
-The date you receive or can pick up your book varies from month to month, depending on publiser release dates and the schedule of our author visits. We send you these availability dates via email as soon as we know them, and Delivery Plan books are shipped immediately.
+The date you receive or can pick up your book varies from month to month, depending on publisher release dates and the schedule of our author visits. We send you these availability dates via email as soon as we know them, and Delivery Plan books are shipped immediately.
 
 #### What if I have a question that's not answered here?
 
