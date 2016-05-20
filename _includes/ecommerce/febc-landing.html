@@ -12,7 +12,7 @@
     {% capture count %}{{ count | plus: '1' }}{% endcapture %}
     {% capture idx %}{{count}}{% endcapture %}
     {% if count == '1' %}
-      {{ book.title }} {{ forloop.index }} - {{ idx }}<br>
+       {% comment %}<!-- {{ book.title }} {{ forloop.index }} - {{ idx }}<br>  -->{% endcomment %}
       {% assign book_latest = book.title %}
     {% endif %}
   {% endif %}

@@ -11,7 +11,7 @@ related: sfe
 
 #### What is the SFE club?
 
-The Signed First Editions Club (SFE) is a subscription for newly released books autographed by their authors. Membership is either ongoing or limited to three (3), six (6) or twelve (12) months. We can hold a signed first edition for you to pick up in the store every month or have it delivered to your doorstep for an additional fee. Each book comes with a clear jacket cover that ensures the shelf life of your collection.
+The Signed First Editions Book Club (SFE) is a subscription for newly released books autographed by their authors. Membership is either ongoing or limited to three (3), six (6) or twelve (12) months. We can hold a signed first edition for you to pick up in the store every month or have it delivered to your doorstep for an additional fee. Each book comes with a clear jacket cover that ensures the shelf life of your collection.
 
 #### Why join the SFE?
 
@@ -69,9 +69,9 @@ Yes, we announce authors and titles in advance.
 
 #### Can I select which months/titles I want?
 
-No. Each book choice is linked to a specific month, and monthly plans are consecutive – in other words, no skipping around. However, members of our 12 month and ongoing plans have limited “opt out” opportunities (see below.)
+No. Each book choice is linked to a specific month, and monthly plans are consecutive – in other words, no skipping around. 
 
-#### Can I return or opt out of an SFE selection?
+#### Can I return or opt-out of an SFE selection?
 
 While there are no opt-out priviledges, returns are no problem. Our store policy accepts books in their original unread condition (with the exception of personalized copies, which are nonreturnable.) Once we receive your return we credit a refund to the card on your SFE account. For people in our delivery plan who have any questions or concerns about returns, please email SFE@brooklinebooksmith.com
 
