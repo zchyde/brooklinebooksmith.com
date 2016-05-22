@@ -31,10 +31,8 @@ Here at Brookline Booksmith we have everything you need to inspire you this summ
 
 This detailed coloring book will certainly take you places. While most coloring books are geared toward calming meditation, this book asks its audience to journey into a wild, psychedelic new reality.&nbsp;
 
-Whether you're riding your bike this Summer or admiring the composition of spokes and wheels on your tea towel we have everything you'll need for your journey.&nbsp;
+---
 
-----
-
-As the weather warms up get outside, ride a bike (or wear a bike) and come visit your favorite local bookstore.
+Whether you're riding your bike this Summer or admiring the composition of spokes and wheels on your tea towel we have everything you'll need for your journey.&nbsp; As the weather warms up get outside, ride a bike (or wear a bike) and come visit your favorite local bookstore.
 
 ![](/uploads/versions/mg_0929-compressor---x----500-500x---.jpg)
