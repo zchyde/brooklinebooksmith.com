@@ -15,9 +15,11 @@ books:
 ---
 
 
-&nbsp;
+---
 
 ![](/uploads/versions/mg_1024-compressor---x----500-500x---.jpg)
+
+-----
 
 Here at Brookline Booksmith we have everything you need to inspire you this summer.&nbsp; Before your vacation (or staycation) cycle through our great titles, helpful travel guides and nifty magazines like [Far Ride](http://farridemag.com/main).
 
@@ -25,7 +27,9 @@ Here at Brookline Booksmith we have everything you need to inspire you this summ
 
 ---
 
-![](/uploads/versions/mg_0950-compressor---x----750-500x---.jpg) If you're spending time indoors grab a copy of
+![](/uploads/versions/mg_0950-compressor---x----750-500x---.jpg) ---
+
+If you're spending time indoors grab a copy of
 
 [The Bicycling Coloring Book – Journey to the Edge of the World by Shan Jiang&nbsp;](http://www.brooklinebooksmith-shop.com/book/9781780677491)
 
@@ -35,4 +39,12 @@ This detailed coloring book will certainly take you places. While most coloring 
 
 Whether you're riding your bike this Summer or admiring the composition of spokes and wheels on your tea towel we have everything you'll need for your journey.&nbsp; As the weather warms up get outside, ride a bike (or wear a bike) and come visit your favorite local bookstore.
 
+----
+
 ![](/uploads/versions/mg_0929-compressor---x----500-500x---.jpg)
+
+----
+
+&nbsp;
+
+*Photos by Gwendolyn Corkill 2016*
