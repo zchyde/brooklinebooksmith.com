@@ -15,13 +15,13 @@ books:
 ---
 
 
----
-
 ![](/uploads/versions/mg_1024-compressor---x----500-500x---.jpg)
 
------
+&nbsp;
 
 Here at Brookline Booksmith we have everything you need to inspire you this summer.&nbsp; Before your vacation (or staycation) cycle through our great titles, helpful travel guides and nifty magazines like [Far Ride](http://farridemag.com/main).
+
+
 
 *Far Ride* is a periodical dedicated to documenting cycling journeys around the world. The beautiful photos and detailed articles illuminate the world of adventure cycling – a challenging but rewarding way to travel.&nbsp;
 
