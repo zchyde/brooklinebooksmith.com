@@ -73,7 +73,7 @@ No. Each book choice is linked to a specific month, and monthly plans are consec
 
 #### Can I return or opt-out of an SFE selection?
 
-While there are no opt-out priviledges, returns are no problem. Our store policy accepts books in their original unread condition (with the exception of personalized copies, which are nonreturnable.) Once we receive your return we credit a refund to the card on your SFE account. For people in our delivery plan who have any questions or concerns about returns, please email SFE@brooklinebooksmith.com
+While there are no opt-out priviledges, returns are no problem. Our store policy accepts books in their original unread condition (with the exception of personalized copies, which are nonreturnable.) Once we receive your return we credit a refund to the card on your SFE account. For people in our delivery plan who have any questions or concerns about returns, please email [sfe@brooklinebooksmith.com](mailto:sfe@brooklinebooksmith.com).
 
 #### Can I attend ticketed readings by SFE authors?
 
