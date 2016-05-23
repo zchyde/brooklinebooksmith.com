@@ -3,7 +3,7 @@ title: 'This Week in Books: Mysterious French Author Turns Down Literary Award'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: Joseph Andras declines Goncourt Prize based on concept of literature as competitive.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -11,7 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
 
 
@@ -30,5 +29,9 @@ The same source goes on to say that:
 &nbsp;
 
 > Born in 1984, Joseph Andras lives in Normandy. He regularly stays abroad.
+
+A summary of Andras's novel, "De nos fr&egrave;res bless&eacute;s":
+
+> Algiers, 1956. Young Communist anticolonial workers rallied to the FLN (National Liberation Front), Fernand Yveton filed in its plant a bomb that never exploded. For this victimless symbolic act, he is executed on 11 February 1957 and will remain in history as the only European guillotined during the war in Algeria. This novel of burning admiration, stretched by the need for justice and stinging like a death sentence, paid tribute to him.
 
 "De nos fr&egrave;res bless&eacute;s" in not yet available in English.
