@@ -13,9 +13,9 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 deploy:
   provider: gcs
-  access_key_id: GOOGZOZD2KM62E4KE7P4
+  access_key_id: ${access_key_id}
   secret_access_key:
-    secure: XyabRyCssVWDFok6E+vQ2+LKUST74MdaC4JR7aaXoTEqxGaC+f43GlaT2Af0niwUbOJ+5ln/u8k3zeZNbKM1LkY6xCW8pHwSIQJzUSngnJfWBmpsApPffn3WwxIqK92Gyx7X2pB7F0mlDo2Cv5tFG+DBboTXLyroQjygN5e/9F+xkxmw33wChtMbub6rpaaDhyUYW0iOt87TXe+ZJc5KjNZOb5j3WXwOAGh49RkWYH/j0o+yAfiTe5+WZBlTQnoWKOf9IZDIYBRbxJZdWt11+3xqFvFKle4XeEVi8EjlptVf49u4uVvM1tLXcBbY3WpjgBeBvSUeIjf1zgHlDdAMkQf0KWOGiKQQ8Kja/BtC8FD4ZrfTN9e59wkXph+DL792HbSliyiERf/SuoJdnPSbvsrbLrcFe7F0a48jL/3n8Oco9E3M15O/0iGHYmosDgUyfDvnuHk8hoR8K8NGj1p+/RRzPHEaaA7NiYqX10Ll+CcTerylhs3qwjj6kabqXu1m7JOzu4yELgS+/nW2S37c8xE64kwe7EVVTu55bZ2lwBpqkIq539X/8GylraXnCwR9qFiCEwYxF4ML+f6InAT+707FBBBXdxKHGDAqfyZl3gRlmFLmw3u1n+ipFMgdKoWPQx0Hn13oWMXR+IDsrqp4SXdXYGWNg25HoSr8pA2e3ME=
+    secure: ${secret_access_key}
   bucket: www.brooklinebooksmith.com
   acl: public-read
   detect_encoding: true # <== default is false
