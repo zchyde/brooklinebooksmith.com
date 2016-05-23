@@ -23,7 +23,7 @@ The acad&eacute;mie Goncourt surprised the public this week by awarding the pres
 
 The same source goes on to say that:
 
-> Faced with numerous rumors begining to run on the identity of the writer, Actes Sud assures 20minutes.fr that they "are in no case hiding someone already known. He simply does not at all wish to be exposed in the media."
+> Faced with numerous rumors beginning to run on the identity of the writer, Actes Sud assures 20minutes.fr that they "are in no case hiding someone already known. He simply does not at all wish to be exposed in the media."
 
 ---
 
