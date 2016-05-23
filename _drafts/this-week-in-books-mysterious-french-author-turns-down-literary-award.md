@@ -24,9 +24,11 @@ The same source goes on to say that:
 
 > Faced with numerous rumors begining to run on the identity of the writer, Actes Sud assures 20minutes.fr that they "are in no case hiding someone already known. He simply does not at all wish to be exposed in the media."
 
-[Actes Sud](http://www.actes-sud.fr/contributeurs/andras-joseph) provides Andras's only available press photo, above, and biography:
+---
 
-&nbsp;
+![](/uploads/versions/joseph-andras-l-ecrivain-qui-dit-non-au-prix-goncourt-m335703---x----720-550x---.jpg)
+
+[Actes Sud](http://www.actes-sud.fr/contributeurs/andras-joseph) provides Andras's only available press photo, above, and biography:
 
 > Born in 1984, Joseph Andras lives in Normandy. He regularly stays abroad.
 
@@ -34,4 +36,4 @@ A summary of Andras's novel, "De nos fr&egrave;res bless&eacute;s":
 
 > Algiers, 1956. Young Communist anticolonial workers rallied to the FLN (National Liberation Front), Fernand Yveton filed in its plant a bomb that never exploded. For this victimless symbolic act, he is executed on 11 February 1957 and will remain in history as the only European guillotined during the war in Algeria. This novel of burning admiration, stretched by the need for justice and stinging like a death sentence, paid tribute to him.
 
-"De nos fr&egrave;res bless&eacute;s" in not yet available in English.
+"De nos fr&egrave;res bless&eacute;s" is not yet available in English.
