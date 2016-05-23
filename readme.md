@@ -1,1 +1,1 @@
-travis [![Build Status](https://travis-ci.org/sonnetmedia/brooklinebooksmith.com.svg)](https://travis-ci.org/sonnetmedia/brooklinebooksmith.com)
+[![Build Status](https://travis-ci.org/sonnetmedia/brooklinebooksmith.com.svg)](https://travis-ci.org/sonnetmedia/brooklinebooksmith.com)
