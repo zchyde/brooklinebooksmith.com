@@ -2,9 +2,9 @@
 title: 'This Week in Books: Mysterious French Author Turns Down Literary Award'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-05-23T17:29:00.000Z
 description: Joseph Andras declines Goncourt Prize based on concept of literature as competitive.
-featured_image_path:
+featured_image_path: /fernand-iveton-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
