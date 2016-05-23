@@ -23,12 +23,12 @@ The acad&eacute;mie Goncourt surprised the literary public this week by awarding
 
 The same source goes on to say that:
 
-Faced with numerous rumors begining to run on the identity of the writer, Actes Sud assures 20minutes.fr that they "are in no case hiding someone already known. He simply does not at all wish to be exposed in the media."
+> Faced with numerous rumors begining to run on the identity of the writer, Actes Sud assures 20minutes.fr that they "are in no case hiding someone already known. He simply does not at all wish to be exposed in the media."
 
 [Actes Sud](http://www.actes-sud.fr/contributeurs/andras-joseph) provides Andras's only available press photo, above, and biography:
 
 &nbsp;
 
-Born in 1984, Joseph Andras lives in Normandy. He regularly stays abroad.
+> Born in 1984, Joseph Andras lives in Normandy. He regularly stays abroad.
 
 "De nos fr&egrave;res bless&eacute;s" in not yet available in English.
