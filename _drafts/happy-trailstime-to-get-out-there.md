@@ -25,8 +25,4 @@ If there's a map you don't see on our shelves
 
 ---
 
-![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)
-
-&nbsp;
-
-&nbsp;
+[![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)[National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510)
