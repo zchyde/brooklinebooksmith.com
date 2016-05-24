@@ -21,7 +21,7 @@ The [American Hiking Society](http://www.americanhiking.org/?gclid=CLGS5rSC88wCF
 
 ---
 
-If there's a map you don't see on our shelves
+If there's a map you don't see on our shelves, we're happy to get it for you.
 
 ---
 
