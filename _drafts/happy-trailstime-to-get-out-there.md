@@ -17,4 +17,4 @@ books:
 
 [National Trails Day](http://nationaltrailsday.americanhiking.org/) (NTD), which is a celebration of America’s outstanding Trail System, occurs annually on the first Saturday in June - this year (2016) the celebration falls on June 4th.&nbsp; Local communities hold event, such as a Run for the Woods, hiking experiences, stewardship projects, bird watching expeditions, trail biking journeys, geocaching, and much more.&nbsp; What kinds of adventures are you planning for NTD? &nbsp; Click [here](http://nationaltrailsday.americanhiking.org/events/#page-1) to find events close to you. ![](/uploads/versions/travel-section---x----3264-2448x---.jpg)—
 
-The [American Hiking Society](http://www.americanhiking.org/?gclid=CLGS5rSC88wCFYMkhgodnW4FUw)
+The
