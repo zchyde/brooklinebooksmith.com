@@ -25,8 +25,12 @@ If there's a map you don't see on our shelves
 
 ---
 
-[![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)[National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510)
+[![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 25, 2016, and everyone can take part in the [celebration](https://www.nps.gov/subjects/centennial/index.htm )!
+
+[National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510)
+
+
 
 ---
 
-[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)
+[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)Be a
