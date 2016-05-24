@@ -1,6 +1,8 @@
 ---
 title: 'The Sorcerer’s Daughter: The Defenders of Shannara'
-isbn:
-binding:
-image_path:
+isbn: '9780804190718'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/718/190/9780804190718.jpg'
 ---
+
+
