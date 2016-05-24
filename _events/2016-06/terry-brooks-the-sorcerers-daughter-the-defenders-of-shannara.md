@@ -1,5 +1,5 @@
 ---
-title: '*Terry Brooks* **The Sorcerer’s Daughter: The Defenders of Shannara**'
+title: '*Terry Brooks*,  **The Sorcerer’s Daughter: The Defenders of Shannara**'
 published: true
 start_at: 2016-06-14T19:00:00.000Z
 image_path:
