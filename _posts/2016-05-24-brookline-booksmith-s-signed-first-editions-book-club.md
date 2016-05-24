@@ -5,7 +5,7 @@ featured: false
 date: 2016-05-24T09:00:00.000Z
 description: 'Like a book of the month club, with a twist'
 featured_image_path: /uploads/sfe_banner-01-compressor.jpg
-featured_image_position: 50
+featured_image_position: 54
 show_featured_image_in_post: false
 fancy_font:
 category:
