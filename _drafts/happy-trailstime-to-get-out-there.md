@@ -17,7 +17,7 @@ books:
 
 [National Trails Day](http://nationaltrailsday.americanhiking.org/) (NTD), which is a celebration of America’s outstanding Trail System, occurs annually on the first Saturday in June - this year (2016) the celebration falls on June 4th.&nbsp; Local communities hold events, such as a Run for the Woods, hiking experiences, stewardship projects, bird watching expeditions, trail biking journeys, geocaching, and much more.&nbsp; What kinds of adventures are you planning for NTD? &nbsp; Click [here](http://nationaltrailsday.americanhiking.org/events/#page-1) to find events close to you. ![](/uploads/versions/travel-section---x----3264-2448x---.jpg)—
 
-The [American Hiking Society](http://www.americanhiking.org/about-us/) (AHS) was founded in 1976.&nbsp; Recognizing the importance of our natural trails, complete with eco-advocacy for open space and biological corridors, and promoting people’s connections with nature, the AHS is very important. ---
+The [American Hiking Society](http://www.americanhiking.org/about-us/) (AHS) was founded in 1976.&nbsp; Recognizing the importance of our natural trails, complete with eco-advocacy for open space and biological corridors, and promoting people’s connections with nature, the AHS is very important for outdoor fun. ---
 
 There are more reasons to get outside on the trails![![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)
 
@@ -25,7 +25,7 @@ The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 2
 
 ---Be a Boston historic guru – walk-about the city with [Boston's Freedom Trail](http://www.brooklinebooksmith-shop.com/book/9780762772988) guide book or[Boston: A Historic Walking Tour](http://www.brooklinebooksmith-shop.com/book/9780738599366).
 
-[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)
+[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)![](/uploads/versions/boston-hist-guide---x----278-400x---.jpg)
 
 Looking to walk around Brookline? Consider grabbing a copy of [Exploring the Paths of Brookline![](/uploads/versions/exploring-paths-brookline---x----100-189x---.jpg)](http://www.brooklinebooksmith-shop.com/product/exploring-paths-brookline-pehlke-linda-olsen)---
 
@@ -35,4 +35,4 @@ We have tons of hiking and biking maps for you, from companies such as, National
 
 ---
 
-Are you a biking enthusiast?&nbsp; Can’t wait to get out on the biking trails?&nbsp; Consider the following books and maps which offer clear, concise, and off-the-beaten path routes just for you:&nbsp; [Best Bike Rides Boston](http://www.brooklinebooksmith-shop.com/book/9780762746941) or our great collections of [Rubel](http://www.bikemaps.com/regmaps.htm) bike maps.&nbsp; Booksmith is a proud support of [Bicycle Benefits](http://www.bicyclebenefits.org/#/home)!&nbsp; ![](/uploads/versions/wmacov---x----151-300x---.gif)There are many reasons to celebrate your favorite trails!&nbsp;
+Are you a biking enthusiast?&nbsp; Can’t wait to get out on the biking trails?&nbsp; Consider the following books and maps which offer clear, concise, and off-the-beaten path routes just for you:&nbsp; [Best Bike Rides Boston](http://www.brooklinebooksmith-shop.com/book/9780762746941) or our great collections of [Rubel](http://www.bikemaps.com/regmaps.htm) bike maps.&nbsp; Booksmith is a proud supporter of [Bicycle Benefits](http://www.bicyclebenefits.org/#/home)!&nbsp; ![](/uploads/versions/wmacov---x----151-300x---.gif)There are many reasons to celebrate your favorite trails!&nbsp;
