@@ -25,7 +25,7 @@ The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 2
 
 ---Be a Boston historic guru – walk-about the city with [Boston's Freedom Trail](http://www.brooklinebooksmith-shop.com/book/9780762772988) guide book or[Boston: A Historic Walking Tour](http://www.brooklinebooksmith-shop.com/book/9780738599366).
 
-[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)![](/uploads/versions/boston-hist-guide---x----278-400x---.jpg)
+[![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)[![](/uploads/versions/boston-hist-guide---x----278-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780738599366)
 
 Looking to walk around Brookline? Consider grabbing a copy of [Exploring the Paths of Brookline![](/uploads/versions/exploring-paths-brookline---x----100-189x---.jpg)](http://www.brooklinebooksmith-shop.com/product/exploring-paths-brookline-pehlke-linda-olsen)---
 
