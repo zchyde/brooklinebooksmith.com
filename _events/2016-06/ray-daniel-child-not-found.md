@@ -1,5 +1,5 @@
 ---
-title: '*Ray Daniel* **Child Not Found**'
+title: '**Ray Daniel**,  *Child Not Found*'
 published: true
 start_at: 2016-06-06T19:00:00.000Z
 image_path:
