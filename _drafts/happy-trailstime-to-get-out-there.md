@@ -27,4 +27,8 @@ The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 2
 
 [![](/uploads/versions/boston-s-freedom-trail---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780762772988)
 
-Looking to walk around Brookline? Consider grabbing a copy of [Exploring the Paths of Brookline![](/uploads/versions/exploring-paths-brookline---x----100-189x---.jpg)](http://www.brooklinebooksmith-shop.com/product/exploring-paths-brookline-pehlke-linda-olsen)We have tons of hiking maps for you, from companies such as,&nbsp; National Geographic, Rubel, and the Appalachian Mountain Club (AMC).including mapsIf there's a map you don't see on our shelves, we're happy to get it for you.&nbsp; The ordering timeline is generally a week or so.&nbsp; Questions about map orders, please email our map specialist, [Shuchi](javascript:void(location.href='mailto:'+String.fromCharCode(115,104,117,99,104,105,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)))!
+Looking to walk around Brookline? Consider grabbing a copy of [Exploring the Paths of Brookline![](/uploads/versions/exploring-paths-brookline---x----100-189x---.jpg)](http://www.brooklinebooksmith-shop.com/product/exploring-paths-brookline-pehlke-linda-olsen)---
+
+Hike in Massachusetts or in other portions of New England.&nbsp; Grab
+
+We have tons of hiking maps for you, from companies such as,&nbsp; National Geographic, Rubel, and the Appalachian Mountain Club (AMC).including mapsIf there's a map you don't see on our shelves, we're happy to get it for you.&nbsp; The ordering timeline is generally a week or so.&nbsp; Questions about map orders, please email our map specialist, [Shuchi](javascript:void(location.href='mailto:'+String.fromCharCode(115,104,117,99,104,105,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)))!
