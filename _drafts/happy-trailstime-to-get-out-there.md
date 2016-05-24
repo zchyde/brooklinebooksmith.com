@@ -25,7 +25,7 @@ If there's a map you don't see on our shelves
 
 ---
 
-[![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 25, 2016, and everyone can take part in the [celebration](https://www.nps.gov/subjects/centennial/index.htm )! Find your favorite park, use this guide book, [National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510), grab some birthday cake, and enjoy your adventure!
+[![](/uploads/versions/nat-geo-parks---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426216510)The [National Park Service](https://www.nps.gov/index.htm) turns 100 on August 25, 2016, and everyone can take part in the [celebration](https://www.nps.gov/subjects/centennial/index.htm )! Find your favorite park, use this guide book, [National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510), grab some birthday cake, and enjoy your adventure! Also, try A [Thinking Person's Guide to America's National Parks ![](/uploads/versions/thinking-guide-nat-parks---x----340-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780807600191  )
 
 ---
 
