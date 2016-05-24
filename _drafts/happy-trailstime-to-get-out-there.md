@@ -21,7 +21,7 @@ This August also marks the centennial of the [National Park Service](https://www
 
 ![](/uploads/versions/guide-to-national-parks-of-united-states---x----237-400x---.jpg)
 
-Find your favorite park, use this guide book, [National Geographic Guide to National Parks of the United States](http://www.brooklinebooksmith-shop.com/book/9781426216510), grab some birthday cake, and enjoy your adventure! &nbsp;In a joint effort between the National Park Service and the National Park Foundation, park visitors are encouraged to visit the National Parks both in person as well as online.&nbsp; “Search all experiences to identify an opportunity that matches your interests or share your national park story:&nbsp; [Find Your Park](http://findyourpark.com/).”&nbsp; Fun fact: the first National Park was Yellowstone, created in 1872.&nbsp;
+Find your favorite park, [use this guide book](http://www.brooklinebooksmith-shop.com/book/9781426216510), grab some birthday cake, and enjoy your adventure! The [Find Your Park](http://findyourpark.com/) project is a joint effort between the National Park Service and the National Park Foundation. Park visitors are encouraged to visit the National Parks both in person as well as online. Fun fact: the first National Park was Yellowstone, created in 1872.&nbsp;
 
 **Around Town**
 
@@ -31,7 +31,7 @@ Be a Boston historic guru – walk-about the city with [Boston's Freedom Trail](
 
 Looking to walk around Brookline? Consider grabbing a copy of [Exploring the Paths of Brookline.![](/uploads/versions/exploring-paths-brookline---x----100-189x---.jpg)](http://www.brooklinebooksmith-shop.com/product/exploring-paths-brookline-pehlke-linda-olsen)
 
-For Hiking in Massachusetts or in other portions of New England, grab [60 Hikes Within 60 Miles: Boston: Including Coastal and Interior Regions, and New Hampshire](http://www.brooklinebooksmith-shop.com/book/9780897326360) or the [Hiking Acadia National Park](http://www.brooklinebooksmith-shop.com/book/9781493016617) guide book. [![](/uploads/versions/60-hikes-boston---x----269-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780897326360)
+For hiking in Massachusetts or in other portions of New England, grab [60 Hikes Within 60 Miles: Boston: Including Coastal and Interior Regions, and New Hampshire](http://www.brooklinebooksmith-shop.com/book/9780897326360) or the [Hiking Acadia National Park](http://www.brooklinebooksmith-shop.com/book/9781493016617) guide book. [![](/uploads/versions/60-hikes-boston---x----269-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780897326360)
 
 We have tons of hiking and biking maps for you, from companies such as, National Geographic, Rubel, and the Appalachian Mountain Club (AMC).&nbsp; If there's a map you don't see on our shelves, we're happy to get it for you.&nbsp; The ordering timeline is generally a week or so.&nbsp; For questions about map orders, please email our map specialist,&nbsp;[Shuchi](javascript:void(location.href='mailto:'+String.fromCharCode(115,104,117,99,104,105,64,98,114,111,111,107,108,105,110,101,98,111,111,107,115,109,105,116,104,46,99,111,109)))!
 
@@ -43,4 +43,4 @@ Are you a biking enthusiast?&nbsp; Can’t wait to get out on the biking trails?
 
 ![](/uploads/versions/wmacov---x----151-300x---.gif)
 
-There are many reasons to celebrate your favorite trails!&nbsp;
+There are so many reasons to get outdoors this June!&nbsp;
