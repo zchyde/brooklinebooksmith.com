@@ -19,4 +19,4 @@ books:
 
 Every one of these titles come with the Booksmith seal of approval - these are books that we have read, loved, and want to share with you!
 
-For more information, visit our [Signed First Editions Book Club page](http://www.brooklinebooksmith.com/sfe/).
+To learn more and subscribe, visit our [Signed First Editions Book Club page](http://www.brooklinebooksmith.com/sfe/).
