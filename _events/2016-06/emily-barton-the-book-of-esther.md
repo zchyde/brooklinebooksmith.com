@@ -1,6 +1,6 @@
 ---
 title: '**Emily Barton**,  *The Book of Esther*'
-published: false
+published: true
 start_at: 2016-06-30T19:00:00.000Z
 image_path:
 book_category:
