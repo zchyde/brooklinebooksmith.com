@@ -35,4 +35,4 @@ We have tons of hiking and biking maps for you, from companies such as, National
 
 ---
 
-Are you a biking enthusiast?&nbsp; Can’t wait to get out on the biking trails?&nbsp; Consider the following books and maps which offer clear, concise, and off-the-beaten path routes just for you:&nbsp; [Best Bike Rides Boston](http://www.brooklinebooksmith-shop.com/book/9780762746941) or our great collections of [Rubel](http://www.bikemaps.com/regmaps.htm) bike maps.
+Are you a biking enthusiast?&nbsp; Can’t wait to get out on the biking trails?&nbsp; Consider the following books and maps which offer clear, concise, and off-the-beaten path routes just for you:&nbsp; [Best Bike Rides Boston](http://www.brooklinebooksmith-shop.com/book/9780762746941) or our great collections of [Rubel](http://www.bikemaps.com/regmaps.htm) bike maps.&nbsp; Booksmith is a proud support of Boston Bikes!
