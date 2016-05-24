@@ -1,7 +1,7 @@
 ---
 title: "Brookline Booksmith's Signed First Editions Book Club!"
 published: true
-featured: false
+featured: true
 date: 2016-05-24T09:00:00.000Z
 description: 'Like a book of the month club, with a twist'
 featured_image_path: /uploads/hex-01-compressor.jpg
