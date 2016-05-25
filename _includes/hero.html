@@ -15,7 +15,7 @@
           <h1 class="special">
             {{ page.page_heading | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
           </h1>
-        {% elsif page.title %}
+        {% elsif page.title != '' %}
         {% capture title %}{{ page.title }}{% endcapture %}
           <h1 class="special">
             {{ title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
