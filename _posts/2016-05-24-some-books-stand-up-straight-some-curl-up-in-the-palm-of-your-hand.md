@@ -15,6 +15,9 @@ books:
 ---
 
 
+&nbsp;
+{: .present-before-paste}
+
 ![](/uploads/versions/paul_image_books_today---x----600-800x---.jpg)
 {: .present-before-paste}
 
