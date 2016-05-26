@@ -8,7 +8,7 @@ featured_image_path: /uploads/sfamy shakespeare.png
 featured_image_position: 50
 show_featured_image_in_post: true
 fancy_font:
-category:
+category: kidsmith
 staff:
   - amy
 books:
