@@ -3,7 +3,7 @@ title: Between the Lines
 published: true
 start_at: 2016-05-31T16:30:00.000Z
 image_path:
-book_category:
+book_category: kidsmith
 program: between-the-lines-book-club
 ticketed: false
 test:
