@@ -4,7 +4,7 @@ published: true
 start_at: 2016-06-28T04:30:00.000Z
 image_path:
 book_category: kidsmith
-program: '-writers-and-readers'
+program: between-the-lines-book-club
 ticketed: false
 test:
 book_isbn:
