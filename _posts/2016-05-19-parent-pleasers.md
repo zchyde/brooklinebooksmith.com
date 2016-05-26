@@ -8,14 +8,14 @@ featured_image_path: /uploads/pea_0001.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
   - clarissa
 books:
 ---
 
 
-Looking for some new great board books? Whether they are a gift or for you, these are sure to be parent pleasers!&nbsp;
+Looking for some new great board books? Whether they are a gift or for you, these are sure to be parent pleasers!
 
 [Little Pea by Amy Krouse Rosenthal illustrated by Jen Corace](http://www.brooklinebooksmith-shop.com/book/9781452142890)
 
