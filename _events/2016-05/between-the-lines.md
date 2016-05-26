@@ -4,7 +4,7 @@ published: true
 start_at: 2016-05-31T16:30:00.000Z
 image_path:
 book_category: kidsmith
-program: between-the-lines-book-club
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:
