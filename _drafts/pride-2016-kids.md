@@ -21,6 +21,12 @@ As you may have caught from yesterday's post[PLEASE LINK], June is LGBT+ Pride m
 
 Lately there has been almost a flood of LGBT+ literature for younger readers--especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I dislike strongly. That's one of the tricky things about sudden gluts of representation: not only does everyone have their own experience, and experience the dissatisfaction of close-but-no-cigar, but sometimes in the excitement of being able to write about a thing, thing gets represented kind of terribly.
 
+But. As with all things. Somewhere amidst the not-so-much, there is really, truly, great, fun, tearjerking, lovely stuff.
+
+For example:
+
+Christine Heppermann's&nbsp;[*Ask Me How I Got Here*](http://www.brooklinebooksmith-shop.com/book/9780062387950)&nbsp;is a YA novel-in-verse about a teenage girl, accidentally pregnant, whose life shifts around in a number of ways because of this. One of the ways that life shifts: being with her boyfriend doesn't feel good, afterwards, so she breaks up with him, and stays friends, and starts seeing a girl she's got more in common with. No one says either relationship is fake. It's not a big deal. It's a really lovely book that feels like a deep breath.
+
 In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
 **1. If you're an LGBT+ teenager...**
