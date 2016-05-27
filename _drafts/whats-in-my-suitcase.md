@@ -14,7 +14,7 @@ books:
 ---
 
 
-Every time I take a trip I find that my suitcase is overly full of books--I will forsake extra clothes, and gladly repeat the same shoes for the entirety of my trip if it means that I can add more books to my bag. I never want to be the person who is stuck without something exciting to read, and so I tend to over compensate. (I am trying to get better about this!) As I type this blog, I am in the process of making a list of things to take with me on a month-long journey across the pond to study British libraries in England and Scotland! In an attempt to minimize my luggage, I am only taking 4 books outside of the ones that I need for my classes. My current plan is to take 1 book that I have never read which will be something to lose myself in at night when my mind is racing from the excitements of the day. The other 3 books must be something that I have known and love that warm my heart in some way, and that I can hopefully gift to friends I meet along my journey! (Because I will undoubtedly buy MORE books while I'm there, and what better way to commemorate new friendships than with books?)
+Every time I take a trip, I find that my suitcase is overly full of books–I will forsake extra clothes, and gladly repeat the same shoes for the entirety of my trip if it means that I can add more books to my bag. I never want to be the person who is stuck without something exciting to read, and so I tend to over compensate. (I am trying to get better about this!) As I type this blog, I am in the process of making a list of things to take with me on a month-long journey across the pond to study British libraries in England and Scotland! In an attempt to minimize my luggage, I am only taking 4 books outside of the ones that I need for my classes. My current plan is to take 1 book that I have never read which will be something to lose myself in at night when my mind is racing from the excitements of the day. The other 3 books must be something that I have known and love that warm my heart in some way, and that I can hopefully gift to friends I meet along my journey! (Because I will undoubtedly buy MORE books while I'm there, and what better way to commemorate new friendships than with books?)
 
 Here are the books that made the final cut!
 
@@ -28,12 +28,8 @@ Sherlock Holmes as a mouse! I'll primarily be living in London during my journey
 
 Inkheart by Cornelia Funke
 
-A story where the reading aloud of a book can bring the characters into our world while simultaneously taking someone into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my life path. Amy's rec says it all, "
+A story where the reading aloud of a book can bring the characters into our world while simultaneously taking someone into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my life path. Amy's rec says it all, that this is "a book for people who love books."
 
 My Mama Says There Aren't Any Zombies, Ghosts, Vampires, Creatures, Demons, Monsters, Fiends, Goblins or Things by Judith Viorst
 
-Pure nostalgia here. I read this book avidly as a child. My copy--though still somehow in tact!--is worn and battered, but it reminds me that even though sometimes mamas make mistakes, sometimes they don't! This is my way of keeping my mother nearby despite how far away I will be from her!
-
-&nbsp;
-
-Zoe and or Shuch--pictures to come! I got pulled away
+Pure nostalgia here. I adored this story as a child. My copy–though still somehow in tact!–is rather worn and battered. My mother read me many stories as a child, and this is one that left a strangely permanent mark on my heart. Bringing it with me is like bringing her with me as well!
