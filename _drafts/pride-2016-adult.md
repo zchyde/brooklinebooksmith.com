@@ -30,7 +30,7 @@ Marsha P. Johnson
 
 [GOOD BOOKS SUCH AS:]
 
-Here in the bookstore it's a good time to&nbsp;
+Here in the bookstore it's a good time to visit with some of your favorite LGBT authors--like Rita Mae Brown, Patricia Highsmith, Langston Hughes,&nbsp;
 
 You can find more on Boston's Pride festivities on the Boston Pride organization's [website](http://www.bostonpride.org/).
 
