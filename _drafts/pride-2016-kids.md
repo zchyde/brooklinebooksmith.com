@@ -1,17 +1,17 @@
 ---
-title: pride 2016 kids
+title: June At Every Age
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: 'LGBT+ books for kids and young adults, some funny, some helpful, and some of which are complete sobfests (the good kind, though).'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - alex-s
 books:
-  -
 ---
 
 
