@@ -32,4 +32,4 @@ Marsha P. Johnson
 
 You can find more on Boston's Pride festivities on the Boston Pride organization's [website](http://www.bostonpride.org/).
 
-By the way: if Barbra Streisand
+By the way: if Barbra Streisand's voice is blasting through your mind for the rest of the day with relentless vigor, I'm not sorry.
