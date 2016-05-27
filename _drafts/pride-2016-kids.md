@@ -41,9 +41,9 @@ Okay, so Captain Underpants made his debut in 1997, and I was probably old to be
 
 Maybe you don't want to laugh. Maybe you want to cry your face off. [*Aristotle and Dante Discover the Secrets of the Universe*](http://www.brooklinebooksmith-shop.com/book/9781442408937)&nbsp;by Benjamin Alire S&aacute;enz is four years old and one of my favorite books in the entire world. It's getting a sequel, too, and every time I tell someone this fact, I literally start to cry. That is how good this book is. It's about internalized violence, and not knowing who you are and how to feel about your feelings at fifteen, and about finding someone who makes you a better version of the perfect thing you are.&nbsp;
 
-Also, the audiobook is read by Lin Manuel Miranda, another man whose writing makes me weep on a fairly consistent basis. So if you like beautifully written books read by a supremely smart guy who actually probably cries more through his own musical than I did: [here it is, your perfect listening material](http://www.brooklinebooksmith-shop.com/book/9781442366411).
+Also, the audiobook is read by [Lin Manuel Miranda](http://www.brooklinebooksmith-shop.com/book/9781455539741), another man whose writing makes me weep on a fairly consistent basis. So if you like beautifully written books read by a supremely smart guy who actually probably cries more through performing his own musical than I did watching it: [here it is, your perfect listening material](http://www.brooklinebooksmith-shop.com/book/9781442366411).
 
-In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
+Finally, if you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
 **1. If you're an LGBT+ teenager...**
 
@@ -63,4 +63,4 @@ For a simple, cheery introduction to Pride parades and Pride month celebrations,
 
 These and more books will be on display in the kids' section, and you can follow the pink bookmarks around the section for some of our relevant staff favorites.
 
-However you plan to celebrate Pride, we hope it may it be a bright, joyful, and affirming month for everyone in your families!
+However you plan to celebrate Pride, we hope it may it be a bright, joyful, and affirming month for everyone in your families, full of love and books.
