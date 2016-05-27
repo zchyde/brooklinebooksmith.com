@@ -30,6 +30,8 @@ Marsha P. Johnson
 
 [GOOD BOOKS SUCH AS:]
 
+Here in the bookstore it's a good time to&nbsp;
+
 You can find more on Boston's Pride festivities on the Boston Pride organization's [website](http://www.bostonpride.org/).
 
 By the way: if Barbra Streisand's voice is blasting through your mind for the rest of the day with relentless vigor, I'm not sorry.
