@@ -17,8 +17,28 @@ books:
 
 &nbsp;
 
+As you may have caught from yesterday's post[PLEASE LINK], June is LGBT+ Pride month!
+
+Lately there has been almost a flood of LGBT+ literature for younger readers--especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I don't like at all. That's one of the tricky things about sudden gluts of representation: not only does every
+
+In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
+
+**1. If you're an LGBT+ teenager...**
+
+[*This Book is Gay*](http://www.brooklinebooksmith-shop.com/book/9781492617839)by James Dawson is really a beginner's guide to thinking about your own gender and sexuality. It's especially geared towards older kids and teens. It's friendly, encouraging, and a great starting place whether you just need a little encouragement or have no idea where to even start with yourself.
+
+**2. If you're the parent of an LGBT+ child...**
+
+The most balanced and sensible parenting book I've seen on the topic of parenting LGBT+ youth is&nbsp;[*This Is a Book for Parents of Gay Kids*](http://www.brooklinebooksmith-shop.com/book/9781452127538). "Gay" here also stands in (for reasons they explain in their introduction, which you may or may not agree with) for kids and young adults who fall across the gender and sexuality spectra. It's a gentle, practical guide that really knows what it's talking about.
+
+**3. If you're looking for a good history book...**
+
 A great nonfiction resource is Jerome Pohlen's&nbsp;*[Gay and Lesbian History for Kids: The Century-Long Struggle for LGBT Rights.](http://www.brooklinebooksmith-shop.com/book/9781613730829)&nbsp;*Accessible but rigorous history is interspersed with learning activities--and unlike a disappointing number of LGBT histories for all ages, this one remembers often overlooked transgender activists like Marsha P. Johnson.
 
-For a simple, cheery introduction to Pride parades and Pride month celebrations, try Gayle E. Pitman and Kristyna Litten's Stonewall Award-winning picture book&nbsp;*This Day In June**.*
+**4.&nbsp;*&nbsp;*If you're off to the parade...**
 
-&nbsp;
+For a simple, cheery introduction to Pride parades and Pride month celebrations, try Gayle E. Pitman and Kristyna Litten's Stonewall Award-winning picture book&nbsp;[*This Day In June*](http://www.brooklinebooksmith-shop.com/book/9781433816598)*.*
+
+These and more books will be on display in the kids' section, and you can follow the pink bookmarks around the section for some of our relevant staff favorites.
+
+However you plan to celebrate Pride, we hope it may it be a bright, joyful, and affirming month for everyone in your families!
