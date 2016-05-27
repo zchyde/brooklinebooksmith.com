@@ -22,6 +22,6 @@ I AM WRITING BLOCKED
 
 &nbsp;
 
-Pride has a lot of history, though, and it's not all rainbow streamers and pleasantly surprising outfits.
+Pride has a lot of history, though, and it's not all rainbow streamers and pleasantly surprising outfits. [GOOD BOOKS SUCH AS:]
 
 You can find more on Boston's Pride festivities on the Boston Pride organization's [website](http://www.bostonpride.org/).
