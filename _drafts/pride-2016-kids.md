@@ -33,7 +33,7 @@ Noelle Stevenson and co. make a hilarious, wildly popular, kid-friendly, all-age
 
 **3.**
 
-**What is this? WHAT is THIS?&nbsp;**
+What is this? WHAT is THIS? Is this a realistic YA romance featuring a straight trans girl protagonist...written by a trans woman author? Yes, it is! It's&nbsp;*If I Was Your Girl,&nbsp;*by Meredith Russo. It's here, it's real, it's really good and it's her first book, so read it that she might write another.
 
 In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
