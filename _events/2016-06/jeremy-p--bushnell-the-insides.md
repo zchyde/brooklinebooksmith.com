@@ -15,4 +15,4 @@ book_isbn:
 
 Ollie Krueger’s days as a punk kid practicing street magic are are mostly behind her. Now she’s a butcher at Carnage, a high-end restaurant offering deconstructed takes on meat. Before she knows it magic is back in Ollie’s life in the form of a mysterious knife, and she’s being chased through New York City, with the fabric of space-time tattering around her and weird inter-dimensional worms squirming their way into her kitchen.
 
-**Jeremy P. Bushnell will be appearing in conversation with appearing in conversation with Amy L. Clark who will also be reading from her short story collection *Adulterous Generation*. &nbsp;&nbsp;**
+**Jeremy P. Bushnell will be appearing in conversation with Amy L. Clark who will also be reading from her short story collection *Adulterous Generation*. &nbsp;&nbsp;**
