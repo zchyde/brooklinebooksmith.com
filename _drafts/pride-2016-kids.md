@@ -15,8 +15,6 @@ books:
 ---
 
 
-&nbsp;
-
 As you may have caught from yesterday's post[PLEASE LINK], June is LGBT+ Pride month!
 
 Lately there has been almost a flood of LGBT+ literature for younger readers--especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I dislike strongly. That's one of the tricky things about sudden gluts of representation: not only does everyone have their own experience, and experience the dissatisfaction of close-but-no-cigar, but sometimes in the excitement of being able to write about a thing, thing gets represented kind of terribly.
@@ -33,7 +31,17 @@ Noelle Stevenson and co. make a hilarious, wildly popular, kid-friendly, all-age
 
 **3.**
 
-What is this? WHAT is THIS? Is this a realistic YA romance featuring a straight trans girl protagonist...written by a trans woman author? Yes, it is! It's&nbsp;*If I Was Your Girl,&nbsp;*by Meredith Russo. It's here, it's real, it's really good and it's her first book, so read it that she might write another.
+What is this? WHAT is THIS? Is this a realistic YA romance featuring a straight trans girl protagonist...written by a trans woman author? Yes, it is! It's&nbsp;*[If I Was Your Girl](http://www.brooklinebooksmith-shop.com/book/9781250078407),&nbsp;*by Meredith Russo. It's here, it's real, it's really good and it's her first book, so read it that she might write another.
+
+**4.**
+
+Okay, so Captain Underpants made his debut in 1997, and I was probably old to be reading screwball first chapter books about two boys who don't pay attention in class whose cartoon invention comes to life and fights toilet humor villains in his tighty whiteys. BUT I DID NOT CARE. THIS STUFF WAS AWESOME. Recently the twelfth Captain Underpants book ([*Captain Underpants and the Sensational Saga of Sir Stinks-A-Lot*](http://www.brooklinebooksmith-shop.com/book/9780545504928)) sent the two boys to their futures, and guess what? One of them has a husband. I'm amazed, I'm delighted, and Captain America is still funny.
+
+**5.**
+
+Maybe you don't want to laugh. Maybe you want to cry your face off. [*Aristotle and Dante Discover the Secrets of the Universe*](http://www.brooklinebooksmith-shop.com/book/9781442408937)&nbsp;by Benjamin Alire S&aacute;enz is four years old and one of my favorite books in the entire world. It's getting a sequel, too, and every time I tell someone this fact, I literally start to cry. That is how good this book is. It's about internalized violence, and not knowing who you are and how to feel about your feelings at fifteen, and about finding someone who makes you a better version of the perfect thing you are.&nbsp;
+
+Also, the audiobook is read by Lin Manuel Miranda, another man whose writing makes me weep on a fairly consistent basis. So if you like beautifully written books read by a supremely smart guy who actually probably cries more through his own musical than I did: [here it is, your perfect listening material](http://www.brooklinebooksmith-shop.com/book/9781442366411).
 
 In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
