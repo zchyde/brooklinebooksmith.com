@@ -23,9 +23,17 @@ Lately there has been almost a flood of LGBT+ literature for younger readers--es
 
 But. As with all things. Somewhere amidst the not-so-much, there is really, truly, great, fun, tearjerking, lovely stuff.
 
-For example:
+**1.**
 
 Christine Heppermann's&nbsp;[*Ask Me How I Got Here*](http://www.brooklinebooksmith-shop.com/book/9780062387950)&nbsp;is a YA novel-in-verse about a teenage girl, accidentally pregnant, whose life shifts around in a number of ways because of this. One of the ways that life shifts: being with her boyfriend doesn't feel good, afterwards, so she breaks up with him, and stays friends, and starts seeing a girl she's got more in common with. No one says either relationship is fake. It's not a big deal. It's a really lovely book that feels like a deep breath.
+
+**2.**
+
+Noelle Stevenson and co. make a hilarious, wildly popular, kid-friendly, all-ages, gorgeous to look upon, over-the-top wacky summer camp fantasy adventure comic book series called&nbsp;*Lumberjanes*, which is about girl scouts (kind of) and dinosaurs and zombies and other normal summer stuff. Also it features the most quietly adorable two girl couple of all time, and oh, also, another one of the girls is trans. Six year old boys love this comic, and so do thirty year old women, and many other people besides. Why? Because it's perfect, and it just includes these things so beautifully amidst the many aspects of its perfection.
+
+**3.**
+
+**What is this? WHAT is THIS?&nbsp;**
 
 In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
