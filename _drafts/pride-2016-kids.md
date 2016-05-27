@@ -19,7 +19,7 @@ books:
 
 As you may have caught from yesterday's post[PLEASE LINK], June is LGBT+ Pride month!
 
-Lately there has been almost a flood of LGBT+ literature for younger readers--especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I don't like at all. That's one of the tricky things about sudden gluts of representation: not only does every
+Lately there has been almost a flood of LGBT+ literature for younger readers--especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I dislike strongly. That's one of the tricky things about sudden gluts of representation: not only does everyone have their own experience, and experience the dissatisfaction of close-but-no-cigar, but sometimes in the excitement of being able to write about a thing, thing gets represented kind of terribly.
 
 In case you're here looking, not for fiction, but for direction, here are four great resources for kids and parents:
 
