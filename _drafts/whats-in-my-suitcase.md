@@ -28,8 +28,10 @@ Sherlock Holmes as a mouse! I'll primarily be living in London during my journey
 
 Inkheart by Cornelia Funke
 
-A story where the reading aloud of a book can bring the characters into our world while simultaneously taking someone into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my life path. Amy's rec says it all, that this is "a book for people who love books."
+A story where the reading aloud of a book can bring the characters into our world while simultaneously taking someone into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my current life path. Amy's rec says it all, that this is "a book for people who love books."
 
 My Mama Says There Aren't Any Zombies, Ghosts, Vampires, Creatures, Demons, Monsters, Fiends, Goblins or Things by Judith Viorst
 
 Pure nostalgia here. I adored this story as a child. My copy–though still somehow in tact!–is rather worn and battered. My mother read me many stories as a child, and this is one that left a strangely permanent mark on my heart. Bringing it with me is like bringing her with me as well!
+
+So there you have it. A rather concise list that should keep me entertained without going over the weight limit for my suitcase leaving room for me to bring as many books back home with me as I am able!
