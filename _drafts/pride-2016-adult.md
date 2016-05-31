@@ -24,7 +24,7 @@ If you'd like to celebrate, reflect, or learn, I have a suggestion: books.
 
 Read the LGBT+ classics. Find Alison Bechdel's Funhome in graphica, and while you're there check out Dykes to Watch Out For. Head to humor for the works of David Sedaris, or check out Patricia Highsmith over in mystery. Find Oscar Wilde doing his thing in drama and fiction. Keep your eyes open for a used copy of Stone Butch Blues. Read James Baldwin and the poetry of Auden.
 
-Delve into hidden history. Read the classics written by authors you did not know were LGBT+ because they didn't tell you that part in school. Read Langston Hughes and Truman Capote, T.S. Eliot, Colm Tibin
+Delve into hidden history. Read the classics written by authors you did not know were LGBT+ because they didn't tell you that part in school. Read Langston Hughes and Truman Capote, T.S. Eliot, Colm T&oacute;ib&iacute;n.
 <br>
 <br>Find all of these, and others, on our shelves, specially bookmarked throughout the store for the month of June. Learn, remember, and celebrate, and don't forget: the books are always here, even when they're not as easy to pick out from the crowd.
 
