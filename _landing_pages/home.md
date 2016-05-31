@@ -3,15 +3,15 @@ featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
 banner_height: 450
 fancy_font:
-title: ''
+title:
 page_heading:
 Hardcover:
-  - '9781594206429'
+  - '9781101947241'
+  - '9780812988406'
   - '9781455539741'
-  - '9781476733500'
-  - '9781501142536'
-  - '9780762458684'
-  - '9781400068326'
+  - '9780300192223'
+  - '9780525428800'
+  - '9780062415837'
 Paperback:
   - '9781476738024'
   - '9780143124542'
