@@ -15,7 +15,7 @@ books:
 ---
 
 
-As you may have caught from yesterday's post[PLEASE LINK], June is LGBT+ Pride month!
+June is LGBT+ Pride month!
 
 Lately there has been almost a flood of LGBT+ literature for younger readers–especially in YA. I'm not going to say I have loved all that I have seen, and I'm also going to tell you straight up that some of it I dislike strongly. That's one of the tricky things about sudden gluts of representation: not only does everyone have their own experience, and experience the dissatisfaction of close-but-no-cigar, but sometimes in the excitement of being able to write about a thing, thing gets represented kind of terribly.
 
@@ -23,11 +23,11 @@ But. As with all things. Somewhere amidst the not-so-much, there is really, trul
 
 **1.**
 
-Christine Heppermann's&nbsp;[*Ask Me How I Got Here*](http://www.brooklinebooksmith-shop.com/book/9780062387950)&nbsp;is a YA novel-in-verse about a teenage girl, accidentally pregnant, whose life shifts around in a number of ways because of this. One of the ways that life shifts: being with her boyfriend doesn't feel good, afterwards, so she breaks up with him, and stays friends, and starts seeing a girl she's got more in common with. No one says either relationship is fake. It's not a big deal. It's a really lovely book that feels like a deep breath.
+Christine Heppermann's&nbsp;[*Ask Me How I Got Here*](http://www.brooklinebooksmith-shop.com/book/9780062387950)&nbsp;is a YA novel-in-verse about a teenage girl, accidentally pregnant, whose life shifts around in a number of ways because of this. One of the ways that life shifts: being with her boyfriend doesn't feel good, afterwards, so she breaks up with him, and stays friends, and starts seeing a girl she's got more in common with. No one says either relationship is fake. The fact of her ending up with this girl comes at you sideways, but it's not a big deal. That, and all the relationships in this book, feel real and complicated and safe. Her story could be so painful, but instead the whole book feels like taking a deep breath and letting it out slow.
 
 **2.**
 
-Noelle Stevenson and co. make a hilarious, wildly popular, kid-friendly, all-ages, gorgeous to look upon, over-the-top wacky summer camp fantasy adventure comic book series called&nbsp;[*Lumberjanes*](http://www.brooklinebooksmith-shop.com/book/9781608866878), which is about Girl Scouts (kind of) and dinosaurs and zombies and other normal summer stuff. Also it features the most quietly adorable two girl couple of all time, and oh, also, another one of the girls is trans. Six-year-old boys love this comic, and so do thirty-year-old women, and many other people besides. Why? Because it's perfect, and it just includes these things so beautifully amidst the many aspects of its perfection.
+Noelle Stevenson and co. make a hilarious, wildly popular, kid-friendly, all-ages, gorgeous to look upon, over-the-top wacky summer camp fantasy adventure comic book series called&nbsp;[*Lumberjanes*](http://www.brooklinebooksmith-shop.com/book/9781608866878), which is about Girl Scouts (kind of) and dinosaurs and zombies and other normal summer stuff. Also it features the most quietly adorable two girl couple of all time, and oh, also, another one of the girls is trans. Six-year-old boys love this comic, and so do thirty-year-old women, and many other people besides. Why? Because it's perfect, and its non-straight, non-cisgender characters are included so casually and beautifully amidst the many aspects of its perfection.
 
 **3.**
 
@@ -35,11 +35,11 @@ What is this? WHAT is THIS? Is this a realistic YA romance featuring a straight 
 
 **4.**
 
-Okay, so Captain Underpants made his debut in 1997, and I was probably too old to be reading screwball first chapter books about two boys who don't pay attention in class whose cartoon invention comes to life and fights toilet humor villains in his tighty-whities. BUT I DID NOT CARE. THIS STUFF WAS AWESOME. Recently the twelfth Captain Underpants book ([*Captain Underpants and the Sensational Saga of Sir Stinks-A-Lot*](http://www.brooklinebooksmith-shop.com/book/9780545504928)) sent the two boys to their futures, and guess what? One of them has a husband. I'm amazed, I'm delighted, and Captain America is still funny.
+Okay, so Captain Underpants made his debut in 1997, and I was probably too old to be reading screwball first chapter books about two boys who don't pay attention in class whose cartoon invention comes to life and fights toilet humor villains in his tighty-whities. BUT I DID NOT CARE. THIS STUFF WAS AWESOME. Recently the twelfth Captain Underpants book ([*Captain Underpants and the Sensational Saga of Sir Stinks-A-Lot*](http://www.brooklinebooksmith-shop.com/book/9780545504928)) sent the two boys to their futures, and guess what? One of them has a husband. I'm amazed, I'm delighted, and Captain Underpants is still funny.
 
 **5.**
 
-Maybe you don't want to laugh. Maybe you want to cry your face off. [*Aristotle and Dante Discover the Secrets of the Universe*](http://www.brooklinebooksmith-shop.com/book/9781442408937)&nbsp;by Benjamin Alire S&aacute;enz is four years old and one of my favorite books in the entire world. It's getting a sequel, too, and every time I tell someone this fact, I literally start to cry. That is how good this book is. It's about internalized violence, and not knowing who you are and how to feel about your feelings at fifteen, and about finding someone who makes you a better version of the perfect person you are.
+Maybe you don't want to laugh. Maybe you want to cry your face off. [*Aristotle and Dante Discover the Secrets of the Universe*](http://www.brooklinebooksmith-shop.com/book/9781442408937)&nbsp;by Benjamin Alire S&aacute;enz is four years old and one of my favorite books in the entire world. It's getting a sequel, too, and every time I tell someone this fact, I literally start to cry. That is how good this book is. It's about internalized violence, and not knowing who you are and how to feel about your feelings at fifteen, and about finding someone who makes you a better version of the perfect thing you are.
 
 Also, the audiobook is read by [Lin-Manuel Miranda](http://www.brooklinebooksmith-shop.com/book/9781455539741), another man whose writing makes me weep on a fairly consistent basis. So if you like beautifully written books read by a supremely smart guy who actually probably cries more through performing his own musical than I did watching it: [here it is, your perfect listening material](http://www.brooklinebooksmith-shop.com/book/9781442366411).
 
