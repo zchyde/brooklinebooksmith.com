@@ -4,8 +4,9 @@ featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
 featured_image_credit: '[Liz Linder](http://lizlinder.com)'
 fancy_font: Cabin-sketch
-description: "Buying Hours: \nWednesday through Saturday 10am-4pm \n\nNo appointment needed. \n\nNo curbside service; all books must be brought inside. Call ahead if you need special assistance.\n\nPhoto ID required. \n\nWe offer 15% of original price in cash (checks over $50) OR 20% in store credit. Store credit can be used for anything in the store and never expires!\n\nContact Us:   <ubc@brooklinebooksmith.com>"
+description: "Buying Hours: \n**Wednesday through Saturday 10am-4pm**\n\nNo appointment needed. \n\nNo curbside service; all books must be brought inside. Call ahead if you need special assistance.\n\nPhoto ID required. \n\nWe offer 15% of original price in cash (checks over $50) OR 20% in store credit. Store credit can be used for anything in the store and never expires!\n\nContact Us:   <ubc@brooklinebooksmith.com>"
 ---
+
 
 Since 2004, the Used Book Cellar, located in the basement of Brookline Booksmith, has been Boston’s best-kept secret. With over 25,000 books in our inventory, you’re guaranteed to find something to pique your interest. Whether you’re looking for a good mystery to get you through the commute home, a picture book for your family story time, or some hard-hitting cultural analysis, there’s always a good reason to stop by!
 
@@ -15,7 +16,7 @@ Bring your books to the desk in the Used Book Cellar anytime during our buying h
 
 There is no limit to the number of books you may bring in at one time. Please bear in mind that the only parking available is metered and on-street, and we do not have an elevator or back entrance. We can loan you a hand cart on request. Once your books are in the store our staff can assist with transporting them up and down the stairs. Our buyers will go through any books you bring in, but all unpurchased books must be removed by the owner as we do not accept donations. For your convenience our buying guidelines are included below.
 
-Wondering if we’ll buy something specific? Feel free to call during buying hours and speak with a used book buyer or e-mail us at [&#117;&#098;&#099;&#064;&#098;&#114;&#111;&#111;&#107;&#108;&#105;&#110;&#101;&#098;&#111;&#111;&#107;&#115;&#109;&#105;&#116;&#104;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#117;&#098;&#099;&#064;&#098;&#114;&#111;&#111;&#107;&#108;&#105;&#110;&#101;&#098;&#111;&#111;&#107;&#115;&#109;&#105;&#116;&#104;&#046;&#099;&#111;&#109;).
+Wondering if we’ll buy something specific? Feel free to call during buying hours and speak with a used book buyer or e-mail us at [ubc@brooklinebooksmith.com](&#109;&#097;&#105;&#108;&#116;&#111;:&#117;&#098;&#099;&#064;&#098;&#114;&#111;&#111;&#107;&#108;&#105;&#110;&#101;&#098;&#111;&#111;&#107;&#115;&#109;&#105;&#116;&#104;&#046;&#099;&#111;&#109;).
 
 ### What are we looking for?
 
