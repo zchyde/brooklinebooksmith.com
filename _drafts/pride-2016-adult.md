@@ -14,6 +14,10 @@ books:
 ---
 
 
+June has been LGBT+ Pride month for a long time, in various capacities and at various levels of acceptance.
+
+&nbsp;
+
 June, as you probably know or gathered from yesterday's blog post, is Pride month. Pride month is shorthand for LGBT Pride, which is shorthand for all the sexual and gender identities that aren't straight and cisgender. In the last decade, June has been recognized as Pride month on a national level by the President, but Pride is a grassroots affair at its heart. The early activity that eventually birthed today's sparkling, rainbow festooned, highly costumed, loudly advertised parades were begun in direct response to violence by bisexual activist Brenda Howard in 1970. They were a combined celebration of self and a commemoration of the Stonewall Riots of 1969.
 
 Forty-six years later, the word Brenda Howard used to describe herself is still a ghost in pop culture, infamously failing to be spoken on page or on screen no matter how bisexual the characters may seem to be.
