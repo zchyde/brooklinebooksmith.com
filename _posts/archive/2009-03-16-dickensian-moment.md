@@ -1,0 +1,15 @@
+---
+published: false
+title: A Dickensian Moment?
+date: '2009-03-16T17:55:00.005-04:00'
+author: Lori
+tags:
+- movies
+- Events
+- Fiction
+modified_datetime: '2009-03-16T19:01:44.553-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2823113860555973762
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/03/dickensian-moment.html
+---
+
+I absolutely loved Matthew Pearl's <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780812971040">The Dante Club</a></em></strong>, so I'm super excited for tomorrow, when his new book, <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9781400066568">The Last Dickens</a></em></strong> goes on sale. Yay! I'm equally excited that we'll be hosting Mr. Pearl at our store on Thursday, April 9th (details <a href="http://www.brooklinebooksmith.com/Events/MainEvent.html">here</a>).<br /><br />Additional items of Dickensian note include: <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780316007023">Drood</a></em></strong>, Dan Simmons's new book that, like Pearl's, concerns itself with the creation of Charles Dickens's final (and unfinished) novel, <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780140439267">The Mystery of Edwin Drood</a></em></strong>, has been selling very well. Also, PBS's <a href="http://www.pbs.org/wgbh/masterpiece/index.html">Masterpiece </a>is in the middle of a Dickens <a href="http://www.pbs.org/wgbh/masterpiece/dickens/index.html">series</a>. (side note: I can't wait until <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780143115878">Little Dorrit</a></em></strong> starts March 29th. It stars <a href="http://www.matthew-macfadyen.co.uk/">Matthew Macfadyen</a>! God, did I love him in MI-5. And he was not at all shabby as Mr. Darcy though I know he will never unseat Colin Firth in most people's minds).<br /><br />Are we in the middle of a particularly Dickensian moment?<br /><br />Finally, strange coincidences that will bring us back to Dickens: I remember that Matthew Pearl's last book, <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780812970128">The Poe Shadow</a></em></strong>, came out at the same time as Louis Bayard's <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780060733988">The Pale Blue Eye</a></em></strong>, both of which were historical fiction focusing on Edgar Allan Poe (I can't tell if this means Mr. Pearl has bad timing or good instincts). But what was Bayard's book previous to that? <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780060534226">Mr. Timothy</a></em></strong>, a reimagining of Dickens's Tiny Tim from <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780553212440">A Christmas Carol</a></em></strong>!

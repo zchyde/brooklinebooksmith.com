@@ -1,0 +1,15 @@
+---
+published: true
+title: Chin up, kids
+date: '2013-09-09T09:00:00.000-04:00'
+author: Shoshana
+tags:
+- children's books
+- scope for imagination
+- school
+modified_datetime: '2013-09-09T09:00:01.222-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-552227101713527362
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/chin-up-kids.html
+---
+
+<div class="abaproduct-image">We know, kids. We know. Summer's been awesome, and at least some of you are probably a bit, dare we say, unhappy about returning to school.</div><div class="abaproduct-image"><div class="abaproduct-image"></div><div class="abaproduct-image">But where else&nbsp;can dozens of comedies&nbsp;and dramas take place all at once?</div></div><div class="abaproduct-image"><div class="abaproduct-image"><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9781423166320"><img src="http://images.booksense.com/images/books/320/166/FC9781423166320.JPG" title="Trash Can Days: A Middle School Saga" /></a>&nbsp;</div><div class="abaproduct-image">&nbsp;&nbsp;</div><div class="abaproduct-image">Where else can you discover along with the people around you how much cooler your insides are than your outsides?</div></div><div class="abaproduct-image"><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780375869020"><img src="http://images.booksense.com/images/books/020/869/FC9780375869020.JPG" title="Wonder" /></a><br /><br />Where else can you get - and learn to avoid - the Cheese Touch?<br /><br /><a class="thickbox initThickbox-processed" href="http://images.indiebound.com/136/993/9780810993136.jpg" rel="field_image_cache_0" title="Diary of a Wimpy Kid"><img src="http://images.booksense.com/images/books/136/993/FC9780810993136.JPG" title="" /></a><br /><br />Where else can you exert power over the very words we speak?<br /><br /><a class="thickbox initThickbox-processed" href="http://images.indiebound.com/769/818/9780689818769.jpg" rel="field_image_cache_0" title="Frindle"><img src="http://images.booksense.com/images/books/769/818/FC9780689818769.JPG" title="" /></a>&nbsp;<br /><br />Where else can you show off the two-ponytailed hat you found in your underwear drawer?<br /><br /><a class="thickbox initThickbox-processed" href="http://images.indiebound.com/590/875/9780547875590.jpg" rel="field_image_cache_0" title="Gooney Bird Is So Absurd"><img src="http://images.booksense.com/images/books/590/875/FC9780547875590.JPG" title="" /></a><br /><br />Where else can you crack your slate over the head of the future love of your life?<br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780141321592"><img src="http://images.booksense.com/images/books/592/321/FC9780141321592.JPG" title="Anne of Green Gables" /></a><br /><br />Stay in school, kids. You never know what might happen.<br /><br /><div class="separator" style="clear: both; text-align: center;"><br /></div><br /></div><div class="abaproduct-image"><div class="abaproduct-image"></div><div class="abaproduct-image"><div class="abaproduct-image"></div></div></div>

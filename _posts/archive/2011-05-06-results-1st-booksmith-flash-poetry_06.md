@@ -1,0 +1,15 @@
+---
+published: false
+title: 'Results: 1st Booksmith Flash Poetry Prize'
+date: '2011-05-06T16:20:00.004-04:00'
+author: Kate Robinson
+tags:
+- flash poetry contest
+- Poetry
+modified_datetime: '2011-05-16T14:25:54.072-04:00'
+thumbnail: http://4.bp.blogspot.com/-Elt_My9R5Qs/TcRYtgvT_QI/AAAAAAAAARA/I9SBd_lNGVc/s72-c/bsmith.bmp
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-583804914928216333
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/results-1st-booksmith-flash-poetry_06.html
+---
+
+<a href="http://4.bp.blogspot.com/-Elt_My9R5Qs/TcRYtgvT_QI/AAAAAAAAARA/I9SBd_lNGVc/s1600/bsmith.bmp"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 400px; DISPLAY: block; HEIGHT: 394px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5603701375261474050" border="0" alt="" src="http://4.bp.blogspot.com/-Elt_My9R5Qs/TcRYtgvT_QI/AAAAAAAAARA/I9SBd_lNGVc/s400/bsmith.bmp" /></a><br /><br /><div><br /><br />Congratulations to our three winners, Elizabeth McGovern, Sasenarine Persaud, and Elizabeth Witte.<br /><br />I will share the winning poems over the next 3 Saturdays.<br /><br />Congratulations to our 1st Prize Winner: ($20 gift certificate to be used on our sweet poetry section, and taza chocolate) -Liz McGovern!<br /><br /><br /><br /><br /><br /><strong>My Son in a Bookstore<br /></strong>-<em>Liz McGovern</em><br /><br />My son runs up and down<br />the aisles<br />Red curls blaze as he<br />descends upon the children's section.<br /><br />Planes, trains, automobiles,<br />ducks, bunnies, pirates.<br /><br />He moves the stools<br />Then the table<br />and with proper decorum<br />of his two years,<br />removes books one by one<br />from the shelves<br /><br />He wishes he could read<br />Captain Underpants. I tell<br />him when he is older.<br />When he actually can read.<br /><br />In a flash, he is again<br />on the other side of the store.<br /><br />I glance at the other patrons,<br />sitting quietly and calmly<br />in the wooden chairs.<br /><br />I worry what they must think<br />of me,<br />letting my son destroy<br />the serenity, the peace<br />of a bookstore. I worry<br />what they must think of him,<br />the feral child of "Mad Max,"<br />raised by wolves,<br />a misbehaving demon.<br /><br />Arms loaded, I drop my<br />purchase on the counter.<br />The cashier smiles,<br />"What a wonderful child!"<br />Another coos, "What<br />great hair!"<br />"He must have so much fun!"<br /><br />And I forget my worries.<br />Cassidy holds my hand<br />as we toddle out of the store together,<br />into the sun, and on our way<br />to other adventures.<br /></div><br /><br /><br />Liz resides in Salem with her husband Ian, two year old son Cassidy, and two rabbits Sabrina and Snorbles. When she isn't entering poetry contests or working, she spends most of her time at playgrounds, yarn stores, and of course, bookstores. Her favorite poetry comes from the Romantics, and the last book she read was Kurt Vonnegut's Look at the Birdie.

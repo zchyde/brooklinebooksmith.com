@@ -1,0 +1,12 @@
+---
+published: false
+title: Beach Reads Aplenty on Cape Cod
+date: '2011-06-28T17:14:00.004-04:00'
+author: Liz T.
+tags: 
+modified_datetime: '2011-06-28T18:04:07.335-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1944258851190490358
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/06/beach-reads-aplenty-on-cape-cod.html
+---
+
+I just spent a week on Cape Cod and while I was there I stopped by a few of my favorite independent bookstores. I was delighted to see that after an absence of three years all of the stores are a) still in business and b) were populated with people buying things. Hooray! <br /><br />The <span id="SPELLING_ERROR_0" class="blsp-spelling-error">Provincetown</span> Bookstore right on Commercial Street is small and jam-packed with tons of great field guides and books of local interest, not to mention lots of books by local authors as well as the <span id="SPELLING_ERROR_1" class="blsp-spelling-corrected">latest</span> great reads on the various best-sellers lists. Right next door is Tim's Used Books, one of my favorite places to find something unexpected. This year I came away with a charming 1950's field guide to...all living things. Except insects. <br /><br />I also visited the <a href="http://www.brewsterbookstore.com/">Brewster Book Store</a> for the first time. What a cute little shop! And bustling with customers on the rainy afternoon that I was there. They also have a good selection of cards/gifts and toys/games, similar to what we sell here. I felt right at home.<br /><br />I am obviously aware that the <span id="SPELLING_ERROR_2" class="blsp-spelling-corrected">book selling</span> business is difficult and changing, and some say it's "doomed" or whatever, but from what I saw in this one little part of the world, there is still a place for books and bookstores and book-lovers. I was SO glad to be able stop in and support all of them with the purchase of a book or two. I know people in other parts of the country are not as lucky as we are - to have a <em>selection</em> of stores to choose from. Despite the state of the economy and the e-book issue, I optimistically think a decent number of these treasures are here to stay.

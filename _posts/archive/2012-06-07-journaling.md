@@ -1,0 +1,21 @@
+---
+published: true
+title: Journaling
+date: '2012-06-07T14:15:00.001-04:00'
+author: Shuchi
+tags:
+- inc
+- journals of john cheever
+- journal
+- grub street
+- moleskine
+- journaling
+- writing
+- longhand
+modified_datetime: '2012-06-07T14:15:51.133-04:00'
+thumbnail: http://1.bp.blogspot.com/-bcr4ObyioIs/T9Dsi14DoqI/AAAAAAAANbs/Mlc8TYg6ZIE/s72-c/moleskine-classic-extra-large-soft-cover-squared-notebook-7.5-x-10-msx15-1.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3718801118970506053
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/06/journaling.html
+---
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div>Hello! I'm Booksmith's newest blogger, and one of it's newer booksellers (I started last October).&nbsp;I have to admit, I was a bit reluctant to agree to write for the blog. For the past year or so, I've started to slowly step away from the internet so that I could focus more on my own writing. I tend to obsessively check email, spend more time than I'd like on Facebook, and I wanted to&nbsp;keep the time I spent on my computer more or less focused on working on my novel.&nbsp;But then I realized that I talk my co-workers' heads off about a lot of book and writing related things. So, for their sake, I think it's time I subject you, our dear, loyal, blog fans, to that rambling instead.<br /><br /></div><div><a href="http://1.bp.blogspot.com/-bcr4ObyioIs/T9Dsi14DoqI/AAAAAAAANbs/Mlc8TYg6ZIE/s1600/moleskine-classic-extra-large-soft-cover-squared-notebook-7.5-x-10-msx15-1.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-bcr4ObyioIs/T9Dsi14DoqI/AAAAAAAANbs/Mlc8TYg6ZIE/s200/moleskine-classic-extra-large-soft-cover-squared-notebook-7.5-x-10-msx15-1.jpg" width="200" /></a>As part of my commitment to spend less time on the internet, I've started to write more&nbsp;in longhand.&nbsp;I had this journal that my old co-workers gave me as a parting gift a few years ago, one that I had only written in sporadically.&nbsp;It was a hardcover journal with blank pages. I had to crack the spine a bit so that I could lay it flat to write in it, and on the blank pages, my handwriting started to slant.&nbsp;But I found that I really liked having to slow my thoughts down so my hand could keep up.&nbsp;And growing up with one of those lock and key diaries, it felt like going back to the roots of what made me want to be writer.<br /><br />I filled my old journal quickly, and treated myself to a new one. Have you seen our collection of journals here at the Booksmith? We have *so* many beautiful journals, in every size imaginable. We even sell those lock and key ones I used to write in as a kid. The one I ended up buying is a soft cover,&nbsp;7.5 x 10" Moleskine with an expandable pocket in the back.&nbsp;I love it. I put postcards and pictures in the back pocket, and I like how easy it is to curl up and write with it on my lap. I can't think of a time since I bought it in January that I haven't had it with me.<br /><br /></div><div><a href="http://1.bp.blogspot.com/-ja31nZmeXLo/T9Dt2qQFTII/AAAAAAAANb0/pMk3bL29Ee0/s1600/cheever.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-ja31nZmeXLo/T9Dt2qQFTII/AAAAAAAANb0/pMk3bL29Ee0/s200/cheever.JPG" width="128" /></a>I recently taught a one-day jump start your fiction writing workshop at&nbsp;<a href="http://www.grubstreet.org/">Grub Street, Inc</a>. here in Boston, and &nbsp;I started the class with a journal writing exercise. We read a passage from <a href="http://www.brooklinebooksmith-shop.com/book/9780307387257">The Journals of John Cheever</a> (which I'm currently reading, and love) and as a warm-up before the fiction writing, the students spent twenty minutes free-writing about a recent, memorable day. A few had come in with a laptop and I asked that for this exercise, they write longhand only. For the next exercise, I told them they could bring back out their laptops, but no one did. They said they actually liked writing in longhand.<br /><br />So if you're looking for something new to try this summer, try writing in a journal. Maybe I"ll convert you to the longhand form too!&nbsp;</div></div>

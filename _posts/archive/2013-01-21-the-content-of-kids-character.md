@@ -1,0 +1,14 @@
+---
+published: true
+title: The content of kids' character
+date: '2013-01-21T08:00:00.000-05:00'
+author: Shoshana
+tags:
+- children's books
+- Martin Luther King Jr.
+modified_datetime: '2013-01-21T08:00:11.882-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1916274883589568155
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/01/the-content-of-kids-character.html
+---
+
+In the kids' section, we overhear a lot of <a href="http://brooklinebooksmith.blogspot.com/2013/01/where-barbie-spins-with-spiderman.html">spinner </a>books. We hear parents valiantly making their way through Barbie's latest adventure; we hear parents who are learning English carefully read names like Obi-Wan Kenobi. We overhear kids reading on their own for the first time; Elephant and Piggie is a popular choice for these readers. We hear parents testing new books on their kids to make purchasing decisions; we hear parents eagerly sharing their childhood favorites for the first or tenth or hundredth time.<br /><br />For the past few days, there's been a new addition to the reading playlist in the kids' section. One child pulled his mother toward the Martin Luther King, Jr. display and said, "Do you want to know something really interesting? I've seen <i>that</i>&nbsp;book (the gorgeous Kadir Nelson-illustrated <i>I Have a Dream</i>) and <i>that</i>&nbsp;book (<i>Martin's Big Words</i>, by Doreen Rappaport) at school." Another sat at the table and read&nbsp;<i>Martin's Big Words</i>&nbsp;aloud. It was jarring to hear someone at the kids' table read the words, "A few threatened to kill him and his family. His house was bombed." But it was a bit inspiring, too.<br /><br />&nbsp;<img height="320" src="http://images.booksense.com/images/books/357/106/FC9781423106357.JPG" title="Martin's Big Words: The Life of Dr. Martin Luther King, Jr." width="292" /><br /><div class="separator" style="clear: both; text-align: center;"><br /></div><br />These kids may very well read Barbie or Star Wars or Elephant and Piggie books at other times. But from what I gathered, they've learned at school about Martin Luther King Jr.'s life - and his death - and they want to share and talk about what they've learned. I suspect, or maybe I remember, that when grownups talk with you in an age-appropriate way about serious, important topics, it feels like they trust you. It's not easy to figure out what "age-appropriate" means given the news these days, but I do trust that when kids say they're ready to talk or share a book about a serious topic, they're probably right. If you need help finding the right book, come talk to us.<br /><br />Happy Martin Luther King, Jr. Day.<br /><br /><img height="320" src="http://images.booksense.com/images/books/871/858/FC9780375858871.JPG" title="I Have a Dream (Book &amp; CD)" width="320" /> 

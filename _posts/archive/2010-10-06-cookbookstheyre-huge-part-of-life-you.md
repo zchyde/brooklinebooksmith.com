@@ -1,0 +1,15 @@
+---
+published: false
+title: cookbooks...they're a huge part of life, you know?
+date: '2010-10-06T10:32:00.003-04:00'
+author: Emily
+tags:
+- gluten free
+- Cookbooks
+modified_datetime: '2010-10-06T10:38:29.031-04:00'
+thumbnail: http://2.bp.blogspot.com/_88jO9uLLIi8/TKyJd-EIjtI/AAAAAAAAAKY/f7BRhGZyHgc/s72-c/41iOxtWHjoL._SS500_.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-14797477138403096
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/cookbookstheyre-huge-part-of-life-you.html
+---
+
+Many people know that I am the children's lit expert here.  However, what you may not know, is that I am also quite the expert with allergy-cookbooks.  So, you may occasionally see a few spectacular cookbooks reviewed here.<br /><br />If done right, gluten free foods can be moist and simply amazing!  Try out Elizabeth Barbone's <a href="http://www.brooklinebooksmith-shop.com/book/9781891105418"><span style="font-style: italic;">Easy Gluten-Free Baking</span></a>.  It has become a staple in my kitchen -- particularly for the desserts.<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_88jO9uLLIi8/TKyJd-EIjtI/AAAAAAAAAKY/f7BRhGZyHgc/s1600/41iOxtWHjoL._SS500_.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px; height: 320px;" src="http://2.bp.blogspot.com/_88jO9uLLIi8/TKyJd-EIjtI/AAAAAAAAAKY/f7BRhGZyHgc/s320/41iOxtWHjoL._SS500_.jpg" alt="" id="BLOGGER_PHOTO_ID_5524941990846303954" border="0" /></a><br />This cookbook uses minimal ingredients and the base of these recipes is white rice flour -- one of the easier gluten free flours to acquire.  Furthermore, even though this book hesitates to use substituted ingredients, I had no trouble making these recipes corn and dairy free.<br /><br />The chocolate cake is moist and delicious.  The brownies practically taste like fudge and even the "normal wheat-eaters" won't be able to tell the difference.  Now, the best part of this cookbook is the "Taste Like" section...  The Thin Mints are AWESOME!  Just ask the staff, they are better than the real things.<br /><br /><br /><br />Here are some other recipes that sound...heavenly:<br />chocolate waffles<br />cranberry bread<br />double chocolate chip cookies<br />jam thumbprints<br />gingerbread cakes and cookies<br />chocolate pixies<br />mint brownies<br />apple pie<br />pumpkin pie<br />oreos<br />twinkies (without all the disgusting preservatives!)<br /><br />(Is your mouth watering yet?  Yummy!)<br /><br />If you need to buy allergy cookbooks (which now have their own section in our cooking wall of books!) for you or as a gift,  come find me.  I have more on the shelf to recommend and can help you navigate through them if they are unfamiliar territory for you.<br /><br />:-d  In the words of Julia Child, "Bon Appétit!"

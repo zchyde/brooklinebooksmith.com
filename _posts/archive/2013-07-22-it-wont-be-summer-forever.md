@@ -1,0 +1,16 @@
+---
+published: true
+title: It won't be summer forever.
+date: '2013-07-22T09:56:00.000-04:00'
+author: Shoshana
+tags:
+- children's books
+- fall
+- impatience
+- young adult
+modified_datetime: '2013-07-22T09:56:00.804-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1985756028886815034
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/07/it-wont-be-summer-forever.html
+---
+
+Now that temperatures have subsided from the raging yet sticky inferno that was last week, it's easy to wish that summer would last forever. There are moments when I harbor that wish myself. But then I remember that if summer didn't end, we'd never get to the fall releases. And they are delicious. A few I've checked out that I'm looking forward to handing to customers:<br /><br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780763660406"><img src="http://images.booksense.com/images/books/406/660/FC9780763660406.JPG" title="Flora and Ulysses: The Illuminated Adventures" /></a><br /><br />Flora is kind of a strange girl. Ulysses is an even stranger squirrel. I won't tell you which one of them writes poetry, but Flora's more into comics. In fact, brief sections of the story are told in a graphic format. (Intermediate.)<br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780062194343"><img src="http://images.booksense.com/images/books/343/194/FC9780062194343.JPG" title="The Very Nearly Honorable League of Pirates #1: Magic Marks the Spot" /></a><br /><br />Hilary's father thinks she belongs in a charm school. He's wrong. Before you can say "The Very Nearly Honorable League of Pirates," she's found her way to sea. Very nearly honorably. (Intermediate.)<br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780763662806"><img src="http://images.booksense.com/images/books/806/662/FC9780763662806.JPG" title="Living with Jackie Chan" /></a><br /><br />After a tumultuous junior year, Josh decides to escape for his senior year. What better place to mull things over than with his uncle, Jackie Chan's biggest fan? (Young adult.)<br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9781423183099"><img src="http://images.booksense.com/images/books/099/183/FC9781423183099.JPG" title="Rose Under Fire" /></a><br /><br />This companion to <em>Code Name Verity</em> (which also stands alone) tells the story of Rose, an eighteen-year-old&nbsp;World War II pilot who's captured and brought to Ravensbrück, a women's concentration camp. Intense though it sometimes is, it has a lighter touch than some Holocaust novels, and the characters' personalities make the difficult setting easier to take. (Young adult.)<br /><br /><a href="http://www.brooklinebooksmith-shop.com/book/v/9780763662585"><img src="http://images.booksense.com/images/books/585/662/FC9780763662585.JPG" title="More Than This" /></a><br /><br />I'm a sucker for a good secret, and if anyone's good at the slow reveal, it's Patrick Ness. There were parts that made me shake my fist, but that just means I cared. (Young adult.)<br /><br />Keep mining that awesome <a href="http://brooklinesummerreading.weebly.com/">summer reading list</a>, guys. But know that when you've gotten through it, some great fall books await.

@@ -1,0 +1,12 @@
+---
+published: false
+title: Book Expo America
+date: '2010-05-30T17:07:00.002-04:00'
+author: dana brigham
+tags: 
+modified_datetime: '2010-05-30T17:41:04.953-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1697513987754741942
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/book-expo-america.html
+---
+
+This week marked the annual convention of booksellers, publisher and authors held nowadays in New York City.  In years past, the convention moved around among such cities as Chicago, New Orleans, Las Vegas, Washington, D.C. and Los Angeles.  Those were the days!   I have nothing against the Big Apple except the huge number of cabs transporting single individuals up and down the island.  Crazy.  But it's an exciting city, no question.  And since most publishers are located there, it makes sense.<div><br /></div><div>You might guess that the hot topic was ebooks and the devices on which to read them.  How we bricks and mortar stores will become purveyors of same was much discussed.  Fair pricing of ebooks began and ended conversations.  Big changes are afoot, all agreed.  And yet,  a workshop on book buying habits in the US revealed interesting statistics.  Though the media, overall, would have us think "the book is dead", probably by next week,  stats show 98% of all books sold are still physical books.   To be in a busy, independent bookstore is to know there are bunches of folks who want a place to see books, talk about books with knowledgeable people, browse at length,  discover new authors to try or new subjects to learn about.  I'm no ostrich, but I do think the media has the sky falling prematurely on this one.</div><div><br /></div><div> A highlight of BEA for me is always seeing and hearing authors.  We do have a fantastic line up of author events at our store at all times.   It's the groupings that are unique to the convention.  A breakfast on Thurs. was emceed by Jon Stewart and included Condoleeza Rice,  John Grisham and Mary Roach.  All have new books out  now or coming out by Fall.   All were fascinating to hear.   All were funny in one way or another.  Funniest of all was Jon Stewart looking quietly at Dr. Rice after her very articulate and charming talk and saying,  "Don't...make...me...like...you."   The audience erupted in laughter as did Dr. Rice.</div><div><br /></div><div>Good times in the land of books.</div>

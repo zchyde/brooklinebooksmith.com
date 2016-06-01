@@ -1,0 +1,17 @@
+---
+published: false
+title: Do You Want Your Booksellers Reading at the Register?
+date: '2010-05-29T10:09:00.008-04:00'
+author: Kate Robinson
+tags:
+- bookselling
+- Bookselling Life
+- bestsellers
+- distractions
+modified_datetime: '2010-05-29T10:43:00.860-04:00'
+thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TAEkUC7t7VI/AAAAAAAAAEI/Ze9wXTPUueE/s72-c/BatmanCaughtReading02.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1210365228682274977
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/do-you-want-your-booksellers-reading-at.html
+---
+
+<img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 229px; DISPLAY: block; HEIGHT: 273px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5476698548662562130" border="0" alt="" src="http://1.bp.blogspot.com/_L2x1PCw1zuI/TAEkUC7t7VI/AAAAAAAAAEI/Ze9wXTPUueE/s320/BatmanCaughtReading02.jpg" /><br /><br /><br /><div><div>Is it a requirement that booksellers wear glasses? Kind of. Is it a requirement that boys that work at Trader Joe's wear <span id="SPELLING_ERROR_0" class="blsp-spelling-error">carabiners</span> with keys on them? Most assuredly. There are some stereotypes that are offensively true. The point I'd like to raise is one of great contention, and the mere fact that I hesitated to even bring it up is proof of its divisiveness... reading, while working at the cash register. Is it okay? Why or why not...</div><div></div><div></div><div></div><div></div><div></div><div></div><div><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 193px; DISPLAY: block; HEIGHT: 131px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5476700290715422610" border="0" alt="" src="http://4.bp.blogspot.com/_L2x1PCw1zuI/TAEl5clfD5I/AAAAAAAAAEQ/i3wwOWfI5uw/s320/ichat-image2321661771-300x200.jpg" /></div><div></div><div><br /><br /></div><div>When you walk into a bookstore, you expect the booksellers to be, well,...hyper literate. This quality takes a good deal of time to develop. If you are working at the register, and there aren't many customers around, and everything had been straightened and stocked...is it <span id="SPELLING_ERROR_1" class="blsp-spelling-error">ok</span> to read? Would you be put off if you saw an employee reading on the job? Or would you see it as on the job training/ or product placement?</div></div><div></div><div></div><div><div><br /></div><div></div><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 320px; DISPLAY: block; HEIGHT: 180px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5476694181710662946" border="0" alt="" src="http://3.bp.blogspot.com/_L2x1PCw1zuI/TAEgV2xQDSI/AAAAAAAAAEA/F5fXFKKx34I/s320/glasses.jpg" /><br /><br /><br /><div>I personally have mixed feelings on the issue. If I saw someone reading at a coffee shop, and they didn't look up to acknowledge my presence as a paying customer, I would be miffed. I would feel neglected...but I would also be curious as to what the are reading. Now let's say we have the same scenario, but this time we are in a bookstore...if the reader/employee in question looked up and acknowledged me as a customer, I would be fine with them reading at the register. I would think to myself, what a wonderful job they have! I wonder what they are reading? As surely it must be good, I mean they work here and have the pick of the litter! They practice what they preach!</div><br /><br /><div></div><br /><br /><div>I am honestly curious as to what you think as a customer, is it beneficial to have booksellers reading on the job? (while at the register)</div></div>

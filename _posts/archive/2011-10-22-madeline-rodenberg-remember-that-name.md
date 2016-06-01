@@ -1,0 +1,15 @@
+---
+published: false
+title: Madeline Rodenberg. Remember that name.
+date: '2011-10-22T11:45:00.006-04:00'
+author: Kate Robinson
+tags:
+- children
+- Poetry
+modified_datetime: '2011-10-22T14:14:11.259-04:00'
+thumbnail: http://2.bp.blogspot.com/-x9z-Nrkss8Y/TqMG1HbI-6I/AAAAAAAAAUc/0oh7lwkttNg/s72-c/deer-10.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8931746938789808252
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/madeline-rodenberg-remember-that-name.html
+---
+
+<a href="http://2.bp.blogspot.com/-x9z-Nrkss8Y/TqMG1HbI-6I/AAAAAAAAAUc/0oh7lwkttNg/s1600/deer-10.jpg"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 400px; DISPLAY: block; HEIGHT: 267px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5666380265757932450" border="0" alt="" src="http://2.bp.blogspot.com/-x9z-Nrkss8Y/TqMG1HbI-6I/AAAAAAAAAUc/0oh7lwkttNg/s400/deer-10.jpg" /></a><br /><br /><div>A dear friend of mine posted a poem her <strong>10 year old</strong> daughter wrote, and I had to share it. It is sweet and subtle and mature. It is proof that poetry is alive and well. Also; what an affordable and <span id="SPELLING_ERROR_0" class="blsp-spelling-corrected">accessible</span> art!? All one needs is language, and some senses. I think children in particular should be exposed to poetry, and frequently. Tomas <span id="SPELLING_ERROR_1" class="blsp-spelling-error">Transtrom</span>-<span id="SPELLING_ERROR_2" class="blsp-spelling-error">trom</span> better watch out. Maddy-lion has arrived.</div><br /><br /><br /><br /><div><strong>Feelings<br /><br /></strong>Feelings change as quickly<br />as the wind blows,<br />since I'm human I cannot<br />explain how I feel all times<br />it is as if I must be a different...<br />stranger creation<br />it feels as if I were a calmed tiger,<br />a slow horse, a turtle at the speed<br />of light, a lake as still as the spider's<br />web untouched by rain or wind,<br />a circle with an end.<br /><br />Feelings change as quickly as<br />the wind blows but today the wind is still.</div><br /><br /><br /><div></div><br /><br /><br /><div>Madeline <span id="SPELLING_ERROR_3" class="blsp-spelling-error">Othilda</span> <span id="SPELLING_ERROR_4" class="blsp-spelling-error">Rodenberg</span> (in her own words)<br /><br /></div><br /><div>I like old movies, Mexican food, Indian food, and seafood. I dislike cottage cheese and clothes with holes in them. I love to write and want to write for a living, and I take pride in my work. (My favorite color is blue) and I play the piano, the violin, and the bongos. I'm 10. My birthday is August 2, 2001. My birthstone is perry-dote (<span id="SPELLING_ERROR_5" class="blsp-spelling-error">haha</span>). I also like watching Arrested Development, Glee, and 30 Rock, and I love love love my family.</div>

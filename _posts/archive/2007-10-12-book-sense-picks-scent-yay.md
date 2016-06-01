@@ -1,0 +1,15 @@
+---
+published: false
+title: Book Sense Picks Scent! Yay!
+date: '2007-10-12T12:31:00.000-04:00'
+author: Lori
+tags:
+- Not Fiction
+- Events
+modified_datetime: '2008-12-08T23:03:59.203-05:00'
+thumbnail: http://1.bp.blogspot.com/_zqgb4FOCazQ/Rw-tRiutWMI/AAAAAAAAAEM/ICnmAFmZkwI/s72-c/scent.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7048933057786805946
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/book-sense-picks-scent-yay.html
+---
+
+<a href="http://1.bp.blogspot.com/_zqgb4FOCazQ/Rw-tRiutWMI/AAAAAAAAAEM/ICnmAFmZkwI/s1600-h/scent.jpg"><img id="BLOGGER_PHOTO_ID_5120501818235640002" style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center" alt="" src="http://1.bp.blogspot.com/_zqgb4FOCazQ/Rw-tRiutWMI/AAAAAAAAAEM/ICnmAFmZkwI/s320/scent.jpg" border="0" /></a><br /><div><div><div>Last week the November <a href="http://www.booksense.com/">Book Sense </a>picks were announced--you can get a peek at them <a href="http://news.bookweb.org/booksense/5570.html">here</a>. I'm excited because one of my nominations got picked--yippee! It's <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780060825379">The Scent of Desire: Discovering Our Enigmatic Sense of Smell</a></em></strong> by Rachel Herz, and it's a great read. Here's what I said: </div><br /><div>"Since reading <em>Scent of Desire</em> I've noticed myself inhaling more deeply, wanting to capture the smells around me (at a restaurant or florist -- even on the bus!). This clever examination of the physiology and psychology of scent will wake you up to the world around you."</div><br /><div>That blurb is totally true--I really have developed this odd need to inhale really deeply on the bus, which just doesn't always have a happy ending depending on who's sitting next to me (reference chapter six, "The Odor of the Other"). But I can't help it! And once there was the most delicious smell of sausage in the air and it just made me crazy to the point that I had to make a special trip to get myself some sausage to make for dinner (reference chapter seven, "Craving"). I'll just add that this is a totally fun book for fans of psychology, biology, or anyone who's just curious about what makes us the way we are.</div><br /><div>Oh, and If you like <em>Scent of Desire</em>, then you must read Diane Ackerman's <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780679735663"><strong><em>A Natural History of the Senses</em></strong></a>. A classic. </div><br /><div>By the way -- the number one pick for November is <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780061147975"><strong><em>20th Century Ghosts</em></strong> </a>by Joe Hill, which I'm bringing up just because I'm pretty excited that he'll be coming to Brookline Booksmith on <a href="http://www.brooklinebooksmith.com/Events/MainEvent.html">October 29th </a>(Just before Halloween! Perfect.) </div></div></div>

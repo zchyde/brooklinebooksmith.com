@@ -1,0 +1,13 @@
+---
+published: false
+title: Aging, books
+date: '2010-04-08T11:25:00.002-04:00'
+author: Katie
+tags: 
+modified_datetime: '2010-04-08T17:20:02.179-04:00'
+thumbnail: http://1.bp.blogspot.com/_LPi8W0DZBFE/S7Sn6Bo6t5I/AAAAAAAAALM/-5-6qet-Xog/s72-c/Sounds+Boring.png
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2537064953830677070
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/aging-books.html
+---
+
+<div>I went to Montreal a few weeks ago for my birthday. I brought with me one of the first books I ever purchased with my own money, which was a pocket French dictionary.  1992 was an ambitious year - at the same time, I bought a Teach Yourself French book, which I have since lost. I retained nothing from the book's lessons aside from  requests for soda and slower speaking. (That is not to say anything about the quality Teach Yourself book, but rather my linguistic ineptitude, need of fizz, and a lifelong fog of confusion.)</div><div><br /></div><div>When I opened the dictionary in the bar to parse the beer list (je voudrais une blé aux cerises s-v-p) while watching a game of curling (AUTHENTIC CANADIAN EXPERIENCE!) I remembered the pages were once crisp and white. The browning pages of the dictionary now smell sweet and dry, sort of like graham crackers, when they're opened.  My name is in a ten-year-old's bubbly cursive in the front. Now my handwriting is sharper and illegible. It's a marker of a point in time, a time when I read dictionaries for fun, really.</div><div><br /></div><div>What's going to happen to the sensuality of books in the digital age, or as a marker of personal progress? Trust me - I am no luddite.  I experienced the burgeoning of the internet in my teens - one friend and I admittedly get a sense of nostalgia upon finding particularly bad animated GIFs or renderings of pop songs on MIDI. We were sort of crushed when Geocities, a haven for amateur-designed personal homepages, went down last fall. I talked to strangers on the internet before it was semi-acceptable. But there isn't that same sense of place, touch or smell with reading as much. And books degrade over time. But just on a purely physical-experiential basis, it's really cool to see them as they age along with you. They are a joy. That's one reason why I'm here. I hope it never comes to this:</div><div><br /></div><div><img src="http://1.bp.blogspot.com/_LPi8W0DZBFE/S7Sn6Bo6t5I/AAAAAAAAALM/-5-6qet-Xog/s320/Sounds+Boring.png" /></div><div><br /></div><div>P.S. the illustrator of above cartoon, Jef, <a href="http://www.brooklinebooksmith-shop.com/event/jef-czekaj-hip-and-hop-don’t-stop">will be coming here on May 2</a>. GET PUMPED.</div>

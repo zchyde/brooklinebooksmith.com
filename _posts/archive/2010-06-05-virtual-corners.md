@@ -1,0 +1,13 @@
+---
+published: false
+title: Virtual Corners
+date: '2010-06-05T10:17:00.003-04:00'
+author: Kate Robinson
+tags: 
+modified_datetime: '2010-06-05T10:43:10.309-04:00'
+thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/TApgoSj7mnI/AAAAAAAAAEY/w4EzOh-mhZI/s72-c/dudley-live.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6182697453843862259
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/virtual-corners.html
+---
+
+<a href="http://1.bp.blogspot.com/_L2x1PCw1zuI/TApgoSj7mnI/AAAAAAAAAEY/w4EzOh-mhZI/s1600/dudley-live.jpg"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 320px; DISPLAY: block; HEIGHT: 240px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5479298141943208562" border="0" alt="" src="http://1.bp.blogspot.com/_L2x1PCw1zuI/TApgoSj7mnI/AAAAAAAAAEY/w4EzOh-mhZI/s320/dudley-live.jpg" /></a><br /><div>You may have noticed the large black screen in our window...pretty soon it will be a magic portal to Dudley Station...you will be able to communicate in real time with the people at the other end of the 66. This is a really thoughtful and brilliant installation which calls into question the bifurcation between our two communities, which are only separated by 2 miles. The socioeconomic stratification that plays out on the epic 66 journey from Harvard to Dudley is a microcosm of larger self reflexives...</div><br /><div></div><br /><div>Why is the exchange between the communities so minimal? If you haven't looked at the website please do...its amazing</div><br /><div><a href="http://www.johnewing.org/VirtualCorners/index.html">http://www.johnewing.org/VirtualCorners/index.html</a></div><br /><div></div><br /><div>John Ewing is the brain behind this operation,</div>and there is another great PBS article about the project here<a href="http://www.pbs.org/idealab/2009/10/virtual-street-corners-connects-neighborhoods-and-people-in-boston289.html">www.pbs.org/idealab/2009/10/virtual-street-corners-connects-neighborhoods-and-people-in-boston289.html</a><br /><br /><br /><div></div><br /><div>I'm exited to watch as people again nervously approach the mic...it is awkward enough talking to strangers as it is, but add a mic and an audience and the exchange is charged. Teens on both sides running by, testing out their latest newly acquired swear...people arguing about politics, guys checking out the goods on the other end...people singing , the occasional flasher- it's mesmerizing. I'm so excited our store is part of this!</div><br /><div></div><br /><div>What are we missing by choosing to ignore each other? That's a huge question...and I'm glad John is asking it.</div>

@@ -1,0 +1,13 @@
+---
+published: false
+title: The Makings of a Bestseller
+date: '2010-06-22T16:55:00.004-04:00'
+author: Eugenia
+tags: 
+modified_datetime: '2010-06-22T17:39:09.514-04:00'
+thumbnail: http://2.bp.blogspot.com/_wjUuRMMlrgk/TCEmYwF34-I/AAAAAAAAAPg/VvAfCtguJmU/s72-c/BookGoldenDollarSign83041.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6673644837054661814
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/06/makings-of-bestseller.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_wjUuRMMlrgk/TCEmYwF34-I/AAAAAAAAAPg/VvAfCtguJmU/s1600/BookGoldenDollarSign83041.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 130px; height: 86px;" src="http://2.bp.blogspot.com/_wjUuRMMlrgk/TCEmYwF34-I/AAAAAAAAAPg/VvAfCtguJmU/s200/BookGoldenDollarSign83041.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5485708027782226914" /></a><br /><br /><br />Justin Cronin came to our store this morning. He had a photo shoot for <span style="font-style:italic;">The Improper Bostonian</span> at eleven, he signed well over 100 books here, then he headed to Harvard Bookstore and beyond to sign yet more books. He's giving a reading here at the Booksmith in about two hours, before which he'll be interviewed by Robin Young of <a href="http://www.hereandnow.org/">Here and Now</a>.<br /><br /><span style="font-style:italic;"><a href="http://www.brooklinebooksmith-shop.com/book/9780345504968">The Passage</a></span>, Cronin's book, weighs in at over 750 pages. It had a ginormous first printing and an unheard-of marketing budget. The story is old hat by now: Cronin submitted the manuscript pseudonymously, got a $3.5m advance and shortly thereafter, the book was optioned by none other than Ridley Scott.<br /><br />Moreover, people are freaking out because Justin Cronin used to write works of literary fiction, but now he's making money. We've all heard that literary fiction and money don't mix (ask Oprah). Perhaps it's because of that weird construct that Cronin is getting so much attention, or maybe it's because he writes about vampires.<br /><br />Whatever the case, Cronin has been the subject of countless articles in the <i>Globe</i>, the <i>NYT </i>-- every major publication in the whole country, for that matter. What's going on? Has he captured the zeitgeist or is it something else?

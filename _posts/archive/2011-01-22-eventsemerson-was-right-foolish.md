@@ -1,0 +1,15 @@
+---
+published: false
+title: EVENTS...Emerson was right — "a foolish consistency is the hobgoblin of little
+  minds"...so come to the cabaret!
+date: '2011-01-22T15:08:00.015-05:00'
+author: Kate Robinson
+tags:
+- Patton Oswalt
+modified_datetime: '2011-01-22T17:32:35.246-05:00'
+thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/TTs6dVCw5dI/AAAAAAAAAMU/6rFUwMbyuQE/s72-c/david-bowie-138.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4641214712905806354
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/01/eventsemerson-was-right-foolish.html
+---
+
+<div align="center"><br /></div><br /><div align="center"><br /></div><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 257px; DISPLAY: block; HEIGHT: 307px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5565106040085734866" border="0" alt="" src="http://3.bp.blogspot.com/_L2x1PCw1zuI/TTs6dVCw5dI/AAAAAAAAAMU/6rFUwMbyuQE/s400/david-bowie-138.jpg" /><br /><br /><div align="center">I was going to write a very focused meditation on the state of critical theory in poetry , but I'm sleepy from selling so many copies of <a href="http://www.brooklinebooksmith-shop.com/book/9781439149089">Zombie Spaceship Wasteland </a>by the BELOVED Patton Oswalt, that I'm going to switch my focus to something more "of the moment"...because I'm like an adolescent finch...and there are so many of you... here in the store that I have to show you how cool you are...and <em>alarmingly</em> good looking ta' boot...<br /></div><div align="center">( If you missed the event, call us (617) 566-6660, or email <a href="mailto:events@brooklinebooksmith.com">events@brooklinebooksmith.com</a> we may still have signed copies available. Check out these pictures of the line...)</div><br /><div align="center"><br /></div><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 418px; DISPLAY: block; HEIGHT: 329px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5565109150805254258" border="0" alt="" src="http://4.bp.blogspot.com/_9hWTUgNRjUU/TTs9SZYF4HI/AAAAAAAAACQ/30pVS_AAXsY/s320/line%2Bpatton%2B2.JPG" /><br /><p align="center"><strong><span style="font-family:verdana;">Yep... </p><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 263px; DISPLAY: block; HEIGHT: 180px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5565112895929095938" border="0" alt="" src="http://3.bp.blogspot.com/_L2x1PCw1zuI/TTtAsZDMlwI/AAAAAAAAAMc/aG-A_RrCIZ8/s400/line%2Bpatton.bmp" /></span></strong><br /><br /><p align="center"><strong><span style="font-family:verdana;">Chowder.</span></strong><br /><br /></p>Just hearing about the event now? Well like<a href="http://www.facebook.com/home.php#!/brooklinebooksmith">...."like us"</a>us on Facebook! Sign up for our <a href="http://www.brooklinebooksmith.com/b-mail.htm">newsletter</a>! Come on by and grab ye olde paper calendar!<br /><br />Next week...some serious academics. Unless of course all you lovelies distract my birdy brain again.

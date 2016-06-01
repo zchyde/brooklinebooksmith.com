@@ -1,0 +1,17 @@
+---
+published: true
+title: Alex Is Reading...BROWN GIRL DREAMING
+date: '2014-11-25T16:00:00.000-05:00'
+author: Alex S
+tags:
+- alex is reading
+- YA
+- kids books
+- Award winners
+modified_datetime: '2014-11-25T16:00:09.847-05:00'
+thumbnail: http://1.bp.blogspot.com/-zoQ6M6GAAoA/VHToWira-6I/AAAAAAAAABI/JkYROpkgIZE/s72-c/20821284.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1890693866095917198
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/11/alex-is-readingbrown-girl-dreaming.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-zoQ6M6GAAoA/VHToWira-6I/AAAAAAAAABI/JkYROpkgIZE/s1600/20821284.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-zoQ6M6GAAoA/VHToWira-6I/AAAAAAAAABI/JkYROpkgIZE/s1600/20821284.jpg" height="320" width="213" /></a></div><br /><br /><br /><br />Today I'm reading <b>BROWN GIRL DREAMING by Jacqueline Woodson</b>, which just won the National Book Award and deserved it a dozen times over. Every perfectly chosen word carries its weight in this book. You feel like you are stepping right into how she sees her own life. It's poetic, it's inspired, you will cry. I promise.<br /><br />And if after that you still want to feel strongly emotional, try these...<br /><br /><b>FIVE HEARTBREAKINGLY GOOD BOOKS FOR KIDS AND YOUNG ADULTS</b><br /><br /><b>Persepolis by Marjane Satrapi</b> -- A striking two volume graphic novel autobiography of a girl growing up in Iran amidst political unrest. 12+<br /><br /><b>Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Saenz</b> -- Aristotle and Dante are best friends, but there's always a distance between them, coming from Ari's side. This is a novel about friendship, love, and fear of yourself. It's about secrets, heroism, identity, and opening up. It's wonderful. 13+<br /><br /><b>Counting by 7s by Holly Goldberg Sloan</b> -- Precocious Willow Chance only feels at home with her loving parents and her impressive garden. But an accident takes those things away. Willow is left to learn in her achingly precise and perfect language how to find love and understanding among different people, and how to build a new life from what she's lost. 11+<br /><br /><b>Rain Reign by Ann M. Martin </b>-- Rose Howard has a hard time fitting in with people because of her Asperger's syndrome, but her dog Rain understands her perfectly. When she loses Rain in a hurricane, Rose searches everywhere for her. When Rain does come back, Rose learns something about her dog that she doesn't want to know. Suddenly the happy reunion is a hard choice. [Disclaimer: NO DOG DIES IN THIS BOOK.] 9+<br /><br /><b>Absolutely True Diary of a Part-Time Indian by Sherman Alexie</b> -- Junior is a disabled kid from the reservation. He wants to be a cartoonist, but that probably won't ever happen as long as he stays put. So he does the worst thing a rez kid can do, and goes to the white school in the next town. Alexie knows about humor, anger, loss, and the impossibly choice between loyalty to the people you love and wanting something better. 13+<br /><br />Enjoy the extremely fulfilling tears you will cry as you read these perfect books.<br />

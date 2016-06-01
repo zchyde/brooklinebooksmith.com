@@ -1,0 +1,14 @@
+---
+published: false
+title: My Favorite Picture Books for Fall
+date: '2007-10-10T19:29:00.000-04:00'
+author: Lori
+tags:
+- Kid Stuff
+modified_datetime: '2008-12-08T23:03:59.474-05:00'
+thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/Rw1vcSutWJI/AAAAAAAAAD0/4zDwUSUiVFw/s72-c/fletcher.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1740645511022353997
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/10/my-favorite-picture-books-for-fall.html
+---
+
+<a href="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rw1vcSutWJI/AAAAAAAAAD0/4zDwUSUiVFw/s1600-h/fletcher.jpg"><img id="BLOGGER_PHOTO_ID_5119870883244890258" style="CURSOR: hand" alt="" src="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rw1vcSutWJI/AAAAAAAAAD0/4zDwUSUiVFw/s320/fletcher.jpg" border="0" /></a> <a href="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rw1vXSutWII/AAAAAAAAADs/tKcwDRB1QqE/s1600-h/bitsy.jpg"><img id="BLOGGER_PHOTO_ID_5119870797345544322" style="CURSOR: hand" alt="" src="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rw1vXSutWII/AAAAAAAAADs/tKcwDRB1QqE/s320/bitsy.jpg" border="0" /></a><br /><div><br /><br /><div>I've been waiting for it to feel like fall so I could write about these two books--both came out last year and have still lingered in my mind as great stories with fantastic illustrations--<a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780618639946"><strong><em>Brave Bitsy and the Bear</em></strong> </a>by Angela McAllister and <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780061134012"><strong><em>Fletcher and the Falling Leaves</em></strong> </a>by Julia Rawlinson. Both are illustrated by Tiphanie Beeke, clearly suggesting that she is queen of capturing the feeling of autumn.</div><br /><div>In <strong><em>Brave Bitsy and the Bear</em></strong>, little Bitsy must find her way home when she falls out of her girl's pocket. She meets a big bear, who wants to help her, but is tired and ready to go to sleep for the winter. After bear helps Bitsy find her way home she realizes he may need her help as well and sets off to make sure he has made it safely to his cave. </div><br /><div>In <em><strong>Fletcher and the Falling Leaves</strong></em>, Fletcher the fox is very worried his favorite tree is sick--all the leaves are changing colors and falling off its branches. He tries to save the leaves, but soon his favorite tree is bare. Fletcher is upset until he sees the beauty that comes with each season as leaves give way to a wintery surprise. </div><br /><div>I love both these books as they work on two levels. Both can provoke discussion about the cycle of seasons and what that means for nature, while also providing lovely portrayals of the meaning of friendship. I promise you'll love them both! </div></div>

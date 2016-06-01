@@ -1,0 +1,14 @@
+---
+published: false
+title: Winter Events
+date: '2008-01-04T17:27:00.000-05:00'
+author: Lori
+tags:
+- Events
+- Fiction
+modified_datetime: '2008-01-04T17:56:00.096-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8427565808121421902
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2008/01/winter-events.html
+---
+
+So I just want to crow a little bit...<br /><br /><em>USA Today</em> had a "<a href="http://www.usatoday.com/life/books/news/2008-01-02-winter-books_N.htm">Winter Books Preview" </a>and, wanting to be a good bookseller (and just wanting to know what other folks are excited to read), I checked it out. And you totally should, too, as the interactive feature they have at the top is just really damn cool. Anyways...in the article are mentioned four top picks for literary fiction: <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780307264206"><strong><em>The Senator's Wife</em></strong> </a>by Sue Miller, <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780061430251"><strong><em>The Reserve</em></strong> </a>by Russell Banks, <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780374299255"><strong><em>Lush Life</em></strong> </a>by Richard Price, and <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780307265739"><strong><em>Unaccustomed Earth</em></strong> </a>by Jhumpa Lahiri. And their top pick overall was Geraldine Brooks's <em><strong><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780670018215">People of the Book</a></strong></em>.<br /><br />So why am I crowing? Because in the next few months we will be hosting FOUR of the above authors! Geraldine Brooks will be here January 8th, Sue Miller will be here on the 16th, Russell Banks on February 5th, and (shhh...I don't know if I'm even supposed to be telling you this yet...) Jhumpa Lahiri will be here on April 3rd. I have to give mad props to Brian, our events coordinator, for really putting together the best events schedule I have seen in a long time (you can see the list of all our author events through January and February <a href="http://brooklinebooksmith.com/Events/MainEvent.html">here</a>).<br /><br />By the way, you can officially be jealous of me because I have read <em>Unaccustomed Earth</em> and it is spectacular. I don't know how Jhumpa Lahiri does it, but she just hits a home run every time. And I need to finish <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780446580076">the current book I'm reading </a>this weekend so I can get through <em>People of the Book</em> before Ms. Brooks gets here next week! I am really excited for this one.

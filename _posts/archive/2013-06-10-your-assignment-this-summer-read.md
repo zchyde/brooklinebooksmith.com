@@ -1,0 +1,14 @@
+---
+published: true
+title: 'Your assignment this summer: Read something good'
+date: '2013-06-10T09:00:00.000-04:00'
+author: Shoshana
+tags:
+- children's books
+- summer reading
+modified_datetime: '2013-06-10T14:17:52.476-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6932804706492169050
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/06/your-assignment-this-summer-read.html
+---
+
+The vast majority of our summer reading section is up and ready! Each year Brookline Public Schools creates an extensive list of required books by school and recommended books by grade, and we turn that list into a highly categorized section of the store. (A few schools are still deciding on their required titles; feel free to give us a call to find out whether your school's titles are available yet. In the meantime, in addition to the Brookline list, we do have a small section for the Boston Latin list.)<br /><div><br /></div><div>Here's the thing: It's a pretty amazing <a href="http://brooklinesummerreading.weebly.com/">list</a>. What I love is its acknowledgement that, at any age, there are many ways into reading and all of them are worth encouraging. Each age group has about 8-10 categories, everything from "Out of This World: Fantasy and Science Fiction" to "Too Good to Miss: Classics" to <br />Get Real! Nonfiction" to "Play Ball! Sports Books" to "A Way with Words: Poetry" to "Just for Fun: Humor" to "Take a Look: Picture Books for Older Readers" (which often includes graphic novels). The pre-k and kindergarten list includes beginning reading books, but it also includes alphabet and counting books. The first and second grade list has chapter books, but also books that are easier to read. There's a "Listen Up! Books for Families to Read Aloud" category at many levels. The seventh and eighth grade and high school lists include popular YA as well as plenty of adult fiction and nonfiction.</div><div><br /></div><div>Not all schools have required titles for all grades, but the books that are required carry the same spirit: reading is supposed to be fun. Andrew Clements, the master of the funny school story, keeps popping up. That's not to say the books aren't thoughtful or that horizons won't be expanded - you try reading Gary Schmidt's <i>Okay for Now</i>&nbsp;or Deborah Ellis' <i>The Breadwinner</i>&nbsp;without learning something - but by and large, these are also accessible books, the kind that make it easy to make friends with the characters. They're books that many kids won't mind reading on summer car trips or in their bunks at camp. They might even get passed around.</div><div><br /></div><div>Come browse the summer reading section. Even if you don't have a Brookline student in the family. It's got something for everyone.<br /><div><div><br /></div></div></div>

@@ -1,0 +1,18 @@
+---
+published: true
+title: End Times Approacheth
+date: '2012-12-22T18:31:00.002-05:00'
+author: Lydia
+tags:
+- christmas
+- hey question do you guys read these tags at all because they're sorta my favorite
+  part of the internet but i might just be talking to myself
+- apocalypse
+- Confessions
+modified_datetime: '2012-12-22T20:20:55.944-05:00'
+thumbnail: http://3.bp.blogspot.com/-Q1pr9pkXxic/UNY4kBUK7II/AAAAAAAAACg/5rd4i7Wv328/s72-c/bb+xmas.JPG
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7427445640383387655
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/end-times-approacheth.html
+---
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-Q1pr9pkXxic/UNY4kBUK7II/AAAAAAAAACg/5rd4i7Wv328/s1600/bb+xmas.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="206" src="http://3.bp.blogspot.com/-Q1pr9pkXxic/UNY4kBUK7II/AAAAAAAAACg/5rd4i7Wv328/s400/bb+xmas.JPG" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">It's madness, I tell you.</td></tr></tbody></table><span style="font-family: Georgia, Times New Roman, serif;">Forget 12/21. It's the Saturday before Christmas, folks, and the Retailpocalypse is upon us. I've stolen away to the deepest recesses of the Booksmith's labyrinthine bowels, but even here the walls throb under the booted feet of the shopping hordes. Only crumbs remain from my meager stash of gingerbread men and the battery icon on our store laptop flickers like a dying candle.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />I will not last much longer. So I have some confessions to make.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />- I judge books by their covers (<a href="http://www.nytimes.com/slideshow/2012/12/19/books/20favorite-book-covers.html" target="_blank">SO PRETTY</a>).</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />- When you buy my staff-pick, I secretly give you a discount. We're in this together.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />- I don't get the <a href="http://thejailbreak.com/wp-content/uploads/2010/08/handerpants02.jpg" target="_blank">Handerpants</a>. We have a million novelty gifts (I counted) to make you the prince(ss) of any yankee swap. Probably no fewer than half are lewd variations on lingerie. You guys love them all and usually I'm on board with that. Squirrel underpants? Fine. Emergency underpants? Ok.&nbsp;Handerpants? No. I'm sorry.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />They're here. I will sell them to you. But we will never see eye-to-eye.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />- When I say "I've heard good things," what I mean is "this book you're asking me about just took on the symbolic weight of each and every book I've never read and it is now a beacon of my shame. Buy it. Read it. Go on without me."</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />- I haven't read Moby Dick. I haven't&nbsp;read War &amp; Peace. I have read Game of Thrones and you know what? The HBO version is better.</span><br /><span style="font-family: Georgia, Times New Roman, serif;"><br />Lots more dirty secrets where those came from but Xmas is almost here SO - once more unto the breach, Brookline! Been an honor and a pleasure. If we live through this, I'll see ya next year.</span>

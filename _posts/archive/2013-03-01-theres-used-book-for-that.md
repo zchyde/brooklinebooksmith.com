@@ -1,0 +1,17 @@
+---
+published: true
+title: There's a used book for that
+date: '2013-03-01T12:56:00.001-05:00'
+author: Natasha
+tags:
+- bibliotherapy
+- used books
+- get well soon
+- therapy
+modified_datetime: '2013-03-01T12:56:07.689-05:00'
+thumbnail: http://3.bp.blogspot.com/-z2298nQT9hI/US-maFFNGrI/AAAAAAAABKk/A0klGh75P-I/s72-c/04BOOK2-articleInline-v2.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2295723862630915708
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/03/theres-used-book-for-that.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-z2298nQT9hI/US-maFFNGrI/AAAAAAAABKk/A0klGh75P-I/s1600/04BOOK2-articleInline-v2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-z2298nQT9hI/US-maFFNGrI/AAAAAAAABKk/A0klGh75P-I/s200/04BOOK2-articleInline-v2.jpg" width="140" /></a></div>Author Alain de Botton started up this "<a href="http://en.wikipedia.org/wiki/The_School_of_Life">social enterprise</a>" called the School of Life in London, where participants can attend workshops or special lectures on topics ranging from positivity, vice, "how to be cool," navigating office politics, and much more. Some of the creme de la creme of their offerings are now released in book format here in the States. De Botton's <i>How to Think More About Sex </i>and psychologist Phillipa Perry's <i>How to Stay Sane</i>&nbsp;are the first of a forthcoming series of books that will teach you how to live a better life, "free from dogma." One of my favorite offerings of the School of Life, that is perhaps not much different from the commonplace task of a bookseller though more formal, is bibliotherapy.<br /><br />The concept of Bibliotherapy is that you submit your ills or interests or preoccupations with a designated bibliotherapist who will prescribe books to help you cope, process or escape. Whatever you need! According to <a href="http://en.wikipedia.org/wiki/Bibliotherapy">Wikipedia&nbsp;</a>it's been around since the ancient Greeks (which makes all my life choices legitimate). I like this concept a lot, perhaps because in an on-the-fly sense it's what booksellers do all day. But I like the idea that there are certain books to cure your ills or at least alleviate the symptoms.<br /><br />Lacking spice in your marriage? We've got <i>Lady Chatterley's Lover </i>by D. H. Lawrence!<br /><br />Sick of the rain outside? Read <i>Dune </i>by Frank Herbert.<br /><br />Need a laugh? How about George Saunders' <i>Pastoralia?</i><br /><i><br /></i>Getting over the loss of a loved one? Paul Auster's <i>New York Trilogy</i> might help.<br /><br />Need to create more boundaries for yourself? Let Bronte's <i>Jane Eyre </i>inspire you.<br /><br />Irrational fears got you down? Max Brooks' <i>World War Z</i> might allay things.<br /><br />Government bumming you out? How about <i>V for Vendetta</i> by Alan Moore?<br /><br />Mourning the transition from childhood to adulthood? We have a grip of Peanuts, Garfield and Calvin &amp; Hobbes comics.<br /><br />Come into the UBC and save mad money on your psychiatry bills!

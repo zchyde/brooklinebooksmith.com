@@ -1,0 +1,16 @@
+---
+published: true
+title: Back to Work!
+date: '2012-05-25T10:30:00.000-04:00'
+author: Natasha
+tags:
+- summer reading
+- used books
+- twilight
+modified_datetime: '2012-05-25T10:30:01.595-04:00'
+thumbnail: http://3.bp.blogspot.com/-8MBPtAyv5go/T761ks67AOI/AAAAAAAAAdE/AH4yw48ugx0/s72-c/old-books.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1008857776228910277
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/back-to-work.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-8MBPtAyv5go/T761ks67AOI/AAAAAAAAAdE/AH4yw48ugx0/s1600/old-books.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="132" src="http://3.bp.blogspot.com/-8MBPtAyv5go/T761ks67AOI/AAAAAAAAAdE/AH4yw48ugx0/s200/old-books.jpg" width="200" /></a></div>I had a nice, calm week in the West but I am ready to get to work. And I have it cut out for me, too. People are moving out, there's a long weekend ahead and a lot of people are in selling books. It certainly makes the day move faster but it also means that we are seeing a lot of books, and we can't give them all homes. So to make sure that you don't waste a trip by bringing in books we might pass on, this is just a friendly suggestion for those wanting to sell back to call in or e-mail a list of the titles you have and we can help you whittle your pile down to&nbsp;stuff that we can use.<br /><br /><a href="http://1.bp.blogspot.com/-jHeWUO3aS4I/T761nTlT8eI/AAAAAAAAAdM/gwlx75Wcj38/s1600/Novelization_The-Cabin-in-the-Woods_042012.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-jHeWUO3aS4I/T761nTlT8eI/AAAAAAAAAdM/gwlx75Wcj38/s200/Novelization_The-Cabin-in-the-Woods_042012.jpg" width="121" /></a>But a ton of new arrivals mean there are a lot of cool new books in the store. CAN YOU HANDLE IT? Just in time for Memorial Day weekend and the upcoming summer:<br /><br />The novelization of <i>The Cabin in the Woods</i>, a graphic novel of Sherlock Holmes' stories, a copy of <i>The Confederacy of Dunces </i>(read it before<a href="http://www.csmonitor.com/Books/chapter-and-verse/2012/0524/A-Confederacy-of-Dunces-to-hit-the-big-screen-with-Zach-Galifianakis"> the movie comes out</a>), <i>The Tiger's Wife</i>, <i>Longing for the Harmonies, </i>a book on consciousness and physics, a complete book of Keats' poems, basically just a major haul of awesome for any sort of reader: casual to die-hard. Stop in for the one you're looking for or to get a recommendation from any one of us&nbsp;lovable&nbsp;weirdos.<br /><br />And remember, we're real passionate about books around here, but remember to never drink or drive: <a href="http://www.huffingtonpost.com/2011/11/21/illinois-twilight-fan-arrested_n_1105740.html">read about this teenager in Illinois</a> who got so mad when her boyfriend didn't take her to see the new <i>Twilight </i>movie that she crashed her car.

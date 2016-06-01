@@ -1,0 +1,17 @@
+---
+published: true
+title: Booksellers in Autumn
+date: '2013-09-18T18:35:00.000-04:00'
+author: Jamie
+tags:
+- my books not yours
+- jamie
+- otto
+- rep night
+- pumpkin
+modified_datetime: '2013-09-18T18:35:03.320-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1768447755621244604
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/09/booksellers-in-autumn.html
+---
+
+For the past two weeks, every flavored beverage that has touched my lips has pumpkin in it. &nbsp;Pumpkin beers, pumpkin latte, and I have a honey and cinnamon sugar set-up at home for rimmed glasses. &nbsp;I've unpacked my cardigan collection, am sighing over maroon-colored everything, and am already pressuring people to go leaf-gazing with me (I'm from Arizona guys, I have to be like this to fill the non-Boston-native quota). <br /><div><br /></div><div>We had a staff meeting the other night, where a few publisher sales representatives came in to tell us about fall books. &nbsp;In addition to getting pizza from <a href="http://www.ottoportland.com/" target="_blank">OTTO</a>&nbsp;(my love of their mashed potato bacon pizza is legendary), we were treated to a night of drinks (thank you Dana!) and books. &nbsp;After oohing and aahing over titles, and numerous interjections from me (there are a lot of fantastic authors coming in for <a href="http://www.brooklinebooksmith.com/events/mainevent.html" target="_blank">events</a>, not to brag or anything), we walked away very well-educated about fall books. &nbsp;We got to pick out the books we wanted and had a raffle for a few more titles, and also fought and smack-talked other booksellers in an attempt to trade for a book we really wanted.&nbsp;</div><div><br /></div><div>LIST OF BOOKS WE FOUGHT WITH OTHER BOOKSELLERS IN AN ATTEMPT TO ACQUIRE AFTER THEY CAME ABOUT IT HONESTLY:&nbsp;</div><div>1. <i>Best American Guide to Infographics 2013</i>, by Gareth Cook: Design! He's also coming here for an <a href="http://www.brooklinebooksmith-shop.com/event/gareth-cook-best-american-infographics-2013" target="_blank">event 10/15</a>.&nbsp;</div><div>2. <i>Co-Mix: A Retrospective of Comics, Graphics, and Scraps, </i>by Art Spiegelman: This book is a. gorgeous and b. mine, not yours.<br />3. <i>Boxers/Saints,</i>&nbsp;by Gene Luen Yang: I first read this as an egalley, was alternately ecstatic for the opportunity to read it/devastated I didn't first read it as a hard copy, and then became really happy when I snagged (a.k.a. made sad faces at Natasha) it for myself.&nbsp;</div><div>4.&nbsp;<i>Balaboosta,</i>&nbsp;by Einat Admony: Look at it. &nbsp;Just look at it. If I have to explain any further, you are bad at cookbooks.<br />5. <i>Provence, 1970, </i>by Luke Barr: M.F.K. Fisher, Julia Child, James Beard and more in one area, talking food and meeting at really seminal and important times in their lives. &nbsp;Gossip, the ability to make the joke about too many cooks in the kitchen, you get the idea.<br />6. <i>Allegiant, </i>by Veronica Roth: There weren't any actual copies of this book at the store, but when our HarperCollins rep Anne said the title, about ten of us leaned forward and held our breaths. &nbsp;If there was a galley--oh, the blood!<br />7. <i>Falling Upwards</i>, by Richard Holmes: Hot air balloons. &nbsp;<i>Hot. Air. Balloons</i>.<br /><br />We already knew too much about books, and now we know even more. &nbsp;Come on in, we're ready for the holiday onslaught. <br /><br /><br /></div>

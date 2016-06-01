@@ -1,0 +1,13 @@
+---
+published: false
+title: Never judge a book by its cover...
+date: '2011-10-26T16:54:00.002-04:00'
+author: Emily
+tags: 
+modified_datetime: '2011-10-26T16:54:41.053-04:00'
+thumbnail: http://1.bp.blogspot.com/-rj9xshmLDa8/TqhywSB2nFI/AAAAAAAAARg/aseKbXTEwS4/s72-c/0064431975.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9033511467300626835
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/10/never-judge-book-by-its-cover.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-rj9xshmLDa8/TqhywSB2nFI/AAAAAAAAARg/aseKbXTEwS4/s1600/0064431975.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="297" src="http://1.bp.blogspot.com/-rj9xshmLDa8/TqhywSB2nFI/AAAAAAAAARg/aseKbXTEwS4/s320/0064431975.jpg" width="320" /></a></div><div>&nbsp;An overused phrase, I know; but its truth often holds.  Even so, I find myself looking over titles and thinking <em>okay that title or cover is just weird,</em> despite the fact that the book still has the opportunity to be brilliant (and then there are the duds&nbsp;of which the&nbsp;cover is already too much to look at).  Sometimes titles are misleading -- or maybe misleading in the adult's eyes.  </div><div>&nbsp;</div><div><em><a href="http://www.brooklinebooksmith-shop.com/book/9780064431972">The Hating Book</a></em> was one of the most checked out books in my elementary school library, and probably one that received&nbsp;countless eye rolls.  Yes, the major theme in the book is&nbsp;<strike> hate </strike>&nbsp;a strong dislike, but it does not hold to the last page.  </div><div>&nbsp;</div><div>There are two best friend, see, who aren't talking with each other, "When I went to walk home with her, she had already gone" and "when she took her dog out and&nbsp;I whistled to him, she put him on a leash and led him away."  Ouch.  Her mother tells her daughter to "ask [her] friend why."  But she wouldn't, couldn't, and would rather die.  It turns out all this hate is the direct result of a mishearing.  Her friend never said she looked like a freak.  She said she looked neat.  </div><div>&nbsp;</div><div>When parents see this book, they think it teaches how to hate.  But in the end, it is learned that all this hate was never necessary and could be a misunderstanding gone all wrong.&nbsp; What can one do in such a predicament? &nbsp; "Ask, ask your friend why." &nbsp; </div><div>&nbsp;</div><div><em>The Hating Book</em> is a masterpiece that has been going strong for over 40 years.  All because, I think, some kids were willing to go beyond the cover.</div><div> </div>

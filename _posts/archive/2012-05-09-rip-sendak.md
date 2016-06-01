@@ -1,0 +1,12 @@
+---
+published: true
+title: RIP Sendak
+date: '2012-05-09T20:44:00.000-04:00'
+author: Emily
+tags: 
+modified_datetime: '2012-05-09T20:44:00.170-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8143020496799902836
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/05/rip-sendak.html
+---
+
+This week the children's lit community said goodbye to one of the most influential writers and illustrators of the 21st century: <a href="http://www.nytimes.com/2012/05/09/books/maurice-sendak-childrens-author-dies-at-83.html">Maurice Sendak</a>.&nbsp; "And they roared their terrible roars and gnashed their terrible teeth and rolled their terrible eyes and showed their terrible claws"&nbsp;is one of the most famous lines in all of&nbsp;children's literature.&nbsp; To some, Sendak's picturebooks were odd, too scary, and non-sensical.&nbsp; To others they will always be a pure genius.<br /><br />Did you know that Sendak never actually wrote for children?&nbsp; He wrote what he wanted, and his work was always marked as "for children" by his publisher.&nbsp; Regardless of&nbsp;whether you respected his work or not, what made Sendak stand out was his honesty.&nbsp; In his own words, "from their earliest years children live on familiar terms with disrupting emotions, fear and anxiety are an intrinsic part of their everyday lives, they continually cope with frustrations as best they can. And it is through fantasy that children achieve catharsis. It is the best means they have for taming Wild Things."&nbsp; In other words, Sendak focused on the fact that childhood is full of dark and that the portrayal of innocence is a lie.&nbsp; Surrounding children by illusions of life only builds a thick wall of buried emotion, but being open to what can happen creates a stronger person in the process.&nbsp; Thank you Sendak for being a True author.<br /><div style="background-color: white; border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; color: black; overflow: hidden; text-align: left; text-decoration: none;">&nbsp;</div><div style="background-color: white; border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; color: black; overflow: hidden; text-align: left; text-decoration: none;"><br />&nbsp;</div>

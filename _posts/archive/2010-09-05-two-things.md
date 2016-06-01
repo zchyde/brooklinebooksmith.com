@@ -1,0 +1,12 @@
+---
+published: false
+title: Two Things
+date: '2010-09-05T19:26:00.003-04:00'
+author: dana brigham
+tags: 
+modified_datetime: '2010-09-05T19:55:34.478-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1391653783714312939
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/two-things.html
+---
+
+First thing:  Amongst the death knells being tolled for the physical book, I'm noticing an  interesting phenomenon.  When, lately, have books, publishing, who's reading in what format been so much in the news??   There are the stories of Borders and Barnes &amp; Noble (what IS with that Noble, anyway?)  and their corporate woes.  There are the e-reader devices analyses daily.  There are the publishers-as-dinosaurs essays.   There are comparisons to the time of Gutenberg on many a tongue.  Really, it's quite exciting that books and reading are such big, big news.  I'm quite pleased to be part of something so newsworthy.  Meanwhile, at the store, we're excited about great new books out for the fall and our absolutely stellar line up of author readings this season.   No matter the format, authors are still the ones writing books, and you can meet and greet them at Booksmith soon.   Check out our website, brooklinebooksmith.com, for the incredible lineup.<div><br /></div><div> Second thing:  Every week there are stories in the media about budget shortfalls in towns and cities all over the U.S.  If everyone who purchases online paid the sales tax which should be paid, the deficits would be far less.  It's become quite astounding to me that there is still argument about this.  The online retailers claim it would be an insufferable burden for them to collect said sales tax.   To that I say, ever heard of level playing field?  You can set up your sales program to charge the appropriate sales tax just like we little folk do in our bricks and mortar stores.  What thrall must the internet giants have over legislators to keep this folly afloat?  To be trite but emphatic, give me a break!   All those millions of dollars of internet sales, sales tax free,  are a real factor in gutting the budgets of states nationwide.  It's not the only factor, certainly, but it is a significant one.</div><div><br /></div><div>Okay, I'm checking out for a couple of weeks.  My daughter is getting married soon, and I must ramp up my Momzilla-ness.  So far my girl has not exhibited Bridezilla-ness, but we still have time.  Happy Fall!</div>

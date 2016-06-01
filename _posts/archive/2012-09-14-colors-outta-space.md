@@ -1,0 +1,18 @@
+---
+published: true
+title: Colors Outta Space
+date: '2012-09-14T13:50:00.001-04:00'
+author: Natasha
+tags:
+- modern library
+- spaceships
+- lovecraft
+- used books
+- Collecting
+modified_datetime: '2012-09-14T13:50:36.165-04:00'
+thumbnail: http://1.bp.blogspot.com/-ipoxzIUx4Lw/UFNt1sseltI/AAAAAAAAA0w/pVGG2k1Yvo0/s72-c/lovecraft.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-39149780941479394
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/09/colors-outta-space.html
+---
+
+Two neat-o books in the UBC of note this week:<br /><br /><b><i>S. Petersen's Field Guide to Creatures of the Dreamlands</i></b> is a natural field guide to the supernatural creatures of H. P. Lovecraft's stories. Finally, you'll know what to do when you see a Basilisk wandering around a river bank (hint: RUN). $8.50.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-ipoxzIUx4Lw/UFNt1sseltI/AAAAAAAAA0w/pVGG2k1Yvo0/s1600/lovecraft.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" height="200" src="http://1.bp.blogspot.com/-ipoxzIUx4Lw/UFNt1sseltI/AAAAAAAAA0w/pVGG2k1Yvo0/s200/lovecraft.jpg" width="149" /></a><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-JRr3yfHNhjg/UFNt0HV8E8I/AAAAAAAAA0c/HR1C1tXxVAo/s1600/basilisk.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" height="191" src="http://3.bp.blogspot.com/-JRr3yfHNhjg/UFNt0HV8E8I/AAAAAAAAA0c/HR1C1tXxVAo/s320/basilisk.jpg" width="320" /></a></div><br /><br /><b style="font-style: italic;">Cut and Fold Paper Spaceships That Fly </b>is a compendium of 16 full-color models of spaceships FROM THE FUTURE that you can cut out, fold up (as directed) and send into orbit! Just $2.50!<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-IkfpHFCZnAc/UFNtsUg3xBI/AAAAAAAAA0M/WziXx5x0zUQ/s1600/spaceint.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><a href="http://3.bp.blogspot.com/-IkfpHFCZnAc/UFNtsUg3xBI/AAAAAAAAA0M/WziXx5x0zUQ/s1600/spaceint.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><a href="http://2.bp.blogspot.com/-NyhOeYoI4wU/UFNt0ydjusI/AAAAAAAAA0k/UnbKrRgU5yw/s1600/space.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://2.bp.blogspot.com/-NyhOeYoI4wU/UFNt0ydjusI/AAAAAAAAA0k/UnbKrRgU5yw/s200/space.jpg" width="143" /></a><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-IkfpHFCZnAc/UFNtsUg3xBI/AAAAAAAAA0M/WziXx5x0zUQ/s1600/spaceint.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://3.bp.blogspot.com/-IkfpHFCZnAc/UFNtsUg3xBI/AAAAAAAAA0M/WziXx5x0zUQ/s320/spaceint.jpg" width="320" /></a></div><br />Also, a regular of ours unloaded piles of Modern Libraries, many with stunning dust jackets. Come in and fill the holes in your collection before staffer and Modern Library collector Erik does!<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-CQez6u7DqNk/UFNtte7v8lI/AAAAAAAAA0U/tSG3oqlg9F8/s1600/modernlibrary.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-CQez6u7DqNk/UFNtte7v8lI/AAAAAAAAA0U/tSG3oqlg9F8/s320/modernlibrary.jpg" width="191" /></a></div>

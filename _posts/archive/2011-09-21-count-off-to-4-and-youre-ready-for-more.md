@@ -1,0 +1,12 @@
+---
+published: false
+title: Count off to 4 and you're ready for more
+date: '2011-09-21T17:07:00.000-04:00'
+author: Emily
+tags: 
+modified_datetime: '2011-09-21T17:07:08.101-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6023605487384001877
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/09/count-off-to-4-and-youre-ready-for-more.html
+---
+
+We have so many new titles coming in&nbsp;right now that we've had to completely re-arrange some of our shelves and overstocks just to fit it all in the store.&nbsp; What are some of the hot new children's titles?&nbsp; Well, for that, I'll have to make you wait for our children's newsletter, soon to come.<br /><br />Well, okay, I will share one growing area with you.&nbsp; Our early readers.&nbsp; Penguin Books has released a ton of leveled readers from levels 1 to 4, all snug within a new sleek rack.&nbsp; What I love about this new rack of ours is that it explains the differences between each level:<br /><ul><li>Level 1, the emergent reader: uses simple vocabulary, word repetition, picture clues, predictable stories, and familiar themes.</li><li>Level 2, the progressing reader: uses longer sentences, simple dialogue, pictures with&nbsp;context, in-depth plot, and a little more variety in subject matter.</li><li>Level 3, the transitional reader: uses multisyllable and compound words, more dialogue, different points of view, more complex stories, and an even greater range of genres.</li><li>Level 4, the fluent reader: use more advanced vocabulary, detailed text, complex sentences, very in-depth plots, and a wide variety of genres.</li><li>Where's level 5?&nbsp; We'll, at this point we encourage young readers to try early chapter books --&nbsp;because they are ready!</li></ul>Aren't you glad the people writing and plublishing these know what they are doing?&nbsp; You may find some of them uninteresting.&nbsp;&nbsp;Others may surprise you in their hilarious stories.&nbsp; But that's beside the point.&nbsp; All books are tools in some way.&nbsp; (How can one not argue that reading is foundational element in life, no matter your path.)&nbsp; Leveled books didn't really exist when I was growing up, which often made reading a huge guessing game.&nbsp; The beauty of these is that they help build confident readers by giving them just enough of a challege to keep learning new words, grammar, and story comprehension.&nbsp; Being a kid can be frustrating enough, right?&nbsp; Remember when you began reading; it was hard right?&nbsp; Level by level is the way to go!
