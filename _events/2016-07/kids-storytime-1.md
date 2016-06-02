@@ -1,13 +1,15 @@
 ---
-title: Kids Storytime (1)
-published: false
-start_at: 2016-01-15T09:00:00.000Z
+title: Kids Storytime
+published: true
+start_at: 2016-07-02T10:30:00.000Z
 image_path:
-book_category:
-program: '-writers-and-readers'
+book_category: kidsmith
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:
   -
 ---
 
+
+Do you love picture books? Join us in our children’s section as our fine children’s team reads stories aloud every third Saturday and last Sunday of the month.
