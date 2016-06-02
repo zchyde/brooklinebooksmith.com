@@ -1,6 +1,8 @@
 ---
 title: The Black Widow
-isbn:
-binding:
-image_path:
+isbn: '9780062320223'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/223/320/9780062320223.jpg'
 ---
+
+
