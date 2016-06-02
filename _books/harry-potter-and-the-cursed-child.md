@@ -1,6 +1,8 @@
 ---
 title: Harry Potter and the Cursed Child
-isbn:
-binding:
-image_path:
+isbn: '9781338099133'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/133/099/9781338099133.jpg'
 ---
+
+
