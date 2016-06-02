@@ -61,7 +61,7 @@ A great nonfiction resource is Jerome Pohlen's&nbsp;*[Gay and Lesbian History fo
 
 **4. If you're off to the parade…**
 
-For a simple, cheery introduction to Pride parades and Pride month celebrations, try Gayle E. Pitman and Kristyna Litten's Stonewall Award-winning picture book&nbsp;[*This Day In June*](http://www.brooklinebooksmith-shop.com/book/9781433816598)*.*
+For a simple, cheery introduction to Pride parades and Pride month celebrations, try Gayle E. Pitman and Kristyna Litten's Stonewall Award-winning picture book&nbsp;[*This Day In June*](http://www.brooklinebooksmith-shop.com/book/9781433816598)*.&nbsp;*
 
 These and more books will be on display in the kids' section, and you can follow the pink bookmarks around the section for some of our relevant staff favorites.
 
