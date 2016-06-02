@@ -1,6 +1,8 @@
 ---
 title: "Where's Waldo"
-isbn:
-binding:
-image_path:
+isbn: '9780763645250'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/250/645/9780763645250.jpg'
 ---
+
+
