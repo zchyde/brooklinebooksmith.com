@@ -1,5 +1,5 @@
 ---
-title: Kids Storytime (2)
+title: Kids Storytime
 published: true
 start_at: 2016-07-17T10:30:00.000Z
 image_path:
