@@ -14,3 +14,14 @@ books:
 ---
 
 
+If you want to read Booker Prize What could have prompted such sadism, you might wonder?
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years
