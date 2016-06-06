@@ -15,7 +15,7 @@ books:
 ---
 
 
-Every avid fan knows that the wait for a favorite author's next book can feel like a century.  Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently for George R. R. Martin since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440)). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, Pottermania is [alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
+Every avid fan knows that the wait for a favorite author's next book can feel like a century.&nbsp; Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently for George R. R. Martin since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440)). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, Pottermania is [alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
 
 ---
 
