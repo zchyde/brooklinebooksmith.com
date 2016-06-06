@@ -14,21 +14,12 @@ books:
 ---
 
 
-Every avid fan knows that the wait for a favorite author's next book can feel like a century.&nbsp; Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently on George R. R. Martin's doorstep since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440) by their efforts). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, even Pottermania is [still alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
+Every avid fan knows that the wait for a favorite author's next book can feel like a century.&nbsp; Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently for George R. R. Martin since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440)). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, Pottermania is [alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
 
-But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday Mitchell finished the unpublished novel, titled "From Me Flows What You Call Time"; by Tuesday the author was in Norway, at a ceremony to seal the manuscript in a wood-lined vault. What could have prompted such sadism, you might wonder?
-<br>&nbsp;
+But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday Mitchell finished the unpublished novel *From Me Flows What You Call Time*; by Tuesday the author was in Norway, at a ceremony to seal the manuscript in a wood-lined vault to be opened in 2114. What could have prompted such sadism, you might wonder? *The Guardian*'s Alison Flood [reports](https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years):
 
-&nbsp;
+> Mitchell is the second contributor to the Scottish artist Katie Paterson’s Future Library project, for which 1,000 trees were planted two years ago in Oslo’s Nordmarka forest. Starting with Margaret Atwood, [who last year handed over the manuscript of a text called *Scribbler Moon*](https://www.theguardian.com/books/2015/may/27/margaret-atwood-scribbler-moon-future-library-norway-katie-paterson), each year for the next 100 years an author will deliver a piece of writing which will only be read in 2114, when the trees are chopped down to make paper on which the 100 texts will be printed.
 
-The Future Library Project, in the vein of ventures like the Voyager Golden Record and the Clock of the Long Now, is an ultimate long-term preservation effort for human civilization. Atwood's and Mitchell's books will outlast everyone reading books today (and potentially even our whole species).
-
-&nbsp;
+The [Future Library Project](http://www.futurelibrary.no/), in the vein of ventures like the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record) and the [10,000-Year Clock](http://longnow.org/clock/), is an ultra-longterm preservation effort for human civilization. Atwood's and Mitchell's books will outlast everyone reading today (and potentially even [our whole species](http://www.theatlantic.com/technology/archive/2016/04/a-human-extinction-isnt-that-unlikely/480444/)).
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years
