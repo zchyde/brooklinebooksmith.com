@@ -18,13 +18,17 @@ Every avid fan knows that the wait for a favorite author's next book can feel li
 
 ---
 
-&nbsp;
+[![Stick Figure Amy](/uploads/versions/waiting-amy---x----800-476x---.png)](http://www.brooklinebooksmith.com/2015/02/23/so-longso-much-waiting/)---
 
-But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday Mitchell finished the unpublished novel *From Me Flows What You Call Time*; by Tuesday the author was in Norway, at a ceremony to seal the manuscript in a wood-lined vault to be opened in 2114. What could have prompted such sadism, you might wonder? *The Guardian*'s Alison Flood [reports](https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years):
+But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday, Mitchell finished the unpublished novel *From Me Flows What You Call Time*; by Tuesday he was in Norway, at a ceremony to seal the manuscript in a wood-lined vault to be opened in 2114. What could have prompted such sadism, you might wonder? *The Guardian*'s Alison Flood [reports](https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years):
 
 > Mitchell is the second contributor to the Scottish artist Katie Paterson’s Future Library project, for which 1,000 trees were planted two years ago in Oslo’s Nordmarka forest. Starting with Margaret Atwood, [who last year handed over the manuscript of a text called *Scribbler Moon*](https://www.theguardian.com/books/2015/may/27/margaret-atwood-scribbler-moon-future-library-norway-katie-paterson), each year for the next 100 years an author will deliver a piece of writing which will only be read in 2114, when the trees are chopped down to make paper on which the 100 texts will be printed.
 
-The [Future Library Project](http://www.futurelibrary.no/), in the vein of ventures like the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record) and the [10,000-Year Clock](http://longnow.org/clock/), is an ultra-longterm preservation effort for human civilization. Atwood's and Mitchell's books will outlast everyone reading today (and potentially even [our whole species](http://www.theatlantic.com/technology/archive/2016/04/a-human-extinction-isnt-that-unlikely/480444/)). In fact, the library would not sound out of place in one of Mitchell's own books.
+The [Future Library Project](http://www.futurelibrary.no/), in the vein of ventures like the [Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record) and the [10,000-Year Clock](http://longnow.org/clock/), is an ultra-longterm preservation effort for human civilization. Atwood's and Mitchell's books will outlast everyone reading today (and potentially even [our whole species](http://www.theatlantic.com/technology/archive/2016/04/a-human-extinction-isnt-that-unlikely/480444/)). The library, in fact, would not sound out of place in one of Mitchell's own books.
+
+---
+
+[![Future Library Project](/uploads/versions/kp_fl_rings900---x----700-707x---.png)](http://futurelibrary.no/)---
 
 The concept is just too cool to feel cheated (though if any [cryonics](https://en.wikipedia.org/wiki/Cryonics) company could get our freezers in the front row when that vault opens, let us know). On the future role his work will play, Mitchell is pensive:
 
