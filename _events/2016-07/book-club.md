@@ -1,7 +1,7 @@
 ---
 title: Book Club
 published: true
-start_at: 2016-07-11T07:30:00.000Z
+start_at: 2016-07-12T07:30:00.000Z
 image_path:
 book_category:
 program: book-club
