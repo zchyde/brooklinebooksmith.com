@@ -1,5 +1,5 @@
 ---
-title: '**Release Party for ** *Harry Potter and the Cursed Child*'
+title: '*Harry Potter and the Cursed Child* Release Party'
 published: true
 start_at: 2016-07-30T21:00:00.000Z
 image_path:
