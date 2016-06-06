@@ -1,6 +1,8 @@
 ---
 title: Library Lion
-isbn:
-binding:
-image_path:
+isbn: '9780763637842'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/842/637/9780763637842.jpg'
 ---
+
+
