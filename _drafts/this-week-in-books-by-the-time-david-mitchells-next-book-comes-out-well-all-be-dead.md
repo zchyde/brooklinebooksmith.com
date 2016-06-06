@@ -4,12 +4,13 @@ published: false
 featured: false
 date: 2016-01-16T16:30:00.000Z
 description: The bestselling author buries his book for future generations.
-featured_image_path:
-featured_image_position: 50
+featured_image_path: /old-safe-vaulted-door-combination-lock-jpg-vault-door-locks--1024x689.jpg
+featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
+  - lydia
 books:
 ---
 
