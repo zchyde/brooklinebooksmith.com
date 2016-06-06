@@ -1,6 +1,6 @@
 ---
 title: '**Thomas Olde Heuvelt, Joe Hill and Paul Tremblay**'
-published: false
+published: true
 start_at: 2016-07-11T19:00:00.000Z
 image_path:
 book_category:
