@@ -14,7 +14,11 @@ books:
 ---
 
 
-If you want to read Booker Prize What could have prompted such sadism, you might wonder?
+Every avid fan knows that the wait for a favorite author's next book can feel like a century.
+
+Even Pottermania is still alive and well.
+
+What could have prompted such sadism, you might wonder?
 
 &nbsp;
 
