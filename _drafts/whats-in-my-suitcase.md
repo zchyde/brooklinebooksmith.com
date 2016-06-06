@@ -2,7 +2,7 @@
 title: "What's in India's suitcase?"
 published: false
 featured: false
-date: 2016-06-07T09:00:00.000Z
+date: 2016-06-09T09:00:00.000Z
 description: 'Every time I take a trip, I find that my suitcase is overly full of books–I will forsake extra clothes, and gladly repeat the same shoes for the entirety of my trip if it means that I can add more books to my bag.'
 featured_image_path:
 featured_image_position: 50
