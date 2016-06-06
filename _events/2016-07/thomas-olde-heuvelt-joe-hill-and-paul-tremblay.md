@@ -8,7 +8,9 @@ program: '-writers-and-readers'
 ticketed: false
 test:
 book_isbn:
-  -
+  - '9780062363268'
+  - '9780062200631'
+  - '9780765378804'
 ---
 
 
