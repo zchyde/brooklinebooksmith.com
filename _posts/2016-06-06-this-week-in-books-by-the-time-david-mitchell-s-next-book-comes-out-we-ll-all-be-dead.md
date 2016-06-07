@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-06T16:30:00.000Z
 description: The bestselling author buries his book for future generations.
-featured_image_path: /old-safe-vaulted-door-combination-lock-jpg-vault-door-locks--1024x689.jpg
+featured_image_path: /uploads/old-safe-vaulted-door-combination-lock-jpg-vault-door-locks--1024x689-compressor.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:
@@ -15,11 +15,11 @@ books:
 ---
 
 
-Every avid fan knows that the wait for a favorite author's next book can feel like a century.  Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently for George R. R. Martin since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440)). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, Pottermania is [alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
+Every avid fan knows that the wait for a favorite author's next book can feel like a century.&nbsp; Addicts of the blood-soaked historical fantasy series *Game of Thrones* have been tapping their toes impatiently for George R. R. Martin since 2011 (though he [appears unfazed](https://twitter.com/georgerrmartin_/status/373121001866813440)). And this July, with J. K. Rowling's [first new installment](http://www.brooklinebooksmith-shop.com/book/9781338099133) to the world of Hogwarts in almost a decade, Pottermania is [alive and well](http://www.brooklinebooksmith.com/events/2016-07/release-party-for--harry-potter-and-the-cursed-child/).
 
 ---
 
-[![Stick Figure Amy](/uploads/versions/waiting-amy---x----800-476x---.png)](http://www.brooklinebooksmith.com/2015/02/23/so-longso-much-waiting/)—
+![](/uploads/versions/waiting-amy-compressor---x----800-476x---.png)—
 
 But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday, Mitchell finished the unpublished novel *From Me Flows What You Call Time*; by Tuesday he was in Norway, at a ceremony to seal the manuscript in a wood-lined vault to be opened in 2114. What could have prompted such sadism, you might wonder? *The Guardian*'s Alison Flood [reports](https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years):
 
@@ -29,7 +29,9 @@ The [Future Library Project](http://www.futurelibrary.no/), in the vein of ventu
 
 ---
 
-[![Future Library Project](/uploads/versions/kp_fl_rings900---x----700-707x---.png)](http://futurelibrary.no/)—
+![](/uploads/versions/kp_fl_rings900-compressor---x----700-707x---.png)
+
+---
 
 The concept is just too cool to feel cheated (though if any [cryonics](https://en.wikipedia.org/wiki/Cryonics) company could get our freezers in the front row when that vault opens, let us know). On the future role his work will play, Mitchell is pensive:
 
