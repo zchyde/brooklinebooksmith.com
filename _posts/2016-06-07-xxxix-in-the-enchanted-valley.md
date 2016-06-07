@@ -42,7 +42,7 @@ I'll let the publisher's description lay the foundation:
 I'm currently entrenched in chapter 39 and yet for such a massive book I never stop to notice how far I've come or how much I have left. The writing is succinct; it writhes and slithers seamlessly from one reality to the next. It is easily one of the best books I've read in awhile.&nbsp;
 {: .present-before-paste}
 
-[*The Year 200*](http://www.brooklinebooksmith-shop.com/book/9781632060518) drops in mid July. You can pre-order a copy through our online shop or swing by in person in a few weeks. We'll have plenty of copies.&nbsp;
+[*The Year 200*](http://www.brooklinebooksmith-shop.com/book/9781632060518) drops in mid July. You can pre-order a copy through our online shop or swing by in person in a few weeks. We'll have plenty of copies. &nbsp;
 {: .present-before-paste}
 
 &nbsp;
