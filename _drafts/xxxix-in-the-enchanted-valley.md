@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - carl
 books:
 ---
 
@@ -17,7 +18,7 @@ books:
 ![](/uploads/versions/hamid-ismailov---x----1000-665x---.jpg)
 {: .present-before-paste}
 
-Agust&iacute;n de Rojas (1949-2011) wrote with a cloaked fang which, when driven into the less burnt-out mushy parts of our brains, would get snagged in a web of synapses causing our emotions to fluctuate - a guffaw followed by a shriek followed by a tranquil&nbsp;*"Whoa..."*.&nbsp;
+Agust&iacute;n de Rojas (1949-2011) wrote with a cloaked fang which, when driven into the less burnt-out mushy parts of our brains, would get snagged in a web of synapses causing our emotions to fluctuate - a guffaw followed by a shriek followed by a tranquil&nbsp;*"Whoa…"*.&nbsp;
 {: .present-before-paste}
 
 Last year&nbsp;[Restless Books](http://www.restlessbooks.com)&nbsp;published&nbsp;[*A Legend of the Future*](http://www.brooklinebooksmith-shop.com/book/9781632060358)&nbsp;- the first of de Rojas' books to be translated into English - which subsequently dropped a sub-atomic bomb onto my preconceived belief as to what constituted great science fiction. I'll always love the schlocky, non-commital nature of the sci-fi books I devoured as a youth (and as an adult) but there was something - I don't know - *literary* about de Rojas' writing.
@@ -32,7 +33,7 @@ And then came an advanced reading copy of his next book - landing on my desk wit
 I'll let the publisher's description lay the foundation:
 {: .present-before-paste}
 
-> Centuries have passed since the Communist Federation defeated the capitalist Empire, but humanity is still divided. A vast artificial-intelligence network, a psychiatric bureaucracy, and a tiny egalitarian council oversee civil affairs and quash 'abnormal' attitudes such as romantic love. Disillusioned civilians renounce the new society, foregoing technology to live as 'primitives' or enhance their brains with cybernetic implants to become 'cybos.' When the Empire returns and takes over the minds of unsuspecting citizens [...] the world's fate falls into the hands of two brave women.
+> Centuries have passed since the Communist Federation defeated the capitalist Empire, but humanity is still divided. A vast artificial-intelligence network, a psychiatric bureaucracy, and a tiny egalitarian council oversee civil affairs and quash 'abnormal' attitudes such as romantic love. Disillusioned civilians renounce the new society, foregoing technology to live as 'primitives' or enhance their brains with cybernetic implants to become 'cybos.' When the Empire returns and takes over the minds of unsuspecting citizens […] the world's fate falls into the hands of two brave women.
 > {: .present-before-paste}
 
 ![](/uploads/versions/the-year-200-by-agusti-n-de-rojas-9781632060518---x----300-451x---.jpg)
