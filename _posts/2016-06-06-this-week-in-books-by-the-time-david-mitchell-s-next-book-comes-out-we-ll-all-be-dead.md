@@ -19,7 +19,7 @@ Every avid fan knows that the wait for a favorite author's next book can feel li
 
 ---
 
-![](/uploads/versions/waiting-amy-compressor---x----800-476x---.png)—
+![full-img](/uploads/versions/waiting-amy-compressor---x----800-476x---.png)—
 
 But diehard followers of writer David Mitchell - Booker Prize finalist and best-selling author of [*Cloud Atlas*](http://www.brooklinebooksmith-shop.com/book/9780375507250) - literally have a century-long wait ahead of them (ok, technically 98 years). This past Monday, Mitchell finished the unpublished novel *From Me Flows What You Call Time*; by Tuesday he was in Norway, at a ceremony to seal the manuscript in a wood-lined vault to be opened in 2114. What could have prompted such sadism, you might wonder? *The Guardian*'s Alison Flood [reports](https://www.theguardian.com/books/2016/may/30/david-mitchell-buries-latest-manuscript-for-a-hundred-years):
 
@@ -29,7 +29,7 @@ The [Future Library Project](http://www.futurelibrary.no/), in the vein of ventu
 
 ---
 
-![](/uploads/versions/kp_fl_rings900-compressor---x----700-707x---.png)
+![full-img](/uploads/versions/kp_fl_rings900-compressor---x----700-707x---.png)
 
 ---
 
