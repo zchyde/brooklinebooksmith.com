@@ -4,8 +4,8 @@ published: true
 featured: false
 date: 2016-06-07T09:00:00.000Z
 description: "Finally available for the first time in English, Agustinín de Rojas' masterpiece THE YEAR 200 is sure to mess around with your mind-matter"
-featured_image_path: /uploads/legend_future.jpg
-featured_image_position: 25
+featured_image_path: /uploads/the-year-200-9781632060518_hr.jpg
+featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:
 category:
@@ -18,10 +18,10 @@ books:
 ![](/uploads/versions/hamid_compressor---x----1000-665x---.jpg)
 {: .present-before-paste}
 
-Agust&iacute;n de Rojas (1949-2011) wrote with a cloaked fang which, when driven into the less burnt-out mushy parts of our brains, would get snagged in a web of synapses causing our emotions to fluctuate - a guffaw followed by a shriek followed by a tranquil&nbsp;*"Whoa…"*.&nbsp;
+Agustín de Rojas (1949-2011) wrote with a cloaked fang which, when driven into the less burnt-out mushy parts of our brains, would get snagged in a web of synapses causing our emotions to fluctuate - a guffaw followed by a shriek followed by a tranquil *"Whoa…"*.
 {: .present-before-paste}
 
-Last year&nbsp;[Restless Books](http://www.restlessbooks.com)&nbsp;published&nbsp;[*A Legend of the Future*](http://www.brooklinebooksmith-shop.com/book/9781632060358)&nbsp;- the first of de Rojas' books to be translated into English - which subsequently dropped a sub-atomic bomb onto my preconceived belief as to what constituted great science fiction. I'll always love the schlocky, non-commital nature of the sci-fi books I devoured as a youth (and as an adult) but there was something - I don't know - *literary* about de Rojas' writing.
+Last year [Restless Books](http://www.restlessbooks.com) published [*A Legend of the Future*](http://www.brooklinebooksmith-shop.com/book/9781632060358) - the first of de Rojas' books to be translated into English - which subsequently dropped a sub-atomic bomb onto my preconceived belief as to what constituted great science fiction. I'll always love the schlocky, non-commital nature of the sci-fi books I devoured as a youth (and as an adult) but there was something - I don't know - *literary* about de Rojas' writing.
 {: .present-before-paste}
 
 ![](/uploads/versions/51u-0cf8hxl-_sx331_bo1-204-203-200_---x----333-499x---.jpg)
@@ -39,23 +39,23 @@ I'll let the publisher's description lay the foundation:
 ![](/uploads/versions/the-year-200-by-agusti-n-de-rojas-9781632060518-compressor---x----300-451x---.jpg)
 {: .present-before-paste}
 
-I'm currently entrenched in chapter 39 and yet for such a massive book I never stop to notice how far I've come or how much I have left. The writing is succinct; it writhes and slithers seamlessly from one reality to the next. It is easily one of the best books I've read in awhile.&nbsp;
+I'm currently entrenched in chapter 39 and yet for such a massive book I never stop to notice how far I've come or how much I have left. The writing is succinct; it writhes and slithers seamlessly from one reality to the next. It is easily one of the best books I've read in awhile.
 {: .present-before-paste}
 
-[*The Year 200*](http://www.brooklinebooksmith-shop.com/book/9781632060518) drops in mid July. You can pre-order a copy through our online shop or swing by in person in a few weeks. We'll have plenty of copies. &nbsp;
+[*The Year 200*](http://www.brooklinebooksmith-shop.com/book/9781632060518) drops in mid July. You can pre-order a copy through our online shop or swing by in person in a few weeks. We'll have plenty of copies.
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
