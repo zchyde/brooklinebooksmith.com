@@ -41,6 +41,8 @@ Sherlock Holmes as a mouse! I'll primarily be living in London during my journey
 
 *---*
 
+---
+
 *<br>[My Mama Says There Aren't Any Zombies, Ghosts, Vampires, Creatures, Demons, Monsters, Fiends, Goblins or Things](http://www.brooklinebooksmith-shop.com/book/9780689712043)* by Judith Viorst![](/uploads/versions/mamasays---x----135-140x---.jpg)Pure nostalgia here. I adored this story as a child. My copy–though still somehow in tact!–is rather worn and battered. [My mother read me many stories as a child](http://www.brooklinebooksmith.com/kidsmith/2016/05/07/lessons-learned/), and this is one that left a strangely permanent mark on my heart. Bringing it with me is like bringing her with me as well!
 
 So there you have it. A rather concise list that should keep me entertained without going over the weight limit for my suitcase leaving room for me to bring as many books back home with me as I am able!
