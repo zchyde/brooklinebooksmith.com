@@ -25,16 +25,22 @@ Here are the books that made the final cut!
 
 I absolutely adore [fairy tale retellings](http://www.brooklinebooksmith.com/kidsmith/2016/04/28/clarissa/), and somehow this one evaded my grasp! After listening to Clarissa gush about it for the past few months I decided to give it a shot, and it was a great choice! I'm only halfway through it because I've had to devote my reading time to the world of Academia, but I find myself constantly thinking about it when I am not actively reading it. This, to me, is the mark of a great book to travel with!
 
+---
+
 [*Great Mouse Detective: Basil of Baker Street*](http://www.brooklinebooksmith-shop.com/book/9781481464017) by Eve Titus
 
 ![](/uploads/versions/greatmouse---x----269-400x---.jpg)
 
 Sherlock Holmes as a mouse! I'll primarily be living in London during my journey, and while I already know there aren't any evident mouse holes at 221B Baker Street (though I wasn't able to visit the cellar upon my last visit so who knows!) I'd feel rather incomplete making the journey without this childhood favorite! Alex and I literally squeaked with delight when it appeared on our shelves! The adventures of Basil and Dawson are as legendary to my younger heart as those of Sherlock and Watson are to me now!
 
+---
+
 *[Inkheart](http://www.brooklinebooksmith-shop.com/book/9780439709101)* by Cornelia Funke
 
-![](/uploads/versions/inkheart---x----276-400x---.jpg)A story in which the reading aloud of a book can bring the characters into our world while simultaneously taking someone else into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my current life path. Amy's rec says it all, that this is "a book for people who love books."&nbsp;
+![](/uploads/versions/inkheart---x----276-400x---.jpg)A story in which the reading aloud of a book can bring the characters into our world while simultaneously taking someone else into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my current life path. Amy's rec says it all, that this is "a book for people who love books."&nbsp;[](http://www.brooklinebooksmith-shop.com/book/9780689712043)
 
-[*<br>My Mama Says There Aren't Any Zombies, Ghosts, Vampires, Creatures, Demons, Monsters, Fiends, Goblins or Things*](http://www.brooklinebooksmith-shop.com/book/9780689712043) by Judith Viorst![](/uploads/versions/mamasays---x----135-140x---.jpg)Pure nostalgia here. I adored this story as a child. My copy–though still somehow in tact!–is rather worn and battered. [My mother read me many stories as a child](http://www.brooklinebooksmith.com/kidsmith/2016/05/07/lessons-learned/), and this is one that left a strangely permanent mark on my heart. Bringing it with me is like bringing her with me as well!
+*---*
+
+*<br>[My Mama Says There Aren't Any Zombies, Ghosts, Vampires, Creatures, Demons, Monsters, Fiends, Goblins or Things](http://www.brooklinebooksmith-shop.com/book/9780689712043)* by Judith Viorst![](/uploads/versions/mamasays---x----135-140x---.jpg)Pure nostalgia here. I adored this story as a child. My copy–though still somehow in tact!–is rather worn and battered. [My mother read me many stories as a child](http://www.brooklinebooksmith.com/kidsmith/2016/05/07/lessons-learned/), and this is one that left a strangely permanent mark on my heart. Bringing it with me is like bringing her with me as well!
 
 So there you have it. A rather concise list that should keep me entertained without going over the weight limit for my suitcase leaving room for me to bring as many books back home with me as I am able!
