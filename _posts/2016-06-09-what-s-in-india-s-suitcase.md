@@ -39,7 +39,7 @@ Sherlock Holmes as a mouse! I'll primarily be living in London during my journey
 
 ![](/uploads/versions/inkheart---x----276-400x---.jpg)A story in which the reading aloud of a book can bring the characters into our world while simultaneously taking someone else into its own inky depths? Sign me up! What better story could accompany a future librarian on her journey? I haven't visited this world in ages, but it is one of those books that strengthened my love of reading, propelling me onto my current life path. Amy's rec says it all, that this is "a book for people who love books."&nbsp;[](http://www.brooklinebooksmith-shop.com/book/9780689712043)
 
-*---*
+&nbsp;
 
 ---
 
