@@ -1,5 +1,5 @@
 ---
-title: 'This Week In Books: Untranslatable Words & the Next Big Thing in Publishing'
+title: 'This Week In Books: Untranslatable Words & the Art of Living Cozily'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -21,5 +21,3 @@ https://www.theguardian.com/books/2016/jun/07/cree-language-first-nation-canadia
 http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf
 
 https://www.google.com/search?q=untranslatable+words&ie=utf-8&oe=utf-8
-
-&nbsp;
