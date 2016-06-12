@@ -1,5 +1,5 @@
 ---
-title: 'This Week In Books: Untranslateable'
+title: 'This Week In Books: Untranslatable Words & the Next Big Thing in Publishing'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
