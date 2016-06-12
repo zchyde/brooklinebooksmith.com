@@ -18,7 +18,7 @@ I'm calling it right now; the Next Big Thing in publishing is going to be the Da
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
 
-WHOA. That's all the best things ever, right? Better than [raindrops on roses AND whiskers on kittens](https://www.youtube.com/watch?v=33o32C0ogVM) put together. Last year saw the explosive proliferation of KonMari, the word coined by its namesake Mari Kondo as the name for her infamous tidying system.
+WHOA. That's all the best things ever, right? Better than [raindrops on roses AND whiskers on kittens](https://www.youtube.com/watch?v=33o32C0ogVM) put together. Last year saw the explosive proliferation of KonMari, the word coined by its namesake Mari Kondo as the name for her infamous tidying system. Hygge stands poised to carry KonMari's torch as a testament to our thirst for l
 
 https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops
 
