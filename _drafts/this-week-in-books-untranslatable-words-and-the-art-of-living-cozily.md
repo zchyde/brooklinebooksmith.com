@@ -8,8 +8,9 @@ featured_image_path: /uploads/cat-sleep-blanket-1600x900.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
+  - lydia
 books:
 ---
 
