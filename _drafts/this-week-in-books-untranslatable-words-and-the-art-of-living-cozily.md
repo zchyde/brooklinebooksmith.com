@@ -22,7 +22,7 @@ That idea, that the scope of our understanding is defined by what we can and can
 
 Even more perturbing are those ideas that underpin the principles of cultures but have no direct translation into our own language. There's really no shortage of examples
 
-Anyone curious about the school of thought behind the Japanese
+Anyone curious about the school of thought behind the Japanese wabi sabi (wabi meaning) should check out Junichiro Tanizaki's masterful and absorbing essay In Praise of Shadows (although even this treatise comes to us in translation, and can only ever approximate the idea).
 
 The latest of these comes to our attention by way of
 
