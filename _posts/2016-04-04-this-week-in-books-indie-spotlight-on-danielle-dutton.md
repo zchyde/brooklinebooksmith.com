@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-04-04T18:00:00.000Z
 description: 'On the indie publisher and author of the new novel, Margaret the First.'
-featured_image_path: /eyes.png
+featured_image_path: /uploads/eyes.png
 featured_image_position: 75
 show_featured_image_in_post: false
 fancy_font:

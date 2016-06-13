@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-03-08T09:00:00.000Z
 description: I first became hip to Brian Chippendale back in 2002. I was standing in a now-defunct record store in Cambridge rifling through the new arrivals when it hit me-actually more like singed my fingertips.
-featured_image_path: /pukeforcecover.jpg
+featured_image_path: /uploads/pukeforcecover_new.jpg
 featured_image_position: 30
 show_featured_image_in_post: false
 fancy_font: null

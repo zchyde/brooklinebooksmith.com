@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-04-05T11:00:00.000Z
 description: 'In which I briefly mention Mud Man, bumpkins, the candy jar at work (employees only!), skipping school to buy comics, and an embarrassing encounter with god.'
-featured_image_path: /carpetsweepertales---x----1826-2144x----compressor.jpg
+featured_image_path: /uploads/carpetsweepertales---x----1826-2144x----compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
