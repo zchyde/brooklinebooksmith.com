@@ -18,6 +18,14 @@ Austrian-British logical philosopher Ludwig Wittgenstein once said:
 
 The limits of my language mean the limits of my world.
 
+That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like the right, left, or the color blue.
+
+http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
+
+http://mentalfloss.com/article/80947/5-essential-types-words-some-languages-do-without
+
+https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/
+
 I'm calling it right now; the Next Big Thing in publishing is going to be the Danish word *Hygge*. British news source *The Guardian* [lays it out for us](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
