@@ -24,13 +24,7 @@ Even more perturbing are those ideas that underpin the principles of cultures bu
 
 Anyone curious about the school of thought behind the Japanese *wabi sabi* (roughly, the beauty wrought by simplicity, irregularity and age) should check out Junichiro Tanizaki's incredible essay [*In Praise of Shadows*](http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf) (although even this treatise comes to us in translation, and thus can only ever approximate the idea).
 
-The latest of these comes to our attention by way of
-
-http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
-
-http://mentalfloss.com/article/80947/5-essential-types-words-some-languages-do-without
-
-I'm calling it right now; the Next Big Thing in publishing is going to be the Danish word *Hygge*. British news source *The Guardian* [lays it out for us](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
+The latest of these imported neologisms is the the Danish word *Hygge*, which comes to our attention by way of British news source [*The Guardian*](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
 
@@ -45,3 +39,7 @@ https://www.google.com/search?q=untranslatable+words&ie=utf-8&oe=utf-8
 http://www.brooklinebooksmith-shop.com/book/9781607747109
 
 http://www.brooklinebooksmith-shop.com/book/9781250122032
+
+http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
+
+http://mentalfloss.com/article/80947/5-essential-types-words-some-languages-do-without
