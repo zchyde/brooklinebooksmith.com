@@ -58,7 +58,6 @@ incremental: true
 # full_rebuild: false
 gems:
   - jekyll-paginate
-  - jekyll-seo-tag
 env: development
 sitename: brookline booksmith
 timezone: Etc/Zulu

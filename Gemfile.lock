@@ -137,7 +137,6 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll-paginate
-  jekyll-seo-tag
 
 BUNDLED WITH
    1.12.4

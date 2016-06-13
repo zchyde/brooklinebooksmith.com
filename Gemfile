@@ -7,7 +7,6 @@ group :jekyll_plugins do
   # gem "jekyll-lunr-js-search"
   gem 'jekyll-paginate'
   # gem 'jekyll-assets'
-  gem 'jekyll-seo-tag'
   # gem 'autoprefixer-rails'
   # gem 'uglifier'
   # gem 'jekyll-sitemap'
