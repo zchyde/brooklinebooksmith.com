@@ -37,8 +37,6 @@ Of course, languages borrow and repurpose words all the time, as their speakers 
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
 
-![](/uploads/versions/_85804889_thinkstockphotos-453196619---x----660-371x---.jpg)
-
 WHOA. That's better than [raindrops on roses AND whiskers on kittens](https://www.youtube.com/watch?v=33o32C0ogVM) put together. A year after the explosive proliferation of *KonMari*, coined by its namesake Mari Kondo ([*The Life-Changing Magic of Tidying Up*](http://www.brooklinebooksmith-shop.com/book/9781607747307)) as the name for her infamous reorganization system, Hygge stands poised to carry the torch of our lifestyle aspirations. All that decluttering merits a little celebratory coziness amidst one's treasured possessions, no?
 
 Unfortunately the publishing industry operates a little slower than the language sector of our brains, but you can order [Kinfolk Notecards - The Hygge Edition](http://www.brooklinebooksmith-shop.com/book/9781941815175) or preorder your copy of *[How to Hygge: The Danish Secrets of a Healthy, Happy Life](http://www.brooklinebooksmith-shop.com/book/9781250122032)* through our webstore now, and I have little doubt that other titles in the same spirit won't be far behind.
