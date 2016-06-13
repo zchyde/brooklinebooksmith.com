@@ -29,6 +29,8 @@ Announcing a very exciting new program for Booksmith and book lovers:
 
 > "As someone who often participates in conversations about literature it is very easy to look backward and lose sight of the texts emerging right before me. The Signed First Editions Book Club not only provides a reminder of the present literary players, but also encourages a participation in the production of literature by offering the rare gift of a first edition. With this book club I get to be a community member, a collector, and a consumer of new words that are just being put forth in the world, which is an exceptional privilege." -- ***Molly B. (SFE Subscriber)***
 
+&nbsp;
+
 Also, by being an SFE member you are supporting an important part of our bookstore’s mission: connecting writers and readers. Many of the books selected in our SFE program will be signed by authors (both well-known and promising literary debuts) who are visiting our bookstore. The more patrons we have as members gives us strong appeal with the publishers deciding where to send those high profile authors.
 
 ### What does it cost to join and what do I get?
