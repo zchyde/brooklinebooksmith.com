@@ -27,7 +27,6 @@ layout: compress
 
         <link href='/static/css/main.min.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
-      {% include global/meta-data.html %}
       {% include global/icons.html %}
 
 
@@ -40,10 +39,10 @@ layout: compress
         <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
       <![endif]-->
 
-    {% if site.production == true %}
-      {% include global/analytics.html %}
-    {% endif %}
-
+    {% if jekyll.environment == "production" %}
+          {% include global/analytics.html %}
+          {% include global/seo.html %}
+        {% endif %}
 
      {% include head-css.css %}
 
