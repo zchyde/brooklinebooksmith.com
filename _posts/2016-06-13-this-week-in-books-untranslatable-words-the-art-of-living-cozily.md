@@ -19,7 +19,7 @@ Austrian-British logical philosopher Ludwig Wittgenstein once famously said:
 
 > The limits of my language mean the limits of my world.
 
-That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our self-perception, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or [the color blue](http://io9.gizmodo.com/5902904/why-do-cultures-always-name-red-before-they-do-blue).
+That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination for the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our self-perception, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or [the color blue](http://io9.gizmodo.com/5902904/why-do-cultures-always-name-red-before-they-do-blue).
 
 Even more perturbing are those ideas that underpin other cultures but have no direct translation into our own language. There's no shortage of examples (heck, we can order you [a whole book of them](http://www.brooklinebooksmith-shop.com/book/9781607747109)). Per [lingholic](http://www.lingholic.com/15-untranslatable-words-wish-existed-english/), there's:
 
