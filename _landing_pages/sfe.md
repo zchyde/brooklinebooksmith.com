@@ -27,7 +27,7 @@ Announcing a very exciting new program for Booksmith and book lovers:
 
 ### Why join? Consider this testimonial from one of our patrons and subscribers.
 
-> "As someone who often participates in conversations about literature it is very easy to look backward and lose sight of the texts emerging right before me. The Signed First Editions Book Club not only provides a reminder of the present literary players, but also encourages a participation in the production of literature by offering the rare gift of a first edition. With this book club I get to be a community member, a collector, and a consumer of new words that are just being put forth in the world, which is an exceptional privilege." -- ***Molly B. (SFE Subscriber)***
+> "As someone who often participates in conversations about literature it is very easy to look backward and lose sight of the texts emerging right before me. The Signed First Editions Book Club not only provides a reminder of the present literary players, but also encourages a participation in the production of literature by offering the rare gift of a first edition. With this book club I get to be a community member, a collector, and a consumer of new words that are just being put forth in the world, which is an exceptional privilege." – ***Molly B. (SFE Subscriber)***
 
 &nbsp;
 
@@ -35,4 +35,4 @@ Also, by being an SFE member you are supporting an important part of our booksto
 
 ### What does it cost to join and what do I get?
 
-You (or someone as a gift) will receive one signed, first edition book per month that is a personal recommendation from our fine staff of readers. You may subscribe for **3, 6, 12 months or indefinitely** (cancel at any time). You can choose our **Delivery Plan (36.00/month)** where we ship books directly to you, or you can save on shipping and choose our**Pickup Plan (29.00/month)** where you collect the books directly from the store. You will receive email notifications when books are ready for pickup, or are being delivered, and about upcoming selections. If you have more questions about the SFE Program, review our Frequently Asked Questions list or email Tim Huggins at sfe@brooklinebooksmith.com.
+You (or someone as a gift) will receive one signed, first edition book per month that is a personal recommendation from our fine staff of readers. You may subscribe for **3, 6, 12 months or indefinitely** (cancel at any time). You can choose our **Delivery Plan (36.00/month)** where we ship books directly to you, or you can save on shipping and choose our**Pickup Plan (29.00/month)** where you collect the books directly from the store. You will receive email notifications when books are ready for pickup, or are being delivered, and about upcoming selections. If you have more questions about the SFE Program, review our [Frequently Asked Questions](#faqs) list or email Tim Huggins at sfe@brooklinebooksmith.com.
