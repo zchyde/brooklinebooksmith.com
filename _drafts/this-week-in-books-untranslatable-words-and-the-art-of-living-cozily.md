@@ -18,7 +18,7 @@ Austrian-British logical philosopher Ludwig Wittgenstein once said:
 
 The limits of my language mean the limits of my world.
 
-That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), or the color blue.
+That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or the color blue.
 
 http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
 
