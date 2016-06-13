@@ -24,19 +24,21 @@ Even more perturbing are those ideas that underpin the principles of cultures bu
 
 Anyone curious about the school of thought behind the Japanese *wabi sabi* (roughly, the beauty wrought by simplicity, irregularity and age) should check out Junichiro Tanizaki's incredible essay [*In Praise of Shadows*](http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf) (although even this treatise comes to us in translation, and thus can only ever approximate the idea).
 
-The latest of these imported neologisms is the the Danish word *Hygge*, which comes to our attention by way of British news source [*The Guardian*](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
+Of course, languages borrow and repurpose words all the time. The latest of these imported neologisms is the the Danish word *Hygge*, which comes to our attention by way of British news source [*The Guardian*](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
 
 WHOA. That's all the best things ever, right? Better than [raindrops on roses AND whiskers on kittens](https://www.youtube.com/watch?v=33o32C0ogVM) put together. Last year saw the explosive proliferation of KonMari, the word coined by its namesake Mari Kondo as the name for her infamous tidying system. Hygge stands poised to carry KonMari's torch as a testament to our thirst for l
 
-https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops
+BONUS READ: In recent anthropological linguistics news, the results of a crowd-funding project launched to both document Cree, the most widely spoken indigenous language in Canada, and to coin new words for its expanded culture, is nearing publication:
+
+> [The project includes] entries ranging from pw&acirc;kamo-pahkw&ecirc;sikan, the Cree word for pizza – “the throw-up bread” in literal English – to m&ocirc;niy&acirc;w-matotis&acirc;n, a sauna or a “white-man sweat”
+
+Read more [here](https://www.theguardian.com/books/2016/jun/07/cree-language-first-nation-canadians-100-days-of-cree).
 
 https://www.theguardian.com/books/2016/jun/07/cree-language-first-nation-canadians-100-days-of-cree
 
 https://www.google.com/search?q=untranslatable+words&ie=utf-8&oe=utf-8
-
-&nbsp;
 
 http://www.brooklinebooksmith-shop.com/book/9781250122032
 
