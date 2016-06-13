@@ -30,9 +30,11 @@ Of course, languages borrow and repurpose words all the time. The latest of thes
 
 WHOA. That's all the best things ever, right? Better than [raindrops on roses AND whiskers on kittens](https://www.youtube.com/watch?v=33o32C0ogVM) put together. Last year saw the explosive proliferation of KonMari, the word coined by its namesake Mari Kondo as the name for her infamous tidying system. Hygge stands poised to carry KonMari's torch as a testament to our thirst for l
 
-BONUS READ: In recent anthropological linguistics news, the results of a crowd-funding project launched to both document Cree, the most widely spoken indigenous language in Canada, and to coin new words for its expanded culture, is nearing publication:
+---
 
-> [The project includes] entries ranging from pw&acirc;kamo-pahkw&ecirc;sikan, the Cree word for pizza – “the throw-up bread” in literal English – to m&ocirc;niy&acirc;w-matotis&acirc;n, a sauna or a “white-man sweat”
+BONUS READ: In recent anthropological linguistics news, the results of a crowd-funding project launched to document Cree, the most widely spoken indigenous language in Canada, and to coin new words for its expanded culture, is nearing publication:
+
+> [The lexicon includes] entries ranging from pw&acirc;kamo-pahkw&ecirc;sikan, the Cree word for pizza – “the throw-up bread” in literal English – to m&ocirc;niy&acirc;w-matotis&acirc;n, a sauna or a “white-man sweat”
 
 Read more [here](https://www.theguardian.com/books/2016/jun/07/cree-language-first-nation-canadians-100-days-of-cree).
 
@@ -44,4 +46,4 @@ http://www.brooklinebooksmith-shop.com/book/9781250122032
 
 http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
 
-http://mentalfloss.com/article/80947/5-essential-types-words-some-languages-do-without
+&nbsp;
