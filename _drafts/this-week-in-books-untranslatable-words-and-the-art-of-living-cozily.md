@@ -20,9 +20,9 @@ The limits of my language mean the limits of my world.
 
 That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or [the color blue](http://io9.gizmodo.com/5902904/why-do-cultures-always-name-red-before-they-do-blue).
 
-Even more perturbing are those ideas that underpin the principles of cultures but have no direct translation into our own language. There's no shortage of examples
+Even more perturbing are those ideas that underpin the principles of cultures but have no direct translation into our own language (heck, we can order you a whole book of them). There's no shortage of examples:
 
-Anyone curious about the school of thought behind the Japanese wabi sabi (wabi meaning) should check out Junichiro Tanizaki's masterful and absorbing essay In Praise of Shadows (although even this treatise comes to us in translation, and can only ever approximate the idea).
+Anyone curious about the school of thought behind the Japanese *wabi sabi* (roughly, the beauty wrought by simplicity, irregularity and age) should check out Junichiro Tanizaki's incredible essay [*In Praise of Shadows*](http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf) (although even this treatise comes to us in translation, and thus can only ever approximate the idea).
 
 The latest of these comes to our attention by way of
 
@@ -39,8 +39,6 @@ WHOA. That's all the best things ever, right? Better than [raindrops on roses AN
 https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops
 
 https://www.theguardian.com/books/2016/jun/07/cree-language-first-nation-canadians-100-days-of-cree
-
-http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf
 
 https://www.google.com/search?q=untranslatable+words&ie=utf-8&oe=utf-8
 
