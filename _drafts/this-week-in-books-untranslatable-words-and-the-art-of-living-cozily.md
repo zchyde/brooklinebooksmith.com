@@ -18,7 +18,13 @@ Austrian-British logical philosopher Ludwig Wittgenstein once famously said:
 
 The limits of my language mean the limits of my world.
 
-That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or [the color blue](http://io9.gizmodo.com/5902904/why-do-cultures-always-name-red-before-they-do-blue). Even more perturbing are the words that other
+That idea, that the scope of our understanding is defined by what we can and cannot put words to, holds particular fascination to the avid reader - books, after all, should be our window onto the world. It's unsettling to imagine societies that lack concepts fundamental to our view of the world, like words for [right & left](https://www.reddit.com/r/todayilearned/comments/1m6l0b/til_there_are_languages_without_the_terms_left/), [yes & no](http://mentalfloss.com/article/49480/8-fun-facts-about-irish-language), or [the color blue](http://io9.gizmodo.com/5902904/why-do-cultures-always-name-red-before-they-do-blue).
+
+Even more perturbing are those ideas that underpin the principles of cultures but have no direct translation into our own language. There's really no shortage of examples
+
+Anyone curious about the school of thought behind the Japanese
+
+The latest of these comes to our attention by way of
 
 http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
 
