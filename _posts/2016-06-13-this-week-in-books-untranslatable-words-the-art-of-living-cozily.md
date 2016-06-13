@@ -33,7 +33,7 @@ Even more perturbing are those ideas that underpin other cultures but have no di
 
 Anyone curious about the school of thought behind the Japanese *wabi sabi* (roughly, the beauty wrought by simplicity, irregularity and age) should check out Junichiro Tanizaki's incredible essay "[In Praise of Shadows"](http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf) (although even this treatise comes to us in translation, and can only ever approximate the idea).
 
-Of course, languages borrow and repurpose words all the time as their speakers adapt to the changing world. The latest of these imported neologisms is the Danish word *Hygge*, which comes to our attention by way of British news source [*The Guardian*](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
+Of course, languages borrow and repurpose words all the time, as their speakers adapt to the changing world. The latest of these imported neologisms is the Danish word *Hygge*, which comes to our attention by way of British news source [*The Guardian*](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
 
