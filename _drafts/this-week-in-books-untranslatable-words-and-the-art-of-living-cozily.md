@@ -14,6 +14,10 @@ books:
 ---
 
 
+Austrian-British logical philosopher Ludwig Wittgenstein once said:
+
+The limits of my language mean the limits of my world.
+
 I'm calling it right now; the Next Big Thing in publishing is going to be the Danish word *Hygge*. British news source *The Guardian* [lays it out for us](https://www.theguardian.com/books/2016/jun/11/hygge-the-danish-art-of-living-cosily-on-its-way-to-uk-bookshops):
 
 > Pronounced, approximately, hue-ga, hygge loosely translates as cosiness, but means more than that. It’s about a feeling of wellbeing, about enjoying life, whether through time spent with close friends or family, sitting by a fire with a hot chocolate, or putting on warm socks and dry clothes after a rainstorm.
