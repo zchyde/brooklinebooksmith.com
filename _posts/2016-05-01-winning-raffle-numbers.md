@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-05-01T11:53:00.000Z
 description: 'Check your ticket stub against these these numbers and see if you won an Indie Day gift basket!'
-featured_image_path: /img_07392.jpg
+featured_image_path: /uploads/img_07392.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

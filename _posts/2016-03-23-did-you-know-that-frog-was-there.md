@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-03-23T16:00:00.000Z
 description: 'Using keen observation, dig into the backlist.'
-featured_image_path: /ducklingbanner_long-compressor.jpg
+featured_image_path: /uploads/ducklingbanner_long-compressor.jpg
 featured_image_position: 0
 show_featured_image_in_post: false
 fancy_font:

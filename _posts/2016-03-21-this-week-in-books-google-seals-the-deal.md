@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-03-21T09:00:00.000Z
 description: The tech company wins the long battle over the right to digitize books.
-featured_image_path: /16036957624_e2c1b964d3_b-compressor.jpg
+featured_image_path: /uploads/16036957624_e2c1b964d3_b-compressor.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:

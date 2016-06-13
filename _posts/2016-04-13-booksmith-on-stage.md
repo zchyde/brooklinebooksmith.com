@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-04-13T00:00:00.000Z
 description: "Miranda's Quest For Global Dominion Is On Schedule, Men Wear Fantastic Clothing If Only You'd Let Them."
-featured_image_path: /violincrab-compressor.jpg
+featured_image_path: /uploads/violincrab-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

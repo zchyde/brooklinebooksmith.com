@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-03-22T09:00:00.000Z
 description: New titles arranged with great gifts.
-featured_image_path: /bento_banner_revise-compressor.jpg
+featured_image_path: /uploads/bento_banner_revise-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

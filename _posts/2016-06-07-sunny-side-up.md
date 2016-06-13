@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-08T00:00:00.000Z
 description: 'daydreaming, people watching, summer reading, politicsUGH'
-featured_image_path: /booksmithstorefront2012a.jpg
+featured_image_path: /uploads/booksmithstorefront2012a.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

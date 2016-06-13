@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-05-23T17:29:00.000Z
 description: Joseph Andras declines Goncourt Prize based on objection that literature is not competitive.
-featured_image_path: /fernand-iveton-1.jpg
+featured_image_path: /uploads/fernand-iveton-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

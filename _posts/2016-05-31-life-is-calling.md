@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-01T00:00:00.000Z
 description: 'board games, why does everything need to be updated all the time, does my data plan cover this, and balloon babies.'
-featured_image_path: /gameoflife2.jpg
+featured_image_path: /uploads/gameoflife2.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-04-25T17:00:00.000Z
 description: "Ain't no party like a Booksmith party."
-featured_image_path: /bn_independent-bookstore-day-2016-compressor.jpg
+featured_image_path: /uploads/bn_independent-bookstore-day-2016-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

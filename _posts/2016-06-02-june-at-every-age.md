@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-02T09:00:00.000Z
 description: 'LGBT+ books for kids and young adults, some funny, some helpful, and some of which are complete sobfests (the good kind).'
-featured_image_path: /9781433816598.jpg
+featured_image_path: /uploads/9781433816598.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

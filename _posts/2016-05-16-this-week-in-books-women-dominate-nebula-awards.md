@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-05-16T17:20:00.000Z
 description: 'In a genre once monopolized by men, the best work of 2015 was all by or about women.'
-featured_image_path: /uprooted-naomi-novik-book-review-ya-fantasy2.jpg
+featured_image_path: /uploads/uprooted-naomi-novik-book-review-ya-fantasy2.jpg
 featured_image_position: 1
 show_featured_image_in_post: false
 fancy_font:

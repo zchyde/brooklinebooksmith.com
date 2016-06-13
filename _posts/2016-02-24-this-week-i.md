@@ -4,7 +4,7 @@ published: true
 featured: true
 date: 2016-02-24T17:00:00.000Z
 description: ''
-featured_image_path: /abandoned-books.jpg
+featured_image_path: /uploads/abandoned-books.jpg
 featured_image_position: 75
 show_featured_image_in_post: false
 fancy_font: ''
