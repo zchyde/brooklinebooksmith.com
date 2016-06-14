@@ -38,7 +38,7 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;
 
 ![](/uploads/versions/gmgg1314---x----2166-1630x---.jpg)
 
-[Colorless Tsukuru Tazaki and His Years of Pilgrimage](http://www.brooklinebooksmith-shop.com/book/9780679767398)
+[Colorless Tsukuru Tazaki and His Years of Pilgrimage](http://www.brooklinebooksmith-shop.com/book/9780804170123)
 
 ---
 
@@ -70,7 +70,7 @@ On his writing Murakami [says](http://www.harukimurakami.com/resource_category/q
 
 ![](/uploads/versions/gmgg1202---x----2135-2755x---.jpg)
 
-[The Elephant Vanishes](http://www.brooklinebooksmith-shop.com/book/9780679750536), [Dance Dance Dance](http://www.brooklinebooksmith-shop.com/book/9780679753797), [Wind/Pinball](http://www.brooklinebooksmith-shop.com/book/9780804170147),&nbsp;[A Wild Sheep Chase](http://www.brooklinebooksmith-shop.com/book/9780375718946,),&nbsp;[Blind Willow, Sleeping Woman](http://www.brooklinebooksmith-shop.com/book/9781400096084),&nbsp;[The Wind-Up Bird Chronicle](http://www.brooklinebooksmith-shop.com/book/9780679775430), [Kafka on the Shore](http://www.brooklinebooksmith-shop.com/book/9781400079278), [Norwegian Wood](http://www.brooklinebooksmith-shop.com/book/9780375704024), [After the Quake](http://www.brooklinebooksmith-shop.com/book/9780375713279)
+[The Elephant Vanishes](http://www.brooklinebooksmith-shop.com/book/9780679750536), [Dance Dance Dance](http://www.brooklinebooksmith-shop.com/book/9780679753797), [Wind/Pinball](http://www.brooklinebooksmith-shop.com/book/9780804170147),&nbsp;[A Wild Sheep Chase](http://www.brooklinebooksmith-shop.com/book/9780375718946),&nbsp;[Blind Willow, Sleeping Woman](http://www.brooklinebooksmith-shop.com/book/9781400096084),&nbsp;[The Wind-Up Bird Chronicle](http://www.brooklinebooksmith-shop.com/book/9780679775430), [Kafka on the Shore](http://www.brooklinebooksmith-shop.com/book/9781400079278), [Norwegian Wood](http://www.brooklinebooksmith-shop.com/book/9780375704024), [After the Quake](http://www.brooklinebooksmith-shop.com/book/9780375713279)
 
 ---
 
