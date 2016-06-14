@@ -22,8 +22,7 @@ sitemap: false
 ---
 
 
-### Announcing a very exciting new program for Booksmith and book lovers:
-<br>The Signed First Editions Book Club (SFE)
+### Announcing a very exciting new program for Booksmith and book lovers: The Signed First Editions Book Club (SFE)
 
 Why join? Consider this testimonial from one of our patrons and subscribers.
 
