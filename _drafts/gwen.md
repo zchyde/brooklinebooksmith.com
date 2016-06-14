@@ -15,15 +15,15 @@ books:
 
 
 Ever judged a book by its cover?
-<br>They say not to do such a thing but everyone does. Artists challenge themselves to design covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.&nbsp;
+<br>They say not to do such a thing but everyone does.
+
+Artists challenge themselves to design covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.&nbsp;
 
 ![](/uploads/versions/gmgg1286---x----3276-2184x---.jpg)
 
-[Blind Willow, Sleeping Woman (2007)](http://www.brooklinebooksmith-shop.com/book/9781400096084), [The Wind-Up Bird Chronicle (1998)](http://www.brooklinebooksmith-shop.com/book/9780679775430)
-
 ---
 
-Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist Haruki Murakami's mind-bending books -- and they've been doing it since the late 80s. They've both been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
+Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist Haruki Murakami's mind-bending books – and they've been doing it since the late 80s. They've both been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
 
 ![](/uploads/versions/gmgg1311---x----3114-2076x---.jpg)
 
@@ -31,9 +31,9 @@ Chip Kidd and John Gall have taken on the considerable challenge of designing co
 
 ---
 
-In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;designer John Gall reveals the inspiration for the cover came from piecing together some of Murakami's recurring themes and images -- running water, disappaering women, music.&nbsp;
+In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;designer John Gall reveals the inspiration for the cover came from piecing together some of Murakami's recurring themes and images – running water, disappearing women, random holes in the ground, and music.&nbsp;
 
-<br>Murakami's titles have since been redesigned with a very vibrant look.&nbsp;
+<br>Murakami's titles have since been redesigned with a very different look.&nbsp;
 
 ![](/uploads/versions/gmgg1314---x----2166-1630x---.jpg)
 
@@ -41,7 +41,7 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;
 
 ---
 
-This colorful cover seems insignificant but, upon closer investigation, you can see that these random lines and shapes come together to form a puzzle. &nbsp;
+This colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together to form a puzzle. &nbsp;
 
 ![](/uploads/versions/gmgg1142---x----2824-1883x---.jpg)
 
@@ -49,7 +49,7 @@ This colorful cover seems insignificant but, upon closer investigation, you can 
 
 ---
 
-John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full...yet with a deeper mysterious resonance."
+> John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full…yet with a deeper mysterious resonance."
 
 ![](/uploads/versions/gmgg1190---x----1638-2457x---.jpg)
 
