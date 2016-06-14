@@ -15,7 +15,7 @@ books:
 ---
 
 
-Ever judged a book by its cover?
+Ever judge a book by its cover?
 <br>They say not to do such a thing but everyone does.
 
 Artists and designers are constantly challenging themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
@@ -24,7 +24,7 @@ Artists and designers are constantly challenging themselves to create covers tha
 
 ---
 
-Since the late 80s Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist [Haruki Murakami's](http://www.harukimurakami.com/)books. They've been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
+Since the late 80s Chip Kidd and John Gall have taken on the considerable challenge of designing covers for the books world famous Japanese novelist [Haruki Murakami](http://www.harukimurakami.com/). They've been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
 
 ![](/uploads/versions/gmgg1311---x----3114-2076x---.jpg)
 
@@ -34,7 +34,7 @@ Since the late 80s Chip Kidd and John Gall have taken on the considerable challe
 
 In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;designer John Gall reveals that the inspiration for the cover came from (literally) piecing together some of Murakami's recurring themes and images – running water, disappearing women, random holes in the ground, and music.
 
-<br>Murakami's titles have since been redesigned with a very different look.
+<br>John Gall has since redesigned Murakami's paperback titles with a very different look.
 
 ![](/uploads/versions/gmgg1314---x----2166-1630x---.jpg)
 
@@ -62,7 +62,7 @@ The seemingly mundane reveals itself to be more complicated and very connected. 
 
 ---
 
-Kidd and Gall overcame the epic challenge and once again designed covers that are both appealing and reflective of the author's dreamlike style.
+Gall overcame the epic challenge and once again designed covers that are both appealing and reflective of the author's dreamlike style.
 
 On his writing Murakami [says](http://www.harukimurakami.com/resource_category/q_and_a/questions-for-haruki-murakami-about-kafka-on-the-shore),
 
