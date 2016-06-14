@@ -16,7 +16,7 @@ books:
 
 
 Ever judge a book by its cover?
-<br>They say not to do such a thing but everyone does.
+<br>They say not to do such a thing but everyone does.&nbsp;
 
 Artists and designers are constantly challenging themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
 
