@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description:
-featured_image_path:
+featured_image_path: /gmgg1192.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -32,7 +32,7 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a) John 
 
 <br>Recently all of Murakami's titles have been redesigned with a very vibrant look.&nbsp;
 
-&nbsp;
+![](/uploads/versions/gmgg1314---x----2889-2174x---.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ This colorful cover seems insignificant but, upon closer investigation, you can 
 
 John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full in a contemporary Japanese culture kind of way, yet with a deeper mysterious resonance."
 
-&nbsp;
+![](/uploads/versions/gmgg1190---x----2184-3276x---.jpg)
 
 ---
 
