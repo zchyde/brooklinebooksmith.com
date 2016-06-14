@@ -18,13 +18,13 @@ books:
 Ever judged a book by its cover?
 <br>They say not to do such a thing but everyone does.
 
-Artists and designers constantly challenge themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
+Artists and designers are constantly challenging themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
 
 ![](/uploads/versions/gmgg1286---x----3276-2184x---.jpg)
 
 ---
 
-Since the late 80s Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist [Haruki Murakami's&nbsp;](http://www.harukimurakami.com/)postmodernist books. They've been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
+Since the late 80s Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist [Haruki Murakami's](http://www.harukimurakami.com/)books. They've been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
 
 ![](/uploads/versions/gmgg1311---x----3114-2076x---.jpg)
 
@@ -42,7 +42,7 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;
 
 ---
 
-This colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together in the form of a geometric puzzle.
+The colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together in the form of a geometric puzzle.
 
 ![](/uploads/versions/gmgg1142---x----2824-1883x---.jpg)
 
