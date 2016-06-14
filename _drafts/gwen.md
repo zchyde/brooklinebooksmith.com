@@ -15,15 +15,16 @@ books:
 
 
 Ever judged a book by its cover?
-<br>They say not to do such a thing but everyone does. Artists challenge themselves to design covers that will entice and inspire readers everywhere -- all the while attempting to capture the essence of the book itself.&nbsp;
+<br>They say not to do such a thing but everyone does. Artists challenge themselves to design covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.&nbsp;
 
-![](/uploads/versions/_mg_1286---x----3276-2184x---.jpg)
+![](/uploads/versions/gmgg1286---x----3276-2184x---.jpg)
 
 ---
+
 <br>
 <br>Chip Kidd and John Gall have taken on the challenge of designing covers for world famous Japanese novelist Haruki Murakami's books and they've been doing it since the late 80s. They've both been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
 
-![](/uploads/versions/_mg_1311---x----3114-2076x---.jpg)
+![](/uploads/versions/gmgg1311---x----3114-2076x---.jpg)
 
 ---
 
@@ -31,31 +32,31 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a) John 
 
 <br>Recently all of Murakami's titles have been redesigned with a very vibrant look.&nbsp;
 
-![](/uploads/versions/_mg_1314---x----2889-2174x---.jpg)
+&nbsp;
 
 ---
 
 This colorful cover seems insignificant but, upon closer investigation, you can see that these covers of common lines and shapes come together to form a puzzle. &nbsp;
 
-![](/uploads/versions/_mg_1142---x----2824-1883x---.jpg)
+![](/uploads/versions/gmgg1142---x----2824-1883x---.jpg)
 
 ---
 
 John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full in a contemporary Japanese culture kind of way, yet with a deeper mysterious resonance."
 
-![](/uploads/versions/_mg_1235---x----3276-2184x---.jpg)
+&nbsp;
 
 ---
 
-The seemingly mundane reveales itself to be more complicated and very connected -- a truth that can be found deep in every Murakami novel. &nbsp;
+The seemingly mundane reveales itself to be more complicated and very connected – a truth that can be found deep in every Murakami novel. &nbsp;
 
-![](/uploads/versions/_mg_1190---x----2184-3276x---.jpg)
+![](/uploads/versions/gmgg1235---x----3276-2184x---.jpg)
 
 ---
 
-Once again Chip Kidd and John Gall have designed covers that are both beautiful and reflective of the author's style.
+Once again Chip Kidd and John Gall have designed covers that are both appealing and reflective of the author's style.
 
-![](/uploads/versions/_mg_1202---x----2135-2755x---.jpg)
+![](/uploads/versions/gmgg1202---x----2135-2755x---.jpg)
 
 ---
 
