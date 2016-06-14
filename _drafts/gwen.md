@@ -18,13 +18,13 @@ books:
 Ever judged a book by its cover?
 <br>They say not to do such a thing but everyone does.
 
-Artists and designers of the book world constantly challenge themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
+Artists and designers constantly challenge themselves to create covers that will entice and inspire readers everywhere – all the while attempting to capture the essence of the book itself.
 
 ![](/uploads/versions/gmgg1286---x----3276-2184x---.jpg)
 
 ---
 
-Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist [Haruki Murakami's](http://www.harukimurakami.com/)mind-bending books – and they've been doing it since the late 80s. They've both been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
+Since the late 80s Chip Kidd and John Gall have taken on the considerable challenge of designing covers for world famous Japanese novelist [Haruki Murakami's&nbsp;](http://www.harukimurakami.com/)postmodernist books. They've been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
 
 ![](/uploads/versions/gmgg1311---x----3114-2076x---.jpg)
 
@@ -32,7 +32,8 @@ Chip Kidd and John Gall have taken on the considerable challenge of designing co
 
 ---
 
-In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;designer John Gall reveals the inspiration for the cover came from (literally) piecing together some of Murakami's recurring themes and images – running water, disappearing women, random holes in the ground, and music.
+In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;designer John Gall reveals that the inspiration for the cover came from (literally) piecing together some of Murakami's recurring themes and images – running water, disappearing women, random holes in the ground, and music.
+
 <br>Murakami's titles have since been redesigned with a very different look.
 
 ![](/uploads/versions/gmgg1314---x----2166-1630x---.jpg)
@@ -41,27 +42,31 @@ In an [interview](http://www.harukimurakami.com/resource_category/q_and_a)&nbsp;
 
 ---
 
-This colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together to form a puzzle.
+This colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together in the form of a geometric puzzle.
 
 ![](/uploads/versions/gmgg1142---x----2824-1883x---.jpg)
 
 ---
 
-> John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full…yet with a deeper mysterious resonance."
+John Gall [speaks about](http://www.harukimurakami.com/resource_category/q_and_a) the book cover design stating
+
+> "I wanted the covers to be both bold and quiet at the same time. Colorful and full…yet with a deeper mysterious resonance."
 
 ![](/uploads/versions/gmgg1190---x----1638-2457x---.jpg)
 
 ---
 
-The seemingly mundane reveals itself to be more complicated and very connected. &nbsp;This is a singular truth that can be found in every Murakami novel. &nbsp;The connection between the plain and the fantastic is subtle but always a critical part of Murakami's storytelling.
+The seemingly mundane reveals itself to be more complicated and very connected. &nbsp;This is a singular truth reflected in every Murakami novel. &nbsp;The connection between the plain and the fantastic is a subtle and always critical part of Murakami's storytelling.
 
 ![](/uploads/versions/gmgg1235---x----3276-2184x---.jpg)
 
 ---
 
-They overcame the challenge once again and designed covers that are both appealing and reflective of the author's style.
+Kidd and Gall overcame the epic challenge and once again designed covers that are both appealing and reflective of the author's dreamlike style.
 
-> Murakami says, "Writing a novel lets me intentionally dream while I’m still awake. I can continue yesterday’s dream today, something you can’t normally do in everyday life…I think people who share my dreams can enjoy reading my novels"
+On his writing Murakami [says](http://www.harukimurakami.com/resource_category/q_and_a/questions-for-haruki-murakami-about-kafka-on-the-shore),
+
+> "Writing a novel lets me intentionally dream while I’m still awake. I can continue yesterday’s dream today, something you can’t normally do in everyday life…I think people who share my dreams can enjoy reading my novels"
 
 ![](/uploads/versions/gmgg1202---x----2135-2755x---.jpg)
 
