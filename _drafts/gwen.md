@@ -15,22 +15,42 @@ books:
 
 
 Ever judged a book by its cover?
-<br>They say not to do such a thing but everyone does -- so much so that dozens of minds come together to design a cover that will entice a reader to pick up a tome and to investigate it further.&nbsp;
-<br>&nbsp;
+<br>They say not to do such a thing but everyone does. Artists challenge themselves to design covers that will entice and inspire readers everywhere -- all the while attempting to capture the essence of the book itself.&nbsp;
 
-Judging a book by its cover is easy, and Haruki Murakami's newest softcover editons, designed by John Gall, have gotten a lot of judgement.
-<br>
-<br>Chip Kidd and John Gall have been designing the covers for Murakami's brilliant books since the 90s and have experimented with many different styles.&nbsp; Most motable are the mosaic japanese ephemera that has graced the covers of Murakami's mind bending novels since the 90s.
-<br>
-<br>Recently all of Murakami's titles, published by Vintage, have been redesigned opting for a very vibrant look.
+![](/uploads/versions/_mg_1286---x----3276-2184x---.jpg)
 
-These colorful covers seem unrelated but, upon closer investigation, one will find that these covers are in fact closer to Murakami's style than any to come before.&nbsp; Each title is seemingly unimportant but when you look closer you'll find that the common lines and shapes come together to form a puzzle.&nbsp; The mystery of it all is very Murakami.
+---
+<br>
+<br>Chip Kidd and John Gall have taken on the challenge of designing covers for world famous Japanese novelist Haruki Murakami's books and they've been doing it since the late 80s. They've both been hailed for their unique mosaic creations made from vintage Japanese ephemera and prints like this one:
+
+![](/uploads/versions/_mg_1311---x----3114-2076x---.jpg)
+
+---
+
+In an [interview](http://www.harukimurakami.com/resource_category/q_and_a) John Gall reveals the inspiration for the design was based on some of Murakami's consistent themes and images and piecing them together.&nbsp;
+
+<br>Recently all of Murakami's titles have been redesigned opting for a very vibrant look.&nbsp;
+
+---
+
+This colorful cover seems insignificant but, upon closer investigation, you can see that these covers of common lines and shapes come together to form a puzzle. &nbsp;
+
+---
 
 John Gall speaks about the book covers saying, "I wanted the covers to be both bold and quiet at the same time. Colorful and full in a contemporary Japanese culture kind of way, yet with a deeper mysterious resonance."
-<br>&nbsp;
 
-Murakami states, "Writing a novel lets me intentionally dream while I’m still awake. I can continue yesterday’s dream today, something you can’t normally do in everyday life...I think people who share my dreams can enjoy reading my novels"
-<br>
-<br>&nbsp;
+---
 
-Look out for Murakami's new non-foction title coming this fall
+The seemingly mundane reveales itself to be more complicated and very connected -- a truth that can be found deep in every Murakami novel. &nbsp;
+
+---
+
+Once again Chip Kidd and John Gall have designed covers that are both beautiful and reflective of the author's style.
+
+---
+
+Murakami says, "Writing a novel lets me intentionally dream while I’m still awake. I can continue yesterday’s dream today, something you can’t normally do in everyday life…I think people who share my dreams can enjoy reading my novels"
+
+If that doesn't tell you all you need to know about Murakami's incredible books, I don't know what will.&nbsp;
+
+Look out for Murakami's new collection of essays coming this fall
