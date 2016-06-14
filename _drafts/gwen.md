@@ -3,7 +3,7 @@ title: The Lined-Up Murakami Puzzle
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: "Haruki Murakami's collection of titles has a secret"
 featured_image_path: /gmgg1192.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
