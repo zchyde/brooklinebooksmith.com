@@ -19,3 +19,5 @@ It's summer -- one that we want to get outside and see things from an aviary per
 
 If you're looking to be an armchair nature explorer, grab a copy of one of one of my favorite children's books about birds is [The Race to Save the Lord God Bird](One of my favorite chidlren's books about birds is The  Race to Save  the Lord God Bird written by Phillip  Hoose.  First released in 2004, its since  been revised  and updated.  ) written by Phillip Hoose. First released in 2004, its since been revised and updated.&nbsp; This nonfiction book chronicles the search for the Ivory-Billed Woodpecker.&nbsp; A book that explores the issues of conservation and
 <br>[![](/uploads/versions/9781250073716---x----329-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781250073716)
+
+[![](/uploads/versions/9780544206700---x----344-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780544206700)[Baby Birds](http://www.brooklinebooksmith-shop.com/book/9780544206700)
