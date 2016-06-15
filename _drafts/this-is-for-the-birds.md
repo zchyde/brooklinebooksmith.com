@@ -30,7 +30,7 @@ If you're not the most expert birder, have no fear, take a look at the aviary-ex
 
 Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
 
-<br>![](/uploads/versions/9781885061881---x----292-400x---.jpg)
+<br>[![](/uploads/versions/9781885061881---x----292-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781885061881)
 
 [American Museum of Natural History Birds of North America Eastern Region](http://www.brooklinebooksmith-shop.com/book/9780756658670)
 
