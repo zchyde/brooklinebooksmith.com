@@ -32,6 +32,8 @@ Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http:/
 
 <br>![](/uploads/versions/9781885061881---x----292-400x---.jpg)
 
-American Museum of Natural History Birds of North America Eastern Region
+[American Museum of Natural History Birds of North America Eastern Region](http://www.brooklinebooksmith-shop.com/book/9780756658670)
+
+[![](/uploads/versions/9780756658670---x----236-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780756658670)
 
 &nbsp;
