@@ -15,3 +15,4 @@ books:
 ---
 
 
+It's summer -- one that we want to get outside and see things from an aviary perspective
