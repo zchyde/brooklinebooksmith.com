@@ -12,6 +12,8 @@ book_isbn:
 ---
 
 
-**Meeting on Tuesday, July 12th, 2016**
+**Meeting on Tuesday, July 12th, 2016.**
 
 The Brookline Booksmith Book Club meets at 7:30pm downstairs in our Writers and Readers Room. No need to sign up, just show up. To contact our moderator, email bookclub@brooklinebooksmith.com
+
+**We will be discussing&nbsp;*Grief Is the Thing with Feathers&nbsp;*by Max Porter.**
