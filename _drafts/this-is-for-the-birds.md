@@ -15,4 +15,4 @@ books:
 ---
 
 
-It's summer -- one that we want to get outside and see things from an aviary perspective[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
+It's summer -- one that we want to get outside and see things from an aviary perspectiv<u>e</u>[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
