@@ -24,6 +24,10 @@ If you're looking to be an armchair nature explorer, grab a copy of one of one o
 
 [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
+If you're not the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.
+
 [![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
 Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
+
+![](/uploads/versions/9781885061881---x----292-400x---.jpg)
