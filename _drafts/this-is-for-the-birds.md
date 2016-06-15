@@ -28,9 +28,9 @@ If you're not the most expert birder, have no fear, take a look at the aviary-ex
 
 [![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
-David Allen Sibley, who, in fact, was recently here at Booksmith,&nbsp; illustrates his own bird guides.&nbsp; In order not to miss other exciting and, sometimes, nature-focused events at Booksmith, sigh up for our e-newsletter or visit our events pages!
+[The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917) .&nbsp; David Allen Sibley, who, in fact, was recently here at Booksmith,&nbsp; illustrates his own bird guides.&nbsp; In order not to miss other exciting and, sometimes, nature-focused events at Booksmith, sigh up for our e-newsletter or visit our events pages!
 
-![](/uploads/versions/9780307957917---x----237-400x---.jpg)
+[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)
 
 Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
 
