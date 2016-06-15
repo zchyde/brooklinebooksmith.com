@@ -3,7 +3,7 @@ title: This Is For the Birds
 published: false
 featured: false
 date: 2016-06-15T11:18:00.000Z
-description: 'Time to go birding!'
+description: 'Time to go birding!  Here are some bird-watching guides and tales.'
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
