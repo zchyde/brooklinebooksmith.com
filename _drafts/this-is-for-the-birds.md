@@ -21,3 +21,9 @@ If you're looking to be an armchair nature explorer, grab a copy of one of one o
 <br>[![](/uploads/versions/9781250073716---x----329-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781250073716)
 
 [![](/uploads/versions/9780544206700---x----344-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780544206700)[Baby Birds](http://www.brooklinebooksmith-shop.com/book/9780544206700)
+
+[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
+
+[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)
+
+&nbsp;
