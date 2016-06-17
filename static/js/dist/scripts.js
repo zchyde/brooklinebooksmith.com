@@ -24,10 +24,10 @@ $('.accordion-tabs').on('click', 'li > a.tab-link', function(event) {
 
   $('#pick-up').on('click', function() {
     $('#shipping_charge').val('1', $(this).val());
-    $('#item_name').val('First Editions Book Club: Pickup Plan', $(this).val());
+    $('#item_name').val('Signed First Editions Book Club: Pickup Plan', $(this).val());
   });
 
   $('#ship').on('click', function() {
     $('#shipping_charge').val('2', $(this).val());
-    $('#item_name').val('First Editions Book Club: Delivery Plan', $(this).val());
+    $('#item_name').val('Signed First Editions Book Club: Delivery Plan', $(this).val());
   });
