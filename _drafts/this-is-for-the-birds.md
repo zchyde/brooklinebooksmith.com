@@ -15,7 +15,7 @@ books:
 ---
 
 
-[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)Birding is an activity for any age, and any skill level..&nbsp; Summer is one of the best times to work on your birding skills.&nbsp; Award-winning author, illustrator, and ornithologist David Allen Sibley just released the second edition of [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917)*.*This is your go-to guide for information about bird behavior, nesting patterns, habitats, conservation efforts, song descriptions, feeding habits, and coloration/identification examples. &nbsp; Sibley does an amazing job describing birds through both words and illustration.&nbsp; &nbsp; &nbsp;
+[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)Birding is an activity for any age, and any skill level.&nbsp; Summer is one of the best times to work on your birding skills.&nbsp; Award-winning author, illustrator, and ornithologist David Allen Sibley just released the second edition of [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917)*.*This is your go-to guide for information about bird behavior, nesting patterns, habitats, conservation efforts, song descriptions, feeding habits, and coloration/identification examples. &nbsp; Sibley does an amazing job describing birds through both words and illustration.&nbsp; &nbsp; &nbsp;
 
 ---
 
