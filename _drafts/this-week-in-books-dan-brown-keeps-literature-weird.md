@@ -8,8 +8,9 @@ featured_image_path: /alchemical_cosmos-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: this-week-in-books
 staff:
+  - lydia
 books:
 ---
 
