@@ -36,9 +36,7 @@ Artists and designers are constantly challenging themselves to create covers tha
 
 &nbsp;
 
-![full-img](/uploads/versions/gwen_4-compressor---x----467-700x---.jpg)
-
----
+![full-img](/uploads/versions/gwen_4-compressor---x----467-700x---.jpg)---
 <br>The seemingly mundane reveals itself to be more complicated and very connected. &nbsp;This is a singular truth reflected in every Murakami novel. &nbsp;The connection between the plain and the fantastic is a subtle and always critical part of Murakami's storytelling.
 
 &nbsp;
