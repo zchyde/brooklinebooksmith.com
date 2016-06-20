@@ -21,7 +21,7 @@ Paperback:
   - '9780143034759'
   - '9781555977412'
 permalink: /
-layout:
+layout: home
 description:
 regenerate: true
 ---
