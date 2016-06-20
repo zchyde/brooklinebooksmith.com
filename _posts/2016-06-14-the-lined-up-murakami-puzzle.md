@@ -36,13 +36,11 @@ Artists and designers are constantly challenging themselves to create covers tha
 <br>---
 <br>The colorful cover seems insignificant but, upon closer investigation, you can see that random lines and shapes come together in the form of a geometric puzzle.
 
-![full-img](/uploads/versions/gwen-ex-compressor---x----700-467x---.jpg)---
-<br>John Gall talks&nbsp;[about](http://www.harukimurakami.com/resource_category/q_and_a) the book cover design stating
+![full-img](/uploads/versions/gwen-ex-compressor---x----700-467x---.jpg)John Gall talks&nbsp;[about](http://www.harukimurakami.com/resource_category/q_and_a) the book cover design stating
 
 > "I wanted the covers to be both bold and quiet at the same time. Colorful and full…yet with a deeper mysterious resonance."
 
-![full-img](/uploads/versions/gwen_4-compressor---x----467-700x---.jpg)---
-<br>The seemingly mundane reveals itself to be more complicated and very connected. &nbsp;This is a singular truth reflected in every Murakami novel. &nbsp;The connection between the plain and the fantastic is a subtle and always critical part of Murakami's storytelling.
+---![full-img](/uploads/versions/gwen_4-compressor---x----467-700x---.jpg)The seemingly mundane reveals itself to be more complicated and very connected. &nbsp;This is a singular truth reflected in every Murakami novel. &nbsp;The connection between the plain and the fantastic is a subtle and always critical part of Murakami's storytelling.
 
 ![full-img](/uploads/versions/gwen_5-compressor---x----700-467x---.jpg)---
 <br>Gall overcame the epic challenge and once again designed covers that are both appealing and reflective of the author's dreamlike style.
