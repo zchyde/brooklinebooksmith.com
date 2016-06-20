@@ -2,9 +2,9 @@
 title: 'This Week In Books: Dan Brown Keeps Literature Weird'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-06-20T16:30:00.000Z
 description: 'Famed bestselling author donates nearly $400,000 for preservation of priceless arcane manuscripts.'
-featured_image_path:
+featured_image_path: /alchemical_cosmos-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
