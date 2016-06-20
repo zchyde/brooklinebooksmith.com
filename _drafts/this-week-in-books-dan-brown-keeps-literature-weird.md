@@ -17,3 +17,5 @@ books:
 While some authors craft contemporary works we'll never get to see, Dan Brown, the internationally best-selling author best known for his thriller The Da Vinci Code, is bringing historical literature to the general public.
 
 Brown’s gift to Amsterdam’s Ritman Library, which is also known as the Bibliotheca Philosophica Hermetica, will go towards digitising and preserving its core collection so that the texts might be viewable online by the public. The library holds around 4,600 manuscripts and books that were printed before 1900, and about 20,000 printed after 1900, covering topics including alchemy and mysticism.
+
+https://www.theguardian.com/books/2016/jun/17/dan-brown-donates-300000-to-digitise-mystical-books-that-inspired-him
