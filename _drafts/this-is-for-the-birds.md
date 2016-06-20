@@ -2,7 +2,7 @@
 title: This Is For the Birds
 published: false
 featured: false
-date: 2016-06-20T16:00:00.000Z
+date: 2016-06-20T16:15:00.000Z
 description: 'Time to go birding!  Here are some bird-watching guides and tales.'
 featured_image_path:
 featured_image_position: 50
@@ -19,7 +19,7 @@ books:
 
 ---
 
-[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)If you aren’t the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868), &nbsp;as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
+[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)If you aren’t the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868), as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
 
 ---
 
