@@ -15,11 +15,11 @@ books:
 ---
 
 
-[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)Birding is an activity for any age, and any skill level.&nbsp; Summer is one of the best times to work on your birding skills.&nbsp; Award-winning author, illustrator, and ornithologist David Allen Sibley just released the second edition of [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917)*.*This is your go-to guide for information about bird behavior, nesting patterns, habitats, conservation efforts, song descriptions, feeding habits, and coloration/identification examples. &nbsp; Sibley does an amazing job describing birds through both words and illustration.&nbsp; &nbsp; &nbsp;
+[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)Birding is an activity for any age, and any skill level.&nbsp; Summer is one of the best times to work on your birding skills.&nbsp; Award-winning author, illustrator, and ornithologist David Allen Sibley just released the second edition of [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917)*.&nbsp;*This is your go-to guide for information about bird behavior, nesting patterns, habitats, conservation efforts, song descriptions, feeding habits, and coloration/identification examples. Sibley does an amazing job describing birds through both words and illustration.&nbsp; &nbsp; &nbsp;
 
 ---
 
-[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)If you aren’t the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868), as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
+[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)If you aren’t the most expert birder, have no fear, take a look at the aviary expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868), as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
 
 ---
 
