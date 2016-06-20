@@ -31,26 +31,8 @@ books:
 
 ---
 
-![](/uploads/versions/9781426322990---x----272-400x---.jpg)Need someone to hold you accountable for your aviary learning?&nbsp; Kids love a contest!&nbsp; Include them in your love for and study of our feathered friends.&nbsp; Challenge them to see how many birds they observe or how many fun facts they can learn about one species.&nbsp; Encourage them to utilize the National Geographic’s Kids’ [Ultimate Explorer Field Guide to Birds](http://www.brooklinebooksmith-shop.com/book/9781426322990) by Julie Beer.&nbsp; &nbsp;&nbsp;
+[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)Need someone to hold you accountable for your aviary learning?&nbsp; Kids love a contest!&nbsp; Include them in your love for and study of our feathered friends.&nbsp; Challenge them to see how many birds they observe or how many fun facts they can learn about one species.&nbsp; Encourage them to utilize the National Geographic’s Kids’ [Ultimate Explorer Field Guide to Birds](http://www.brooklinebooksmith-shop.com/book/9781426322990) by Julie Beer.&nbsp; &nbsp;&nbsp;
 
-Both David Allen Sibley and Neil Hayward were recently at Brookline Booksmith.&nbsp; In order not to miss other exciting nature-focused events at Booksmith,[sigh up for our e-newsletter](http://www.brooklinebooksmith.com/about-us/) or visit our [events page](http://www.brooklinebooksmith.com/events/)!
+Both David Allen Sibley and Neil Hayward were recently at Brookline Booksmith.&nbsp; In order not to miss other exciting nature-focused events at Booksmith, [sign up for our e-newsletter](http://www.brooklinebooksmith.com/about-us/) or visit our [events page](http://www.brooklinebooksmith.com/events/)!
 
 Happy Birding!
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
-
-
-
-[The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917) .&nbsp; David Allen Sibley, who, in fact, was recently here at Booksmith,&nbsp; illustrates his own bird guides.&nbsp; In order not to miss other exciting and, sometimes, nature-focused events at Booksmith,[sigh up for our e-newsletter](http://www.brooklinebooksmith.com/about-us/) or visit our [events page](http://www.brooklinebooksmith.com/events/)!
-
-[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)
-
-Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
-
-<br>[![](/uploads/versions/9781885061881---x----292-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781885061881)
