@@ -27,9 +27,7 @@ books:
 
 ---
 
-&nbsp;
-
-It's summer –
+![](/uploads/versions/9781885061881---x----292-400x---.jpg)Learn about the birds in your backyard.&nbsp; How many do you count at your bird feeder?&nbsp; Do you recognize their coloring, their songs, and their feeding patterns?&nbsp; Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
 
 <br>[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
