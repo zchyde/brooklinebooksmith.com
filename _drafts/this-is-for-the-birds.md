@@ -25,7 +25,11 @@ books:
 
 [![](/uploads/versions/9781632865793---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781632865793)Feeling stuck?&nbsp; Need to do something completely new?&nbsp; Yearning for some outdoor time?&nbsp; Well, quit your job, and consider following in the footsteps of Neil Hayward.&nbsp; In his recently released memoir entitled [Lost Among the Birds](http://www.brooklinebooksmith-shop.com/book/9781632865793), Hayward chronicles his quest to find more birds than anyone else in one year.&nbsp; Taking a break from the “working world” allowed Hayward to re-ignite his love for ornithology, and to find his true self.&nbsp; Hayward is on the Board of Directors for the [Brookline Bird Club](http://www.brooklinebirdclub.org/) (BBC), which is the biggest and one of the oldest of the many bird clubs in Massachusetts.
 
-It's summer –[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
+---
+
+&nbsp;
+
+It's summer –
 
 <br>[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
