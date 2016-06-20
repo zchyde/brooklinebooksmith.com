@@ -15,13 +15,9 @@ books:
 ---
 
 
-It's summer – one that we want to get outside and see things from an aviary perspective. [![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
+It's summer –[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
 
-<br>&nbsp;
-
-[Baby Birds](http://www.brooklinebooksmith-shop.com/book/9780544206700)
-
-[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
+<br>[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
 
 If you're not the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.
 
