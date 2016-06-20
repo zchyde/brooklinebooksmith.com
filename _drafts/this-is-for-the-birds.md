@@ -27,13 +27,25 @@ books:
 
 ---
 
-![](/uploads/versions/9781885061881---x----292-400x---.jpg)Learn about the birds in your backyard.&nbsp; How many do you count at your bird feeder?&nbsp; Do you recognize their coloring, their songs, and their feeding patterns?&nbsp; Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
+[![](/uploads/versions/9781885061881---x----292-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781885061881)Learn about the birds in your backyard.&nbsp; How many do you count at your bird feeder?&nbsp; Do you recognize their coloring, their songs, and their feeding patterns?&nbsp; Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
 
-<br>[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
+---
 
-If you're not the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.
+![](/uploads/versions/9781426322990---x----272-400x---.jpg)Need someone to hold you accountable for your aviary learning?&nbsp; Kids love a contest!&nbsp; Include them in your love for and study of our feathered friends.&nbsp; Challenge them to see how many birds they observe or how many fun facts they can learn about one species.&nbsp; Encourage them to utilize the National Geographic’s Kids’ [Ultimate Explorer Field Guide to Birds](http://www.brooklinebooksmith-shop.com/book/9781426322990) by Julie Beer.&nbsp; &nbsp;&nbsp;
 
-[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)
+Both David Allen Sibley and Neil Hayward were recently at Brookline Booksmith.&nbsp; In order not to miss other exciting nature-focused events at Booksmith,[sigh up for our e-newsletter](http://www.brooklinebooksmith.com/about-us/) or visit our [events page](http://www.brooklinebooksmith.com/events/)!
+
+Happy Birding!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+
 
 [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917) .&nbsp; David Allen Sibley, who, in fact, was recently here at Booksmith,&nbsp; illustrates his own bird guides.&nbsp; In order not to miss other exciting and, sometimes, nature-focused events at Booksmith,[sigh up for our e-newsletter](http://www.brooklinebooksmith.com/about-us/) or visit our [events page](http://www.brooklinebooksmith.com/events/)!
 
