@@ -19,9 +19,11 @@ books:
 
 ---
 
-![](/uploads/versions/9780472119868---x----266-400x---.jpg)If you aren’t the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book Feather Brained, &nbsp;as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
+[![](/uploads/versions/9780472119868---x----266-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780472119868)If you aren’t the most expert birder, have no fear, take a look at the aviary-expedition tale of Bob Tarte.&nbsp; Determined to become a skilled birder, Tarte shares his insights and humor in his book [Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868), &nbsp;as he journeys from place to place learning the best birding techniques.&nbsp; His ultimate goal was to find a rare bird on his own. &nbsp; &nbsp;
 
-&nbsp;
+---
+
+![](/uploads/versions/9781632865793---x----265-400x---.jpg)Feeling stuck?&nbsp; Need to do something completely new?&nbsp; Yearning for some outdoor time?&nbsp; Well, quit your job, and consider following in the footsteps of Neil Hayward.&nbsp; In his recently released memoir entitled [Lost Among the Birds,](http://www.brooklinebooksmith-shop.com/book/9781632865793) Hayward chronicles his quest to find more birds than anyone else in one year.&nbsp; Taking a break from the “working world” allowed Hayward to re-ignite his love for ornithology, and to find his true self.&nbsp; Hayward is on the Board of Directors for the [Brookline Bird Club](http://www.brooklinebirdclub.org/about/) (BBC), which is the biggest and one of the oldest of the many bird clubs in Massachusetts.
 
 It's summer –[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
 
