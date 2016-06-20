@@ -147,6 +147,17 @@ defaults:
       type: staff
     values:
       layout: page
+  - scope:
+      path: '_landing_pages/home.md'
+    values:
+      layout: home
+      permalink: '/'
+      fancy_font:
+      title:
+      page_heading:
+      description:
+      regenerate: true
+
 
 compress_html:
   ignore:

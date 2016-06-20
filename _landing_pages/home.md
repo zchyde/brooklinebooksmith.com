@@ -2,9 +2,6 @@
 featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
 banner_height: 450
-fancy_font:
-title:
-page_heading:
 Hardcover:
   - '9780345505002'
   - '9781476733500'
@@ -20,10 +17,6 @@ Paperback:
   - '9780143124542'
   - '9780143034759'
   - '9781555977412'
-permalink: /
-layout: home
-description:
-regenerate: true
 ---
 
 
