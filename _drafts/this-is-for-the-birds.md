@@ -15,6 +15,10 @@ books:
 ---
 
 
+Birding is an activity for any age, and any skill level.&nbsp; Summer is one of the best times to work on your birding skills.&nbsp; Award-winning author, illustrator, and ornithologist David Allen Sibley just released the second edition of [The Sibley Field Guide to Birds of Eastern North America](http://www.brooklinebooksmith-shop.com/book/9780307957917)*.*This is your go-to guide for information about bird behavior, nesting patterns, habitats, conservation efforts, song descriptions, feeding habits, and coloration/identification examples. &nbsp; Sibley does an amazing job describing birds through both words and illustration.&nbsp; &nbsp; &nbsp;
+
+[![](/uploads/versions/9780307957917---x----237-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780307957917)&nbsp;
+
 It's summer –[![](/uploads/versions/9781426322990---x----272-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781426322990)
 
 <br>[Feather Brained](http://www.brooklinebooksmith-shop.com/book/9780472119868)
@@ -30,9 +34,3 @@ If you're not the most expert birder, have no fear, take a look at the aviary-ex
 Stan Tekiela has an excellent field guide to the [Birds of Massachusetts](http://www.brooklinebooksmith-shop.com/book/9781885061881).
 
 <br>[![](/uploads/versions/9781885061881---x----292-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781885061881)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
