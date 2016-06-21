@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-21T16:15:00.000Z
 description: 'Time to go birding!  Here are some bird-watching guides and tales.'
-featured_image_path:
+featured_image_path: /uploads/dsc_1712-001-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
