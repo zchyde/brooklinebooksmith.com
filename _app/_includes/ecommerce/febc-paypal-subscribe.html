@@ -9,7 +9,10 @@
 {% assign a3_subscription_price_plan2 = object.subscription.a3_subscription_price_plan2 %}
 <h5>{{ name }}</h5>
 <h6>${{ a3_subscription_price_plan1 | remove: '.' | remove: '0' }} per month, or ${{ a3_subscription_price_plan2 | remove: '.' | remove: '0' }} delivered</h6>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal" id="paypal_form_{{ forloop.index }}" style="border : 1px solid #777;
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" onclick="ga('send', 'event', 'button', 'click', 'paypal');" method="post" target="paypal" id="paypal_form_{{ forloop.index }}" style="border : 1px solid #777;
   padding : 1.5em;">
 
   {% comment %} Redirection Pages {% endcomment %}
