@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 published: true
-featured_image_path: /uploads/linderpix-bbsmith-cs-120915-01.jpg
+featured_image_path: /uploads/linderpix-bbsmith-cs-120915-01_v2.jpg
 featured_image_position: 45
 featured_image_credit: '[Liz Linder](http://lizlinder.com)'
 fancy_font: Cabin-sketch
