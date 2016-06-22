@@ -17,7 +17,7 @@ books:
 
 ![](/uploads/versions/hippos-x-742-576x-compressor---x----742-576x---.jpg)
 
-As the old sing-song says:&nbsp;
+As the old sing-song says: &nbsp;
 <br>
 <br>*No more pencils,
 <br>No more books,&nbsp;*
