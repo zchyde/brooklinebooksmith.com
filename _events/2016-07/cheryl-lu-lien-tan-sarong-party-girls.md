@@ -1,5 +1,5 @@
 ---
-title: '**Cheryl Lu-Lien Tan**,  *Sarong Party Girls*'
+title: '**Cheryl Lu-Lien Tan**,  *Sarong Party Girls* in discussion with Julia Glass (*Three Junes*)'
 published: true
 start_at: 2016-07-27T19:00:00.000Z
 image_path:
