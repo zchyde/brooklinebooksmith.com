@@ -14,4 +14,4 @@ book_isbn:
 
 Join No Fixed Address Press in celebrating the debut collection of Brookline native Margaret Miranda. When the bruises come out her poems hold your gaze, yet every page is a mercy, a refuge - you've walked a thousand miles to hear these words.
 
-![](/uploads/versions/22430594313_2f1fdf1627_o-1---x----2048-1362x---.jpg)
+![](/uploads/versions/22430594313_2f1fdf1627_o &#40;1&#41;---x----500-333x---.jpg)
