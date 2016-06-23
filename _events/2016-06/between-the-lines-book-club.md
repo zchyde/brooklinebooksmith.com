@@ -1,7 +1,7 @@
 ---
 title: Between the Lines Book Club
 published: true
-start_at: 2016-06-28T04:30:00.000Z
+start_at: 2016-06-28T16:30:00.000Z
 image_path:
 book_category: kidsmith
 program: childrens-story-time

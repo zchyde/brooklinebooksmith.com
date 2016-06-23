@@ -16,4 +16,20 @@ book_isbn:
 ---
 
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 Join us for a night of chills in July with a panel of today’s most exciting horror and dark fantasy authors including **Thomas Olde Heuvelt, Joe Hill, Kat Howard, Josh Malerman,**and**Paul Tremblay.**
