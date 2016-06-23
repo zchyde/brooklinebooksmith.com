@@ -1,6 +1,6 @@
 ---
 title: '**Cheryl Lu-Lien Tan**,  *Sarong Party Girls*'
-published: false
+published: true
 start_at: 2016-07-27T19:00:00.000Z
 image_path:
 book_category:
