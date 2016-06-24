@@ -1,7 +1,7 @@
 ---
 title: 'This Week In Books: The Faces of Tokenism'
 published: true
-featured: true
+featured: false
 date: 2016-02-29T18:48:00.000Z
 description: "The past few weeks have given us the mass media convulsions of #OscarsSoWhite, Chris Rock's scathing awards hosting performance and this really wonderful feature by The New York Times on the experiences of non-white/straight/male Hollywood denizens - all part of the emergent national dialogue on racism."
 featured_image_path: /uploads/14839821373_86e9ddf980_z.jpg

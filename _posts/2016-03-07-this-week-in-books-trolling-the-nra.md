@@ -1,7 +1,7 @@
 ---
 title: 'This Week In Books: Trolling the NRA'
 published: true
-featured: true
+featured: false
 date: 2016-03-07T09:00:00.000Z
 description: "If you're unfamiliar with Melville House, I can tell you that they have one of the funniest twitter feeds out there and they publish some pretty slick books too."
 featured_image_path: /uploads/nra.png
