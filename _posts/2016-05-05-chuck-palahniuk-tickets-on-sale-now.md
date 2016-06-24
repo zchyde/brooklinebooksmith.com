@@ -1,7 +1,7 @@
 ---
 title: 'Chuck Palahniuk Tickets On Sale Now!'
 published: true
-featured: true
+featured: false
 date: 2016-05-05T11:00:00.000Z
 description: 'Tickets to our signing event with Chuck Palahniuk are available for purchase now!'
 featured_image_path: /uploads/1035x1590-fightclub1finalcover.jpg
