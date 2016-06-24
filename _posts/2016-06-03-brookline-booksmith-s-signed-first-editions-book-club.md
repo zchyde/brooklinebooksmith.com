@@ -1,7 +1,7 @@
 ---
 title: "Brookline Booksmith's Signed First Editions Book Club!"
 published: true
-featured: true
+featured: false
 date: 2016-06-03T09:02:00.000Z
 description: 'Like a book of the month club, with a twist'
 featured_image_path: /uploads/barnes_banner_sfe.jpg
