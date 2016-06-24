@@ -5,10 +5,10 @@ layout: null
 	"events": [
 		{% for collection in site.events %}
 		{
-			"id": {{forloop.index}},
-			"title": {{collection.title | jsonify}},
-			"url": {{collection.external_url | jsonify}},
-			"date": {{collection.date | jsonify}},
+			"id": {{ forloop.index }},
+			"title": {{ collection.title | jsonify}},
+			"url": "{{ site.url }}{{ collection.url }}",
+			"date": {{ collection.date | jsonify }}
 		}{% if forloop.rindex0 > 0 %},{% endif %}
 		{% endfor %}
 	]
