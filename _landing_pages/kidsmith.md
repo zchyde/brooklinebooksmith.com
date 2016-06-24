@@ -7,7 +7,7 @@ fancy_font: Cabin-sketch
 category: kidsmith
 layout:
 include_description: events/kids.html
-description: '[![twitter](/static/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
+description: '[![twitter](/assets/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
 follow: true
 Kids:
   - '9781423178286'
