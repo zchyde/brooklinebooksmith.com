@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-23T09:00:00.000Z
 description: "For LGBT+ children who don't think beloved authors can be like them."
-featured_image_path:
+featured_image_path: /uploads/where-the-wild-things-are-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -19,7 +19,7 @@ The Pulse night club shooting has made the last week and a half a bitterly diffi
 
 It's in complicated, massive, and terrible situations like this that I like to remember Silk's [Ring Theory of grief](http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407). Succinctly explained, everyone's grief is valid, but the kind and productive thing to do is to express your grief to those who hurt less than you do, and comfort those who hurt worse–those are closer to the source of pain. It might be a good thing to remember, not just this week but every day. Listen to the wounded; share your own pain outward. Don't put weight on the people who are already carrying the worst burdens.
 
-Here's something else to remember. Only [a few weeks ago](http://www.brooklinebooksmith.com/2016/06/03/pride-2016/), I wrote that Pride has always come from the midst of violent opposition, and it has always been (willfully, deliberately) a celebration. This week at Children's Institute, we celebrate books. So today, I want to embrace the spirit of both. Today I want to celebrate, remember, and thank some of the (often quietly, sometimes fearfully) LGB authors and illustrators who gave me and countless others our  childhoods.
+Here's something else to remember. Only&nbsp;[a few weeks ago](http://www.brooklinebooksmith.com/2016/06/03/pride-2016/), I wrote that Pride has always come from the midst of violent opposition, and it has always been (willfully, deliberately) a celebration. This week at Children's Institute, we celebrate books. So today, I want to embrace the spirit of both. Today I want to celebrate, remember, and thank some of the (often quietly, sometimes fearfully) LGB authors and illustrators who gave me and countless others our&nbsp; childhoods.
 
 It's important to recognize why the basic facts of these lives aren't common knowledge. A number of these creators died young, their personal lives hidden from their reading public and even their publishers. Several of them died of AIDS, but no one was allowed to talk about it for years because AIDS meant gay, and a gay children’s author was unthinkable for public consumption. The public that raved about their books didn't want them to exist. Despite the strain of hiding, however, these incredible authors and illustrators shared with us books that are life-changing, world-sculpting, brilliant, wild, wonderful.
 
@@ -32,7 +32,6 @@ Here are some of my favorites:
 ![](/uploads/versions/depaola---x----500-397x---.jpg)
 
 [Tomie de Paola](http://www.brooklinebooksmith-shop.com/search/site/tomie%2520de%2520paola): Author and illustrator of *Bill and Pete, Strega Nona, 26 Fairmont Avenue, The Art Lesson*, and many, many more, with a particular flair for unforgettable characters, and child-oriented autobiography.
-<br>
 
 ![](/uploads/versions/sendak---x----500-451x---.jpg)
 
