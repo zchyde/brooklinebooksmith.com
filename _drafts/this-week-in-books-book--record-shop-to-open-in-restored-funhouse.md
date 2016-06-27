@@ -2,9 +2,9 @@
 title: 'This Week In Books: Book & Record Shop to Open in Restored Funhouse'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-06-27T15:30:00.000Z
 description: Renowned eccentric Wild Bill to set up shop inside former carnival attraction.
-featured_image_path:
+featured_image_path: /funhouse-l.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
