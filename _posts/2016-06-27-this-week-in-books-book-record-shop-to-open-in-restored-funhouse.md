@@ -19,6 +19,8 @@ Bill "Wild Bill" Ziegler of Middletown, Connecticut (not Massachusetts, [as repo
 
 [![Wild Bill Ziegler in front of his Nostalgia Shop](/uploads/versions/wildbill1---x----500-361x---.jpg)](http://alferreiraphotography.com/blog/wild-bill-captured/)
 
+---
+
 [![](/uploads/versions/funhouse-l---x----782-600x---.jpg)](http://www.middletownpress.com/business/20160623/art-installation-records-and-book-shop-open-at-wild-bills-nostalgia)
 
 ---
