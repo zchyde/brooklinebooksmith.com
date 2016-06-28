@@ -1,5 +1,0 @@
-User-agent: *
-# robotstxt.org - if _config production variable is false robots will be disallowed.
-
-    Disallow:
-
