@@ -19,6 +19,6 @@ node_modules
 
 /.build
 /.firebase.conf
-/._site
+_site
 
 
