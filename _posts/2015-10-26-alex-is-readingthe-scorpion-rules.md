@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alex Is Reading...THE SCORPION RULES
 date: '2015-10-26T10:30:00.000-04:00'
 author: Alex S

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: April's Television Inspired Literature
 date: '2015-04-15T09:00:00.000-04:00'
 author: Kylie Brien

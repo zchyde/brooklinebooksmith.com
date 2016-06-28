@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alex Is Reading...BOOK
 date: '2015-06-29T10:30:00.000-04:00'
 author: Alex S

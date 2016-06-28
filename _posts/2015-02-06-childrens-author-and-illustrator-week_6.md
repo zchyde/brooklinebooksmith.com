@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Children''s Author and Illustrator Week: Alex Is Reading Megan Whalen Turner'
 date: '2015-02-06T17:08:00.002-05:00'
 author: Alex S

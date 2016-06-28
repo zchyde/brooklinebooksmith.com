@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Kidsmith Presents: Television Inspired Literature '
 date: '2015-03-18T08:00:00.000-04:00'
 author: Kylie Brien

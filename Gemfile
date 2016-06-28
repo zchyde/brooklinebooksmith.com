@@ -3,19 +3,10 @@ source 'https://rubygems.org'
 gem 'github-pages'
 
 group :jekyll_plugins do
-  gem "html-proofer"
-  # gem "jekyll-lunr-js-search"
+  gem "html-proofer"  
   gem 'jekyll-paginate'
-  # gem 'jekyll-assets'
-  # gem 'autoprefixer-rails'
-  # gem 'uglifier'
+  gem 'jekyll-seo-tag'
+  # gem 'jekyll-paginate'    
   # gem 'jekyll-sitemap'
   # gem 'jekyll-archives'
 end
-# gem 'jekyll-paginate'
-# gem 'github-pages'
-# gem 'jekyll-picture-tag'
-# gem 'jekyll_pages_api_search'
-# gem "jekyll-lunr-js-search"
-# gem 'jekyll_pages_api_search'
-

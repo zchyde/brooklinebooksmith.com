@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alex Is Reading...Picture Books With Characters of Color!
 date: '2015-06-15T10:30:00.000-04:00'
 author: Alex S

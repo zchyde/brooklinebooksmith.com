@@ -1,5 +1,4 @@
 ---
-layout: post
 title: It Should Be Exciting Every Time
 date: '2015-01-12T08:30:00.000-05:00'
 author: Amy

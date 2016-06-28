@@ -1,0 +1,30 @@
+<div class="row" style="margin-bottom:20em;">
+  <form class="search-form" action="http://www.brooklinebooksmith-shop.com/search/site" method="post" id="search-form" accept-charset="UTF-8">
+   <div>
+     <div class="container-inline form-wrapper" id="edit-basic">
+       <div class="form-item form-type-textfield form-item-keys">
+         <label for="edit-keys">Enter terms </label>
+         <input type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text">
+       </div>
+       <input type="submit" id="edit-submit-form" name="op" value="Search" class="form-submit">
+       <input type="hidden" name="get" value="[]">
+       {% comment %}
+       <div class="form-item form-type-select form-item-fsort">
+         <label for="edit-fsort">Sort Results: </label>
+         <select onchange="this.form.submit();" id="edit-fsort" name="fsort" class="form-select">
+           <option value="score--desc">Relevance</option>
+           <option value="sort_label--asc">Title (A to Z)</option>
+           <option value="sort_label--desc">Title (Z to A)</option>
+           <option value="ds_publication_date--asc">Publication Date (Oldest to Newest)</option>
+           <option value="ds_publication_date--desc">Publication Date (Newest to Oldest)</option>
+           <option value="fss_uc_sell_price--asc">List Price (Lowest to Highest)</option>
+           <option value="fss_uc_sell_price--desc">List Price (Highest to Lowest)</option>
+         </select>
+       </div>
+        {% endcomment %}
+     </div>
+     <input type="hidden" name="form_build_id" value="form-wqhLsarrv0pkRKdrtbnYXolGUzYAFb4GwWq-Rckdk2w">
+     <input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form">
+   </div>
+  </form>
+</div>

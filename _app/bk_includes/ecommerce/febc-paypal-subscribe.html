@@ -1,0 +1,151 @@
+
+{% assign name = object.subscription.name %}
+{% assign plan1 = object.subscription.plan1 %}
+{% assign plan2 = object.subscription.plan2 %}
+{% assign t3_duration_unit = object.subscription.t3_duration_unit %}
+{% assign p3_duration = object.subscription.p3_duration | default: '1' %}
+{% assign subscription_recurring_time = object.subscription.subscription_recurring_time  %}
+{% assign a3_subscription_price_plan1 = object.subscription.a3_subscription_price_plan1 %}
+{% assign a3_subscription_price_plan2 = object.subscription.a3_subscription_price_plan2 %}
+<h5>{{ name }}</h5>
+<h6>${{ a3_subscription_price_plan1 | remove: '.' | remove: '0' }} per month, or ${{ a3_subscription_price_plan2 | remove: '.' | remove: '0' }} delivered</h6>
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" onclick="ga('send', 'event', 'button', 'click', 'paypal');" method="post" target="paypal" id="paypal_form_{{ forloop.index }}" style="border : 1px solid #777;
+  padding : 1.5em;">
+
+  {% comment %} Redirection Pages {% endcomment %}
+  <input type="hidden" value="{{ site.url }}/thank-you/" name="return" />
+  <input type="hidden" value="{{ site.url }}/canceled/" name="cancel_return" />
+
+  {% comment %} Business identification {% endcomment %}
+  <input type="hidden" name="business" value="{{ site.paypal_email }}" />
+
+  {% comment %} What type of button
+   https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/#id08A6HF00TZS
+  {% endcomment %}
+  <input type="hidden" name="cmd" value="_xclick-subscriptions">
+
+  {% comment %} what are we selling
+<!--  if book_latest %} beginning with {{ book_latest  }}{% endif %} -->
+   {% endcomment %}
+
+  <input type="hidden" id="item_name" name="item_name" value="{{ name }}: {{ plan1 }}" />
+
+
+
+
+  <input type="hidden" name="item_number" value="febc_{{ forloop.index }}" />
+
+  {% comment %} no note. "For Subscribe buttons, always set no_note to 1." {% endcomment %}
+  <input type="hidden" name="no_note" value="1" />
+
+  {% comment %} Require an address {% endcomment %}
+
+
+  <input type="hidden" name="no_shipping" value="1" id="shipping_charge" />
+
+
+  {% comment %}
+    Recurring Payments variables https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/#id08A6HI00JQU
+    also:
+    https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/subscribe_buttons/#id08ADFK00KJZ
+  {% endcomment %}
+  <input type="hidden" name="currency_code" value="USD">
+
+  {% if p3_duration %}
+    <input type="hidden" name="p3" value="{{ p3_duration }}">
+  {% endif %}
+  {% if t3_duration_unit %}
+    <input type="hidden" name="t3" value="{{ t3_duration_unit }}">
+  {% endif %}
+
+  {% comment %} subscription payments recur {% endcomment %}
+  <input type="hidden" name="src" value="1">
+
+  {% comment %}
+    Recurring times. Number of times that subscription payments recur. Specify an integer with a minimum value of 2 and a maximum value of 52. Valid only if you specify src="1". IF YOU DON't Specify, the subscription will continue until canceled.
+  {% endcomment %}
+
+  {% comment %}
+     if subscription_recurring_time %}
+      <input type="hidden" name="srt" value="{{ subscription_recurring_time }}">
+     endif %}
+   {% endcomment %}
+
+  <p>
+  	To subscribe to our SFE program, just make your choices below and then hit the Subscribe button.
+  </p>
+
+  <p class="row__clear">
+  	<small style="color: #000;">
+      Choose a subscription for either a Pickup Plan (29.00/month) or a Delivery Plan (36.00/month) by selecting a button below.
+    </small>
+  </p>
+
+  <div class="button-group row__clear">
+
+  	<label>
+  		 <input type="radio" name="a3" value="{{ a3_subscription_price_plan1 }}" id="pick-up" checked>
+  		 <span class="button-group-item">{{ plan1 }}</span>
+  	 </label>
+  	 <label>
+   		 <input type="radio" name="a3" value="{{ a3_subscription_price_plan2 }}" id="ship">
+   		 <span class="button-group-item">{{ plan2 }}</span>
+   	 </label>
+  </div>
+
+  <p class="row__clear">
+  	<small style="color: #000;">Now, choose how long you'd like to subscribe for yourself (or as a gift) by selecting one of the button options below.</small>
+  </p>
+
+   <div class="button-group row__clear">
+     <label>
+       <input type="radio" name="srt" value="" checked>
+       <span class="button-group-item">Ongoing</span>
+     </label>
+  	 <label>
+       <input type="radio" name="srt" value="12">
+       <span class="button-group-item">12 Months</span>
+     </label>
+     <label>
+       <input type="radio" name="srt" value="6">
+       <span class="button-group-item">6 Months</span>
+     </label>
+  	 <label>
+       <input type="radio" name="srt" value="3">
+       <span class="button-group-item">3 Months</span>
+     </label>
+
+   </div>
+
+  <br />
+
+
+  {% comment %} allows subscribers to sign up for new subscriptions and modify their current subscriptions {% endcomment %}
+  <input type="hidden" name="modify" value="1">
+
+
+
+
+
+
+
+
+
+
+
+
+  <button type="submit" href="javascript: submitform()" class="button button-list">
+  Subscribe
+  	<!-- {{ name }} - ${{ total_price }} -->
+  </button>
+
+
+</form>
+<p style="margin-top:2em;">
+	<small>
+    You can cancel at any time, by clicking <a href="/sfe-cancelation/">here</a>.
+  </small>
+</p>

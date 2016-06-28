@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Feelings Can Be Rough
 date: '2015-03-30T09:30:00.000-04:00'
 author: Amy

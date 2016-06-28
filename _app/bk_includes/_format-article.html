@@ -1,0 +1,67 @@
+<div class="entry-content">
+  {% if page.image_path and page.image_path != '' %}
+    <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
+  {% endif %}
+
+  {% if page.lede %}
+    <div class="lede">
+      {{ page.lede |markdownify }}
+    </div>
+  {% endif %}
+
+  {% if page.show_featured_image_in_post and page.show_featured_image_in_post == true %}
+    <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;margin:bottom:2em;" />
+  {% endif %}
+
+
+  {% if page.content %}
+    <div class="items">
+      <div class="item">
+        {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
+        {{ content }}
+      </div>
+    </div>
+  {% endif %}
+
+  {% comment %}
+    if page.include
+      include {{ page.include }}
+    endif
+
+   {% endcomment %}
+
+
+  {% if page.include == 'ecommerce/febc-landing.html' %}
+     {% include ecommerce/febc-landing.html %}
+  {% endif %}
+
+
+  {% if page.include == 'ecommerce/febc-landing-snipcart.html' %}
+     {% include ecommerce/febc-landing-snipcart.html %}
+  {% endif %}
+
+
+  {% if page.include == 'events/list-future.html' %}
+     {% include events/list-future.html %}
+  {% endif %}
+
+  {% if page.include == 'list-blog-posts.html' %}
+     {% include list-blog-posts.html %}
+  {% endif %}
+
+  {% if page.books and page.books[0] !='' %}
+    {% include _format-list-books.html %}
+  {% endif %}
+
+  {% if page.category %}
+    <div class="cards">
+      {% for object in category_posts %}
+        {% include  _format-blog-posts.html %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>
+
+<div class="row">
+  {% include form-constant-contact.html %}
+</div>

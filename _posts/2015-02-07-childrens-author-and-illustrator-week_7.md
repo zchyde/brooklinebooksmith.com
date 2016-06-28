@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Children''s Author and Illustrator Week: Exciting New 2015 Books'
 date: '2015-02-07T20:45:00.000-05:00'
 author: Amy

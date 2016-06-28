@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kidsmith Insurgent poster giveaway!
 date: '2015-03-16T09:00:00.000-04:00'
 author: Amy

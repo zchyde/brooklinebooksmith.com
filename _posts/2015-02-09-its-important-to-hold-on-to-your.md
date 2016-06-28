@@ -1,5 +1,4 @@
 ---
-layout: post
 title: It's Important to Hold on to Your Imagination...or Delusions, either works.
 date: '2015-02-09T08:30:00.000-05:00'
 author: Amy

@@ -1,0 +1,16 @@
+<nav class="js-menu sliding-panel-content">
+  <ul>
+    <li  class="nav-link{# {% if getCurrentUrl() == url(link.page) %} active{% endif %} #}">
+      <a href="/">
+        home
+      </a>
+    </li>
+    {% include global/navigation-links-mobile.html %}
+    <div style="padding:.5em;">
+      {% comment %}
+        {% include "templates/partials/form-search.html" %}
+      {% endcomment %}
+    </div>
+  </ul>
+</nav>
+<div class="js-menu-screen sliding-panel-fade-screen"></div>

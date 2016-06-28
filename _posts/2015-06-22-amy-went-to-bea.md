@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Amy Went to BEA!
 date: '2015-06-22T10:30:00.000-04:00'
 author: Amy

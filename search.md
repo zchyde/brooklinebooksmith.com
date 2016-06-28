@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-single
 title: Search our Shop
 include: _form-search-aba.html
 ---

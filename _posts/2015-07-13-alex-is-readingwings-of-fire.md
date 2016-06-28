@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alex Is Reading...WINGS OF FIRE
 date: '2015-07-13T10:30:00.000-04:00'
 author: Alex S

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ALA Youth Media Awards
 date: '2015-02-03T13:00:00.000-05:00'
 author: Amy

@@ -58,6 +58,7 @@ incremental: true
 # full_rebuild: false
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 env: development
 sitename: brookline booksmith
 timezone: Etc/Zulu
@@ -116,37 +117,37 @@ defaults:
       path: ''
       type: pages
     values:
-      layout: page
+      layout: page-single
   - scope:
       path: ''
       type: posts
     values:
-      layout: post
+      layout: page-single
   - scope:
       path: ''
       type: events
     values:
-      layout: event
+      layout: page-single
   - scope:
       path: ''
       type: first-edition-books
     values:
-      layout: book
+      layout: page-single
   - scope:
       path: ''
       type: landing_pages
     values:
-      layout: page
+      layout: page-single
   - scope:
       path: ''
       type: programs
     values:
-      layout: page
+      layout: page-single
   - scope:
       path: ''
       type: staff
     values:
-      layout: page
+      layout: page-single
   - scope:
       path: '_landing_pages/home.md'
     values:
