@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-20T16:30:00.000Z
 description: 'Famed bestselling author donates nearly $400,000 for preservation of priceless arcane manuscripts.'
-featured_image_path: /alchemical_cosmos-1.jpg
+featured_image_path: /uploads/alchemical_cosmos-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

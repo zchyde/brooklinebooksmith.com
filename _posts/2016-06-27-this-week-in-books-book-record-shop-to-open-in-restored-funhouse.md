@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-27T15:30:00.000Z
 description: Renowned eccentric Wild Bill to set up shop inside former carnival attraction.
-featured_image_path: /funhouse-l.jpg
+featured_image_path: /uploads/funhouse-l.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
