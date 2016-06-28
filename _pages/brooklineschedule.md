@@ -1,5 +1,6 @@
 ---
 title: Brookline Booksmith Schedule
+permalink: /schedules/brooklineschedule.htm
 ---
 
 Note: Effective November 30, 2015, the new URL for this document will be <http://www.booksmithfiles.no-ip.orgSchedules/BrooklineSchedule.htm>
