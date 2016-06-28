@@ -1,0 +1,12 @@
+---
+published: false
+title: Laugh Your Ass Off
+date: '2010-04-04T21:29:00.002-04:00'
+author: dana brigham
+tags: 
+modified_datetime: '2010-04-04T21:54:38.877-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5964815195682596169
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/04/laugh-your-ass-off.html
+---
+
+That's what Erik, one of our stellar booksellers, mentioned in his Friday evening introduction for Christopher Moore.  Some 200 strong packed our downstairs Writers and Readers Room for his reading from his new novel, Bite Me.  Erik was referring to our comedic line up for the next couple of weeks.  Following Mr. Moore are Chelsea Handler, Sarah Silverman,  and David Sedaris (at Symphony Hall).  If I knew how to do the link thing, I'd do it.  But until I learn it, go to our website and check out our events schedule - brooklinebooksmith.com - which, if you are reading this, you probably already know.<div><br /></div><div>I'm something of the historian in our blogger group having been at the store the longest.  So the Laugh Your Ass off thing amuses me no end.   Here we are, a 49 year old indie bookstore with creaky wooden floors and old-ish bookcases and even older-ish lighting (we do plan to upgrade that soon) hosting several of the most current of hip, hilarious authors.  And they are media personalities, too.  I mean, we could almost be on reality TV (Laugh Your Ass Off?)  Or have our own video game (  Bookstore Wars?).  In fact, we should probably REALLY think about one or both.  As a group we are REALLY funny.  </div><div><br /></div><div>So my historical point here is that we like to combine the best of what has made us relevant and au courant all along with the best of the new.  Besides the celebrities, we also host amazing authors of every genre and subject and style.  And that is only part of what we do at Booksmith.  We are a veritable beehive of activity and selection and style and personality.</div><div><br /></div><div>The flower boxes in front have new plantings in bloom, the dog water bowls are out, the Red Sox are playing, the Marathon is in a couple of weeks.  Maybe Butler can even beat Duke, who knows??    It's spring, the season of renewal and growth and sunshine.   Come by and visit us!</div>

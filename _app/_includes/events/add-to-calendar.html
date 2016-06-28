@@ -1,0 +1,16 @@
+<div title="Add to Calendar" class="addeventatc">
+    Add to Calendar
+    <span class="start">
+      {{ event.start_at | date: "%m/%d/%Y %r" }}
+    </span>
+    <span class="end">{{ event.start_at | date: "%m/%d/%Y %r" }}</span>
+    <span class="timezone">America/New_York</span>
+    <span class="title">{{ event_title }}</span>
+    <span class="description">{{ event.content | markdownify | strip_html | truncatewords: 90, '…' }}</span>
+    <span class="location">{{ site.address }}</span>
+    <span class="organizer">{{ site.sitename }}</span>
+    <span class="organizer_email">thestore@brooklinebooksmith.com</span>
+    {% comment %} <span class="facebook_event">https://www.facebook.com/events/703782616363133</span> {% endcomment %}
+    <span class="all_day_event">false</span>
+    <span class="date_format">MM/DD/YYYY</span>
+</div>

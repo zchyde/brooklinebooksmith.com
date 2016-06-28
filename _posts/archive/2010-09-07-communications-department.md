@@ -1,0 +1,13 @@
+---
+published: false
+title: The communications department.
+date: '2010-09-07T09:39:00.005-04:00'
+author: Paul Theriault
+tags:
+- phones all up in our faces
+modified_datetime: '2010-09-07T10:33:22.378-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6997538476195840616
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/09/communications-department.html
+---
+
+I've cultivated my forgiveness and tolerance in the face of it.<br />I can't really change it anyway, without making what might appear to be intrusive efforts.<br />I've had some success in wrestling my mind into a postition from which it seems to be just a new facet of human nature; perhaps the technological evolution has fostered, and is finally revealing, a hitherto hidden part of our special human makeup.<br /><br />Because I don't think it's likely that very many of our ancestors would walk into a quiet hall, or cave, and chatter away to an absent person at full volume, for more than ten or fifteen minutes, oblivious to the dozen other occupants who are holding their silence all the while.<br />Besides the obvious problem with it, it just wouldn't have been safe.<br /><br />So somewhere humans are getting the idea that we can turn off our perceptions and move about freely in the world, in the full expectation that things will fall into place for us just before we get there.  I don't agree, but here I am at the register, and there you are standing ten feet away, telling your phone that you shouldn't be talking in the store anyway, and you're about to get in line, so we need to finish this up.  But you really need to talk about next week's lunch date, and you need to give a half-hearted pep talk about that promotion.  And before you know it you aren't waiting to get in line, you are on your way out of the store, and if someone out there gently but firmly removed your phone from your ear at that moment and put a few questions to you about your super-recent past, I have serious doubts as to whether you would remember me at all, or the ill-fitting grey suit that I might very well have been wearing, or the fact that I was trying out my impression of  Rowan Atkinson as Mr. Bean during the entire transaction, or the fact that I had put twelve cloves of garlic in your bag along with the book, dropping them in one at a time with dramatic flourishes, counting them off like I were Mr. Bean silently imitating The Count on Sesame Street. <br /><br />Because you didn't laugh, in fact you hardly even looked at me, and I worried that  maybe I wasn't being funny.  But then I thought, no, no, I'm actually really very funny.

@@ -1,0 +1,127 @@
+// ------------------------------------------------------------
+// SIDEBAR MODULE - MOBILE FIRST
+// ------------------------------------------------------------
+
+// =============== VARIABLES ===============
+// See base/_variables
+
+// =============== LEFT SIDEBAR ===============
+
+
+
+
+
+@if $include-sidebar-left != false {
+  body.home .content, body.home .footer-2 {
+    //padding: 4em;
+    //margin-top: $navigation-height;
+    min-width: 0;
+    margin-left: 0; //mobile first, nav stays on top
+    @include media($sidebar-left-breakpoint) {
+  ///      min-width: $b-vp; // TODO: change this to more stable variable
+      margin-left:  $sidebar-width; // on larger screens, push out content to make way for sidebar
+      width: 100% - $sidebar-width;
+    }
+  }
+  body.home .sidebar-left {
+
+
+  $sidebar-background-top: #000;
+  $sidebar-background-bottom: #fff;
+  $sidebar-color: white;
+  $gradient-angle: 90deg;
+  //$sidebar-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  //$sidebar-image:'https://images.unsplash.com/uploads/1413498852637ad9a7e80/1569fece?q=80&fm=jpg&s=9d83b5a1447b7855ac9973a5ca450a99';
+  $sidebar-image:'https://storage.googleapis.com/www.brooklinebooksmith.com/webhook-uploads/1442680319832_brookline-map-361x900.png';
+
+  @include background(url($sidebar-image), linear-gradient($gradient-angle, $sidebar-background-bottom, $sidebar-background-top), no-repeat $sidebar-background-top scroll);
+
+
+
+
+
+    overflow: visible;
+    background-image: url($sidebar-image);
+    width: 100%; //mobile first, sidebar spans top of screen
+    height: 10em;
+    margin-top: 0;//$navigation-height;
+    position: static;
+    background-position: 14% top;
+    background-size: cover;
+    text-align: center;
+    padding: $sidebar-padding-top 0 $sidebar-padding-bottom 0;
+    background-color: $sidebar-color-background;
+    background-repeat: no-repeat;
+    //margin-top: $sidebar-margin-top;
+    color: $sidebar-color;
+    //display: none;
+
+    @include media($breakpoint) {
+      width: $sidebar-width; // larger screens show the sidebar at this width
+      height: 100%;
+      position: fixed;
+      display: block;
+      top: 0;//$navigation-height;
+      left: 0;
+      overflow-y: hidden;
+      //margin-top: $navigation-height;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}
+@else { // ELSE, if not showing the left sidebar, hide it in case it's called in templates
+  .sidebar-left {
+      display:none;
+  }
+}
+
+// =============== RIGHT SIDEBAR ===============
+@if $include-sidebar-right != false {
+
+.content {
+  margin-right: 0;
+  @include media($sidebar-right-breakpoint) {
+      margin-right:  $sidebar-right-width;
+  }
+}
+.sidebar-right {
+
+  clear: both;
+    overflow: hidden;
+    z-index: 1000;
+    width: 100%;
+    height: auto;
+    position: static;
+    text-align: left;
+    padding: 2em 7em 4em 2em;
+    background-color: #f9f9f9;//$sidebar-right-color-background;
+    color: $sidebar-right-color;
+
+    @include media($sidebar-right-breakpoint) {
+      padding: 2em 3em;
+
+    }
+    @include media($sidebar-left-breakpoint, $sidebar-right-breakpoint) {
+
+      @if $include-sidebar-left != false {
+          margin-left: $sidebar-width;
+          width: 100% - $sidebar-width;
+      }
+    }
+    @include media($sidebar-right-breakpoint) {
+      width: $sidebar-right-width;
+      height: 100%;
+      position: fixed;
+      top: 0;
+      right: 0;
+      overflow-y: scroll;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}
+
+@else {
+  .sidebar-right {
+      display:none;
+  }
+}

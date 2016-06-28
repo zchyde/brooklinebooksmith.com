@@ -1,0 +1,15 @@
+---
+published: false
+title: This One Goes Out To...
+date: '2007-11-15T12:20:00.000-05:00'
+author: Lori
+tags:
+- Not Fiction
+- Coming Soon
+- Fiction
+modified_datetime: '2007-11-15T14:29:38.220-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1283206287196902664
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/11/this-one-goes-out-to.html
+---
+
+I'm back! Hi!<br /><br />Every Monday I get an email from the folks at <a href="http://www.publishersmarketplace.com/">Publisher's Marketplace </a>with significant and/or interesting book deals from the week before. I've been behind on my email and only got to my weekly deals today, where I found one that sounds so cool that I wanted to share it with you. It's for a book called <strong><em>Once Again to Zelda</em></strong> by Marlene Wagman-Geller and it "tells the story behind the dedications of classic novels (think <em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780141441146">Jane Eyre</a></em>, <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780140449242"><em>The Brother's Karamazov</em> </a>and <em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780679722632">The Thin Man</a></em>) and reveals who the author dedicated the book to and why, shedding light on the author's psyche as well as his/her historical era."<br /><br />A couple things that let you know a bit more about me:<br /><ul><li>I read the acknowledgements in a book first, even if they're at the back. (The bummer of galleys is that the dedication and acknowledgements are usually still to come. Sometimes I actually find myself thinking that I should remember to check out the acknowledgements when the finished book arrives...) </li><li>Sometimes I wonder if part of my wanting to be a research librarian was so that I could be listed in acknowledgements, too.</li></ul><p>My current favorite dedication is "To Ayelet, bashert," the simple opening to Michael Chabon's <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780007149827">The Yiddish Policemen's Union</a></em></strong>. If you don't know, bashert is a Yiddish term, one that means fate, or destiny. Your bashert is your soul mate, or the person you were meant to be with. In and of itself this is lovely, but it seems an especially apt introduction to the world Chabon creates in his book. The gravy, however, is knowing that the Ayelet referred to is Mr. Chabon's wife, Ayelet Waldman, who has written about the idea of bashert in <em>her</em> novel <em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9781400095131">Love and Other Impossible Pursuits</a></em> (not to mention the infamous writing she's done about their relationship, such as <a href="http://www.ayeletwaldman.com/truly.html">this article</a>). </p><p>Do you have a favorite dedication or know of an author's acknowledgements that deserve their own chapter? </p>

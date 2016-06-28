@@ -1,0 +1,12 @@
+---
+published: true
+title: I have got to lay off the Hanukkah gelt before bedtime.
+date: '2012-12-03T09:52:00.003-05:00'
+author: Shoshana
+tags: 
+modified_datetime: '2012-12-03T09:53:59.841-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-298134126288870978
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/i-have-got-to-lay-off-hanukkah-gelt.html
+---
+
+I dream about holiday books these days. Visions of shiny covers dance in my head as my subconscious mulls over what's worthy of facing out, what should be shrink-wrapped, and how we can magically expand our overstock space. A few nights ago, my dreams turned darker. I dreamed that a friend (who would never do this in real life) reprimanded me for not knowing the Christmas books well enough.<br /><br />Well, here at the Booksmith, we have a wise, experienced staff member known among the staff as Bacon. (This story would be better if my last name were Latke or something.) The next day, I told Bacon of my dream. Her response: "You <i>do</i>&nbsp;know the Christmas books. Something goes wrong, and it looks like Christmas is ruined, and then... Christmas miracle! Everything's okay! And then they all eat Christmas dinner."<br /><br />I mulled this over and realized that actually, that sounded like a lot of my native Hanukkah books.<br /><br />And then I realized something bigger than the books celebrating Caillou's and Dora's and Olivia's Yuletides and Curious George's Hanukkah.&nbsp;Our holidays come from different parts of our religious and cultural histories. but beyond the focuses of the holidays themselves, there's the spirit of holiday-time. Even if our towns are beset by Hanukkah goblins, even if a Grinch steals our roast beasts, there's a spirit within us that lets us turn our holidays into special times to share with the people we care about. The Jewish greeting for most holidays is "chag sameach," which literally means "happy holiday." The idea that a certain time in the calendar is different, that it <i>feels</i>&nbsp;different, is in some ways more important than the original reason for the holiday.<br /><br />Happy holiday(s), and may you find the stories to make your celebrations meaningful. (Please. Before I start dreaming of collapsing shelves.)

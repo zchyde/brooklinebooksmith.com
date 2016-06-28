@@ -1,0 +1,68 @@
+---
+layout: compress
+---
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"  lang="en"> <!--<![endif]-->
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+      {% if site.production == true and page.sitemap != false and jekyll.environment == 'production' %}
+        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+      {% else %}
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      {% endif %}
+
+      <meta name="HandheldFriendly" content="True">
+      <meta name="MobileOptimized" content="320">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+      <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape | remove: '*' }} - {% endif %} {{site.sitename}}</title>
+      {% if page.url %}
+        <link rel="canonical" href="{{site.url}}" />
+      {% endif %}
+
+        <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
+
+      {% include global/icons.html %}
+
+
+      <!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.min.js"></script>
+        <script src="/assets/js/respond.min.js"></script>
+      <![endif]-->
+
+      <!--[if lte IE 7]>
+        <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
+      <![endif]-->
+
+    {% if jekyll.environment == "production" %}
+          {% include global/analytics.html %}
+        {% endif %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@booksmithtweets" />
+     {% include head-css.css %}
+
+     
+
+</head>
+  <body  id="container" class="{{ page.style }}{% if page.class %} {{ page.class }}{% endif %} {{page.url | replace: '/', '' }} {{ jekyll.environment }}">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    {% comment %} TODO: FIX: this may need change to layout.include_hero {% endcomment %}
+    {% if page.include_hero == false OR layout.include_hero == false %}
+      {% include global/navigation.html %}
+    {% else %}
+      {% include hero.html %}
+    {% endif %}
+    <section id="main" class="content">
+      <div id="start-of-content" class="accessibility-aid"></div>
+      {{content}}
+    </section>
+    {% include global/footer.html %}
+    {% include global/navigation-mobile.html %}
+    {% include global/scripts.html %}
+  </body>
+</html>

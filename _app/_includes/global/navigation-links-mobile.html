@@ -1,0 +1,20 @@
+{% for link in site.data.navigation %}
+  {% if link.name %}
+    <li class="nav-link">
+      <a href="{{site.baseurl}}{{link.link}}" class="nav-link{% if link.link contains page.url %} active{% endif %}">
+        {{ link.name }}
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
+{% for link in site.data.navigation-more %}
+  {% if link.name %}
+    <li>
+      <a href="{{link.link}}">
+        {{ link.name }}
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
+
+

@@ -1,0 +1,64 @@
+.layout {
+  @include outer-container;
+  aside {
+    @include span-columns(5);
+  }
+  article {
+    @include span-columns(9);
+  }
+  section {
+    @include span-columns(7);
+  }
+}
+
+@mixin layout_two_column {
+  overflow: hidden;
+  header {
+    @include span-columns(12 of 12);
+  }
+  aside {
+    @include span-columns(12 of 12);
+  }
+  article {
+    @include span-columns(12 of 12);
+    max-width: 100%;
+  }
+  @include media($lg-up) {
+    aside {
+      @include span-columns(4 of 12);
+      @include omega();
+      //@include shift(8);
+    }
+    article {
+      @include span-columns(8 of 12);
+      //@include shift(-12);
+      //@include omega();
+    }
+  }
+}
+
+@mixin layout_two_column_wide {
+  overflow: hidden;
+  header {
+    @include span-columns(12 of 12);
+  }
+  aside {
+    @include span-columns(12 of 12);
+  }
+  article {
+    @include span-columns(12 of 12);
+    max-width: 100%;
+  }
+  @include media($lg-up) {
+    aside {
+      @include span-columns(5 of 12);
+      @include omega();
+      //@include shift(8);
+    }
+    article {
+      @include span-columns(7 of 12);
+      //@include shift(-12);
+      //@include omega();
+    }
+  }
+}

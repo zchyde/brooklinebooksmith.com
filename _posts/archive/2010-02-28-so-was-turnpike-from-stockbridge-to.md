@@ -1,0 +1,12 @@
+---
+published: false
+title: So was the Turnpike from Stockbridge to Boston
+date: '2010-02-28T16:07:00.003-05:00'
+author: dana brigham
+tags: 
+modified_datetime: '2010-02-28T16:36:49.328-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2908501638887653921
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/02/so-was-turnpike-from-stockbridge-to.html
+---
+
+Are you humming with me and James Taylor yet?  And yes, the Berkshires looked dreamlike on account of that frosting (may have just mangled lyrics a bit - if so, sorry).  How does that relate to life at Booksmith, you might ask.  My daughter, who is 26 and was born during the time I've been working at the store, is marrying a great fellow who grew up  and whose family all still lives in the Stockbridge area.   There was a big party for them out there last eve to pre-celebrate their Sept. wedding.  Lots of fun was had by all complete with slide show of the couple from birth to now.  Okay, so you're still wondering - books??<div><br /></div><div>This a.m. we went to a crafts show at which I stumbled upon a woman who makes purses out of old hardcover books.  I've seen birdhouses and other things made of  books but never something as clever as this.  It's really the covers and spine of the book with pages removed and beautiful fabric lining installed.  Add imaginative materials for straps/handles, some antique buttons and findings and you have a real conversation piece that is perfectly functional, as well.  The designs range from fun and  humorous to very elegant.  She had an assortment of "titles" on display -  a slim blue and yellow edition of The Lion, The Witch and The Wardrobe,  a chunky, rust-colored volume of Roberts Rules of Order, and a Louisa May Alcott title I've already forgotten - to name a few.  And, she welcomes special orders.  Find an old copy of a book you love or create a gift for someone of a special title.   I'm sure the artist could do something for a guy, too.</div><div><br /></div><div>Somehow this little art form resonated with me as the buzz about the fate of the physical book continues as does the necessity to reuse and repurpose.   I'm not advocating for the destruction of cherished volumes,  mind you, but if you are cleaning out Grandma's attic or flea marketing, keep this idea in mind.</div><div><br /></div><div>Here is the website for the artist:  novelideabookpurses.webs.com</div>

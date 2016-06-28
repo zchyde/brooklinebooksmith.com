@@ -1,0 +1,40 @@
+
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-size: modular-scale(6 - $i, $ratio: $major-third);
+  }
+  @include media($lg-m) {
+    h#{$i} {
+      font-size: modular-scale(6 - $i);
+    }
+  }
+}
+
+
+//small screen
+.layout-grid h1, article h1, article h2, article h3 {
+  margin-top: $small-spacing * 2;
+}
+.layout-grid h1:first-of-type, article h1:first-of-type, article h2:first-of-type, article h3:first-of-type {
+     margin-top: $small-spacing;
+  @include media($lg-m) {
+   margin-top: $small-spacing;
+  }
+}
+
+.blocked, h4.blocked {
+  font-size: 1.375rem;
+  color:darken($base-background-color, 65%);//#111;//#9c9c9c;
+  //background-color:#e6e6e6;
+  padding:.25em .5em;
+  width: 100%;
+  border-bottom: 4px solid darken($base-background-color, 8%);
+}
+
+
+.section-title {
+  color:#111;//#9c9c9c;
+  padding-top:1em;
+}
+
+

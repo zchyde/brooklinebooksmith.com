@@ -1,0 +1,14 @@
+---
+published: false
+title: Boston Globe Summer Reads
+date: '2007-06-18T16:51:00.000-04:00'
+author: Lori
+tags:
+- Fiction
+modified_datetime: '2008-12-08T23:04:00.983-05:00'
+thumbnail: http://2.bp.blogspot.com/_zqgb4FOCazQ/Rnby9f4YXPI/AAAAAAAAAB4/wXALutihwyI/s72-c/family.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9114315946853084973
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/06/boston-globe-summer-reads.html
+---
+
+<a href="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rnby9f4YXPI/AAAAAAAAAB4/wXALutihwyI/s1600-h/family.jpg"><img id="BLOGGER_PHOTO_ID_5077512768250731762" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="http://2.bp.blogspot.com/_zqgb4FOCazQ/Rnby9f4YXPI/AAAAAAAAAB4/wXALutihwyI/s400/family.jpg" border="0" /></a><br /><div><a href="http://www.ellensteinbaum.com/">Ellen Steinbaum</a>, who writes a regular column for the <em><a href="http://www.boston.com/">Boston Globe</a></em>, was kind enough to include me in her most recent piece -- a round-up of summer reads by authors native to Boston. You can read the whole article <a href="http://www.boston.com/ae/books/articles/2007/06/17/great_summer_expectations/">here</a>, but here's my recommendation:</div><br /><div></div><div>"Laurie Horowitz was raised in the Boston area and her book <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&isbn=9780060875275">'The Family Fortune,'</a> about a Brahmin family, is set in and around the city. Horowitz knows to borrow from the best; her story is based loosely on Jane Austen's 'Persuasion.' I'm not going to pretend that this is a similar classic for the centuries, but it is just right for reading in the shade with a cold raspberry lime rickey.</div><br /><div>"It is the story of Jane Fortune, editor of the literary Euphemia Review, who was persuaded when she was young to give up on her love for a promising (now best-selling) author. </div><div><br />"Single and 38, she has lived with her father and older sister in their Beacon Hill home until living beyond their means forces the family to rent it out. As Jane attempts to help her family regain their equilibrium, she is both reunited with her first love and enthralled by a new promising young writer.</div><br /><div>"In a blurb I wrote for a staff recommendation I noted that, unlike so many chick-lit (shall we call it popular fiction?) characters who are notable primarily for their shopping skills and dumb luck, it is truly refreshing to find someone like Jane, a character worthy of being called a heroine."</div><div> </div><div></div><div>What are you looking forward to reading this summer? </div>

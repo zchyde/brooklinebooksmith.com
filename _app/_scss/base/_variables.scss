@@ -1,0 +1,150 @@
+// Typography
+$lato:'Lato';
+$base-font-family: $lato, $helvetica;
+//$heading-font-family: 'Chronica W03 Book',$base-font-family;
+
+$brand-font-family: 'Chronica W03 Black', $base-font-family;
+$heading-font-family: $brand-font-family;
+
+
+
+
+// Font Sizes
+$base-font-size: 1em;
+$paragraph-font-size: 1.125rem;
+
+// Line height
+$base-line-height: 1.6;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1rem;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$black: #111;
+$blue: #3C5A79;
+$blue-dark: #2F353E;
+$blue-light: #4C8DB6;
+$blue-lighter:#00557F;
+$dark-gray: #555;
+$medium-gray: #555;
+$light-gray: #ddd;
+$lighter-gray: #f6f6f6;
+$lightest-gray: #fefefe;
+$brand-background-color:$blue-dark;
+$brown-dark:#38311C;
+$color-1:#47817A;
+$color-2:#DEC26E;
+$color-3:#E76B11;
+$color-4:#981C41;
+$color-5:#FAA73F;
+$color-6:#FFCC62;
+
+
+// Font Colors
+$base-font-color: $medium-gray;
+$heading-font-color: $dark-gray;
+$action-color: $color-4;//$blue-light;
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Background Colors
+$base-background-color: #f6f6f6;//#fafafa; //#fcfcfc
+$secondary-background-color: tint($base-border-color, 75%);
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+// Animations
+$base-duration: 150ms;
+$base-timing: ease;
+
+$breakpoint: $lg-up;
+$z-index-top: 1000000;
+
+
+
+
+$hero-color: white;
+
+
+$search-bar-background: transparentize(white, .95);//$navigation-background;
+$navigation-padding: 1em;
+$navigation-background:$blue-dark;//$blue-lighter;//$blue-dark;//$brand-background-color;//$dark-gray;
+$navigation-color:white;//$blue-lighter;//transparentize(white, 0.3);
+$navigation-color-hover:darken($navigation-color,10%);// $blue-lighter;//white;
+$navigation-height: 112px;
+$navigation-nav-button-background: $action-color;
+$navigation-nav-button-background-hover: lighten($navigation-background, 10%);
+$navigation-nav-button-border: 1px solid lighten($navigation-nav-button-background, 20%);
+$navigation-search-background: $search-bar-background;//lighten($navigation-background, 5);
+$navigation-search-border: 1px solid darken($navigation-background, 5);
+$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-submenu-padding: 1em;
+$navigation-submenu-width: 12em;
+$horizontal-bar-mode: $breakpoint;
+
+
+
+$search-bar-border-color: $navigation-background;//$base-border-color;
+$search-bar-border: 1px solid $search-bar-border-color;
+
+
+
+
+// NAV SIDEBAR
+
+
+$include-sidebar-right: false;
+$include-sidebar-left: false;
+//These must be in % values to calculate widths
+$sidebar-width-home: 40.5%;
+$sidebar-width: 14%;
+$sidebar-right-width: 20%;
+$sidebar-left-breakpoint: $breakpoint;
+$sidebar-right-breakpoint: $breakpoint;
+
+$sidebar-color-background:darken($base-background-color, 4%);//#f6f6f6;//$nyu-gray-dark;// #f6f6f6;//transparentize(#f2f2f2, 0.5);//$navigation-background;
+$sidebar-top-color-background: $blue-lighter;
+$sidebar-bottom-color-background: $sidebar-color-background;
+$sidebar-color: $light-gray;
+
+$sidebar-right-color-background: transparent;//#000;
+$sidebar-right-color: #555;
+$sidebar-margin-top:0;//$navigation-height;// $centered-navigation-height;
+$sidebar-padding-top:1em;//$navigation-height + 2em;// $centered-navigation-height;
+$sidebar-padding-bottom:1em;//$navigation-height + 2em;// $centered-navigation-height;
+
+
+
+
+$sliding-panel-background: $blue-dark;//lighten($sliding-panel-border-color, 5%);
+$sliding-panel-border-color: darken($sliding-panel-background, 3%);
+$sliding-panel-color: #ddd;
+$sliding-panel-border: 1px solid $sliding-panel-border-color;
+$sliding-panel-background-hover: lighten($sliding-panel-background, 10%);
+$sliding-panel-color-hover: #fff;
+$sliding-panel-background-focus: lighten($sliding-panel-background, 5%);
+
+
+$footer-background: #f6f6f6;//$blue;//desaturate(darken($action-color, 20%), 30%);
+$footer-color: black;
+$footer-link-color: transparentize($footer-color, 0.6);
+$footer-disclaimer-color: transparentize($footer-color, 0.6);
+
+
+// CARDS
+$card-border-color: $base-border-color;
+$card-border: 1px solid $card-border-color;
+$card-background: white;//lighten($card-border-color, 10%);
+$card-header-background: $card-background;
+$card-margin: 1em;
+$card-image-hover-opacity: 0.7;
+$card-image-hover-color: #F8F2B4;
+$card-footer-height: 3.5em;

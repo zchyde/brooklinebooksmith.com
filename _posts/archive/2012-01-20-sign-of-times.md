@@ -1,0 +1,14 @@
+---
+published: true
+title: Sign of the Times
+date: '2012-01-20T12:30:00.000-05:00'
+author: Natasha
+tags:
+- used books
+modified_datetime: '2012-01-20T12:30:02.273-05:00'
+thumbnail: http://3.bp.blogspot.com/-TJ9Aos1W2Z0/TxMH9uA2III/AAAAAAAAASI/HSTOX7flxxU/s72-c/signing.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2264292166596707890
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/sign-of-times.html
+---
+
+Many moons ago, before I even worked at the Booksmith, I came here regularly to unload my books in the UBC. I'm from a smallish town in the Northwest, so when I came into the store with a book SIGNED by the author, I thought Carl, the buyer at the time (and now my colleague!) would be so IMPRESSED, so EXCITED, that he would buy the book and put it in a special glass case for all to marvel upon. My fantasy was short lived as I pointed out the book was signed to him and he simply shrugged.<br /><br />How could he not care that the author who wrote this book ALSO SIGNED HIS NAME IN IT?! Now that I've been around for a bit, I've come to understand that it was because 1) there are a lot of authors in the area, and a lot of signings, so signed books ain't so rare and 2) not all authors are created equal (story of my LIFE), and the only authors whose signatures are worth $$$ are sadly but-a-handful.<br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-TJ9Aos1W2Z0/TxMH9uA2III/AAAAAAAAASI/HSTOX7flxxU/s1600/signing.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="162" src="http://3.bp.blogspot.com/-TJ9Aos1W2Z0/TxMH9uA2III/AAAAAAAAASI/HSTOX7flxxU/s320/signing.jpg" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">cartoon by Andrew Weldon</td></tr></tbody></table>I'd say that the mission of the Used Book Cellar is to contain books you want to read, or will want to once you see them because they are weird and/or unique, and at a good price. We're a general-interest kind of shop, no super-academic books, no ultra-rare and expensive things. We're more about reading and less about making a museum to the book object. So we pass on a lot of antiquarian, rare books that may be worth a lot because we're more interested in carrying books for readers. <b>If you have a signed book, we might take it because we think it will sell, but unfortunately only in extremely rare cases will an autograph affect the book's value.</b> We get more offers from people who want to <i>sell </i>us signed books than we get requests for people who want to <i>buy </i>signed books. It's basically just a supply-and-demand thing. Nothing personal!

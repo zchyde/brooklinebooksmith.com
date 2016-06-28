@@ -1,0 +1,12 @@
+---
+title: 'Hustling Hitler: The Jewish Vaudevillian Who Fooled the Fuhrer'
+isbn: '9780399161476'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/476/161/9780399161476.jpg'
+---
+
+
+From acclaimed journalist Walter Shapiro, the true life story of how his great-uncle a Jewish vaudeville impresario and exuberant con man managed to cheat Hitler's agents in the run-up to WWII.&nbsp;
+<br>Vaudeville manager, boxing promoter, stock swindler, card shark and self-proclaimed "Jade King of China," Freeman Bernstein was a master of exuberant excess and no stranger to the hard-hand of the law. But the charges he was arrested for on the evening of February 18, 1937, outside of a Hollywood starlet's home, were more serious than those he had ever encountered before. The most powerful and feared man in the world--Adolf Hitler--claimed that Bernstein had committed fraud against the German government. While living in Shanghai in 1936, Bernstein had been asked to procure a large quantity of nickel for the Germans. Nickel was essential to make stainless steel for armaments, and impossible at that time for Germany to openly buy on the international markets. When the shipments arrived from Canada, bearing Bernstein's stamp of approval, the Germans found only huge, useless quantities of scrap metal and tin: a huge blow to their economy and war preparations.&nbsp;
+<br>All his life, journalist Walter Shapiro assumed that the outlandish stories about his great uncle Freeman were exaggerated pieces of family lore; a cockamamie Jewish revenge fantasy dreamt up to entertain the kids and venerate their larger-than-life relative. But in recent years, Shapiro decided to search for the truth, and in this fascinating exploration of Bernstein's life, he investigates the incredible possibility that a New York Jew--born to in 1874 to Polish immigrants--may have been responsible for a critical shortage of Nazi resources in the early years of World War II.&nbsp;
+<br>Shapiro's easy narrative naturally evokes Bernstein's colorful world: from the smell of the grease paint backstage in a seedy turn-of-the-century vaudeville house in Bayonne, to the roar from the ringside seats of a top-rated 1923 middleweight bout in Mexico City, and the ominous sense of what it must have been like for an American Jew to be arranging shady business dealings in Germany in 1936. A thrilling and page-turning read, Hustling Hitler is the untold story of the larger-than-life, eternal hustler who changed the course of history.

@@ -1,0 +1,13 @@
+---
+published: false
+title: Give me a better word.
+date: '2010-10-01T13:59:00.002-04:00'
+author: Paul Theriault
+tags:
+- blog is an ugly word.
+modified_datetime: '2010-10-01T19:23:16.937-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2782952847968067290
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/10/give-me-better-word.html
+---
+
+Blog?  BLOG is what has stuck?  It's awful.  When you want someone to read something online, 9 times out of 10 you have to direct them to a site by uttering this small slimy word nugget, "blog."<br /><br />Read my blog.<br /><br />Oh, yeah, so and so blogged about that, check it out on their blog. <br /><br />We have a blog now!<br /><br />Give me your ideas.  You must have some.  You can make them up, just like blog was made up. Be creative, be ridiculous, be evil, just give me something better.  I love that working here at the <span class="blsp-spelling-error" id="SPELLING_ERROR_0">Booksmith</span>, writing the weekly newsletter, and being invited into the fold of "<span class="blsp-spelling-error" id="SPELLING_ERROR_1">bloggers</span>" has set me on the path of being a writer, but I swear, if someone can come up with an alternative I will so gladly never use that word to describe what I do ever again.<br /><br />I just got off a reg shift with Jodie, a writer, and I was talking to her about nine paintings I will do, and the importance of a unifying visual language in abstract painting, and how that language takes on a whole new responsibility when it has to speak through nine paintings (and still be strong enough to impress itself upon a viewer when just one of those paintings is called upon to stand alone), and she was talking to me about the quest for the language that would provide a balance between ideas and impressionistic immediacy in her own work, and afterward I was reminded that Friday is my day to "post" an "entry" on the "blog", and all that proverbial fuel for my creative fire, that collection of wonderful words, honed through the ages, preserved for their integrity and aesthetic perfection by our ancestors, was soaked in a quick, stupid downpour.<br /><br />What do you write? An essay?  A novel?  A poem?  Poem, now there is a perfectly balanced word.  A journal?  A memoir? <br /><br />A <span class="blsp-spelling-error" id="SPELLING_ERROR_2">blaaaaahg</span>? <br />Gross.  Unnecessary.  Ugly, and ready to be expelled. <br />Please help.

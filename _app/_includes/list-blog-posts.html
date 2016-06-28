@@ -1,0 +1,16 @@
+{% comment %} Determine if we're limiting the output to a particular program {% endcomment %}
+{% if include.cat %}
+  {% assign cats = include.cat %}
+  {% assign news = site.categories[cats] %}
+{% comment %} if no program specified in the include, then show all the events {% endcomment %}
+{% else %}
+  {% assign news = paginator.posts %}
+{% endif %}
+<div class="cards">
+  {% if news %}
+    {% for object in news %}
+      {% include _format-blog-posts.html %}
+    {% endfor %}
+  {% endif %}
+</div>
+{% include _pagination.html %}

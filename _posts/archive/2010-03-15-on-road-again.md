@@ -1,0 +1,12 @@
+---
+published: false
+title: On The Road Again
+date: '2010-03-15T08:04:00.002-04:00'
+author: dana brigham
+tags: 
+modified_datetime: '2010-03-15T08:43:28.956-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1247781170572225514
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/on-road-again.html
+---
+
+Uh oh, another old-ish song reference that at least some folks will recognize, hopefully.  I hardly ever go away anywhere these days but the weekend just finished found me in  Easton, Md. attending a bridal shower for one of my dear nieces.  Shower is a good word as it poured rain most of the time which seems to've followed me home.  The weather did not matter, though, as a great time was had by all.  Down there this spring forward thing is much more spring-like with pansies and daffodils in my sister's yard. <div><br /></div><div>Because we arrived early, there was time to poke around the lovely eastern shore town that is Easton.  It's always wonderful to find an independent bookstore alive and well.  Easton has a nifty one in an antique house with books displayed in all the rooms, even an unused bathoom.  The old tub is used for home decor and gardening books while the toilet sports a giant asparagus fern. At the entrance was a big Eat, Sleep,Read banner which comes from the American Booksellers Association, our national trade organization.  You can see one of those at Booksmith, too.  So, bookstore "fix" accomplished.  Someday, I'd like to visit every indie store in the country.  And then abroad.</div><div><br /></div><div>At the party I'm pleased to report the bride- to- be received at least 5 cookbooks.  In a quiz about how well the assembled guests know my niece, the question was posed as to what she'd most like to have if stranded on an island.  The choices were TV, radio, Ipod or books.  The answer was books.  During lunch there was talk of books and writing.  There were many shelves of books in the hostess's beautiful home.  Later, at the airport, I was glad to see lots of people reading books.  </div><div><br /></div><div>I'm just saying,  real books are not going anywhere.  There will be no "death of the book".  It was a wonderful weekend.  I am happy.</div>

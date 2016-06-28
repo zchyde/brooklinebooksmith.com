@@ -1,0 +1,32 @@
+{% if page.url contains'/hours-location/' %}
+  <div class="hero" data-search-index="false" style="background:none;height:465px;">
+    {% include global/navigation.html %}
+    <div class="embed-containerTK">
+      <iframe width="1600" height="425" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.994813435259!2d-71.12388518459608!3d42.34263394419454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379bfdb681bc1%3A0x279c60f655491995!2sBrookline+Booksmith!5e0!3m2!1sen!2sus!4v1442837004017"></iframe>
+    </div>
+  </div>
+  <hr />
+{% else %}
+  <div class="hero gradient">
+    {% include global/navigation.html %}
+    <div class="hero-inner">
+      <div class="hero-copy">
+        {% if page.page_heading %}
+          <h1 class="special">
+            {{ page.page_heading | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+          </h1>
+        {% elsif page.title != '' %}
+        {% unless page.url == '/' %}
+        {% capture title %}{{ page.title }}{% endcapture %}
+          <h1 class="special">
+            {{ title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+          </h1>
+        {% endunless %}
+        {% endif %}
+        {% if page.lede %}
+          {{ page.lede }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}

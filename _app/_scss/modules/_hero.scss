@@ -1,0 +1,139 @@
+.hero {
+  $hero-background-top: #000;
+  $hero-background-bottom: #20392B;
+  $hero-color: white;
+  $gradient-angle: 10deg;
+  //margin-top: $navigation-height;* -1;
+  z-index: 1;
+  //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  //$hero-image:'https://images.unsplash.com/uploads/1413498852637ad9a7e80/1569fece?q=80&fm=jpg&s=9d83b5a1447b7855ac9973a5ca450a99';
+  //$hero-image:'https://storage.googleapis.com/www.brooklinebooksmith.com/webhook-uploads/1442843154579_boy-reading.jpg';
+  //$hero-image: 'http://sheetsu.com/assets/triangles8-c354ab118fbae27e25e00b41698ad7b4ddf633426b0a9919f310e8515dc1e24d.png';
+  //$hero-image: '/uploads/booksmith-16x9.jpg';
+//@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+$gallery-cell-colors:
+  $color-1,
+  $color-2,
+  $color-3,
+  $color-4,
+  $color-5,
+  $color-1,
+  $color-2;
+
+
+  background-color:$brand-background-color;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  //padding-bottom: 3em;
+  max-width:100%;
+  //height: 270px;
+  overflow: hidden;
+  .gallery-cell, .static-banner {
+    display: inline-block;
+    width: 445px;
+    max-width: 100%;
+    margin-right:.75em;
+    margin-top:10px;
+    height: 250px;
+    // @include media($normal-screen-up) {
+    //   height: 545px;
+    // }
+    background: #8C8;
+    ///counter-increment: gallery-cell;
+    position: relative;
+    @include media($lg) {
+      min-height: 400px;
+    }
+
+    @for $i from 1 to 7 { // assign colors from $flex-box-top-colors list
+      &:nth-child(#{$i}) {
+        $color-from-list: nth($gallery-cell-colors, $i);
+        background-color: $color-from-list;
+
+        &:focus,
+        &:hover {
+          background-color: transparentize($color-from-list, 0.2);
+        }
+      }
+    }
+  .is-selected {
+    background: #ED2;
+  }
+  .content__formatted {
+    font-family: $brand-font-family;
+    text-align: center;
+    position: absolute;
+    width: 90%;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color:#fff;
+    h1, h2, h3, h4, h5, h6 {
+      color: #fff;
+      font-family: $brand-font-family;
+    }
+    font-size: 1.75em;
+    @include media($lg) {
+      font-size: 1.75em;
+    }
+  }
+}
+
+  .hero-logo img {
+    //height: 4em;
+    margin-bottom: 1em;
+  }
+
+  .hero-inner {
+    //@include outer-container;
+    //@include clearfix;
+    margin: auto;
+    padding: 3em 2em;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+@include media($lg) {
+  padding: 3em 3.125em 3em 3.125em;
+}
+    .hero-copy {
+      text-align: center;
+      /////////////// padding-bottom: 3.5em;
+
+      @include media($lg) {
+      max-width: 60%;
+      }
+
+      h1 {
+        color: $hero-color;
+        font-size: 1.6em;
+        margin-bottom: 0.5em;
+
+        @include media($lg) {
+          font-size: 1.8em;
+        }
+        a {
+          color: $hero-color;
+          &:hover {
+            color: darken($hero-color, 20%);
+          }
+        }
+      }
+
+      p {
+        color: $hero-color;
+        line-height: 1.4em;
+        /////////////// margin: 0 auto 3em auto;
+
+        @include media($lg) {
+          font-size: 1.1em;
+          max-width: 40%;
+        }
+      }
+    }
+  }
+}

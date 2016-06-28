@@ -1,0 +1,13 @@
+---
+published: false
+title: The Eating Adventure
+date: '2011-04-06T20:08:00.000-04:00'
+author: Emily
+tags: 
+modified_datetime: '2011-04-06T20:08:50.028-04:00'
+thumbnail: http://2.bp.blogspot.com/-ASyBcaeUU2w/TZz-3PHNvkI/AAAAAAAAAPU/WYgU3jFinlk/s72-c/0763652830.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8576587369172590712
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/eating-adventure.html
+---
+
+The theme of board books: baby animals, a story, soft animals, baby faces, nosiy animals, and some more&nbsp;animals.&nbsp; <br /><br />Of course, there are more interests out there, aren't there, toddlers?&nbsp; <br /><br />Touch and feel books?&nbsp; Well, those too...&nbsp; <br /><br />But I'm also talking about board books revolving around food.&nbsp; No way around it.&nbsp; Don't convince me otherwise.&nbsp; Food is a necessary part of life.&nbsp; Every single day.&nbsp; And, at least, three times a day if not a little more.&nbsp; So, what I like to read myself sometimes are&nbsp;Lorena Siminovich's<em>&nbsp;<a href="http://www.candlewick.com/cat.asp?browse=Title&amp;mode=book&amp;isbn=0763648035&amp;pix=n">I Like Fruit</a></em> and <a href="http://www.candlewick.com/cat.asp?browse=Title&amp;mode=book&amp;isbn=0763652830&amp;pix=n"><em>I Like Vegetables</em>.</a>&nbsp; Smooth green apples,&nbsp;one rough orange or two, and&nbsp;a yellow bumpy pear.&nbsp; Smooth peas outside the pod, tall yelllow corn, or a soft pumpkin to <strike>taste</strike> touch.&nbsp; It's a touch and feel adventure with food right here.&nbsp; No morals.&nbsp; No limits.&nbsp; No, "carrots will make you grow taller," or "if you don't eat that strawberry you can't have dessert."&nbsp; It's a good old, basic introduction to food -- for those times in between meals.<br /><br />&nbsp;Yes, food is an adventure!<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-ASyBcaeUU2w/TZz-3PHNvkI/AAAAAAAAAPU/WYgU3jFinlk/s1600/0763652830.jpg" imageanchor="1" style="clear: left; cssfloat: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="199" r6="true" src="http://2.bp.blogspot.com/-ASyBcaeUU2w/TZz-3PHNvkI/AAAAAAAAAPU/WYgU3jFinlk/s200/0763652830.jpg" width="200" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-5jtbzm-d01Q/TZz-5Lxke8I/AAAAAAAAAPY/_zkJvrDtkRg/s1600/I-like-fruit-book.jpg" imageanchor="1" style="clear: right; cssfloat: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" r6="true" src="http://1.bp.blogspot.com/-5jtbzm-d01Q/TZz-5Lxke8I/AAAAAAAAAPY/_zkJvrDtkRg/s200/I-like-fruit-book.jpg" width="200" /></a></div>

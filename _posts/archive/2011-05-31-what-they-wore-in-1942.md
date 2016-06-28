@@ -1,0 +1,16 @@
+---
+published: false
+title: What they wore in 1942
+date: '2011-05-31T15:44:00.006-04:00'
+author: Liz T.
+tags:
+- 1940s
+- fashion
+- smocks
+- WWII
+modified_datetime: '2011-05-31T17:22:33.356-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-207802229201694364
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/what-they-wore-in-1942.html
+---
+
+<div><a href="http://cache0.bookdepository.co.uk/assets/images/book/medium/9780/5002/9780500288979.jpg"><img style="MARGIN: 0px 10px 10px 0px; WIDTH: 200px; FLOAT: left; HEIGHT: 215px; CURSOR: hand" border="0" alt="" src="http://cache0.bookdepository.co.uk/assets/images/book/medium/9780/5002/9780500288979.jpg" /></a>My new favorite book this week is <a href="http://www.brooklinebooksmith-shop.com/book/9780500288979">Forties Fashion: From Siren Suits to the New Look</a>. It's a bit of a niche book but it's really great if you are into history, the WWII era, and/or clothing. The author, Jonathan Walford, does a great job of connecting the events of the 1930's and 40's with why people were wearing what they were wearing. And the book is loaded with dozens of illustrations and photographs, which I personally can't get enough of. <br /><div><br /><br /><div>Particularly interesting is how fashion entered into politics of the time. I was surprised to find out that France, Italy, and Germany were all waging a sort of fashion war behind the scenes of the actual war. For example, Germany created the <em>Deutsches Mode-Institut</em> (German Fashion Bureau) to "promote German fashion, free of foreign influence." Mussolini even "removed" certain French words and phrases from the Italian language, and a new dictionary of Italian fashion was published in 1936. No more haute couture! In America, patriotism was a way of life and the military influenced everything from outerwear to red, white, and blue buttons on a blouse. And in Japan, images of war (especially airplanes, it seems) graced "printed textiles and informal kimonos."</div><br /><div></div><br /><div>Meanwhile, rationing of fabric and things like zippers were causing people all over the world to be creative and resourceful when it came to their smocks, trousers and unmentionables. Obviously, ladies still wanted to be beautiful even though there was a war on. Probably <em>especially</em> because there was a war on. </div><br /><div></div><br /><div>I find this topic endlessly fascinating and you should, too. Check it out - we have it in our fashion section, aisle 1! (Or order it <a href="http://www.brooklinebooksmith-shop.com/book/9780500288979">online</a>!)</div><br /><div><br /></div><br /><div><a href="http://hprints.com/db/magazines/marie_claire_1942_04_242.jpg"><img style="MARGIN: 0px 10px 10px 0px; WIDTH: 329px; FLOAT: left; HEIGHT: 348px; CURSOR: hand" border="0" alt="" src="http://hprints.com/db/magazines/marie_claire_1942_04_242.jpg" /></a><br /><br /><br /></div><br /><br /><br /><div></div><br /><br /><br /><br /><br /><br /><br /><div></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div></div><br /><br /><br /><br /><br /><div></div></div></div>

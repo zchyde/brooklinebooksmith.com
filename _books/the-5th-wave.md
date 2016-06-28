@@ -1,0 +1,7 @@
+---
+title: The 5th Wave
+isbn: '9780142425831'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/831/425/9780142425831.jpg'
+---
+

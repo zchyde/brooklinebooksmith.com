@@ -1,0 +1,14 @@
+---
+published: false
+title: All day long I'd biddy-biddy-bum....
+date: '2010-08-22T16:41:00.005-04:00'
+author: Kate Robinson
+tags:
+- working on the weekends...magazines
+modified_datetime: '2010-08-22T17:16:08.568-04:00'
+thumbnail: http://1.bp.blogspot.com/_L2x1PCw1zuI/THGL4rAzB5I/AAAAAAAAAHo/AtepkekpSPg/s72-c/fiddler.bmp
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4695389279085696594
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/08/all-day-long-id-biddy-biddy-bum.html
+---
+
+<div><a href="http://1.bp.blogspot.com/_L2x1PCw1zuI/THGL4rAzB5I/AAAAAAAAAHo/AtepkekpSPg/s1600/fiddler.bmp"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 247px; DISPLAY: block; HEIGHT: 286px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5508337624985831314" border="0" alt="" src="http://1.bp.blogspot.com/_L2x1PCw1zuI/THGL4rAzB5I/AAAAAAAAAHo/AtepkekpSPg/s400/fiddler.bmp" /></a> </div><br /><br /><div>            Paul's last post got me thinking about Fiddler. My brother sings this part of the song whenever we talk about winning the lottery. Which we do...a lot. He actually is quite convincing...and even a little moving when he sings...but what <em>does</em> it mean to "biddy biddy bum"? </div><br /><div>            For me, Biddy-biddy bum means poetry, and reality television. Today, at the register I thought a lot about dress shopping, AND HOW AWFUL I AM AT IT. Sorry to yell but it's true!</div><div> </div><div> </div><div>          What do I need a dress for ?... (You may be asking yourself?) Well , I am going to sunny- warm Pennsylvania to attend my fella's sister's weddin. Yes, I did consider a pant-suit but I'm not quite ready to give in to the inevitable segregation of my generous thighs. </div><div> </div><div> </div><div>                The point is, when I go on vacation these days it always seems to be for some family party, holiday, event, trial. I look forward to the day when I can peruse our ever expanding magazine collection (that Dana is gardening into quite the  selection) and pick out a magazine like this one that the lovely Katie is holding, and read it....without a tinge of irony.</div><div> </div><div> </div><div>Well, It's getting to be about time for me to buy some spanx knock-off brand supportive undergarments and chap-stick so I can really do it up for this nuptial vacation.</div><div> </div><div>See you at the shelves!</div><div> </div><div> </div><div> </div><div><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 237px; DISPLAY: block; HEIGHT: 279px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5508341245115530130" border="0" alt="" src="http://3.bp.blogspot.com/_L2x1PCw1zuI/THGPLZC-e5I/AAAAAAAAAHw/W985mT_b9nA/s400/affluent.bmp" /></div>

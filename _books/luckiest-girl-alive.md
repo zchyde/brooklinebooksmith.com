@@ -1,0 +1,9 @@
+---
+title: Luckiest Girl Alive
+isbn: '9781476789644'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/637/789/9781476789637.jpg'
+---
+
+
+Fans of "Gone Girl" and "The Girl on the Train" will thrill at the perfect page-turner to start your summer ("People," Book of the Week): "Luckiest Girl Alive" described by Reese Witherspoon as one of those reads you just can t put down "Loved Gone Girl"? We promise "Luckiest Girl Alive" is] just as addictive. "Good Housekeeping" Jessica Knoll introduces you to your new best frenemy, and you re going to love it. . . .Destined to become one of the summer's most gripping reads. Bustle.com With the cunning and verve of Gillian Flynn but an intensity all its own, "Luckiest Girl Alive" is a debut you won t want to miss. Megan Abbott, author of "Dare Me" and "The Fever" "Luckiest Girl Alive "is "Gone Girl" meets "Cosmo" meets "Sex and the City." . . . Knoll hits it out of the park. "Fort Worth Star-Telegram" HER PERFECT LIFE IS A PERFECT LIE. As a teenager at the prestigious Bradley School, Ani FaNelli endured a shocking, public humiliation that left her desperate to reinvent herself. Now, with a glamorous job, expensive wardrobe, and handsome blue blood fiance, she's "this close" to living the perfect life she's worked so hard to achieve. But Ani has a secret. There's something else buried in her past that still haunts her, something private and painful that threatens to bubble to the surface and destroy everything. With a singular voice and twists you won t see coming, "Luckiest Girl Alive "explores the unbearable pressure that so many women feel to have it all and introduces a heroine whose sharp edges and cutthroat ambition have been protecting a scandalous truth, and a heart that's bigger than it first appears. The question remains: will breaking her silence destroy all that she has worked for or, will it at long last, set Ani free?

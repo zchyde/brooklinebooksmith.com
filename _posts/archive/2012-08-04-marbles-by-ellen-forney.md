@@ -1,0 +1,18 @@
+---
+published: true
+title: '"Marbles" by Ellen Forney'
+date: '2012-08-04T18:58:00.003-04:00'
+author: Zoe Hyde
+tags:
+- bipolar 1
+- depression
+- ellen forney
+- cartoonist
+- graphica
+- graphic novel
+modified_datetime: '2012-08-04T18:58:58.919-04:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-7667893161116947166
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/08/marbles-by-ellen-forney.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://images.betterworldbooks.com/159/Marbles-Mania-Depression-Michelangelo-and-Me-Forney-Ellen-9781592407323.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://images.betterworldbooks.com/159/Marbles-Mania-Depression-Michelangelo-and-Me-Forney-Ellen-9781592407323.jpg" width="132" /></a></div>I've been moving out of my apartment for the past two weeks, so I haven't really been able to concentrate on much else. I even lost the book I was only 15 pages away from finishing, much to my chagrin, because I seldom finish books and this was going to be a great win for me. Recently, everything has been about packing, labeling, throwing away, donating, and manual labor the likes of which I don't know if I have ever known in my life. Sure, I've moved before, but I've never had to move out of a fourth floor&nbsp;walk up&nbsp;the last few weeks in July. Not only do I not recommend it, but, if you find yourself in a similar situation, I would suggest you reconsider moving or, perhaps, your feelings on your belongings, how close you are to them, and your views on arson.<br /><br />I did manage to take a look at one graphic novel that floated my way, however. I grabbed this off of the book shelf we keep galleys on, and I read it in a couple of days. Ellen Forney's novel is about being diagnosed with bipolar disorder early in her life, and about what that meant for her career as a cartoonist and personal life. Ellen is caught in a period of manic activity when she goes to a therapist who diagnoses her as a bipolar. Of course, being caught in a manic period means that Ellen doesn't believe her, continues to feel amazing, (more than amazing, explosively amazing, dangerously amazing) need little sleep, and be unnervingly productive. It's only when her manic climb breaks, and she sags into a depression so violent she literally can't get off the sofa for several days, that Ellen returns to her doctor and admits that, yes, she might have a problem.<br /><br />What follows is the next four years of Ellen Forney's life with bipolar 1, her skyrocketing highs and devastatingly lows. The different cocktails of medications that get prescribed to her, and then the meds that get&nbsp;prescribed&nbsp;to control the side effects of the initial prescription. Several different mixtures are tested, rejected, then&nbsp;occasionally&nbsp;brought back to work in tandem with other pills. "Marbles" is an honest and, at times, brutal exploration of Forney's experience as a woman with bipolar disorder. If nothing else, it's a quick, interesting read, and I certainly came away from it knowing far more about personality disorders and depression than I did going in.&nbsp;I devoured this novel, and when it is released in November, I suggest you definitely take a look at it."<br /><div class="separator" style="clear: both; text-align: center;"><br /></div>

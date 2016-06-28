@@ -1,0 +1,51 @@
+---
+layout: default
+---
+{% if page.description %}
+  {% include nav-aside.html %}
+{% endif %}
+<main class="layout_two_column_wide row">
+
+  <article class="">
+      {% assign category_posts = site.posts | where: 'category', page.category %}
+      {% assign posts_limit = 15 %}
+      <h4 class="brand blocked">
+        {{ page.title }} Blog Posts
+      </h4>
+
+    <div class="cards">
+      {% for object in category_posts limit:posts_limit %}
+        {% include _format-blog-posts.html %}
+      {% endfor %}
+    </div>
+    <a href="/blog/">
+      <button>
+         Go to the Blog
+      </button>
+    </a>
+  </article>
+  <aside>
+    <h4 class="brand blocked">
+      {{ page.title }} Events
+    </h4>
+     {% include events/list-future.html format_output="long" program="childrens-story-time" %}
+     <a href="/events/">
+       <button>
+         All Events
+       </button>
+     </a>
+  </aside>
+</main>
+<div class="has-layoutf homfe" style="padding:14em auto;">
+  <div class="has-layout" >
+  {% include _slideshow-new-arrivals.html type="Kids" %}
+
+</div>
+<div class="row">
+  <div class="" style="display:block;width:60%;padding-top:4em;margin:auto;">
+      {% include form-constant-contact.html %}
+  </div>
+
+</div>
+
+</div>

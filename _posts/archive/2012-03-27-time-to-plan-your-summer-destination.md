@@ -1,0 +1,13 @@
+---
+published: true
+title: Time to Plan Your Summer Destination
+date: '2012-03-27T16:10:00.000-04:00'
+author: Jodie
+tags: 
+modified_datetime: '2012-03-27T16:10:00.521-04:00'
+thumbnail: http://1.bp.blogspot.com/-ow8-smc1Ya8/T3DZK806rlI/AAAAAAAAAZk/oYP9JEZbA9U/s72-c/cg+041.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4414059768281619602
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/03/time-to-plan-your-summer-destination.html
+---
+
+<a href="http://1.bp.blogspot.com/-ow8-smc1Ya8/T3DZK806rlI/AAAAAAAAAZk/oYP9JEZbA9U/s1600/cg+041.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img aea="true" border="0" height="200" src="http://1.bp.blogspot.com/-ow8-smc1Ya8/T3DZK806rlI/AAAAAAAAAZk/oYP9JEZbA9U/s200/cg+041.jpg" width="133" /></a>Spring has sprung early this year. Last week&nbsp;the uncannily warm weather had many of us&nbsp;out and about, working off that bit of fat that accumlated during months of hibernation, exposing our pale skin to the sun's rays, stretching unused limbs, planting our gardens, and booking tickets.&nbsp;Summer is well on its way, which means it is&nbsp;time to start making your travel plans. <br /><br /><a href="http://1.bp.blogspot.com/-NgvI5SnT6Tc/T3DZU1clptI/AAAAAAAAAaE/CLxwXwOE0sY/s1600/cg+045.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img aea="true" border="0" height="200" src="http://1.bp.blogspot.com/-NgvI5SnT6Tc/T3DZU1clptI/AAAAAAAAAaE/CLxwXwOE0sY/s200/cg+045.jpg" width="133" /></a><a href="http://2.bp.blogspot.com/-uISh0jz5IQo/T3DZS6embxI/AAAAAAAAAZ8/k7-KU6cr0ck/s1600/cg+044.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img aea="true" border="0" height="200" src="http://2.bp.blogspot.com/-uISh0jz5IQo/T3DZS6embxI/AAAAAAAAAZ8/k7-KU6cr0ck/s200/cg+044.jpg" width="133" /></a>We've been expanding our travel section, anticipating your every destination.&nbsp;With the&nbsp;help and expertise of the delightful Pat and Harriet Carrier of Globe Corner Books, we're working to make our selection of guide books, maps, and travel literature the best in the region.&nbsp;Our rolled wall maps are&nbsp;now conveniently displayed in a map browser, and you can find folded maps for almost every place you could dream up. Whether you plan to hike the White Mountains or soak in the sun in Costa Rica, make Booksmith the first place you travel.<br /><div class="separator" style="clear: both; text-align: center;"></div><br /><br /><br />

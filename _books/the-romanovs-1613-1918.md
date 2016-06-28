@@ -1,0 +1,12 @@
+---
+title: 'The Romanovs: 1613-1918'
+isbn: '9780307266521'
+binding: Hardcover
+image_path: 'http://images.booksense.com/images/521/266/9780307266521.jpg'
+---
+
+
+The Romanovs were the most successful dynasty of modern times, ruling a sixth of the world's surface for three centuries. How did one family turn a war-ruined principality into the world's greatest empire? And how did they lose it all?&nbsp;
+<br>This is the intimate story of twenty tsars and tsarinas, some touched by genius, some by madness, but all inspired by holy autocracy and imperial ambition. Simon Sebag Montefiore's gripping chronicle reveals their secret world of unlimited power and ruthless empire-building, overshadowed by palace conspiracy, family rivalries, sexual decadence and wild extravagance, with a global cast of adventurers, courtesans, revolutionaries and poets, from Ivan the Terrible to Tolstoy and Pushkin, to Bismarck, Lincoln, Queen Victoria and Lenin.&nbsp;
+<br>To rule Russia was both imperial-sacred mission and poisoned chalice: six of the last twelve tsars were murdered. Peter the Great tortured his own son to death while making Russia an empire, and dominated his court with a dining club notable for compulsory drunkenness, naked dwarfs and fancy dress. Catherine the Great overthrew her own husband (who was murdered soon afterward), enjoyed affairs with a series of young male favorites, conquered Ukraine and fascinated Europe. Paul I was strangled by courtiers backed by his own son, Alexander I, who in turn faced Napoleon's invasion and the burning of Moscow, then went on to take Paris. Alexander II liberated the serfs, survived five assassination attempts and wrote perhaps the most explicit love letters ever composed by a ruler. "The Romanovs" climaxes with a fresh, unforgettable portrayal of Nicholas II and Alexandra, the rise and murder of Rasputin, war and revolution and the harrowing massacre of the entire family.&nbsp;
+<br>Dazzlingly entertaining and beautifully written from start to finish, "The Romanovs" brings these monarchs male and female, great and flawed, their families and courts blazingly to life. Drawing on new archival research, Montefiore delivers an enthralling epic of triumph and tragedy, love and murder, encompassing the seminal years 1812, 1914 and 1917, that is both a universal study of power and a portrait of empire that helps define Russia today.&nbsp;

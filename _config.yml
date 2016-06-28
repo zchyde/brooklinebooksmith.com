@@ -1,0 +1,165 @@
+# jekyll-seo-tag
+title: Brookline Booksmith
+description: "Brookline Booksmith is an stablished independent bookshop offering new & used titles, plus gifts, over 2 floors."
+url: http://www.brooklinebooksmith.com
+twitter:
+  username: booksmithtweets
+logo: http://www.brooklinebooksmith.com/uploads/banner-home-page_wr.jpg
+
+
+
+address_for_nav: "279 Harvard St. (at Beacon St.) &bull; 617-566-6660"
+address: "279 Harvard St, Brookline, Massachusetts 02446-2908"
+
+newsletter_copy: "Join our mailing list to get b-mail, our weekly newsletter"
+venues:
+  - '-'
+  - In-store
+  - "Coolidge Corner Theater"
+  - Other
+categories:
+  - ''
+  - kidsmith
+  - this-week-in-books
+  - Holiday-Gift-Guide
+  - Used-Book-Cellar
+  - Giftsmith
+bindings:
+  - Hardcover
+  - Paperback
+  - Board Books
+
+# Paypal
+paypal_email: sfe@brooklinebooksmith.com
+intervals:
+  - Day
+  - Week
+  - Month
+  - Year
+
+subscription_recurring_times:
+  - 3
+  - 6
+  - 9
+  - 12
+  - 24
+
+
+## DO NOT EDIT BELOW THIS LINE
+version: 3.0.3
+images_domain: http://images.brooklinebooksmith.com
+shop_domain: http://www.brooklinebooksmith-shop.com
+
+plugins_dir:  ./_app/_plugins
+layouts_dir:  ./_app/_layouts
+includes_dir: ./_app/_includes
+
+incremental: true
+# full_rebuild: false
+gems:
+  - jekyll-paginate
+env: development
+sitename: brookline booksmith
+timezone: Etc/Zulu
+paginate: 40
+paginate_path: "/blog/page-:num/"
+exclude:
+  - readme.md
+  - todo.md
+  - license.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - CNAME
+  - node_modules
+  - sass
+  - gulpfile.js
+  - package.json
+  - javascript
+  - vendor
+permalink: pretty
+future: false
+production: true
+bust_css_cache: true
+google_analytics_id: UA-xxxx
+fancy_fonts:
+  - ''
+  - 'Fredericka+the+Great'
+  - 'Cabin-sketch'
+  - 'Lato'
+  - 'Pacifico'
+directory_assets_img: /static/images/
+twitter_id: budparr
+collections:
+  campaigns:
+    output: false
+  first-edition-books:
+    output: false
+    commerce: 'subscription'
+  landing_pages:
+    output: true
+    permalink: '/:path/'
+  events:
+    output: true
+    permalink: '/:collection/:path/'
+    future: true
+  programs:
+    output: false
+    permalink: '/:collection/:path/'
+  books:
+    output: false
+  staff:
+    output: false
+    permalink: '/:collection/:path/'
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ''
+      type: events
+    values:
+      layout: event
+  - scope:
+      path: ''
+      type: first-edition-books
+    values:
+      layout: book
+  - scope:
+      path: ''
+      type: landing_pages
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: programs
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: staff
+    values:
+      layout: page
+  - scope:
+      path: '_landing_pages/home.md'
+    values:
+      layout: home
+      permalink: '/'
+      fancy_font:
+      title:
+      page_heading:
+      description:
+      regenerate: true
+
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false

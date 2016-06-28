@@ -1,0 +1,22 @@
+---
+published: true
+title: Sea Swept and Fancy Free
+date: '2012-04-27T09:54:00.000-04:00'
+author: Natasha
+tags:
+- captain
+- ocean
+- used books
+- ancient history
+- shiver me timbers
+- yarrr
+- sailing
+- sea
+- denmark
+modified_datetime: '2012-04-27T09:54:40.531-04:00'
+thumbnail: http://4.bp.blogspot.com/-X9JXv1dZDLE/T5qhZnSNxcI/AAAAAAAAAaM/csgMv_Jg0UI/s72-c/Islands+2.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-211932824058009907
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/04/sea-swept-and-fancy-free.html
+---
+
+<br /><a href="http://4.bp.blogspot.com/-X9JXv1dZDLE/T5qhZnSNxcI/AAAAAAAAAaM/csgMv_Jg0UI/s1600/Islands+2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="150" src="http://4.bp.blogspot.com/-X9JXv1dZDLE/T5qhZnSNxcI/AAAAAAAAAaM/csgMv_Jg0UI/s200/Islands+2.jpg" width="200" /></a>I just finished a phenomenal book this week. It doesn't come out 'til September. Boy and howdy I can't get it outta my head. It's like, definitely one I think about when I should be concentrating real hard on conversations people are having at my face. And I don't feel it's super fair to talk about it yet since I can't share my galley with all of Brookline. BUT. Come September, there will be a great hootin' and a-hollerin'.<br /><br />Suffice it to say, the novel takes place on a tiny island and the whole thing is beautifully sea swept. So sea swept, that since I pounded through it on my weekend (and did little else) my head feels a bit like sea water has washed everything away and I want to run away and build a little sea shanty and smoke a pipe.<br /><br /><a href="http://3.bp.blogspot.com/-yTp8FbMAYiE/T5qhdsU5hLI/AAAAAAAAAaU/-JcBlkQEZPI/s1600/3784082297_f5f58945fe.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="133" src="http://3.bp.blogspot.com/-yTp8FbMAYiE/T5qhdsU5hLI/AAAAAAAAAaU/-JcBlkQEZPI/s200/3784082297_f5f58945fe.jpg" width="200" /></a>There have been a lot of books like this one, playing with the same myths and whatnot. But this one worked for me where others didn't because the setting was so strong. I discovered in reading this that setting is a big difference for me, and that there are so many books I <i>should</i>&nbsp;like, but the setting isn't as concretely drawn and therefore less transporting for me. And I do ever-so-much love being transported.<br /><br />So since I don't want to leave the ocean, you get to look at all these cool books we have in the UBC right now that will take you right there.<br /><br />First up: <i>Sailing Alone Around the World</i>, being the account of a&nbsp;Boston sea captain Joshua Slocum who in 1859 took off on the first solo around-the-world sea voyage and lived to memoir it. It's like a longer, epic-er <i>Old Man and the Sea</i>&nbsp;but with PICTURES.<br /><br />Next up we have a National Geographic coffee table book entitled <i>Mystery of the Ancient Seafarers </i>which is all about ancient civilizations that grew up near oceans and how it affected their culture, economy, cuisine, etc. Great full-color illustrations, and a unique, overlooked take on the big civilizations that we usually only learn about through war and sexual intrigue.<br /><br /><a href="http://1.bp.blogspot.com/-v6CSk0ithP0/T5qh_F-WwPI/AAAAAAAAAak/gYPrP7bnTgU/s1600/612dOLNtBZL._AA300_.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-v6CSk0ithP0/T5qh_F-WwPI/AAAAAAAAAak/gYPrP7bnTgU/s200/612dOLNtBZL._AA300_.jpg" width="200" /></a>And last but certainly not least, a novel. Gentle readers, I'm real tempted to buy this myself because it's exactly what I'm in the mood for, but since the new Guy Delisle came out this week I'm leaving it on the shelf <i>for you</i>. I'm so magnanimous. <i>We, the Drowned</i>&nbsp;by Carsten Jensen is a Danish sea epic that is fairly new to paperback and we have a real fancy copy in the UBC for a mere $9. It moves from the 19th century through the second World War, from Denmark to Hawaii, and all over elsewhere. And it starts with the line: "Many years ago there lived a man called Laurids Madsen, who went up to heaven and came down again, thanks to his boots." Yeah, that's right. Run, don't walk to snatch this up.<br /><br />Thanks for reading, landlubbers!

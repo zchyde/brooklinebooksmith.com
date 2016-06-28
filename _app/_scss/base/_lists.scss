@@ -1,0 +1,81 @@
+ul,
+ol, accordion-tabs ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  &%default-ul {
+    list-style-type: disc;
+    margin-bottom: $small-spacing;
+    padding-left: $base-spacing;
+  }
+
+  &%default-ol {
+    list-style-type: decimal;
+    margin-bottom: $small-spacing;
+    padding-left: $base-spacing;
+  }
+}
+
+aside.page ul {
+  //list-style-type: dash;
+  li {
+    margin-bottom: $small-spacing;
+    padding-left: $base-spacing /4 ;
+    text-indent:-5px;
+  }
+  li:before {
+    content:"-"; position:relative; left:-5px;
+  }
+
+}
+
+
+
+article.hentry ul, article.hentry ol {
+  font-size: $paragraph-font-size;
+  margin-bottom: $small-spacing;
+  padding-left: $base-spacing;
+    li {
+      margin-bottom: $small-spacing * 1.5;
+    }
+
+    ul, ol {
+      margin-top: $small-spacing ;
+    }
+
+}
+
+article.hentry ol {
+  list-style-type: decimal;
+}
+
+article.hentry ul {
+  list-style-type: disc;
+  }
+
+
+
+dl {
+  margin-bottom: $small-spacing;
+
+  dt {
+    font-weight: bold;
+    margin-top: $small-spacing;
+  }
+
+  dd {
+    margin: 0;
+  }
+}
+
+ul.inline {
+  padding:0;
+  margin:0;
+}
+ul.inline li{
+  line-height:1;
+  display: inline;
+  margin:0 2.2em 0 0;
+  padding:0;
+}

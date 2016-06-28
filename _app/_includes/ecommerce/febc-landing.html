@@ -1,0 +1,64 @@
+{% assign books = site.first-edition-books | where: 'published', true %}
+{% assign books = books | sort: 'selection_date' 'last' %}
+
+{% assign subscriptions = page.subscriptions %}
+{% assign current_date = site.time | date: "%Y%m%d" %}
+{% assign count = '0' %}
+{% assign idx = '0' %}
+{% for book in books %}
+  {% assign selection_start = book.selection_date | date: "%Y%m%d" %}
+  {% comment %} Only show future events, i.e. where the start date is greater than current {% endcomment %}
+  {% if selection_start >= current_date %}
+    {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+    {% capture idx %}{{count}}{% endcapture %}
+    {% if count == '1' %}
+       {% comment %}<!-- {{ book.title }} {{ forloop.index }} - {{ idx }}<br>  -->{% endcomment %}
+      {% assign book_latest = book.title %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+<style media="screen">
+  form,  form button {
+    display: inline-block;
+  }
+  h3  {
+    color: #00547E;
+  }
+  .row {
+    padding-bottom: 4em;
+  }
+</style>
+
+<div id="subscribe" class="row">
+
+
+
+
+  <h3>Subscribe</h3>
+  {% for object in subscriptions %}
+    {% include ecommerce/febc-paypal-subscribe.html %}
+  {% endfor %}
+</div>
+
+
+<div id="selections" class="row">
+  <h3>Selections</h3>
+ {% include ecommerce/febc-books.html %}
+</div>
+
+<div id="selections" class="row">
+  <h3>Past Selections</h3>
+  {% include ecommerce/febc-books-past-selections.html %}
+</div>
+
+<div id="faqs" class="row">
+  {% assign faqs = site.landing_pages | where: 'related', 'sfe' %}
+  {% if faqs %}
+    <h3>{{ faqs[0].title | markdownify | remove: '<p>' | remove: '</p>'  }}   </h3>
+    {{ faqs[0].content | markdownify }}
+  {% endif %}
+</div>

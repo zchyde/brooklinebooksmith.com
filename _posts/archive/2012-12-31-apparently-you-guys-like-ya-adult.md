@@ -1,0 +1,12 @@
+---
+published: true
+title: Apparently, you guys like YA-adult crossovers. And Boston. And also other stuff.
+date: '2012-12-31T12:21:00.000-05:00'
+author: Shoshana
+tags: 
+modified_datetime: '2012-12-31T12:21:19.006-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5587939726510376111
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/12/apparently-you-guys-like-ya-adult.html
+---
+
+Before Alie worked her computer magic to calculate the kids' bestsellers of 2012, I told Tess that I would figuratively eat my hat if the top 6 weren't the Hunger Games trilogy, <em>Make Way for Ducklings </em>in hardcover and paperback, and the latest Diary of a Wimpy Kid book. And then we looked at the list.<br /><br />1. <em>The Hunger Games</em>, by Suzanne Collins <br />2.<em>Catching Fire</em>, by Suzanne Collins<br />3. <em>Mockingjay</em>, by Suzanne Collins<br />4. <em>Zolocolor: Doodling Between Black and White</em>, by Byron Glaser<br />5. <em>Make Way for Ducklings</em>, by Robert McCloskey (paperback)<br />6. <em>The Duckling Gets a Cookie?!</em>, by Mo Willems<br />7. <em>Make Way for Ducklings</em>, by Robert McCloskey (hardcover)<br />8. <em>Diary of a Wimpy Kid: The Third Wheel</em>, by Jeff Kinney<br />9. <em>Good Night Boston</em>, by Adam Gamble<br />10. <em>The Fault in Our Stars</em>, by John Green<br />11. <em>Library Lion</em>, by Michelle Knudsen<br />12. <em>Goodnight, Goodnight, Construction Site</em>, by Sherri Duskey Rinker<br />13. <em>The Phantom Tollbooth</em>, by Norton Juster<br />14. <em>The Lightning Thief,</em> by Rick Riordan<br />15. <em>The Mark of Athena</em>, by Rick Riordan<br />16. <em>The Very Hungry Caterpillar</em>, by Eric Carle<br />17. <em>Harold and the Purple Crayon</em>, by Crockett Johnson<br />18. <em>Divergent</em>, by Veronica Roth<br />19. <em>The Perks of Being a Wallflower</em>, by Stephen Chbosky<br />20. <em>Goodnight Moon</em>, by Margaret Wise Brown<br />21. <em>642 Things to Draw</em>, by Chronicle Books<br />22. <em>I Want My Hat Back</em>, by Jon Klassen<br />23. <em>Where the Wild Things Are</em>, by Maurice Sendak<br />24. <em>Good Night, Gorilla</em>, by Peggy Rathmann<br />25. <em>The Snowy Day</em>, by Ezra Jack Keats<br /><br />I'm very glad I said "figuratively," because I'd want my hat back.<br /><br />Happy New Year!

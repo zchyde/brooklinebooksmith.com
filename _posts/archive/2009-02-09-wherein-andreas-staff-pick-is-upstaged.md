@@ -1,0 +1,15 @@
+---
+published: false
+title: Wherein Andrea's staff pick is upstaged by my obsession with books about Frank
+  Lloyd Wright
+date: '2009-02-09T18:11:00.007-05:00'
+author: Lori
+tags:
+- Staff Picks
+- Fiction
+modified_datetime: '2009-02-09T19:12:18.802-05:00'
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8195511340139795634
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2009/02/wherein-andreas-staff-pick-is-upstaged.html
+---
+
+Andrea, the other half of our UBC team, recommends T. C. Boyle's <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780143112150"><strong><em>Talk Talk</em></strong> </a>this month, calling it "a fascinating glimpse into the snarly issue of identity theft. Boyle never fails to be provocative and entertaining, and to impress with his use of language."<br /><br />I thought it especially appropriate to highlight her pick today as his new book <a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780670020416"><strong><em>The Women</em></strong> </a>comes out tomorrow. In the <strong><em>New York Times</em></strong> Joanna Scott was full of praise and called it "<a href="http://www.nytimes.com/2009/02/01/books/review/Scott-t.html?partner=permalink&amp;exprod=permalink">Boyle at his best</a>" while Michiko Kakutani described it as "<a href="http://www.nytimes.com/2009/01/27/books/27kaku.html?partner=permalink&amp;exprod=permalink">dreary</a>" and "a tedious, predictable melodrama." Yipes! I found it a bit odd, actually, that, neither made reference to <strong><em><a href="http://brookline.booksense.com/NASApp/store/Product?s=showproduct&amp;isbn=9780345495006">Loving Frank</a></em></strong>, Nancy Horan's novel from 2007 in their reviews as it also is a historical fiction based on Frank Lloyd Wright's personal life--though Howard Frank Mosher does in his <a href="http://www.boston.com/ae/books/articles/2009/02/08/the_brides_of_frank/">review </a>in the <em>Boston Globe</em>.<br /><br />My favorite part of his review, though, is the beginning when he says he would never want to live in a Wright house because they look uncomfortable. This is because I spent a good amount of time in a Wright house growing up (my Great-Aunt Sara and Great-Uncle Smithy built it. You can see pictures <a href="http://www.flickr.com/photos/string_bass_dave/291334715/in/photostream/">here </a>and <a href="http://www.flickr.com/photos/kb8wfh/247594833/">here </a>and <a href="http://www.flickr.com/photos/string_bass_dave/291335618/">here</a>). As a small child I adored it--it was cozy and beautiful. But my mom, who is 5'11, said she always felt like a huge galumphing giant whenever we were there. I do miss it though I wonder if I would feel more like her now that I'm a lot bigger than I was at 10.

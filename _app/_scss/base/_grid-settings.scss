@@ -1,0 +1,25 @@
+@import "neat-helpers";
+
+// neat defaults
+$column: em(200);
+$gutter: 6em;
+$grid-columns: 10;
+$max-width: em(1200); // $lg - see modules/visual-grid
+$small-screen-max-width: 96%; // $lg - see modules/visual-grid
+
+// breakpoints
+
+$sm: em(100);
+$md: em(500);
+$lg: em(768);
+$lg-m: em(900);
+$xl: em(1200);
+$xxl: em(1600);
+
+$sm-dn: new-breakpoint(max-width $md 2);
+$sm-up: new-breakpoint(min-width $sm 2);
+$md-up: new-breakpoint(min-width $md 4);
+$md-lg: new-breakpoint(min-width $md 4) and new-breakpoint(max-width $lg 6);
+$lg-xl: new-breakpoint(min-width $lg-m 4) and new-breakpoint(max-width $xl 6);
+$lg-up: new-breakpoint(min-width $lg-m 6);
+$xl-up: new-breakpoint(min-width $xl 8);

@@ -1,0 +1,19 @@
+---
+published: true
+title: Vacation, Please!
+date: '2013-05-15T17:46:00.001-04:00'
+author: Jamie
+tags:
+- jamie
+- montreal
+- jodie
+- travel
+- lonely planet
+- thanks jodie
+modified_datetime: '2013-05-15T20:27:52.501-04:00'
+thumbnail: http://2.bp.blogspot.com/-Sy3cARr9nlM/UZQBgoxtLyI/AAAAAAAABpQ/P4LnbjLKuRU/s72-c/462F5F69-E115-4EE1-A950-CCE069EFD49E.JPG
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6495048375257046778
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2013/05/vacation-please.html
+---
+
+<div>A great chunk of my vacations after the age of 18 have originated with conversations like this:&nbsp;</div><div><br /></div><div>JAMIE'S DAD: Do you remember when you were four years old and we took you to meet your aunt in Vancouver?&nbsp;</div><div>JAMIE: No.&nbsp;</div><div>JAMIE'S DAD: You don't? &nbsp;We took lots of pictures.</div><div>JAMIE: Dad. I was four.&nbsp;</div><div>JAMIE'S DAD: So you do remember!</div><div>JAMIE: ...</div><div><br /></div><div>When I was younger (and even now) my father would gather our family together, tuck us into the car along with snacks, a gigantic camera and a tripod, and take us on a road trip. &nbsp;Because of this proclivity, I visited a pretty decent chunk of North America before my ninth birthday and seem to remember none of it. My father and I often have arguments over where we've visited over the years, and he's always able to prove it with photographic evidence. &nbsp;The pictures have yellowed, and I usually spend a few weekends out of the year revisiting places I had visited when I was younger to remember it with older eyes. &nbsp;</div><div><br /></div><div>That's the case with this summer--I'm going on a road trip to&nbsp;<em style="background-color: white; color: #444444; font-style: normal; line-height: 14.545454025268555px;">Montréal in July. M</em>y memories of&nbsp;<em style="background-color: white; color: #444444; font-style: normal; line-height: 14.545454025268555px;">Montréal</em>&nbsp;involve my parents' ancient Mazda MPV and acquiring a dog figurine. &nbsp;Thanks to Jodie, our lovely travel expert, and Lonely Planet, who graciously sent me (and other booksellers!) free guidebooks, I know the city is more than my wobbly memories.&nbsp;</div><div><br /></div><div>I'm really looking forward to renting a bicycle and exploring. &nbsp;There are so many festivals in <span style="color: #444444;"><span style="line-height: 14.53125px;">the summer, and I really hope I manage to catch the Loto-Quebec International Fireworks Competition. &nbsp;I'm planning on visiting Chapters Bookstore and Archambault (#1 rule of bookseller vacations, you find the local bookstore and spend hours in it, baffling your travel companions), eating poutine, and soaking it all in. My favorite part (aside from the travelling itself) is actually the planning of it, poring through guidebooks and familiarizing myself with an unfamiliar place.&nbsp;</span></span></div><div><span style="color: #444444;"><span style="line-height: 14.53125px;"><br /></span></span></div><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-Sy3cARr9nlM/UZQBgoxtLyI/AAAAAAAABpQ/P4LnbjLKuRU/s1600/462F5F69-E115-4EE1-A950-CCE069EFD49E.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="260" src="http://2.bp.blogspot.com/-Sy3cARr9nlM/UZQBgoxtLyI/AAAAAAAABpQ/P4LnbjLKuRU/s320/462F5F69-E115-4EE1-A950-CCE069EFD49E.JPG" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div><span style="color: #444444;"><span style="line-height: 14.53125px;"><br /></span></span></div>

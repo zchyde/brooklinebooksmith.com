@@ -1,0 +1,29 @@
+---
+title: Alex Is Reading...UPROOTED
+date: 2015-07-27T20:30:00.000Z
+category:
+featured_image_path: "/uploads/1444588552194_1441983459136_9780804179034_custom-19985fb9c9f1239e42fcfc588426613e6c0d5f58-s400-c85.jpg
+"
+staff:
+---
+As soon as it came out, I heard about a dozen ravingly positive reviews of Naomi Novik's new adult fantasy novel [_Uprooted_](http://www.brooklinebooksmith-shop.com/book/9780804179034) (including Clarissa's--check out her shelf talker in Sci Fi). I finally pushed aside the vast piles of upcoming kids' books I absolutely have to read, and gave Novik's departure from [Napoleonic dragon battles](http://www.brooklinebooksmith-shop.com/book/9780345481283) some precious reading time. Verdict before plot: if the first fifty pages don't grab you, KEEP GOING. It will be reading time well-spent. From that moment (really, page fifty, I mean it quite literally) 'til the end of the book, _Uprooted_ is a tense, fast-pasted, highly creative and sometimes (satisfyingly) gruesome fight-for-your-life against the raging, dangerous and extraordinary power at the heart of a forbidding wood.
+
+The plot of _Uprooted_ is basically this: seventeen-year-old apparently average village girl Agnieszka is snatched from home by a magician called the Dragon, who protects the villages from the evil powers of the forest, but no one likes him much because he's a jerk. Everyone is surprised her pretty friend doesn't get taken instead, but it turns out this is because Agnieszka is incredibly magical, and in a really weird way, too. Which is good, because it turns out her weird way of doing magic is the best chance local humankind has of stopping the woods in its tracks before it kidnaps, murders, and buries the entire country in malevolent carnivorous trees.
+
+A lot of the most interesting stuff, aside from the monsters, is how Novik writes about magic in this book, especially when the ways that Agnieszka and the Dragon experience the same spells are completely different. Complicated, original magic is one of the coolest things about good fantasy. Smart girls learning magic (and possibly frightening everyone in the process) is even better, and as it turns out, that is a genre that exists for all ages. So please, pick up the Novik, but do not stop there. Here are some suggestions for the entire family.
+
+<u>**LADIES, LEARNING, MAGIC**</u>
+
+[_Among Others_](http://www.brooklinebooksmith-shop.com/book/9780765331724) by Jo Walton -- (Found in SF, and currently on our bargain table) The magic learning doesn't really take place in school in this book, but the protagonist, while plowing through hundreds of sci fi novels and processing the death of her twin sister and the looming threat of her mother, is forced to learn how magic works, in order not to do any more damage than she already has by using it.
+
+[_Circle of Magic_](http://www.brooklinebooksmith-shop.com/book/9780590554084) by Tamora Pierce -- (Available online; recommended for middle school+) This quartet gives one volume to each of four young students of magic, who all use a different medium. The first three books are about girls Sandry, Tris, and Daja. The magic is neat, and the characters are among my favorites by Tamora Pierce.
+
+_[Discovery of Witches](http://www.brooklinebooksmith-shop.com/book/9780143119685)_ by Deborah Harkness -- (Fiction/SF) You can find this trilogy of magical academia, Oxford, and women's friendships in both adult fiction and science fiction, and they delight our readers from both sides of the aisle.
+
+[_Equal Rites_](http://www.brooklinebooksmith-shop.com/book/9780062225696) by Terry Pratchett -- (SF) Like most Discworld novels, this one stands alone just fine, as it tackles collegiate sexism through a girl who has the appalling gall to want to _study magic at university_.
+
+[_Gunnerkrigg Court_](http://www.brooklinebooksmith-shop.com/book/9781608867035) by Tom Siddell -- (Kids' Graphica) Antimony Carver is a poker-faced girl with a mysterious past, going to a boarding school populated with possessed students, sentient robots, ghosts, and monsters. She also learns magic from the gods that live in the nearby wood. This is an awesome, awesome graphic novel series that unfolds slowly, beautifully, and sometimes painfully, page by page.
+
+[_Lirael_](http://www.brooklinebooksmith-shop.com/book/9780062315564) by Garth Nix -- (YA/SF) The sequel to [_Sabriel_](http://www.brooklinebooksmith-shop.com/book/9780062315557) stands firm enough without its predecessor. The first large chunk of it takes place in a vast library inside a glacier. There, teenage Lirael learns step by painstaking step how to use a power she does not want to gain the things that she does. The mythology of these books is always tremendous, and Lirael fails to make right choices in all the places that result in an extremely satisfying story.
+
+I've previously mentioned Nnedi Okorafor's upper middle grade Nigerian fantasy_[Akata Witch](http://www.brooklinebooksmith-shop.com/book/9780670011964),_ and I emphatically continue to recommend that. I'd also advise anyone who digs around in used bookstores to keep their eye out for Monica Furlong's _Wise Child,_ Caroline Stevermer's _A College of Magics_ and Pamela Dean's_Tam Lin_. They're three very different but all very good books that I'd put in your hands if I could get them into my own. Last of all, it's not quite in the theme of the list, but I recommend Patricia A. McKillip's [_The Forgotten Beasts of Eld_](http://www.brooklinebooksmith-shop.com/book/9780152008697), and truly all McKillip novels for a delicious sense of place, magic, and wildness in full flower.

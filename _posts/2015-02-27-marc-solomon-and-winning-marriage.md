@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Marc Solomon and "Winning Marriage: The Inside Story of How Same-Sex Couples
+  Took on the Politicians and Pundits—and Won".'
+date: '2015-02-27T17:19:00.000-05:00'
+author: Zoe Hyde
+tags:
+- massachusetts
+- legalize gay
+- author events
+- books
+- gay marriage
+- marc solomon
+- legalize gay marriage
+- winning marriage
+modified_datetime: '2015-02-27T17:19:09.821-05:00'
+thumbnail: http://3.bp.blogspot.com/-5U0lzBkKO6g/VPDtLsEFNzI/AAAAAAAAAkw/xZZpbM8hBEo/s72-c/marcsoloman.jpg
+blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8659042814300829251
+blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/marc-solomon-and-winning-marriage.html
+---
+[![](http://3.bp.blogspot.com/-5U0lzBkKO6g/VPDtLsEFNzI/AAAAAAAAAkw/xZZpbM8hBEo/s1600/marcsoloman.jpg)](http://3.bp.blogspot.com/-5U0lzBkKO6g/VPDtLsEFNzI/AAAAAAAAAkw/xZZpbM8hBEo/s1600/marcsoloman.jpg)
+
+When I meet Marc Solomon, I'm coming out from the back of Brookline Booksmith, and I catch him, sheepishly loitering close to - but not too close too - the "Employee's Only" door of the Used Book Cellar. He's got a bag on his shoulder and makes meaningful eye contact with me when I emerge from the back, the telltale "I'm supposed to be here but I don't know exactly where" eyes of an author preparing for an event.  
+
+He's tall; quite tall. He towers above me, and I have the unusual experience of having to look upwards at him as I speak to him. This is novel for me, being that I'm 5'10\. Marc has a boyish face, and very blue eyes. He's dressed simply in a black suit and button down shirt - no tie, this is a casual affair - and a small, discrete rainbow-colored rubber bracelet around his wrist, peeking out from beneath his suit cuff. As we near the beginning of 7:00, I tell him I have a small introduction for him, and then after that, he can basically do what he likes up there. "Most people tend to read for about 30 minutes, then take questions and answers, but its really totally up to you." I tell him. He pauses. "I might sing a bit." he adds, smiling. That would be great, we don't really get a lot of that here, I tell him.  
+
+The event is on the smaller side; only a few couples scattered across the readers and writers room. Mark doesn't flinch; he takes the lectern and launches into his presentation of "Winning Marriage" in the same easy tone and gentleness that Solomon no doubt applies to his whole life.  
+
+He reads a bit from the book, but the real strength of the event is the question and answer portion. Almost all of the guests have a question or comment, and we easily fill the remaining 20 minutes with discussion, a feat that is not so easily achieved, let me tell you. There's a man in the back who talks about Arkansas, asks, will it ever truly accept the gay community? There is a couple of married women that ask Marc if he feels his work will ever be done. His answer is full of so many emotions; hopefulness, dedication, skepticism and patience. Above all, Marc seems patient. It rolls off him in waves and drops as he holds onto the lectern, his tall frame slightly bent, his feet visible at each side. Marc talks about his work and about the struggle to make gay marriage a reality with a kind of quiet deference; it does make you wonder, what would Marc be doing, if not this? He is easy to talk to, and speaks from the lectern with a clear capacity to handle questions and queries while at the same time being accessibly human.  
+
+Marc warns us against adopting the attitude that gay marriage across all states is an inevitability, and all one has to do is wait. He recalls many critics of the movement asking, 'why are you putting so much into this if its going to happen eventually? Why push so hard? Why be so vocal?' This is the kind of convenient attitude that allows people to be lazy, to throw away the work that is so crucial to this and any movement.  
+
+"You just have to put one foot in front of the other." Marc tells us. He uses sports and game terms like, 'put small wins on the board', and 'don't spike the ball at the 10 yard line'. Every sports metaphor I come across are almost exclusively lost on me, but I think anyone can understand his basic, "don't count your chickens before they hatch" sentiment (I guess I'm more comfortable talking about chickens then I am sports, but I'm no more a farmer then I am a sportsmen. In my defense, I would rather watch a bunch of chickens roam around a field than I would a sports game. No joke).  
+
+One of the women in the audience reminds us of one of the rallies in Boston during 2004, during the supreme court debates on whether or not it was unconstitutional to allow only same-sex couples to marry. I was at many of those protests; I was about 16; just as precious as you please, I felt every injustice and emotion with so much more volume and clarity than I do now, as all 16 year old humans are want to do. We've had gay marriage, and enjoyed a slew of unpopular civil rights, here in Massachusetts for so long now that I had forgotten that a time in which we did not have those rights is still relatively recent in our states history. I remembered showing up in the cold, chanting, holding signs; the whole protest bit. At one of the final protests and final court hearings, after the ruling was announced, the protesters and several groups of media people ran into the state house and congregated around and along a long staircase. This whole memory is somewhat skewed for me, since I was delirious with JUSTICE and from screaming myself hoarse outside for hours, but it is at this moment that some state legislators appeared, as if from nowhere, and began speaking about the trials that were to come, and about the great win we had witness there that day. After the applause died down, a chant started from somewhere across the room - "thank you, Massachusetts", and it spread in that way that those victory chants spread, like a trickle of water along a slanted counter top, until we were all saying it. Shortly we were yelling it, a whole hallway of sweaty, clammy protesters, and besuited lawpeople, and naive high school students alike were all filling the vaulted ceilings with "thank you, Massachusetts", rounding out the staccato of the four syllables in the long name of our state. I was grateful for the opportunity to experience those feelings again, to remind myself of the struggle that equal rights, across all sorts of different vistas, is up against everyday in this country.  
+
+All in all, this was an example of an incredible small event. Brookline Booksmith was honored to have Marc Solomon visit us, he was a pleasure to meet and I wish him the very best in all his endeavors. I would urge anyone with an interest in civil rights, or possibly those of us with foggy memories of the events of the 2004 [Goodridge v. Department of Public Health](http://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health) ruling to read Marc Solomon's book. It is every bit as funny and entertaining as he is, with the added benefit of detailing an important part of global history (Massachusetts was the 6th district _in the world_ to legalize gay marriage, after the Netherlands, Belgium, Ontario, British Columbia, and Quebec). We are small, special, loud, brutish, and occasionally excellent. Thank you, Massachusetts

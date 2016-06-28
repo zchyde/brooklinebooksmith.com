@@ -1,0 +1,18 @@
+.image-cover-small {
+  width: 100%;
+  //height: auto;
+  float:left;
+  margin-right:1em;
+  margin-bottom:2em;
+  @include media($lg-up) {
+    width:auto;
+    height:14em;
+  }
+}
+
+.image-small {
+  max-width:14em;
+  float:left;
+  margin-right:1em;
+  margin-bottom:2em;
+}
