@@ -1,5 +1,0 @@
-<h5 class="brand{% if room_for_image %} with_book{% endif %}{% if row.event_name|size > '70' %} smaller{% endif %}">
-  <a href="{{ url(month)}}#event-{{ row.start_date|date('U') }} ">
-    {{ row.event_name|markdown|replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') }}
-  </a>
-  </h5>

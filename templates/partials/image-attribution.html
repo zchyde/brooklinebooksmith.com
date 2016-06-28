@@ -1,7 +1,0 @@
-{% if item.featured_image %}
-  {% if item.featured_image_attribution %}
-    <div class="caption footnotes">
-      photo credit: {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.featured_image_attribution|markdown }}{% endfilter %}
-    </div>
-  {% endif %}
-{% endif %}

@@ -1,3 +1,0 @@
-User-Agent: *
-Disallow:{% if getSetting('analytics_id')  %} /cms/{% else %} / {% endif %}
-

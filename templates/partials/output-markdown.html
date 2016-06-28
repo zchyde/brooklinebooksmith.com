@@ -1,8 +1,0 @@
----
-title: {{item.name}}
-date: {{ item.publish_date|date('c') }}
-featured_image_path: {{ item.featured_image.url }}
-slug: {{ item.publish_date|date('Y-m-d') }}-{{ url(item)|replace('/article/', '') }}
-
----
-{{item.copy | safe }}
