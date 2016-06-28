@@ -8,7 +8,7 @@ program: '-writers-and-readers'
 ticketed: false
 test:
 book_isbn:
-  - '9780692555835'
+  -
 ---
 
 
