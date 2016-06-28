@@ -1,0 +1,34 @@
+- name: "Hours/Location"
+  link: /hours-location/
+  topnav: true
+  footer: true
+
+- name: "Events"
+  link: /events/
+  topnav: true
+  footer: true
+
+- name: "Giftsmith"
+  link: /giftsmith/
+  topnav: true
+  footer: true
+
+- name: "Used Book Cellar"
+  link: /used-books/
+  topnav: true
+  footer: true
+
+- name: "Kidsmith"
+  link: /kidsmith/
+  topnav: true
+  footer: true
+
+- name: "Gift Cards"
+  link: http://www.brooklinebooksmith-shop.com/gift-card-booksmith
+  topnav: true
+  footer: true
+
+- name: "About Us"
+  link: /about-us/
+  topnav: true
+  footer: true

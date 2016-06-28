@@ -21,11 +21,17 @@ layout: compress
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
       <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape | remove: '*' }} - {% endif %} {{site.sitename}}</title>
+      
       {% if page.url %}
-        <link rel="canonical" href="{{site.url}}" />
+        <link rel="canonical" href="{{ site.url }}" />
       {% endif %}
+      
+      {% comment %} 
+        <!-- this is the sass-based CSS
+        <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" /> -->
+      {% endcomment %}
 
-        <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
+        <link href='/assets/css/app.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
       {% include global/icons.html %}
 
@@ -46,25 +52,11 @@ layout: compress
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@booksmithtweets" />
      {% include head-css.css %}
-
-     
-
 </head>
   <body class="{% if page.class %}{{ page.class }} {% endif %}{{ jekyll.environment }}">
-    <a href="#content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
-    
-    
-    
-      {% include global/navigation.html %}
-    
-    
-
-      <main id="content" role="main">
-        {{content}}
-      </main>
-    
-    
-
+    <a href="#content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>        
+    {% include global/header.html %}    
+      {{content}}    
     {% include global/footer.html %}
     {% include global/navigation-mobile.html %}
     {% include global/scripts.html %}
