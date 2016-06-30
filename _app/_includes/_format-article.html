@@ -13,7 +13,9 @@
     <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;margin:bottom:2em;" />
   {% endif %}
   
-    {{ content }}
+    <div>
+      {{ content }}
+    </div>
     
   {% if page.include == 'ecommerce/febc-landing.html' %}
      {% include ecommerce/febc-landing.html %}
