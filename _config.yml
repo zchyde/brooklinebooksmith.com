@@ -167,7 +167,7 @@ defaults:
       layout: home
       permalink: '/'
       fancy_font:
-      title: ''
+      title: 'brookline booksmith'
       page_heading:
       description:
       regenerate: true
