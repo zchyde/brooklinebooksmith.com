@@ -12,34 +12,12 @@
   {% if page.show_featured_image_in_post and page.show_featured_image_in_post == true %}
     <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;margin:bottom:2em;" />
   {% endif %}
-
-
-  {% if page.content %}
-    <div class="items">
-      <div class="item">
-        {% comment %} {{ page.content  | markdownify | replace: '<hr />', '</div><div class="item">' }} {% endcomment %}
-        {{ content }}
-      </div>
-    </div>
-  {% endif %}
-
-  {% comment %}
-    if page.include
-      include {{ page.include }}
-    endif
-
-   {% endcomment %}
-
-
+  
+    {{ content }}
+    
   {% if page.include == 'ecommerce/febc-landing.html' %}
      {% include ecommerce/febc-landing.html %}
   {% endif %}
-
-
-  {% if page.include == 'ecommerce/febc-landing-snipcart.html' %}
-     {% include ecommerce/febc-landing-snipcart.html %}
-  {% endif %}
-
 
   {% if page.include == 'events/list-future.html' %}
      {% include events/list-future.html %}
@@ -60,8 +38,4 @@
       {% endfor %}
     </div>
   {% endif %}
-</div>
-
-<div class="row">
-  {% include form-constant-contact.html %}
 </div>

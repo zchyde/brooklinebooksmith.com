@@ -1,31 +1,22 @@
 ---
 layout: default
 ---
-<div class="has-layout__full-width layout-three-column">
-  <aside class="top{% if page.description  %} content-aside{% endif %}">
+{% include hero.html %}
+
+<div class="height-100">
+  
+  <aside class="top col lg-col-3 mt1{% if page.description  %} bg-near-white p2{% endif %}">
     {% if page.description  %}
       {{ page.description  | markdownify }}
     {% endif %}
-    &nbsp;
-    {% if page.category %}
-    {% assign category_posts = site.posts | where: 'category', page.category %}
-    {% if category_posts %}
-    <ul>
-    {% for object in category_posts %}
-      <li style="margin-bottom:1em;">
-        <a href="#{{ object.url | slugify }}">
-            {{ object.title | escape  }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-    {% endif %}
   </aside>
-  <article class="hentry">
+
+  <article class="hentry p3 col lg-col-7">
       {% include _format-article.html %}
   </article>
-  <aside class="bottom{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
+  
+
+  <aside class="clearfix bottom{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
     {% if page.include_description %}
         {% include {{ page.include_description }} %}
     {% endif %}
@@ -35,6 +26,6 @@ layout: default
         image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
       </div>
     {% endif %}
-
   </aside>
+
 </div>

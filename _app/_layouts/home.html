@@ -6,6 +6,10 @@ layout: default
 {% assign posts = site.posts %}
 {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
+
+{% include hero.html %}
+
+
 <main class="layout_two_column_wide row">
   <article class="">
     {% if campaign.size > 0 %}
@@ -79,7 +83,7 @@ layout: default
         <div class="addthis_horizontal_follow_toolbox"></div>
       </div>
       <div class="boxes-3-across">
-        {% include form-constant-contact.html %}
+        {% include forms/constant-contact.html %}
       </div>
       <div class="boxes-3-across">
         &nbsp;

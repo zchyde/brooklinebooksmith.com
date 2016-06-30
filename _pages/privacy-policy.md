@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+permalink: /privacy-policy/
 ---
 
 ## brookline booksmith Terms of Service and Privacy Policy

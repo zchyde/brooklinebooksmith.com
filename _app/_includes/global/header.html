@@ -1,4 +1,47 @@
-<header class="navigation" role="banner" data-search-index="false">
+{% assign navigation-links = site.data.navigation-links %}
+<header class="flex flex-column sm-hide xs-hide fixed top-0 right-0 height-100 w-4 z2 bg-brand overflow-y" role="banner" data-search-index="false">
+  <a href="/" class="text-decoration-none block white bold font-family-brand h1 line-height-1 py1 lg-py2 pl1 lg-pl2">    
+    {{ site.sitename | default: 'Home' }}    
+  </a>
+    <small class="
+    block fit py1 lg-py2 px1 lg-px2
+    md-hide lg-hide
+    white-70 ">
+      {{ site.address_for_nav }}
+    </small>
+
+
+  {% for object in navigation-links %}
+    <a class="
+      h5  
+      block fit py1 lg-py2 px1 lg-px2 
+      text-decoration-none 
+      bold
+      light-gray
+      hover-white 
+      bg-hover-near-brand       
+      border-brand-90
+      {% unless forloop.last %} border-bottom {% endunless %}      
+      {% if page.url == object.url %} bg-near-brand white{% endif %}" 
+      href="{{ object.url }}" title="{{ object.title }}">
+      {{ object.title }}
+    </a>
+  {% endfor %}
+
+    <div class=" block mx2 my3 rounded">
+      <a href="/join-our-mailing-list/" class="btn btn-primary">
+      join our mailing list
+    </a>
+    </div>
   
-  
+  <div class="addthis_horizontal_follow_toolbox p1 lg-p2 rounded" style="margin-top:auto;"></div>
+
+  {% comment %}
+    <!-- if we want to host our own buttons, this process is started -->
+    <!-- 
+      <div class="p1 lg-p2 rounded" style="margin-top:auto;">
+        {% include sharing.html %}
+      </div>
+    -->
+  {% endcomment %}
 </header>

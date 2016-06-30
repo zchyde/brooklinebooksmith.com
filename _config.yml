@@ -2,13 +2,17 @@
 title: Brookline Booksmith
 description: "Brookline Booksmith is an stablished independent bookshop offering new & used titles, plus gifts, over 2 floors."
 url: http://www.brooklinebooksmith.com
+author: []
 twitter:
   username: booksmithtweets
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
 logo: http://www.brooklinebooksmith.com/uploads/banner-home-page_wr.jpg
+addthis_id: 561d1f58a8154d03
 
-
-
-address_for_nav: "279 Harvard St. (at Beacon St.) &bull; 617-566-6660"
+address_for_nav: "279 Harvard St. (at Beacon St.) <br /> 617-566-6660"
 address: "279 Harvard St, Brookline, Massachusetts 02446-2908"
 
 newsletter_copy: "Join our mailing list to get b-mail, our weekly newsletter"
@@ -47,6 +51,7 @@ subscription_recurring_times:
 
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3
+image_url: https://brooklinebbs.imgix.net
 images_domain: http://images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
 
@@ -78,6 +83,8 @@ exclude:
   - package.json
   - javascript
   - vendor
+include: 
+  - _pages
 permalink: pretty
 future: false
 production: true
@@ -90,7 +97,9 @@ fancy_fonts:
   - 'Lato'
   - 'Pacifico'
 directory_assets_img: /static/images/
-twitter_id: budparr
+
+
+
 collections:
   campaigns:
     output: false
@@ -112,6 +121,7 @@ collections:
   staff:
     output: false
     permalink: '/:collection/:path/'
+
 defaults:
   - scope:
       path: ''
@@ -123,6 +133,9 @@ defaults:
       type: posts
     values:
       layout: page-single
+      _comments:
+        featured: Stick to the top of the home page? Remember to uncheck when done.
+        featured_image_path: Upload images to the Uploads directory
   - scope:
       path: ''
       type: events
@@ -154,7 +167,7 @@ defaults:
       layout: home
       permalink: '/'
       fancy_font:
-      title:
+      title: ''
       page_heading:
       description:
       regenerate: true

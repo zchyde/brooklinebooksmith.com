@@ -1,34 +1,23 @@
-- name: "Hours/Location"
-  link: /hours-location/
-  topnav: true
-  footer: true
+- title: "Events"
+  url: /events/
 
-- name: "Events"
-  link: /events/
-  topnav: true
-  footer: true
+- title: "Hours/Location"
+  url: /hours-location/
 
-- name: "Giftsmith"
-  link: /giftsmith/
-  topnav: true
-  footer: true
+- title: "Kidsmith"
+  url: /kidsmith/
 
-- name: "Used Book Cellar"
-  link: /used-books/
-  topnav: true
-  footer: true
+- title: "Signed First Editions Book&nbsp;Club"
+  url: /sfe/
 
-- name: "Kidsmith"
-  link: /kidsmith/
-  topnav: true
-  footer: true
+- title: "Giftsmith"
+  url: /giftsmith/
 
-- name: "Gift Cards"
-  link: http://www.brooklinebooksmith-shop.com/gift-card-booksmith
-  topnav: true
-  footer: true
+- title: "Used Book Cellar"
+  url: /used-books/
 
-- name: "About Us"
-  link: /about-us/
-  topnav: true
-  footer: true
+- title: "About Us"
+  url: /about-us/
+
+- title: "Shop & Giftcards"
+  url: /search-the-shop/

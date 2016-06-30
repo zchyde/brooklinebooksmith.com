@@ -78,13 +78,13 @@
   	To subscribe to our SFE program, just make your choices below and then hit the Subscribe button.
   </p>
 
-  <p class="row__clear">
+  <p class="clearfix">
   	<small style="color: #000;">
       Choose a subscription for either a Pickup Plan (29.00/month) or a Delivery Plan (36.00/month) by selecting a button below.
     </small>
   </p>
 
-  <div class="button-group row__clear">
+  <div class="button-group clearfix">
 
   	<label>
   		 <input type="radio" name="a3" value="{{ a3_subscription_price_plan1 }}" id="pick-up" checked>
@@ -96,11 +96,11 @@
    	 </label>
   </div>
 
-  <p class="row__clear">
+  <p class="clearfix">
   	<small style="color: #000;">Now, choose how long you'd like to subscribe for yourself (or as a gift) by selecting one of the button options below.</small>
   </p>
 
-   <div class="button-group row__clear">
+   <div class="button-group clearfix">
      <label>
        <input type="radio" name="srt" value="" checked>
        <span class="button-group-item">Ongoing</span>
@@ -137,14 +137,14 @@
 
 
 
-  <button type="submit" href="javascript: submitform()" class="button button-list">
+  <button type="submit" href="javascript: submitform()" class="btn btn-primary">
   Subscribe
   	<!-- {{ name }} - ${{ total_price }} -->
   </button>
 
 
 </form>
-<p style="margin-top:2em;">
+<p class="clearfix mt2">
 	<small>
     You can cancel at any time, by clicking <a href="/sfe-cancelation/">here</a>.
   </small>
