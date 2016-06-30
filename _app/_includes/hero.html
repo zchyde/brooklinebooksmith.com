@@ -11,10 +11,10 @@
     mx-auto fit 
     bg-cover bg-center"
     {% if page.featured_image_path %} 
-      style="min-height:320px;background-image:url('{{ page.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220&bs=inherit&blend=073048&balph=55');background-repeat:no-repeat;"
+      style="min-height:350px;background-image:url('{{ page.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220q=65&bm=multiply&blend64=Nzc3');background-repeat:no-repeat;"
     {% endif %}>  
     <div class="p3">
-      <h1 class="special font-family-brand center h1{% if page.featured_image_path %} near-white{% endif %}" style="font-size:4.5em;">
+      <h1 class="special font-family-brand center h1{% if page.featured_image_path %} near-white{% endif %}" style="font-size:4.5em;text-shadow: -1px -1px 0 #111111;">
         {{ title }}
       </h1>  
     </div>

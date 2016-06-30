@@ -1,18 +1,7 @@
 @import 'sanitize.css';
 @import 'normalize-opentype.css/normalize-opentype.css';
-
-
-/*@import '_tachyons';*/
-
 @import '_basscss';
-
-/*
-removing for now. We may be able to use the accessibility aids in sanitize.css and we may not need the thing we're using it for because of the layout.
-@import '_elements-accessibility';*/
-
-
 @import '_overrides';
-
 @import '_fonts';
 @import '_settings-colors';
 @import '_settings-typography';
@@ -52,29 +41,7 @@ min-height: 90vh;
 .flex-grow { 
   flex: 1 0 auto ;
 }*/
-#at4-follow, #at4-foc {
-  /*this is temporary to hide addthis follow header while this site is in staging*/
-  /*left: -10px !important;*/
-  display: none !important;
-}
-article.hentry p {
-  font-size: 1.125em;
-}
-article.hentry img {
-  float: left;
-  max-height: 15em;
-  margin: .75em 1.5em .75em 0;
-  padding-bottom: 1em;
-}
-hr {
-  clear: both;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  border: 0;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: var(--near-white);
-}
+
 
 
 /*
