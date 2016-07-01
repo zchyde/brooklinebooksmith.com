@@ -1,6 +1,8 @@
 ---
 title: 'Darkstalker (Wings of Fire: Legends)'
-isbn:
+isbn: '9781338053616'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/616/053/9781338053616.jpg'
 ---
+
+
