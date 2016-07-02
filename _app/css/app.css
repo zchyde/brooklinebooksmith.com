@@ -1,55 +1,80 @@
 @import 'sanitize.css';
-@import 'normalize-opentype.css/normalize-opentype.css';
-@import '_basscss';
+
+@import '/_fonts';
+
+/*@import 'normalize-opentype.css/normalize-opentype.css';*/
+/* Variables */
+
+@import '/_tachyons/_colors';
+
+/* Modules */
+@import '/_tachyons/_box-sizing';
+@import '/_tachyons/_background-size';
+@import '/_tachyons/_borders';
+@import '/_tachyons/_border-colors';
+@import '/_tachyons/_border-radius';
+@import '/_tachyons/_border-style';
+/*@import '/_tachyons/_border-widths';*/
+@import '/_tachyons/_box-shadow';
+/*@import '/_tachyons/_code';*/
+@import '/_tachyons/_coordinates';
+@import '/_tachyons/_clears';
+@import '/_tachyons/_display';
+@import '/_tachyons/_floats';
+@import '/_tachyons/_font-family';
+@import '/_tachyons/_font-style';
+@import '/_tachyons/_font-weight';
+@import '/_tachyons/_forms';
+@import '/_tachyons/_heights';
+@import '/_tachyons/_letter-spacing';
+@import '/_tachyons/_line-height';
+@import '/_tachyons/_links';
+@import '/_tachyons/_lists';
+@import '/_tachyons/_max-widths';
+@import '/_tachyons/_widths';
+@import '/_tachyons/_overflow';
+@import '/_tachyons/_position';
+@import '/_tachyons/_opacity';
+@import '/_tachyons/_skins';
+@import '/_tachyons/_spacing';
+@import '/_tachyons/_tables';
+@import '/_tachyons/_text-decoration';
+@import '/_tachyons/_text-align';
+@import '/_tachyons/_text-transform';
+@import '/_tachyons/_type-scale';
+@import '/_tachyons/_typography';
+@import '/_tachyons/_utilities';
+@import '/_tachyons/_visibility';
+/*@import '/_tachyons/_white-space';*/
+@import '/_tachyons/_vertical-align';
+@import '/_tachyons/_hovers';
+
+/* Import media queries at end as this will allow you to customize them
+ * and override what is currently declared in each module.
+ */
+
+@import '_tachyons-flex';
+@import '_settings-media-queries';
+
+@import '_brand';
+
 @import '_overrides';
-@import '_fonts';
-@import '_settings-colors';
-@import '_settings-typography';
-/*@import '_settings-media-queries';*/
-@import '_settings';
 
 
-
-.content {
-min-height: 90vh;
+.clip:focus {
+  clip: auto;
 }
 
-.lowercase { 
-    text-transform: lowercase; 
-    
-  }
 /*.element {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
 }*/
 
-.overflow-y {
-  overflow-y: auto;
-}
-
-.height-100 {
-  height: 100%;
-  min-height:100vh;
-}
-.w-4 { 
-  width: var(--space-4);
-}
-
-/*
-
-.flex-grow { 
-  flex: 1 0 auto ;
-}*/
 
 
+/* DEBUGGING */
+/*@import './_debug_children';*/
 
-/*
-TODO:
-- hide sidebar < 1024px and use menu button
-- make w-4 and ml-4 280 and 220 pixels depending on screenwidth
-- on iOS, when scrolling the sidebar shows white because chrome disappears. Need to add script to fix this.
-
-todo: moving to production
- - turn off addthis follow header
-*/
+/* Uncomment out this line and rebuild if you want to debug your layout.*/
+/* @import './_debug'; */

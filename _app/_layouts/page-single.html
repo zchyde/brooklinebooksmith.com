@@ -3,26 +3,26 @@ layout: default
 ---
 {% include hero.html %}
 
-<div class="height-100">
+<div class="content height-100">
   
-  <aside class="top col lg-col-3 mt1{% if page.description  %} bg-near-white p2{% endif %}">
+  <aside class="mt3 f6{% if page.description  %} db w-100 w-25-ns fn fl-ns bg-near-white pa3{% endif %}">
     {% if page.description  %}
       {{ page.description  | markdownify }}
     {% endif %}
   </aside>
 
-  <article class="hentry p3 col lg-col-7">
+  <article class="hentry mw5 mw7-ns center w-100 w-60-ns pa3 ph5-ns{% if page.description  %}fn fl-ns {% endif %}">
       {% include _format-article.html %}
   </article>
   
 
-  <aside class="clearfix bottom{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
+  <aside class="cf w-100{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
     {% if page.include_description %}
         {% include {{ page.include_description }} %}
     {% endif %}
     &nbsp;
     {% if page.featured_image_credit %}
-      <div class="caption">
+      <div class="caption cf w-100 f6">
         image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
       </div>
     {% endif %}

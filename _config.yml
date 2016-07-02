@@ -119,7 +119,7 @@ collections:
   books:
     output: false
   staff:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
 
 defaults:

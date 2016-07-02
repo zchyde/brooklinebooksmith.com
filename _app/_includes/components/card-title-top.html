@@ -1,0 +1,43 @@
+<article class="bg-white center mw5 ba b--black-10 mv4">
+  <div class="pv2 ph3">
+    {% if object.title %}
+      <h1 class="f6 ttu tracked">
+        {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </h1>
+    {% endif %}
+  </div>
+  {% if object.featured_image_path %}
+    <img src="{{ object.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220q=65&bm=multiply&blend64=Nzc3" class="w-100 db" alt="Cat yawning">
+  {% endif %}
+  <div class="pa3">
+    <a href="{{ object.url }}" class="link dim lh-title">
+      {% if object.description and object.description != '' %}      
+        {{ object.description | markdownify | strip_html | truncatewords: 90, '…' }}      
+      {% endif %}
+    </a>
+    <small class="gray db pv2">
+      {% capture related_staff %}/staff/{{ object.staff }}/{% endcapture %}
+      {% assign theauthor = site.staff | where: 'url', object.staff %}
+      {% assign post_author = theauthor[0].title %}
+      by <strong>{{ post_author }}</strong>
+    </small>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

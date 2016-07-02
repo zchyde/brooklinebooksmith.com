@@ -51,17 +51,12 @@ layout: compress
         {% endif %}
      
 </head>
-  <body class="bg-light-gray{% if page.class %} {{ page.class }} {% endif %} {{ jekyll.environment }}">
-    {% comment %}
-    <a href="#content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>        
-    {% endcomment %}
-    <div class="flex-autoTK">
+  <body class="sans-serif bg-light-gray{% if page.class %} {{ page.class }} {% endif %} {{ jekyll.environment }}">    
       {% include global/header.html %}    
-      <main class="lg-mr4">
+      <main class="ml7">
         {{content}}            
         {% include global/footer.html %}
-      </main>          
-     </div> 
+      </main>              
     {% include global/scripts.html %}
   </body>
 </html>

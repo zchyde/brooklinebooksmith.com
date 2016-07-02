@@ -13,15 +13,11 @@ article.hentry img {
   margin: .75em 1.5em .75em 0;
   padding-bottom: 1em;
 }
-hr {
-  clear: both;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  border: 0;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: var(--near-white);
+
+.content {
+min-height: 90vh;
 }
+
 
 
 /*buttons for paypal options on SFE*/
