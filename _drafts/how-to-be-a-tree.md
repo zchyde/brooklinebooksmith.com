@@ -32,8 +32,10 @@ Humans are slowed down. They see the world more fully, or they sleep through cen
 
 Unfortunately, some of the best, most tree-ish stuff to happen in these books is absolutely on the other side of the spoiler line. So I'll bite my tongue, offer you this list, and remind you that it's a fine time of year to appreciate your trees.
 
-&nbsp;
+1. **THE LORD OF THE RINGS by J.R.R. Tolkien** - The Ents are essential in tree literature, and also a reminder that walking trees with brains are kind of scary. They seem nice enough when they’re rambling through the forest explaining things to Merry and Pippin, but remember that everyone is chronically freaked out by their woods for years before the Hobbits get frustrated with Entish conversational pace.
 
-&nbsp;
+2. **THE GREEN MAN: TALES FROM THE MYTHIC FOREST edited by Ellen Datlow and Terri Windling** - This is a fantastic collection of short stories that is tragically *out of print*. To catch a brief glimpse of the Green Man's long held position in British Isles folk lore and spirituality, do yourself a favor and Google "minster green man" for a healthy dose of peering stone faces and leaves-growing-out-of-a-guy's-mouth.
+
+3.
 
 \*Yes, I did.
