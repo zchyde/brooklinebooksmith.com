@@ -30,6 +30,8 @@ A tree, like natural objects, is morally neutral and also universal. Trees can, 
 
 Humans are slowed down. They see the world more fully, or they sleep through centuries. Plants are sped up. They gain speech, and motion that’s perceptible outside a time-lapse. They gain emotions–or the ability to express to our brief, inattentive selves the huge and haunting passions normally held in close silence below their bark. Somewhere in the middle, all kinds of incredibly creative stories happen.
 
+Unfortunately, some of the best, most tree-ish stuff to happen in these books is absolutely on the other side of the spoiler line. So I'll bite my tongue, offer you this list, and remind you that it's a fine time of year to appreciate your trees.
+
 &nbsp;
 
 &nbsp;
