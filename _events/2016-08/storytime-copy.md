@@ -1,7 +1,7 @@
 ---
 title: "*Children's Storytime*"
 published: true
-start_at: 2016-08-06T10:30:00.000Z
+start_at: 2016-08-21T10:30:00.000Z
 image_path:
 book_category:
 program: childrens-story-time
