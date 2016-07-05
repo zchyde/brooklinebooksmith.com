@@ -1,6 +1,8 @@
 ---
 title: Beauty Is a Wound
-isbn:
+isbn: '9780811223638'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/638/223/9780811223638.jpg'
 ---
+
+
