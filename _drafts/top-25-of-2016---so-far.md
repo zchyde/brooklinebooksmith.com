@@ -11,5 +11,7 @@ fancy_font:
 category:
 staff:
 books:
-  -
+  - my-brilliant-friend-book-one
 ---
+
+
