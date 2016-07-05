@@ -45,6 +45,14 @@
   --near-white: #f4f4f4;
   --white: #fff;
   
+  --purple: #9E5697;
+  --purple-dark:#874981;
+  --button-background-color: var(--purple);
+  --brand-color: #00557F;
+  --brand-90: #00486B;
+  --brand-dark: #0c4f76;
+  --highlight:var(--purple);
+  --highlight-dark:var(--purple-dark);
 
 }
 

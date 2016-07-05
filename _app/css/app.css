@@ -5,7 +5,7 @@
 /*@import 'normalize-opentype.css/normalize-opentype.css';*/
 /* Variables */
 
-@import '/_tachyons/_colors';
+@import '_colors';
 
 /* Modules */
 @import '/_tachyons/_box-sizing';
@@ -16,13 +16,11 @@
 @import '/_tachyons/_border-style';
 /*@import '/_tachyons/_border-widths';*/
 @import '/_tachyons/_box-shadow';
-/*@import '/_tachyons/_code';*/
 @import '/_tachyons/_coordinates';
 @import '/_tachyons/_clears';
 @import '/_tachyons/_display';
 @import '/_tachyons/_flexbox';
 @import '/_tachyons/_floats';
-@import '/_tachyons/_font-family';
 @import '/_tachyons/_font-style';
 @import '/_tachyons/_font-weight';
 @import '/_tachyons/_forms';
@@ -36,7 +34,6 @@
 @import '/_tachyons/_overflow';
 @import '/_tachyons/_position';
 @import '/_tachyons/_opacity';
-@import '/_tachyons/_skins';
 @import '/_tachyons/_spacing';
 @import '/_tachyons/_tables';
 @import '/_tachyons/_text-decoration';
@@ -53,12 +50,10 @@
 /* Import media queries at end as this will allow you to customize them
  * and override what is currently declared in each module.
  */
-
-
-@import '_settings-media-queries';
-
-@import '_brand';
-
+ 
+@import '_font-family';
+@import '_font-styles';
+@import '_media-queries';
 @import '_overrides';
 
 
