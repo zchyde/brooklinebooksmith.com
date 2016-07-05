@@ -1,5 +1,5 @@
 ---
-title: '**Chuck Palahniuk**, *Fight Club 2*'
+title: '**Chuck Palahniuk** - *Fight Club 2*'
 published: true
 start_at: 2016-07-17T14:00:00.000Z
 image_path:
