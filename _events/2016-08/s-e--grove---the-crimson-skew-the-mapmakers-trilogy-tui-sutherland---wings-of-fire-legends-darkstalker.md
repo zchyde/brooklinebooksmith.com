@@ -1,5 +1,5 @@
 ---
-title: '**S.E. Grove **- *The Crimson Skew (The Mapmakers Trilogy)*,  **Tui Sutherland** - *Wings of Fire: Legends: Darkstalker*'
+title: '**S.E. Grove** - *The Crimson Skew (The Mapmakers Trilogy)*,  **Tui Sutherland** - *Wings of Fire: Legends: Darkstalker*'
 published: true
 start_at: 2016-08-07T17:00:00.000Z
 image_path:
