@@ -18,7 +18,6 @@
     "compress:img": "imagemin _app/images assets/images -p",
     "watch:img": "onchange '_app/images/**/*.*' -- npm run compress:img",
     "copy:tachyons": "copyfiles -f 'node_modules/tachyons/src/*.css' '_app/css/_tachyons' ",
-    "copy:basscss": "copyfiles -u 1 node_modules/basscss-*/**/index.css '_app/css/_basscss' && copyfiles -u 1 node_modules/basscss-*/**/lib/*.* '_app/css/_basscss'",
     "build:css": "postcss -c _app/css/postcss.config.js",
     "hotbuild:css": "copyfiles -f assets/css/* _site/assets/css",
     "watch:css": "onchange '_app/css/**/*.css' -- run-s build:css hotbuild:css",
