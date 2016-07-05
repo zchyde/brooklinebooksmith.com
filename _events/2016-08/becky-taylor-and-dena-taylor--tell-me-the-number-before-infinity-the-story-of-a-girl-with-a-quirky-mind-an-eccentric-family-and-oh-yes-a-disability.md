@@ -1,5 +1,5 @@
 ---
-title: '**Becky Taylor and Dena Taylor **,  *Tell Me the Number Before Infinity: The Story of a Girl with a Quirky Mind, an Eccentric Family, and Oh Yes, a Disability*'
+title: 'Becky Taylor and Dena Taylor - *Tell Me the Number Before Infinity: The Story of a Girl with a Quirky Mind, an Eccentric Family, and Oh Yes, a Disability*'
 published: true
 start_at: 2016-08-29T19:00:00.000Z
 image_path:
