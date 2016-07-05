@@ -1,5 +1,5 @@
 ---
-title: '**Anna Noyes**,  *Goodnight, Beautiful Women*'
+title: '**Anna Noyes** - *Goodnight, Beautiful Women*'
 published: true
 start_at: 2016-07-13T19:00:00.000Z
 image_path:
