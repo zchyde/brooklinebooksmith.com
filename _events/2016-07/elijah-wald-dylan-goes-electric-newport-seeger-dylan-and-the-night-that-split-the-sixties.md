@@ -1,5 +1,5 @@
 ---
-title: '**Elijah Wald**,  *Dylan Goes Electric!: Newport, Seeger, Dylan, and the Night That Split the Sixties*'
+title: '**Elijah Wald** - *Dylan Goes Electric!: Newport, Seeger, Dylan, and the Night That Split the Sixties*'
 published: true
 start_at: 2016-07-15T19:00:00.000Z
 image_path:
