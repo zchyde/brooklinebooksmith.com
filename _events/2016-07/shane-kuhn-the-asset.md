@@ -1,5 +1,5 @@
 ---
-title: '**Shane Kuhn**,  *The Asset*'
+title: '**Shane Kuhn** - *The Asset*'
 published: true
 start_at: 2016-07-26T19:00:00.000Z
 image_path:
