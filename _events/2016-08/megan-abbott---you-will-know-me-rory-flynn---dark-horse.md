@@ -8,7 +8,8 @@ program: '-writers-and-readers'
 ticketed: false
 test:
 book_isbn:
-  - '9780977307081'
+  - '9780316231077'
+  - '9780544253247'
 ---
 
 
