@@ -1,5 +1,5 @@
 ---
-title: '**Elizabeth Wallace and James Wallace**,  *Garth Williams, American Illustrator: A Life*'
+title: '**Elizabeth Wallace and James Wallace**, - *Garth Williams, American Illustrator: A Life*'
 published: true
 start_at: 2016-08-16T19:00:00.000Z
 image_path:
