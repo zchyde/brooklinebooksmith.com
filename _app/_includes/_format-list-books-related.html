@@ -1,0 +1,10 @@
+{% assign books = page.related_books %}
+  {% for book in books %}
+    {% assign books = site.books | where: 'slug', book %}
+    {% for object in books  %}
+      <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank" style="height:225px;float:left;margin:0 1.5em 3em 0;">
+        <img src="{{ object.image_path }}" alt="{{ object.title }}" style="height:225px;" />
+      </a>
+    {% endfor %}
+  {% endfor %}
+

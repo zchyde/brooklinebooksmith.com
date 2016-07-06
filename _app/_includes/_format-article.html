@@ -49,8 +49,12 @@
      {% include list-blog-posts.html %}
   {% endif %}
 
-  {% if page.books and page.books[0] !='' %}
+  {% if page.books %}
     {% include _format-list-books.html %}
+  {% endif %}
+
+  {% if page.related_books %}
+    {% include _format-list-books-related.html %}
   {% endif %}
 
   {% if page.category %}
