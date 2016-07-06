@@ -11,5 +11,8 @@ fancy_font:
 category:
 staff:
 related_books:
-  -
+  - dark-money
+  - disrupted-my-misadventure-in-the-start-up-bubble
 ---
+
+
