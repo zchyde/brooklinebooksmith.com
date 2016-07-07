@@ -1,6 +1,8 @@
 ---
 title: 'Saga, Volume 6'
-isbn:
+isbn: '9781632157119'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/119/157/9781632157119.jpg'
 ---
+
+
