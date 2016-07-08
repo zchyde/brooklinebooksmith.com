@@ -134,6 +134,8 @@ defaults:
       type: first-edition-books
     values:
       layout: book
+      _comments:
+        selection_end_date: 'The last date this book should be a current selection'
   - scope:
       path: ''
       type: landing_pages
