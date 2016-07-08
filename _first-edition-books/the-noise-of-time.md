@@ -1,7 +1,7 @@
 ---
 title: The Noise of Time
 published: true
-selection_date: 2016-06-30T00:00:00.000Z
+selection_end_date: 2016-06-30T12:00:00.000Z
 isbn: '9781101947241'
 author: Julian Barnes
 image_path: 'https://images.booksense.com/images/241/947/9781101947241.jpg'

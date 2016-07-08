@@ -1,10 +1,18 @@
+
+
+
 {% for book in books  %}
-{% assign selection_start = book.selection_date | date: "%Y%m%d" %}
-{% comment %} Only show future events, i.e. where the start date is greater than current {% endcomment %}
+{% assign selection_start = book.selection_end_date | date: "%Y%m%d" %}
+
 {% if selection_start >= current_date %}
+
+
+
+
+
   <div class="boxes-2-layers">
-    {% if book.selection_date %}
-      <h5>{{ book.selection_date | date: '%B, %Y' }}</h5>
+    {% if book.selection_end_date %}
+      <h5>{{ book.selection_end_date | date: '%B, %Y' }}</h5>
     {% endif %}
     {% if book.image_path %}
     <div class="boxes-2-layer">

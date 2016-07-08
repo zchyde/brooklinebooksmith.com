@@ -1,8 +1,15 @@
+
 {% assign past_selections = site.first-edition-books %}
-{% assign past_selections = past_selections | sort: 'selection_date' 'last' | reverse %}
+{% assign past_selections = past_selections | sort: 'selection_end_date' 'last' | reverse %}
 {% if past_selections %}
     {% for book in past_selections  %}
-      {% assign selection_start = book.selection_date | date: "%Y%m%d" %}
+
+
+
+
+
+
+      {% assign selection_start = book.selection_end_date | date: "%Y%m%d" %}
       {% if selection_start <= current_date %}
         <p>
           <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank" >
@@ -12,9 +19,9 @@
               </em>
             </strong>
           </a>
-          {% if book.selection_date %}
+          {% if book.selection_end_date %}
             (
-              {{ book.selection_date | date: '%B, %Y' }}
+              {{ book.selection_end_date | date: '%B, %Y' }}
             )
           {% endif %}
           {% if book.author %}
