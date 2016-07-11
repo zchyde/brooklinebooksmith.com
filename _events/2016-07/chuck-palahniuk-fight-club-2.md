@@ -19,10 +19,16 @@ book_isbn:
 * **This FIGHT CLUB 2 appearance is a signing <u>ONLY</u>.**
 * **Chuck will not be performing or reading at this event.**
 * **This is a ticketed event and each ticket will include a copy of the FIGHT CLUB 2 hardcover ($29.95).**
+* **Chuck will not be signing anything besides FIGHT CLUB 2, but pre-signed copies of his older books will be available.\*\***
 * **Tickets must be purchased in order to join the signing line.**
-* **In addition to FIGHT CLUB 2, Chuck will sign only TWO other items (pieces of memorabilia or books).**
 * **Chuck will happily pose for photos with fans.**
 * **Line formation will begin at noon.**
 
 
 ## [BUY TICKETS NOW](https://www.eventbrite.com/e/chuck-palahniuk-717-tickets-25202451210)
+
+\*\*A note from Chuck:&nbsp;
+
+*The book signing events have been terrific, but they're stretching to 14+hours long.&nbsp; To save people's sanity, I will arrive three hours early and only do posed pictures with the first few hours of folks.&nbsp; Also, I can only sign and personalize FC2.&nbsp; Thank you for understanding.&nbsp;*
+
+Thank you!
