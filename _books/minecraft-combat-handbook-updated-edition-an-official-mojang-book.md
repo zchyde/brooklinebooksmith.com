@@ -1,6 +1,8 @@
 ---
 title: 'Minecraft: Combat Handbook (Updated Edition): An Official Mojang Book'
-isbn:
+isbn: '9780545823234'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/234/823/9780545823234.jpg'
 ---
+
+
