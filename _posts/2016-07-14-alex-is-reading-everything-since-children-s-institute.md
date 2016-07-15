@@ -3,7 +3,7 @@ title: "Alex is Reading: Everything Since Children's Institute"
 published: true
 featured: false
 date: 2016-07-14T12:00:00.000Z
-description:
+description: Highlights of post-conference reading spree.
 featured_image_path: /uploads/lostgirlsbanner.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -17,7 +17,7 @@ related_books:
 
 You may remember that a few weeks ago, Amy, Clarissa and I were at ABA/ABC Children’s Institute. This is a young but rigorous conference dedicated exclusively to young people’s literature. There’s always so much going on here that it already feels like an age gone by, but let me tell you: Children’s Institute was really cool, and an energetic bounty for kids’ booksellers among their own very particular kind. I dare to say that [we’ve got an amazing kids’ team](http://www.publishersweekly.com/pw/by-topic/industry-news/bea/article/70275-bea-2016-kudos-to-pannell-award-winners.html), and the New England children’s bookselling community is substantial and healthy enough to support a [New England Children’s Booksellers Advisory Council](http://www.necba.net/).
 
-Even so, sometimes being really, really into your job of selling and caring for children’s books can feel like less evil version of Uncle Andrew’s &lt;link magician’s nephew&gt; “high and lonely destiny.” Wandering the halls stockpiling books, meeting with writers and publishers, and digging into the details of what makes other bookstores work–all with booksellers who love kids’ books as much as you do–is positively dreamy and inspiring.
+Even so, sometimes being really, really into your job of selling and caring for children’s books can feel like less evil version of [Uncle Andrew’s](http://www.brooklinebooksmith-shop.com/book/9780064409438) “high and lonely destiny.” Wandering the halls stockpiling books, meeting with writers and publishers, and digging into the details of what makes other bookstores work–all with booksellers who love kids’ books as much as you do–is positively dreamy and inspiring.
 
 Aside from a slew of good ideas and wonderful experiences, CI sent me on my way with a fresh bout of reading fever. This is good, because do you know what a bookseller’s to-be-read-immediately-on-pain-of-professional-failure-or-death looks like? AWFUL. LIKE THIS:
 
