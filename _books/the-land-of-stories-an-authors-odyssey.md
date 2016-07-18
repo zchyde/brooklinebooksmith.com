@@ -1,6 +1,8 @@
 ---
 title: "The Land of Stories: An Author's Odyssey"
-isbn:
+isbn: '9780316383295'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/295/383/9780316383295.jpg'
 ---
+
+
