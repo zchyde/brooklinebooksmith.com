@@ -18,7 +18,9 @@ related_books:
 
 —
 
-Rumaan Alam's [Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
+Rumaan Alam's debut novel is the perfect read fopr a long day at the beach.&nbsp; It is the epitome of the season -- What's summer for if not for catching up with old friends, sharing secrets under the stars, and growing whether together or apart
+
+[Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
 
 ![](/uploads/versions/1-5---x----1937-1291x---.jpg)
 <br>—
