@@ -14,15 +14,15 @@ related_books:
 ---
 
 
-![](/uploads/versions/g4---x----2184-1456x---.jpg)---
+![](/uploads/versions/g4---x----2184-1456x---.jpg)—
 
 Rumaan Alam's[Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
 
-<br>![](/uploads/versions/g2---x----1937-1291x---.jpg)---
+<br>![](/uploads/versions/g2---x----1937-1291x---.jpg)—
 
 Emma Cline's[The Girls](http://www.brooklinebooksmith-shop.com/book/9780812998603)
 
-![](/uploads/versions/g3---x----2026-1351x---.jpg)---
+![](/uploads/versions/g3---x----2026-1351x---.jpg)—
 
 Deborah Levy's [Hot Milk](http://www.brooklinebooksmith-shop.com/book/9781620406694)
 
