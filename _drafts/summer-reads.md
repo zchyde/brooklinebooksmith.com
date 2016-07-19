@@ -18,12 +18,12 @@ related_books:
 
 —
 
-Rumaan Alam's[Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
+Rumaan Alam's [Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
 
 ![](/uploads/versions/1-5---x----1937-1291x---.jpg)
 <br>—
 
-Emma Cline's[The Girls](http://www.brooklinebooksmith-shop.com/book/9780812998603)
+Emma Cline's [The Girls](http://www.brooklinebooksmith-shop.com/book/9780812998603)
 
 ![](/uploads/versions/1-1---x----2026-1351x---.jpg)
 
