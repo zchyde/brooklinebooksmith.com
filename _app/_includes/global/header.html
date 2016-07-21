@@ -1,34 +1,20 @@
-{% assign navigation-links = site.data.navigation-links %}
-<header class="df flx-dc h-100 fixed top-0 left-0 cl overflow-y-auto bg-brand w-sidebar-ns" role="banner" data-search-index="false">
+<div class="lg-flexTK items-endTK py3 px2 lg-px3">  
 
-  <a href="/" class="db mw-100 white font-family-brand lh-solid f2 no-underline pv3 ph3">    
-    {{ site.sitename | default: 'Home' }}    
-  </a>
-
-    <small class="db mw-100 pv2 ph3 near-white no-underline clip-ns lato">
-      {{ site.address_for_nav }}
-    </small>
-  {% for object in navigation-links %}
-    <a class="
-      db mw-100 f5 pv2 ph3 white-70 lato b no-underline bg-hover-brand b-brand {% unless forloop.last %} bb {% endunless %}{% if page.url == object.url %} bg-near-brand white{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
-      {{ object.title }}
-    </a>
-  {% endfor %}
-
-    <div class=" db mt4 mb3 ml3 ">
-      <a href="/join-our-mailing-list/" class="btn btn-primary bg-highlight bg-highlight-dark-hover pointer white br2 ph3 pv2 no-underline">
-      join our mailing list
-    </a>
-    </div>
+  <h1 class="md-block lg-inline-block font-family-brand sm-h0 md-h0 lg-h0 line-height-1 my0 mr3">
+    <a href="/" class="text-decoration-none color-brand">
+      {{ site.title }}
+    </a>    
+  </h1>
   
-  <div class="addthis_horizontal_follow_toolbox ph3 rounded" style="margin-top:auto;"></div>
+  <div class="xs-hide sm-hide sm-block md-block lg-inline-block">
+    {% for object in site.data.navigation-links.primary %}
+      <a class="h4 pr3 inline-block text-decoration-none bold black align-bottom hover-silver hover-bg-black {% if page.url == object.url %} bg-near-brand white{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
+        {{ object.title }}
+      </a>
+    {% endfor %}
+  </div>
+  
+  <div class="flex-auto"><!-- adds space between the menu and the search bar on the right --> </div>
 
-  {% comment %}
-    <!-- if we want to host our own buttons, this process is started -->
-    <!-- 
-      <div class="p1 lg-p2 rounded" style="margin-top:auto;">
-        {% include sharing.html %}
-      </div>
-    -->
-  {% endcomment %}
-</header>
+  {% include components/button-menu.html %}
+</div>

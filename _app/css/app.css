@@ -1,26 +1,23 @@
-/*Put Tachyons overrides outside of src folder*/
 @import 'sanitize.css';
-
-@import '/_fonts';
-
 @import 'normalize-opentype.css/normalize-opentype.css';
-/* Variables */
-
-/*@import '_colors';*/
-
 @import '_basscss';
 
- 
+@import '_fonts';
+@import '_colors'; 
 @import '_layout';
-@import '_font-styles';
-@import '_overrides';
 @import '_media-queries';
-.clip:focus {
-  clip: auto;
-}
+@import '_styles';
+@import 'modules/_expandable';
+@import 'modules/_transitions';
+/*@import 'modules/_debug';*/
 
-/*.element {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}*/
+
+
+/*
+TODO:
+- hide sidebar < 1024px and use menu button
+- make w-4 and ml-4 280 and 220 pixels depending on screenwidth
+- on iOS, when scrolling the sidebar shows white because chrome disappears. Need to add script to fix this.
+todo: moving to production
+ - turn off addthis follow header
+*/

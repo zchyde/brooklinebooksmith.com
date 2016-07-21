@@ -1,4 +1,4 @@
-/*@import '_basscss/basscss-basic';*/
+@import 'src/_basscss/basscss-basic';
 /* Basscss Modules */
 @import 'src/_basscss/basscss-type-scale';
 @import 'src/_basscss/basscss-typography';
@@ -14,24 +14,26 @@
 
 /* Optional Modules (not included in Basscss by default) */
 
-
-@import 'src/_basscss/basscss-addons/modules/responsive-margin';
-@import 'src/_basscss/basscss-addons/modules/responsive-padding';
-
-@import 'src/_basscss/basscss-addons/modules/media-object';
-@import 'src/_basscss/basscss-addons/modules/all';
-@import 'src/_basscss/basscss-addons/modules/forms';
-@import 'src/_basscss/basscss-addons/modules/input-range';
-@import 'src/_basscss/basscss-addons/modules/progress';
-
 @import 'src/_basscss/basscss-addons/modules/btn';
 @import 'src/_basscss/basscss-addons/modules/btn-primary';
 @import 'src/_basscss/basscss-addons/modules/btn-outline';
 @import 'src/_basscss/basscss-addons/modules/btn-sizes';
 
-@import 'src/_basscss/basscss-addons/modules/colors';
-@import 'src/_basscss/basscss-addons/modules/background-colors';
+
 @import 'src/_basscss/basscss-addons/modules/border-colors';
-@import 'src/_basscss/basscss-addons/modules/darken';
-@import 'src/_basscss/basscss-addons/modules/lighten';
+@import 'src/_basscss/basscss-addons/modules/responsive-layout';
+@import 'src/_basscss/basscss-addons/modules/responsive-margin';
+@import 'src/_basscss/basscss-addons/modules/responsive-padding';
+@import 'src/_basscss/basscss-addons/modules/responsive-type-scale';
+
+@import 'src/_basscss/basscss-addons/modules/media-object';
+/*@import 'src/_basscss/basscss-addons/modules/all';*/
+@import 'src/_basscss/basscss-addons/modules/forms';
+@import 'src/_basscss/basscss-addons/modules/input-range';
+@import 'src/_basscss/basscss-addons/modules/progress';
+
+
+
+/*@import 'src/_basscss/basscss-addons/modules/darken';*/
+/*@import 'src/_basscss/basscss-addons/modules/lighten';*/
 @import 'src/_basscss/basscss-addons/modules/background-images';

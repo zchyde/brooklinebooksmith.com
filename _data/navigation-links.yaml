@@ -1,23 +1,34 @@
-- title: "Events"
-  url: /events/
+utility:
+    - title: "Hours/Location"
+      url: /hours-location/
 
-- title: "Hours/Location"
-  url: /hours-location/
+    - title: "About Us"
+      url: /about-us/
 
-- title: "Kidsmith"
-  url: /kidsmith/
+    - title: "Giftcards"
+      url: /search-the-shop/
 
-- title: "Signed First Editions Book&nbsp;Club"
-  url: /sfe/
+    - title: "Search our Online Shop"
+      url: /search-the-shop/
 
-- title: "Giftsmith"
-  url: /giftsmith/
 
-- title: "Used Book Cellar"
-  url: /used-books/
+primary:
+    - title: "Events"
+      url: /events/
 
-- title: "About Us"
-  url: /about-us/
+    - title: "Blog"
+      url: /blog/
 
-- title: "Shop & Giftcards"
-  url: /search-the-shop/
+    - title: "Giftsmith"
+      url: /giftsmith/
+
+    - title: "Kidsmith"
+      url: /kidsmith/
+
+    - title: "Signed First Editions Book&nbsp;Club"
+      url: /sfe/
+
+    - title: "Used Book Cellar"
+      url: /used-books/
+
+

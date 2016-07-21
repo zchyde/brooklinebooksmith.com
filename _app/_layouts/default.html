@@ -52,11 +52,13 @@ layout: compress
      
 </head>
   <body class="sans-serif bg-light-gray{% if page.class %} {{ page.class }} {% endif %} {{ jekyll.environment }}">    
+      {% include global/navigation-topbar.html %}    
       {% include global/header.html %}    
-      <main class="ml-sidebar">
+      <main>
         {{content}}            
         {% include global/footer.html %}
       </main>              
+      {% include global/navigation-side.html %}    
     {% include global/scripts.html %}
   </body>
 </html>

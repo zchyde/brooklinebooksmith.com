@@ -1,0 +1,20 @@
+body {
+  background-color: green;
+}
+
+@media (--breakpoint-sm) {
+  body {
+    background-color: red;
+  }
+}
+@media (--breakpoint-md) {
+  body {
+    background-color: blue;
+  }
+}
+@media (--breakpoint-lg) {
+  body {
+    background-color: #fff;
+  }
+}
+

@@ -1,0 +1,4 @@
+
+  /*to show and hide the side nav*/
+.expandable { transform: translateX(360px)}
+.expandable:target {transform: translateX(0)}
