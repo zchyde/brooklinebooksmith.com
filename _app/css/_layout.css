@@ -1,7 +1,5 @@
 
 :root {
-
-  --sidebar-width: 360px;
   --space-1: .5rem;
   --space-2: 1rem;
   --space-3: 2rem;
@@ -12,12 +10,6 @@
 /*
 TODO: make this responsive
 */
-.w-sidebar-lg {
-  width: var(--sidebar-width);
-}
-.m-sidebar {
-  margin-right: var(--sidebar-width);
-}
 
 
 

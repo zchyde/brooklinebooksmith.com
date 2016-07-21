@@ -17,7 +17,11 @@ article.hentry img {
 .content {
 min-height: 90vh;
 }
-
+@media (--breakpoint-md) {
+  .min-height-390 {  
+    min-height:390px;
+  }
+}
 
 
 /*buttons for paypal options on SFE*/
