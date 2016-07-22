@@ -13,3 +13,5 @@ book_isbn:
 
 
 Our newest book club selects readings from independent presses. Free and open to the public, meeting the third Monday of every month at 7:00pm. To contact our moderator, email smallpress@brooklinebooksmith.com
+
+**This week we’ll be discussing *Vermilion* by Molly Tanzer.**
