@@ -1,6 +1,8 @@
 ---
 title: Vermilion
-isbn:
+isbn: '9781939905086'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/086/905/9781939905086.jpg'
 ---
+
+
