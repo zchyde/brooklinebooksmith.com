@@ -1,12 +1,12 @@
 @import 'sanitize.css';
 @import 'normalize-opentype.css/normalize-opentype.css';
 @import '_basscss';
-
-@import '_fonts';
-@import '_colors'; 
-@import '_layout';
-@import '_media-queries';
-@import '_styles';
+@import 'modules/_base';
+@import 'modules/_fonts';
+@import 'modules/_colors'; 
+@import 'modules/_layout';
+@import 'modules/_media-queries';
+@import 'modules/_styles';
 @import 'modules/_expandable';
 @import 'modules/_transitions';
 /*@import 'modules/_debug';*/

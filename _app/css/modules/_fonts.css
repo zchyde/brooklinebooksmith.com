@@ -17,7 +17,10 @@ body {
 .font-family-brand {
   font-family: var(--font-brand) ;
 } 
-
+.font-family-para {
+  font-family: var(--font-para) ;
+  font-size: 1.125em;
+}
 
 a {
 text-decoration: none;
@@ -26,6 +29,7 @@ text-decoration: none;
 h1, h2, h3,
 h4, h5, h6 {
   font-weight: 600;
+  font-family: var(--font-brand) ;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -35,4 +39,5 @@ h4, h5, h6 {
 :root {
   --font-brand:  'Chronica W03 Black', 'Lato','Helvetica Neue', Helvetica, sans-serif;
   --font-primary:  'Lato','Helvetica Neue', Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif;
+  --font-para: 'PT Serif', serif;;
 }
