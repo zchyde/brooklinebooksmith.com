@@ -2,12 +2,13 @@
 title: '**Dr. Nicholas Dodman** -  *Pets on the Couch: Neurotic Dogs, Compulsive Cats, Anxious Birds, and the New Science of Animal Psychiatry*'
 published: true
 start_at: 2016-08-23T19:00:00.000Z
-image_path: /uploads/9781476749020_p0_v3_s464x700.jpg
+image_path:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
 test:
 book_isbn:
+  - '9781476749044'
   -
 ---
 
