@@ -8,7 +8,7 @@
 {% else %}
   <div class="min-height-390 md-mx3 lg-mx3 clearfix fit bg-cover bg-no-repeat bg-center"{% if page.featured_image_path %} style="background-image:url('{{ page.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220q=65&bm=multiply&blend64=Nzc3');"{% endif %}>  
     <div class="p3">
-      <h1 class="special font-family-brand center lg-h00{% if page.featured_image_path %} near-white{% endif %}">
+      <h1 class="special font-family-brand center lg-h00{% if page.featured_image_path %} text-shadow  near-white{% endif %}">
         {{ title }}
       </h1>  
     </div>

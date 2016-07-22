@@ -4,7 +4,8 @@
   display: none !important;
 }
 article.hentry p {
-  font-size: 1.125em;
+  font-size: 1.25em;
+  line-height: 1.5;
   color: #555;
 }
 article.hentry img {
@@ -21,6 +22,10 @@ min-height: 90vh;
   .min-height-390 {  
     min-height:390px;
   }
+}
+
+.text-shadow {
+  text-shadow: 1px 0 1px #000000;
 }
 
 
