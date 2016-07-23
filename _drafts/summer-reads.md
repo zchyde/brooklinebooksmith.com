@@ -39,6 +39,6 @@ Deborah Levy is well known for her novel Swimming Home which was shortlisted for
 
 ---
 
-Jessi Klein is well known for her work with comedian Amy Schumer -- and her hilarious voice in this autobiography proves she's as funny as the rest of them.&nbsp; In You'll Grow Out Of It Klein addresses the ins and outs of being an outsider -- a tomboy.
+Jessi Klein is well known for her work with comedian Amy Schumer -- and her hilarious voice in this autobiography proves that.&nbsp; In You'll Grow Out Of It Klein addresses the ins and outs of being an outsider -- a tomboy.
 
 &nbsp;[You'll Grow Out Of It](http://www.brooklinebooksmith-shop.com/book/9781455531189)
