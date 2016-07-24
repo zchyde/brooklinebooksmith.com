@@ -17,7 +17,7 @@ related_books:
 ![](/uploads/versions/1-2---x----2184-1456x---.jpg)
 
 —
-<br>Rumaan Alam's debut novel is the perfect read for a long day at the beach.&nbsp; Set in glittering Manhattan *Rich and Pretty*follows the lives of two women from their coming of age into their adult lives.&nbsp; As the characters grow and change Alam annotates the intricacies of maintaining friendships over time and distance. Mr. Alam effortlessly writes the dialogue between the two women his understanding of women is uncanny -- you can hear Alam discuss this and more in his interview with [NPR.](http://www.npr.org/2016/06/12/481750650/-rich-and-pretty-author-rumaan-alam-captures-lives-very-different-from-his-own)
+<br>Rumaan Alam's debut novel is the perfect read for a long day at the beach.&nbsp; Set in glittering Manhattan *Rich and Pretty* follows the lives of two women from their coming of age into their adult lives.&nbsp; As the characters grow and change Alam annotates the intricacies of maintaining friendships over time and distance. Mr. Alam effortlessly writes the dialogue between the two women his understanding of women is uncanny – you can hear Alam discuss this and more in his interview with [NPR.](http://www.npr.org/2016/06/12/481750650/-rich-and-pretty-author-rumaan-alam-captures-lives-very-different-from-his-own)
 
 *Rich and Pretty* is the epitome of the season – What's summer for if not for catching up with old friends, sharing secrets under the stars, and growing (whether together or apart).
 
@@ -26,7 +26,7 @@ related_books:
 ![](/uploads/versions/1-5---x----1937-1291x---.jpg)
 <br>—
 
-Emma Cline's novel The Girls is already a smash hit. &nbsp;Set in the summer of love Cline's narrative follows a young girl as she finds her place.&nbsp; *The Girls* is as gritty and violent as it is vibrant and true.&nbsp; Cline masterfully designs scenes and characters and turns them into effortless depictions of things all girls can relate to.&nbsp; As the main character is seeking acceptance, is overwhelmed by curiosity, and is overcome with obsession the novel comes to a grizzly head.
+Emma Cline's debut novel *The Girls* is already a hit. &nbsp;Set in the summer of love Cline's narrative follows a young girl as she finds her place. Our protagonist is seeking acceptance, is overwhelmed by curiosity, and is overcome with obsession -- all themes that Cline effortlessly weaves in to her increasingly dark plot. The Girls is gritty and vibrant.&nbsp; Read more about The Girls and its inspiration at the [New York Times Book Review](http://www.nytimes.com/2016/06/05/books/review/the-girls-by-emma-cline.html?_r=0)
 
 [The Girls](http://www.brooklinebooksmith-shop.com/book/9780812998603)
 
