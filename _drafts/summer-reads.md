@@ -17,7 +17,9 @@ related_books:
 ![](/uploads/versions/1-2---x----2184-1456x---.jpg)
 
 —
-<br>Rumaan Alam's debut novel is the perfect read for a long day at the beach.&nbsp; Set in glittering Manhattan *Rich and Pretty*follows the lives of two women from their coming of age into their adult lives.&nbsp; As the characters grow and change Alam annotates the intricacies of maintaining friendships over time and distance. It is the epitome of the season – What's summer for if not for catching up with old friends, sharing secrets under the stars, and growing (whether together or apart).
+<br>Rumaan Alam's debut novel is the perfect read for a long day at the beach.&nbsp; Set in glittering Manhattan *Rich and Pretty*follows the lives of two women from their coming of age into their adult lives.&nbsp; As the characters grow and change Alam annotates the intricacies of maintaining friendships over time and distance. Mr. Alam effortlessly writes the dialogue between the two women his understanding of women is uncanny -- you can hear Alam discuss this and more in his interview with [NPR.](http://www.npr.org/2016/06/12/481750650/-rich-and-pretty-author-rumaan-alam-captures-lives-very-different-from-his-own)
+
+*Rich and Pretty* is the epitome of the season – What's summer for if not for catching up with old friends, sharing secrets under the stars, and growing (whether together or apart).
 
 [Rich and Pretty](http://www.brooklinebooksmith-shop.com/book/9780062429933)
 
@@ -40,6 +42,6 @@ Deborah Levy is well known for her novel Swimming Home which was shortlisted for
 
 ---
 
-Jessi Klein -- well known for her work with comedian Amy Schumer – writes a side-splitting autobiography in *You'll Grow Out Of It*.&nbsp; Klein hilariously addresses the ins and outs of being an outsider with this collection of admissions and mistakes. It's funny because it's true.
+Jessi Klein – well known for her work with comedian Amy Schumer – writes a side-splitting autobiography in *You'll Grow Out Of It*.&nbsp; Klein hilariously addresses the ins and outs of being an outsider with this collection of admissions and mistakes. It's funny because it's true.
 
 &nbsp;[You'll Grow Out Of It](http://www.brooklinebooksmith-shop.com/book/9781455531189)
