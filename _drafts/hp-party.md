@@ -46,7 +46,10 @@ For at least part of this time we will also have a station for Harry Potter-them
 
 **TRIVIA****--*takes place in our event space downstairs.***
 
-&nbsp;
+* **Round 1 Easy Enough, 9:15** (equal time to books & movies)
+* **Round 2 Getting Difficult, 10**(light on movies, heavy on books)
+* **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of Amy's brain.
+
 
 &nbsp;
 
