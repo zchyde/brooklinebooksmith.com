@@ -18,11 +18,11 @@ Two days from now, where will you be?
 
 You will *probably*all be here, at the Booksmith, celebrating J.K. Rowling's triumphant dramatic return to the world of Harry Potter. [Harry Potter and the Cursed Child](http://www.brooklinebooksmith-shop.com/book/9781338099133?utm_source=internal&amp;utm_medium=website&amp;utm_campaign=harrypotter-2016) is a two-part play currently in previews at the [Palace Theatre, London](http://www.harrypottertheplay.com/), a nineteen-years-later continuation of the seven original books. Heinously, we can't all go to London; for us, however, there's the book! The printed version of the script is coming out on the stroke of midnight, Sunday, July 31.
 
-We will be kicking off the book with a good old-fashioned midnight release party, with festivities starting at 9P.M. You should absolutely join us! Read on for more information about what we're doing (and what you can also do).
+We will be kicking off the book with a good old-fashioned midnight release party, with festivities starting at 9P.M. Saturday. You should absolutely join us! Read on for more information about what we're doing (and what you can therefore also do).
 
 **BASICS**
 
-* You can [**preorder**](http://www.brooklinebooksmith-shop.com/book/9781338099133?utm_source=internal&amp;utm_medium=website&amp;utm_campaign=harrypotter-2016)the book or **purchase at our release party** for 20% off the cover price. This discount only applies to preorders (picked up at any time) and books purchased in the store between **12 midnight and closing**on Saturday night.
+* [**P**](__notset__)**[reorder](__notset__)**the book or **purchase at our release party** for 20% off the cover price. This discount only applies to preorders (picked up at any time) and books purchased in the store between **12 midnight and closing**on Saturday night.
 * Starting at **8:30A.M. on Saturday**, go to the front register receive a numbered wristband that reserves your spot in line.
 * At **9P.M. on Saturday**, the party begins! See the table at the front door to get sorted into your correct house (remember, it's what you feel that matters most), and get started.
 
@@ -36,7 +36,7 @@ We will be kicking off the book with a good old-fashioned midnight release party
 
 For at least part of this time we will also have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/).
 
-**READINGS*****--all take place under the tree in the kids' section.***
+**READINGS*****–all take place under the tree in the kids' section.***
 
 * **Story Time, 9P.M.**Prefer listening to a story rather than reading aloud? All ages are welcome!
 * **Group Reading 1, 9:45P.M.**Harry takes the Hogwarts Express for the first time.
@@ -44,7 +44,7 @@ For at least part of this time we will also have a station for Harry Potter-them
 * **Group Reading 3, 11:15P.M.**
 
 
-**TRIVIA****--*takes place in our event space downstairs.***
+**TRIVIA****–*takes place in our event space downstairs.***
 
 * **Round 1 Seems Easy Enough, 9:15****P.M.** Equal time give to books & movies.
 * **Round 2 This Is Getting Difficult, 10P.M.**Light on movies, heavy on books.
