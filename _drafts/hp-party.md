@@ -31,16 +31,22 @@ We will be kicking off the book with a good old-fashioned midnight release party
 
 * **KIDS' SECTION:** Head here for word searches, crosswords, and to color a picture of Harry standing in front of a dragon.
 * **DOWNSTAIRS:** Consume Harry Potter-themed treats.
-* **UPSTAIRS:**
+* **UPSTAIRS:**Photobooths / scavenger hunt.
 
 
 For at least part of this time we will also have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/).
 
-**SCHEDULED ACTIVITIES**
+**READINGS*****--all take place under the tree in the kids' section.***
 
-> **Story Time**: 9PM. Prefer to listen rather than read? All are welcome!
->
-> **Round-Table Readings**: under the tree in the kids' section at
+* **Story Time, 9P.M.**Prefer listening to a story rather than reading aloud? All ages are welcome!
+* **Group Reading 1, 9:45P.M.**Harry takes the Hogwarts Express for the first time.
+* **Group Reading 2, 10:30P.M.**
+* **Group Reading 3, 11:15P.M.**
+
+
+**TRIVIA****--*takes place in our event space downstairs.***
+
+&nbsp;
 
 &nbsp;
 
