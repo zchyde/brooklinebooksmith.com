@@ -22,21 +22,30 @@ We will be kicking off the book with a good old-fashioned midnight release party
 
 **BASICS**
 
-* [**P**](__notset__)**[reorder](__notset__)**the book or **purchase at our release party** for 20% off the cover price. This discount only applies to preorders (picked up at any time) and books purchased in the store between **12 midnight and closing**on Saturday night.
+* [**P**](__notset__)**[reorder](__notset__)**the book or **purchase at our release party** for 20% off the cover price. This discount only applies to preorders (picked up at any time) and books purchased in the store between **12 midnight and closing** on Saturday night.
 * Starting at **8:30A.M. on Saturday**, go to the front register receive a numbered wristband that reserves your spot in line.
-* At **9P.M. on Saturday**, the party begins! See the table at the front door to get sorted into your correct house (remember, it's what you feel that matters most), and get started.
+* At **9P.M. on Saturday**, the party begins! See the table at the front door to get sorted into your correct house (remember, it's what you feel that matters most).
 
+
+**HOUSE POINTS!**
+
+What is the point of being sorted if you can't compete against the other, much less awesome houses? House points are won by participating in trivia, arriving in costume, finishing crosswords and word searches, and finding the items in our scavenger hunt.
+
+You can also get points by sharing on **social media**. Get 2 for each post on social media using #BBPotterParty and 3 for each post you make from our photobooth using #BBPotterParty.
+
+(P.S. You can find us on Twitter at @booksmithtweets and @kidsmithbooks, on Instagram @brooklinebooksmith, and on Facebook!)
+
+Report to the Info desk facing the front door any time you have points to claim.
 
 **ONGOING ACTIVITIES**
 
-* **KIDS' SECTION:** Head here for word searches, crosswords, and to color a picture of Harry standing in front of a dragon.
+* **KIDS' SECTION:** Head here for word searches, crosswords, a fairly awesome coloring page of Harry standing in front of a dragon.
 * **DOWNSTAIRS:** Consume Harry Potter-themed treats.
-* **UPSTAIRS:**Photobooths / scavenger hunt.
+* **UPSTAIRS:** Celebrate how great you are with props at our photobooths! Find all ten of our scavenger hunt items!
+* **UPSTAIRS BONUS:**For at least part of this time we will have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/). Yum!
 
 
-For at least part of this time we will also have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/).
-
-**READINGS*****–all take place under the tree in the kids' section.***
+**SCHEDULED: READINGS*****–take place under the tree in the kids' section.***
 
 * **Story Time, 9P.M.**Prefer listening to a story rather than reading aloud? All ages are welcome!
 * **Group Reading 1, 9:45P.M.**Harry takes the Hogwarts Express for the first time.
@@ -44,19 +53,8 @@ For at least part of this time we will also have a station for Harry Potter-them
 * **Group Reading 3, 11:15P.M.**
 
 
-**TRIVIA****–*takes place in our event space downstairs.***
+**SCHEDULED: TRIVIA****–*takes place in our event space downstairs.***
 
 * **Round 1 Seems Easy Enough, 9:15****P.M.** Equal time give to books & movies.
 * **Round 2 This Is Getting Difficult, 10P.M.**Light on movies, heavy on books.
 * **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of pages you may not have known about.
-
-
-**!!!DON'T FORGET HOUSE POINTS!!!**
-
-What is the point of being sorted if you can't compete against the other, much less awesome houses? House points are won by participating in trivia, arriving in costume, finishing crosswords and word searches, and finding the items in our scavenger hunt.
-
-You can also get points by **sharing on our social media**.
-
-Report to the Info desk facing the front door any time you have points to claim!
-
-&nbsp;
