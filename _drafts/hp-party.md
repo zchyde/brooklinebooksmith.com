@@ -31,7 +31,7 @@ We will be kicking off the book with a good old-fashioned midnight release party
 
 What is the point of being sorted if you can't compete against the other, much less awesome houses? House points are won by participating in trivia, arriving in costume, finishing crosswords and word searches, and finding the items in our scavenger hunt.
 
-You can also get points by sharing on **social media**. Get 2 for each post on social media using #BBPotterParty and 3 for each post you make from our photobooth using #BBPotterParty.
+You can also get points by sharing on **social media**. Get 2 for each post on social media using **#BBPotterParty** and 3 for each post you make from our photobooth using **#BBPotterParty**.
 
 (P.S. You can find us on Twitter at @booksmithtweets and @kidsmithbooks, on Instagram @brooklinebooksmith, and on Facebook!)
 
@@ -45,7 +45,7 @@ Report to the Info desk facing the front door any time you have points to claim.
 * **UPSTAIRS BONUS:**For at least part of this time we will have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/). Yum!
 
 
-**SCHEDULED: READINGS*****–take place under the tree in the kids' section.***
+**SCHEDULED READINGS*****–take place under the tree in the kids' section.***
 
 * **Story Time, 9P.M.**Prefer listening to a story rather than reading aloud? All ages are welcome!
 * **Group Reading 1, 9:45P.M.**Harry takes the Hogwarts Express for the first time.
@@ -53,8 +53,11 @@ Report to the Info desk facing the front door any time you have points to claim.
 * **Group Reading 3, 11:15P.M.**
 
 
-**SCHEDULED: TRIVIA****–*takes place in our event space downstairs.***
+**SCHEDULED TRIVIA****–*takes place in our event space downstairs.***
 
 * **Round 1 Seems Easy Enough, 9:15****P.M.** Equal time give to books & movies.
 * **Round 2 This Is Getting Difficult, 10P.M.**Light on movies, heavy on books.
 * **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of pages you may not have known about.
+
+
+When the fated hour arrives, we'll be calling people up in groups by wristband number, so hang onto that, and get ready to feel this way for the first time since *Deathly Hallows.*
