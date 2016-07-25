@@ -1,9 +1,9 @@
 ---
-title: 'cursed child #blessed'
+title: Brookline Booksmith and the Cursed Child
 published: false
 featured: false
 date: 2016-07-29T09:00:00.000Z
-description: What to expect at the Booksmith on the night Harry Potter returns.
+description: What to expect at the Booksmith on Saturday 7/30--the night Harry Potter returns.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -46,14 +46,12 @@ For at least part of this time we will also have a station for Harry Potter-them
 
 **TRIVIA****--*takes place in our event space downstairs.***
 
-* **Round 1 Easy Enough, 9:15** (equal time to books & movies)
-* **Round 2 Getting Difficult, 10**(light on movies, heavy on books)
-* **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of Amy's brain.
+* **Round 1 Seems Easy Enough, 9:15****P.M.** Equal time give to books & movies.
+* **Round 2 This Is Getting Difficult, 10P.M.**Light on movies, heavy on books.
+* **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of pages you may not have known about.
 
 
-&nbsp;
-
-**HOUSE POINTS**
+**!!!DON'T FORGET HOUSE POINTS!!!**
 
 What is the point of being sorted if you can't compete against the other, much less awesome houses? House points are won by participating in trivia, arriving in costume, finishing crosswords and word searches, and finding the items in our scavenger hunt.
 
