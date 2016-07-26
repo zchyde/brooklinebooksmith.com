@@ -45,12 +45,12 @@ You'll report to the Info desk facing the front door any time you have points to
 * **UPSTAIRS BONUS:**For at least part of this time we will have a station for Harry Potter-themed crepes run by our delicious neighbors [**Paris Creperie**](http://pariscreperie.com/). Yum!
 
 
-**SCHEDULED READINGS*****–take place under the tree in the kids' section. Story Time will be listening-only; for Round-Robin Readings, everyone in the group will take turns and participate. Spaces limited!***
+**SCHEDULED READINGS*****–take place under the tree in the kids' section. Story Time will be listening-only; for Roundtable Readings, everyone in the group will take turns reading. Spaces limited!***
 
 * **Story Time, 9P.M.** All ages are welcome!
-* **Round-robin Reading 1, 9:45P.M.**Harry rides the Hogwarts Express for the first time.
-* **Round-robin Reading 2, 10:30P.M.**
-* **Round-robin Reading 3, 11:15P.M.**
+* **Roundtable Reading 1, 9:45P.M.**Harry rides the Hogwarts Express for the first time.
+* **Roundtable Reading 2, 10:30P.M.**
+* **Roundtable Reading 3, 11:15P.M.**
 
 
 **SCHEDULED TRIVIA****–*takes place in our event space downstairs. Spaces limited!***
