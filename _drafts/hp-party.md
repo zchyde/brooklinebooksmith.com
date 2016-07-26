@@ -35,7 +35,7 @@ You can also get points by sharing on **social media**. Get 2 for each post on s
 
 (P.S. You can find us on Twitter at @booksmithtweets and @kidsmithbooks, on Instagram @brooklinebooksmith, and on Facebook!)
 
-Report to the Info desk facing the front door any time you have points to claim.
+You'll report to the Info desk facing the front door any time you have points to claim.
 
 **ONGOING ACTIVITIES**
 
@@ -47,10 +47,10 @@ Report to the Info desk facing the front door any time you have points to claim.
 
 **SCHEDULED READINGS*****–take place under the tree in the kids' section.***
 
-* **Story Time, 9P.M.**Prefer listening to a story rather than reading aloud? All ages are welcome!
-* **Group Reading 1, 9:45P.M.**Harry takes the Hogwarts Express for the first time.
-* **Group Reading 2, 10:30P.M.**
-* **Group Reading 3, 11:15P.M.**
+* **Story Time, 9P.M.** All ages are welcome!
+* **Round-robin Reading 1, 9:45P.M.**Harry rides the Hogwarts Express for the first time.
+* **Round-robin Reading 2, 10:30P.M.**
+* **Round-robin Reading 3, 11:15P.M.**
 
 
 **SCHEDULED TRIVIA****–*takes place in our event space downstairs.***
