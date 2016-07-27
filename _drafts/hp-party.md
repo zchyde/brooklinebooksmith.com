@@ -16,7 +16,7 @@ related_books:
 
 Two days from now, where will you be?
 
-You will *probably*all be here, at the Booksmith, celebrating J.K. Rowling's triumphant dramatic return to the world of Harry Potter. [Harry Potter and the Cursed Child](http://www.brooklinebooksmith-shop.com/book/9781338099133?utm_source=internal&amp;utm_medium=website&amp;utm_campaign=harrypotter-2016) is a two-part play currently in previews at the [Palace Theatre, London](http://www.harrypottertheplay.com/), a nineteen-years-later continuation of the seven original books. Heinously, we can't all go to London; for us, however, there's the book! The printed version of the script is coming out on the stroke of midnight, Sunday, July 31.
+You will probably all be here, at the Booksmith, celebrating J.K. Rowling's triumphant dramatic return to the world of Harry Potter. [Harry Potter and the Cursed Child](http://www.brooklinebooksmith-shop.com/book/9781338099133?utm_source=internal&amp;utm_medium=website&amp;utm_campaign=harrypotter-2016) is a two-part play currently in previews at the [Palace Theatre, London](http://www.harrypottertheplay.com/), a nineteen-years-later continuation of the seven original books. Heinously, we can't all go to London; for us, however, there's the book! The printed version of the script is coming out on the stroke of midnight, Sunday, July 31.
 
 We will be kicking off the book with a good old-fashioned midnight release party, with festivities starting at 9P.M. Saturday. You should absolutely join us! Read on for more information about what we're doing (and what you can therefore also do).
 
@@ -48,9 +48,9 @@ You'll report to the Info desk facing the front door any time you have points to
 **SCHEDULED READINGS*****–take place under the tree in the kids' section. Story Time will be listening-only; for Roundtable Readings, everyone in the group will take turns reading. Spaces limited!***
 
 * **Story Time, 9P.M.** All ages are welcome!
-* **Roundtable Reading 1, 9:45P.M.**Harry rides the Hogwarts Express for the first time.
-* **Roundtable Reading 2, 10:30P.M.**
-* **Roundtable Reading 3, 11:15P.M.**
+* **Roundtable Reading 1, 9:45P.M.** Sorcerer's Stone: Harry rides the Hogwarts Express for the first time.
+* **Roundtable Reading 2, 10:30P.M.**Deathly Hallows: Harry and Dumbledore talk at King's Cross.
+* **Roundtable Reading 3, 11:15P.M.**Deathly Hallows: The Tale of Three Brothers.
 
 
 **SCHEDULED TRIVIA****–*takes place in our event space downstairs. Spaces limited!***
