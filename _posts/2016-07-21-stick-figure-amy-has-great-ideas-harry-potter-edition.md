@@ -8,11 +8,11 @@ featured_image_path: /uploads/harry-potter-quotes-compressor.png
 featured_image_position: 50
 show_featured_image_in_post: true
 fancy_font:
-category:
+category: kidsmith
 staff:
   - amy
 related_books:
 ---
 
 
-I still feel like this is a valid way to countdown to our Midnight Release Party of Harry Potter and the Cursed Child but I was outvoted.&nbsp;
+I still feel like this is a valid way to countdown to our Midnight Release Party of Harry Potter and the Cursed Child but I was outvoted.
