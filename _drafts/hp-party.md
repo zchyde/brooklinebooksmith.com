@@ -1,6 +1,6 @@
 ---
 title: Brookline Booksmith and the Cursed Child
-published: false
+published: true
 featured: false
 date: 2016-07-29T09:00:00.000Z
 description: What to expect at the Booksmith on Saturday 7/30--the night Harry Potter returns.
@@ -8,8 +8,9 @@ featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - alex-s
 related_books:
 ---
 
