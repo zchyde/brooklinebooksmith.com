@@ -24,8 +24,8 @@ We will be kicking off the book with a good old-fashioned midnight release party
 **BASICS**
 
 * You can&nbsp;**[preorder](http://www.brooklinebooksmith-shop.com/book/9781338099133?utm_source=internal&amp;utm_medium=website&amp;utm_campaign=harrypotter-2016)&nbsp;**the book or **purchase at our release party** for 20% off the cover price. This discount only applies to preorders (picked up at any time) and books purchased in the store between **12 midnight and closing** on Saturday night.
-* Starting at **8:30A.M. on Saturday**, go to the front register to receive a numbered wristband that reserves your spot in line.
-* At **9P.M. on Saturday**, the party begins! See the table at the front door to get sorted into your correct house (remember, it's what you feel that matters most).
+* Starting at **8:30A.M. on Saturday**, go to the front register to receive a numbered wristband that reserves your spot in line to purchase the book.
+* At **9P.M. on Saturday**, the party begins! See the table at the front door to get sorted into your correct house (remember, it's what you feel that matters most). The party is free and open to all!
 
 
 **HOUSE POINTS!**
