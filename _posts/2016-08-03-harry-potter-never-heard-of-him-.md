@@ -15,7 +15,7 @@ related_books:
 ---
 
 
-![](/uploads/versions/hp-compressor---x----656-2293x---.jpg)
+![full-img](/uploads/versions/hp-compressor---x----656-2293x---.jpg)
 {: .present-before-paste}
 
 I just got back from a trip through Arizona, and although it was slightly marred by all of the re-election campaign signs on every street corner in Maricopa County, the landscape was repeatedly breathtaking. The Grand Canyon was really, really, seriously big, my kids always seemed to be too near the edge no matter how far away we stood, and the winding road through Sedona down to Phoenix was magnificent. Between the gawking and the driving, I finished one amazing book ([Pond](http://www.brooklinebooksmith-shop.com/book/9780399575891), by Claire-Louise Bennett) and started another ([My Brilliant Friend](http://www.brooklinebooksmith-shop.com/book/9781609450786)&nbsp;by Elena Ferrante). My daughter got deep into the delightful&nbsp;[Ivy & Bean](http://www.brooklinebooksmith-shop.com/search/site/ivy%20%26%20bean)&nbsp;series, my wife spent her time with&nbsp;[Junot Diaz](http://www.brooklinebooksmith-shop.com/book/9781594483295), and my son devoured Peter Brown's instant classic,&nbsp;[The Wild Robot](http://www.brooklinebooksmith-shop.com/book/9780316381994), before getting started on Tony DiTerlizzi's&nbsp;[WondLa](http://www.brooklinebooksmith-shop.com/book/9781416983118)&nbsp;books.
