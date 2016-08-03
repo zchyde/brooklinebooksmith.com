@@ -57,8 +57,8 @@ You'll report to the Info desk facing the front door any time you have points to
 **SCHEDULED TRIVIA****–*takes place in our event space downstairs. Spaces limited!***
 
 * **Round 1 Seems Easy Enough, 9:15****P.M.** Equal time given to books & movies.
-* **Round 2 This Is Getting Difficult, 10P.M.**Light on movies, heavy on books.
-* **Round 3 What Even Is the Answer?, 11P.M.**Books only, from the darkest recesses of pages you may not have known about.
+* **Round 2 This Is Getting Difficult, 10P.M.&nbsp;**Light on movies, heavy on books.
+* **Round 3 What Even Is the Answer?, 11P.M.&nbsp;**Books only, from the darkest recesses of pages you may not have known about.
 
 
 When the fated hour arrives, we'll be calling people up in groups by wristband number, so hang onto that, and get ready to feel this way for the first time since *Deathly Hallows.*
