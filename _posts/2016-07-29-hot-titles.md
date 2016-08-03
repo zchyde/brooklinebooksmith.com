@@ -27,7 +27,7 @@ Rumaan Alam's debut novel is the perfect read for a long day at the beach.&nbsp;
 
 ---
 
-![full-img](/uploads/versions/1-5-compressor---x----900-600x---.jpg)---
+![full-img](/uploads/versions/1-5-compressor---x----900-600x---.jpg)—
 
 Emma Cline's debut novel *The Girls* is already a hit. &nbsp;Set in the Summer of Love, Cline's narrative follows a young girl as she finds her place. Our protagonist is seeking acceptance, is overwhelmed by curiosity, and is overcome with obsession – all themes that Cline effortlessly weaves in to her increasingly dark plot. *The Girls* is gritty and vibrant.&nbsp; Read more about *The Girls* and its inspiration at the [New York Times Book Review](http://www.nytimes.com/2016/06/05/books/review/the-girls-by-emma-cline.html?_r=0)
 
