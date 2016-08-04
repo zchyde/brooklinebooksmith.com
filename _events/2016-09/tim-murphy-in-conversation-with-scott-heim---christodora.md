@@ -1,6 +1,6 @@
 ---
 title: '**Tim Murphy in conversation with Scott Heim** - *Christodora*'
-published: false
+published: true
 start_at: 2016-09-14T19:00:00.000Z
 image_path:
 book_category:
