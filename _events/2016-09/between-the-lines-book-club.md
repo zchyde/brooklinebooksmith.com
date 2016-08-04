@@ -1,5 +1,5 @@
 ---
-title: Between the Lines Book Club
+title: '**Between the Lines Book Club**'
 published: false
 start_at: 2016-09-13T04:30:00.000Z
 image_path:
