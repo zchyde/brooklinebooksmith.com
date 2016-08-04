@@ -1,6 +1,8 @@
 ---
 title: 'Standoff: Poems'
-isbn:
+isbn: '9781555977450'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/450/977/9781555977450.jpg'
 ---
+
+
