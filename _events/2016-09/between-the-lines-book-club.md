@@ -1,6 +1,6 @@
 ---
 title: '**Between the Lines Book Club**'
-published: false
+published: true
 start_at: 2016-09-13T04:30:00.000Z
 image_path:
 book_category:
