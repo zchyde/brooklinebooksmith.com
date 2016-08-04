@@ -1,6 +1,6 @@
 ---
 title: '**Reed Farrel Coleman** -  *Robert B. Parker’s Debt to Pay (A Jesse Stone Novel)*'
-published: false
+published: true
 start_at: 2015-09-22T19:00:00.000Z
 image_path:
 book_category:
