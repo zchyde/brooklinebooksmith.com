@@ -1,5 +1,5 @@
 ---
-title: '**Storytime with Josh Funk*'
+title: '**Storytime with Josh Funk**'
 published: false
 start_at: 2016-09-03T10:30:00.000Z
 image_path:
