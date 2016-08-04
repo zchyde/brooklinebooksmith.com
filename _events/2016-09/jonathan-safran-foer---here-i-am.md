@@ -1,6 +1,6 @@
 ---
 title: '**Jonathan Safran Foer** -  *Here I Am*'
-published: false
+published: true
 start_at: 2016-09-08T18:00:00.000Z
 image_path:
 book_category:
