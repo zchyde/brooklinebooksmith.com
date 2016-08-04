@@ -1,6 +1,6 @@
 ---
 title: '**Amor Towles** -  *A Gentleman in Moscow*'
-published: false
+published: true
 start_at: 2016-09-07T19:00:00.000Z
 image_path:
 book_category:
