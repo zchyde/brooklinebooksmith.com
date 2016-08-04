@@ -1,7 +1,7 @@
 ---
 title: '**Small Press Book Club**'
-published: false
-start_at: 2015-10-19T19:00:00.000Z
+published: true
+start_at: 2015-09-19T19:00:00.000Z
 image_path:
 book_category:
 program: '-writers-and-readers'
