@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-Do you love picture books? Join us in our children’s section as our fine children’s team reads stories aloud every the first Saturday and third Sunday of the month.
+Join the kids' department for our drop-in storytime every first Saturday and third Sunday of the month. No sign up needed--all are welcome!
