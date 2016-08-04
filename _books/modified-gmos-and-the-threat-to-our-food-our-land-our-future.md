@@ -1,6 +1,8 @@
 ---
 title: 'Modified: Gmos and the Threat to Our Food, Our Land, Our Future'
-isbn:
-binding:
-image_path:
+isbn: '9780399170676'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/676/170/9780399170676.jpg'
 ---
+
+
