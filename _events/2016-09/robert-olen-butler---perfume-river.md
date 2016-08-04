@@ -1,6 +1,6 @@
 ---
 title: '**Robert Olen Butler** -  *Perfume River*'
-published: false
+published: true
 start_at: 2015-09-20T19:00:00.000Z
 image_path:
 book_category:
