@@ -120,7 +120,7 @@ collections:
     output: false
   staff:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:collection/:title/'
 
 defaults:
   - scope:

@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-06-15T00:00:00.000Z
 description: 'It is always the right time to teach our children, our sons, to open up with love, never with violence'
-featured_image_path: /flyer-03.png
+featured_image_path: /uploads/flyer-03.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

@@ -3,29 +3,24 @@
   /*left: -10px !important;*/
   display: none !important;
 }
-article.hentry p {
-  font-size: 1.25em;
-  line-height: 1.5;
-  color: #555;
-}
+
 article.hentry img {
   float: left;
   max-height: 15em;
   margin: .75em 1.5em .75em 0;
-  padding-bottom: 1em;
+  padding-bottom: 1.5em;
 }
 
-.content {
-min-height: 90vh;
+article.hentry img[alt~="img-on-left"] {
 }
-@media (--breakpoint-md) {
-  .min-height-390 {  
-    min-height:390px;
-  }
+article.hentry img[alt~="img-on-right"] {
+  float:right;
+  margin: .75em 0 .75em 1.5em;
 }
-
-.text-shadow {
-  text-shadow: 1px 0 1px #000000;
+article.hentry img[alt~="full-img"] {
+  float:none;
+  max-height: none;
+  margin: .75em auto 1.25em auto;
 }
 
 

@@ -6,6 +6,7 @@
 @import 'modules/_colors'; 
 @import 'modules/_layout';
 @import 'modules/_media-queries';
+@import 'modules/_height';
 @import 'modules/_styles';
 @import 'modules/_expandable';
 @import 'modules/_transitions';
@@ -21,3 +22,8 @@ TODO:
 todo: moving to production
  - turn off addthis follow header
 */
+
+.text-shadow {
+  text-shadow: 1px 0 1px #000000;
+}
+

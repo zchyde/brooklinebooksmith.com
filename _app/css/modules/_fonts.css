@@ -12,18 +12,13 @@ body {
 .font-family-brand {
   font-family: var(--font-brand) ;
 } 
-
-
-.font-family-brand {
-  font-family: var(--font-brand) ;
-} 
 .font-family-para {
   font-family: var(--font-para) ;
-  font-size: 1.125em;
+  font-weight: 300;
 }
 
 a {
-text-decoration: none;
+  text-decoration: none;
 }
 
 h1, h2, h3,
@@ -37,7 +32,8 @@ h4, h5, h6 {
 
 
 :root {
-  --font-brand:  'Chronica W03 Black', 'Lato','Helvetica Neue', Helvetica, sans-serif;
-  --font-primary:  'Lato','Helvetica Neue', Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif;
-  --font-para: 'PT Serif', serif;;
+  --font-brand:  'Chronica W03 Black', Raleway, Lato,'Helvetica Neue', Helvetica, sans-serif;
+  --font-primary:  'Avenir Next', Avenir, Frutiger, ‘Frutiger Linotype’, Univers, Calibri, ‘Gill Sans’, ‘Gill Sans MT’, ‘Myriad Pro’, Myriad, ‘DejaVu Sans Condensed’, ‘Liberation Sans’, ‘Nimbus Sans L’, Tahoma, Geneva, ‘Helvetica Neue’, Helvetica, Arial, sans-serif;
+  --font-para: 'Merriweather', "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  --line-height-4: 1.6;
 }

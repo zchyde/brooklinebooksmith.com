@@ -2,7 +2,7 @@
   <div class="flex-auto"><!-- adds space between the menu and the search bar on the right --> </div>
   <div class="">
     {% for object in site.data.navigation-links.utility %}
-      <a class="inline-block h6 text-decoration-none fit py1 pr2 lg-pr3 line-height-1 bold moon-gray hover-white bg-hover-near-brand{% if page.url == object.url %} bg-near-brand white{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
+      <a class="inline-block h6 text-decoration-none fit py1 pr2 lg-pr3 line-height-1 bold hover-black{% if page.url == object.url %} black{% else %} white{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
         {{ object.title }}
       </a>
     {% endfor %}

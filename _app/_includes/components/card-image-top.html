@@ -1,32 +1,43 @@
-<a href="{{ object.url }}" class="db br2 ba dark-gray b--black-10 bg-white bg-hover-near-white no-underline mv4 w-100 w-50-m w-25-l mw5TK center shadow-4">
-    {% if object.featured_image_path %}
-      <img src="{{ object.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?h=150&fit=clip&q=98&bm=multiply&blend64=Y2Nj" class="db w-100 br2 br--top" alt="{{ object.title }}">
-    {% endif %}
+{% assign image = object.featured_image_path | prepend: site.image_url | remove: 'uploads/' | append: '?w=400' %}
+{% assign collection = site.collections | where: 'label', object.collection | first  %}
 
-  <div class="pa2 ph3-ns pb3-ns">
-    <div class="dt w-100 mt1">      
-      {% if object.title %}
-        <h1 class="f6 f5-ns mv0">
-          {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
-        </h1>              
-      {% endif %}        
+<a href="{{ object.url }}" class="flex col-12 sm-col-6 md-col-3 lg-col-4 border-box p1 lg-p2 text-decoration-none black">    
+  <div class="{{ include.classes }}">  
+    {% if object.featured_image_path %}
+      <img src="{{ image }}"  class="fit" alt="Featured image for {{ object.title }}">
+    {% endif %}    
+    <div class="m0 p2">
+      <h1 class="h3 name">
+        {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
+      </h1>      
+      {% if date %}
+        <div class="gray">
+          {% include components/date.html date=date %}
+        </div>
+      {% endif %}
+ 
+      {% if object.collection == 'mini-docs' %}
+        <h6 class="type m0 light">
+          <small>
+            {{ collection.name }}
+          </small>
+        </h6>
+      {% endif %}
   
-      <h2 class="f6 mv0 cf highlight">by 
-        {% for staff in object.staff %}
-          {% assign authors = site.staff | where: 'slug', staff %}
-          {% for author in authors  %}
-            {{ author.title }}
-          {% endfor %}
-        {% endfor %}
-      </h2>
+      <span class="category hide">
+        {{ object.topic  }} {{ object.staff_members[0] }} {{ object.staff_members[1] }}     
+      </span>
+      {% if object.description %}
+        <div class="h5">
+          {{ object.description | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+      {% endif %}
       
+    
     </div>
-    
-     {% if object.description and object.description != '' %}    
-      <p class="f6 lh-copy measure mt2 mid-gray no-underline">  
-        {{ object.description | markdownify | strip_html | truncatewords: 90, '…' }}      
-      </p>
-    {% endif %}      
-    
+    {% comment %}<!-- <span class="hidden related">{{ object.related_video.name }}</span>  -->{% endcomment %}
   </div>
 </a>
+
+
+

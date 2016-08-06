@@ -1,0 +1,9 @@
+:root {
+
+  --height: 390px;
+}
+@media (--breakpoint-lg) {
+.min-height-390 {min-height: var(--height)}
+}
+
+
