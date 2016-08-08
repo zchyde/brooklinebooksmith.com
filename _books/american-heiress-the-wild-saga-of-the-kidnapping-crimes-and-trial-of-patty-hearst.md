@@ -1,6 +1,8 @@
 ---
 title: 'American Heiress: The Wild Saga of the Kidnapping, Crimes and Trial of Patty Hearst'
-isbn:
+isbn: '9780385536714'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/714/536/9780385536714.jpg'
 ---
+
+
