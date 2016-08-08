@@ -1,7 +1,7 @@
 ---
 title: '**Jessica Teich** -  *The Future Tense of Joy*'
 published: true
-start_at: 2015-09-26T19:00:00.000Z
+start_at: 2016-09-26T19:00:00.000Z
 image_path:
 book_category:
 program: '-writers-and-readers'
