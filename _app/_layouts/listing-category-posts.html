@@ -1,10 +1,7 @@
 ---
 layout: listing
 ---
-
-{% assign posts = site.posts %}
-
-
+{% assign posts = site.posts | where: 'category', page.slug %}
 {% assign posts = posts | sort: 'date', 'last' | reverse  %}
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
 {% assign box_classes = ' border rounded border-silver hover-bg-orange hover-white bg-transition' %}
@@ -13,14 +10,13 @@ layout: listing
   
   <div class="md-pr2 lg-pr2">
     <div class="flex flex-wrap mxn2 list"> 
-      {% for object in posts limit: 21 %}
+      {% for object in posts limit: 100 %}
         {% assign date = object.date %}
         {% include components/card-image-top.html classes=box_classes %}     
       {% endfor %}        
     </div>
   </div>
 
-  {% include components/pagination.html %}
 </div>
 
 
