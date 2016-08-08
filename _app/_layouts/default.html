@@ -56,8 +56,9 @@ layout: compress
       {% include global/header.html %}    
       <main>
         {{content}}            
+        {% include components/page-bottom.html %}    
         {% include global/footer.html %}
-      </main>              
+      </main>                
       {% include global/navigation-side.html %}    
     {% include global/scripts.html %}
   </body>

@@ -1,5 +1,5 @@
 ---
-title: Amy YO
+title: Amy
 published: true
 ---
 

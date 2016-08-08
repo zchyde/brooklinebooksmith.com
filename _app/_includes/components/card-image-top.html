@@ -1,43 +1,42 @@
 {% assign image = object.featured_image_path | prepend: site.image_url | remove: 'uploads/' | append: '?w=400' %}
 {% assign collection = site.collections | where: 'label', object.collection | first  %}
 
-<a href="{{ object.url }}" class="flex col-12 sm-col-6 md-col-3 lg-col-4 border-box p1 lg-p2 text-decoration-none black">    
-  <div class="{{ include.classes }}">  
+<a href="{{ object.url }}" class="flex col-12 sm-col-6 md-col-3 lg-col-4 border-box p1 lg-p2TK text-decoration-none black">    
+  <div class="relative{{ include.classes }}">  
+    
     {% if object.featured_image_path %}
       <img src="{{ image }}"  class="fit" alt="Featured image for {{ object.title }}">
     {% endif %}    
-    <div class="m0 p2">
+    
+    <div class="m0 px2 pb2">
+
       <h1 class="h3 name">
         {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
       </h1>      
-      {% if date %}
-        <div class="gray">
-          {% include components/date.html date=date %}
-        </div>
-      {% endif %}
- 
-      {% if object.collection == 'mini-docs' %}
-        <h6 class="type m0 light">
-          <small>
-            {{ collection.name }}
-          </small>
-        </h6>
-      {% endif %}
-  
-      <span class="category hide">
-        {{ object.topic  }} {{ object.staff_members[0] }} {{ object.staff_members[1] }}     
-      </span>
+
+      <div class="h5 gray">
+        {% if date %}
+        Posted {% include components/date.html date=date %}
+        {% endif %}
+        {% if object.staff %}
+          {% assign theauthor = site.staff | where: 'slug', object.staff[0] %}
+          by {{ theauthor[0].title }}
+        {% endif %}
+      </div>
+
       {% if object.description %}
-        <div class="h5">
+        <div class="h4 pb3">
           {{ object.description | markdownify | remove: '<p>' | remove: '</p>' }}
         </div>
       {% endif %}
       
-    
     </div>
-    {% comment %}<!-- <span class="hidden related">{{ object.related_video.name }}</span>  -->{% endcomment %}
+    
+    {% if object.categories %}  
+      <div class="absolute bottom-0 right-0 mr1 mb1 h6 gray">
+        {{ object.categories[0] | replace: '-', ' ' | capitalize }}
+      </div>
+    {% endif %}   
+
   </div>
 </a>
-
-
-

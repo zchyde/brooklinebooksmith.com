@@ -1,22 +1,28 @@
 ---
 layout: listing
 ---
-{% assign posts = site.posts %}
+{% assign posts = paginator.posts %}
+{% assign posts = posts | sort: 'date', 'last' | reverse  %}
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
-{% assign box_classes = 'border rounded border-silver hover-bg-orange hover-silver bg-transition' %}
+{% assign box_classes = ' border rounded border-silver hover-bg-orange hover-white bg-transition' %}
 
-<div class="col col-12 sm-col-3 md-col-3 lg-col-3 px2 py4">
-  thing<br>
-  thing2 
-</div>
-
-<div class="col col-12 sm-col-9 md-col-9 lg-col-9 px2 py4" id="filter">      
-  <div class="p2">
+<div class="col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">      
+  
+  <div class="md-pr2 lg-pr2">
     <div class="flex flex-wrap mxn2 list"> 
-      {% for object in posts | sort: 'date', 'last' | reverse | limit: 10 %}
+      {% for object in posts limit: 21 %}
         {% assign date = object.date %}
         {% include components/card-image-top.html classes=box_classes %}     
       {% endfor %}        
     </div>
   </div>
+
+  {% include components/pagination.html %}
 </div>
+
+
+<div class="col col-12 sm-col-3 md-col-3 lg-col-2 px2 py4">
+  hi
+</div>
+
+{% comment %}{% endcomment %}
