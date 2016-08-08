@@ -1,7 +1,7 @@
 ---
 title: '**Susan Quinn** -  *Eleanor and Hick: The Love Affair That Shaped a First Lady*'
 published: true
-start_at: 2015-09-29T07:00:00.000Z
+start_at: 2016-09-29T07:00:00.000Z
 image_path:
 book_category:
 program: '-writers-and-readers'
