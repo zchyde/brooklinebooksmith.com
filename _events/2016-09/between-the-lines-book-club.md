@@ -1,7 +1,7 @@
 ---
 title: '**Between the Lines Book Club**'
 published: true
-start_at: 2016-09-13T04:30:00.000Z
+start_at: 2016-09-13T16:30:00.000Z
 image_path:
 book_category:
 program: '-writers-and-readers'
