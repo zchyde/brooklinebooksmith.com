@@ -14,4 +14,6 @@ related_books:
 ---
 
 
-![](/uploads/versions/sfsong---x----925-639x---.png)But really, [the book](http://www.brooklinebooksmith-shop.com/book/9780802735409) is really sweet and Something Corporate is my teen years in music form.
+![But really, the book is really sweet and Something Corporate is my teen years in music form.](/uploads/versions/sfsong---x----925-639x---.png)
+
+But really, [the book](http://www.brooklinebooksmith-shop.com/book/9780802735409) is really sweet and Something Corporate is my teen years in music form.
