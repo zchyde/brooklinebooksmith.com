@@ -26,7 +26,7 @@ Sitting Still Like A Frog by Ellne Snell is a great way to get back into the swi
 
 [Don't Be A Jerk](http://www.brooklinebooksmith-shop.com/book/9781608683888) by Brad Warner
 
-Don't Be A Jerk is a no-nonsense approach to the deepest and most influential zen teachings.&nbsp; In plain English Warner tells his audience about the ins and outs of the ancient practice and how it applies today
+Don't Be A Jerk is a funny and candid approach to the deepest and most influential zen teaching -- just don't be a jerk. &nbsp; Warner's title is a witty paraphrasing of Zen master Dogen's Treasury of the True Dharma Eye.&nbsp; In plain English Warner explains the ins and outs of the ancient practice and how it applies today.&nbsp;
 
 ![](/uploads/versions/1-215---x----1286-1286x---.jpg)
 <br>—————-
