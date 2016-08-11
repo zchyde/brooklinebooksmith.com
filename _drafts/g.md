@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: Summer winds down
-featured_image_path:
+featured_image_path: /1 264jpg.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
