@@ -33,7 +33,7 @@ Sitting Still Like A Frog by Ellne Snell is a great way to get back into the swi
 
 For a truly relaxing read you might pick up Claire Louise-Bennett's&nbsp; [Pond](http://www.brooklinebooksmith-shop.com/book/9780399575891)
 
-This series of short stories quietly reflects on the everyday goings on of a small coastal Irish town.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
+This series of short stories quietly reflects on the everyday.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
 
 <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Cliare Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
 
@@ -41,4 +41,4 @@ This series of short stories quietly reflects on the everyday goings on of a sma
 
 [Be Here Now](http://www.brooklinebooksmith-shop.com/book/9780517543054) by Ram Dass
 
-The classics are a good place to start on your mindfulness journey.&nbsp; Be Here Now is a classic mindfulness title.&nbsp; Whenever life gets out of hand pick up this book and follow one mans journey to enlightenment – and see how easy it is for yourself to do, too.&nbsp; Contemplate man's natural disposition to seek spirituality and enlightenment.
+This classic mindfulness title follows one man's journey to enlightenment as he embraces the yogic path. *Be Here Now* asks questions about the spiritual nature of mankind and how one finds a way to happiness
