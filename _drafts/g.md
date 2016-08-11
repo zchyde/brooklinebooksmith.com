@@ -35,7 +35,7 @@ Don't Be A Jerk is a no-nonsense approach to the deepest and most influential ze
 
 For a truly relaxing read you might pick up Claire Louise-Bennett's&nbsp; [Pond](http://www.brooklinebooksmith-shop.com/book/9780399575891)
 
-Published by small Irish press Stinging Fly In this series of short stories Bennett reflects on the everyday -- shining her literary light on seemingly ordinary images.&nbsp; The resulting.&nbsp; Pond is less a short stopry colleciton and more a collection of musings -- the stream of consciousness thoughtsa of an unnamed character narrator.&nbsp; Each honest depiction of life as though the reader were to the one narrating the minute observances isolation and seclusion.
+Published by small Irish press Stinging Fly In this series of short stories Bennett reflects on the everyday -- shining her literary light on seemingly ordinary images.&nbsp; The resulting.&nbsp; Pond is less a collection of musings -- the conscious thoughts of an unnamed character.&nbsp; Each honest depiction of life as though the reader were to the one narrating the minute observances isolation and seclusion.
 <br>
 <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" -- Cliare Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
 <br>&nbsp;
