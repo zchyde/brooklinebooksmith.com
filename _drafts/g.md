@@ -14,14 +14,13 @@ related_books:
 ---
 
 
-With all the ups and downs of this roller coaster summer it seems a good book is in order.&nbsp; These are a few of the best books on mindfulness and meditation to help clear your mind and looking straight ahead.
+A good book is (always) in order as this roller coaster summer comes to an end.&nbsp; Here are a few of the best books on mindfulness and meditation to help clear your mind and get focused.
 
 ![](/uploads/versions/1-30---x----1209-1209x---.jpg)————————-
 
 [Sitting Still Like A Frog](http://www.brooklinebooksmith-shop.com/book/9781611800586) by Ellne Snell
 
-Sitting Still Like&nbsp; A Frog by Ellne Snell is a great way to get back into the swing of things with you and your child.&nbsp; The new school year can be overwhelming for kids and adults alike – find your way to zen with these poses and postures.
-<br>&nbsp;
+Sitting Still Like A Frog by Ellne Snell is a great way to get back into the swing of things for you and your child.&nbsp; The new school year can be overwhelming for kids and adults alike – find your way to zen with these poses and postures.&nbsp;
 
 ![](/uploads/versions/1-146---x----1410-1410x---.jpg)—————————
 
