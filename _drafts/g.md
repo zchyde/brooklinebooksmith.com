@@ -15,7 +15,6 @@ related_books:
 
 
 The summer season is beginning to wind down and school is starting up.&nbsp; With all the ups and downs of a summer roller coaster a good book is in order.&nbsp; These are a few of the best books on mindfulness and meditation to help you get your head clear and looking straight ahead.
-<br>&nbsp;
 
 ![](/uploads/versions/1-30---x----1209-1209x---.jpg)-------------------------
 
