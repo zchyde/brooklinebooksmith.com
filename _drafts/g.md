@@ -14,7 +14,7 @@ related_books:
 ---
 
 
-A good book is (always) in order -- especially as this roller coaster summer comes to an end.&nbsp; Here are a few of the best books on mindfulness and meditation to help clear your mind and get you focused.
+A good book is (always) in order – especially as this roller coaster summer comes to an end.&nbsp; Here are a few of the best books on mindfulness and meditation to help clear your mind and get you focused.
 
 ![](/uploads/versions/1-30---x----1209-1209x---.jpg)————————-
 
@@ -35,10 +35,10 @@ For a truly relaxing read you might pick up Claire Louise-Bennett's&nbsp; [Pond]
 
 This series of short stories quietly reflects on the everyday.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
 
-<br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Cliare Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
+> <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Cliare Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
 
 ![](/uploads/versions/1-66---x----1149-1149x---.jpg)—————————-
 
 [Be Here Now](http://www.brooklinebooksmith-shop.com/book/9780517543054) by Ram Dass
 
-This classic mindfulness title follows one man's journey to enlightenment as he embraces the yogic path. *Be Here Now* asks questions about the spiritual nature of mankind and how one finds a way to happiness
+This classic mindfulness title follows one man's journey to enlightenment as he embraces the yogic path. *Be Here Now* asks questions about the spiritual nature of mankind and how one finds a way to happiness.&nbsp; The best way to find wholeness is to find the present moment -- pick up this book and find how simple it can be for you to be happy, too.
