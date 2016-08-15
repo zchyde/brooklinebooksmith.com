@@ -1,6 +1,8 @@
 ---
 title: 'Known and Strange Things: Essays'
-isbn:
+isbn: '9780812989786'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/786/989/9780812989786.jpg'
 ---
+
+
