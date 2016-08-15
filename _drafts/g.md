@@ -2,7 +2,7 @@
 title: Chill out
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-08-15T09:00:00.000Z
 description: Summer winds down and the school year picks up -- decompress with these zen titles
 featured_image_path: /1 264jpg.jpg
 featured_image_position: 50
@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - gwen
 related_books:
 ---
 
@@ -18,9 +19,9 @@ A good book is (always) in order – especially as this roller coaster summer co
 
 ![](/uploads/versions/1-30---x----1209-1209x---.jpg)————————-
 
-[Sitting Still Like A Frog](http://www.brooklinebooksmith-shop.com/book/9781611800586) by Ellne Snell
+[Sitting Still Like A Frog](http://www.brooklinebooksmith-shop.com/book/9781611800586) by Eline Snell
 
-Sitting Still Like A Frog by Ellne Snell is a great way to get back into the swing of things for you and your child.&nbsp; The new school year can be overwhelming for kids and adults alike – find your zen path with these poses and postures.&nbsp;
+*Sitting Still Like A Frog*by Eline Snell is a great way to get back into the swing of things for you and your child.&nbsp; The new school year can be overwhelming for kids and adults alike – find your zen path with these poses and postures.&nbsp;
 
 ![](/uploads/versions/1-146---x----1410-1410x---.jpg)—————————
 
@@ -33,12 +34,12 @@ Sitting Still Like A Frog by Ellne Snell is a great way to get back into the swi
 
 For a truly relaxing read you might pick up Claire Louise-Bennett's&nbsp; [Pond](http://www.brooklinebooksmith-shop.com/book/9780399575891)
 
-This series of short stories quietly reflects on the everyday.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
+This series of short stories quietly reflects on the everyday.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond&nbsp;*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
 
-> <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Cliare Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
+> <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Claire Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
 
 ![](/uploads/versions/1-66---x----1149-1149x---.jpg)—————————-
 
 [Be Here Now](http://www.brooklinebooksmith-shop.com/book/9780517543054) by Ram Dass
 
-This classic mindfulness title follows one man's journey to enlightenment as he embraces the yogic path. *Be Here Now* asks questions about the spiritual nature of mankind and how one finds a way to happiness.&nbsp; The best way to find wholeness is to find the present moment -- pick up this book and find how simple it can be for you to be happy, too.
+This classic mindfulness title follows one man's journey to enlightenment as he embraces the yogic path. *Be Here Now* asks questions about the spiritual nature of mankind and how one finds a way to happiness.&nbsp; The best way to find wholeness is to find the present moment – pick up this book and find how simple it can be for you to be happy, too.
