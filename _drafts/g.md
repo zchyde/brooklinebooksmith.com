@@ -1,6 +1,6 @@
 ---
 title: Chill Out
-published: false
+published: true
 featured: false
 date: 2016-08-15T09:00:00.000Z
 description: Summer winds down and the school year picks up -- decompress with these zen titles
@@ -27,16 +27,16 @@ A good book is (always) in order – especially as this roller coaster summer co
 
 [Don't Be A Jerk](http://www.brooklinebooksmith-shop.com/book/9781608683888) by Brad Warner
 
-*Don't Be A Jerk* is a funny and candid approach to the deepest and most influential zen teaching – just don't be a jerk. &nbsp; Warner's title is a witty paraphrasing of Zen master Eihei Dogen's (1200-1253) *Treasury of the True Dharma Eye*.&nbsp; In plain English Warner explains the details of the ancient text.&nbsp; He expands on some of Dogen's more complex ideas about feminism and the depth of the Heart Sutra, to Dogen's approach to the more daily intricacies of life, like the process of cleaning and maintaining traditional robes.&nbsp; All of this without the traditional maps, genealogical charts, glossary, and bibliography to wade through.
+*Don't Be A Jerk* is a funny and candid approach to the deepest and most influential zen teaching – just don't be a jerk. &nbsp; Warner's title is a witty paraphrasing of Zen master Eihei Dōgen's (1200-1253) *Treasury of the True Dharma Eye*.&nbsp; In accessible language, Warner explains the details of the ancient text.&nbsp; He expands on some of Dogen's more complex ideas about feminism and the depth of the Heart Sutra, to Dogen's approach to the more daily intricacies of life, like the process of cleaning and maintaining traditional robes.&nbsp; All of this without the traditional maps, genealogical charts, glossary, and bibliography to wade through.
 
 ![](/uploads/versions/1-215---x----1286-1286x---.jpg)
 <br>—————-
 
 For a truly relaxing read you might pick up Claire Louise-Bennett's&nbsp;[Pond](http://www.brooklinebooksmith-shop.com/book/9780399575891)
 
-This series of short stories quietly reflects on the everyday.&nbsp; Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; *Pond&nbsp;*is a collection of musings – the conscious thoughts of an unnamed character.&nbsp; Each minute observance is an honest depiction of life in a secluded coastal Irish town.
+*Pond&nbsp;*is a collection of musings – the conscious thoughts of an unnamed character. Bennett shines her literary light on seemingly ordinary things and the result is a pleasant meditation on solitude.&nbsp; Each minute observation is an honest depiction of life in a secluded coastal Irish town.
 
-> <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you" – Claire Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
+> <br>"In solitude you don’t need to make an impression on the world, so the world has some opportunity to make an impression on you." – Claire Louise-Bennett for the [Irish Times](http://www.irishtimes.com/culture/books/claire-louise-bennett-on-writing-pond-1.2226535\)
 
 ![](/uploads/versions/1-66---x----1149-1149x---.jpg)—————————-
 
