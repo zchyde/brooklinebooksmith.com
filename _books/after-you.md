@@ -1,6 +1,8 @@
 ---
 title: After You
-isbn:
+isbn: '9780143108863'
 binding:
-image_path:
+image_path: 'https://images.booksense.com/images/863/108/9780143108863.jpg'
 ---
+
+
