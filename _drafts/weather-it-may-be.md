@@ -15,4 +15,4 @@ related_books:
 ---
 
 
-![](/uploads/versions/littlecloud---x----285-400x---.jpg)
+[![](/uploads/versions/littlecloud---x----285-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780399231919)
