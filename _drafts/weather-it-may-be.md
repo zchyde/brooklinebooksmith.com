@@ -15,4 +15,4 @@ related_books:
 ---
 
 
-[![](/uploads/versions/littlecloud---x----285-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780399231919)
+Have you heard about NOAA’s advances in predicting the weather, informing the public about severe weather events, and their newer climate change data?&nbsp; Recently, the National Oceanic and Atmospheric Administration has made some major upgrades to their weather predicting programs.&nbsp; In March (2016), NOAA revealed how its 2 new supercomputers (one in Florida and one in Virginia) are significantly upgrading the quality of our weather predicting capabilities.&nbsp; In May (2016) NOAA transferred to 4-D ensemble hybrid data assimilation, which “takes into account how weather systems evolve on a 3-D spatial grid over time, with time now becoming the fourth dimension.&nbsp; &nbsp;NOAA’s powerful new supercomputers paved the way for another upgrade to the U.S. Global Forecast System (GFS), NOAA’s primary model for weather prediction” (NOAA)
