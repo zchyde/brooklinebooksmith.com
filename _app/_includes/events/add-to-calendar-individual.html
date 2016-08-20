@@ -1,13 +1,20 @@
 {% capture title %}{{ page.title }}{% endcapture %}
 <div title="Add to Calendar" class="addeventatc">
     Add to Calendar
+    {% if page.start_at %}    
     <span class="start">
       {{ page.start_at | date: "%m/%d/%Y %r" }}
     </span>
     <span class="end">{{ page.start_at | date: "%m/%d/%Y %r" }}</span>
     <span class="timezone">America/New_York</span>
+    {% endif %}
+    {% if title %}
     <span class="title">{{ title | markdownify | strip_html }}</span>
+    {% endif %}
+    {% if page.content %}
     <span class="description">{{ page.content | markdownify | strip_html | truncatewords: 90, '…' }}</span>
+    {% endif %}
+
     <span class="location">{{ site.address }}</span>
     <span class="organizer">{{ site.sitename }}</span>
     <span class="organizer_email">thestore@brooklinebooksmith.com</span>

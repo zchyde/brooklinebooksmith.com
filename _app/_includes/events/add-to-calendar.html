@@ -1,12 +1,18 @@
 <div title="Add to Calendar" class="addeventatc">
     Add to Calendar
+    {% if event.start_at %}    
     <span class="start">
       {{ event.start_at | date: "%m/%d/%Y %r" }}
     </span>
     <span class="end">{{ event.start_at | date: "%m/%d/%Y %r" }}</span>
     <span class="timezone">America/New_York</span>
+    {% endif %}
+    {% if event_title %}
     <span class="title">{{ event_title }}</span>
+    {% endif %}
+    {% if event.content %}
     <span class="description">{{ event.content | markdownify | strip_html | truncatewords: 90, '…' }}</span>
+    {% endif %}    
     <span class="location">{{ site.address }}</span>
     <span class="organizer">{{ site.sitename }}</span>
     <span class="organizer_email">thestore@brooklinebooksmith.com</span>
