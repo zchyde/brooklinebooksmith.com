@@ -8,7 +8,7 @@
   
   <div class="xs-hide sm-hide sm-block md-block lg-inline-block">
     {% for object in site.data.navigation-links.primary %}
-      <a class="h4 pr3 inline-block font-family-brand text-decoration-none bold align-bottom hover-gray{% if page.url == object.url %} moon-gray {% else %} color-brandf muted-slightly{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
+      <a class="h4 pr3 inline-block font-family-brand text-decoration-none bold align-bottom hover-gray{% if page.url == object.url %} moon-gray {% else %} black{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
         {{ object.title }}
       </a>
     {% endfor %}

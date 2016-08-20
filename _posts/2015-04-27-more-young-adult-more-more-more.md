@@ -1,4 +1,5 @@
 ---
+layout: post
 title: MORE YOUNG ADULT! MORE MORE MORE.
 date: '2015-04-27T10:30:00.000-04:00'
 author: Alex S

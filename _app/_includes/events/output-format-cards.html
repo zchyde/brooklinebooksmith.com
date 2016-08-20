@@ -1,25 +1,27 @@
-{% assign related_books_isbn = event.book_isbn %}
-<div class="card event" id="event-{{count}}">
-  <div class="card-header">
-    <div class="flagged">
-      {% if start_at %}
-        <span class="date" style="color:white;">{{ start_at }}</span>
-      {% endif %}
-    </div>
-    {% if event.ticketed %}
-      <div class="ticketed">
+{% assign related_books_isbn = object.book_isbn %}
+<div class="card event col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
+    
+
+  <div class="card-header bg-brand white h4 px2 py1">    
+    {% if start_at %}
+      {% include components/date.html %}
+    {% endif %}    
+    {% if object.ticketed %}
+      <div class="btn btn-primary">
         Ticketed Event
       </div>
     {% endif %}
   </div>
-  <div class="card-header">
-    {% if event.book_category or event.program %}
+
+
+  <div class="p2">
+    {% if object.book_category or object.program %}
       <h5>
-        {% if event.book_category %}
-          {{event.book_category}}
+        {% if object.book_category %}
+          {{object.book_category}}
         {% comment %}
-        elsif event.program
-          capture related_program/programs/{{ event.program }}/endcapture
+        elsif object.program
+          capture related_program/programs/{{ object.program }}/endcapture
           assign program = site.programs | where: 'url', related_program
           assign program_title = program[0].title
           {{ program_title }}
@@ -27,61 +29,67 @@
         {% endif %}
       </h5>
     {% endif %}
-    {% if event.title  %}
+    {% if object.title  %}
       <h3 class="event_title">
-        <a href="{{ event.url }}">{{ event_title }}</a>
+        <a href="{{ object.url }}" class="h3 lg-h2 black hover-gray">
+          {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+        </a>
       </h3>
     {% endif %}
   </div>
 
-  <div class="card-copy">
+
+
+  <div class="card-copy flexTK px2 col-12 clearfix">
     {% comment %}
       looking for events with books. using the book_isbn value
       Using "...size > 0" to capture null values and entries where no field is present
       size, oddly, returns "8" where there is only one isbn (which is 13 digits)
     {% endcomment %}
-    {% if event.image_path and event.image_path !='' %}
-      <div class="" style="float:left:margin-right:1em;">
-        <img class="image-small" src="{{ event.image_path }}" alt="{{ event_title }} image" />
-      </div>
-    {% endif %}
-    {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
 
-      <div style="float:left:margin-right:1em;">
+    <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-4{% else %} lg-col-3{% endif %} pr2">
+      {% if object.image_path and object.image_path !='' %}      
+        <img class="image-small" src="{{ object.image_path }}"  class="left mr2" alt="{{ event_title }} image" style="width:14em;"/>      
+      {% endif %}
+
+      {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
+      
         {% for isbn in related_books_isbn %}
           {% if isbn %}
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
               {% if book.image_path %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}" />
+                  <img class="mb2 fit inline-block box-shadow-small-black transition{% if related_books_isbn.size > 1 %} col col-6 pl1{% endif %}" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}"  />
                 </a>
               {% elsif book.isbn %}
-                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn" />
+                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank" >
+                  <img class="mb2 fit inline-block box-shadow-small-black transition{% if related_books_isbn.size > 1 %} col col-6 pl1{% endif %}" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn"  />
                 </a>
               {% endif %}
             {% endfor %}
           {% endif %}
         {% endfor %}
-      </div>
+      
       {% else %}
     {% endif %}
-
-    {% if event.content %}
-      {{ event.content | markdownify }}
+    
+    </div>
+    {% if object.content %}
+      <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-8{% else %} lg-col-9{% endif %} h4">
+        {{ object.content | markdownify }}
+      </div>
     {% endif %}
   </div>
 
-  <div class="card-footer">
-    <div class="card-footer-content">
-      <div style="float:right;margin-right:1em;">
-        {% include events/add-to-calendar.html %}
-      </div>
-      {% comment %}
-        <div class="addthis_sharing_toolbox addthis_default_style "{% if start_at %}addthis:url="{{ site.url }}/events/#event-{{ start_at }}"{% endif %}{% if event.title %} addthis:title="{{ event.title }}"{% endif %}>
-        </div>
-     {% endcomment %}
+
+
+  <div class="card-footer col-12 mt3 clearfix relative">
+    <div class="absolute bottom-0 right-0 mb2 mr2">
+      {% include events/add-to-calendar.html %}
+    </div>
+    <div class="addthis_sharing_toolbox addthis_default_style lg-absolute lg-bottom-0 lg-left-0 mb2 ml2"{% if start_at %}addthis:url="{{ site.url }}/events/#event-{{ start_at }}"{% endif %}{% if object.title %} addthis:title="{{ object.title }}"{% endif %}>
     </div>
   </div>
+
 </div>

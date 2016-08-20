@@ -3,23 +3,13 @@ title: Upcoming Events
 published: true
 featured_image_path: /uploads/linderpix-bbsmith-cs-120915-01_v2.jpg
 featured_image_position: 45
+layout: events
 featured_image_credit: '[Liz Linder](http://lizlinder.com)'
 fancy_font: Cabin-sketch
 include: events/list-future.html
 description: >-
   Featured: James Parker and [The
   Pilgrim](http://www.thepilgrim.org/#!about/c69s)
-
-
-
-
-
-
-
-
-
-
-
 
 
 

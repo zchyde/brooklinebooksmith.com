@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alex Is Reading...TOMBOY
 date: '2015-01-05T10:07:00.001-05:00'
 author: Alex S

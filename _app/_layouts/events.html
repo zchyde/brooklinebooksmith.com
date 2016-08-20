@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% assign box_classes = ' border col-12 rounded border-silver bg-transition' %}
+{% assign todays_date = site.time | date: "%Y%m%d"  %}
+{% assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %}
+{% assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %}
+{% assign events_past = site.events | where_exp: 'item', 'item.start_at < todays_date' %}
+{% assign events_past = events_upcoming | sort: 'start_at', 'last' | reverse %}
+{% include hero.html %}
+
+
+
+<div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
+  
+  <aside class="lg-mt4 p2 mb3 white h5 col-12 col md-col-3 lg-col-3 rounded{% if page.description  %} bg-brand {% endif %}">
+    {% if page.description  %}
+      {{ page.description  | markdownify }}
+    {% endif %}
+  </aside>
+
+  <div class="line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-9 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
+       {% for object in events_upcoming  %}
+        {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
+      {% include events/output-format-cards.html classes=box_classes start_at=start_at %}                
+      {% endfor %}
+  </div>
+  
+
+  <aside class="clearfix col-12 w-100{% if page.aside-bottom or page.include_description %} content-aside{% endif %}" style="display:none;">
+    {% if page.include_description %}
+        {% include {{ page.include_description }} %}
+    {% endif %}
+    &nbsp;
+    {% if page.featured_image_credit %}
+      <div class="caption cf w-100 f6">
+        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+  </aside>
+
+</div>

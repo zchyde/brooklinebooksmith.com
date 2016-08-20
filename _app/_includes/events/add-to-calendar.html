@@ -5,7 +5,11 @@
     </span>
     <span class="end">{{ event.start_at | date: "%m/%d/%Y %r" }}</span>
     <span class="timezone">America/New_York</span>
-    <span class="title">{{ event_title }}</span>
+    {% if event.title %}
+      <span class="title">
+        {{ event.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+      </span>
+    {% endif %}    
     <span class="description">{{ event.content | markdownify | strip_html | truncatewords: 90, '…' }}</span>
     <span class="location">{{ site.address }}</span>
     <span class="organizer">{{ site.sitename }}</span>

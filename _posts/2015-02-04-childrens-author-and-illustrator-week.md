@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Children''s Author and Illustrator Week: Because Obviously That Alligator
   Eats People'
 date: '2015-02-04T09:00:00.000-05:00'

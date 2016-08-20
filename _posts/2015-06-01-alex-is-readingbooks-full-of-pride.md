@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alex Is Reading....BOOKS FULL OF PRIDE!!
 date: '2015-06-01T10:30:00.000-04:00'
 author: Alex S

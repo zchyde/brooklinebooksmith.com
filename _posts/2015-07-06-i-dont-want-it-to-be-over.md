@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Don't Want It to Be Over!
 date: '2015-07-06T10:00:00.000-04:00'
 author: Amy

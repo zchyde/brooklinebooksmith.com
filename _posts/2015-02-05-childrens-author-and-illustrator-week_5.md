@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Children''s Author and Illustrator Week: View Changing!'
 date: '2015-02-05T13:07:00.002-05:00'
 author: Amy

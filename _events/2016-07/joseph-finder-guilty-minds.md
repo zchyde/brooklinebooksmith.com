@@ -1,5 +1,5 @@
 ---
-title: '**Joseph Finder**,  *Guilty Minds*'
+title: '**Joseph Finder** - *Guilty Minds*'
 published: true
 start_at: 2016-07-19T19:00:00.000Z
 image_path:

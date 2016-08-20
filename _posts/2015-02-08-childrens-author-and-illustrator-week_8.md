@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Children''s Author and Illustrator Week: Imagination'
 date: '2015-02-08T09:00:00.000-05:00'
 author: Kylie Brien

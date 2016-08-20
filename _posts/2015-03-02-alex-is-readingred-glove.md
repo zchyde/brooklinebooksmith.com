@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alex Is Reading...RED GLOVE
 date: '2015-03-02T13:08:00.000-05:00'
 author: Alex S

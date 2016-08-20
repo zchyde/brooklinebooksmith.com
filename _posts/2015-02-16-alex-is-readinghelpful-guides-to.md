@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alex Is Reading...HELPFUL GUIDES TO THE APOCALYPSE
 date: '2015-02-16T09:00:00.000-05:00'
 author: Alex S

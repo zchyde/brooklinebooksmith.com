@@ -29,7 +29,8 @@ svg {
 }
 
 a {
-  color: #07c;
+  /*color: #07c;*/
+  color: var(--blue-light);
 }
 
 h1, h2, h3,
