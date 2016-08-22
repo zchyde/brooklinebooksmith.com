@@ -2,7 +2,7 @@
 <div class="card event col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
     
 
-  <div class="card-header bg-brand white h4 px2 py1">    
+  <div class="card-header bg-default-primary-color white h4 px2 py1">    
     {% if start_at %}
       {% include components/date.html %}
     {% endif %}    
@@ -60,11 +60,11 @@
             {% for book in related_books %}
               {% if book.image_path %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="mb2 fit inline-block box-shadow-small-black transition{% if related_books_isbn.size > 1 %} col col-6 pl1{% endif %}" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}"  />
+                  <img class="mb2 fit inline-block transition{% if related_books_isbn.size > 1 %} col col-6 pr1{% else %} box-shadow-small-black{% endif %}" src="{{ book.image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}"  />
                 </a>
               {% elsif book.isbn %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank" >
-                  <img class="mb2 fit inline-block box-shadow-small-black transition{% if related_books_isbn.size > 1 %} col col-6 pl1{% endif %}" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn"  />
+                  <img class="mb2 fit inline-block transition{% if related_books_isbn.size > 1 %} col col-6 pr1{% else %} box-shadow-small-black{% endif %}" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn"  />
                 </a>
               {% endif %}
             {% endfor %}

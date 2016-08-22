@@ -7,9 +7,11 @@ book_category:
 program: '-writers-and-readers'
 ticketed: false
 test:
-book_isbn:
-  - '9781555977450'
+book_isbn:  
   - '9781936970438'
+  - '9780399171437'
+  - '9780399171437'
+  - '9781555977450'
 ---
 
 
