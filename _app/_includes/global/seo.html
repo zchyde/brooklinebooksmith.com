@@ -2,9 +2,10 @@
 <!-- bpny -->
 {% if page.featured_image_path  %}
   {% assign image = page.featured_image_path | remove: '/uploads' | prepend: site.image_url  %}
-{% endif %}
-{% if page.image_path %}
+{% elsif page.image_path %}
   {% assign image = page.image_path | remove: '/uploads' | prepend: site.image_url  %}
+ {% else %} 
+ {% assign image = site.logo %}
 {% endif %}
 
 <meta property="og:image" content="{{ image }}?w=1220&h=630&fit=crop&crop=crop=entropy" />
