@@ -5,54 +5,124 @@
    Variables to set colors for
    color, background-color, and border-color
 
+   .color_name {color}
+   .bg-color_name {background-color}
+   .hover-bg-color_name:hover {backgroun-color}
+   .hover-color_name:hover; {color}
+
+   
+    white
+    near-white
+    silver
+    light-gray
+    gray   
+    dark-gray
+    black
+
+    dark-primary-color    (background-color)   
+    default-primary-color   (background-color)   
+    light-primary-color (background-color)   
+    text-primary-color     (color)    
+    accent-color            (background-color)   
+    primary-background-color (background-color)   
+    primary-text-color      (color)    
+    secondary-text-color   (color)     
+    disabled-text-color     (color)    
+    divider-color       (color)        
+
+
+
 */
+
 a { color: var(--brand-lighten)}
 .muted { opacity: .5 }
 
 
+.white {color: var(--white)}
+.bg-white {background-color: var(--white)}
+.hover-bg-white:hover {background-color: var(--white)}
+.hover-white:hover {color: var(--white)}
 
-.bg-dark-primary-color    { background: #0288D1; }
-.bg-default-primary-color { background: #0288D1; }
-.bg-light-primary-color   { background: #B3E5FC; }
+.near-white {color: var(--near-white)}
+.bg-near-white {background-color: var(--near-white)}
+.hover-bg-near-white:hover {background-color: var(--near-white)}
+.hover-near-white:hover {color: var(--near-white)}
 
-.bg-accent-color          { background: #607D8B; }
-.text-default-primary-color { color: #0288D1; }
-.text-dark-primary-color { color: #03A9F4; }
-.text-primary-color    { color: #FFFFFF; }
-.primary-text-color    { color: #212121; }
-.secondary-text-color  { color: #757575; }
+.silver {color: var(--silver)}
+.bg-silver {background-color: var(--silver)}
+.hover-bg-silver:hover {background-color: var(--silver)}
+.hover-silver:hover {color: var(--silver)}
+
+.light-gray {color: var(--light-gray)}
+.bg-light-gray {background-color: var(--light-gray)}
+.hover-bg-light-gray:hover {background-color: var(--light-gray)}
+.hover-light-gray:hover {color: var(--light-gray)}
+
+.gray {color: var(--gray)}
+.bg-gray {background-color: var(--gray)}
+.hover-bg-gray:hover {background-color: var(--gray)}
+.hover-gray:hover {color: var(--gray)}
+
+.dark-gray {color: var(--dark-gray)}
+.bg-dark-gray {background-color: var(--dark-gray)}
+.hover-bg-dark-gray:hover {background-color: var(--dark-gray)}
+.hover-dark-gray:hover {color: var(--dark-gray)}
+
+.black {color: var(--black)}
+.bg-black {background-color: var(--black)}
+.hover-bg-black:hover {background-color: var(--black)}
+.hover-black:hover {color: var(--black)}
+
+.light-primary-color {color: var(--light-primary-color)}
+.bg-light-primary-color {background-color: var(--light-primary-color)}
+.hover-bg-light-primary-color:hover {background-color: var(--light-primary-color)}
+.hover-light-primary-color:hover {color: var(--light-primary-color)}
+
+ .dark-primary-color {color: var(--dark-primary-color)}
+.bg-dark-primary-color {background-color: var(--dark-primary-color)}
+.hover-bg-dark-primary-color:hover {background-color: var(--dark-primary-color)}
+.hover-dark-primary-color:hover {color: var(--dark-primary-color)}
+ 
+
+
+.dark-primary-color {color: var(--dark-primary-color)}
+.bg-dark-primary-color {background-color: var(--dark-primary-color)}
+.hover-bg-dark-primary-color:hover {background-color: var(--dark-primary-color)}
+.hover-dark-primary-color:hover {color: var(--dark-primary-color)}
+
+
+
+
+
+
 .border-divider-color         { border-color: #BDBDBD; }
 
 
-.white, .white a  { color: var(--white) }
+
 
 
 /* variables */
 :root {
 
   --white:  #FFFFFF;
+  --near-white: #F8F8F8;  
   --silver: #DDDDDD;
   --gray:   #AAAAAA;
-  --black:  #111111;
-  --dark-gray:  #333;
-  --blue-light: #1C94D0;
-  --moon-gray: #afcbd5;
   --light-gray: #EEE;
-  --near-white: #F8F8F8;
-
-   --dark-primary-color:       #0288D1;
-    --default-primary-color:    #03A9F4;
-    --light-primary-color:      #B3E5FC;
+  --dark-gray:  #333;
+  --black:  #111111;
+    /*Material*/
+    --dark-primary-color:       #1976D2;
+    --default-primary-color:    #2196F3;
+    --light-primary-color:      #BBDEFB;    
     --text-primary-color:       #FFFFFF;
-    --accent-color:             #607D8B;
-    --primary-background-color: #B3E5FC;
+    --accent-color:             #FF4081;
+    --primary-background-color: #BBDEFB;
     --primary-text-color:       #212121;
     --secondary-text-color:     #757575;
     --disabled-text-color:      #BDBDBD;
     --divider-color:            #BDBDBD;
 
-
-  
 
   --button-background-color: var(--purple);
   --button-background-color: var(--purple); 
