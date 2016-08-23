@@ -1,3 +1,4 @@
+@import 'google-material-color/dist/palette.var.css';
 /*
 
    COLOR VARIABLES
@@ -5,12 +6,16 @@
    Variables to set colors for
    color, background-color, and border-color
 
+   Use Material Design/Polymer as Default
+   https://material.google.com/style/color.html
+
+    // format
    .color_name {color}
    .bg-color_name {background-color}
    .hover-bg-color_name:hover {backgroun-color}
    .hover-color_name:hover; {color}
 
-   
+   // base colors
     white
     near-white
     silver
@@ -18,9 +23,10 @@
     gray   
     dark-gray
     black
-
+   
+   // theme colors
     dark-primary-color    (background-color)   
-    default-primary-color   (background-color)   
+    primary-color   (background-color)   
     light-primary-color (background-color)   
     text-primary-color     (color)    
     accent-color            (background-color)   
@@ -29,8 +35,6 @@
     secondary-text-color   (color)     
     disabled-text-color     (color)    
     divider-color       (color)        
-
-
 
 */
 
@@ -78,11 +82,10 @@ a { color: var(--brand-lighten)}
 .hover-bg-light-primary-color:hover {background-color: var(--light-primary-color)}
 .hover-light-primary-color:hover {color: var(--light-primary-color)}
 
- .dark-primary-color {color: var(--dark-primary-color)}
-.bg-dark-primary-color {background-color: var(--dark-primary-color)}
-.hover-bg-dark-primary-color:hover {background-color: var(--dark-primary-color)}
-.hover-dark-primary-color:hover {color: var(--dark-primary-color)}
- 
+.primary-color {color: var(--primary-color)}
+.bg-primary-color {background-color: var(--primary-color)}
+.hover-bg-primary-color:hover {background-color: var(--primary-color)}
+.hover-primary-color:hover {color: var(--primary-color)}
 
 
 .dark-primary-color {color: var(--dark-primary-color)}
@@ -90,8 +93,8 @@ a { color: var(--brand-lighten)}
 .hover-bg-dark-primary-color:hover {background-color: var(--dark-primary-color)}
 .hover-dark-primary-color:hover {color: var(--dark-primary-color)}
 
-
-
+.text-primary-color {color: var(--text-primary-color)}
+.primary-text-color  {color: var(--text-primary-color)}
 
 
 
@@ -111,17 +114,24 @@ a { color: var(--brand-lighten)}
   --light-gray: #EEE;
   --dark-gray:  #333;
   --black:  #111111;
-    /*Material*/
+    
+    /* Material */
     --dark-primary-color:       #1976D2;
-    --default-primary-color:    #2196F3;
+    --primary-color:          var(--palette-Purple-A700);
     --light-primary-color:      #BBDEFB;    
     --text-primary-color:       #FFFFFF;
     --accent-color:             #FF4081;
+    --light-accent-color: #ff80ab;
+    --dark-accent-color: #f50057;
     --primary-background-color: #BBDEFB;
     --primary-text-color:       #212121;
     --secondary-text-color:     #757575;
     --disabled-text-color:      #BDBDBD;
     --divider-color:            #BDBDBD;
+
+
+
+
 
 
   --button-background-color: var(--purple);
