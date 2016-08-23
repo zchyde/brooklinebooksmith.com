@@ -1,0 +1,30 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/6.3.1/bin/node',
+1 verbose cli   '/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/.bin/npm',
+1 verbose cli   'run-script',
+1 verbose cli   'reload' ]
+2 info using npm@3.10.3
+3 info using node@v6.3.1
+4 verbose run-script [ 'prereload', 'reload', 'postreload' ]
+5 info lifecycle brooklinebooksmith.com@1.6.0~prereload: brooklinebooksmith.com@1.6.0
+6 silly lifecycle brooklinebooksmith.com@1.6.0~prereload: no script for prereload, continuing
+7 info lifecycle brooklinebooksmith.com@1.6.0~reload: brooklinebooksmith.com@1.6.0
+8 verbose lifecycle brooklinebooksmith.com@1.6.0~reload: unsafe-perm in lifecycle true
+9 verbose lifecycle brooklinebooksmith.com@1.6.0~reload: PATH: /Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/npm/bin/node-gyp-bin:/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/.bin:/usr/local/Cellar/node/6.3.1/bin:/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/npm/bin/node-gyp-bin:/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/.bin:/usr/local/Cellar/node/6.3.1/bin:/usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/.bin:/usr/local/Cellar/node/6.3.1/bin:/Users/budparr/google-cloud-sdk/bin:/Users/budparr/.rbenv/shims:/usr/local/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/budparr/google-cloud-sdk/bin:/Users/budparr/.rbenv/shims:/Users/budparr/.rvm/bin:/Users/budparr/.rvm/bin
+10 verbose lifecycle brooklinebooksmith.com@1.6.0~reload: CWD: /Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com
+11 silly lifecycle brooklinebooksmith.com@1.6.0~reload: Args: [ '-c', 'browser-sync reload' ]
+12 verbose stack Error: write EPIPE
+12 verbose stack     at exports._errnoException (util.js:1012:11)
+12 verbose stack     at WriteWrap.afterWrite (net.js:793:14)
+13 verbose cwd /Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com
+14 error Darwin 15.6.0
+15 error argv "/usr/local/Cellar/node/6.3.1/bin/node" "/Users/budparr/Projects/brooklinebooksmith/www.brooklinebooksmith.com/node_modules/.bin/npm" "run-script" "reload"
+16 error node v6.3.1
+17 error npm  v3.10.3
+18 error code EPIPE
+19 error errno EPIPE
+20 error syscall write
+21 error write EPIPE
+22 error If you need help, you may report this error at:
+22 error     <https://github.com/npm/npm/issues>
+23 verbose exit [ 1, true ]

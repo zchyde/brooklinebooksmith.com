@@ -87,18 +87,25 @@ a { color: var(--brand-lighten)}
 .hover-bg-primary-color:hover {background-color: var(--primary-color)}
 .hover-primary-color:hover {color: var(--primary-color)}
 
-
 .dark-primary-color {color: var(--dark-primary-color)}
 .bg-dark-primary-color {background-color: var(--dark-primary-color)}
 .hover-bg-dark-primary-color:hover {background-color: var(--dark-primary-color)}
 .hover-dark-primary-color:hover {color: var(--dark-primary-color)}
 
-.text-primary-color {color: var(--text-primary-color)}
-.primary-text-color  {color: var(--text-primary-color)}
+.primary-text-color  {color: var(--primary-text-color)}
+.secondary-text-color  {color: var(--secondary-text-color)}
+.disabled-text-color  {color: var(--disabled-text-color)}
 
+.bg-accent-color {background-color: var(--accent-color)}
+.hover-bg-accent-color:hover {background-color: var(--accent-color)}
 
+.bg-light-accent-color {background-color: var(--light-accent-color)}
+.hover-bg-light-accent-color:hover {background-color: var(--light-accent-color)}
 
-.border-divider-color         { border-color: #BDBDBD; }
+.bg-dark-accent-color {background-color: var(--dark-accent-color)}
+.hover-bg-dark-accent-color:hover {background-color: var(--dark-accent-color)}
+
+.border-divider-color         { border-color: var(--divider-color); }
 
 
 
@@ -116,25 +123,23 @@ a { color: var(--brand-lighten)}
   --black:  #111111;
     
     /* Material */
+
+    /*NEXT FILL THESE IN WITH VALUES FROM GOOGLE MATERIAL NAMES*/
     --dark-primary-color:       #1976D2;
     --primary-color:          var(--palette-Purple-A700);
     --light-primary-color:      #BBDEFB;    
     --text-primary-color:       #FFFFFF;
     --accent-color:             #FF4081;
-    --light-accent-color: #ff80ab;
-    --dark-accent-color: #f50057;
+    --light-accent-color:      #ff80ab;
+    --dark-accent-color:     #f50057;
     --primary-background-color: #BBDEFB;
     --primary-text-color:       #212121;
     --secondary-text-color:     #757575;
     --disabled-text-color:      #BDBDBD;
     --divider-color:            #BDBDBD;
 
+    /*BassCSS overrides*/
 
-
-
-
-
-  --button-background-color: var(--purple);
   --button-background-color: var(--purple); 
   --transparent:transparent;
 }
