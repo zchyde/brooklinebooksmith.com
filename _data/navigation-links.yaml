@@ -25,10 +25,9 @@ primary:
     - title: "Kidsmith"
       url: /kidsmith/
 
-    - title: "Signed First Editions Book&nbsp;Club"
-      url: /sfe/
-
     - title: "Used Book Cellar"
       url: /used-books/
 
+    - title: "Audio Books"
+      url: /audio-books/
 
