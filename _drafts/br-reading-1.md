@@ -1,5 +1,5 @@
 ---
-title: BR READING 1
+title: 'BATHROOM READING PART I: THE LOST ART'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 related_books:
-  -
 ---
+
+
