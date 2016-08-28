@@ -34,13 +34,11 @@ So, to be fair, finding the perfect reading material is tricky. Bathroom reading
 
 Basically, your bathroom reading has to be some kind of obscene superbook held to standards no book can possibly achieve.
 
-BOOKS THAT HAVE SUCCEEDED, HISTORICALLY SPEAKING, PART I
+**BOOKS THAT HAVE SUCCEEDED, HISTORICALLY SPEAKING, PART I**
 
-SCIENCE FICTION BOOK TALKS: Jo Walton’s What Makes This Book So Great
+SCIENCE FICTION BOOK TALKS: Jo Walton’s [*What Makes This Book So Great*](http://www.brooklinebooksmith-shop.com/book/9780765331946)
 
-http://www.brooklinebooksmith-shop.com/book/9780765331946
-
-I love Jo Walton. LOVE Jo Walton. If you haven’t read any of her novels, they tend to feel like compelling historical fiction with a wrench thrown into the working of the world that’s so large you hardly feel the changes. Among Others is about a lonely girl in a science fiction book club who talks to faeries who aren’t like any other fairies I’ve read about, who is very afraid to think that her will has forced other people’s emotions to obey her. My Real Children is about an old woman who remembers two lives–one where she marries a certain man, and one where she leaves him and spends her life with a woman instead, while in the background Walton casually drops bombs and builds elevators to the moon.
+I love Jo Walton. LOVE Jo Walton. If you haven’t read any of her novels, they tend to feel like compelling historical fiction with a wrench thrown into the working of the world that’s so vast you hardly feel the changes. *Among Others*is about a lonely girl in a science fiction book club who talks to faeries who aren’t like any other fairies I’ve read about, who is very afraid to think that her will has forced other people’s emotions to obey her. *My Real Children* is about an elderly woman who remembers two versions of her life–one where she marries a certain man, and one where she leaves him and spends her life with a woman instead, and the intricate, flesh-and-blood differences in who she is and what the love in her life is like. Meanwhile, in two different backgrounds, Walton casually drops bombs and swaps out presidents, starts world wars and builds elevators to the moon.
 
 Her characters like to talk about books, so I bought this collection of essays (previously published as blog posts on Tor.com) in which she rereads some of her SF favorites (and, pleasingly, least favorites). Here is the thing: there is maybe a 5% crossover rate between books Jo Walton wants to read thirty times and books I do. But she’s tremendously interesting when she talks about books, and the incidental effect of reading this book is that, if you have a preference for newer SF/F like me, you will suddenly know a whole lot more about the history of the genre than you did before. If you know the old canon and its oddballs, as well, you’ll have someone to commiserate or argue with. Either way, at a few pages a post, it’s a great book to have sitting under the towel rack.
 
