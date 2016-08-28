@@ -54,46 +54,14 @@ A.J. Jacobs specializes in obsessive year long projects that make extremely edib
 
 I’m a particular fan of Drop Dead Healthy, however, because in it he takes as universal an approach to improving his physical and mental wellbeing as possible, trying out every method of exercise, diet, philosophy and therapy that I would personally never in one million years commit to. There’s a great deal of pleasure to be had in reading about all of these things through someone who a) isn’t you and b) hasn’t either died or lost his sense of humor because of all the bizarre rigors of his extreme wellness adventuring. You may also learn that the wierdest way you ever heard of for taking care of yourself is not in fact the wierdest way people have come up with. Humans are really good at coming up with weird stuff. It’s one of our things.
 
-SCIENCE WITH STICK FIGURES IN FOUR PAGES OR LESS: Randall Munroe’s What If?
+SCIENCE WITH STICK FIGURES IN FOUR PAGES OR LESS: Randall Munroe’s *What If?*
 
 http://www.brooklinebooksmith-shop.com/book/9780544272996
 
-One of the weird stuffs that humans are good at coming up with: science questions. Strangely posed, potentially fatal, sometimes worrying science questions. The questions in What If? were sent to stick figure web cartoonist Randall Monroe’s special science question email address. And he answers them! His answers are illustrated in Monroe’s classic stick style (as you may recognize from XKCD), and include a few familiar characters, but without any awareness of his comics, and even if the drawings were brutally Sharpie’d out of your copy, you’d be left with a fascinating, zippy, funny, and very clever book. Each section is only a few pages long, and is pretty much appropriate for everyone who’s old enough to absorb the explanations. Not a lot of popular science books are this darn fun.
+One of the weird stuffs that humans are good at coming up with: science questions. Strangely posed, potentially fatal, sometimes worrying science questions. The questions in What If? were sent to stick figure web cartoonist Randall Monroe’s special science question email address. And he answers them! His answers are illustrated in Monroe’s classic stick style (as you may recognize from *XKCD*), and include a few familiar characters, but without any awareness of his comics, and even if the drawings were brutally Sharpie’d out of your copy, you’d be left with a fascinating, zippy, funny, and very clever book. Each section is only a few pages long, and is pretty much appropriate for everyone who’s old enough to absorb the explanations. Not a lot of popular science books are this darn fun.
 
 The American paperback edition has yet to exist--the hardcover is gorgeous but, admittedly, not ideal bathroom reading material. But it’s so ideal for the purpose that it might be worth breaking the rules--and, if you have a keen eye and a quick hand, we still have a few copies of the British paperback edition on our bargain table.
 
 Stay tuned for part 2.
 
-<br>
-<br>
-<br>
-<br>
-<br>&nbsp;
-
-PART TWO
-
-YOU MIGHT AS WELL BE MINDFUL WHILE YOU’RE HERE: John Kabat-Zinn’s Letting Everything Become Your Teacher
-
-http://www.brooklinebooksmith-shop.com/book/9780385343237
-
-Or you could always try Mindfulness on the Go. http://www.brooklinebooksmith-shop.com/book/9781611801705
-
-FIX SHAKESPEARE: Ryan North’s Romeo and/or Juliet: A Chooseable-Path Adventure
-
-http://www.brooklinebooksmith-shop.com/book/9781101983300
-
-<br>
-<br>&nbsp;
-
-Nora Ephron??
-
-MURDER MYSTERY SCIENCE: A Is for Arsenic
-
-http://www.brooklinebooksmith-shop.com/book/9781472911308
-
-if what you’re doing makes you feel like you’re dying, why not contemplate how much worse it could be? agatha christie poisons
-
-<br>
-<br>
-<br>
-<br>&nbsp;
+&nbsp;
