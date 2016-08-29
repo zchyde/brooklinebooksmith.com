@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-08-30T09:00:00.000Z
 description: Several reading suggestions for times when nothing better is going on.
-featured_image_path:
+featured_image_path: /samjohn.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -55,4 +55,4 @@ One of the weird stuffs that humans are good at coming up with: science question
 
 The American paperback edition has yet to exist–the hardcover is gorgeous but, admittedly, not ideal bathroom reading material. But it’s so ideal for the purpose that it might be worth breaking the rules–and, if you have a keen eye and a quick hand, we still have a few copies of the British paperback edition on our bargain table.
 
-This should keep you busy for awhile. Stay tuned for Part 2.
+This should keep you busy for awhile. Stay tuned for Part 2. Parting note for you--[here is how](http://johnsonsdictionaryonline.com/?p=4848) Samuel Johnson's dictionary defines the people who write dictionaries.
