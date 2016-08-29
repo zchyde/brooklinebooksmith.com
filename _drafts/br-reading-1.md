@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - alex-s
 related_books:
 ---
 
