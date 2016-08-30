@@ -1,6 +1,8 @@
 ---
 title: 'Tetris: The Games People Play'
-isbn:
-binding:
-image_path:
+isbn: '9781626723153'
+binding: Paperback
+image_path: 'https://images.booksense.com/images/153/723/9781626723153.jpg'
 ---
+
+
