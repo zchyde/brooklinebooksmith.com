@@ -1,6 +1,8 @@
 ---
 title: 'Reclaiming Conversation: The Power of Talk in a Digital Age  PB'
-isbn:
-binding:
-image_path:
+isbn: '9780143109792'
+binding: Paperback
+image_path: 'https://images.booksense.com/images/792/109/9780143109792.jpg'
 ---
+
+
