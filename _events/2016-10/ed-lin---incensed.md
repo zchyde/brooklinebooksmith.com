@@ -1,6 +1,6 @@
 ---
 title: '**Ed Lin** -  *Incensed*'
-published: false
+published: true
 start_at: 2016-10-04T19:00:00.000Z
 image_path:
 book_category:
