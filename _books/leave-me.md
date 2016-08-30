@@ -1,6 +1,8 @@
 ---
 title: Leave Me
-isbn:
-binding:
-image_path:
+isbn: '9781616206178'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/178/206/9781616206178.jpg'
 ---
+
+
