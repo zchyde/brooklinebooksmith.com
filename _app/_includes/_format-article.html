@@ -12,11 +12,11 @@
   {% if page.show_featured_image_in_post and page.show_featured_image_in_post == true %}
     <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;margin:bottom:2em;" />
   {% endif %}
-  
-    <div>
+
+
       {{ content }}
-    </div>
     
+
   {% if page.include == 'ecommerce/febc-landing.html' %}
      {% include ecommerce/febc-landing.html %}
   {% endif %}

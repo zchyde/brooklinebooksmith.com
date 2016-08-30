@@ -11,10 +11,13 @@ src:url("/assets/font/b6378a07-8e2d-4510-b14b-21f6ffa4412a.eot?#iefix") format("
 */
 .font-family-brand {
   font-family: var(--font-brand) ;
-} 
+}
 .font-family-para {
   font-family: var(--font-para) ;
-  font-weight: 300;
+
+}
+.font-family-para hr {
+  clear: both;
 }
 .font-family-primary {
   font-family: var(--font-primary) ;
@@ -39,6 +42,6 @@ h4, h5, h6 {
 :root {
   --font-brand:  'Chronica W03 Black', Raleway, Lato,'Helvetica Neue', Helvetica, sans-serif;
   --font-primary:  'Avenir Next', Avenir, Frutiger, ‘Frutiger Linotype’, Univers, Calibri, ‘Gill Sans’, ‘Gill Sans MT’, ‘Myriad Pro’, Myriad, ‘DejaVu Sans Condensed’, ‘Liberation Sans’, ‘Nimbus Sans L’, Tahoma, Geneva, ‘Helvetica Neue’, Helvetica, Arial, sans-serif;
-  --font-para: 'Merriweather', "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  --font-para: "Georgia", "Cambria", "Times New Roman", "Times", serif;
   --line-height-4: 1.6;
 }

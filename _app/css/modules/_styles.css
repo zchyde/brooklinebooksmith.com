@@ -4,6 +4,25 @@
   display: none !important;
 }
 
+article.hentry ol {
+  padding-left: 1em;
+
+}
+
+
+hr:before,
+hr:after {
+  content: " ";
+  display: table;
+
+}
+hr:after { clear: both }
+
+
+ol li {
+  margin-bottom: 1.5em;
+}
+
 article.hentry img {
   float: left;
   max-height: 15em;
