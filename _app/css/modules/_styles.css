@@ -9,16 +9,6 @@ article.hentry ol {
 
 }
 
-
-hr:before,
-hr:after {
-  content: " ";
-  display: table;
-
-}
-hr:after { clear: both }
-
-
 ol li {
   margin-bottom: 1.5em;
 }
