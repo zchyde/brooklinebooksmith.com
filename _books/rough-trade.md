@@ -1,6 +1,8 @@
 ---
 title: Rough Trade
-isbn:
-binding:
-image_path:
+isbn: '9781943818006'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/006/818/9781943818006.jpg'
 ---
+
+
