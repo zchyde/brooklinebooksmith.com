@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-Jessica fears she will never be free of her past—until she discovers the obituary of a young woman, whose life is a ghostly echo of her own. So begins Jessica Teich’s quest to unravel a mystery: the suicide of someone she never met. Part psychological memoir, part literary thriller, ***The Future Tense of Joy*** is the luminous account of one woman’s efforts to free herself, and her family, from the demons of the past.
+An intimate psychological memoir, *The Future Tense of Joy* is the luminous account of one woman's efforts to free herself—and her family—from the demons of the past.&nbsp; The book deftly chronicles the daily consolations of marriage and motherhood, even as it exposes the treachery of silence to honor the healing power of love.
