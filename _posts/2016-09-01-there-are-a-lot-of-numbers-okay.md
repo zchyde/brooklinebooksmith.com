@@ -1,6 +1,6 @@
 ---
 title: 'There Are A Lot of Numbers Okay!'
-published: false
+published: true
 featured: false
 date: 2016-09-01T09:00:00.000Z
 description: I spend too much time typing in barcodes. I dream of numbers that start with 9-7-8.
