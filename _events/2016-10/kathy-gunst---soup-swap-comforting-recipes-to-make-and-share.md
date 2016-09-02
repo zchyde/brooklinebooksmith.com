@@ -1,6 +1,6 @@
 ---
 title: '**Kathy Gunst** -  *Soup Swap: Comforting Recipes to Make and Share*'
-published: false
+published: true
 start_at: 2016-10-03T19:00:00.000Z
 image_path:
 book_category:
