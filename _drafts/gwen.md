@@ -14,7 +14,7 @@ related_books:
 ---
 
 
-It's Fall.&nbsp; Limbs bouncing about in the wind free leaves from their grasp. We are all done traveling to the shore and sleeping under the stars -- but, that doesn't mean the adventure has to end. &nbsp; Here are some fantastic novels that will breathe life into you as the leaves settle their final debts.
+It's Fall.&nbsp; Limbs bouncing about in the wind free leaves from their grasp. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. &nbsp; Here are some fantastic novels that will breathe life into you as the leaves settle their final debts.
 <br>
 <br>[The Underground Railroad](http://www.brooklinebooksmith-shop.com/book/9780385542364) by Colson Whitehead
 
@@ -24,13 +24,15 @@ As a child I imagined the underground railroad as literal rows of silvery tracks
 
 The New York Times wrote a great [review](http://www.nytimes.com/2016/08/14/books/review/colson-whitehead-underground-railroad.html?_r=0)of this book stating,
 
-> "Whitehead’s imagination, unconstrained by stubborn facts, takes the novel to new places in the narrative of slavery..."
+> "Whitehead’s imagination, unconstrained by stubborn facts, takes the novel to new places in the narrative of slavery…"
 
-This novel is timeless -- literally.
+This novel is timeless – literally.
 <br>&nbsp;
 
 [Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988) by Jacqueline Woodson
 
 > "I know now that what is tragic isn't the moment. It is the memory."
 
-This novel is on fire.&nbsp; It is not a spontaneous, flailing fire pushed around by the oxygen that feeds it but a blazing, controlled burn breathing in its life force.&nbsp; <u>Another Brooklyn</u>'s life force is memory.&nbsp; It feeds off the tragedy of coming of age and the searing pain that comes with remembering it.&nbsp; Jacqueline Woodson depicts the world of a few young women in Brooklyn in the 70s -- a place full of wonder and danger.&nbsp; Her lyricism is intoxicating and exact.&nbsp;
+This novel is on fire.&nbsp; It is not a spontaneous, flailing fire pushed around by the oxygen that feeds it but a blazing, controlled burn breathing in its life force.&nbsp; <u>Another Brooklyn</u>'s life force is memory.&nbsp; It feeds off the tragedy of coming of age and the searing pain that comes with remembering it.&nbsp; <u>Another Brooklyn</u> revisits 1970s Brooklyn and focuses on a group of friends finding their way into adulthood.&nbsp; The group is made up of a handful of girls living in a place full of wonder and danger.&nbsp; Woodson's lyricism is intoxicating and exact.&nbsp;
+
+&nbsp;
