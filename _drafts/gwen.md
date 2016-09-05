@@ -18,7 +18,7 @@ related_books:
 
 ![](/uploads/versions/1-3---x----2184-1456x---.jpg)
 
-It's Fall.&nbsp; Limbs bouncing about in the wind free leaves from their grasp. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. &nbsp; Here are some fantastic novels that will breathe life into you as the leaves settle their final debts.
+It's Fall.&nbsp; Limbs bounce in the wind freeing leaves from their grasp. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. &nbsp; Here are some fantastic novels that will breathe life into you as the leaves settle their final debts.
 
 ![](/uploads/versions/1-2---x----2123-1194x---.jpg)
 <br>
