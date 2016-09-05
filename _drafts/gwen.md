@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: Excellent and moving titles to keep you going.
-featured_image_path:
+featured_image_path: /1 4.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -14,7 +14,13 @@ related_books:
 ---
 
 
+&nbsp;
+
+![](/uploads/versions/1-3---x----2184-1456x---.jpg)
+
 It's Fall.&nbsp; Limbs bouncing about in the wind free leaves from their grasp. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. &nbsp; Here are some fantastic novels that will breathe life into you as the leaves settle their final debts.
+
+![](/uploads/versions/1-2---x----2123-1194x---.jpg)
 <br>
 <br>[The Underground Railroad](http://www.brooklinebooksmith-shop.com/book/9780385542364) by Colson Whitehead
 
@@ -28,6 +34,8 @@ The New York Times wrote a great [review](http://www.nytimes.com/2016/08/14/book
 
 This novel is timeless – literally.
 <br>&nbsp;
+
+![](/uploads/versions/1-1---x----2184-1228x---.jpg)
 
 [Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988) by Jacqueline Woodson
 
