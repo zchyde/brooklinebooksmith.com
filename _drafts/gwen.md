@@ -3,7 +3,7 @@ title: Fall into these great reads
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description: Excellent and moving titles to keep you going.
+description: Moving titles to keep you going.
 featured_image_path: /1 4.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -14,7 +14,7 @@ related_books:
 ---
 
 
-&nbsp;
+![](/uploads/versions/1-3---x----2184-1456x---.jpg)
 
 ![](/uploads/versions/1-3---x----2184-1456x---.jpg)
 
