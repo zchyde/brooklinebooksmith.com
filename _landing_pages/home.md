@@ -3,10 +3,10 @@
 featured_image_path: /uploads/brookline-booksmith.jpg
 featured_image_position: 50
 banner_height: 250
-featured_hardcover_books:
-   - title:
-featured_paperback_books:
-   - title:
+featured_hardcover:
+   - book:
+featured_paperback:
+   - book:
 
 Hardcover:
   - '9780062442970'
