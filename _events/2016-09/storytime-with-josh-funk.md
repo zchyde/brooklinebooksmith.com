@@ -3,8 +3,8 @@ title: '**Storytime with Josh Funk**'
 published: true
 start_at: 2016-09-03T10:30:00.000Z
 image_path:
-book_category:
-program: '-writers-and-readers'
+book_category: kidsmith
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:
