@@ -1,6 +1,6 @@
 ---
 title: '**Tania Unsworth** - *Brightwood*, **Natasha Lowe** - *The Marvelous Magic of Miss Mabel*'
-published: false
+published: true
 start_at: 2016-10-30T17:00:00.000Z
 image_path:
 book_category: kidsmith
@@ -13,7 +13,7 @@ book_isbn:
 ---
 
 
-Two stellar children’s authors share their magical, spooky new novels just in time for Halloween.&nbsp;
+Two stellar children’s authors share their magical, spooky new novels just in time for Halloween.
 
 ***Brightwood:*** Daisy has never left her home of Brightwood Hall, a labyrinth filled with animals and talking portraits. But her mother vanishes, and Daisy finds herself besieged by a menacing stranger who wants Brightwood for himself.
 
