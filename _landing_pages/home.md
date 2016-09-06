@@ -2,7 +2,12 @@
 #featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_path: /uploads/brookline-booksmith.jpg
 featured_image_position: 50
-banner_height: 450
+banner_height: 250
+featured_hardcover_books:
+   - title:
+featured_paperback_books:
+   - title:
+
 Hardcover:
   - '9780062442970'
   - '9780316323536'
@@ -19,5 +24,3 @@ Paperback:
   - '9781530381135'
   - '9781594746031'
 ---
-
-
