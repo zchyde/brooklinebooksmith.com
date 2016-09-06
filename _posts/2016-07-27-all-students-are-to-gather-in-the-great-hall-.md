@@ -1,6 +1,6 @@
 ---
 title: All Students Are To Gather In The Great Hall.
-published: true
+published: false
 featured: false
 date: 2016-07-27T12:05:00.000Z
 description: "This coming\_Saturday, July 30th at 9pm, a local muggle bookstore will be preparing a special Harry Potter and the Cursed Child Midnight Release Party."

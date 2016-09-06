@@ -6,82 +6,116 @@ layout: default
 {% assign posts = site.posts %}
 {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
+{% assign todays_date = site.time | date: "%Y%m%d"  %}
+{% assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %}
+{% assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %}
 
 {% include hero.html %}
+<div class="px3 col-12 my4 clearfix">
 
+  <div class="col lg-col-9">
 
-<div class="px3">
-  
-  
     {% if campaign.size > 0 %}
-      
-        <div class="col-5">
+      {% assign second_row_offset = '1' %}
+      <div class="clearfix col-12 pb-4">
+        <div class="col col-7">
           {% include _campaigns-image.html %}
         </div>
-      
+        <div class="col col-5 px2">
+          {% for object in posts limit:1 %}
+          <a href="{{ object.url }}" class="col col-12 pl2 mb2 text-decoration-none relative black">
+            {% include components/card-image-top-bg.html classes=box_classes %}
+          </a>
+          {% endfor %}
+        </div>
+      </div>
     {% endif %}
-      
 
-
-  <h4 class="brand blocked">
-        Latest from the Blog
-      </h4>
-
-
-
-
-
-
-
-
-
-    
-      {% if featured_posts %}
-        {% for object in featured_posts limit:1 %}
-          {% include components/card-image-top.html %}      
-        {% endfor %}
-      {% endif %}
-      {% for object in posts limit:posts_limit %}
-        {% unless object.featured == true %} 
-          {% include components/card-image-top.html %}      
-        {% endunless %}       
+    <div class="col-12 flex flex-wrap">
+      {% for object in posts limit:3 offset:second_row_offset %}
+        <a href="{{ object.url }}" class="col col-4 pr2 mb2 text-decoration-none relative black">
+          {% include components/card-image-top-bg.html classes=box_classes %}
+        </a>
       {% endfor %}
-    
+    </div>
+
+    <div class="col-12 clearfix right-align px2">
+      <a href="/blog/" class=" block btn btn-primary">
+        more from the blog
+      </a>
+    </div>
+  </div>
+
+  <div class="col col-12 lg-col-3 p2 bg-dark-primary-color rounded">
+    {% for object in events_upcoming  %}
+      {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
+      <div class="col-12 mb4 hover-bg-silver">
+        <h2 class="h5 primary-text-colorTK white m0">
+          {{ start_at }}
+        </h2>
+        <h3 class="h4 white">
+          {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
+        </h3>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
 
 
 
 
 
-      
-  
-    <h4 class="brand blocked">
-      Upcoming Events
-    </h4>
-     {% include events/list-future.html format_output="long" %}
-     
-
-     <a href="/events/">
-       <button>
-         More Events
-       </button>
-     </a>
-  </aside>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}
 
 
 
 <div class="has-layout home">
-  {% include _slideshow-new-arrivals.html type="Hardcover" %}
-  <hr class="row" />
-  {% include _slideshow-new-arrivals.html type="Paperback" %}
+{% include _slideshow-new-arrivals.html type="Hardcover" %}
+<hr class="row" />
+{% include _slideshow-new-arrivals.html type="Paperback" %}
 </div>
 
 
 
 
+<h4 class="brand blocked">
+Latest from the Blog
+</h4>
+{% if featured_posts %}
+{% for object in featured_posts limit:1 %}
+{% include components/card-image-top.html %}
+{% endfor %}
+{% endif %}
+{% for object in posts limit:posts_limit %}
+{% unless object.featured == true %}
+{% include components/card-image-top.html %}
+{% endunless %}
+{% endfor %}
 
 
 
@@ -91,19 +125,17 @@ layout: default
 
 
 
+<h4 class="brand blocked">
+Upcoming Events
+</h4>
+{% include events/list-future.html format_output="long" %}
 
-<div class="row-social">
-    <div class="has-layout">
-      <div class="boxes-3-across">
-        <h5 class="large">Follow Us</h5>
-        <div class="addthis_horizontal_follow_toolbox"></div>
-      </div>
-      <div class="boxes-3-across">
-        {% include forms/constant-contact.html %}
-      </div>
-      <div class="boxes-3-across">
-        &nbsp;
-      </div>
-    </div>
-</div>
-</div>
+
+<a href="/events/">
+<button>
+More Events
+</button>
+</a>
+
+
+{% endcomment %}

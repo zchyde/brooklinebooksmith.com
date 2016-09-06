@@ -4,8 +4,8 @@ layout: default
 {% include hero.html %}
 
 <div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
-  
-  <aside class="lg-mt4 p2 white h5 col-12 col md-col-3 lg-col-3 rounded{% if page.description  %} bg-default-primary-color {% endif %}">
+
+  <aside class="lg-mt4 p2 white h5 col-12 col md-col-3 lg-col-3 rounded{% if page.description  %} bg-primary-color {% endif %}">
     {% if page.description  %}
       {{ page.description  | markdownify }}
     {% endif %}
@@ -14,7 +14,7 @@ layout: default
   <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
       {% include _format-article.html %}
   </article>
-  
+
 
   <aside class="cf w-100{% if page.aside-bottom or page.include_description %} content-aside{% endif %}" style="display:none;">
     {% if page.include_description %}

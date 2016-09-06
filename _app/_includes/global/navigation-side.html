@@ -1,5 +1,5 @@
 
-<div id="expandable-nav-side" class="expandable transition flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg z2 bg-default-primary-color overflow-y" role="banner" data-search-index="false">
+<div id="expandable-nav-side" class="expandable transition flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg z2 bg-primary-color overflow-y" role="banner" data-search-index="false">
 
 
    <div class="block m2 right-align">
@@ -12,15 +12,15 @@
 
   {% for object in site.data.navigation-links.primary %}
     <a class="
-      h5  
-      block fit py1 lg-py2 px1 lg-px2 
-      text-decoration-none 
+      h5
+      block fit py1 lg-py2 px1 lg-px2
+      text-decoration-none
       bold
       moon-gray
-      hover-white 
-      bg-hover-near-brand       
+      hover-white
+      bg-hover-near-brand
       border-brand-90
-      {% unless forloop.last %} border-bottom {% endunless %}      
+      {% unless forloop.last %} border-bottom {% endunless %}
       {% if page.url == object.url %} bg-near-brand white{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
       {{ object.title }}
     </a>
@@ -31,12 +31,12 @@
       join our mailing list
     </a>
     </div>
-  
+
   <div class="addthis_horizontal_follow_toolbox p1 lg-p2 rounded" style="margin-top:auto;"></div>
 
   {% comment %}
     <!-- if we want to host our own buttons, this process is started -->
-    <!-- 
+    <!--
       <div class="p1 lg-p2 rounded" style="margin-top:auto;">
         {% include sharing.html %}
       </div>

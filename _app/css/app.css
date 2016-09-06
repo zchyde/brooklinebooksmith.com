@@ -2,7 +2,7 @@
 @import 'normalize-opentype.css/normalize-opentype.css';
 @import '_basscss';
 
-/*@import 'modules/_accessibility';*/
+@import 'modules/_accessibility';
 @import 'modules/_base';
 @import 'modules/_fonts';
 @import 'modules/_colors';

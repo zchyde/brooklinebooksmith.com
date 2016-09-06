@@ -1,12 +1,21 @@
-{% assign image = object.featured_image_path | prepend: site.image_url | remove: 'uploads/' | append: '?w=400' %}
+ <!-- assign image = object.featured_image_path | prepend: site.image_url | remove: 'uploads/' | append: '?w=400'  -->
+{% if object.featured_image_path %}
+  {% assign image = object.featured_image_path %}
+{% else  %}
+  {% assign image = '/uploads/brookline-booksmith.jpg' %}
+{% endif %}
+
+
 {% assign collection = site.collections | where: 'label', object.collection | first  %}
 
-<a href="{{ object.url }}" class="text-decoration-none black">
-  <div class="bg-white relative{{ include.classes }}">
 
-    {% if object.featured_image_path %}
-      <img src="{{ image }}"  class="fit" alt="Featured image for {{ object.title }}">
-    {% endif %}
+<div class="bg-white border border-divider-color">
+
+
+    <div class="col-12 bg-cover bg-no-repeat bg-center"{% if image %} style="height:200px;background-image:url({{ image }})"{% endif %}>
+&nbsp;
+    </div>
+
 
     <div class="m0 px2 pb2">
 
@@ -32,11 +41,10 @@
 
     </div>
 
-    {% if object.categories %}
+    {% if object.categoriesTK %}
       <div class="absolute bottom-0 right-0 mr1 mb1 h6 gray">
         {{ object.categories[0] | replace: '-', ' ' | capitalize }}
       </div>
     {% endif %}
 
-  </div>
-</a>
+</div>

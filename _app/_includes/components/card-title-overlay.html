@@ -1,0 +1,21 @@
+<a href="{{ object.url }}" class="center block relative bg-cover" {% if object.featured_image_path %}style="background-image: url({{ object.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220q=65&bm=multiply&blend64=Nzc3);min-height:230px;"{% endif %}>
+
+  <div class="p2 absolute border border-divider-color bg-white mx2" style="bottom:-75px;">
+    {% if object.categories %}
+      <div class="center h6 disabled-text-color">
+        {{ object.categories[0] | replace: '-', ' ' | capitalize }}
+      </div>
+    {% endif %}
+    {% if object.title %}
+      <h1 class="43 ttu tracked table-cell align-bottom black ">
+        {{ object.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </h1>
+    {% endif %}
+    <small class="black">
+      {% if object.staff %}
+        {% assign theauthor = site.staff | where: 'slug', object.staff[0] %}
+        by {{ theauthor[0].title }}
+      {% endif %}
+    </small>
+  </div>
+</a>

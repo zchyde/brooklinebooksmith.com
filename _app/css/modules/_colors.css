@@ -41,16 +41,17 @@
 
 a { color: var(--blue)}
 .muted { opacity: .5 }
-
+.bg-red { background-color: red;}
 
 .white {color: var(--white)}
-/*.bg-white {background-color: var(--white)}
+.bg-white {background-color: var(--white)}
+/*
 .hover-bg-white:hover {background-color: var(--white)}
 .hover-white:hover {color: var(--white)}*/
 
 .near-white {color: var(--near-white)}
+.bg-near-white {background-color: var(--near-white)}
 /*
-
 .bg-near-white {background-color: var(--near-white)}
 .hover-bg-near-white:hover {background-color: var(--near-white)}
 .hover-near-white:hover {color: var(--near-white)}

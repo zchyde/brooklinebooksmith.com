@@ -2,21 +2,24 @@
 layout: listing
 ---
 
-{% assign posts = site.posts %}
+{% assign posts = paginator.posts %}
 
 
 {% assign posts = posts | sort: 'date', 'last' | reverse  %}
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
 {% assign box_classes = ' border rounded border-silver hover-bg-orange hover-white bg-transition' %}
 
-<div class="col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">      
-  
-  <div class="md-pr2 lg-pr2">
-    <div class="flex flex-wrap mxn2 list"> 
+<div class="col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">
+
+  <div class="px1 md-pr2 lg-pr2">
+    <div class="flex flex-wrap mxn2 list">
       {% for object in posts limit: 21 %}
         {% assign date = object.date %}
-        {% include components/card-image-top.html classes=box_classes %}     
-      {% endfor %}        
+
+          <a href="{{ object.url }}" class="col col-4 pr2 mb2 text-decoration-none relative black">
+          {% include components/card-image-top-bg.html classes=box_classes %}
+        </a>
+      {% endfor %}
     </div>
   </div>
 
