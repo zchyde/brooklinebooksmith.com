@@ -18,9 +18,19 @@ Paperback:
   - '9781101983300'
   - '9781101910160'
 featured_hardcover_books:
-   - title:
+  - fck-feelings-one-shrinks-practical-advice-for-managing-all-lifes-impossible-problems
+  - harry-potter-and-the-cursed-child
+  - the-art-of-rivalry-four-friendships-betrayals-and-breakthroughs-in-modern-art
+  - the-girl-with-the-lower-back-tattoo
+  - hillbilly-elegy-a-memoir-of-a-family-and-culture-in-crisis
+  - the-underground-railroad
 featured_paperback_books:
-   - title:
+  - m-train
+  - the-girl-on-the-train
+  - modern-romance
+  - unknown-caller
+  - my-grandmother-asked-me-to-tell-you-shes-sorry
+  - romeo-andor-juliet-a-chooseable-path-adventure
 ---
 
 
