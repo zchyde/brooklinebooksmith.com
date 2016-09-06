@@ -31,6 +31,13 @@ layout: default
       </div>
     {% endif %}
 
+    <div class="col-12 clearfix">
+
+      <h1>  Latest from the Blog</h1>
+
+    </div>
+
+
     <div class="col-12 flex flex-wrap">
       {% for object in posts limit:3 offset:second_row_offset %}
         <a href="{{ object.url }}" class="col col-4 pr2 mb2 text-decoration-none relative black">
@@ -46,17 +53,18 @@ layout: default
     </div>
   </div>
 
-  <div class="col col-12 lg-col-3 p2 bg-dark-primary-color rounded">
-    {% for object in events_upcoming  %}
-      {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-      <div class="col-12 mb4 hover-bg-silver">
-        <h2 class="h5 primary-text-colorTK white m0">
+  <div class="col col-12 lg-col-3 bg-dark-primary-color rounded">
+    <h1 class="p2 m0">Upcoming Events</h1>
+    {% for object in events_upcoming  limit:8 %}
+      {% assign start_at =  object.start_at | date: "%A %b %-d -  %I:%M %p" | replace: ' 0', '' | downcase %}
+      <a href="{{ object.url }}" class="block col-12 px2 pt2 pb3 hover-bg-primary-color hover-light-primary-color">
+        <time class="h5 primary-text-colorTK white m0">
           {{ start_at }}
-        </h2>
-        <h3 class="h4 white">
+        </time>
+        <h3 class="h3 near-white m0">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
         </h3>
-      </div>
+      </a>
     {% endfor %}
   </div>
 
