@@ -17,6 +17,10 @@ Paperback:
   - '9781107912362'
   - '9781101983300'
   - '9781101910160'
+featured_hardcover_books:
+   - title:
+featured_paperback_books:
+   - title:
 ---
 
 
