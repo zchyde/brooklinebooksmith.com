@@ -152,6 +152,10 @@ defaults:
     values:
       layout: page
   - scope:
+      path: '_landing_pages/kidsmith.md'
+    values:
+      layout: page-category
+  - scope:
       path: '_landing_pages/home.md'
     values:
       layout: home
