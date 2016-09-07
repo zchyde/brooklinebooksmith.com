@@ -12,7 +12,13 @@ layout: default
   </aside>
 
   <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
+    {% if page.collection == 'events' %}
+      {% include events/output-format-individual.html %}
+    {% else %}
       {% include _format-article.html %}
+    {% endif %}
+
+
   </article>
 
 

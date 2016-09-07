@@ -22,7 +22,7 @@
   <div class="card-header">
     <div class="flagged">
       {% if start_at %}
-        <span class="date" style="color:white;">{{ start_at }}</span>
+        <span class="date h2">{{ start_at }}</span>
       {% endif %}
     </div>
     {% if page.ticketed %}
@@ -46,11 +46,6 @@
         {% endif %}
       </h5>
     {% endif %}
-    {% if page.title  %}
-      <h3 class="event_title">
-        <a href="{{ page.url }}" title="{{ event_title | markdownify | strip_html }}" >{{ event_title | markdownify }}</a>
-      </h3>
-    {% endif %}
   </div>
 
   <div class="card-copy">
@@ -65,19 +60,19 @@
       </div>
     {% endif %}
     {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
-
-      <div style="float:left:margin-right:1em;">
+    {% assign image_classes = 'inline-block lg-left'  %}
+      <div class="lg-left lg-mr2">
         {% for isbn in related_books_isbn %}
           {% if isbn != '' %}
             {% assign related_books = site.books | where: 'isbn', isbn %}
             {% for book in related_books %}
               {% if book.image_path %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ book.image_path }}" alt="Book cover image_path{{ the_isbn }}" />
+                  <img class="{{ image_classes }}" src="{{ book.image_path }}" alt="Book cover image_path{{ the_isbn }}" />
                 </a>
               {% elsif book.isbn %}
                 <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="image-cover-small" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="Book Cover {{ the_isbn }} image_cdn" />
+                  <img class="{{ image_classes }}" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="Book Cover {{ the_isbn }} image_cdn" />
                 </a>
               {% endif %}
             {% endfor %}
