@@ -2,7 +2,7 @@
 title: Fall into these great reads
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-09-07T09:00:00.000Z
 description: Moving titles to keep you going.
 featured_image_path: /1 4.jpg
 featured_image_position: 50
@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - gwen
 related_books:
 ---
 
@@ -24,7 +25,7 @@ It's Fall.&nbsp; Limbs bounce in the wind freeing leaves from their grasp. We ar
 
 Colson Whitehead's <u>The Underground Railroad</u> retells the cruel and brutal history of America that we all know.&nbsp; Whitehead recaptures the narrative and broadens its implications all the while gripping his audience on the most terrifying adventure.
 
-As a child I imagined the underground railroad as literal rows of silvery tracks that lead North.&nbsp; I realized the railroad was not made up of steel rails or heavy ties but rather lit homes and shabby rides.&nbsp; Colson Whitehead's novel blends the literal and the imagined to create a real underground railroad made up of all the danger, dead ends and uncertainty of the underground railroad we know.&nbsp; This novel is at once a thrilling adventure and a poignant commentary.
+As a child I imagined the underground railroad as literal rows of silvery tracks that lead North.&nbsp; I realized the railroad was not made up of steel rails or heavy ties but rather lit homes and shabby rides.&nbsp; Colson Whitehead's novel blends the literal and the imagined to create an underground railroad made up of all the danger, dead ends and uncertainty of the real underground railroad we know.&nbsp; This novel is at once a thrilling adventure and a poignant commentary.
 
 The New York Times wrote a great [review](http://www.nytimes.com/2016/08/14/books/review/colson-whitehead-underground-railroad.html?_r=0) of this book stating,
 
@@ -39,4 +40,4 @@ This novel is timeless – literally.
 
 > "I know now that what is tragic isn't the moment. It is the memory."
 
-This novel is on fire.&nbsp; I don't mean a spontaneous, flailing fire pushed around by the oxygen that feeds it but a blazing, controlled burn.&nbsp; <u>Another Brooklyn</u>'s feeds off the strangeness of coming of age and the searing pain that comes with remembering it.&nbsp; <u>Another Brooklyn</u> revisits 1970s Brooklyn, NY and focuses on a group of four girls finding their way into adulthood.&nbsp; The novel recounts the memories of long forgotten times in a place full of wonder and danger.&nbsp; Woodson's lyricism is sharp and intoxicating.&nbsp; <u>Another Brooklyn</u> is a book that will take you back.
+This novel is on fire.&nbsp; I don't mean a spontaneous, flailing fire pushed around by the oxygen that feeds it but a blazing, controlled burn.&nbsp; <u>Another Brooklyn</u>&nbsp;feeds off the strangeness of coming of age and the searing pain that comes with remembering it.&nbsp; <u>Another Brooklyn</u> revisits 1970s Brooklyn, NY and focuses on a group of four girls finding their way into adulthood.&nbsp; The novel recounts the memories of long forgotten times in a place full of wonder and danger.&nbsp; Woodson's lyricism is sharp and intoxicating.&nbsp; <u>Another Brooklyn</u> is a book that will take you back.
