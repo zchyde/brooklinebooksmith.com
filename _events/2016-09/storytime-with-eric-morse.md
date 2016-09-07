@@ -4,7 +4,7 @@ published: true
 start_at: 2016-09-18T22:30:00.000Z
 image_path:
 book_category:
-program: '-writers-and-readers'
+program: 'childrens-story-time'
 ticketed: false
 test:
 book_isbn:

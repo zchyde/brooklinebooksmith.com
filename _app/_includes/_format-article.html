@@ -15,24 +15,9 @@
 
 
       {{ content }}
-    
 
-  {% if page.include == 'ecommerce/febc-landing.html' %}
-     {% include ecommerce/febc-landing.html %}
-  {% endif %}
 
-  {% if page.include == 'events/list-future.html' %}
-     {% include events/list-future.html %}
-  {% endif %}
-
-  {% if page.include == 'list-blog-posts.html' %}
-     {% include list-blog-posts.html %}
-  {% endif %}
-
-  {% if page.books and page.books[0] !='' %}
-    {% include _format-list-books.html %}
-  {% endif %}
-
+  
   {% if page.category %}
     <div class="cards">
       {% for object in category_posts %}

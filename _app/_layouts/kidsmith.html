@@ -16,7 +16,6 @@ layout: default
 <div class="px3 col-12 my4 clearfix">
 
   <div class="col-12 lg-col lg-col-9">
-
     <div class="col-12 clearfix">
       <h1 class="mt0">Blog posts from Kidsmith</h1>
     </div>
@@ -37,6 +36,14 @@ layout: default
   </div>
 
   <div class="md-col lg-col col-12 md-col-3 lg-col-3 bg-dark-primary-color rounded">
+
+      {% if page.description  %}
+        <aside class="mb3 px2 white col-12">
+          {{ page.description  | markdownify }}
+        </aside>
+      {% endif %}
+
+
     <h1 class="p2 m0">Upcoming Kids Events</h1>
     {% for object in events_upcoming  limit:8 %}
       {% assign start_at =  object.start_at | date: "%A %b %-d" | replace: ' 0', '' %}
