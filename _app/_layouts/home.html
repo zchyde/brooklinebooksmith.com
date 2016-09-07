@@ -17,6 +17,7 @@ layout: default
 
     {% if campaign.size > 0 %}
       {% assign second_row_offset = '1' %}
+      {% assign second_row_limit = '3' %}
       <div class="clearfix col-12 pb-4">
         <div class="col col-7">
           {% include _campaigns-image.html %}
@@ -29,17 +30,19 @@ layout: default
           {% endfor %}
         </div>
       </div>
+      {% else %}
+      {% assign second_row_limit = '6' %}
     {% endif %}
 
     <div class="col-12 clearfix">
 
-      <h1>  Latest from the Blog</h1>
+      <h1 class="mt0">  Latest from the Blog</h1>
 
     </div>
 
 
     <div class="col-12 flex flex-wrap">
-      {% for object in posts limit:3 offset:second_row_offset %}
+      {% for object in posts limit:second_row_limit offset:second_row_offset %}
         <a href="{{ object.url }}" class="col col-4 pr2 mb2 text-decoration-none relative black">
           {% include components/card-image-top-bg.html classes=box_classes %}
         </a>
@@ -67,6 +70,25 @@ layout: default
         </h3>
       </a>
     {% endfor %}
+  </div>
+
+</div>
+
+
+<div class="px3 my4 clearfix">
+
+  <h3 class="h1 col-12">
+    Weekly Bestsellers — Hardcover
+  </h3>
+  <div class="flex flex-wrap col-12 clearfix">
+    {% include weekly-bestsellers.html type="Hardcover" %}
+  </div>
+
+  <h3 class="h1 col-12 mt3">
+    Weekly Bestsellers — Paperback
+  </h3>
+  <div class="flex flex-wrap">
+    {% include weekly-bestsellers.html type="Paperback" %}
   </div>
 
 </div>
