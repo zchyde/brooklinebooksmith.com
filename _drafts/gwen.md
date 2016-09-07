@@ -27,7 +27,7 @@ Colson Whitehead's <u>The Underground Railroad</u> retells the cruel and brutal 
 
 As a child I imagined the underground railroad as literal rows of silvery tracks that lead North.&nbsp; I realized the railroad was not made up of steel rails or heavy ties but rather lit homes and shabby rides.&nbsp; Colson Whitehead's novel blends the literal and the imagined to create an underground railroad made up of all the danger, dead ends and uncertainty of the real underground railroad we know.&nbsp; This novel is at once a thrilling adventure and a poignant commentary.
 
-The New York Times wrote a great [review](http://www.nytimes.com/2016/08/14/books/review/colson-whitehead-underground-railroad.html?_r=0) of this book stating,
+*The New York Times* wrote a great [review](http://www.nytimes.com/2016/08/14/books/review/colson-whitehead-underground-railroad.html?_r=0) of this book stating,
 
 > "Whitehead’s imagination, unconstrained by stubborn facts, takes the novel to new places in the narrative of slavery…"
 
