@@ -1,7 +1,7 @@
 {% assign new_arrivals = page[include.type] %}
-{% assign image_classes = 'inline-block sm-col md-col lg-col col-12 sm-col-6 md-col-2 lg-col-2 pb3 border-box'  %}
-{% assign cover_classes = 'fit col-12 pr2 border-box m0' %}
-{% for book in new_arrivals limit:6 %}
+{% assign cover_classes = 'fit col-12 pr2 m0' %}
+{% assign limit = include.limit %}
+{% for book in new_arrivals limit:limit %}
   {% assign books = site.books | where: 'isbn', book %}
   {% for object in books  %}
     {% if object.image_path and object.image_path != '' %}
@@ -9,7 +9,7 @@
     {% else %}
       {% capture image %}{{ site.images_domain }}/{{ object.isbn }}.jpg{% endcapture %}
     {% endif %}
-      <a href="{{ image }}" target="_blank" class="{{ image_classes }}">
+      <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank" class="{{ include.image_classes }}">
         <img class="{{ cover_classes }}" src="{{ image }}" alt="cover for {{ object.title }}"/>
       </a>
 

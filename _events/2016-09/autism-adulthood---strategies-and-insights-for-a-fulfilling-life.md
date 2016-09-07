@@ -3,7 +3,7 @@ title: '**Susan Senator** - *Autism Adulthood: Strategies and Insights for a Ful
 published: true
 start_at: 2016-09-02T19:00:00.000Z
 image_path:
-book_category:
+book_category: kidsmith
 program: '-writers-and-readers'
 ticketed: false
 test:

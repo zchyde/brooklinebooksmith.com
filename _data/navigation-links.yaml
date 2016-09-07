@@ -6,10 +6,10 @@ utility:
       url: /about-us/
 
     - title: "Giftcards"
-      url: /search-the-shop/
+      url: http://www.brooklinebooksmith-shop.com/gift-card-booksmith
 
     - title: "Search our Online Shop"
-      url: /search-the-shop/
+      url: http://www.brooklinebooksmith-shop.com/search/advanced_search
 
 
 primary:
@@ -30,4 +30,3 @@ primary:
 
     - title: "Audio Books"
       url: /audio-books/
-

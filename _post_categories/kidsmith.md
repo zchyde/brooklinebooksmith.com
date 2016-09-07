@@ -5,7 +5,7 @@ featured_image_position: 21
 featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
 fancy_font: Cabin-sketch
 category: kidsmith
-layout:
+layout: kidsmith
 include_description: events/kids.html
 description: '[![twitter](/assets/images/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
 follow: true
@@ -21,5 +21,3 @@ Kids:
   - '9780316380867'
   - '9780062278227'
 ---
-
-

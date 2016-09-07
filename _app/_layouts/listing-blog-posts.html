@@ -9,14 +9,14 @@ layout: listing
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
 {% assign box_classes = ' border rounded border-silver hover-bg-orange hover-white bg-transition' %}
 
-<div class="col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">
+<div class="sm-col md-col ld-col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">
 
   <div class="px1 md-pr2 lg-pr2">
     <div class="flex flex-wrap mxn2 list">
       {% for object in posts limit: 21 %}
         {% assign date = object.date %}
 
-          <a href="{{ object.url }}" class="col col-4 pr2 mb2 text-decoration-none relative black">
+          <a href="{{ object.url }}" class="md-col lg-col col-12 sm-col-6 md-col-6 lg-col-4 pr2 mb2 text-decoration-none relative black">
           {% include components/card-image-top-bg.html classes=box_classes %}
         </a>
       {% endfor %}
@@ -27,6 +27,6 @@ layout: listing
 </div>
 
 
-<div class="col col-12 sm-col-3 md-col-3 lg-col-2 px2 py4">
+<div class="sm-col md-col lg-col col-12 sm-col-2 md-col-2 lg-col-2 px2 py4">
   {% include components/list-post-categories.html %}
 </div>
