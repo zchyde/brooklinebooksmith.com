@@ -2,7 +2,7 @@
 #featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_path: /uploads/brookline-booksmith.jpg
 featured_image_position: 50
-banner_height: 250
+banner_height: 350
 featured_hardcover_books:
   - fck-feelings-one-shrinks-practical-advice-for-managing-all-lifes-impossible-problems
   - harry-potter-and-the-cursed-child
