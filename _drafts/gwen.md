@@ -40,4 +40,6 @@ You won't regret picking up this gem.
 
 > "I know now that what is tragic isn't the moment. It is the memory."
 
-*&nbsp;<u>Another Brooklyn</u>*&nbsp;feeds off the strangeness of coming of age and the searing pain that comes with remembering it.&nbsp; This novel - the debut adult offering from the peerless Jacqueline Woodson - revisits 1970s Brooklyn, NY and focuses on a group of four girls finding their way into adulthood.&nbsp; The novel recounts the memories of long forgotten times in a place full of wonder and danger.&nbsp; Woodson's lyricism is sharp and intoxicating.&nbsp; *<u>Another Brooklyn</u>* is a book that will take you back.
+*&nbsp;<u>Another Brooklyn</u>*&nbsp;feeds off the strangeness of coming of age and the searing pain that comes with remembering it.&nbsp; This novel - the debut adult offering of the peerless [Jacqueline Woodson](http://www.brooklinebooksmith-shop.com/search/author/%22Woodson%2C%20Jacqueline%22) - visits 1970s Brooklyn, NY and focuses on a group of four girls finding their way into adulthood.&nbsp; The book recounts the memories of long forgotten times in a city full of wonder and danger.&nbsp; Woodson's lyricism is sharp and intoxicating. Whatever your origins,&nbsp; *<u>Another Brooklyn</u>* is a book that will take you back.
+
+There's no shortage of fresh literature hitting our shelves this week - Autumn is the boom time of publisher release dates. We'll have countless great titles for you in the coming months, but leave a little room in your shopping basket - these two are not to be missed.
