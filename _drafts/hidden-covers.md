@@ -2,19 +2,20 @@
 title: 'Hidden Covers, Part I'
 published: false
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-09-08T09:00:00.000Z
 description: "We wish always to have as much fun as children's book designers."
 featured_image_path: /uploads/fc9780763689117.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category:
+category: kidsmith
 staff:
+  - alex-s
 related_books:
 ---
 
 
-Book designers really have fun sometimes. That's one of the great things about physical books, actually–that book designers make physical books into something interesting and surprising to get acquainted with.
+[Book designers really have fun sometimes](http://www.brooklinebooksmith.com/2016/06/14/the-lined-up-murakami-puzzle/). That's one of the great things about physical books, actually–that book designers make physical books into something interesting and surprising to get acquainted with.
 
 Sometimes that means a tiny illustration on the spine of the book, or making the barcode on the back, or the copyright page, interact with the story in some unexpected way. Sometimes it means the texture of the jacket or the way the pages are cut. Sometimes a little device is embossed under the jacket. Sometimes it means hiding really cool second covers underneath the dust jackets and making booksellers feel like TOTAL FOOLS for not knowing that such beauty was within their grasp ALL ALONG.
 
