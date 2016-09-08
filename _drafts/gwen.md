@@ -32,6 +32,8 @@ As a child I learned the infamous railroad was not made up of steel rails or hea
 > "Whitehead’s imagination, unconstrained by stubborn facts, takes the novel to new places in the narrative of slavery…"
 > <br>&nbsp;
 
+You won't regret
+
 ![](/uploads/versions/1-1---x----2184-1228x---.jpg)
 
 [Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988) by Jacqueline Woodson
