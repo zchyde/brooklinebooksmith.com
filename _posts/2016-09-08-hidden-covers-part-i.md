@@ -4,8 +4,8 @@ published: true
 featured: false
 date: 2016-09-08T09:00:00.000Z
 description: "We wish always to have as much fun as children's book designers."
-featured_image_path: /uploads/fc9780763689117.jpg
-featured_image_position: 50
+featured_image_path: /uploads/detective.jpg
+featured_image_position: 25
 show_featured_image_in_post: false
 fancy_font:
 category: kidsmith
