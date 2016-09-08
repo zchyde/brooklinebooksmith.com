@@ -24,24 +24,24 @@ Recently the Kidsmith booksellers remembered this fact, and went on a scavenger 
 
 ![](/uploads/versions/loose-ends-inner---x----400-533x---.jpg)
 
-*The Loose Ends List* by Carrie Firestone is one of bookseller Joell's favorite recent reads, a YA novel about a girl, a cruise, a family, and the grandmother who has a whole lot of living to get through with all of them before her life comes to its predetermined close. The cheery yellow dust jacket sports an anchor that holds up the aquatic aspects of the plot, but the lively, messy, personal chaos of taking every moment for what it's worth sprawls across the hidden underneath.
+[*The Loose Ends List*](http://www.brooklinebooksmith-shop.com/book/9780316382823) by Carrie Firestone is one of bookseller Joell's favorite recent reads, a YA novel about a girl, a cruise, a family, and the grandmother who has a whole lot of living to get through with all of them before her life comes to its predetermined close. The cheery yellow dust jacket sports an anchor that holds up the aquatic aspects of the plot, but the lively, messy, personal chaos of taking every moment for what it's worth sprawls across the hidden underneath.
 
 ---
 
 ![](/uploads/versions/ryan-inside---x----400-568x---.jpg)
 
-*Echo* by acclaimed and award-winning author Pam Muñoz Ryan is hiding dusk under its royal blue and gold-foil cover. The book follows the lives of three children who all encounter the same harmonica–one in California, one in Germany, one in Pennsylvania. Their story is part history, part magic.
+[*Echo*](http://www.brooklinebooksmith-shop.com/book/9780439874021) by acclaimed and award-winning author Pam Mu&ntilde;oz Ryan is hiding dusk under its royal blue and gold-foil cover. The book follows the lives of three children who all encounter the same harmonica–one in California, one in Germany, one in Pennsylvania. Their story is part history, part magic.
 
 ---
 
 ![](/uploads/versions/tiger-inner---x----400-430x---.jpg)
 
-One of my favorite picture books possibly ever is Peter Brown's *Mr. Tiger Goes Wild*. The jacket shows Mr. Tiger roaming the jungle in coat and hat, but beneath it, his broad stripes make you feel like the book is breathing in your hands. And since this book is all about discovering and embracing the larger-than-life you that's inside, this seems just about right.
+One of my favorite picture books possibly ever is Peter Brown's [*Mr. Tiger Goes Wild*](http://www.brooklinebooksmith-shop.com/book/9780316200639). The jacket shows Mr. Tiger roaming the jungle in coat and hat, but beneath it, his broad stripes make you feel like the book is breathing in your hands. And since this book is all about discovering and embracing the larger-than-life you that's inside, this seems just about right.
 
 ---
 
 ![](/uploads/versions/poppy-inside---x----500-391x---.jpg)
 
-*Poppy Pickle* by Emma Yarlett is a picture book about a little girl whose imaginings come to life–and by the climax of the book, her shut bedroom door hides a space that's pretty much as stuffed with wildness and color as this hidden cover. Maybe a little *too* stuffed.
+[*Poppy Pickle*](http://www.brooklinebooksmith-shop.com/book/9780763689117) by Emma Yarlett is a picture book about a little girl whose imaginings come to life–and by the climax of the book, her shut bedroom door hides a space that's pretty much as stuffed with wildness and color as this hidden cover. Maybe a little *too* stuffed.
 
 So these are my first four picks–but there are plenty more. Next time you're in, check out Caldecott winner *Finding Winnie*, or Dan Santat's *Are We There Yet*. And always keep your eyes open–sometimes the best touches are hiding in plain sight.
