@@ -1,6 +1,14 @@
 ---
 title: Children of Eden
-isbn:
-binding:
-image_path:
+isbn: '9781501146558'
+binding: Hardcover
+image_path: 'https://images.booksense.com/images/558/146/9781501146558.jpg'
 ---
+
+
+Twenty-five-year-old Joey Graceffa has captured the hearts of more than 8.3 million teens and young adults through his playful, sweet, and inspirational YouTube presence. Already a bestselling author with his memoir, In Real Life, Joey now presents his first novel,Children of Eden.&nbsp;
+<br>Rowan is a second child in a world where population control measures make her an outlaw, marked for death. She can never go to school, make friends, or get the eye implants that will mark her as a true member of Eden. Indeed, her kaleidoscopic eyes may very well give her away to the ruthless Center government.&nbsp;
+<br>Outside of Eden, Earth is poisoned and dead. All animals and most plants have been destroyed by a man-made catastrophe. Long ago, the brilliant scientist Aaron Al-Baz saved a pocket of civilization by designing the EcoPanopticon, a massive computer program that hijacked all global technology and put it to use preserving the last vestiges of mankind. Humans will wait for thousands of years in Eden until the EcoPan heals the world.&nbsp;
+<br>As an illegal second child, Rowan has been hidden away in her family's compound for sixteen years. Now, desperate to see the world, she recklessly escapes for what she swears will be only one night of adventure. Though she finds an exotic world, and even a friend, the night leads to tragedy. Soon Rowan becomes a renegade on the run.&nbsp;
+
+<br>The first novel from YouTube superstar Joey Graceffa, Children of Eden is a thrilling and completely absorbing new book from one of social media's brightest young storytellers.
