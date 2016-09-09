@@ -15,12 +15,9 @@ related_books:
 ---
 
 
-![](/uploads/versions/1-3---x----2184-1456x---.jpg)
+![](/uploads/versions/gwen_1_3---x----900-600x---.jpg)It's Fall. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. Here are a few novels that came out this Summer, but will breathe life into you as the leaves settle their final debts.
 
-It's Fall. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. Here are a few novels that came out this Summer, but will breathe life into you as the leaves settle their final debts.
-
-![](/uploads/versions/1-2---x----2123-1194x---.jpg)
-<br>
+![](/uploads/versions/gwen_1_2---x----900-506x---.jpg)
 <br>*[The Underground Railroad](http://www.brooklinebooksmith-shop.com/book/9780385542364)* by Colson Whitehead
 
 Colson Whitehead's *<u>The Underground Railroad</u>* tells a brutal tale of America - but not the one we know. Whitehead's alternative history sees Civil War-era slaves fleeing north on trains tunneled beneath the earth.
