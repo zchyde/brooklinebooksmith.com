@@ -1,6 +1,6 @@
 ---
 title: '**Joey Graceffa** -  *Children of Eden: A Novel*'
-published: false
+published: true
 start_at: 2016-10-08T09:00:00.000Z
 image_path:
 book_category:
