@@ -31,9 +31,7 @@ Not quite convinced?&nbsp;*The New York Times* wrote a great [review](http://www
 
 You won't regret picking up this gem.
 
-![](/uploads/versions/1-1---x----2184-1228x---.jpg)
-
-*[Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988)* by Jacqueline Woodson
+![](/uploads/versions/gwen_1_1---x----900-506x---.jpg)*[Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988)* by Jacqueline Woodson
 
 > "I know now that what is tragic isn't the moment. It is the memory."
 
