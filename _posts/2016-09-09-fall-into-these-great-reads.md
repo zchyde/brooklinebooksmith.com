@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-09-09T09:00:00.000Z
 description: Moving titles to keep you going.
-featured_image_path: /1 4.jpg
+featured_image_path: /uploads/1-4-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -15,9 +15,15 @@ related_books:
 ---
 
 
-![](/uploads/versions/gwen_1_3---x----900-600x---.jpg)It's Fall. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. Here are a few novels that came out this Summer, but will breathe life into you as the leaves settle their final debts.
+![full-img](/uploads/versions/gwen_1_3---x----900-600x---.jpg)
 
-![](/uploads/versions/gwen_1_2---x----900-506x---.jpg)
+---
+
+It's Fall. We are all done traveling to the shore and sleeping under the stars – but, that doesn't mean the adventure has to end. Here are a few novels that came out this Summer, but will breathe life into you as the leaves settle their final debts.
+
+---
+
+![full-img](/uploads/versions/gwen_1_2---x----900-506x---.jpg)---
 <br>*[The Underground Railroad](http://www.brooklinebooksmith-shop.com/book/9780385542364)* by Colson Whitehead
 
 Colson Whitehead's *<u>The Underground Railroad</u>* tells a brutal tale of America - but not the one we know. Whitehead's alternative history sees Civil War-era slaves fleeing north on trains tunneled beneath the earth.
@@ -31,7 +37,11 @@ Not quite convinced?&nbsp;*The New York Times* wrote a great [review](http://www
 
 You won't regret picking up this gem.
 
-![](/uploads/versions/gwen_1_1---x----900-506x---.jpg)*[Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988)* by Jacqueline Woodson
+---
+
+![full-img](/uploads/versions/gwen_1_1---x----900-506x---.jpg)---
+
+*[Another Brooklyn](http://www.brooklinebooksmith-shop.com/book/9780062359988)* by Jacqueline Woodson
 
 > "I know now that what is tragic isn't the moment. It is the memory."
 
