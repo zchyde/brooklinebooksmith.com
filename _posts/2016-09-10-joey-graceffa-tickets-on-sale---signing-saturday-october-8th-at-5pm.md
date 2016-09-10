@@ -5,7 +5,7 @@ featured: false
 date: 2016-09-10T08:30:00.000Z
 description: 'Tickets for our book signing event with Youtube sensation Joey Graceffa are now on sale!'
 featured_image_path: /uploads/aee7e063-1231-45d4-8110-119ab461748c.jpg
-featured_image_position: 50
+featured_image_position: 65
 show_featured_image_in_post: false
 fancy_font:
 category:
