@@ -3,6 +3,8 @@ featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_position: 50
 banner_height: 450
 featured_hardcover_books:
+  - here-i-am
+  - harry-potter-and-the-cursed-child
 featured_paperback_books:
 Hardcover:
   - '9780374280024'
