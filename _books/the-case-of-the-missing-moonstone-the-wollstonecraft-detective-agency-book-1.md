@@ -1,6 +1,8 @@
 ---
 title: 'The Case of the Missing Moonstone (the Wollstonecraft Detective Agency, Book 1)'
-isbn:
-binding:
-image_path:
+isbn: '9780385754439'
+binding: Paperback
+image_path: 'https://images.booksense.com/images/439/754/9780385754439.jpg'
 ---
+
+
