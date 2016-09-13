@@ -1,6 +1,6 @@
 ---
 title: '**Bruce DeSilva appearing in conversation with Hank Phillippi Ryan**,  *The Dread Line*'
-published: false
+published: true
 start_at: 2016-09-27T19:00:00.000Z
 image_path:
 book_category:
