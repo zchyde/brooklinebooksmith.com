@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-09-13T13:30:00.000Z
 description: Food - Fresh and Seasonal
-featured_image_path: /uploads/farmersmarketcookbook.jpg
+featured_image_path: /uploads/bfm-logo.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
