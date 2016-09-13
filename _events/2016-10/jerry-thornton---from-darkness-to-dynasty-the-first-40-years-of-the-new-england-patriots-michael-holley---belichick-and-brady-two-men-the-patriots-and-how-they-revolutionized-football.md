@@ -1,5 +1,5 @@
 ---
-title: '**Jerry Thornton** - *From Darkness to Dynasty: The First 40 Years of the New England Patriots* **Michael Holley** - *Belichick and Brady: Two Men, the Patriots, and How They Revolutionized Football*'
+title: '**Jerry Thornton** - *From Darkness to Dynasty: The First 40 Years of the New England Patriots* ,  **Michael Holley** - *Belichick and Brady: Two Men, the Patriots, and How They Revolutionized Football*'
 published: true
 start_at: 2016-10-05T19:00:00.000Z
 image_path:
