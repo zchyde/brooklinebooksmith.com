@@ -14,4 +14,4 @@ book_isbn:
 
 There's no better way to cultivate community, foster friendship, or simply nourish family than over heartwarming bowls of homemade soup. Kathy Gunst, Resident Chef for NPR's Here and Now and a James Beard Award-winning journalist, provides 60 terrific recipes. Whether taken to the party or savored at home, this trusted collection of soups, stews, and chowders is sure to satisfy all year long.
 
-There will be free soup samples from the cookbook while supplies last.
+**There will be free soup samples from the cookbook while supplies last.**
