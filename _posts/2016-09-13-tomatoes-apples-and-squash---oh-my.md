@@ -31,7 +31,7 @@ Tomatoes, Apples, and Squash - Oh My!! No doubt it’s harvest time! We have a f
 
 ---
 
-[![](/uploads/versions/in-defense-of-food---x----261-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143114963)—
+[![](/uploads/versions/in-defense-of-food---x----261-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780143114963)
 
 [![](/uploads/versions/food-politcs---x----261-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780520275966)Wrestle with the “government” of food in Marion Nestle’s [<u>Food Politics</u>](http://www.brooklinebooksmith-shop.com/book/9780520275966).&nbsp; How do we produce and consume our food?&nbsp; Which entities have the biggest influences?&nbsp; How might a school system’s lunch program fit within the bigger food picture?&nbsp; Nestle is a Professor and Chair of the Department of Nutrition and Food Studies at New York University, and the Editor of the 1988 *Surgeon General's Report on Nutrition and Health;*she is a voice worth listening to!
 
