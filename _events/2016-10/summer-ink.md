@@ -3,8 +3,8 @@ title: '**Summer Ink**'
 published: true
 start_at: 2016-10-16T11:00:00.000Z
 image_path: /uploads/y6kp4btt-400x400.png
-book_category:
-program: '-writers-and-readers'
+book_category: kidsmith
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:
