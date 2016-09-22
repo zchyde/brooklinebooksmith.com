@@ -21,12 +21,12 @@ layout: compress
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
       <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape | remove: '*' }} - {% endif %} {{site.sitename}}</title>
-      
+
       {% if page.url %}
         <link rel="canonical" href="{{ site.url }}" />
       {% endif %}
-      
-      {% comment %} 
+
+      {% comment %}
         <!-- this is the sass-based CSS
         <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" /> -->
       {% endcomment %}
@@ -49,17 +49,17 @@ layout: compress
           {% include global/analytics.html %}
           {% include global/seo.html %}
         {% endif %}
-     
+
 </head>
-  <body class="sans-serif bg-near-white{% if page.class %} {{ page.class }} {% endif %} {{ jekyll.environment }}">    
-      {% include global/navigation-topbar.html %}    
-      {% include global/header.html %}    
+  <body class="sans-serif bg-near-white{% if page.class %} {{ page.class }} {% endif %} {{ jekyll.environment }}">
+      {% include global/navigation-topbar.html %}
+      {% include global/header.html %}
       <main>
-        {{content}}            
-        {% include components/page-bottom.html %}    
+        {{content}}
+        {% include components/page-bottom.html %}
         {% include global/footer.html %}
-      </main>                
-      {% include global/navigation-side.html %}    
+      </main>
+      {% include global/navigation-side.html %}
     {% include global/scripts.html %}
   </body>
 </html>

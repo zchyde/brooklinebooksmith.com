@@ -1,19 +1,19 @@
-<div class="lg-flexTK items-endTK py3 px2 lg-px3">  
+<div class="lg-flexTK items-endTK py3 px2 lg-px3">
 
   <h1 class="md-block lg-inline-block font-family-brand h2 sm-h1 md-h0 lg-h0 line-height-1 my0 mr4 sm-mr3 md-mr3 lg-mr3">
     <a href="/" class="text-decoration-none primary-color">
       {{ site.title }}
-    </a>    
+    </a>
   </h1>
-  
+
   <div class="xs-hide sm-hide sm-block md-block lg-inline-block">
     {% for object in site.data.navigation-links.primary %}
-      <a class="h4 pr3 inline-block font-family-brand text-decoration-none bold align-bottom hover-gray{% if page.url == object.url %} secondary-text-color{% else %} primary-text-color{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
+      <a class="h4 pr3 inline-block font-family-brand text-decoration-none bold align-bottom hover-gray{% if page.url == object.url %} secondary-text-color{% else %} primary-color{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
         {{ object.title }}
       </a>
     {% endfor %}
   </div>
-  
+
   <div class="flex-auto"><!-- adds space between the menu and the search bar on the right --> </div>
 
   {% include components/button-menu.html %}
