@@ -6,7 +6,7 @@
 {% unless page.title == 'brookline booksmith'%}
   {% assign title = page.title  | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 {% endunless %}
-  <div class="{% if page.featured_image_path %}min-height-390 {% endif %}md-mx3 lg-mx3 clearfix fit bg-cover bg-no-repeat bg-center h2 mt2" style="{% if page.featured_image_path %}background-image:url('{{ page.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?w=1220q=65&bm=multiply&blend64=Nzc3');{% endif %}{% if page.banner_height %}min-height: {{ page.banner_height | append: 'px' }};{% endif %}">  
+  <div class="{% if page.featured_image_path %}min-height-390 {% endif %}md-mx3 lg-mx3 clearfix fit bg-cover bg-no-repeat bg-center h2 mt2" style="{% if page.featured_image_path %}background-image:url('{{ page.featured_image_path | remove: '/uploads' | prepend: site.image_url }}?blend64=OTk5&bm=multiply&w=1220q%3D65');{% endif %}{% if page.banner_height %}min-height: {{ page.banner_height | append: 'px' }};{% endif %}">
     <div class="p3">
       <h1 class="special font-family-brand center lg-h00{% if page.featured_image_path %} text-shadow  near-white{% endif %}">
         {{ title }}
