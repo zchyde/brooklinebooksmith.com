@@ -1,6 +1,6 @@
 ---
 title: '**Yoss**,  *Super Extra Grande*'
-published: false
+published: true
 start_at: 2016-09-30T19:00:00.000Z
 image_path:
 book_category:
