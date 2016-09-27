@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-09-27T14:00:00.000Z
 description: 'Or, Bathroom Reading in Two Volumes'
-featured_image_path:
+featured_image_path: /uploads/9780735212190.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -16,7 +16,7 @@ related_books:
 
 Do not even think that I ran out of bathroom reading options after one measly blog post [link here]. This week I bring you two two-volume releases, and a couple more tried and true suggestions.
 
-1. ROMEO AND/OR JULIET and TO BE OR NOT TO BE? by Ryan North.
+1. Chooseable Path Adventures: [ROMEO AND/OR JULIET](http://www.brooklinebooksmith-shop.com/book/9781101983300) and [TO BE OR NOT TO BE](http://www.brooklinebooksmith-shop.com/book/9780735212190) by Ryan North.
 
 
 These are favorites of bookseller Amy, for incredibly good reason.&nbsp;
@@ -27,10 +27,18 @@ North can't call them by that name, of course, because someone has gone out and 
 
 Sometimes there are rockets. &nbsp;
 
-1. WELCOME TO NIGHT VALE by Joseph Fink and Jeffrey Cranor.
+_______________________________________________
+
+![](/uploads/versions/9781101983300---x----267-400x---.jpg)
+
+_______________________________________________
+
+&nbsp;
+
+1. [MOSTLY VOID, PARTIALLY STARS (WELCOME TO NIGHT VALE VOLUME 1)](http://www.brooklinebooksmith-shop.com/book/9780062468611)and THE&nbsp; by Joseph Fink and Jeffrey Cranor.
 
 
-The co-creators of the Welcome to Night Vale [LINK] podcast came out with a novel last year about a single mom, struggling with her shapeshifting teenage son; a nineteen-year-old girl who could not ever remember not being nineteen; and a piece of paper reading KING CITY which, if you found it in your hand, you could not put down again. It was a weird, heartfelt, and beautiful book that I felt earned the rare honor of being easily recommended to fans of Hitchhiker's Guide to the Galaxy.
+The co-creators of the [Welcome to Night Vale](http://www.welcometonightvale.com/) podcast [came out with a novel last year](http://www.brooklinebooksmith-shop.com/book/9780062351425) about a single mom, struggling with her shapeshifting teenage son; a nineteen-year-old girl who could not ever remember not being nineteen; and a piece of paper reading KING CITY which, if you found it in your hand, you could not put down again. It was a weird, heartfelt, and beautiful book that I felt earned the rare honor of being easily recommended to fans of Hitchhiker's Guide to the Galaxy.
 
 If you're not a big fan of listening to creepy, funny, subversive things that require a moderate to strong attention span, but you do like creepy, funny, subversive books, you are in luck! The first two years of WTNV now exist in print form, with the addition of author notes and appropriately unnerving illustrations. If you already love the podcast, I thoroughly recommend revisiting episodes like this–it's probably one of the more soothing and satisfactory reading experiences I've had this year.&nbsp;
 
