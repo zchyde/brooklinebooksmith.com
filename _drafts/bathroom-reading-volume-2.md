@@ -27,23 +27,29 @@ North can't call them by that name, of course, because someone has gone out and 
 
 Sometimes there are rockets. &nbsp;
 
-_______________________________________________
+---
 
 ![](/uploads/versions/9781101983300---x----267-400x---.jpg)
 
-_______________________________________________
+---
 
 &nbsp;
 
-1. [MOSTLY VOID, PARTIALLY STARS (WELCOME TO NIGHT VALE VOLUME 1)](http://www.brooklinebooksmith-shop.com/book/9780062468611)and THE&nbsp; by Joseph Fink and Jeffrey Cranor.
+1. [MOSTLY VOID, PARTIALLY STARS (WELCOME TO NIGHT VALE VOLUME 1)](http://www.brooklinebooksmith-shop.com/book/9780062468611)and [THE GREAT GLOWING COILS OF THE UNIVERSE (WELCOME TO NIGHT VALE VOLUME 2)](http://www.brooklinebooksmith-shop.com/book/9780062468635)&nbsp; by Joseph Fink and Jeffrey Cranor.
 
 
-The co-creators of the [Welcome to Night Vale](http://www.welcometonightvale.com/) podcast [came out with a novel last year](http://www.brooklinebooksmith-shop.com/book/9780062351425) about a single mom, struggling with her shapeshifting teenage son; a nineteen-year-old girl who could not ever remember not being nineteen; and a piece of paper reading KING CITY which, if you found it in your hand, you could not put down again. It was a weird, heartfelt, and beautiful book that I felt earned the rare honor of being easily recommended to fans of Hitchhiker's Guide to the Galaxy.
+The co-creators of the [Welcome to Night Vale](http://www.welcometonightvale.com/) podcast [came out with a novel last year](http://www.brooklinebooksmith-shop.com/book/9780062351425) about a single mom, struggling with her shapeshifting teenage son; a nineteen-year-old girl who could not ever remember not being nineteen; and a piece of paper reading KING CITY which, if you found it in your hand, you could not put down again. It was a weird, heartfelt, and beautiful book that I felt earned the rare honor of being easily recommended to fans of [Hitchhiker's Guide to the Galaxy](http://www.brooklinebooksmith-shop.com/book/9780345453747).
 
 If you're not a big fan of listening to creepy, funny, subversive things that require a moderate to strong attention span, but you do like creepy, funny, subversive books, you are in luck! The first two years of WTNV now exist in print form, with the addition of author notes and appropriately unnerving illustrations. If you already love the podcast, I thoroughly recommend revisiting episodes like this–it's probably one of the more soothing and satisfactory reading experiences I've had this year.&nbsp;
 
 Episodes are split into radio show segments, which makes them easy to digest in small portions. And like I said, they're weirdly soothing, which is nice if you're feeling under the Weather.
 
-As a bonus, can I suggest the true classics? Garfield and Calvin and Hobbes have been the ratty, all-ages, beloved keystones of bathroom reading for decades. I say, don't ignore the obvious just because it's common. Embrace the glories of the funny papers, people! They endure for a reason, their wisdom is boundless.
+_____________________________________________
 
-In closing, let me ask you something–what are YOU reading in the bathroom? I admittedly veer towards more humorous material in these posts, but maybe some of you out there take things more seriously. Which philosopher wraps up their points in an average of 2-3 pages? What mathematical proofs do you solve without use of a pencil? What historical biography of under 800 pages have you read recently that's organized in brief vignettes? If you've got answers, Booksmith browsers, it's only fair to share the bounty.
+![](/uploads/versions/9780062468611---x----267-400x---.jpg)
+
+_______________________________________________
+
+As a bonus, can I suggest some true classics? [Garfield](http://www.brooklinebooksmith-shop.com/search/site/garfield%2520jim%2520davis)and [Calvin and Hobbes](http://www.brooklinebooksmith-shop.com/search/site/calvin%2520and%2520hobbes) have been the ratty, all-ages, beloved keystones of bathroom reading for decades. I say, don't ignore the obvious just because it's obvious. Embrace the glories of the funny papers. They endure for a reason, and their wisdom is very nearly boundless.
+
+In closing, let me ask you something–what are YOU reading in the bathroom? I admittedly veer towards more humorous material in these posts, but maybe some of you out there take things more seriously. Which philosopher wraps up their points in an average of 2-3 pages? What mathematical proofs do you solve without use of a pencil? What historical biography of under 800 pages have you read recently that's organized in brief vignettes? If you've got answers, Booksmith browsers, it's only fair to pass the bounty.
