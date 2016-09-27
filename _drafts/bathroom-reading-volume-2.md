@@ -14,7 +14,7 @@ related_books:
 ---
 
 
-Do not even think that I ran out of bathroom reading options after one measly blog post [link here]. This week I bring you two two-volume releases, and a couple more tried and true suggestions.
+Do not even think that I ran out of bathroom reading options after [one measly blog post](http://www.brooklinebooksmith.com/2016/08/30/bathroom-reading-part-i-the-lost-art/). This week I bring you two two-volume releases, and a couple more tried and true suggestions.
 
 1. Chooseable Path Adventures: [ROMEO AND/OR JULIET](http://www.brooklinebooksmith-shop.com/book/9781101983300) and [TO BE OR NOT TO BE](http://www.brooklinebooksmith-shop.com/book/9780735212190) by Ryan North.
 
@@ -44,11 +44,11 @@ If you're not a big fan of listening to creepy, funny, subversive things that re
 
 Episodes are split into radio show segments, which makes them easy to digest in small portions. And like I said, they're weirdly soothing, which is nice if you're feeling under the Weather.
 
-_____________________________________________
+---
 
 ![](/uploads/versions/9780062468611---x----267-400x---.jpg)
 
-_______________________________________________
+---
 
 As a bonus, can I suggest some true classics? [Garfield](http://www.brooklinebooksmith-shop.com/search/site/garfield%2520jim%2520davis)and [Calvin and Hobbes](http://www.brooklinebooksmith-shop.com/search/site/calvin%2520and%2520hobbes) have been the ratty, all-ages, beloved keystones of bathroom reading for decades. I say, don't ignore the obvious just because it's obvious. Embrace the glories of the funny papers. They endure for a reason, and their wisdom is very nearly boundless.
 
