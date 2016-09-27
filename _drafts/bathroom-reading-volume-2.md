@@ -1,9 +1,9 @@
 ---
-title: Bathroom Reading Volume 2
+title: 'Bathroom Reading Part 2: Return to the Toilet'
 published: false
 featured: false
 date: 2016-09-27T14:00:00.000Z
-description: 'Or, Bathroom Reading in Two Volumes'
+description: 'Or, Bathroom Reading in Two Volumes.'
 featured_image_path: /uploads/9780735212190.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
