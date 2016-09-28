@@ -35,4 +35,21 @@ In the fall these burst from the ground like the green growing things of a newbo
 
 You drink some coffee, get up on your ladder, and push the overstock around until everything fits and you're relatively balanced again, feelings-wise, and ready to face the vast army of standing displays once again.
 <br>
-<br>Here is the thing, though:
+<br>Here is the thing, though: *you cannot face them*. They contain so many books that make your feelings explode like waves against the rocks. They contain YOUR ENTIRE HEART. And instead of standing in front of them with a copy in your hand, weeping gently and calling out to passers-by, "This is it! My favorite book of 2016! It's an emotional juggernaut!" you have to pretend you feel whole inside, not at all compromised, and shelve things.
+<br>
+<br>Where, I ask you, is catharsis at a time like this?
+
+________________________________________________
+
+**KIDSMITH FAVORITES, FALL 2016**
+<br>________________________________________________
+
+![](/uploads/versions/img-4364---x----500-375x---.jpg)
+
+> This is the catharsis. You're reading it. Surprise!
+
+__________________________________________________
+
+Here are a few of the titles we have been falling over with love in the last few weeks.
+
+&nbsp;
