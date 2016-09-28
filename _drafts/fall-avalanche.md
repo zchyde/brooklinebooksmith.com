@@ -53,7 +53,7 @@ Here are a few books that we (Alex, Amy, Clarissa, India) want you not to miss.
 
 **This week:**
 
-Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy *Six of Crows* is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in *Crooked Kingdom*.
+Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy [*Six of Crows*](http://www.brooklinebooksmith-shop.com/book/9781627792127) is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in *Crooked Kingdom*.
 
 Kate Beasley's middle grade charmer *Gertie's Leap to Greatness* won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *Clementine.*
 
@@ -65,13 +65,14 @@ Adam Gidwitz and Hatem Aly, in *The Inquisitor's Tale,* weave a middle grade sto
 
 **In the last few weeks:**
 
-Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the style, she's gone full contemporary YA retelling, in *Sometimes We Tell the Truth*–one of India's favorite recent reads.
+Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the style, she's gone full contemporary YA retelling, in *Sometimes We Tell the Truth*–one of India's favorite recent reads, which you can find on our Staff Picks shelf at the front of the store during the month of October.
 
 Sungju Lee's memoir *Every Falling Star,*written with Susan McClelland, is the first work of YA nonfiction published in the U.S. concerning life in North Korea. This is one of Clarissa's favorites this year, which I've heard her talk about more than once as an absolutely stunning book.
 
 David Arnold of *Mosquitoland* has followed up with new standalone YA novel *Kids of Appetite,*which is about death, love, *The Outsiders*, and how you get from one place to another–kind of. Amy loves it. Trust Amy.
 
-When it came out[I wrote elliptically](http://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/) about *The Scorpion Rules*by Erin Bow. I had a few reservations about it but mostly really liked it. And then it turned out to have snagged in my thoughts. I kept thinking about it and craving it, like very few other books of the last few years. And then arrived *The Swan Riders*, and–listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
+[*The Swan Riders*](http://www.brooklinebooksmith-shop.com/book/9781481442749) is the sequel to Erin Bow's *[The Scorpion Rules](http://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/)*and–listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
+
 <br>
 <br>&nbsp;
 
