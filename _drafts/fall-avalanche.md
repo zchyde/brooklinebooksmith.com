@@ -1,9 +1,9 @@
 ---
-title: Fall Avalanche
+title: 'Fall of the Dumps (or, an Avalanche of Kid Faves)'
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
-description:
+description: We get a lot of books in the autumn.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
@@ -11,7 +11,6 @@ fancy_font:
 category:
 staff:
 related_books:
-  -
 ---
 
 
@@ -67,6 +66,14 @@ Adam Gidwitz and Hatem Aly, in *The Inquisitor's Tale,* weave a middle grade sto
 **In the last few weeks:**
 
 Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the style, she's gone full contemporary YA retelling, in *Sometimes We Tell the Truth*--one of India's favorite recent reads.
+
+Sungju Lee's memoir *Every Falling Star,*written with Susan McClelland, is the first work of YA nonfiction published in the U.S. concerning life in North Korea. This is one of Clarissa's favorites this year, which I've heard her talk about more than once as an absolutely stunning book.
+
+David Arnold of *Mosquitoland* has followed up with new standalone YA novel *Kids of Appetite,*which is about death, love, *The Outsiders*, and how you get from one place to another--kind of. Amy loves it. Trust Amy.
+
+When it came out[I wrote elliptically](http://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/) about *The Scorpion Rules*by Erin Bow. I had a few reservations about it but mostly really liked it. And then it turned out to have snagged in my thoughts. I kept thinking about it and craving it, like very few other books of the last few years. And then arrived *The Swan Riders*, and--listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
+<br>
+<br>&nbsp;
 
 
 
