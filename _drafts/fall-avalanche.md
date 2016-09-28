@@ -69,9 +69,11 @@ Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the st
 
 Sungju Lee's memoir *[Every Falling Star](http://www.brooklinebooksmith-shop.com/book/9781419721328),*written with Susan McClelland, is the first work of YA nonfiction published in the U.S. concerning life in North Korea. This is one of Clarissa's favorites this year, which I've heard her talk about more than once as an absolutely stunning book.
 
-David Arnold of [*Mosquitoland*](http://www.brooklinebooksmith-shop.com/book/9780147513656) has followed up with new standalone YA novel *[Kids of Appetite](http://www.brooklinebooksmith-shop.com/book/9780451470782),*which is about death, love, *The Outsiders*, and how you get from one place to another–kind of. Amy loves it. Trust Amy.
+David Arnold of [*Mosquitoland*](http://www.brooklinebooksmith-shop.com/book/9780147513656) has followed up with new standalone YA novel *[Kids of Appetite](http://www.brooklinebooksmith-shop.com/book/9780451470782),*which is about death, love, [*The Outsiders*](http://www.brooklinebooksmith-shop.com/book/9780142407332), and how you get from one place to another–kind of. Amy loves it. Trust Amy.
 
 [*The Swan Riders*](http://www.brooklinebooksmith-shop.com/book/9781481442749) is the sequel to Erin Bow's *[The Scorpion Rules](http://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/)*and–listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
+
+So these are some of the books we're currently buried under. They're awesome and good and we would love to talk to you about them. Just dig us out and ask.
 
 <br>
 <br>&nbsp;
