@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
 description: We get a lot of books in the autumn.
-featured_image_path:
+featured_image_path: /uploads/9781627792134.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
