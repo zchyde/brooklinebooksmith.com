@@ -16,7 +16,7 @@
     "build:js": "npm run lint:js && npm run uglify:js",
     "watch:js": "onchange '_app/js/*.js' -- npm run build:js",
     "compress:img": "imagemin _app/images assets/images -p",
-    "watch:img": "onchange '_app/images/**/*.*' -- npm run compress:img",
+    "watch:img": "onchange '_app/uploads/site/**/*.*' -- npm run compress:img",
     "copy:tachyons": "copyfiles -f 'node_modules/tachyons-z-index/src/*.css' 'node_modules/tachyons/src/*.css' '_app/css/src/_tachyons' ",
     "copy:basscss": "copyfiles -u 1 node_modules/basscss-*/**/index.css '_app/css/src/_basscss' && copyfiles -u 1 node_modules/basscss-*/**/lib/*.* '_app/css/src/_basscss'",
     "build:css": "postcss -c _app/css/postcss.config.js",
