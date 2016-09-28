@@ -50,6 +50,8 @@ ________________________________________________
 
 __________________________________________________
 
+Here are a few books that we (Alex, Amy, Clarissa, India) want you not to miss.
+
 Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy *Six of Crows* is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in *Crooked Kingdom*.
 
 Kate Beasley's middle grade charmer *Gertie's Leap to Greatness* won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *Clementine.*
@@ -57,5 +59,9 @@ Kate Beasley's middle grade charmer *Gertie's Leap to Greatness* won over Claris
 Trenton Lee Stewart of [*The Mysterious Benedict Society*](http://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](http://www.brooklinebooksmith-shop.com/book/9780316389556),*which Amy can recommend.
 
 Jory John and Lane Smith team up (to our collective delight) for the extremely relatable picture book *[Penguin Problems](http://www.brooklinebooksmith-shop.com/book/9780553513370),* the tale of a penguin who sees the bad in everything until a wise old walrus helps him cool his jets.
+
+Adam Gidwitz and Hatem Aly, in *The Inquisitor's Tale,* weave a middle grade story about three miracle-slinging thirteenth-century kids, their recently resurrected dog, and a mission to save the precious Jewish books of France--all told through a roomful of strangers who don't know the ending. This is a team favorite, and we advise you to pay close attention to how the pictures do (and don't) agree with the text.
+
+&nbsp;
 
 &nbsp;
