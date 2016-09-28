@@ -54,6 +54,8 @@ Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy *Six of Cr
 
 Kate Beasley's middle grade charmer *Gertie's Leap to Greatness* won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *Clementine.*
 
-Trenton Lee Stewart of
+Trenton Lee Stewart of [*The Mysterious Benedict Society*](http://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](http://www.brooklinebooksmith-shop.com/book/9780316389556),*which Amy can recommend.
+
+Jory John and Lane Smith team up (to our collective delight) for the extremely relatable picture book *[Penguin Problems](http://www.brooklinebooksmith-shop.com/book/9780553513370),* the tale of a penguin who sees the bad in everything until a wise old walrus helps him cool his jets.
 
 &nbsp;
