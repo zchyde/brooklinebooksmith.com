@@ -23,8 +23,8 @@ _____________________________________________
 
 ![](/uploads/versions/img-4376---x----300-400x---.jpg)
 
-> *Bookseller Alex S and cardboard dump of Alex's new middle grade fave [THE INQUISITOR'S TALE](http://www.brooklinebooksmith-shop.com/book/9780525426165) (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. [ADA TWIST, SCIENTIST](http://www.brooklinebooksmith-shop.com/book/9781419721373) (Andrea Beaty and David Roberts) is pictured, doing science, and in large quantities, to the rear.*
+> *Bookseller Alex S and cardboard dump of Alex's new middle grade fave [THE INQUISITOR'S TALE](http://www.brooklinebooksmith-shop.com/book/9780525426165) (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. [ADA TWIST, SCIENTIST](http://www.brooklinebooksmith-shop.com/book/9781419721373) (Andrea Beaty and David Roberts) is pictured in large quantities in a cardboard ediface to the rear.*
 
 _________________________________________________
 
-&nbsp;
+Let me explain to you how fall works in the kids' section. You take down all the summer reading books and squash them back into your normal overstock. You start bringing in more copies of things because, as soon as they exit the beach, forward-thinking people *begin contemplating their holiday shopping*. And then every new book in the world that is BIG AND IMPORTANT AND FAMOUS arrives at once. Sometimes, walking through the kids' section, you (non-bookseller, normal shopper you) may notice cardboard displays like the one pictured above. Sometimes we have up to three of these sitting out in the section! Holding important and beautiful new books!!
