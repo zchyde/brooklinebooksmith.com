@@ -50,6 +50,10 @@ ________________________________________________
 
 __________________________________________________
 
-Here are a few of the titles we have been falling over with love in the last few weeks.
+Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy *Six of Crows* is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in *Crooked Kingdom*.
+
+Kate Beasley's middle grade charmer *Gertie's Leap to Greatness* won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *Clementine.*
+
+Trenton Lee Stewart of
 
 &nbsp;
