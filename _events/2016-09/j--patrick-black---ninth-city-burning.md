@@ -1,6 +1,6 @@
 ---
 title: '**J. Patrick Black** -  *Ninth City Burning*'
-published: true
+published: false
 start_at: 2016-09-15T19:00:00.000Z
 image_path:
 book_category:

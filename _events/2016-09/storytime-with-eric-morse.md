@@ -1,10 +1,10 @@
 ---
 title: '**Storytime with Eric Morse**'
 published: true
-start_at: 2016-09-18T22:30:00.000Z
+start_at: 2016-09-18T10:30:00.000Z
 image_path:
-book_category:
-program: 'childrens-story-time'
+book_category: kidsmith
+program: childrens-story-time
 ticketed: false
 test:
 book_isbn:

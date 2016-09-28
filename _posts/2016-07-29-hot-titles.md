@@ -4,8 +4,7 @@ published: true
 featured: false
 date: 2016-07-29T09:00:00.000Z
 description: Check out these super cool summer reads.
-#featured_image_path: /uploads/1-(3)-compressor.jpg
-featured_image_path: /uploads/1-3-compressor.jpg
+featured_image_path: /uploads/1-(3)-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

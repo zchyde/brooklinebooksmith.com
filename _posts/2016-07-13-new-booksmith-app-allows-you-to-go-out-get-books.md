@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-07-13T09:00:00.000Z
 description: 'Booksmith Go, Thibaut Pinot, and Lazy Reading Habits.'
-#featured_image_path: /thibaut.jpg
+featured_image_path: /thibaut.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
