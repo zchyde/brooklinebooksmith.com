@@ -1,8 +1,8 @@
 ---
 title: 'Fall of the Dumps (or, an Avalanche of Kid Faves)'
-published: false
+published: true
 featured: false
-date: 2016-01-15T09:00:00.000Z
+date: 2016-09-29T09:00:00.000Z
 description: We get a lot of books in the autumn.
 featured_image_path: /uploads/9781627792134.jpg
 featured_image_position: 50
@@ -14,7 +14,7 @@ related_books:
 ---
 
 
-As I mentioned to you all[a year ago](http://www.brooklinebooksmith.com/kidsmith/2015/08/31/the-fall-is-falling/), fall is a difficult season for booksellers. The best weather of the year is here, beverage choices are vastly, positively expanded from summer, and like ninety percent of the books we've been waiting for since February hit the shelves on a single Tuesday morning, and the whole bookselling community perishes at once, smothered beneath cardboard displays stuffed with our literary hopes and dreams.
+As I mentioned to you all&nbsp;[a year ago](http://www.brooklinebooksmith.com/kidsmith/2015/08/31/the-fall-is-falling/), fall is a difficult season for booksellers. The best weather of the year is here, beverage choices are vastly, positively expanded from summer, and like ninety percent of the books we've been waiting for since February hit the shelves on a single Tuesday morning, and the whole bookselling community perishes at once, smothered beneath cardboard displays stuffed with our literary hopes and dreams.
 
 ROUGH TIMES.
 
@@ -26,7 +26,7 @@ ROUGH TIMES.
 
 ---
 
-Let me explain to you how fall works in the kids' section. You take all the summer reading books down of their summer reading display and put up one million books about Halloween as the summer reading is squashed them back into your normal overstock.&nbsp; You bring in ten thousand million copies of every book you've ever seen in your life, because as soon as they exit the beach, forward-thinking people *begin contemplating their holiday shopping*.
+Let me explain to you how fall works in the kids' section. You take all the summer reading books down of their summer reading display and put up one million books about Halloween as the summer reading is squashed back into your normal overstock.&nbsp; You bring in ten thousand million copies of every book you've ever seen in your life, because as soon as they exit the beach, forward-thinking people *begin contemplating their holiday shopping*.
 
 And then every new, exciting, important book in the world arrives in the store on that one fateful day. Let's call it this Tuesday. Sometimes, walking through the kids' section, you (non-bookseller, normal shopper you) may notice cardboard displays like the one pictured above. Sometimes we have up to three of these sitting out in the section! Holding important and beautiful new books!!
 
@@ -41,7 +41,7 @@ You drink some coffee, get up on your ladder, and push the overstock around unti
 ---
 
 **KIDSMITH FAVORITES, FALL 2016**
-<br>**__****__****__****__****__****__****__****_________________________________**
+<br>**__****__****__****__****__****__****__****__________________________**
 
 ![](/uploads/versions/img-4364---x----500-375x---.jpg)
 
@@ -57,7 +57,7 @@ Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy [*Six of C
 
 Kate Beasley's middle grade charmer [*Gertie's Leap to Greatness*](http://www.brooklinebooksmith-shop.com/book/9780374302610) won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *[Clementine](http://www.brooklinebooksmith-shop.com/book/9780786838837).*
 
-Trenton Lee Stewart of [*The Mysterious Benedict Society*](http://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](http://www.brooklinebooksmith-shop.com/book/9780316389556),*which Amy can recommend.
+Trenton Lee Stewart of [*The Mysterious Benedict Society*](http://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](http://www.brooklinebooksmith-shop.com/book/9780316389556),&nbsp;*which Amy can recommend.
 
 Jory John and Lane Smith team up (to our collective delight) for the extremely relatable picture book *[Penguin Problems](http://www.brooklinebooksmith-shop.com/book/9780553513370),* the tale of a penguin who sees the bad in everything until a wise old walrus helps him cool his jets.
 
