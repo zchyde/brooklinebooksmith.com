@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-07-27T12:05:00.000Z
 description: "This coming\_Saturday, July 30th at 9pm, a local muggle bookstore will be preparing a special Harry Potter and the Cursed Child Midnight Release Party."
-featured_image_path: /harrychuckwaldo2.jpg
+featured_image_path: /uploads/harrychuckwaldo2.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

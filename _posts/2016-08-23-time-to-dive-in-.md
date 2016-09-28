@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-08-24T00:00:00.000Z
 description:
-featured_image_path: /backtoschool1.jpg
+featured_image_path: /uploads/backtoschool1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
