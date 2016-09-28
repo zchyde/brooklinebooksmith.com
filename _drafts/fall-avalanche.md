@@ -21,4 +21,4 @@ ROUGH.
 
 _____________________________________________
 
-![](/uploads/versions/img-4376---x----300-400x---.jpg)*Bookseller Alex S and cardboard dump of new fave THE INQUISITOR'S TALE (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. ADA TWIST, SCIENTIST (Andrea Beaty and David Roberts) is pictured in large quantities to the rear.*
+![](/uploads/versions/img-4376---x----300-400x---.jpg)*Bookseller Alex S and cardboard dump of Alex's new middle grade fave [THE INQUISITOR'S TALE](http://www.brooklinebooksmith-shop.com/book/9780525426165) (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. [ADA TWIST, SCIENTIST](http://www.brooklinebooksmith-shop.com/book/9781419721373) (Andrea Beaty and David Roberts) is pictured in large quantities to the rear.*
