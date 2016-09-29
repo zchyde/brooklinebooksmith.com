@@ -23,13 +23,9 @@ layout: compress
       <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title | escape | remove: '*' }} - {% endif %} {{site.sitename}}</title>
 
       {% if page.url %}
-        <link rel="canonical" href="{{ site.url }}" />
+        <link rel="canonical" href="{{ page.url }}" />
       {% endif %}
 
-      {% comment %}
-        <!-- this is the sass-based CSS
-        <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" /> -->
-      {% endcomment %}
 
         <link href='/assets/css/app.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
@@ -42,7 +38,7 @@ layout: compress
       <![endif]-->
 
       <!--[if lte IE 7]>
-        <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
+        <link rel="stylesheet" media="all" href="//universal-ie6-css.googlecode.com/files/ie6.0.3.css">
       <![endif]-->
 
         {% if jekyll.environment == "production" %}

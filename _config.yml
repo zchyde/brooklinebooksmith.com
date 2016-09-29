@@ -53,7 +53,7 @@ subscription_recurring_times:
 version: 3.0.3
 image_url: https://brooklinebbs.imgix.net
 images_domain: //images.brooklinebooksmith.com
-shop_domain: http://www.brooklinebooksmith-shop.com
+shop_domain: //www.brooklinebooksmith-shop.com
 
 plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
