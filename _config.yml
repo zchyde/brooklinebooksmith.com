@@ -106,6 +106,8 @@ collections:
     future: true
   books:
     output: false
+  weekly_bestsellers:
+    output: false
   staff:
     output: true
     permalink: '/:collection/:path/'
