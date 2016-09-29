@@ -14,4 +14,5 @@ featured_paperback_books:
   - unknown-caller
   - my-grandmother-asked-me-to-tell-you-shes-sorry
   - romeo-andor-juliet-a-chooseable-path-adventure
+hide_content: true
 ---
