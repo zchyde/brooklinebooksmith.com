@@ -100,28 +100,28 @@ directory_assets_img: /static/images/
 
 
 collections:
+  events:
+    output: true
+    permalink: '/:collection/:path/'
+    future: true
+  books:
+    output: false
+  staff:
+    output: true
+    permalink: '/:collection/:path/'
+  landing_pages:
+    output: true
+    permalink: '/:path/'
   post_categories:
     output: true
     permalink: '/:path/'
   campaigns:
     output: false
-  first-edition-books:
-    output: false
-    commerce: 'subscription'
-  landing_pages:
-    output: true
-    permalink: '/:path/'
-  events:
-    output: true
-    permalink: '/:collection/:path/'
-    future: true
+  # first-edition-books:
+  #   output: false
+  #   commerce: 'subscription'
   programs:
     output: false
-    permalink: '/:collection/:path/'
-  books:
-    output: false
-  staff:
-    output: true
     permalink: '/:collection/:path/'
 
 defaults:
