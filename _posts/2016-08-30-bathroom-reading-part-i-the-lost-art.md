@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-08-30T09:00:00.000Z
 description: Several reading suggestions for times when nothing better is going on.
-featured_image_path: /samjohn.png
+featured_image_path: /uploads/samjohn.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
