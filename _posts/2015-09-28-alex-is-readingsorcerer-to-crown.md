@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Alex Is Reading...SORCERER TO THE CROWN
 date: '2015-09-28T10:30:00.000-04:00'
 author: Alex S

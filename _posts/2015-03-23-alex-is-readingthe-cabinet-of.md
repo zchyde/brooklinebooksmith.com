@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Alex Is Reading...THE CABINET OF CURIOSITIES
 date: '2015-03-23T08:30:00.000-04:00'
 author: Alex S

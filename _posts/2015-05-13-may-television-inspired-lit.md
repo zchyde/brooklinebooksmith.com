@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: May Television Inspired Lit
 date: '2015-05-13T08:00:00.000-04:00'
 author: Kylie Brien

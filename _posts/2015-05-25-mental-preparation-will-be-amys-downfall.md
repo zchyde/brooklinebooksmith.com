@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Mental Preparation Will Be Amy's Downfall
 date: '2015-05-25T10:37:00.001-04:00'
 author: Amy

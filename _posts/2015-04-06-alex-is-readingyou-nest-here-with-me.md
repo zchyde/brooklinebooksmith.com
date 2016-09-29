@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Alex Is Reading...YOU NEST HERE WITH ME
 date: '2015-04-06T10:14:00.002-04:00'
 author: Alex S

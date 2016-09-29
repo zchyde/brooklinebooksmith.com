@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: 'Marc Solomon and "Winning Marriage: The Inside Story of How Same-Sex Couples
   Took on the Politicians and Pundits—and Won".'
 date: '2015-02-27T17:19:00.000-05:00'

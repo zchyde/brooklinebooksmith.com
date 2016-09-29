@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Not So Much A Bookselling Woe
 date: '2015-01-26T08:30:00.000-05:00'
 author: Amy

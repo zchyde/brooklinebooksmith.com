@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Just Take Note Of How Many Pages You Have Left
 date: '2015-04-20T09:30:00.000-04:00'
 author: Amy

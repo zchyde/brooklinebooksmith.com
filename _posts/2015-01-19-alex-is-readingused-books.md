@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Alex Is Reading...USED BOOKS!
 date: '2015-01-19T09:00:00.000-05:00'
 author: Alex S

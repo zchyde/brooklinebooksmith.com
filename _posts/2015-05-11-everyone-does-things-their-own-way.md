@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Everyone Does Things Their Own Way
 date: '2015-05-11T10:00:00.000-04:00'
 author: Amy

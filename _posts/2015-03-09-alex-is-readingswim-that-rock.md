@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: Alex Is Reading...SWIM THAT ROCK
 date: '2015-03-09T19:00:00.000-04:00'
 author: Alex S

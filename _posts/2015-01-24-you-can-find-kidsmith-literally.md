@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: YOU CAN FIND KIDSMITH LITERALLY EVERYWHERE
 date: '2015-01-24T14:48:00.004-05:00'
 author: Alex S

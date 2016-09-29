@@ -1,5 +1,5 @@
 ---
-layout: post
+_layout: page-single
 title: A Common Mistake?
 date: '2015-01-16T13:08:00.000-05:00'
 author: Zoe Hyde
