@@ -2,7 +2,7 @@
 title: Seven Brief Lessons on Physics
 isbn: '9780399184413'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/413/184/9780399184413.jpg'
+image_path: 'https://images.booksense.com/images/413/184/9780399184413.jpg'
 ---
 
 

@@ -2,7 +2,7 @@
 title: What Is Not Yours Is Not Yours
 isbn: '9781594634635'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/635/634/9781594634635.jpg'
+image_path: 'https://images.booksense.com/images/635/634/9781594634635.jpg'
 ---
 
 

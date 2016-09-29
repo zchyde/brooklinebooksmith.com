@@ -2,7 +2,7 @@
 title: 'The Statesman and the Storyteller: John Hay, Mark Twain, and the Rise of American Imperialism'
 isbn: '9781565129894'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/894/129/9781565129894.jpg'
+image_path: 'https://images.booksense.com/images/894/129/9781565129894.jpg'
 ---
 
 

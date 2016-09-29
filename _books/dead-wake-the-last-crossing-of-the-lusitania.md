@@ -2,7 +2,7 @@
 title: 'Dead Wake: The Last Crossing of the Lusitania'
 isbn: '9780307408877'
 binding: Paperback
-image_path: 'http://images.booksense.com/images/877/408/9780307408877.jpg'
+image_path: 'https://images.booksense.com/images/877/408/9780307408877.jpg'
 ---
 
 

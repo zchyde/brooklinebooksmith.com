@@ -2,7 +2,7 @@
 title: "Robert B. Parker's Slow Burn"
 isbn: '9780399170850'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/850/170/9780399170850.jpg'
+image_path: 'https://images.booksense.com/images/850/170/9780399170850.jpg'
 ---
 
 

@@ -2,7 +2,7 @@
 title: Negotiating the Nonnegotiable
 isbn: '9780670015566'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/566/015/9780670015566.jpg'
+image_path: 'https://images.booksense.com/images/566/015/9780670015566.jpg'
 ---
 
 

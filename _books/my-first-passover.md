@@ -2,7 +2,7 @@
 title: My First Passover
 isbn: '9780448447919'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/919/447/9780448447919.jpg'
+image_path: 'https://images.booksense.com/images/919/447/9780448447919.jpg'
 ---
 
 

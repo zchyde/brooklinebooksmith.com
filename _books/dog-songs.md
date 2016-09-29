@@ -2,7 +2,7 @@
 title: 'Dog Songs: Poems'
 isbn: '9780143125839'
 binding: Paperback
-image_path: 'http://images.booksense.com/images/839/125/9780143125839.jpg'
+image_path: 'https://images.booksense.com/images/839/125/9780143125839.jpg'
 ---
 The popularity of _Dog Songs_ feels as inevitable and welcome as a wagging tail upon homecoming. — The Boston Globe
 

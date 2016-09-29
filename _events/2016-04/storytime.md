@@ -2,7 +2,7 @@
 title: "**Children's Storytime with  Julia Denos**"
 published: false
 start_at: 2016-04-16T10:30:00.000Z
-image_path: 'http://images.booksense.com/images/382/366/9780062366382.jpg'
+image_path: 'https://images.booksense.com/images/382/366/9780062366382.jpg'
 program: childrens-story-time
 ---
 

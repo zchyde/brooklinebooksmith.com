@@ -2,7 +2,7 @@
 title: Brooklyn
 isbn: '9781439148952'
 binding: Paperback
-image_path: 'http://images.booksense.com/images/952/148/9781439148952.jpg'
+image_path: 'https://images.booksense.com/images/952/148/9781439148952.jpg'
 ---
 
 One of the most unforgettable characters in contemporary literature ("Pittsburgh Post-Gazette"), Eilis Lacey has come of age in small-town Ireland in the hard years following World War Two. When an Irish priest from Brooklyn offers to sponsor Eilis in America, she decides she must go, leaving her fragile mother and her charismatic sister behind.

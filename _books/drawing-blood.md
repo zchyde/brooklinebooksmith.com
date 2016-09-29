@@ -2,7 +2,7 @@
 title: Drawing Blood
 isbn: '9780062323644'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/644/323/9780062323644.jpg'
+image_path: 'https://images.booksense.com/images/644/323/9780062323644.jpg'
 ---
 
 Molly Crabapple could be this generation's Charles Bukowski. She's a great artist whose life is also a work of art. — Matt Taibbi

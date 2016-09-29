@@ -2,7 +2,7 @@
 title: 'Lobster Is the Best Medicine: A Collection of Comics about Friendship'
 isbn: '9780762458684'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/684/458/9780762458684.jpg'
+image_path: 'https://images.booksense.com/images/684/458/9780762458684.jpg'
 ---
 
 

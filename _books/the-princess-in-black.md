@@ -2,7 +2,7 @@
 title: The Princess in Black
 isbn: '9780763678883'
 binding: Paperback
-image_path: 'http://images.booksense.com/images/883/678/9780763678883.jpg'
+image_path: 'https://images.booksense.com/images/883/678/9780763678883.jpg'
 ---
 
 

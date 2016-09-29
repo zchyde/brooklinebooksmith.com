@@ -2,7 +2,7 @@
 title: Luckiest Girl Alive
 isbn: '9781476789644'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/637/789/9781476789637.jpg'
+image_path: 'https://images.booksense.com/images/637/789/9781476789637.jpg'
 ---
 
 

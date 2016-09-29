@@ -2,7 +2,7 @@
 title: 'In the Country We Love: My Family Divided'
 isbn: '9781627795272'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/272/795/9781627795272.jpg'
+image_path: 'https://images.booksense.com/images/272/795/9781627795272.jpg'
 ---
 
 

@@ -2,7 +2,7 @@
 title: 'Hillary Rodham Clinton: Do All the Good You Can'
 isbn: '9780062387301'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/301/387/9780062387301.jpg'
+image_path: 'https://images.booksense.com/images/301/387/9780062387301.jpg'
 ---
 
 

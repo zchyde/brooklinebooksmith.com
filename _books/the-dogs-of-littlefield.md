@@ -2,7 +2,7 @@
 title: The Dogs of Littlefield
 isbn: '9781476794242'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/242/794/9781476794242.jpg'
+image_path: 'https://images.booksense.com/images/242/794/9781476794242.jpg'
 ---
 
 A brilliantly done ("Sunday Times," London) comedy of manners that explores the unease behind the manicured lawns of suburban America from the Orange Prize winning author of "A Crime in the Neighborhood."&nbsp;

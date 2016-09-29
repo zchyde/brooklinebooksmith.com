@@ -2,7 +2,7 @@
 title: "The Mathews Men: Seven Brothers and the War Against Hitler's U-Boats"
 isbn: '9780525428152'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/152/428/9780525428152.jpg'
+image_path: 'https://images.booksense.com/images/152/428/9780525428152.jpg'
 ---
 
 

@@ -2,7 +2,7 @@
 title: 'Off the Leash: A Year at the Dog Park'
 isbn: '9781250014573'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/573/014/9781250014573.jpg'
+image_path: 'https://images.booksense.com/images/573/014/9781250014573.jpg'
 ---
 
 

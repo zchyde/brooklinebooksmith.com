@@ -2,7 +2,7 @@
 title: "Gut: The Inside Story of Our Body's Most Underrated Organ"
 isbn: '9781771641494'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/494/641/9781771641494.jpg'
+image_path: 'https://images.booksense.com/images/494/641/9781771641494.jpg'
 ---
 
 

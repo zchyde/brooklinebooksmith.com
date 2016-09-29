@@ -2,7 +2,7 @@
 title: Brave Enough
 isbn: '9781101946909'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/909/946/9781101946909.jpg'
+image_path: 'https://images.booksense.com/images/909/946/9781101946909.jpg'
 ---
 
 From the best-selling author of "Wild," a collection of quotes--drawn from the wide range of her writings--that capture her wisdom, courage, and outspoken humor, presented in a gift-sized package that's as irresistible to give as it is to receive.&nbsp;

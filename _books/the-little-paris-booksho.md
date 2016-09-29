@@ -2,7 +2,7 @@
 title: The Little Paris Bookshop
 isbn: '9780553418774'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/774/418/9780553418774.jpg'
+image_path: 'https://images.booksense.com/images/774/418/9780553418774.jpg'
 ---
 
 

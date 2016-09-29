@@ -2,7 +2,7 @@
 title: 'Porcelain: A Memoir'
 isbn: '9781594206429'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/429/206/9781594206429.jpg'
+image_path: 'https://images.booksense.com/images/429/206/9781594206429.jpg'
 ---
 
 

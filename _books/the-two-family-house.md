@@ -2,7 +2,7 @@
 title: The Two-Family House
 isbn: '9781250076922'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/922/076/9781250076922.jpg'
+image_path: 'https://images.booksense.com/images/922/076/9781250076922.jpg'
 ---
 
 

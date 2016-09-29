@@ -2,6 +2,6 @@
 title: 'Presence: Bringing Your Boldest Self to Your Biggest Challenges'
 isbn: '9780316256575'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/575/256/9780316256575.jpg'
+image_path: 'https://images.booksense.com/images/575/256/9780316256575.jpg'
 ---
 

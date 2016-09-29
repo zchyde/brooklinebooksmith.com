@@ -2,7 +2,7 @@
 title: The Last Days of Stalin
 isbn: '9780300192223'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/223/192/9780300192223.jpg'
+image_path: 'https://images.booksense.com/images/223/192/9780300192223.jpg'
 ---
 
 

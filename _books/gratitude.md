@@ -2,7 +2,7 @@
 title: Gratitude
 isbn: '9780451492937'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/937/492/9780451492937.jpg'
+image_path: 'https://images.booksense.com/images/937/492/9780451492937.jpg'
 ---
 
 My predominant feeling is one of gratitude. I have loved and been loved. I have been given much and I have given something in return. Above all, I have been a sentient being, a thinking animal, on this beautiful planet, and that in itself has been an enormous privilege and adventure.&nbsp;

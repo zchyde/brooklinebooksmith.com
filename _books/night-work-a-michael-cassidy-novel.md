@@ -2,7 +2,7 @@
 title: 'Night Work: A Michael Cassidy Novel'
 isbn: '9780765374851'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/851/374/9780765374851.jpg'
+image_path: 'https://images.booksense.com/images/851/374/9780765374851.jpg'
 ---
 
 

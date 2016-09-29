@@ -2,7 +2,7 @@
 title: 'The Romanovs: 1613-1918'
 isbn: '9780307266521'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/521/266/9780307266521.jpg'
+image_path: 'https://images.booksense.com/images/521/266/9780307266521.jpg'
 ---
 
 

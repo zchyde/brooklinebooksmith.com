@@ -2,7 +2,7 @@
 title: The Sympathizer
 isbn: '9780802124944'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/944/124/9780802124944.jpg'
+image_path: 'https://images.booksense.com/images/944/124/9780802124944.jpg'
 ---
 
 

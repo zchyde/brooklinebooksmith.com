@@ -2,7 +2,7 @@
 title: All the Birds in the Sky
 isbn: '9780765379948'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/948/379/9780765379948.jpg'
+image_path: 'https://images.booksense.com/images/948/379/9780765379948.jpg'
 ---
 
 From the editor-in-chief of io9.com, a stunning novel about the end of the world--and the beginning of our future

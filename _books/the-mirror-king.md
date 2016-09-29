@@ -2,7 +2,7 @@
 title: The Mirror King
 isbn: '9780062317414'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/414/317/9780062317414.jpg'
+image_path: 'https://images.booksense.com/images/414/317/9780062317414.jpg'
 ---
 
 

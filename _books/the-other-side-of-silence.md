@@ -2,7 +2,7 @@
 title: The Other Side of Silence
 isbn: '9780399177040'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/040/177/9780399177040.jpg'
+image_path: 'https://images.booksense.com/images/040/177/9780399177040.jpg'
 ---
 
 

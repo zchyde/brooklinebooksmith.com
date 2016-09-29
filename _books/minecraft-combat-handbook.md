@@ -2,7 +2,7 @@
 title: 'Minecraft: Combat Handbook'
 isbn: '9780545823234'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/234/823/9780545823234.jpg'
+image_path: 'https://images.booksense.com/images/234/823/9780545823234.jpg'
 ---
 
 

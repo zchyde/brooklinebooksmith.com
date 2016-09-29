@@ -2,7 +2,7 @@
 title: "Giraffes Can't Dance"
 isbn: '9780545392556'
 binding: Board Books
-image_path: 'http://images.booksense.com/images/556/392/9780545392556.jpg'
+image_path: 'https://images.booksense.com/images/556/392/9780545392556.jpg'
 ---
 
 

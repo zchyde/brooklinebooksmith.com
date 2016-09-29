@@ -2,7 +2,7 @@
 title: "Custer's Trials: A Life on the Frontier of a New America"
 isbn: '9780307592644'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/644/592/9780307592644.jpg'
+image_path: 'https://images.booksense.com/images/644/592/9780307592644.jpg'
 ---
 
 From the Pulitzer Prize and National Book Award winner, a brilliant new biography of Gen. George Armstrong Custer that radically changes our view of the man and his turbulent times.&nbsp;

@@ -2,7 +2,7 @@
 title: Britt-Marie Was Here
 isbn: '9781501142536'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/536/142/9781501142536.jpg'
+image_path: 'https://images.booksense.com/images/536/142/9781501142536.jpg'
 ---
 
 

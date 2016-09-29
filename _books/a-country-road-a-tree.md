@@ -2,7 +2,7 @@
 title: 'A Country Road, a Tree'
 isbn: '9781101947180'
 binding: Hardcover
-image_path: 'http://images.booksense.com/images/180/947/9781101947180.jpg'
+image_path: 'https://images.booksense.com/images/180/947/9781101947180.jpg'
 ---
 
 
