@@ -1,7 +1,7 @@
 # jekyll-seo-tag
 title: brookline booksmith
 description: "Brookline Booksmith is an stablished independent bookshop offering new & used titles, plus gifts, over 2 floors."
-url: http://www.brooklinebooksmith.com
+url: https://www.brooklinebooksmith.com
 author: []
 twitter:
   username: booksmithtweets
@@ -9,7 +9,7 @@ facebook:
   app_id:
   publisher:
   admins:
-logo: http://www.brooklinebooksmith.com/uploads/banner-home-page_wr.jpg
+logo: https://www.brooklinebooksmith.com/uploads/banner-home-page_wr.jpg
 addthis_id: 561d1f58a8154d03
 
 address_for_nav: "279 Harvard St. (at Beacon St.) <br /> 617-566-6660"
@@ -52,7 +52,7 @@ subscription_recurring_times:
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3
 image_url: https://brooklinebbs.imgix.net
-images_domain: http://images.brooklinebooksmith.com
+images_domain: //images.brooklinebooksmith.com
 shop_domain: http://www.brooklinebooksmith-shop.com
 
 plugins_dir:  ./_app/_plugins
