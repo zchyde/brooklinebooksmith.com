@@ -24,7 +24,7 @@ books:
 
 ![](/uploads/versions/nick-and-nora---x----268-400x---.jpg)
 
-[**Nick and Norah's Infinite Playlist**](http://www.brooklinebooksmith-shop.com/book/9780375835339) by: Rachel Cohn & David Levithan
+[**Nick and Norah's Infinite Playlist**](https://www.brooklinebooksmith-shop.com/book/9780375835339) by: Rachel Cohn & David Levithan
 
 When the future is looming, step into the night and let the music catch you.
 
@@ -32,7 +32,7 @@ When the future is looming, step into the night and let the music catch you.
 
 ![](/uploads/versions/jellicoe-rd---x----266-400x---.jpg)
 
-[**Jellicoe Road**](http://www.brooklinebooksmith-shop.com/book/9780061431852) by: Melina Marchetta
+[**Jellicoe Road**](https://www.brooklinebooksmith-shop.com/book/9780061431852) by: Melina Marchetta
 
 Like a drowning, burning, wonderful punch to the heart, it's everything YA in one book.
 
@@ -40,7 +40,7 @@ Like a drowning, burning, wonderful punch to the heart, it's everything YA in on
 
 ![](/uploads/versions/wee-free-men---x----265-400x---.jpg)
 
-[**The Wee Free Men**](http://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett
+[**The Wee Free Men**](https://www.brooklinebooksmith-shop.com/book/9780062435262) by: Terry Pratchett
 
 When the world's in peril, can you do better than a witch, a frying pan, and some angry tiny guys?
 
@@ -48,7 +48,7 @@ When the world's in peril, can you do better than a witch, a frying pan, and som
 
 ![](/uploads/versions/dealingdragons---x----268-400x---.jpg)
 
-[**Dealing With Dragons**](http://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
+[**Dealing With Dragons**](https://www.brooklinebooksmith-shop.com/book/9780544541221) by: Patricia Wrede
 
 Best princess. Best dragons. Worst wizards. Go.
 
@@ -56,7 +56,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ![](/uploads/versions/honesttruth---x----265-400x---.jpg)
 
-[**The Honest Truth**](http://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
+[**The Honest Truth**](https://www.brooklinebooksmith-shop.com/book/9780545665742) by: Dan Gemeinhart
 
 *Wonder*+ *Hatchet*+ your best, biggest box of tissues
 
@@ -64,7 +64,7 @@ Best princess. Best dragons. Worst wizards. Go.
 
 ![](/uploads/versions/saffysangel---x----269-400x---.jpg)
 
-[**Saffy’s Angel**](http://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
+[**Saffy’s Angel**](https://www.brooklinebooksmith-shop.com/book/9780689849343) by: Hilary Mckay
 
 You ran out of Penderwicks?! Pick up this book.
 
@@ -72,7 +72,7 @@ You ran out of Penderwicks?! Pick up this book.
 
 ![](/uploads/versions/houseofmanyways---x----268-400x---.jpg)
 
-[**House of Many Ways**](http://www.brooklinebooksmith-shop.com/book/9780061477973) by: Diana Wynne Jones
+[**House of Many Ways**](https://www.brooklinebooksmith-shop.com/book/9780061477973) by: Diana Wynne Jones
 
 Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kingdom, as it turns out.
 
@@ -80,7 +80,7 @@ Girl vs. magical house vs. inconvenient dog vs. unwanted boy vs…saving the kin
 
 ![](/uploads/versions/wind-in-the-willows---x----290-400x---.jpg)
 
-[**The Wind in the Willows**](http://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
+[**The Wind in the Willows**](https://www.brooklinebooksmith-shop.com/book/9780141321134) by: Kenneth Grahame
 
 If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious book, it would be this.\*\*
 
@@ -92,7 +92,7 @@ If Frog and Toad or Elephant and Piggie were a big, long, beautiful, hilarious b
 
 ![](/uploads/versions/noggin---x----267-400x---.jpg)
 
-[**Noggin**](http://www.brooklinebooksmith-shop.com/search/site/noggin) by: John Corey Whaley
+[**Noggin**](https://www.brooklinebooksmith-shop.com/search/site/noggin) by: John Corey Whaley
 
 A book about growing up, moving on, and maybe a body transplant.
 
@@ -100,7 +100,7 @@ A book about growing up, moving on, and maybe a body transplant.
 
 ![](/uploads/versions/thesebrokenstars---x----266-400x---.jpg)
 
-[**These Broken Stars**](http://www.brooklinebooksmith-shop.com/book/9781423171218) by: Amie Kaufman & Meghan Spooner
+[**These Broken Stars**](https://www.brooklinebooksmith-shop.com/book/9781423171218) by: Amie Kaufman & Meghan Spooner
 
 Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Titanic, actually…)
 
@@ -108,7 +108,7 @@ Heroine. Hero. Tragedy. Bickering. Love. Death. Space. (It's kind of sci-fi Tita
 
 ![](/uploads/versions/songwillsaveyourlife---x----267-400x---.jpg)
 
-[**This Song Will Save Your Life**](http://www.brooklinebooksmith-shop.com/book/9781250050748) by: Leila Sales
+[**This Song Will Save Your Life**](https://www.brooklinebooksmith-shop.com/book/9781250050748) by: Leila Sales
 
 In life you'll meet a lot of people. Some of them are jerks. Some of them help you figure out who you are.
 
@@ -116,7 +116,7 @@ In life you'll meet a lot of people. Some of them are jerks. Some of them help y
 
 ![](/uploads/versions/thisiswhathappylookslike---x----267-400x---.jpg)
 
-**[This is What Happy Looks Like](http://www.brooklinebooksmith-shop.com/book/9780316212816)**by: Jennifer E. Smith
+**[This is What Happy Looks Like](https://www.brooklinebooksmith-shop.com/book/9780316212816)**by: Jennifer E. Smith
 
 One boy. One girl. One mis-sent email about a pig named Wilbur.
 
@@ -124,7 +124,7 @@ One boy. One girl. One mis-sent email about a pig named Wilbur.
 
 ![](/uploads/versions/ill-give-you-the-sun---x----267-400x---.jpg)
 
-[**I'll Give You The Sun**](http://www.brooklinebooksmith-shop.com/book/9780142425763) by: Jandy Nelson
+[**I'll Give You The Sun**](https://www.brooklinebooksmith-shop.com/book/9780142425763) by: Jandy Nelson
 
 Love is a messy, complicated, beautiful, poetic disaster.
 
@@ -132,7 +132,7 @@ Love is a messy, complicated, beautiful, poetic disaster.
 
 ![](/uploads/versions/case-of-the-moonstone---x----271-400x---.jpg)
 
-[**The Case of the Missing Moonstone (The Wollstonecraft Detective Agency bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
+[**The Case of the Missing Moonstone (The Wollstonecraft Detective Agency bk 1)**](https://www.brooklinebooksmith-shop.com/book/9780385754439) by: Jordan Stratford
 
 High stakes Victorian adventure with your new favorite, female, Sherlock-Watson style duo!
 
@@ -140,7 +140,7 @@ High stakes Victorian adventure with your new favorite, female, Sherlock-Watson 
 
 ![](/uploads/versions/bridge-to-terabithia---x----243-400x---.jpg)
 
-[**Bridge to Terabithia**](http://www.brooklinebooksmith-shop.com/book/9780060734015) by: Katherine Paterson
+[**Bridge to Terabithia**](https://www.brooklinebooksmith-shop.com/book/9780060734015) by: Katherine Paterson
 
 We all need somewhere to escape to and someone to escape with.
 
@@ -148,7 +148,7 @@ We all need somewhere to escape to and someone to escape with.
 
 ![](/uploads/versions/great-greene-heist---x----275-400x---.jpg)
 
-[**The Great Greene Heist**](http://www.brooklinebooksmith-shop.com/book/9780545525534) by: Varian Johnson
+[**The Great Greene Heist**](https://www.brooklinebooksmith-shop.com/book/9780545525534) by: Varian Johnson
 
 He swore he'd stop with the cons…okay maybe one more…but it's for a good reason!
 
@@ -156,7 +156,7 @@ He swore he'd stop with the cons…okay maybe one more…but it's for a good rea
 
 ![](/uploads/versions/3---x----275-400x---.jpg)
 
-[**The Iron Trial (Magisterium bk 1)**](http://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
+[**The Iron Trial (Magisterium bk 1)**](https://www.brooklinebooksmith-shop.com/book/9780545522267) by: Holly Black & Cassandra Clare
 
 If there's a magic school there's a super villain. There's probably a rule about it somewhere.
 
@@ -168,7 +168,7 @@ If there's a magic school there's a super villain. There's probably a rule about
 
 ![](/uploads/versions/young-elites---x----267-400x---.jpg)
 
-[**The Young Elites**](http://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
+[**The Young Elites**](https://www.brooklinebooksmith-shop.com/book/9780147511683) by: Marie Lu
 
 This is not the story of a heroine, but the birth of a villainess.
 
@@ -176,7 +176,7 @@ This is not the story of a heroine, but the birth of a villainess.
 
 \*\*![](/uploads/versions/jackaby---x----266-400x---.jpg)
 
-[**Jackaby**](http://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
+[**Jackaby**](https://www.brooklinebooksmith-shop.com/book/9781616205461) by: William Ritter
 
 Folklore, mystery, sharp wit and a dash of the macabre. Oh and a tip? Don’t Stare At The Frog.
 
@@ -184,7 +184,7 @@ Folklore, mystery, sharp wit and a dash of the macabre. Oh and a tip? Don’t St
 
 ![](/uploads/versions/darkest-part-of-the-forest---x----267-400x---.jpg)
 
-[**The Darkest Part of the Forest**](http://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
+[**The Darkest Part of the Forest**](https://www.brooklinebooksmith-shop.com/book/9780316213080) by: Holly Black
 
 These are most definitely NOT your Disney faeries.
 
@@ -192,7 +192,7 @@ These are most definitely NOT your Disney faeries.
 
 ![](/uploads/versions/daughter-of-smoke-and-bone---x----262-400x---.jpg)
 
-[**Daughter of Smoke and Bone**](http://www.brooklinebooksmith-shop.com/book/9780316133999) by: Laini Taylor
+[**Daughter of Smoke and Bone**](https://www.brooklinebooksmith-shop.com/book/9780316133999) by: Laini Taylor
 
 If an angel and a devil fall in love, will the world survive?
 
@@ -200,7 +200,7 @@ If an angel and a devil fall in love, will the world survive?
 
 ![](/uploads/versions/search-for-wondla---x----266-400x---.jpg)
 
-[**The Search for Wondla**](http://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
+[**The Search for Wondla**](https://www.brooklinebooksmith-shop.com/search/site/search%20for%20wondla') by: Tony DiTerlizzi
 
 Welcome to Earth. It just might look a little… different.
 
@@ -208,7 +208,7 @@ Welcome to Earth. It just might look a little… different.
 
 ![](/uploads/versions/glass-sentence---x----257-400x---.jpg)
 
-[**The Glass Sentence**](http://www.brooklinebooksmith-shop.com/book/9780142423660) by: S. E. Grove
+[**The Glass Sentence**](https://www.brooklinebooksmith-shop.com/book/9780142423660) by: S. E. Grove
 
 Maps can be dangerous things indeed.
 
@@ -216,7 +216,7 @@ Maps can be dangerous things indeed.
 
 ![](/uploads/versions/last-wild---x----261-400x---.jpg)
 
-[**The Last Wild**](http://www.brooklinebooksmith-shop.com/book/9780147509659) by: Piers Torday
+[**The Last Wild**](https://www.brooklinebooksmith-shop.com/book/9780147509659) by: Piers Torday
 
 You were kidnapped by pigeons, and a talking cockroach is telling you to save the world. What would you do?
 

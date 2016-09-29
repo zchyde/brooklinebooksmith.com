@@ -11,11 +11,11 @@ tags:
 - what is art
 - Artsy-Fartsy
 modified_datetime: '2010-03-27T15:59:06.480-04:00'
-thumbnail: http://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s72-c/poem.bmp
+thumbnail: https://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s72-c/poem.bmp
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3103333110336391908
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/03/best-assignment-ever.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2010/03/best-assignment-ever.html
 ---
-[![](http://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s320/poem.bmp)](http://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s1600/poem.bmp)
+[![](https://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s320/poem.bmp)](https://4.bp.blogspot.com/_L2x1PCw1zuI/S65iyJOflPI/AAAAAAAAACI/IxVJNpFUgck/s1600/poem.bmp)
 
 My sophomore year in college, (what i can piece together of it)...involved a lot of East African dance, and a lot of reading. My professor Lorna Dee Cervantes (colossal poet activist all around swell lady) assigned a very simple task for her creative writing workshop...to go to a bookstore once a week, preferably an independently owned one...to walk up to the poetry section, and buy one book of poetry a week, based on intuition....don't think- grab one - throw the money down- and go.
 

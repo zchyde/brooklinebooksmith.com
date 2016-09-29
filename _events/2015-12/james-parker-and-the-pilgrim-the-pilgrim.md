@@ -2,7 +2,7 @@
 title: '**James Parker** and The Pilgrim'
 published: true
 start_at: 2015-12-09T19:00:00.000Z
-image_path: http://images.brooklinebooksmith.com/piglrimcopy.png
+image_path: https://images.brooklinebooksmith.com/piglrimcopy.png
 book_category: ''
 program: '-writers-and-readers'
 ticketed: false

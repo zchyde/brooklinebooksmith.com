@@ -5,9 +5,9 @@ date: '2011-03-03T13:26:00.008-05:00'
 author: Zoe Hyde
 tags:
 modified_datetime: '2011-03-03T15:07:36.287-05:00'
-thumbnail: http://4.bp.blogspot.com/_lj1_v2WNeLI/S9swAOC2DEI/AAAAAAAAANk/Ktj2vfE0zIs/s72-c/41XG9AHHEYL-1._SL500_AA300_.jpg
+thumbnail: https://4.bp.blogspot.com/_lj1_v2WNeLI/S9swAOC2DEI/AAAAAAAAANk/Ktj2vfE0zIs/s72-c/41XG9AHHEYL-1._SL500_AA300_.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6248828050205465522
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/03/in-which-we-join-our-heroine.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/03/in-which-we-join-our-heroine.html
 ---
 What is the deal with my university and its need to constantly blast the infernal hippity hop in the cafeteria while I am just trying to poorly do my logic homework and listen to my favourite ABC comedy sitcoms on hulu? There is some part of the closed-circuit channel that they insist on playing that is just a 10 or 15 minute loop of somebody whistling the same tune, over and over again, at a totally unnecessarily loud decibel. Is this like psychological* warfare, Umass Boston? Are you trying to 'break' me?
 
@@ -17,7 +17,7 @@ Honestly, Zoe. And you call yourself a feminist. I will have you know he didn't 
 
 Ok. Content time, I guess.
 
-![](http://4.bp.blogspot.com/_lj1_v2WNeLI/S9swAOC2DEI/AAAAAAAAANk/Ktj2vfE0zIs/s1600/41XG9AHHEYL-1._SL500_AA300_.jpg)
+![](https://4.bp.blogspot.com/_lj1_v2WNeLI/S9swAOC2DEI/AAAAAAAAANk/Ktj2vfE0zIs/s1600/41XG9AHHEYL-1._SL500_AA300_.jpg)
 
 Last night I devoured this saucy little number by Mary Karr. I think I am the dumb one but I didn't know Karr wrote poetry, which is very sad because, as you all know, I am 23 now and look at all this time I've wasted. Its a short, beautiful book of poetry and the fourth poem is called "Disgraceland" and ends:
 

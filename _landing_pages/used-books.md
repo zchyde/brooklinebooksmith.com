@@ -2,7 +2,7 @@
 title: Used Book Cellar
 featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
-featured_image_credit: '[Liz Linder](http://lizlinder.com)'
+featured_image_credit: '[Liz Linder](https://lizlinder.com)'
 fancy_font: Cabin-sketch
 description: "Buying Hours: \n**Wednesday through Saturday 10am-4pm**\n\nNo appointment needed. \n\nNo curbside service; all books must be brought inside. Call ahead if you need special assistance.\n\nPhoto ID required. \n\nWe offer 15% of original price in cash (checks over $50) OR 20% in store credit. Store credit can be used for anything in the store and never expires!\n\nContact Us:   <ubc@brooklinebooksmith.com>"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Censorship Now!!"
 isbn: "9781617754098"
-image_path: "http://ecx.images-amazon.com/images/I/31fAfkZVnSL.jpg"
+image_path: "https://ecx.images-amazon.com/images/I/31fAfkZVnSL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "324"
-url: "http://www.amazon.com/Censorship-Now-Ian-F-Svenonius/dp/1617754099/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1445870495&amp;sr=1-1"
+url: "https://www.amazon.com/Censorship-Now-Ian-F-Svenonius/dp/1617754099/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1445870495&amp;sr=1-1"
 ---

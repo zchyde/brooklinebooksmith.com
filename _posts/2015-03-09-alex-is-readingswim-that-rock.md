@@ -11,11 +11,11 @@ tags:
 - kid books
 - children's literature
 modified_datetime: '2015-03-09T19:00:09.453-04:00'
-thumbnail: http://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s72-c/cover_STRfonttest19.jpg
+thumbnail: https://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s72-c/cover_STRfonttest19.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2699079310339919210
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingswim-that-rock.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingswim-that-rock.html
 ---
-[![](http://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s1600/cover_STRfonttest19.jpg)](http://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s1600/cover_STRfonttest19.jpg)
+[![](https://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s1600/cover_STRfonttest19.jpg)](https://2.bp.blogspot.com/-uqMF56Rh7PM/VP4e7G6ZXgI/AAAAAAAAAF4/Krx2YuAuZw8/s1600/cover_STRfonttest19.jpg)
 
 _Swim That Rock_ is a classic. I mean, it's a new book, but it's put together like a classic--our main character has lost his father, and he and his mother are close to losing their diner. In a small Rhode Island town, the solution for being trapped in grief and strapped for cash may be one and the same: the biggest opportunity to pull quahogs that anyone's seen for decades. It's satisfyingly filled to the brim, like a quahogger's bullrake, with perseverance, personal strength, and tantalizing details of the fisherman's trade--with a side of mobsters and pirates.  
 

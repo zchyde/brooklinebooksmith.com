@@ -21,12 +21,12 @@ books:
 <br>Like this morning!
 <br>Our phones at the store were down for a while, and so I got on my cell phone with our technician, and while it turned out that they couldn't fix it right away, they could redirect the store's phone lines to my cell, which meant that I was the only one taking or making calls the first couple hours of the day. I was the hero! How great!
 <br>I started to get worried.
-<br>What if this problem doesn't get resolved quickly? How does it all work, now that everything is so integrated? If I am messing around on my phone, and I "share" your photo of a pug wearing a "Make America Break(fast)" hat serving you eggs and toast in bed, does that, like, somehow get shared with all of Booksmith's friends? If I text my wife about the laundry…will that go out as a tweet or something? I imagined getting text messages in the middle of the night about whether we have tickets for author readings which have already happened, or asking why we don't have Drumpf's books in the front window. It all worked out in the end, but I'm afraid that while I was helping someone sign up for new [Signed First Editions Book Club](http://www.brooklinebooksmith.com/sfe/) I may have butt-dialed everyone who has ever called Booksmith.
+<br>What if this problem doesn't get resolved quickly? How does it all work, now that everything is so integrated? If I am messing around on my phone, and I "share" your photo of a pug wearing a "Make America Break(fast)" hat serving you eggs and toast in bed, does that, like, somehow get shared with all of Booksmith's friends? If I text my wife about the laundry…will that go out as a tweet or something? I imagined getting text messages in the middle of the night about whether we have tickets for author readings which have already happened, or asking why we don't have Drumpf's books in the front window. It all worked out in the end, but I'm afraid that while I was helping someone sign up for new [Signed First Editions Book Club](https://www.brooklinebooksmith.com/sfe/) I may have butt-dialed everyone who has ever called Booksmith.
 <br>So sorry about that.
 <br>
 
 Thanks for reading,
-<br>[Paul](http://www.ptpainter.com/)
-<br>currently reading [A Whole Life](http://www.irishtimes.com/culture/books/a-whole-life-by-robert-seethaler-one-man-endures-one-day-at-a-time-1.2394527) by Robert Seethaler.
+<br>[Paul](https://www.ptpainter.com/)
+<br>currently reading [A Whole Life](https://www.irishtimes.com/culture/books/a-whole-life-by-robert-seethaler-one-man-endures-one-day-at-a-time-1.2394527) by Robert Seethaler.
 <br>currently listening to [Julianna Barwick](https://www.youtube.com/watch?v=Kqa8glZUJ54).
 <br>

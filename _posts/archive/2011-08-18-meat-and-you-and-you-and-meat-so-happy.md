@@ -6,7 +6,7 @@ author: Zoe Hyde
 tags:
 modified_datetime: '2011-08-18T20:44:14.940-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-1112942822459183089
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/meat-and-you-and-you-and-meat-so-happy.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/08/meat-and-you-and-you-and-meat-so-happy.html
 ---
 For about a solid month in the beginning of the summer, I drove Cressida and Jess, two of the girls who work in card and gift, completely insane because I couldn't stop talking about hot dogs. I sincerely apologize but honestly, it was out of my hands. I couldn't stop. Without fail, every time a break rolled around, I'd somehow steer the conversation back to hot dogs. One day, Boston magazine did a spread on the greatest place in Boston to get a hot dog, its glossy cover all alive with hot dogs in various stages and forms of dress. I was incredulous. I begged Cressida to kill me. I mean what's even the point of living if the very mention of hot dogs drives you into a half-crazed state of delusion, foaming at the mouth, eyes rolling around like an upended baby doll. I couldn't live like that. Something had to be done.
 
@@ -14,7 +14,7 @@ Why am I telling you this? 1, to demonstrate how horrible I am to my fellow co-w
 
 So a bunch of stuff happened to my body all on its own, due to a couple different things, but I began to do something I had never really done before, which was cook. I didn't really get the swing of it until later, but it began to be something that I thought about. One Christmas, my Dad got me these:
 
-![](http://img.photobucket.com/albums/v373/Nuhbrans/cookery.jpg)
+![](https://img.photobucket.com/albums/v373/Nuhbrans/cookery.jpg)
 
 Three of Cooks' Magazine "Best Of" books. I don't know about the other booksellers, but the most common question I get around cookbooks is "My son/daughter/adopted wolf-child raised in the wild has just gone off to college and they have their first kitchen. How will they feed themselves?! Will it just be twigs and berries, or what?! What do I do?" First of all, I say, don't panic. College is a time of experimentation, so those first few years they are going to eat a lot of stuff while under the influence that they will probably regret later. Peanut butter and chicken. I don't have to specify how I know that. I mean, I should instinctively know that but you know what? Sometimes you have to learn to crawl before you can fly. Boom. Real talk. Eventually your kid will learn that they can't keep nutella and ranch dressing in the house at the same time, and then they will join the rest of us Grown Up Land.
 
@@ -22,10 +22,10 @@ Aside from that, though, I ALWAYS recommend these books for youngsters striking 
 
 Last month, I was looking through the vegetarian cookbooks at the store and I took some recipes out of this guy:
 
-![](http://ecx.images-amazon.com/images/I/51FzE6k-l0L._SL500_AA300_.jpg)
+![](https://ecx.images-amazon.com/images/I/51FzE6k-l0L._SL500_AA300_.jpg)
 
 The day I bought it I told everyone about it because generally, as a rule, I can't keep my big obnoxious mouth shut, and the response I got from that was that a lot of people are intrigued by vegetarian cookbooks, but are scared that the recipes are going to be too complicated and they'll never make any of them. This is a totally valid fear, because cooking with vegetables, just like any type of cooking, can be as complex or simple as you want it to be. However, most of us - myself included -lack the culinary knowledge to tamper a recipe to our specific needs. Rose Elliot's book is great for this! There are recipes in here that are literally, a cup full of bulgar wheat, throw in some boiling water, let it sit, stir in some chopped peppers, onions, raisins, and feta, and serve. That is a recipe in this book. It's delicious, its like cous cous but not boring. Yeah. I said it. Come and get me, cous cous fans. Total grain rebel over here.
 
-Finally, recently I've been doing some research online about veganism, which led me to this blog: [The Reluctant Raw Foodist](http://ecx.images-amazon.com/images/I/51FzE6k-l0L._SL500_AA300_.jpg), written by someone who has some very serious allergies and, as a result of which, can eat almost no processed foods and even some produce. I'm not entirely vegan or entirely vegetarian, which usually tends to confuse and even aggravate some people. Most see vegetarianism as something you either do or don't do, but I find dabbling works for me. That way, I can limit my contribution to a fairly corrupt conglomerate that abuses its animals, but I can also enjoy a hot dog once a freakin' year.
+Finally, recently I've been doing some research online about veganism, which led me to this blog: [The Reluctant Raw Foodist](https://ecx.images-amazon.com/images/I/51FzE6k-l0L._SL500_AA300_.jpg), written by someone who has some very serious allergies and, as a result of which, can eat almost no processed foods and even some produce. I'm not entirely vegan or entirely vegetarian, which usually tends to confuse and even aggravate some people. Most see vegetarianism as something you either do or don't do, but I find dabbling works for me. That way, I can limit my contribution to a fairly corrupt conglomerate that abuses its animals, but I can also enjoy a hot dog once a freakin' year.
 
 Guys, I like food. I like ethically grown and killed food, I like food that was harvested by people who are treated fairly and compensated appropriately. Those addendums are super hard to achieve in this day and age! Dude, I like to get my steaming translucent paper cone of street meat out the back of a van outside of Fenway as much as the next citizen, but to what end, Brookline? To what end

@@ -10,9 +10,9 @@ tags:
 - kidsmith
 - Giveaway
 modified_datetime: '2015-03-16T09:20:14.615-04:00'
-thumbnail: http://4.bp.blogspot.com/-HwdYdEfThFU/VQXIk6gccqI/AAAAAAAAAvk/wcd-myT2Vsk/s72-c/WP_20150315_13_34_09_Pro.jpg
+thumbnail: https://4.bp.blogspot.com/-HwdYdEfThFU/VQXIk6gccqI/AAAAAAAAAvk/wcd-myT2Vsk/s72-c/WP_20150315_13_34_09_Pro.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-174588098477623959
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/kidsmith-insurgent-poster-giveaway.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/03/kidsmith-insurgent-poster-giveaway.html
 ---
 Hullo Initiates!  
 
@@ -35,14 +35,14 @@ GIVING A THING AWAY!
 We were sent this really awesome poster for the Insurgent movie that comes out on Thursday.  
 
 
-![](http://4.bp.blogspot.com/-HwdYdEfThFU/VQXIk6gccqI/AAAAAAAAAvk/wcd-myT2Vsk/s1600/WP_20150315_13_34_09_Pro.jpg) 
+![](https://4.bp.blogspot.com/-HwdYdEfThFU/VQXIk6gccqI/AAAAAAAAAvk/wcd-myT2Vsk/s1600/WP_20150315_13_34_09_Pro.jpg) 
 
 
 See, it's brilliant!
 
 
 
-[![](http://1.bp.blogspot.com/-h4imTSx_wzs/VQXQdTUbwPI/AAAAAAAAAv0/WreYUoNCywg/s1600/WP_20150315_13_36_01_Pro.jpg)](http://1.bp.blogspot.com/-h4imTSx_wzs/VQXQdTUbwPI/AAAAAAAAAv0/WreYUoNCywg/s1600/WP_20150315_13_36_01_Pro.jpg)
+[![](https://1.bp.blogspot.com/-h4imTSx_wzs/VQXQdTUbwPI/AAAAAAAAAv0/WreYUoNCywg/s1600/WP_20150315_13_36_01_Pro.jpg)](https://1.bp.blogspot.com/-h4imTSx_wzs/VQXQdTUbwPI/AAAAAAAAAv0/WreYUoNCywg/s1600/WP_20150315_13_36_01_Pro.jpg)
 
 It loves you even if you don't love the movies.
 
@@ -61,6 +61,6 @@ Unfortunately, the giveaway is only open to those in the U.S. at the moment (sor
 
 So check it out and enter below!  
 
- [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/567bb7e41/)  
+ [a Rafflecopter giveaway](https://www.rafflecopter.com/rafl/display/567bb7e41/)  
 
  Who knows if this goes well maybe we'll do another giveaway. I did say we get a lot of advanced copies..

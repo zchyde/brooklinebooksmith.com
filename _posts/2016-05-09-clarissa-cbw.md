@@ -22,11 +22,11 @@ From Lindsay :
 
 ---
 
-![](/uploads/versions/papercaper---x----315-400x---.jpg)[The Great Paper Caper](http://www.brooklinebooksmith-shop.com/book/9780399250972) by [Oliver Jeffers](http://www.oliverjeffers.com/)
+![](/uploads/versions/papercaper---x----315-400x---.jpg)[The Great Paper Caper](https://www.brooklinebooksmith-shop.com/book/9780399250972) by [Oliver Jeffers](https://www.oliverjeffers.com/)
 
 *picture book*
 
-From the illustrator of the #1 smash hit [The Day the Crayons Quit](http://www.brooklinebooksmith-shop.com/book/9780399255373) comes a whodunnit just right for the youngest of readers (not to mention instructions for how to build the perfect paper airplane)! The animals' homes are disappearing. Tree by tree, the forest is being cut down. Clues, there must be clues! For instance, look–there is a mysterious bear carrying an ax. But what would a bear want with so many trees? Perhaps the discarded paper airplanes littering the forest floor have a story to tell?
+From the illustrator of the #1 smash hit [The Day the Crayons Quit](https://www.brooklinebooksmith-shop.com/book/9780399255373) comes a whodunnit just right for the youngest of readers (not to mention instructions for how to build the perfect paper airplane)! The animals' homes are disappearing. Tree by tree, the forest is being cut down. Clues, there must be clues! For instance, look–there is a mysterious bear carrying an ax. But what would a bear want with so many trees? Perhaps the discarded paper airplanes littering the forest floor have a story to tell?
 
 ---
 
@@ -36,7 +36,7 @@ From Zoe:
 
 ![](/uploads/versions/sweep---x----258-400x---.jpg)
 
-[Sweep](http://www.brooklinebooksmith-shop.com/book/9780142417171) by Cate Tiernan
+[Sweep](https://www.brooklinebooksmith-shop.com/book/9780142417171) by Cate Tiernan
 
 *young adult*
 
@@ -50,7 +50,7 @@ From Tim:
 
 ![](/uploads/versions/olies-oddyssey---x----311-400x---.jpg)
 
-[Ollie's Odyssey](http://www.brooklinebooksmith-shop.com/book/9781442473553) by William Joyce
+[Ollie's Odyssey](https://www.brooklinebooksmith-shop.com/book/9781442473553) by William Joyce
 
 *intermediate fiction*
 
@@ -66,7 +66,7 @@ From Jon:
 
 ![](/uploads/versions/windinthewillows---x----290-400x---.jpg)
 
-[The Wind in the Willows](http://www.brooklinebooksmith-shop.com/book/9780141321134) by Kenneth Grahame, illustrated by Robin Lawrie
+[The Wind in the Willows](https://www.brooklinebooksmith-shop.com/book/9780141321134) by Kenneth Grahame, illustrated by Robin Lawrie
 
 *intermediate fiction*
 
@@ -80,7 +80,7 @@ From Richard:
 
 ![](/uploads/versions/myfathersdragon---x----315-400x---.jpg)
 
-[My Father's Dragon](http://www.brooklinebooksmith-shop.com/book/9780679889113) by Ruth Stiles Gannett, illustrated by Ruth Chrisman Gannett
+[My Father's Dragon](https://www.brooklinebooksmith-shop.com/book/9780679889113) by Ruth Stiles Gannett, illustrated by Ruth Chrisman Gannett
 
 *first chapter books*
 
@@ -94,7 +94,7 @@ From Shuchi:
 
 ![](/uploads/versions/people---x----299-400x---.jpg)
 
-[People](http://www.brooklinebooksmith-shop.com/book/9780385244695) by Peter Spier
+[People](https://www.brooklinebooksmith-shop.com/book/9780385244695) by Peter Spier
 
 *children's non-fiction*
 
@@ -108,7 +108,7 @@ From Dana:
 
 ![](/uploads/versions/madeline---x----285-400x---.jpg)
 
-[Madeline](http://www.brooklinebooksmith-shop.com/book/9780670445806) by Ludwig Bemelmans
+[Madeline](https://www.brooklinebooksmith-shop.com/book/9780670445806) by Ludwig Bemelmans
 
 *picture book*
 
@@ -120,7 +120,7 @@ From Jordan:
 
 ---
 
-![](/uploads/versions/first-test---x----250-400x---.jpg)[First Test: Book 1 of the Protector of the Small Quartet](http://www.brooklinebooksmith-shop.com/book/9780375829055) by Tamora Pierce
+![](/uploads/versions/first-test---x----250-400x---.jpg)[First Test: Book 1 of the Protector of the Small Quartet](https://www.brooklinebooksmith-shop.com/book/9780375829055) by Tamora Pierce
 
 *young adult*
 
@@ -132,7 +132,7 @@ From Russ:
 
 ---
 
-![](/uploads/versions/swordandstone---x----273-400x---.jpg)[The Sword in the Stone](http://www.brooklinebooksmith-shop.com/book/9780399225024) by T. H. White
+![](/uploads/versions/swordandstone---x----273-400x---.jpg)[The Sword in the Stone](https://www.brooklinebooksmith-shop.com/book/9780399225024) by T. H. White
 
 *intermediate fiction*
 
@@ -144,7 +144,7 @@ From Lisa:
 
 ---
 
-![](/uploads/versions/danny---x----259-400x---.jpg)[Danny the Champion of the World](http://www.brooklinebooksmith-shop.com/book/9780142410332) by Roald Dahl, illustrated by Quentin Blake
+![](/uploads/versions/danny---x----259-400x---.jpg)[Danny the Champion of the World](https://www.brooklinebooksmith-shop.com/book/9780142410332) by Roald Dahl, illustrated by Quentin Blake
 
 *intermediate fiction*
 
@@ -156,7 +156,7 @@ From Paul:
 
 ---
 
-![](/uploads/versions/bunny---x----217-400x---.jpg)[I am a Bunny](http://www.brooklinebooksmith-shop.com/book/9780375827785) by Ole Risom, illustrated by Richard Scarry
+![](/uploads/versions/bunny---x----217-400x---.jpg)[I am a Bunny](https://www.brooklinebooksmith-shop.com/book/9780375827785) by Ole Risom, illustrated by Richard Scarry
 
 *board book*
 
@@ -170,7 +170,7 @@ From Amanda:
 
 ![](/uploads/versions/postman---x----511-400x---.jpg)
 
-[The Jolly Postman](http://www.brooklinebooksmith-shop.com/book/9780316126441) by Janet & Allan Ahlberg
+[The Jolly Postman](https://www.brooklinebooksmith-shop.com/book/9780316126441) by Janet & Allan Ahlberg
 
 *picture book*
 
@@ -184,7 +184,7 @@ From Peter:
 
 ![](/uploads/versions/ferdinand---x----338-400x---.jpg)
 
-[The Story of Ferdinand](http://www.brooklinebooksmith-shop.com/book/9780670674244) by Munro Leaf, illustrated by Robert Lawson
+[The Story of Ferdinand](https://www.brooklinebooksmith-shop.com/book/9780670674244) by Munro Leaf, illustrated by Robert Lawson
 
 *picture book*
 
@@ -198,7 +198,7 @@ From Dan:
 
 ![](/uploads/versions/winndixie---x----269-400x---.jpg)
 
-[Because of Winn-Dixie](http://www.brooklinebooksmith-shop.com/book/9780763680862) by Kate DiCamillo
+[Because of Winn-Dixie](https://www.brooklinebooksmith-shop.com/book/9780763680862) by Kate DiCamillo
 
 *intermediate fiction*
 
@@ -210,7 +210,7 @@ From Ric:
 
 ---
 
-![](/uploads/versions/presidentsquid---x----275-400x---.jpg)[President Squid](http://www.brooklinebooksmith-shop.com/book/9781452136479) by Aaron Reynolds, illustrated by Sara Varon
+![](/uploads/versions/presidentsquid---x----275-400x---.jpg)[President Squid](https://www.brooklinebooksmith-shop.com/book/9781452136479) by Aaron Reynolds, illustrated by Sara Varon
 
 *picture book*
 
@@ -224,7 +224,7 @@ From Liz:
 
 ![](/uploads/versions/wrinkle---x----270-400x---.jpg)
 
-[A Wrinkle in Time](http://www.brooklinebooksmith-shop.com/book/9780312367541) by Madeleine L'Engle
+[A Wrinkle in Time](https://www.brooklinebooksmith-shop.com/book/9780312367541) by Madeleine L'Engle
 
 *intermediate fiction*
 
@@ -236,7 +236,7 @@ From Joell:
 
 ---
 
-![](/uploads/versions/jackaby---x----267-400x---.jpg)[Jackaby](http://www.brooklinebooksmith-shop.com/book/9781616205461) by William Ritter
+![](/uploads/versions/jackaby---x----267-400x---.jpg)[Jackaby](https://www.brooklinebooksmith-shop.com/book/9781616205461) by William Ritter
 
 *young adult*
 

@@ -12,9 +12,9 @@ tags:
 - western MA
 - montague
 modified_datetime: '2014-09-11T18:11:30.869-04:00'
-thumbnail: http://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s72-c/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg
+thumbnail: https://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s72-c/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-931238756094639080
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/09/booksmith-visits-montague-bookmill.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2014/09/booksmith-visits-montague-bookmill.html
 ---
 As fate would have it I have been called upon to attend very few weddings at this particular time in my life. It should be mentioned that I am nearing (arguably, have arrived at) a wedding-appropriate age and my lack of weddings could change, very shortly, as my peers begin pairing up. It was pairhood itself that compelled me to attend a wedding in Western Massachusetts last Saturday; my girlfriend's cousin and his partner got hitched in a sweltering town hall while morose, bulbous clouds leaked overhead. I regrettably report, I did not perform admirably. The humidity and crowds coalesced into a sharp din inside my skull and I was abruptly excused from family obligation when I refused to re-enter community space and instead hid, perched on an outside stairwell, doing breathing exercises and suckling at a can of soda as if it contained some miraculous antidote. We left, shortly afterwards, for Amherst, to relay a back up cell phone to my sister who recently had need for one.
 
@@ -36,25 +36,25 @@ As we pulled up to the Bookmilk, those turgid clouds were looking fully ominous.
 
 
 
-| [![](http://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg)](http://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg) |
+| [![](https://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg)](https://3.bp.blogspot.com/-CQ_WLb3_qhc/VBDghAy2sxI/AAAAAAAAAf8/8wyttSIAGrQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B07%2BPM.jpg) |
 | A flutter of typewriters  |
 
 
 
-| [![](http://1.bp.blogspot.com/-S07LWlYQda8/VBDghXlbDBI/AAAAAAAAAgA/43NP_ka3Dpw/s1600/Photo%2BSep%2B06%2C%2B3%2B26%2B38%2BPM.jpg)](http://1.bp.blogspot.com/-S07LWlYQda8/VBDghXlbDBI/AAAAAAAAAgA/43NP_ka3Dpw/s1600/Photo%2BSep%2B06%2C%2B3%2B26%2B38%2BPM.jpg) |
+| [![](https://1.bp.blogspot.com/-S07LWlYQda8/VBDghXlbDBI/AAAAAAAAAgA/43NP_ka3Dpw/s1600/Photo%2BSep%2B06%2C%2B3%2B26%2B38%2BPM.jpg)](https://1.bp.blogspot.com/-S07LWlYQda8/VBDghXlbDBI/AAAAAAAAAgA/43NP_ka3Dpw/s1600/Photo%2BSep%2B06%2C%2B3%2B26%2B38%2BPM.jpg) |
 | VIP seating |
 
 
 
-| [![](http://2.bp.blogspot.com/-aHjXuwGOU1I/VBDgiw-yTlI/AAAAAAAAAgQ/eKisicaYGKQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B17%2BPM.jpg)](http://2.bp.blogspot.com/-aHjXuwGOU1I/VBDgiw-yTlI/AAAAAAAAAgQ/eKisicaYGKQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B17%2BPM.jpg) |
+| [![](https://2.bp.blogspot.com/-aHjXuwGOU1I/VBDgiw-yTlI/AAAAAAAAAgQ/eKisicaYGKQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B17%2BPM.jpg)](https://2.bp.blogspot.com/-aHjXuwGOU1I/VBDgiw-yTlI/AAAAAAAAAgQ/eKisicaYGKQ/s1600/Photo%2BSep%2B06%2C%2B3%2B22%2B17%2BPM.jpg) |
 | Misc. |
 
 Outside the windows lining the back of the store runs the Sawmill River, a thin stream that once powered a grain mill in the same building in the early 20th century. As I was promised, there is a cafe connected, and if you are so inclined you can sit and have a beer and look out of the windows at the river hastening past. In this cafe they had a few things on tap, the most interesting of which was Oskar Blues G'night Amber Ale, which I had never tasted in draft form before. Brimming with a somewhat dewey contentment after purchasing our books, we sat outside and ate sandwiches with brie and apple, kielbasa and mustard. The beer was crisp and hoppy, the blade of its malt slicing through the thick fingertip of the air. Before long, employees came and brought the book carts and the outside displays indoors. They stood in the doorway of the book mill, side by side, wondering at the sky. Any minute now, any minute now.
 
-| [![](http://3.bp.blogspot.com/-bjCLIvj2ZR4/VBIW7HRJoVI/AAAAAAAAAhQ/_jpBI04b0jQ/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B53%2BPM.jpg)](http://3.bp.blogspot.com/-bjCLIvj2ZR4/VBIW7HRJoVI/AAAAAAAAAhQ/_jpBI04b0jQ/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B53%2BPM.jpg) |
+| [![](https://3.bp.blogspot.com/-bjCLIvj2ZR4/VBIW7HRJoVI/AAAAAAAAAhQ/_jpBI04b0jQ/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B53%2BPM.jpg)](https://3.bp.blogspot.com/-bjCLIvj2ZR4/VBIW7HRJoVI/AAAAAAAAAhQ/_jpBI04b0jQ/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B53%2BPM.jpg) |
 | The bathroom - wallpapered in worn, yellow missives. |
 
-| [![](http://3.bp.blogspot.com/-LZx8v7QXee8/VBIW6BLw4JI/AAAAAAAAAhE/Wo3qAuCKysI/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B39%2BPM.jpg)](http://3.bp.blogspot.com/-LZx8v7QXee8/VBIW6BLw4JI/AAAAAAAAAhE/Wo3qAuCKysI/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B39%2BPM.jpg) |
+| [![](https://3.bp.blogspot.com/-LZx8v7QXee8/VBIW6BLw4JI/AAAAAAAAAhE/Wo3qAuCKysI/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B39%2BPM.jpg)](https://3.bp.blogspot.com/-LZx8v7QXee8/VBIW6BLw4JI/AAAAAAAAAhE/Wo3qAuCKysI/s1600/Photo%2BSep%2B06%2C%2B4%2B37%2B39%2BPM.jpg) |
 | Tell me about it. |
 
 The rain drove us out of the courtyard and, slowly, out of Montague. Through a veil of water we drove back, creeping back through route 2 towards the city, only headlights in the onslaught of rain. I would go back, willingly, eagerly. In case you, too, need an afternoon removed from reality, you should take a trip over to little Montague and take a long draft of the bookmilk. Here is where you can find it:
@@ -63,7 +63,7 @@ The rain drove us out of the courtyard and, slowly, out of Montague. Through a v
 
 440 Greenfield Rd, Montague, MA 01351  
 (413) 367-9206  
-http://www.montaguebookmill.com/ |
+https://www.montaguebookmill.com/ |
 
 Books you don't need in a place you can't find. Get not-found for a bit and visit. 
 

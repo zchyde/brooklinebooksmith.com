@@ -23,7 +23,7 @@ Specifically kick-butt lady 'centric I'm-not-helpless graphic novels. Which are 
 
 So.
 
-Let's start with *[Lumberjanes](http://www.brooklinebooksmith-shop.com/book/9781608866878)*by Noel Stevenson, Grace Ellis, and Brooke Allen
+Let's start with *[Lumberjanes](https://www.brooklinebooksmith-shop.com/book/9781608866878)*by Noel Stevenson, Grace Ellis, and Brooke Allen
 
 ---
 
@@ -33,7 +33,7 @@ Lumberjanes is like the Girl Scout camp we all really wish we went to. It is for
 
 ---
 
-Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklinebooksmith-shop.com/book/9780062278227)***which is one of my favorite stand-alone graphic novels.
+Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](https://www.brooklinebooksmith-shop.com/book/9780062278227)***which is one of my favorite stand-alone graphic novels.
 
 ---
 
@@ -41,7 +41,7 @@ Noel Stevenson also wrote and illustrated&nbsp;***[Nimona](http://www.brooklineb
 
 ---
 
-A little less known, the graphic novel series [***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**](http://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
+A little less known, the graphic novel series [***Nausicaa: of the Valley of the Wind*by Hayao Miyazaki**](https://www.brooklinebooksmith-shop.com/book/9781591164081) is just breathtaking.
 
 ---
 
@@ -49,9 +49,9 @@ A little less known, the graphic novel series [***Nausicaa: of the Valley of the
 
 ---
 
-"The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](http://comicsalliance.com/)
+"The story Disney should have been telling for the past twenty years" - [***Comics Alliance***](https://comicsalliance.com/)
 
-This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](http://www.brooklinebooksmith-shop.com/book/9781939352545),***&nbsp;and I could not agree with it more.
+This beautiful quote graces the cover of ***[Princeless Vol 1 by Jeremy Whitley and M. Goodwin](https://www.brooklinebooksmith-shop.com/book/9781939352545),***&nbsp;and I could not agree with it more.
 
 ---
 
@@ -71,7 +71,7 @@ So. Brilliant. The humor is spot-on, and the girl power is perfect. Plus, it onl
 
 ---
 
-Lastly, I have to give [Marvel](http://marvel.com/) a big high five. I am so proud to champion their new [*Marvel Now!*](http://marvel.com/comics/events/311/marvel_now) stories. This is a great bunch series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?
+Lastly, I have to give [Marvel](https://marvel.com/) a big high five. I am so proud to champion their new [*Marvel Now!*](https://marvel.com/comics/events/311/marvel_now) stories. This is a great bunch series for both kids and adults. What could be better than super heroine (or hero) series that the entire family gets a kick out of?
 
 Yup, I am head over heels in love with Kamala Khan!
 
@@ -79,7 +79,7 @@ Yup, I am head over heels in love with Kamala Khan!
 
 ![](/uploads/versions/msmarvel---x----260-400x---.jpg)
 
-The new ***[Ms Marvel](http://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](http://www.brooklinebooksmith-shop.com/book/9780785190219)** is just perfect as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
+The new ***[Ms Marvel](https://www.brooklinebooksmith-shop.com/book/9780785190219)*[by G Willow Wilson and Adrian Alphona](https://www.brooklinebooksmith-shop.com/book/9780785190219)** is just perfect as far as I'm concerned. Religion, friends, school, overbearing parents (who we love anyway), action, adventure… you name it Ms Marvel has it.
 
 ---
 

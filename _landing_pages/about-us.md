@@ -2,7 +2,7 @@
 title: About Us
 featured_image_path: /uploads/banner-about-us.jpg
 featured_image_position: 50
-featured_image_credit: '[Liz Linder](http://lizlinder.com)'
+featured_image_credit: '[Liz Linder](https://lizlinder.com)'
 fancy_font: Cabin-sketch
 description: |-
   **general email**
@@ -23,7 +23,7 @@ Brookline Booksmith, located just outside of Boston in Coolidge Corner, original
 
 &nbsp;
 
-[![](/uploads/versions/bosparents_small---x----100-100x---.png)](http://bostonparentspaper.com/article/top-5-book-stores-in-massachusetts-in-2015.html)[![](/uploads/versions/bob-clean-stack-year-solid_small---x----100-100x---.png)](http://www.bestofboston.com/winner/best-bookstore/brookline-booksmith-2015-2/)[![](/uploads/versions/winner-ribbon_small---x----100-100x---.png)](http://boston.cityvoter.com/award/brookline-booksmith-best-bookstore-2014/776022) [![](/uploads/versions/brooklinehub_small---x----100-100x---.png)](http://www.brooklinehub.com/)[![](/uploads/versions/ccma---x----100-100x---.png)](http://www.coolidgecornermerchants.com/)
+[![](/uploads/versions/bosparents_small---x----100-100x---.png)](https://bostonparentspaper.com/article/top-5-book-stores-in-massachusetts-in-2015.html)[![](/uploads/versions/bob-clean-stack-year-solid_small---x----100-100x---.png)](https://www.bestofboston.com/winner/best-bookstore/brookline-booksmith-2015-2/)[![](/uploads/versions/winner-ribbon_small---x----100-100x---.png)](https://boston.cityvoter.com/award/brookline-booksmith-best-bookstore-2014/776022) [![](/uploads/versions/brooklinehub_small---x----100-100x---.png)](https://www.brooklinehub.com/)[![](/uploads/versions/ccma---x----100-100x---.png)](https://www.coolidgecornermerchants.com/)
 
 ---
 

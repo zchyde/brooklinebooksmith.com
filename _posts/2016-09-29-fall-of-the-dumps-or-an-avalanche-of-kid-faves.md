@@ -15,7 +15,7 @@ related_books:
 ---
 
 
-As I mentioned to you all [a year ago](http://www.brooklinebooksmith.com/kidsmith/2015/08/31/the-fall-is-falling/), fall is a difficult season for booksellers. The best weather of the year is here, beverage choices are vastly, positively expanded from summer, and like ninety percent of the books we've been waiting for since February hit the shelves on a single Tuesday morning, and the whole bookselling community perishes at once, smothered beneath cardboard displays stuffed with our literary hopes and dreams.
+As I mentioned to you all [a year ago](https://www.brooklinebooksmith.com/kidsmith/2015/08/31/the-fall-is-falling/), fall is a difficult season for booksellers. The best weather of the year is here, beverage choices are vastly, positively expanded from summer, and like ninety percent of the books we've been waiting for since February hit the shelves on a single Tuesday morning, and the whole bookselling community perishes at once, smothered beneath cardboard displays stuffed with our literary hopes and dreams.
 
 ROUGH TIMES.
 
@@ -23,7 +23,7 @@ ROUGH TIMES.
 
 ![](/uploads/versions/img-4376---x----300-400x---.jpg)
 
-> *Bookseller Alex S and cardboard dump of Alex's new middle grade fave [THE INQUISITOR'S TALE](http://www.brooklinebooksmith-shop.com/book/9780525426165) (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. [ADA TWIST, SCIENTIST](http://www.brooklinebooksmith-shop.com/book/9781419721373) (Andrea Beaty and David Roberts) is pictured in large quantities in the cardboard ediface to the rear.*
+> *Bookseller Alex S and cardboard dump of Alex's new middle grade fave [THE INQUISITOR'S TALE](https://www.brooklinebooksmith-shop.com/book/9780525426165) (Adam Gidwitz and Hatem Aly) try to keep it together during this difficult time. [ADA TWIST, SCIENTIST](https://www.brooklinebooksmith-shop.com/book/9781419721373) (Andrea Beaty and David Roberts) is pictured in large quantities in the cardboard ediface to the rear.*
 
 ---
 
@@ -54,25 +54,25 @@ Here are a few books that we (Alex, Amy, Clarissa, India) want you not to miss.
 
 **This week:**
 
-Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy [*Six of Crows*](http://www.brooklinebooksmith-shop.com/book/9781627792127) is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in [*Crooked Kingdom*](http://www.brooklinebooksmith-shop.com/book/9781627792134).
+Leigh Bardugo's immediately legendary pseudo-Russian YA heist fantasy [*Six of Crows*](https://www.brooklinebooksmith-shop.com/book/9781627792127) is a store favorite, much beloved of booksellers Amy and Clarissa; this week it got its sequel in [*Crooked Kingdom*](https://www.brooklinebooksmith-shop.com/book/9781627792134).
 
-Kate Beasley's middle grade charmer [*Gertie's Leap to Greatness*](http://www.brooklinebooksmith-shop.com/book/9780374302610) won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *[Clementine](http://www.brooklinebooksmith-shop.com/book/9780786838837).*
+Kate Beasley's middle grade charmer [*Gertie's Leap to Greatness*](https://www.brooklinebooksmith-shop.com/book/9780374302610) won over Clarissa and Alex with her determined heroine, who is trying desperately to regain her absent mother by being the best kid there is. She's an obvious heir to Ramona Quimby and a great next step for readers of the wonderful Pennypacker/Frazee collaboration *[Clementine](https://www.brooklinebooksmith-shop.com/book/9780786838837).*
 
-Trenton Lee Stewart of [*The Mysterious Benedict Society*](http://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](http://www.brooklinebooksmith-shop.com/book/9780316389556),*which Amy can recommend.
+Trenton Lee Stewart of [*The Mysterious Benedict Society*](https://www.brooklinebooksmith-shop.com/book/9780316003957) delves into a magical mystery with *[The Secret-Keepers](https://www.brooklinebooksmith-shop.com/book/9780316389556),*which Amy can recommend.
 
-Jory John and Lane Smith team up (to our collective delight) for the extremely relatable picture book *[Penguin Problems](http://www.brooklinebooksmith-shop.com/book/9780553513370),* the tale of a penguin who sees the bad in everything until a wise old walrus helps him cool his jets.
+Jory John and Lane Smith team up (to our collective delight) for the extremely relatable picture book *[Penguin Problems](https://www.brooklinebooksmith-shop.com/book/9780553513370),* the tale of a penguin who sees the bad in everything until a wise old walrus helps him cool his jets.
 
 Adam Gidwitz and Hatem Aly, in *The Inquisitor's Tale,* weave a middle grade story about three miracle-slinging thirteenth-century kids, their recently resurrected dog, and a mission to save the precious Jewish books of France–all told through a roomful of strangers who don't know the ending. This is a team favorite, and we advise you to pay close attention to how the pictures do (and don't) agree with the text.
 
 **In the last few weeks:**
 
-Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the style, she's gone full contemporary YA retelling, in [*Sometimes We Tell the Truth*](http://www.brooklinebooksmith-shop.com/book/9781481464994)–one of India's favorite recent reads, which you can find on our Staff Picks shelf at the front of the store during the month of October.
+Kim Zarins also takes on *The Canterbury Tales*, but instead of mimicking the style, she's gone full contemporary YA retelling, in [*Sometimes We Tell the Truth*](https://www.brooklinebooksmith-shop.com/book/9781481464994)–one of India's favorite recent reads, which you can find on our Staff Picks shelf at the front of the store during the month of October.
 
-Sungju Lee's memoir *[Every Falling Star](http://www.brooklinebooksmith-shop.com/book/9781419721328),*written with Susan McClelland, is the first work of YA nonfiction published in the U.S. concerning life in North Korea. This is one of Clarissa's favorites this year, which I've heard her talk about more than once as an absolutely stunning book.
+Sungju Lee's memoir *[Every Falling Star](https://www.brooklinebooksmith-shop.com/book/9781419721328),*written with Susan McClelland, is the first work of YA nonfiction published in the U.S. concerning life in North Korea. This is one of Clarissa's favorites this year, which I've heard her talk about more than once as an absolutely stunning book.
 
-David Arnold of [*Mosquitoland*](http://www.brooklinebooksmith-shop.com/book/9780147513656) has followed up with new standalone YA novel *[Kids of Appetite](http://www.brooklinebooksmith-shop.com/book/9780451470782),*which is about death, love, [*The Outsiders*](http://www.brooklinebooksmith-shop.com/book/9780142407332), and how you get from one place to another–kind of. Amy loves it. Trust Amy.
+David Arnold of [*Mosquitoland*](https://www.brooklinebooksmith-shop.com/book/9780147513656) has followed up with new standalone YA novel *[Kids of Appetite](https://www.brooklinebooksmith-shop.com/book/9780451470782),*which is about death, love, [*The Outsiders*](https://www.brooklinebooksmith-shop.com/book/9780142407332), and how you get from one place to another–kind of. Amy loves it. Trust Amy.
 
-[*The Swan Riders*](http://www.brooklinebooksmith-shop.com/book/9781481442749) is the sequel to Erin Bow's *[The Scorpion Rules](http://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/)*and–listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
+[*The Swan Riders*](https://www.brooklinebooksmith-shop.com/book/9781481442749) is the sequel to Erin Bow's *[The Scorpion Rules](https://www.brooklinebooksmith.com/2015/10/26/alex-is-readingthe-scorpion-rules/)*and–listen, I know that true heart books that fit everything you love in a story are personal and rare, but this is mine. Wounded, wise-cracking, world-ruling AIs, power struggles, personalities vying for dominance, dangerous journeys, clever plots, weird allegiances, world-altering decision making, and a willingness to do good or a decision not to care that rides on a knife's edge. It's wonderful.
 
 So these are some of the books we're currently buried under. They're awesome and good and we would love to talk to you about them. Just dig us out and ask.
 

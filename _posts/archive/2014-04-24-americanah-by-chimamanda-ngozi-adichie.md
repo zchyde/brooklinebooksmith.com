@@ -8,11 +8,11 @@ tags:
 - americanah
 - chimamanda ngozi adichie
 modified_datetime: '2014-04-24T12:00:42.064-04:00'
-thumbnail: http://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s72-c/americanah.png
+thumbnail: https://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s72-c/americanah.png
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-9074958763352868200
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/04/americanah-by-chimamanda-ngozi-adichie.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2014/04/americanah-by-chimamanda-ngozi-adichie.html
 ---
-[![](http://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s1600/americanah.png)](http://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s1600/americanah.png)
+[![](https://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s1600/americanah.png)](https://1.bp.blogspot.com/-4InhpU3FaZ0/U1AB_P66PHI/AAAAAAAAPvc/kGHI5H-4EI0/s1600/americanah.png)
 
 If you were to ask the question “what is _Americanah_ about?” you’d get a list of broad ideas – _Americanah _is a book about race, about love, about the immigrant experience. And you should read _Americanah_ for the characters' take on those subjects. The novel's protagonists, Obinze and Ifemelu, are sharply observant, turning everyday occurrences - conversation at dinner, two neighbors sitting on a porch, a couple of flipping through fashion magazines, and even a woman going to the salon - into fascinating scenes. Every day, on the train, browsing at a bookstore, you are among people who you know almost nothing about, who have had vastly different experiences than you and who are carrying the weight of their day, of their emotions. Interacting with strangers is always a practice in empathy. And after reading _Americanah_ I was reminded how when you lack certain tools, like a common language, talking to the person behind you in line at the grocery store can be a very tense moment, full of misunderstanding.
 

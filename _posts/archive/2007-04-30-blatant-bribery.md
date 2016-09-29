@@ -6,11 +6,11 @@ author: Lori
 tags:
 modified_datetime: '2007-04-30T17:27:05.487-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4508923018420979606
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2007/04/blatant-bribery.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2007/04/blatant-bribery.html
 ---
 I wanted to be a bookseller because you get discounted books. Then I found out you could actually get free books, and I knew what I wanted to do for life. Publishers send us ARCs (Advance Reading Copies) so that we will read the book, hopefully like it, and therefore want to sell it (with fervor!) to all who come in the door.
 
-I tend to call these freebies galleys rather than ARCs. This is because whenever anyone says the latter all I can think of are [creatures from Lord of the Rings](http://en.wikipedia.org/wiki/Orc_(Middle-earth)). Technically there is a difference between a [galley](http://en.wikipedia.org/wiki/Galley_proof) and an [ARC](http://en.wikipedia.org/wiki/Advance_reading_copy), but I’m going to go ahead and call them all galleys anyways.
+I tend to call these freebies galleys rather than ARCs. This is because whenever anyone says the latter all I can think of are [creatures from Lord of the Rings](https://en.wikipedia.org/wiki/Orc_(Middle-earth)). Technically there is a difference between a [galley](https://en.wikipedia.org/wiki/Galley_proof) and an [ARC](https://en.wikipedia.org/wiki/Advance_reading_copy), but I’m going to go ahead and call them all galleys anyways.
 
 So, the point of that was to let you know that I am going to bribe you to read my blog by occasionally giving away galleys to you, dear reader! I have two today up for grabs.
 

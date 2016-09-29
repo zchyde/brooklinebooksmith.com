@@ -14,11 +14,11 @@ tags:
 - Confessions
 - e-book
 modified_datetime: '2010-05-01T16:09:28.188-04:00'
-thumbnail: http://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s72-c/burgess-kindle.jpg
+thumbnail: https://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s72-c/burgess-kindle.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-273572289138579945
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2010/05/reading-toys-kindle-talk.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2010/05/reading-toys-kindle-talk.html
 ---
-[![](http://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s320/burgess-kindle.jpg)](http://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s1600/burgess-kindle.jpg)
+[![](https://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s320/burgess-kindle.jpg)](https://3.bp.blogspot.com/_L2x1PCw1zuI/S9yBUpRGdQI/AAAAAAAAADw/epwYaa2l7x0/s1600/burgess-kindle.jpg)
 
 Dana graciously lent me the kindle that we bought for the store to see what all the fuss was about...."know thine enemy" and so on...I took the device home intent on giving it a real chance...and the following is exactly what happened.
 

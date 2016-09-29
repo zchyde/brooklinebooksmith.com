@@ -15,7 +15,7 @@ books:
 ---
 
 
-Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fantasy writing published in 2015, presented this past weekend (fittingly, the men who *did* receive an award were George Miller, Brendan McCarthy and Nick Lathouris, who took home the **Ray Bradbury Award for Outstanding Dramatic Presentation** for their screenplay *Mad Max: Fury Road*, [widely](http://nypost.com/2015/05/14/why-mad-max-fury-road-is-the-feminist-picture-of-the-year/) [hailed](http://www.theverge.com/2015/5/20/8620229/mad-max-fury-road-anti-feminist-mens-rights-boycott) [as](http://www.hitfix.com/harpy/7-ways-mad-max-fury-road-sublimely-subverts-movie-sexism) [a](https://www.buzzfeed.com/lauriepenny/the-fast-and-the-feminist?utm_term=.jezMv76Gm#.iiok92zm4) [feminist](http://www.themarysue.com/george-miller-feminist-answer-franchise/) [magnum](http://www.theguardian.com/commentisfree/2015/may/27/sexists-are-scared-of-mad-max-because-it-is-a-call-to-dismantle-patriarchies) [opus](http://www.gender-focus.com/2015/05/26/who-killed-the-world-the-complicated-feminism-of-mad-max-fury-road/).) The winners, which are selected by the [Science Fiction & Fantasy Writers of America](http://www.sfwa.org/), stand in stark contrast to [the shortlist for this year's Hugo Awards](http://www.theguardian.com/books/2016/apr/26/hugo-awards-shortlist-rightwing-campaign-sad-rabid-puppies): this other major sci-fi/fantasy literary prize's ballot system was hijacked for the second year running by right-wing factions who [protest the rising prominence](http://www.theatlantic.com/entertainment/archive/2015/04/the-culture-wars-come-to-sci-fi/390012/) of women, queer writers, and writers of color within the genre.
+Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fantasy writing published in 2015, presented this past weekend (fittingly, the men who *did* receive an award were George Miller, Brendan McCarthy and Nick Lathouris, who took home the **Ray Bradbury Award for Outstanding Dramatic Presentation** for their screenplay *Mad Max: Fury Road*, [widely](https://nypost.com/2015/05/14/why-mad-max-fury-road-is-the-feminist-picture-of-the-year/) [hailed](https://www.theverge.com/2015/5/20/8620229/mad-max-fury-road-anti-feminist-mens-rights-boycott) [as](https://www.hitfix.com/harpy/7-ways-mad-max-fury-road-sublimely-subverts-movie-sexism) [a](https://www.buzzfeed.com/lauriepenny/the-fast-and-the-feminist?utm_term=.jezMv76Gm#.iiok92zm4) [feminist](https://www.themarysue.com/george-miller-feminist-answer-franchise/) [magnum](https://www.theguardian.com/commentisfree/2015/may/27/sexists-are-scared-of-mad-max-because-it-is-a-call-to-dismantle-patriarchies) [opus](https://www.gender-focus.com/2015/05/26/who-killed-the-world-the-complicated-feminism-of-mad-max-fury-road/).) The winners, which are selected by the [Science Fiction & Fantasy Writers of America](https://www.sfwa.org/), stand in stark contrast to [the shortlist for this year's Hugo Awards](https://www.theguardian.com/books/2016/apr/26/hugo-awards-shortlist-rightwing-campaign-sad-rabid-puppies): this other major sci-fi/fantasy literary prize's ballot system was hijacked for the second year running by right-wing factions who [protest the rising prominence](https://www.theatlantic.com/entertainment/archive/2015/04/the-culture-wars-come-to-sci-fi/390012/) of women, queer writers, and writers of color within the genre.
 
 ---
 
@@ -23,7 +23,7 @@ Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fa
 
 ---
 
-**Best Novel**: *[Uprooted](http://www.brooklinebooksmith-shop.com/book/9780804179058)* by [Naomi Novik](http://www.brooklinebooksmith-shop.com/search/author/%22Novik%2C%20Naomi%22) (whom we [LOVE](http://www.brooklinebooksmith.com/2015/07/27/alex-is-readinguprooted/))
+**Best Novel**: *[Uprooted](https://www.brooklinebooksmith-shop.com/book/9780804179058)* by [Naomi Novik](https://www.brooklinebooksmith-shop.com/search/author/%22Novik%2C%20Naomi%22) (whom we [LOVE](https://www.brooklinebooksmith.com/2015/07/27/alex-is-readinguprooted/))
 
 ![uprooted](/uploads/cover-uprooted.jpg)
 
@@ -33,7 +33,7 @@ Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fa
 
 ---
 
-**Best Novella**: [*Binti*](http://www.brooklinebooksmith-shop.com/book/9780765385253) by [Nnedi Okorafor](http://www.brooklinebooksmith-shop.com/search/author/%22Okorafor%2C%20Nnedi%22) (whom we [also LOVE](http://www.brooklinebooksmith.com/2016/03/15/short-on-time/))
+**Best Novella**: [*Binti*](https://www.brooklinebooksmith-shop.com/book/9780765385253) by [Nnedi Okorafor](https://www.brooklinebooksmith-shop.com/search/author/%22Okorafor%2C%20Nnedi%22) (whom we [also LOVE](https://www.brooklinebooksmith.com/2016/03/15/short-on-time/))
 
 
 ![uprooted](/uploads/cover-binto.jpg)
@@ -44,7 +44,7 @@ Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fa
 
 ---
 
-**Best Novelette**: ["Our Lady of the Open Road"](http://www.sarahpinsker.com/our_lady_of_the_open_road/) by [Sarah Pinsker](http://www.sarahpinsker.com/index)
+**Best Novelette**: ["Our Lady of the Open Road"](https://www.sarahpinsker.com/our_lady_of_the_open_road/) by [Sarah Pinsker](https://www.sarahpinsker.com/index)
 
 ![asimov](/uploads/cover-asimov.jpg)
 
@@ -53,13 +53,13 @@ Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fa
 ---
 
 ![asimov](/uploads/graphic.jpg) 
-**Best Short Story**: ["Hungry Daughters of Starving Mothers"](http://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/) by [Alyssa Wong](http://www.nightmare-magazine.com/authors/alyssa-wong/)
+**Best Short Story**: ["Hungry Daughters of Starving Mothers"](https://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/) by [Alyssa Wong](https://www.nightmare-magazine.com/authors/alyssa-wong/)
 
 
 
 ---
 
-**Andre Norton Award for YA Science Fiction and Fantasy**: [*Updraft*](http://www.brooklinebooksmith-shop.com/book/9780765377838) by [Fran Wilde](http://www.brooklinebooksmith-shop.com/search/author/%22Wilde%2C%20Fran%22)
+**Andre Norton Award for YA Science Fiction and Fantasy**: [*Updraft*](https://www.brooklinebooksmith-shop.com/book/9780765377838) by [Fran Wilde](https://www.brooklinebooksmith-shop.com/search/author/%22Wilde%2C%20Fran%22)
 
 ![updraft](/uploads/cover-updraft.jpg)
 
@@ -67,4 +67,4 @@ Women writers came close to sweeping the Nebula Awards for outstanding sci-fi/fa
 
 ---
 
-You can read a complete list of Nebula winners (and many outstanding nominees) [here](http://www.sfwa.org/nebula-awards/).
+You can read a complete list of Nebula winners (and many outstanding nominees) [here](https://www.sfwa.org/nebula-awards/).

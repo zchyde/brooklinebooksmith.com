@@ -6,9 +6,9 @@ author: Zoe Hyde
 tags:
 modified_datetime: '2011-05-20T01:59:02.545-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4001199747526505963
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/05/i-know-its-too-long-once-i-start-i-cant.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/05/i-know-its-too-long-once-i-start-i-cant.html
 ---
-[![](http://andrewteman.org/blog/wp-content/uploads/sweetlogo.gif)](http://andrewteman.org/blog/wp-content/uploads/sweetlogo.gif)
+[![](https://andrewteman.org/blog/wp-content/uploads/sweetlogo.gif)](https://andrewteman.org/blog/wp-content/uploads/sweetlogo.gif)
 
 On this blessed mound of dirt hurtling through the infinite wonders of space there are three words that have an uncanny ability to stop me in my tracks. Three simple words that will steal my attention away, no matter the location; exotic locale, mardi gras parade, civil war reenactment - white sand beaches and gunpowder clouds are equally left in the dusty majesty (majestic dust) of these three little words.
 
@@ -28,7 +28,7 @@ I don't remember actively ever not wanting to read, but I wasn't much of a reade
 
 But I digress. What did I, a young, creative individual with ~~(yet unrealized????)~~ potential ~~(for making grilled cheese)~~ for making meaningful yet infotaining (see what I did there?) blog posts read when I was but a pup?
 
-![](http://img.photobucket.com/albums/v373/Nuhbrans/SweepSeries1.jpg)
+![](https://img.photobucket.com/albums/v373/Nuhbrans/SweepSeries1.jpg)
 
 For kids in that age bracket, I think the best thing you can do is let them read trashy Young Adult series like these. The writing is not challenging, but I think this was my first exposure to the concept that a storyline could be so exciting that, mom, we have to go - no - we have to go to the store NOW because they close IN LIKE, AN HOUR, MOM and if I don't know what happens to the main character I WILL VANISH FROM THIS EARTH. SERIOUSLY MOM. GET YOUR PURSE. Please, I said please already, can we just go, okay?
 

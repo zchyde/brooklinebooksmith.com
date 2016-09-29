@@ -9,11 +9,11 @@ tags:
 modified_datetime: '2012-01-14T13:32:10.217-05:00'
 thumbnail: https://img.youtube.com/vi/cp8o_xCFl0I/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5221771583086312428
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2012/01/keep-our-secrets-by-jordan-crane.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2012/01/keep-our-secrets-by-jordan-crane.html
 ---
 This is an emergency blogpost by Zoe and Katrina! Do not attempt to adjust your television! Last night we were closing and discovered this book on the gift books table:
 
-[![](http://www.hbook.com/wp-content/uploads/2011/10/keep-our-secrets1.jpg)](http://www.hbook.com/wp-content/uploads/2011/10/keep-our-secrets1.jpg)
+[![](https://www.hbook.com/wp-content/uploads/2011/10/keep-our-secrets1.jpg)](https://www.hbook.com/wp-content/uploads/2011/10/keep-our-secrets1.jpg)
 
 ﻿At first, I this was a slightly bizarre but interesting board book, but upon further inspection, I discovered that the point of the book is to heat up the black areas of the book with your hands or, more effectively, a hair dryer.
 

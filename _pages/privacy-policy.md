@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 
 ### 1. Terms
 
-By accessing the web site at [http://www.brooklinebooksmith.com](http://www.brooklinebooksmith.com)&nbsp;you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trademark law.
+By accessing the web site at [https://www.brooklinebooksmith.com](https://www.brooklinebooksmith.com)&nbsp;you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trademark law.
 
 ### 2. Use License
 

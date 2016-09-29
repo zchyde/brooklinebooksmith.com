@@ -6,7 +6,7 @@ author: Zoe Hyde
 tags:
 modified_datetime: '2011-04-21T20:46:39.855-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3379625857261447925
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/in-which-we-watch-our-heroine-revisit.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/04/in-which-we-watch-our-heroine-revisit.html
 ---
 So the front of the book store, you may have noticed, especially if you work there, has undergone a make over of epic proportions (which I just spelled three different ways, all wrong. Gosh words is hard.) in the past few weeks. We have created an area of journals, special paper, art supplies, cards, and various other items and supplies that you creative types might require to pen down your copious emotions and flights of whimsy. Dude, I get it. I got whimsy coming out of my pores, as evidenced by every post I ever make here. I'm often in several different places at once. Because of that, I have a specific relationship with journals that goes back to when I was a kid. I come from a fairly large family, most of which I don't really remember ever meeting before I was around 12 and we started doing an annual family reunion. I also have some extended family that I often tend to see around Christmas, but not too much outside of that.
 
@@ -22,7 +22,7 @@ Thats why I recommended the "VS" journals we have at the store for my staff rec 
 
 Not to end this post on a bummer, but harsh, Steven. Way to crush my brittle 11-year-old heart. Its probably your fault that I'm like this.
 
-![](http://lakersblog.latimes.com/.a/6a00d8341c506253ef01157129453a970c-320wi)
+![](https://lakersblog.latimes.com/.a/6a00d8341c506253ef01157129453a970c-320wi)
 
 As ever, peace to the homies, no love for the scrubs. Steven.
 xoxox, Zoe.

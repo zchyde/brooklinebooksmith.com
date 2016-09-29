@@ -6,7 +6,7 @@ author: Kylie Brien
 tags:
 modified_datetime: '2015-02-08T13:55:26.141-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5215572825728819573
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_8.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_8.html
 ---
 Like most adults who refuse to grow up, I have an incurable case of Imagination. On any given day I consider applying to Hogwarts to teach Muggle Studies or wonder if today will finally be the day my closet exposes a secret entrance to Narnia. A side effect of this chronic affliction is that I have an unusual fascination with fairy tales and all things mythical, strange, and/or imaginary.
 So it should not come as a surprise to anyone that books about fairy tales, adaptations of fairy tales, or anything remotely whimsical hold a special place in my heart. One moment I can be a princess knight successfully battling a fire-breathing dragon with insufficient weapons and the other, a down-on-her-luck maid who just inherited the nicest fairy godmother. I can learn more about the adventurous lives of unicorns or I can read about a kindhearted gorgon who is just misunderstood by everyone else in the village. Books that make us think in unique or magical ways are necessary for those of us with Imagination to survive.

@@ -35,6 +35,6 @@ Though Beatrix Potter is often portrayed as having had a rather sad childhood, a
 
 One of the most fascinating stories that Emma shared with us was the story of Potter's views on marriage. She fell in love and became secretly engaged to her publisher Norman Warne. Her parents did not approve of the engagement, but their disapproval was not long lived. A month after becoming engaged, Warne died of leukemia. Emma pointed out to us that Beatrix essentially suffered in silence after his death. You were nobody in society as a woman until you were married–which didn't happen for her until she was 47. This explains why she described marriage as, "the crown of a woman's life." With marriage came a new found freedom, and Potter's motivation for writing and illustrating had essentially come to an end.
 
-For more information on the collections at Blythe House[http://www.vam.ac.uk/content/articles/t/beatrix-potter-collections/](http://www.vam.ac.uk/content/articles/t/beatrix-potter-collections/), click here
+For more information on the collections at Blythe House[https://www.vam.ac.uk/content/articles/t/beatrix-potter-collections/](https://www.vam.ac.uk/content/articles/t/beatrix-potter-collections/), click here
 
 Photos published with kind permission from The Victoria and Albert Museum

@@ -6,7 +6,7 @@ author: Kat
 tags:
 modified_datetime: '2014-05-03T15:00:01.708-04:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8375820992578777260
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2014/05/leaving-on-jet-plane.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2014/05/leaving-on-jet-plane.html
 ---
 When I was 10 years old, my grandfather decided that he was going to throw away a couple years’ worth of National Geographic Magazines. I was struck by a cool picture on the front of one and asked if I could have them instead. I spent that summer sailing down the Orinoco River, dancing salsa in Old Havana, exploring chimpanzee reserves in Tanzania, and climbing K2 through the pages. I rode camels in the Sahara and horses in Petra. I learned about Cossacks and Roma. I created a list of food I wanted to try with names I couldn’t spell, let alone pronounce. The travel bug hit me hard.
 

@@ -6,11 +6,11 @@ author: Alex S
 tags:
 - alex is reading
 modified_datetime: '2015-03-02T13:08:00.724-05:00'
-thumbnail: http://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s72-c/red%2Bglove.jpg
+thumbnail: https://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s72-c/red%2Bglove.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-8115528031677246661
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingred-glove.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/03/alex-is-readingred-glove.html
 ---
-[![](http://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s1600/red%2Bglove.jpg)](http://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s1600/red%2Bglove.jpg)
+[![](https://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s1600/red%2Bglove.jpg)](https://4.bp.blogspot.com/-xHzi86YkvvE/VPSdH_1OZyI/AAAAAAAAAFg/QOWERcKHFI8/s1600/red%2Bglove.jpg)
 
 You might know from Twitter (or from coming into the store) that along with TEN MILLION INCHES OF SNOW, the new year has brought the Booksmith a bigger Young Adult section! Yaaaaaaaaaaaaay! One of the great things about this is that, to keep all the current YA books from falling over in little lonely piles, we have to get _more_ books to fill those new shelves up. Like, for example, a friend for **Holly Black's WHITE CAT**: its sequel, **RED GLOVE.**  
 

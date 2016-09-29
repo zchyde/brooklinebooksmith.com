@@ -8,11 +8,11 @@ tags:
 - "#WeNeedDiverseBooks"
 - kids books
 modified_datetime: '2015-01-05T10:07:18.170-05:00'
-thumbnail: http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s72-c/tomboy.jpg
+thumbnail: https://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s72-c/tomboy.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2138289306573014304
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/01/alex-is-readingtomboy.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/01/alex-is-readingtomboy.html
 ---
-[![](http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg)](http://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg)
+[![](https://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg)](https://1.bp.blogspot.com/-Fe06rfAsdGU/VKqj6PbkO9I/AAAAAAAAABo/9vYAxYJpdNg/s1600/tomboy.jpg)
 
 I feel like I've gotten really behind on my comics reading lately, but this one has been on my radar for awhile, and I FINALLY sat down with it this week. **TOMBOY by Liz Prince**is a graphic memoir of Liz's search for gender identity in a culture that frequently subscribes to only two distinct boxes: Girly Girl and Guy Stuff. Funny, lively, and unafraid of being a little bit complicated, _Tomboy_ is a great book for anyone who questions (or wants to question) the rules of gender. We have it shelved in adult Graphica, but it's appropriate for middle school and up.
 

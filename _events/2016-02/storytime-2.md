@@ -2,7 +2,7 @@
 title: "**Children's Storytime**"
 published: true
 start_at: 2016-02-28T10:30:00.000Z
-image_path: 'http://images.brooklinebooksmith.com/kids_storytime_web.jpg'
+image_path: 'https://images.brooklinebooksmith.com/kids_storytime_web.jpg'
 program: childrens-story-time
 ---
 

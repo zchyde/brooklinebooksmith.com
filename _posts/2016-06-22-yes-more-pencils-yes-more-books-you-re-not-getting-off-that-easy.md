@@ -39,7 +39,7 @@ As the old sing-song says: &nbsp;
 <br>CLACK CLACK CLACK CLACK CLACK CLACK!
 <br>
 <br>Thanks for reading,
-<br>[Paul](http://www.ptpainter.com/)
+<br>[Paul](https://www.ptpainter.com/)
 <br>
-<br>currently reading&nbsp;[Infomocracy&nbsp;](http://www.brooklinebooksmith-shop.com/book/9780765385154)by Malka Older.
+<br>currently reading&nbsp;[Infomocracy&nbsp;](https://www.brooklinebooksmith-shop.com/book/9780765385154)by Malka Older.
 <br>currently listening for the sweet jingle of the ice cream truck.

@@ -2,7 +2,7 @@
 title: '**Theresa Rebeck**  *I’m Glad About You*'
 published: true
 start_at: 2016-03-03T19:00:00.000Z
-image_path: 'http://static01.nyt.com/images/2016/02/14/books/review/14EGAN/14EGAN-master180.jpg'
+image_path: 'https://static01.nyt.com/images/2016/02/14/books/review/14EGAN/14EGAN-master180.jpg'
 book_category: FICTION
 program: '-writers-and-readers'
 ticketed: false

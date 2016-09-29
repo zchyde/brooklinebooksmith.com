@@ -17,7 +17,7 @@ books:
 
 So, April is Autism Awareness Month, and this fits with a book I've been wanting to share with you.
 
-One of my favorite young adult reads in recent months has been Corinne Duyvis's&nbsp;[*On the Edge of Gone*](http://www.brooklinebooksmith-shop.com/book/9781419719035). This sci-fi disaster story embraces the classic&nbsp;*Armageddon*-style world-choking, dino-killing impact to end all impacts. Unlike the meteor in*&nbsp;Armageddon*, the comet in this book hits, and it hits hard. Earth's atmosphere is clogged, the world's technological and material infrastructures are decimated, food is scarce and natural disasters are kicked into high gear. Most of the action involves Amsterdam teenager Denise trying to achieve the impossible and get herself, her missing sister, and their drug-dependent mother passage on a private generation ship before it leaves Earth for good.
+One of my favorite young adult reads in recent months has been Corinne Duyvis's&nbsp;[*On the Edge of Gone*](https://www.brooklinebooksmith-shop.com/book/9781419719035). This sci-fi disaster story embraces the classic&nbsp;*Armageddon*-style world-choking, dino-killing impact to end all impacts. Unlike the meteor in*&nbsp;Armageddon*, the comet in this book hits, and it hits hard. Earth's atmosphere is clogged, the world's technological and material infrastructures are decimated, food is scarce and natural disasters are kicked into high gear. Most of the action involves Amsterdam teenager Denise trying to achieve the impossible and get herself, her missing sister, and their drug-dependent mother passage on a private generation ship before it leaves Earth for good.
 
 In short, Denise is swimming against the current, except that in this case the current is a giant tsunami rearing up to crush her entire city. But as tense as the plot is, and as horrifying the flooded, darkened landscape may be, one of the most compelling things about this book is its narrator. Denise's difficulty in securing passage isn't limited to her mother's addiction or her trans sister's gender identity. Denise is also autistic,\* and on a ship where everyone is selected for utility, it's distressingly reasonable to fear that her behaviors and needs will be viewed as not worth saving.&nbsp;
 
@@ -35,8 +35,8 @@ April is Autism Awareness Month. For those of you who, like me, are not on the a
 
 Suggested further browsing:&nbsp;
 
-* Reviewers discuss autism on&nbsp;[Disability in Kidlit](http://disabilityinkidlit.com/disability/autism/)
-* Corinne Duyvis interviewed on [Thinking Person's Guide to Autism](http://www.thinkingautismguide.com/2016/04/on-edge-of-gone-corinne-duyvis-on-post.html)
+* Reviewers discuss autism on&nbsp;[Disability in Kidlit](https://disabilityinkidlit.com/disability/autism/)
+* Corinne Duyvis interviewed on [Thinking Person's Guide to Autism](https://www.thinkingautismguide.com/2016/04/on-edge-of-gone-corinne-duyvis-on-post.html)
 
 
 <br>\*Note: Many people have a strong preference between the terms&nbsp;*autistic&nbsp;*and&nbsp;*person with autism.*&nbsp;I'm sticking with the former here based on the language of the book and how Corinne Duyvis has described her own feelings regarding terminology.

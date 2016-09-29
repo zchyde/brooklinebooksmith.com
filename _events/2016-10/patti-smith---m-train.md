@@ -16,7 +16,7 @@ Brookline Booksmith and WBUR are proud to present Patti Smith, the National Book
 
 **This event will be held at the Berklee Performance Center. At the end of the program, Patti will perform a few songs with musician Tony Shanahan. There will not be a signing following the performance.**
 
-##### This event requires tickets which are $25.00 each and include one paperback copy of M Train. [Tickets are available through the Berklee box office or by clicking here.](http://www.etix.com/ticket/p/8734738/brookline-booksmith-presents-patti-smith-for-m-train-in-conversation-with-michael-patrick-macdonald-boston-berklee-performance-center)
+##### This event requires tickets which are $25.00 each and include one paperback copy of M Train. [Tickets are available through the Berklee box office or by clicking here.](https://www.etix.com/ticket/p/8734738/brookline-booksmith-presents-patti-smith-for-m-train-in-conversation-with-michael-patrick-macdonald-boston-berklee-performance-center)
 
 ##### &nbsp;
 

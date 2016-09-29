@@ -17,7 +17,7 @@ books:
 
 ![](/uploads/versions/mg_1024-compressor---x----500-500x---.jpg)
 
-Here at Brookline Booksmith we have everything you need to inspire you this summer.&nbsp; Before your vacation (or staycation) cycle through our great titles, helpful travel guides and nifty magazines like [Far Ride](http://farridemag.com/main).
+Here at Brookline Booksmith we have everything you need to inspire you this summer.&nbsp; Before your vacation (or staycation) cycle through our great titles, helpful travel guides and nifty magazines like [Far Ride](https://farridemag.com/main).
 
 *Far Ride* is a periodical dedicated to documenting cycling journeys around the world. The beautiful photos and detailed articles illuminate the world of adventure cycling – a challenging but rewarding way to travel.&nbsp;
 
@@ -25,7 +25,7 @@ Here at Brookline Booksmith we have everything you need to inspire you this summ
 
 ![](/uploads/versions/mg_0950-compressor---x----750-500x---.jpg)
 
-If you're spending time indoors grab a copy of [The Bicycling Coloring Book – Journey to the Edge of the World by Shan Jiang&nbsp;](http://www.brooklinebooksmith-shop.com/book/9781780677491)
+If you're spending time indoors grab a copy of [The Bicycling Coloring Book – Journey to the Edge of the World by Shan Jiang&nbsp;](https://www.brooklinebooksmith-shop.com/book/9781780677491)
 
 This detailed coloring book will certainly take you places. While most coloring books are geared toward calming meditation, this book asks its audience to journey into a wild, psychedelic new reality.&nbsp;
 

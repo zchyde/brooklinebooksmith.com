@@ -19,14 +19,14 @@ related_books:
 <br>
 <br>Booksmith knows that every parent looks for ways to make the entry into a new school year as painless as possible for themselves, and that's why we've started carrying a variety of bottle openers and flasks.
 <br>Wait, let me start over.
-<br>Booksmith knows that every parent looks for ways to make the entry into a new school year as painless as possible for *their child*, and that's why we always stock up on the most fun and thoughtful back-to-school books and gear. Right inside the front door you'll find an all-ages-appropriate variety of writing tools, electronic accessories, lunch storage, spitball ammunition, and plenty of handpicked books to offer [encouragement](http://www.brooklinebooksmith-shop.com/book/9780385384711) for [little ones](http://www.brooklinebooksmith-shop.com/book/9781442422483) facing [scary first days](http://www.brooklinebooksmith-shop.com/book/9780553509441).
+<br>Booksmith knows that every parent looks for ways to make the entry into a new school year as painless as possible for *their child*, and that's why we always stock up on the most fun and thoughtful back-to-school books and gear. Right inside the front door you'll find an all-ages-appropriate variety of writing tools, electronic accessories, lunch storage, spitball ammunition, and plenty of handpicked books to offer [encouragement](https://www.brooklinebooksmith-shop.com/book/9780385384711) for [little ones](https://www.brooklinebooksmith-shop.com/book/9781442422483) facing [scary first days](https://www.brooklinebooksmith-shop.com/book/9780553509441).
 <br>We'll turn end of summer *ennui*\* into an autumnal surge of *esprit de corps*\*\*!
-<br>And if none of our ideas does the trick, [get your kid one of these](http://www.thisiscolossal.com/2016/08/slow-dance-picture-frame-illusion/). It won't help with school and all that, but everyone will feel better just having it around.
+<br>And if none of our ideas does the trick, [get your kid one of these](https://www.thisiscolossal.com/2016/08/slow-dance-picture-frame-illusion/). It won't help with school and all that, but everyone will feel better just having it around.
 <br>
 <br>*\*from Webster's: "Ennui: the feeling of making mac-n-cheese out of the box for the second time on a hot summer day"
 <br>\*\*from Webster's: "Esprit de corps: a momentary cessation of ennui"*
 <br>
 <br>Thanks for reading,
-<br>[Paul](http://www.ptpainter.com/)
-<br>currently planning to break into the Harvard archives. [Wait, I don't have to!](http://www.curbed.com/2016/8/16/12501222/bauhaus-harvard-collection-works)
+<br>[Paul](https://www.ptpainter.com/)
+<br>currently planning to break into the Harvard archives. [Wait, I don't have to!](https://www.curbed.com/2016/8/16/12501222/bauhaus-harvard-collection-works)
 <br>currently listening to [Tapha Niang](https://www.youtube.com/watch?v=llr2_E0dFRE) by Toumani Diabate's Symmetric Orchestra.

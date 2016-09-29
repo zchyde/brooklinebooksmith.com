@@ -8,11 +8,11 @@ tags:
 - picture books
 - kids books
 modified_datetime: '2015-02-02T09:00:05.939-05:00'
-thumbnail: http://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s72-c/IMG_0090(1).JPG
+thumbnail: https://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s72-c/IMG_0090(1).JPG
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-6413143070357599742
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/alex-is-readingpicture-books.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/02/alex-is-readingpicture-books.html
 ---
-[![](http://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s1600/IMG_0090(1).JPG)](http://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s1600/IMG_0090(1).JPG)
+[![](https://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s1600/IMG_0090(1).JPG)](https://4.bp.blogspot.com/-iZPpaxKkq0w/VM0Eo-_rLhI/AAAAAAAAAEs/grArNlulbe8/s1600/IMG_0090(1).JPG)
 
 In the middle of reading so many great novels for young readers, it's sometimes easy to forget the quickest reads of all--but a picture book you love when you're three will stay with you for the rest of your life. Here's a handful of picture books I've been reading recently, which you may not have seen before, but might well turn into family favorites.  
 

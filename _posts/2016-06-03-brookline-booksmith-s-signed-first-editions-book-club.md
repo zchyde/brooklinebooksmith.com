@@ -21,4 +21,4 @@ We're proud to announce our very own Signed First Editions Book Club! Think of i
 
 Every one of these titles come with the Booksmith seal of approval - these are books that we have read, loved, and want to share with you!
 
-To learn more and subscribe, visit our [Signed First Editions Book Club page](http://www.brooklinebooksmith.com/sfe/).
+To learn more and subscribe, visit our [Signed First Editions Book Club page](https://www.brooklinebooksmith.com/sfe/).

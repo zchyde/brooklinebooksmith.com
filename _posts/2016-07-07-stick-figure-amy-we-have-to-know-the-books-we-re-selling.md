@@ -15,4 +15,4 @@ related_books:
 ---
 
 
-For the Record, this really happened and [this](http://www.brooklinebooksmith-shop.com/book/9780500650691) was the book we were looking at.&nbsp;
+For the Record, this really happened and [this](https://www.brooklinebooksmith-shop.com/book/9780500650691) was the book we were looking at.&nbsp;

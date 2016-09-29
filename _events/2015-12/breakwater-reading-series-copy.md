@@ -2,7 +2,7 @@
 title: Breakwater Reading Series
 published: true
 start_at: 2015-12-18T19:00:00.000Z
-image_path: 'http://images.brooklinebooksmith.com/breakwater.jpg'
+image_path: 'https://images.brooklinebooksmith.com/breakwater.jpg'
 book_category: ''
 program: breakwater-reading-series
 ticketed: false

@@ -5,11 +5,11 @@ date: '2011-04-28T16:25:00.008-04:00'
 author: Zoe Hyde
 tags:
 modified_datetime: '2011-04-29T00:30:37.793-04:00'
-thumbnail: http://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s72-c/the-god-of-small-things.jpg
+thumbnail: https://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s72-c/the-god-of-small-things.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-5055408386278990831
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/04/i-havent-had-my-usual-46-ounces-of.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/04/i-havent-had-my-usual-46-ounces-of.html
 ---
-[![](http://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s200/the-god-of-small-things.jpg)](http://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s1600/the-god-of-small-things.jpg)
+[![](https://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s200/the-god-of-small-things.jpg)](https://2.bp.blogspot.com/-V1t4gqIOmjM/TbnWnSalfcI/AAAAAAAAADc/TK-W_kica04/s1600/the-god-of-small-things.jpg)
 I haven't had my usual 46 ounces of caffiene today, so this entry might be more subdued than normal. I know, I know that's not fun for you, but listen, I am no ones dancing monkey. Ok the truth is actually I forgot my debit card at home and had minimal cash. This is horrible. Is this how you people live? Its like everything is in slow motion. My brain is taking, like, FOREVER to process its next thought, its awful. Its something akin to: usually, the train of my mind goes express to Kenmore, but right now we're going the full above-ground route and I'm forced to stand uncomfortably close to some undergrad wearing too much body spritz. TORTURE. COME UP TO THE FRONT TO PAY YOUR FARE.
 
 For those of you that do not have the joy of riding the MBTA, know now, that I hate you.
@@ -24,6 +24,6 @@ I recommend this novel. I recommended stopping. I recommended introspection.
 
 Okay. Now that that's done with, lets get on to what REALLY matters:
 
-![](http://img.photobucket.com/albums/v373/Nuhbrans/Royal_Wedding_Nail_Decals.jpg)
+![](https://img.photobucket.com/albums/v373/Nuhbrans/Royal_Wedding_Nail_Decals.jpg)
 
 THE ROYAL WEDDING: THOUGHTS? PLANS? HOPES? DREAMS? Email all your thoughts to zoe'ofthemountain'hydeski@brooklinebooksmith.com.gov.ed

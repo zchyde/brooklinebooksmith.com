@@ -17,9 +17,9 @@ tags:
 - Black
 - Clare
 modified_datetime: '2015-02-09T09:38:14.894-05:00'
-thumbnail: http://1.bp.blogspot.com/-yTAUp3Pk1Sc/VC1Wjt4cVBI/AAAAAAAAAyU/qaMhF1h9OFw/s72-c/Seen%2Band%2BNot%2BHeard.jpg
+thumbnail: https://1.bp.blogspot.com/-yTAUp3Pk1Sc/VC1Wjt4cVBI/AAAAAAAAAyU/qaMhF1h9OFw/s72-c/Seen%2Band%2BNot%2BHeard.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-4912675899346815949
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_7.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/02/childrens-author-and-illustrator-week_7.html
 ---
 Note: I was so excited about the contents of this post that I posted it to the wrong blog. Sometimes my excitement gets the best of me. My apologies for the lateness.
 
@@ -44,20 +44,20 @@ Companion to her wonderful Grisha trilogy. I am so, so, so excited. She describe
 The only problems with the release of this one is that once it's out the series is over and that's devastating.
 
 _Seen Not Heard_ by Katie May Green -- Summer
-![](http://1.bp.blogspot.com/-yTAUp3Pk1Sc/VC1Wjt4cVBI/AAAAAAAAAyU/qaMhF1h9OFw/s320/Seen%2Band%2BNot%2BHeard.jpg)
+![](https://1.bp.blogspot.com/-yTAUp3Pk1Sc/VC1Wjt4cVBI/AAAAAAAAAyU/qaMhF1h9OFw/s320/Seen%2Band%2BNot%2BHeard.jpg)
 
 ---
 I love this book! It's so much fun!
 ---
 **_The Copper Gauntlet_ by Holly Black and Cassandra Clare** -- Fall
 
-![](http://vignette2.wikia.nocookie.net/themagisterium/images/c/c7/The_Copper_Gauntlet_cover.jpg/revision/latest/scale-to-width/283?cb=20150203024209)
+![](https://vignette2.wikia.nocookie.net/themagisterium/images/c/c7/The_Copper_Gauntlet_cover.jpg/revision/latest/scale-to-width/283?cb=20150203024209)
 
 The sequel to The Iron Trial. You know it's going to be brilliant!
 ---
 **_Lair of Dreams_ by Libba Bray -- Summer**
 
-![](http://d.gr-assets.com/books/1378398197l/16060716.jpg)
+![](https://d.gr-assets.com/books/1378398197l/16060716.jpg)
 
 EEEEEE! We've been waiting forever!
 ---
@@ -75,25 +75,25 @@ It's so good! So funny! 
 
 **_The Marvels_ by Brian Selznick -- Fall**
 
-![](http://oomscholasticblog.com/sites/default/files/styles/c-half-page/public/The%20Marvels%20Cover_0.jpg?itok=IPY5sgvL)
+![](https://oomscholasticblog.com/sites/default/files/styles/c-half-page/public/The%20Marvels%20Cover_0.jpg?itok=IPY5sgvL)
 
 It's Brian Selznick. We know it's going to be AMAZING.
 ---
 **_Percy Jackson's Greek Heroes_ by Rick Riordan -- Summer**
 
-![](http://1.bp.blogspot.com/-0XOZga0C_5U/VD6UQ1Id3AI/AAAAAAAADJw/QKvdS1BVg0c/s320/PJ%2BGREEK%2BHEROES%2Bjkt%2B1REV.jpg)
+![](https://1.bp.blogspot.com/-0XOZga0C_5U/VD6UQ1Id3AI/AAAAAAAADJw/QKvdS1BVg0c/s320/PJ%2BGREEK%2BHEROES%2Bjkt%2B1REV.jpg)
 
 !!!!
 ---
 **_Shadow Scale_ by Rachel Hartman -- March**
 
-![](http://d.gr-assets.com/books/1405355942l/16085457.jpg)
+![](https://d.gr-assets.com/books/1405355942l/16085457.jpg)
 
 Finally! So excited!
 ---
 **_The Sword of Summer_ by Rick Riordan -- Fall**
 
-![](http://ecx.images-amazon.com/images/I/81nRALQPUhL._SL1500_.jpg)
+![](https://ecx.images-amazon.com/images/I/81nRALQPUhL._SL1500_.jpg)
 
 I say again !!!!
 

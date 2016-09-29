@@ -16,24 +16,24 @@ Where’s Waldo? Starting on July 1st, Waldo will be hiding in participating loc
 
 #### Participating Businesses:&nbsp;
 
-[Boston General Store](http://www.bostongeneralstore.com/)
+[Boston General Store](https://www.bostongeneralstore.com/)
 
-[Coolidge Corner Theatre](http://www.coolidge.org/)
+[Coolidge Corner Theatre](https://www.coolidge.org/)
 
-[Eureka! Puzzles](http://www.eurekapuzzles.com/)
+[Eureka! Puzzles](https://www.eurekapuzzles.com/)
 
-[Knight Moves Caf&eacute;](http://knightmovescafe.com/)
+[Knight Moves Caf&eacute;](https://knightmovescafe.com/)
 
-[Magic Beans](http://mbeans.com/)
+[Magic Beans](https://mbeans.com/)
 
-[Michael’s Deli](http://michaelsdelibrookline.com/)
+[Michael’s Deli](https://michaelsdelibrookline.com/)
 
-[New England Comics](http://www.newenglandcomics.com/cgi-bin/stores/search.cgi?database=stores.csv&amp;template=stores.htm&amp;0_option=1&amp;0=BROOKLINE)
+[New England Comics](https://www.newenglandcomics.com/cgi-bin/stores/search.cgi?database=stores.csv&amp;template=stores.htm&amp;0_option=1&amp;0=BROOKLINE)
 
-[OTTO Pizza](http://www.ottoportland.com/locations/massachusetts/coolidge-corner-289-harvard-st)
+[OTTO Pizza](https://www.ottoportland.com/locations/massachusetts/coolidge-corner-289-harvard-st)
 
-[The Paris Creperie](http://pariscreperie.com/)
+[The Paris Creperie](https://pariscreperie.com/)
 
-[Peet’s Coffee & Tea](http://www.peets.com/)
+[Peet’s Coffee & Tea](https://www.peets.com/)
 
 [Tiny Hanger](https://www.tinyhanger.com/)

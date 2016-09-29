@@ -12,7 +12,7 @@ tags:
 - Newbery
 modified_datetime: '2015-02-03T13:00:02.458-05:00'
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-3421261965671488126
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2015/02/ala-youth-media-awards.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2015/02/ala-youth-media-awards.html
 ---
 The name 'Youth Media Awards' seems to be pretty foreign to a lot of people. That's what I discovered when I tried to talk to (non kids book) people about them. But as soon as I clarified with 'Caldecott' and 'Newbery' everything suddenly clicked into place. Those are awards they recognize, even if I've discovered they don't really know what the awards are.  
 
@@ -30,6 +30,6 @@ I cheered when some of them were announced (_I'll Give You the Sun_ got the Prin
 
 And the winners are diverse, in the best and pretty much every way possible. Peruse the list, check out the titles. There's a little bit of everything.  
 **  
-[Winners List](http://www.ala.org/news/press-releases/2015/02/american-library-association-announces-2015-youth-media-award-winners)**  
+[Winners List](https://www.ala.org/news/press-releases/2015/02/american-library-association-announces-2015-youth-media-award-winners)**  
 
 But bear with us, we'll get as many of them in as we can but it may take us some time. If you want one and can't find it, please ask, we'll do what we can. We want to read them too

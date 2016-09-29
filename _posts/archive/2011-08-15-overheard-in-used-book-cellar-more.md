@@ -11,14 +11,14 @@ tags:
 - kids audio
 - father
 modified_datetime: '2011-08-15T15:20:22.851-04:00'
-thumbnail: http://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s72-c/penny.jpg
+thumbnail: https://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s72-c/penny.jpg
 blogger_id: tag:blogger.com,1999:blog-5767374071871443859.post-2760378671534960924
-blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/overheard-in-used-book-cellar-more.html
+blogger_orig_url: https://brooklinebooksmith.blogspot.com/2011/08/overheard-in-used-book-cellar-more.html
 ---
 
 
 <br />
-<br /><div><a href="http://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s1600/penny.jpg"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 391px; DISPLAY: block; HEIGHT: 288px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5641157085472321394" border="0" alt="" src="http://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s400/penny.jpg" /></a>
+<br /><div><a href="https://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s1600/penny.jpg"><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 391px; DISPLAY: block; HEIGHT: 288px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5641157085472321394" border="0" alt="" src="https://4.bp.blogspot.com/-J5iLa0muPKw/TklqeynBb3I/AAAAAAAAAT8/JftbkStg0NE/s400/penny.jpg" /></a>
 <br />I was informed by Jodie this morning that she overheard a little girl, no more than 4 or 5 years old, looking at the used kids books... pulling on her father's sleave and then asking point blank:
 <br />
 <br />
@@ -33,7 +33,7 @@ blogger_orig_url: http://brooklinebooksmith.blogspot.com/2011/08/overheard-in-us
 <br />
 <br />
 <br /><div>Now- there is so much happening in this exchange I get flushed with excitement. This BRILLIANT little girl saw that our used books were in fact "used". She may have seen bitten chewed and gently torn pages, with elephantine handwriting identifying previous owners something to the effect of :</div>
-<br /><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 451px; DISPLAY: block; HEIGHT: 277px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5641160089141100402" border="0" alt="" src="http://3.bp.blogspot.com/-6PAJD__kEJc/TkltNoJdv3I/AAAAAAAAAUE/qxsggdU49_g/s400/2011-08-15_14-57-42_102.JPG" />Photo courtesy of my niece Maggie. (Such an accurate likeness of my proportions might I add)
+<br /><img style="TEXT-ALIGN: center; MARGIN: 0px auto 10px; WIDTH: 451px; DISPLAY: block; HEIGHT: 277px; CURSOR: hand" id="BLOGGER_PHOTO_ID_5641160089141100402" border="0" alt="" src="https://3.bp.blogspot.com/-6PAJD__kEJc/TkltNoJdv3I/AAAAAAAAAUE/qxsggdU49_g/s400/2011-08-15_14-57-42_102.JPG" />Photo courtesy of my niece Maggie. (Such an accurate likeness of my proportions might I add)
 <br /></div>
 <br />
 <br /><div>Anyway back to the thought...This little girl posed a great question to her dad, one that required some upper level thinking and abstraction. One possible option for her train of thought:</div>
