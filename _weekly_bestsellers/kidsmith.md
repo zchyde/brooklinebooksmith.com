@@ -1,5 +1,4 @@
 ---
-title: Kidsmith
 featured_hardcover_books:
   - fck-feelings-one-shrinks-practical-advice-for-managing-all-lifes-impossible-problems
   - harry-potter-and-the-cursed-child
