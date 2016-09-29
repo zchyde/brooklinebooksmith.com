@@ -108,6 +108,7 @@ collections:
     output: false
   weekly_bestsellers:
     output: false
+    hide_content: true
   staff:
     output: true
     permalink: '/:collection/:path/'
