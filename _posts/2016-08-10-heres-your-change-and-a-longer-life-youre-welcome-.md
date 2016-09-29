@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-08-10T09:00:00.000Z
 description:
-featured_image_path: /rooftop-old-man-reading.jpg
+featured_image_path: /uploads/rooftop-old-man-reading.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-07-06T00:00:00.000Z
 description: 'we are all friends here all of us doing the book thing, eli wiesel, george saunders, viking applause'
-featured_image_path: /paragraph.jpg
+featured_image_path: /uploads/paragraph.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:

@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-09-27T14:00:00.000Z
 description: 'Or, Bathroom Reading in Two Volumes.'
-featured_image_path: /uploads/9780735212190.jpg
+featured_image_path: /uploads/to-be-or-not-to-be-by-ryan-north-e1447801848114-compressor.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -33,8 +33,6 @@ Sometimes there are rockets.
 ![](/uploads/versions/9781101983300---x----267-400x---.jpg)
 
 ---
-
-
 
 1. [MOSTLY VOID, PARTIALLY STARS (WELCOME TO NIGHT VALE VOLUME 1)](http://www.brooklinebooksmith-shop.com/book/9780062468611)and [THE GREAT GLOWING COILS OF THE UNIVERSE (WELCOME TO NIGHT VALE VOLUME 2)](http://www.brooklinebooksmith-shop.com/book/9780062468635)  by Joseph Fink and Jeffrey Cranor.
 

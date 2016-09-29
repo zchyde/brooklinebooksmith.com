@@ -1,5 +1,5 @@
 ---
-title: test
+title: The Year of the Bard
 published: false
 featured: false
 date: 2016-01-15T09:00:00.000Z
@@ -10,8 +10,6 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
-  - alex-s
-books:
+related_books:
+  -
 ---
-
-
