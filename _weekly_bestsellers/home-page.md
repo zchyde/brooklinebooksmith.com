@@ -1,5 +1,4 @@
 ---
-title: Home Page
 featured_hardcover_books:
   - harry-potter-and-the-cursed-child
   - here-i-am
