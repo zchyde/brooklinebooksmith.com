@@ -80,7 +80,19 @@ layout: default
     Weekly Bestsellers — Hardcover
   </h3>
   <div class="flex flex-wrap">
-    {% include weekly-bestsellers.html type="Hardcover" image_classes=image_classes limit=6 %}
+    {% include weekly-bestsellers.html type="Hardcover" image_classes=image_classes limit=6 %} 
+    {% comment %}
+    <!--
+    assign weekly_bestsellers = site.weekly_bestsellers | where: 'slug', 'home-page' %}
+     for  item in weekly_bestsellers %}
+     assign hardcover_bestsellers = site.books | where: 'slug', item.featured_hardcover_books %}
+     for object in hardcover_bestsellers  %}
+      {{ object.title }}<br />
+    {% endfor %}
+    {% endfor %}
+  -->
+     {% endcomment %}
+
   </div>
 
   <h3 class="h1 col-12 mt3">
