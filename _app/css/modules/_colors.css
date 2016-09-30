@@ -118,7 +118,7 @@ a { color: var(--blue)}
 .hover-bg-dark-accent-color:hover {background-color: var(--dark-accent-color)}
 
 .border-divider-color  { border-color: var(--divider-color); }
-
+.border-dark-primary-color {border-color: var(--dark-primary-color)}
 
 
 
