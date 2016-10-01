@@ -1,5 +1,5 @@
 ---
-title: '*Small Press Book Club*'
+title: '**Small Press Book Club**'
 published: true
 start_at: 2016-11-21 19:30:00
 image_path:
