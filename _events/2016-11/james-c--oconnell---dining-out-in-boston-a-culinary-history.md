@@ -1,5 +1,5 @@
 ---
-title: '**James C. O’Connell** -  **Dining Out in Boston: A Culinary History**'
+title: '**James C. O’Connell** -  *Dining Out in Boston: A Culinary History*'
 published: true
 start_at: 2016-11-02 19:00:00
 image_path:
