@@ -1,8 +1,8 @@
 ---
 title: '**Ta-Nehisi Coates via Live Stream Video** -  *“When Will France Have Its Barack Obama?”*'
-published: false
+published: true
 start_at: 2016-11-02 19:30:00
-image_path:
+image_path: /uploads/bennett-ta-nehisi-coates-1200-compressor.jpg
 book_category:
 program: '-writers-and-readers'
 ticketed: false
