@@ -1,5 +1,5 @@
 ---
-title: '*Book Club*'
+title: '**Book Club**'
 published: false
 start_at: 2016-11-14 19:00:00
 image_path:
