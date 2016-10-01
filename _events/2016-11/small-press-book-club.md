@@ -1,13 +1,15 @@
 ---
 title: '*Small Press Book Club*'
-published: false
-start_at: 2016-01-15 09:00:00
+published: true
+start_at: 2016-11-21 19:30:00
 image_path:
 book_category:
-program: '-writers-and-readers'
+program: small-press-book-club
 ticketed: false
 test:
 book_isbn:
   -
 ---
 
+
+Read something off the beaten path! Our Small Press Book Club discusses a book published by an independent press. Free and open to the public, meeting the third Monday of every month at 7:00pm. To contact our moderator, email smallpress@brooklinebooksmith.com
