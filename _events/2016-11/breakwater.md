@@ -1,5 +1,5 @@
 ---
-title: '*Breakwater*'
+title: '**Breakwater**'
 published: true
 start_at: 2016-11-11 19:00:00
 image_path:
