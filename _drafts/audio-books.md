@@ -27,16 +27,15 @@ My solution to that, I mean, aside from giving up sleeping which everyone tells 
    <br>4. I don't mind looking a bit odd when I'm walking by myself and laughing at what appears to be nothing.
 
 
-<br>When it was suggested that the Booksmith partner with Libro.fm to provide a source for digital audiobooks. I was ecstatic. Yes. Brilliant. More sources for audiobooks. I will take them.
+<br>When it was suggested that the Booksmith partner with Libro.fm to provide a source for digital audiobooks. I was ecstatic. Yes. Brilliant. More sources for audiobooks. I will take them.&nbsp;
 <br>
-<br>It's pretty easy too, which is glorious.
+<br>It's pretty easy too, which is glorious because when I'm walking to work at 8:30 I don't want to have to think about it much. Also, the digital files are often cheaper than the discs and available instantly.
 <br>
-<br>INSTRUCTIONS GO HERE
+<br>Instructions on getting started are conveniently located on the [Audio Books page](https://www.brooklinebooksmith.com/audio-books/) of our website, along with a code to get a discount.
 <br>
-<br>Take a gander around their ever-growing selection and check them out.
+<br>Take a gander around their ever-growing selection and try one out.
 <br>
-<br>
-<br>If you're not sure where to start, I'm happy to offer you some of my favorites.
+<br>If you're not sure where to start, I'm happy to offer you a couple of my favorites.
 <br>
 <br>**[Illuminae](https://libro.fm/audiobooks/9781101916636-illuminae) by Amie Kaufman and Jay Kristoff**
 <br>
@@ -48,28 +47,66 @@ My solution to that, I mean, aside from giving up sleeping which everyone tells 
 <br>
 <br>So, I mean, skepticism is understandable. BUT! This audio book is MIND-BLOWINGLY good. Seriously amazing. It's full cast and the narrators are all expertly chosen. They're witty and wondrous and the voice of AIDEN is brilliantly artificial.&nbsp;
 <br>
-<br>I had read the book more than once before I picked up the audio and I still almost walked into traffic\* because I was too busy listening to it. So, maybe just walk around the block or something but LISTEN TO THIS ONE.
+<br>I had read the book more than once before I picked up the audio and I still almost walked into traffic\* because I was so caught up in it. So, maybe just walk around the block or something but LISTEN TO THIS ONE.
 <br>
 <br>\*Don't do this.&nbsp;
 <br>
-<br>[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater
+<br>**[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater**
+
+Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
 <br>
-<br>My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. Tt makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as The Raven Cycle with a setting that's so vitally important to the story the narrator is REALLY important.
+<br>My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. It makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as The Raven Cycle with a setting that's so vitally important to the story the narrator is REALLY important.
 <br>
 <br>The narrator for The Raven Cycle is Will Patton. If you spend enough time watching movies (or IMDBing them) you might be going 'oh...' if not look him up, I'll wait here a second.
-<br>....
-<br>Great. Yes, [that guy](http://www.imdb.com/name/nm0001599/).&nbsp;
 <br>
-<br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great.
+<br>Great. Yes, [this guy](http://www.imdb.com/name/nm0001599/).&nbsp;
 <br>
-<br>The Scorpio Races by Maggie Stiefvater
+<br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great. But, oh man, did he grow on me. I was practically thinking in his voice by the end of the first disc.&nbsp;
 <br>
-<br>This Savage Song by Victoria Schwab
+<br>Bonus: Stiefvater composes all of the music used in her audiobooks, so you should listen to it as the credits play.&nbsp;
 <br>
-<br>Noggin by John Corey Whaley
 <br>
-<br>Fortunately, The Milk by Neil Gaiman
+<br>**[Fortunately, The Milk](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk) by Neil Gaiman**
 <br>
-<br>The Night Circus by Erin Morgenstern
+<br>One day a dad steps out to get milk so that his kids can have their cereal and he is abducted by aliens. It gets weirder from there.
+<br>
+<br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you wither hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.&nbsp;
+<br>
+<br>It clocks in at about an hour so it's perfect for a short trip you don't mind giggling through.
+<br>
+<br>
+<br>**[The Night Circus](https://libro.fm/audiobooks/9780307938916-the-night-circus) by Erin Morgenstern**
+<br>
+<br>Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
+<br>
+<br>I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself. &nbsp;It's nothing against Jim Dale as a narrator, he was great on Pushing Daisies (if you've never heard of it you need to google it) and he's great with The Night Circus.&nbsp;
+<br>
+<br>The Night Circus is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind the scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
+<br>
+<br>But somehow Dale does it. Maybe there's just something about Morgenstern's prose that works with his tone. His voice captures that unique and different magic of The Night Circus itself. It's one of those audio books that makes you take the long way home to hear a little bit more of it.
+<br>&nbsp;
 
-White Cat by Holly Black
+**[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat) by Holly Black**
+<br>With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
+<br>
+<br>Okay, so love or hate Jesse Eisenberg (another [IMDB](http://www.imdb.com/name/nm0251986/)/Google moment for you if you need it) but he can definitely talk. More than that he can do the right mix of self-deprecation and fast-talking wit that's needed for a teenage boy unsure of his place in his family but still able to run a con. He does a really awesome job with The Curse Workers trilogy.
+<br>
+<br>A story like this one wouldn't work with someone too sure of themselves and anyone too timid wouldn't be convincing so Eisenberg is oddly perfect.
+
+<br>Also:
+<br>[American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)by Neil Gaiman - It's full cast and perfectly so.
+<br>
+<br>[The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
+<br>
+<br>[This Savage Song](https://libro.fm/audiobooks/9780062468116-this-savage-song) by Victoria Schwab - There's a certain amount of creepy-sounding sing-song needed for this and the narrator gave me chills.
+<br>
+<br>[These Broken Stars](https://libro.fm/audiobooks/9780804123440-these-broken-stars) by Amie Kaufman and Meagan Spooner - The narrators are amazing (and the Johnathan McClain who reads Tarver's chapters is also in Illuminae as Ezra).
+<br>
+<br>[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek.
+
+<br>A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.&nbsp;
+<br>
+<br>And based on my favorites it's pretty clear that I'm a big middle grade and YA person but that might not be your thing. If you're big into celebrity memoirs and the like the writers often narrate the audio themselves so you know the tone should be right. How could Mindy Kaling narrating Mindy Kaling possibly go wrong?
+<br>
+<br>If you have a reluctant reader audio books are a cool way to introduce them to a story or series.&nbsp;
+<br>&nbsp;
