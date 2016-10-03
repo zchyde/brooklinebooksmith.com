@@ -26,9 +26,17 @@ So here are a few of the characters my bookseller heart wishes to see this Hallo
 
 ---
 
-![](/uploads/versions/adatwist---x----325-400x---.jpg)[Ada Twist Scientist by Andrea Beaty ill. by David Roberts](http://www.brooklinebooksmith-shop.com/book/9781419721373) - how cute this costume would be! Not to mention super easy: polka dot dress, pig tails, goggles, plastic gloves, polka dot socks and some cute shoes! Oh and don't forget the note pad, pencil and QUESTIONS!
+[Ada Twist Scientist by Andrea Beaty ill. by David Roberts](http://www.brooklinebooksmith-shop.com/book/9781419721373) - how cute this costume would be! Not to mention super easy: polka dot dress, pig tails, goggles, plastic gloves, polka dot socks and some cute shoes! Oh and don't forget the note pad, pencil and QUESTIONS!
 
 ---
+
+![](/uploads/versions/wild-robot---x----269-400x---.jpg)
+
+[Peter Brown](http://www.peterbrownstudio.com/), author of many delightful picture books graced us earlier this year with his first middle grade novel [Wild Robot](http://www.brooklinebooksmith-shop.com/book/9780316381994). Who wouldn't want to be a robot for halloween?! In the story Roz, a robot stranded on an island, adopts a little duckling and raises him with the help of her new forest friends. You could go delightfully old school with lots of tin foil and cardboard, then add in a cute stuffed duckling and away you go! What fun!
+
+---
+
+&nbsp;
 
 &nbsp;
 
