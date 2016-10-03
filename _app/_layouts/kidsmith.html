@@ -2,8 +2,8 @@
 layout: default
 ---
 {% assign campaign = site.campaigns | where: 'show', true %}
-{% assign featured_posts = site.posts | where: 'featured', true %}
-{% assign posts = site.posts %}
+{% assign featured_posts = site.posts | where: 'category', 'kidsmith' | where: 'featured', true %}
+{% assign posts = site.posts | where: 'category', 'kidsmith' %}
 {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
 {% assign todays_date = site.time | date: "%Y%m%d"  %}
@@ -21,7 +21,7 @@ layout: default
     </div>
 
     <div class="flex flex-wrap">
-      {% for object in posts limit:3 %}
+      {% for object in posts limit:6 %}
         <a href="{{ object.url }}" class="md-col lg-col col-12 md-col-6 lg-col-4 pr2 mb2 text-decoration-none relative black">
           {% include components/card-image-top-bg.html classes=box_classes %}
         </a>
@@ -69,7 +69,7 @@ layout: default
   </h3>
   <div class="flex flex-wrap items-start">
     {% assign image_classes = 'inline-block sm-col md-col lg-col col-12 sm-col-6 md-col-3 lg-col-2 pb3'  %}
-    {% include weekly-bestsellers.html type="Kids" image_classes=image_classes limit=12 %}
+    {% include weekly-bestsellers.html type="Kids" image_classes=image_classes %}
   </div>
 
 
