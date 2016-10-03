@@ -1,9 +1,10 @@
 ---
 title: '**Between the Lines Book Club**'
-published: true
-start_at: 2016-10-25T04:30:00.000Z
+published: false
+start_at: 2016-10-25 04:30:00
 image_path:
-book_category: kidsmith
+book_category:
+  - kidsmith
 program: between-the-lines-book-club
 ticketed: false
 test:
