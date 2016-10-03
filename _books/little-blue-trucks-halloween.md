@@ -1,6 +1,8 @@
 ---
 title: "Little Blue Truck's Halloween"
-isbn:
-binding:
-image_path:
+isbn: '9780544772533'
+binding: Board Books
+image_path: 'https://images.booksense.com/images/533/772/9780544772533.jpg'
 ---
+
+
