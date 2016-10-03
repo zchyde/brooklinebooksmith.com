@@ -1,5 +1,5 @@
 ---
-title: "A Children's Bookseller's Guide to Costumes"
+title: "A Bookseller's Guide to (a few) Costumes"
 published: false
 featured: false
 date: 2016-10-01 09:00:00
@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - clarissa
 books:
 ---
 
@@ -41,6 +42,18 @@ Now this next one would be a beautiful labor of love but boy would it be worth i
 ![](/uploads/versions/search-for-wondla---x----266-400x---.jpg)SOMEDAY I will have sewing skills good enough to tackle this costume with all my heart. Luckily, the whole trilogy is chalk full of gorgeous illustrations so there is a lot of material to work from!
 
 ---
+
+&nbsp;
+
+![](/uploads/versions/i-want-my-hat-back---x----288-400x---.jpg)
+
+[I Want My Hat Back by Jon Klassen](http://www.brooklinebooksmith-shop.com/book/9780763655983)- who doesn't want to be a grumpy bear for halloween? Add a triangle hat and away you go!
+
+---
+
+I could go on for days with all the ideas running around in my busy head, but I leave it up to you to check out these few more: [The Day the Crayons Quit by Oliver Jeffers](http://www.brooklinebooksmith-shop.com/book/9780399255373), [The Princess and the Pony by Kate Beaton](http://www.brooklinebooksmith-shop.com/book/9780545637084), [Roller Girl by Victoria Jamieson](http://www.brooklinebooksmith-shop.com/book/9780803740167), [Moon Girl and Devil Dinosaur](http://www.brooklinebooksmith-shop.com/book/9781302900052), [Ms. Marvel](http://www.brooklinebooksmith-shop.com/book/9780785196112), [Wings of Fire](http://www.brooklinebooksmith-shop.com/book/9780545349253) (if your up for being a DRAGON, I personally would go for being a Rain Wing)
+
+Good luck and happy costuming!
 
 &nbsp;
 
