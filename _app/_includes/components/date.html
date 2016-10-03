@@ -1,7 +1,7 @@
 {% comment %} FORMAT DATES {% endcomment %}
   {% capture start_at %}
   <!-- Whitespace added for readability -->
-  {{ object.date | date: "%A" }}
+  {{ object.start_at | date: "%A" }}
   {% assign d = object.date | date: "%-d" %}
   {% assign m = object.date | date: "%B" %}
   {% case m %}
@@ -14,7 +14,7 @@
     {% when '2' or '22' %}{{ d }}nd
     {% when '3' or '23' %}{{ d }}rd
     {% else %}{{ d }}th
-    {% endcase %} {{ object.date | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
+    {% endcase %} {{ object.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
   {% endcapture %}
 
   <time>

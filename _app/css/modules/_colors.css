@@ -1,4 +1,4 @@
-@import 'google-material-color/dist/palette.var.css';
+/*@import 'google-material-color/dist/palette.var.css';*/
 /*
 
    COLOR VARIABLES
@@ -153,6 +153,9 @@ a { color: var(--blue)}
 --primary-text-color    : #212121;
 --secondary-text-color  : #555;
 --divider-color         : #DEDEDE;
+--palette-Pink-A100: #ff80ab;
+--palette-Pink-A400: #c51162;
+--palette-Grey-400: #bdbdbd;
 
     /*--dark-primary-color:           var(--palette-Blue-700);*/
     /*--primary-color:                var(--pm286c);*/
