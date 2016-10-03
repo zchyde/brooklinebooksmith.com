@@ -13,3 +13,22 @@ staff:
 books:
   -
 ---
+
+
+Fall is here and sweaters are out in force. The air is crisp and the leaves are starting to turn, setting the mood for my favorite holiday - Halloween!
+
+That means COSTUMES. As happens every year I have about a million ideas of who I want to be and 90% of them are book characters! The challenge however, is to find the delicate balance between a character people will actually recognize (since I have managed to maintain friendships outside of the book world), but also one that everyone under the sun won't be dressing up as! A challenge indeed.
+
+Princess and the Pony
+
+Hilda
+
+Ms Marvel
+
+Lumberjanes
+
+Princess in Black
+
+&nbsp;
+
+&nbsp;
