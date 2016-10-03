@@ -1,7 +1,7 @@
 ---
 title: '**Warren Ellis appearing in conversation with Joe Hill** - *Normal: A Novel*'
 published: true
-start_at: 2016-11-30 18:00:00
+start_at: 2016-11-30 19:00:00
 image_path:
 book_category:
 program: '-writers-and-readers'
