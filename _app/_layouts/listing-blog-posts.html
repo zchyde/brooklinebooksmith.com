@@ -14,7 +14,7 @@ layout: listing
   <div class="px1 md-pr2 lg-pr2">
     <div class="flex flex-wrap mxn2 list">
       {% for object in posts limit: 21 %}
-        {% assign date = object.date %}
+        {% assign dateTKNODATE = object.date %}
 
           <a href="{{ object.url }}" class="md-col lg-col col-12 sm-col-6 md-col-6 lg-col-4 pr2 mb2 text-decoration-none relative black">
           {% include components/card-image-top-bg.html classes=box_classes %}

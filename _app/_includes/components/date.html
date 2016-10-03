@@ -1,22 +1,22 @@
 {% comment %} FORMAT DATES {% endcomment %}
   {% capture start_at %}
   <!-- Whitespace added for readability -->
-  {{ object.start_at | date: "%A" }}
-  {% assign d = object.start_at | date: "%-d" %}
-  {% assign m = object.start_at | date: "%B" %}
+  {{ object.date | date: "%A" }}
+  {% assign d = object.date | date: "%-d" %}
+  {% assign m = object.date | date: "%B" %}
   {% case m %}
     {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
     {% when 'September' %}Sept.
-    {% else %}{{ object.start_at | date: "%b" }}.
+    {% else %}{{ object.date | date: "%b" }}.
     {% endcase %}
   {% case d %}
     {% when '1' or '21' or '31' %}{{ d }}st
     {% when '2' or '22' %}{{ d }}nd
     {% when '3' or '23' %}{{ d }}rd
     {% else %}{{ d }}th
-    {% endcase %} {{ object.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
+    {% endcase %} {{ object.date | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
   {% endcapture %}
 
   <time>
-    {{start_at}}
+    {{ start_at }}
   </time>
