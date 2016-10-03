@@ -37,17 +37,15 @@ A challenge indeed.
 
 ---
 
-Now this next one would be a beautiful labor of love but boy would it be worth it! [Tony DiTerlizzi](http://diterlizzi.com/home/art-gallery/) is author and illustrator of one of my all time favorite books [The Search for WondLa](http://www.brooklinebooksmith-shop.com/book/9781416983118), the first in a very delightful trilogy. A futuristic scifi adventure for middle grades (and everyone else!), this would be a challenging costume sure to turn heads.
+Now this next one would be a labor of love but boy would it be worth it! [Tony DiTerlizzi](http://diterlizzi.com/home/art-gallery/) is author and illustrator of one of my all time favorite books [The Search for WondLa](http://www.brooklinebooksmith-shop.com/book/9781416983118), the first in a very delightful trilogy. A futuristic scifi adventure for middle grades (and everyone else!), this would be a challenging costume sure to turn heads.
 
 ![](/uploads/versions/search-for-wondla---x----266-400x---.jpg)SOMEDAY I will have sewing skills good enough to tackle this costume with all my heart. Luckily, the whole trilogy is chalk full of gorgeous illustrations so there is a lot of material to work from!
 
 ---
 
-&nbsp;
-
 ![](/uploads/versions/i-want-my-hat-back---x----288-400x---.jpg)
 
-[I Want My Hat Back by Jon Klassen](http://www.brooklinebooksmith-shop.com/book/9780763655983)- who doesn't want to be a grumpy bear for halloween? Add a triangle hat and away you go!
+[I Want My Hat Back by Jon Klassen](http://www.brooklinebooksmith-shop.com/book/9780763655983)- who doesn't want to be a grumpy bear for halloween? Add a red triangle hat and away you go!
 
 ---
 
