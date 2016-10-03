@@ -1,5 +1,4 @@
 ---
-#featured_image_path: /uploads/banner-home-page_wr.jpg
 featured_image_path: /uploads/brookline-booksmith.jpg
 featured_image_position: 50
 banner_height: 350
@@ -17,14 +16,13 @@ featured_paperback_books:
   - unknown-caller
   - my-grandmother-asked-me-to-tell-you-shes-sorry
   - romeo-andor-juliet-a-chooseable-path-adventure
-
 Hardcover:
-  - '9780374280024'
-  - '9780385542074'
-  - '9780062367631'
+  - '9781594205408'
+  - '9781501141515'
   - '9781338099133'
-  - '9780802125750'
+  - '9780385542364'
   - '9780062491794'
+  - '9780385542074'
 Paperback:
   - '9780735212169'
   - '9781302900533'
@@ -34,3 +32,5 @@ Paperback:
   - '9781594634482'
   - '9780812984965'
 ---
+
+
