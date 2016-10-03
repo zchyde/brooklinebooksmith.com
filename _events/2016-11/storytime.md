@@ -1,6 +1,6 @@
 ---
 title: '*Storytime*'
-published: false
+published: true
 start_at: 2016-11-05 10:30:00
 image_path:
 book_category:
