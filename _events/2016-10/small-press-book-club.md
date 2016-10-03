@@ -1,7 +1,7 @@
 ---
 title: '**Small Press Book Club**'
 published: true
-start_at: 2016-10-17 07:00:00
+start_at: 2016-10-17 19:00:00
 image_path:
 book_category:
 program: small-press-book-club
