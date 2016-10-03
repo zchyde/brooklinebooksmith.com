@@ -2,7 +2,7 @@
 title: "A Bookseller's Guide to (a few) Costumes"
 published: false
 featured: false
-date: 2016-10-01 09:00:00
+date: 2016-10-06 09:00:00
 description: 'But which to choose?!'
 featured_image_path:
 featured_image_position: 50
@@ -52,11 +52,3 @@ Now this next one would be a labor of love but boy would it be worth it! [Tony D
 I could go on for days with all the ideas running around in my busy head, but I leave it up to you to check out these few more: [The Day the Crayons Quit by Oliver Jeffers](http://www.brooklinebooksmith-shop.com/book/9780399255373), [The Princess and the Pony by Kate Beaton](http://www.brooklinebooksmith-shop.com/book/9780545637084), [Roller Girl by Victoria Jamieson](http://www.brooklinebooksmith-shop.com/book/9780803740167), [Moon Girl and Devil Dinosaur](http://www.brooklinebooksmith-shop.com/book/9781302900052), [Ms. Marvel](http://www.brooklinebooksmith-shop.com/book/9780785196112), [Wings of Fire](http://www.brooklinebooksmith-shop.com/book/9780545349253) (if your up for being a DRAGON, I personally would go for being a Rain Wing)
 
 Good luck and happy costuming!
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
