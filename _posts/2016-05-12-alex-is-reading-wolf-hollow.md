@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-05-12T18:44:00.000Z
 description: "In children's books, a good ending and a happy one aren't always the same thing."
-featured_image_path: /uploads/wolf hollow.jpg
+featured_image_path: /uploads/wolf-hollow.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
