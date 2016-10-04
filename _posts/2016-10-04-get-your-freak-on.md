@@ -55,7 +55,7 @@ There is no character more deplorable than Brett Easton Ellis' Patrick Bateman. 
 
 [Dracula by Bram Stoker](http://www.brooklinebooksmith-shop.com/book/9780451530660')
 
-Bram Stoker's *Dracula* is a classic by all accounts and could not be left out of this list.&nbsp; Other horror classics like Mary Shelley's&nbsp;[Frankenstein](http://www.brooklinebooksmith-shop.com/book/9780451532244) were considered but*Dracula* earns its spot on this list because meeting the modern Prometheus would be exciting but Dracula should definitely keep his distance.&nbsp;
+Bram Stoker's *Dracula* is a classic by all accounts and could not be left out of this list.&nbsp; Other horror classics like Mary Shelley's&nbsp;[Frankenstein](http://www.brooklinebooksmith-shop.com/book/9780451532244) were considered but *Dracula* earns its spot on this list because meeting the modern Prometheus would be exciting but Dracula should definitely keep his distance.&nbsp;
 
 ---
 
@@ -87,7 +87,7 @@ A classic in its own right, the *Goosebumps* series has kept all of us up at nig
 
 [Perfume by Patrick S&uuml;skind](http://www.brooklinebooksmith-shop.com/book/9780375725845)
 
-*Perfum\*\*e* will make your skin crawl. &nbsp;S&uuml;skind tells the story of a young perfume maker obsessed with creating the perfect scent. &nbsp;The young man searches far and wide for the perfect combination of petal extracts and essential oils until one day the intoxicating smell he's been seeking for wafts past. &nbsp;He stops searching and starts *hunting*.
+*Perfume* will make your skin crawl. &nbsp;S&uuml;skind tells the story of a young perfume maker obsessed with creating the perfect scent. &nbsp;The young man searches far and wide for the perfect combination of petal extracts and essential oils until one day the intoxicating smell he's been seeking wafts past. &nbsp;He stops searching and starts *hunting*.
 
 ---
 
