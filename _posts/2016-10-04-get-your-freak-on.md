@@ -49,7 +49,8 @@ There is no character more deplorable than Brett Easton Ellis' Patrick Bateman. 
 
 > "I came to you because I want to tell my story,' the man on Dr Harper's couch was saying. The man was Lester Billings from Waterbury, Connecticut. According to the history taken from Nurse Vickers, he was twenty-eight, employed by an industrial firm in New York, divorced, and the father of three children. All deceased."
 
-—![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
+---
+<br>![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
 
 [Dracula by Bram Stoker](http://www.brooklinebooksmith-shop.com/book/9780451530660')
 
