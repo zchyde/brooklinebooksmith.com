@@ -97,6 +97,8 @@ A classic in its own right, the *Goosebumps* series has kept all of us up at nig
 
 ---
 
+---
+
 ![](/uploads/versions/-mg-3678---x----2857-2857x---.jpg)
 
 [A Head Full of Ghosts by Paul Tremblay](http://www.brooklinebooksmith-shop.com/book/9780062363244)
