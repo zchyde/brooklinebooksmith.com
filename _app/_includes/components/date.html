@@ -2,12 +2,12 @@
   {% capture start_at %}
   <!-- Whitespace added for readability -->
   {{ object.start_at | date: "%A" }}
-  {% assign d = object.date | date: "%-d" %}
-  {% assign m = object.date | date: "%B" %}
+  {% assign d = object.start_at | date: "%-d" %}
+  {% assign m = object.start_at | date: "%B" %}
   {% case m %}
     {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
     {% when 'September' %}Sept.
-    {% else %}{{ object.date | date: "%b" }}.
+    {% else %}{{ object.start_at | date: "%b" }}.
     {% endcase %}
   {% case d %}
     {% when '1' or '21' or '31' %}{{ d }}st
