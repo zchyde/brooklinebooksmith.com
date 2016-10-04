@@ -1,5 +1,5 @@
 ---
-title: Audio Books from Amy
+title: Audiobooks from Amy
 published: false
 featured: false
 date: 2016-10-01 09:00:00
@@ -16,7 +16,7 @@ books:
 
 One of the greatest burdens of being a bookseller is the frantic need to keep up with every single book that comes out. We're extremely lucky to get advanced copies of books so that we can recommend them as soon as they hit the shelves but that also means as we're discovering new books coming out we're already thinking of some that aren't out for a couple of months yet. As far as burdens go it's not a bad one, but it doesn't leave much time to reread old favorites or refresh ourselves on the previous book in a series.
 
-My solution to that, I mean, aside from giving up sleeping which everyone tells me is a bad idea, is to “reread” books through the audio book. Generally speaking, I'll only listen to the audiobook if I've already read the print book. I think this is perfect for a number of reasons.
+My solution to that, I mean, aside from giving up sleeping, which everyone tells me is a bad idea, is to “reread” books through the audiobook. Generally speaking, I'll only listen to the audiobook if I've already read the print book. I think this is perfect for a number of reasons.
 
 1. I walk to work and since my coordination borders on being nonexistent, I can't read and walk at the same time. Audiobooks let me do essentially that without stopping me from seeing where I'm going.
    <br>
@@ -31,7 +31,7 @@ My solution to that, I mean, aside from giving up sleeping which everyone tells 
 <br>
 <br>It's pretty easy too, which is glorious because when I'm walking to work at 8:30 I don't want to have to think about it much. Also, the digital files are often cheaper than the discs and available instantly.
 <br>
-<br>Instructions on getting started are conveniently located on the [Audio Books page](https://www.brooklinebooksmith.com/audio-books/) of our website, along with a code to get a discount.
+<br>Instructions on getting started are conveniently located on the [Audiobooks page](https://www.brooklinebooksmith.com/audio-books/) of our website, along with a code to get a discount.
 <br>
 <br>Take a gander around their ever-growing selection and try one out.
 <br>
@@ -41,7 +41,7 @@ My solution to that, I mean, aside from giving up sleeping which everyone tells 
 <br>
 <br>When their planet is attacked out of nowhere, Kady and Ezra become refugees at the mercy of the fleet that saved them and their attackers who are still following. To complicate matters, a deadly virus has broken out on one of the ships and the fleet's AI has started making decisions of its own.
 <br>
-<br>If you know anything about Illuminae you're probably raising your eyebrows at me. I know the look, I've seen the look when I've brought this up before. If you don't know anything about Illuminae, the look comes from the fact that Illuminae is a really design-heavy book.&nbsp;
+<br>If you know anything about *Illuminae* you're probably raising your eyebrows at me. I know the look, I've seen the look when I've brought this up before. If you don't know anything about *Illuminae*, the look comes from the fact that *Illuminae* is a really design-heavy book.&nbsp;
 <br>
 <br>![](/uploads/versions/illuminae-search-result-compressor---x----1642-688x---.png)&nbsp;(This is a screencap of a google image search for the book. That is actually what many of the pages look like.)
 <br>
@@ -55,9 +55,9 @@ My solution to that, I mean, aside from giving up sleeping which everyone tells 
 
 Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
 <br>
-<br>My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. It makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as The Raven Cycle with a setting that's so vitally important to the story the narrator is REALLY important.
+<br>My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. It makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as*The Raven Cycle* with a setting that's so vitally important to the story the narrator is REALLY important.
 <br>
-<br>The narrator for The Raven Cycle is Will Patton. If you spend enough time watching movies (or IMDBing them) you might be going 'oh...' if not look him up, I'll wait here a second.
+<br>The narrator for *The Raven Cycle* is Will Patton. If you spend enough time watching movies (or IMDBing them) you might be going 'oh…' if not look him up, I'll wait here a second.
 <br>
 <br>Great. Yes, [this guy](http://www.imdb.com/name/nm0001599/).&nbsp;
 <br>
@@ -70,7 +70,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>One day a dad steps out to get milk so that his kids can have their cereal and he is abducted by aliens. It gets weirder from there.
 <br>
-<br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you wither hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.&nbsp;
+<br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.&nbsp;
 <br>
 <br>It clocks in at about an hour so it's perfect for a short trip you don't mind giggling through.
 <br>
@@ -79,22 +79,21 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
 <br>
-<br>I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself. &nbsp;It's nothing against Jim Dale as a narrator, he was great on Pushing Daisies (if you've never heard of it you need to google it) and he's great with The Night Circus.&nbsp;
+<br>I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself. &nbsp;It's nothing against Jim Dale as a narrator, he was great on *Pushing Daisies* (if you've never heard of it you need to google it) and he's great with The Night Circus.&nbsp;
 <br>
-<br>The Night Circus is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind the scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
+<br>*The Night Circus* is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind-the-scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
 <br>
-<br>But somehow Dale does it. Maybe there's just something about Morgenstern's prose that works with his tone. His voice captures that unique and different magic of The Night Circus itself. It's one of those audio books that makes you take the long way home to hear a little bit more of it.
-<br>&nbsp;
+<br>But somehow Dale does it. Maybe there's just something about Morgenstern's prose that works with his tone. His voice captures that unique and different magic of *The Night Circus* itself. It's one of those audiobooks that makes you take the long way home to hear a little bit more of it.
 
 **[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat) by Holly Black**
 <br>With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
 <br>
-<br>Okay, so love or hate Jesse Eisenberg (another [IMDB](http://www.imdb.com/name/nm0251986/)/Google moment for you if you need it) but he can definitely talk. More than that he can do the right mix of self-deprecation and fast-talking wit that's needed for a teenage boy unsure of his place in his family but still able to run a con. He does a really awesome job with The Curse Workers trilogy.
+<br>Okay, so love or hate Jesse Eisenberg (another [IMDB](http://www.imdb.com/name/nm0251986/)/Google moment for you if you need it) but he can definitely talk. More than that he can do the right mix of self-deprecation and fast-talking wit that's needed for a teenage boy unsure of his place in his family but still able to run a con. He does a really awesome job with *The Curse Workers* trilogy.
 <br>
 <br>A story like this one wouldn't work with someone too sure of themselves and anyone too timid wouldn't be convincing so Eisenberg is oddly perfect.
 
 <br>Also:
-<br>[American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)by Neil Gaiman - It's full cast and perfectly so.
+<br>[American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)&nbsp;by Neil Gaiman - It's full cast and perfectly so.
 <br>
 <br>[The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
 <br>
@@ -106,7 +105,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 
 <br>A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.&nbsp;
 <br>
-<br>And based on my favorites it's pretty clear that I'm a big middle grade and YA person but that might not be your thing. If you're big into celebrity memoirs and the like the writers often narrate the audio themselves so you know the tone should be right. How could Mindy Kaling narrating Mindy Kaling possibly go wrong?
+<br>And based on my favorites it's pretty clear that I'm a big middle-grade and YA person but that might not be your thing. If you're big into celebrity memoirs and the like the writers often narrate the audio themselves so you know the tone should be right. How could Mindy Kaling narrating Mindy Kaling possibly go wrong?
 <br>
-<br>If you have a reluctant reader audio books are a cool way to introduce them to a story or series.&nbsp;
+<br>
 <br>&nbsp;
