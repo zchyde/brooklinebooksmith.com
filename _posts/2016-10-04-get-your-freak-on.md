@@ -29,7 +29,7 @@ A bookseller favorite here at the Booksmith is&nbsp;*Feed&nbsp;*by Mira Grant. &
 
 [We Have Always Lived in the Castle by Shirley Jackson](http://www.brooklinebooksmith-shop.com/book/9780143039976)&nbsp;
 
-Shirley Jackson is well known for her hilarious non-fiction works but *We Have Always Lived in the Castle&nbsp;*is proof of her amazing stylistic range. &nbsp;Told through the eyes of Mary Katherine, resident of the Blackwood Estate, the story begins with a tragic and very suspicious poisoning. &nbsp;The deceptively simple story comes to a very disturbing conclusion.&nbsp;
+Shirley Jackson is known for her hilarious non-fiction works but *We Have Always Lived in the Castle&nbsp;*is proof of her amazing stylistic range. &nbsp;Told through the eyes of Mary Katherine, resident of the Blackwood Estate, the story begins with a tragic and very suspicious poisoning. &nbsp;The deceptively simple story comes to a very disturbing conclusion.&nbsp;
 
 ---
 
@@ -59,7 +59,6 @@ Bram Stoker's *Dracula* is a classic by all accounts and could not be left out o
 
 ---
 
-
 ![](/uploads/versions/-mg-3646---x----2848-2848x---.jpg)
 
 [Geek Love by Katherine Dunn](http://www.brooklinebooksmith-shop.com/book/9780375713347)
@@ -76,7 +75,6 @@ This cult classic tells the story of a successful young couple and their two chi
 
 ---
 
-
 ![](/uploads/versions/13804---x----1422-1580x---.jpg)
 
 [Attack of the Graveyard Ghouls by R.L. Stine](http://www.brooklinebooksmith-shop.com/book/9780545828864)
@@ -84,7 +82,6 @@ This cult classic tells the story of a successful young couple and their two chi
 A classic in its own right, the *Goosebumps* series has kept all of us up at night. In this frightful installment young Spencer is haunted by a ghoul who rises from the local graveyard to pay Spencer an unwelcome visit. &nbsp;
 
 ---
-
 
 ![](/uploads/versions/13733---x----1248-1248x---.jpg)
 
