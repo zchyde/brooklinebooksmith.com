@@ -49,11 +49,13 @@ There is no character more deplorable than Brett Easton Ellis' Patrick Bateman. 
 
 > "I came to you because I want to tell my story,' the man on Dr Harper's couch was saying. The man was Lester Billings from Waterbury, Connecticut. According to the history taken from Nurse Vickers, he was twenty-eight, employed by an industrial firm in New York, divorced, and the father of three children. All deceased."
 
----![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
+—![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
 
 [Dracula by Bram Stoker](http://www.brooklinebooksmith-shop.com/book/9780451530660')
 
 Bram Stoker's *Dracula* is a classic by all accounts and could not be left out of this list.&nbsp; Other horror classics like Mary Shelley's&nbsp;[Frankenstein](http://www.brooklinebooksmith-shop.com/book/9780451532244) were considered but*Dracula* earns its spot on this list because meeting the modern Prometheus would be exciting but Dracula should definitely keep his distance.&nbsp;
+
+---
 
 ---
 
@@ -65,6 +67,8 @@ Katherine Dunn has created one strange and twisted story with some seriously loa
 
 ---
 
+---
+
 ![](/uploads/versions/13664---x----1405-1405x---.jpg)
 
 [House of Leaves by Mark Danielewski](http://www.brooklinebooksmith-shop.com/book/9780375703768)
@@ -73,11 +77,15 @@ This cult classic tells the story of a successful young couple and their two chi
 
 ---
 
+---
+
 ![](/uploads/versions/13804---x----1422-1580x---.jpg)
 
 [Attack of the Graveyard Ghouls by R.L. Stine](http://www.brooklinebooksmith-shop.com/book/9780545828864)
 
 A classic in its own right, the *Goosebumps* series has kept all of us up at night. In this frightful installment young Spencer is haunted by a ghoul who rises from the local graveyard to pay Spencer an unwelcome visit. &nbsp;
+
+---
 
 ---
 
