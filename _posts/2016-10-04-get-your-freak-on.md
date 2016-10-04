@@ -50,7 +50,8 @@ There is no character more deplorable than Brett Easton Ellis' Patrick Bateman. 
 > "I came to you because I want to tell my story,' the man on Dr Harper's couch was saying. The man was Lester Billings from Waterbury, Connecticut. According to the history taken from Nurse Vickers, he was twenty-eight, employed by an industrial firm in New York, divorced, and the father of three children. All deceased."
 
 ---
-<br>![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
+
+![](/uploads/versions/-mg-3747---x----2912-2912x---.jpg)
 
 [Dracula by Bram Stoker](http://www.brooklinebooksmith-shop.com/book/9780451530660')
 
@@ -58,15 +59,12 @@ Bram Stoker's *Dracula* is a classic by all accounts and could not be left out o
 
 ---
 
----
 
 ![](/uploads/versions/-mg-3646---x----2848-2848x---.jpg)
 
 [Geek Love by Katherine Dunn](http://www.brooklinebooksmith-shop.com/book/9780375713347)
 
 Katherine Dunn has created one strange and twisted story with some seriously loathsome antagonists. &nbsp;In this novel a couple manipulates their pregnancies in order to create a family of freaks for their traveling side show. &nbsp;But, what begins as a weird and ugly experiment becomes a heartwarming tale of family and acceptance.&nbsp;
-
----
 
 ---
 
@@ -78,7 +76,6 @@ This cult classic tells the story of a successful young couple and their two chi
 
 ---
 
----
 
 ![](/uploads/versions/13804---x----1422-1580x---.jpg)
 
@@ -88,15 +85,12 @@ A classic in its own right, the *Goosebumps* series has kept all of us up at nig
 
 ---
 
----
 
 ![](/uploads/versions/13733---x----1248-1248x---.jpg)
 
 [Perfume by Patrick S&uuml;skind](http://www.brooklinebooksmith-shop.com/book/9780375725845)
 
 *Perfum\*\*e* will make your skin crawl. &nbsp;S&uuml;skind tells the story of a young perfume maker obsessed with creating the perfect scent. &nbsp;The young man searches far and wide for the perfect combination of petal extracts and essential oils until one day the intoxicating smell he's been seeking for wafts past. &nbsp;He stops searching and starts *hunting*.
-
----
 
 ---
 
