@@ -1,5 +1,5 @@
 ---
-title: Audio Books
+title: Audiobooks
 featured_image_path: /uploads/libro-image.jpeg
 featured_image_position: 40
 featured_image_credit:
@@ -26,7 +26,7 @@ We are thrilled to have partnered with [Libro.fm](https://libro.fm/Brookline Boo
 
 1. Visit [libro.fm/BrooklineBooksmith](https://libro.fm/brooklinebooksmith) and purchase your digital audiobook. Use promo code **LISTENUP** 20% off.
 2. You’ll receive a confirmation email with instructions to [download the iOS](https://itunes.apple.com/us/app/libro.fm/id1057776523) or Android App, for easy listening on your mobile device.
-3. **Start listening.**&nbsp;Sign into the app and download your book(s) to your device.
+3. **Start listening.** Sign into the app and download your book(s) to your device.
 
 
 ---
