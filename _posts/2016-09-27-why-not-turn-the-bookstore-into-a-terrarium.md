@@ -2,7 +2,7 @@
 title: Why NOT Turn The Bookstore Into a Terrarium?
 published: true
 featured: false
-date: 2016-09-28T00:00:00.000Z
+date: 2016-09-28 00:00:00
 description: Book trains and stairwell galleries and small businesses winning big honors.
 featured_image_path: /uploads/emberley.jpg
 featured_image_position: 50
@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - paul
 related_books:
 ---
 
