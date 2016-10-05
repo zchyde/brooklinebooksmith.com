@@ -33,7 +33,7 @@ We are thrilled to have partnered with [Libro.fm](https://libro.fm/Brookline Boo
 
 ## **Listening Just Got a Lot More Fun**
 
-Listen to your [Libro.fm](https://libro.fm/Brookline Booksmithjp) audiobooks anytime, anywhere. With the free app, enjoy great books during your commute, workout, chores, and more!
+Listen to your [Libro.fm](https://libro.fm/brooklinebooksmith) audiobooks anytime, anywhere. With the free app, enjoy great books during your commute, workout, chores, and more!
 
 ---
 
