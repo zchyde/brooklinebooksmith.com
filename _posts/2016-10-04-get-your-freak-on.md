@@ -19,13 +19,13 @@ It's October and Halloween is around the corner. &nbsp;Spend this month getting 
 
 ---
 
-![full-img](/uploads/versions/gwen_feed---x0-0-500-500-2912-2912x---.jpg)[Feed by Mira Grant](http://www.brooklinebooksmith-shop.com/book/9780316081054)
+![Feed](/uploads/versions/gwen_feed---x0-0-500-500-2912-2912x---.jpg)[Feed by Mira Grant](http://www.brooklinebooksmith-shop.com/book/9780316081054)
 
 A bookseller favorite here at the Booksmith is&nbsp;*Feed&nbsp;*by Mira Grant. &nbsp;The first in a terrifying trilogy following two young journalists as they investigate the suspicious circumstances of a sudden epidemic. &nbsp;This story's real fright factor lies in the social policies and political ideologies developed as a result of the zombie outbreak.&nbsp;
 
 ---
 
-![full-img](/uploads/versions/gwen-castle---x----400-400x---.jpg)
+![Castle](/uploads/versions/gwen-castle---x----400-400x---.jpg)
 
 [We Have Always Lived in the Castle by Shirley Jackson](http://www.brooklinebooksmith-shop.com/book/9780143039976)&nbsp;
 
