@@ -9,9 +9,10 @@ featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
 category:
+  - kidsmith
 staff:
+  - amy
 books:
-  - illuminae
 ---
 
 
