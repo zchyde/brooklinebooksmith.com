@@ -56,6 +56,7 @@ My solution to that, I mean, aside from giving up sleeping, which everyone tells
 <br>\*Don't do this.&nbsp;
 
 ---
+
 <br>[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)
 <br>**[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater**
 
@@ -70,9 +71,9 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great. But, oh man, did he grow on me. I was practically thinking in his voice by the end of the first disc.&nbsp;
 <br>
 <br>Bonus: Stiefvater composes all of the music used in her audiobooks, so you should listen to it as the credits play.&nbsp;
-<br>---
+<br>—
 
-![](/uploads/versions/9780062224088---x----267-400x---.jpg)
+[![](/uploads/versions/9780062224088---x----267-400x---.jpg)](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk)
 <br>
 <br>**[Fortunately, The Milk](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk) by Neil Gaiman**
 <br>
@@ -83,8 +84,8 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>It clocks in at about an hour so it's perfect for a short trip you don't mind giggling through.
 
 ---
-<br>
-<br>![](/uploads/versions/9780307744432---x----259-400x---.jpg)
+
+[![](/uploads/versions/9780307744432---x----259-400x---.jpg)](https://libro.fm/audiobooks/9780307938916-the-night-circus)
 <br>**[The Night Circus](https://libro.fm/audiobooks/9780307938916-the-night-circus) by Erin Morgenstern**
 <br>
 <br>Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
@@ -97,7 +98,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 
 ---
 
-![](/uploads/versions/9780307711816---x----347-400x---.jpg)
+[![](/uploads/versions/9780307711816---x----347-400x---.jpg)](https://libro.fm/audiobooks/9780307711823-white-cat)
 
 **[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat) by Holly Black**
 <br>With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
