@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-10-06 09:00:00
 description: 'But which to choose?!'
-featured_image_path:
+featured_image_path: /uploads/adatwist.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
