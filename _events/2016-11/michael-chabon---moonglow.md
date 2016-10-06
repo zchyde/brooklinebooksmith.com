@@ -12,4 +12,6 @@ book_isbn:
 ---
 
 
-Following on the heels of his *New York Times*-bestselling novel Telegraph Avenue, Pulitzer Prize-winning author Michael Chabon delivers, *Moonglow* the deathbed confession of a man the narrator refers to only as “my grandfather.” It is a tale of madness, of war and adventure, of sex and marriage and desire, of existential doubt and model rocketry. It is also a tour de force of speculative autobiography in which Chabon devises and reveals a secret history of his own imagination. *Moonglow* is Chabon at his most moving and inventive. **This event requires tickets, which go on sale Thursday, October 6th.&nbsp;**
+Following on the heels of his *New York Times*-bestselling novel Telegraph Avenue, Pulitzer Prize-winning author Michael Chabon delivers, *Moonglow* the deathbed confession of a man the narrator refers to only as “my grandfather.” It is a tale of madness, of war and adventure, of sex and marriage and desire, of existential doubt and model rocketry. It is also a tour de force of speculative autobiography in which Chabon devises and reveals a secret history of his own imagination. *Moonglow* is Chabon at his most moving and inventive.
+
+##### [**This event requires tickets that can be purchased on our eventbrite page here.&nbsp;**](https://www.eventbrite.com/e/michael-chabon-1128-tickets-28393538839)
