@@ -2,7 +2,7 @@
 title: Audiobooks from Amy
 published: false
 featured: false
-date: 2016-10-01 09:00:00
+date: 2016-10-06 09:00:00
 description:
 featured_image_path:
 featured_image_position: 50
@@ -40,6 +40,7 @@ My solution to that, I mean, aside from giving up sleeping, which everyone tells
 <br>If you're not sure where to start, I'm happy to offer you a couple of my favorites.
 <br>—
 
+[![](/uploads/versions/9780553499117---x----266-400x---.jpg)](https://libro.fm/audiobooks/9781101916636-illuminae)
 <br>**[Illuminae](https://libro.fm/audiobooks/9781101916636-illuminae) by Amie Kaufman and Jay Kristoff**
 <br>
 <br>When their planet is attacked out of nowhere, Kady and Ezra become refugees at the mercy of the fleet that saved them and their attackers who are still following. To complicate matters, a deadly virus has broken out on one of the ships and the fleet's AI has started making decisions of its own.
@@ -53,7 +54,9 @@ My solution to that, I mean, aside from giving up sleeping, which everyone tells
 <br>I had read the book more than once before I picked up the audio and I still almost walked into traffic\* because I was so caught up in it. So, maybe just walk around the block or something but LISTEN TO THIS ONE.
 <br>
 <br>\*Don't do this.&nbsp;
-<br>
+
+---
+<br>[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)
 <br>**[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater**
 
 Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
@@ -67,7 +70,9 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great. But, oh man, did he grow on me. I was practically thinking in his voice by the end of the first disc.&nbsp;
 <br>
 <br>Bonus: Stiefvater composes all of the music used in her audiobooks, so you should listen to it as the credits play.&nbsp;
-<br>
+<br>---
+
+![](/uploads/versions/9780062224088---x----267-400x---.jpg)
 <br>
 <br>**[Fortunately, The Milk](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk) by Neil Gaiman**
 <br>
@@ -76,8 +81,10 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.&nbsp;
 <br>
 <br>It clocks in at about an hour so it's perfect for a short trip you don't mind giggling through.
+
+---
 <br>
-<br>
+<br>![](/uploads/versions/9780307744432---x----259-400x---.jpg)
 <br>**[The Night Circus](https://libro.fm/audiobooks/9780307938916-the-night-circus) by Erin Morgenstern**
 <br>
 <br>Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
@@ -87,6 +94,10 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>*The Night Circus* is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind-the-scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
 <br>
 <br>But somehow Dale does it. Maybe there's just something about Morgenstern's prose that works with his tone. His voice captures that unique and different magic of *The Night Circus* itself. It's one of those audiobooks that makes you take the long way home to hear a little bit more of it.
+
+---
+
+![](/uploads/versions/9780307711816---x----347-400x---.jpg)
 
 **[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat) by Holly Black**
 <br>With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
