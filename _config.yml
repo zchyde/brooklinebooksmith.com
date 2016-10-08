@@ -106,6 +106,10 @@ collections:
     future: true
   books:
     output: false
+    _comments:
+      link_to_buy_page: "Only necessary if the buy page is not the BBS shop site."
+      image_path: "Use a direct link from the BBS shop page, if possible."
+
   weekly_bestsellers:
     output: false
     hide_content: true

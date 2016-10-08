@@ -1,0 +1,15 @@
+{% if jekyll.environment == "development" %}
+  {% if page.related_books %}
+    <hr />
+    {% for object in page.related_books %}
+      <div class="col-12 md-col col-3">
+        {% assign book = site.books | where: 'slug', object | first %}
+        <h2>
+          {{ book.title }}
+        </h2>
+        <img src="{{ book.image_path }}" class="fit" alt="" />
+      </div>
+    {% endfor %}
+  {% endif %}
+
+{% endif %}
