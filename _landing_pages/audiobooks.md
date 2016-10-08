@@ -1,6 +1,6 @@
 ---
 title: Audiobooks
-audio_books:
+related_books:
 featured_image_path: /uploads/libro-image.jpeg
 featured_image_position: 40
 featured_image_credit:
