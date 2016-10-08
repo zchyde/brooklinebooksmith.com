@@ -48,6 +48,10 @@ subscription_recurring_times:
   - 12
   - 24
 
+_comments:
+  link_to_buy_page: "Only necessary if the buy page is not the BBS shop site."
+  featured_image_path: Upload images to the Uploads directory  
+
 
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3
@@ -106,10 +110,6 @@ collections:
     future: true
   books:
     output: false
-    _comments:
-      link_to_buy_page: "Only necessary if the buy page is not the BBS shop site."
-      image_path: "Use a direct link from the BBS shop page, if possible."
-
   weekly_bestsellers:
     output: false
     hide_content: true
@@ -150,19 +150,11 @@ defaults:
       layout: page-single
       _comments:
         featured: Stick to the top of the home page? Remember to uncheck when done.
-        featured_image_path: Upload images to the Uploads directory
   - scope:
       path: ''
       type: events
     values:
       layout: page-single
-  - scope:
-      path: ''
-      type: first-edition-books
-    values:
-      layout: page-single
-      _comments:
-        selection_end_date: 'The last date this book should be a current selection'
   - scope:
       path: ''
       type: landing_pages
@@ -188,6 +180,12 @@ defaults:
       page_heading:
       description: 'Brookline Booksmith is an stablished independent bookshop offering new & used titles, plus gifts, over 2 floors.'
       regenerate: true
+  - scope:
+      path: ''
+      type: books
+    values:
+      _comments:
+        image_path: "Click the link icon to add an image directly from the BBS shop page, when possible."
 
 
 compress_html:
