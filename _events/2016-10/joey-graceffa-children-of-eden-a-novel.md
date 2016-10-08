@@ -14,9 +14,7 @@ book_isbn:
 
 Brookline Booksmith is thrilled to bring Joey Graceffa back to Boston for his debut Young Adult Fantasy novel,&nbsp;*Children of Eden*. Rowan is an illegal Second Child in a post-apocalyptic world where all humanity is forced to live in Eden, a contained, population-controlled environment under the watch of an oppressive government. But after sixteen years of secrecy Rowan is ready to forge her own path, unleashing a chain of events that could change the world of Eden forever.
 
-### Online tickets are no longer available.&nbsp; Walk in tickets will be
-<br>available at the bookstore on Saturday, October 8 while supplies
-<br>last.
+### Online tickets are no longer available.&nbsp; Walk in tickets will be available at the bookstore on Saturday, October 8 while supplies last.
 <br>&nbsp;
 
 #### &nbsp;
