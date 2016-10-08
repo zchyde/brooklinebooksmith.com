@@ -22,18 +22,7 @@ layout: default
       {% include _format-article.html %}
     {% endif %}
 
-    {% if page.related_books %}
-<hr />
-      {% for object in page.related_books %}
-
-          {% assign book = site.books | where: 'slug', object | first %}
-          <h2>{{ book.title }}</h2>
-
-
-      {% endfor %}
-
-    {% endif %}
-
+    
   </article>
 
 
