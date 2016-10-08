@@ -1,6 +1,7 @@
 ---
 title: "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
 isbn: "9780804170123"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/510iAdsKYdL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "324"

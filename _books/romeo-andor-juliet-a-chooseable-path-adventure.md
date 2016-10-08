@@ -2,6 +2,7 @@
 title: 'Romeo And/Or Juliet: A Chooseable-Path Adventure'
 isbn: '9781101983300'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/300/983/9781101983300.jpg'
 ---
 

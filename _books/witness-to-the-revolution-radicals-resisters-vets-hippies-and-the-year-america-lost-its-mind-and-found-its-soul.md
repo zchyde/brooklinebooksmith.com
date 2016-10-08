@@ -2,6 +2,7 @@
 title: 'Witness to the Revolution: Radicals, Resisters, Vets, Hippies, and the Year America Lost Its Mind and Found Its Soul'
 isbn: '9780812993189'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/189/993/9780812993189.jpg'
 ---
 

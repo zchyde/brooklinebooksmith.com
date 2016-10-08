@@ -2,6 +2,7 @@
 title: "Custer's Trials: A Life on the Frontier of a New America"
 isbn: '9780307592644'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/644/592/9780307592644.jpg'
 ---
 

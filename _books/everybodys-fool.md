@@ -2,6 +2,7 @@
 title: "Everybody's Fool"
 isbn: '9780307270641'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/641/270/9780307270641.jpg'
 ---
 

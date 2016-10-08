@@ -2,6 +2,7 @@
 title: Heat and Light
 isbn: '9780061763298'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/298/763/9780061763298.jpg'
 ---
 

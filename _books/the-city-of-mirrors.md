@@ -2,6 +2,7 @@
 title: The City of Mirrors
 isbn: '9780345505002'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/002/505/9780345505002.jpg'
 ---
 

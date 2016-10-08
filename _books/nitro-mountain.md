@@ -2,6 +2,7 @@
 title: Nitro Mountain
 isbn: '9781101946367'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/367/946/9781101946367.jpg'
 ---
 

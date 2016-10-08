@@ -2,6 +2,7 @@
 title: Modern Girls
 isbn: '9780451477125'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/125/477/9780451477125.jpg'
 ---
 

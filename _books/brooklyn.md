@@ -2,6 +2,7 @@
 title: Brooklyn
 isbn: '9781439148952'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/952/148/9781439148952.jpg'
 ---
 

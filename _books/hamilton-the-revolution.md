@@ -2,6 +2,7 @@
 title: 'Hamilton: The Revolution'
 isbn: '9781455539741'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/741/539/9781455539741.jpg'
 ---
 

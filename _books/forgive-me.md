@@ -2,6 +2,7 @@
 title: Forgive Me
 isbn: '9780758293473'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/473/293/9780758293473.jpg'
 ---
 

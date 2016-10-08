@@ -2,6 +2,7 @@
 title: 'Big Nate: Revenge of the Cream Puffs'
 isbn: '9781449462284'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/284/462/9781449462284.jpg'
 ---
 

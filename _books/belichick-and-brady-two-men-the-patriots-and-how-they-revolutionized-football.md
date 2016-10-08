@@ -2,6 +2,7 @@
 title: 'Belichick and Brady: Two Men, the Patriots, and How They Revolutionized Football'
 isbn: '9781611689747'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/918/266/9780316266918.jpg'
 ---
 

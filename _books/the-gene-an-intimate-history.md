@@ -2,6 +2,7 @@
 title: 'The Gene: An Intimate History'
 isbn: '9781476733500'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/500/733/9781476733500.jpg'
 ---
 

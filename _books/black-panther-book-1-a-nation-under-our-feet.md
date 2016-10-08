@@ -2,6 +2,7 @@
 title: 'Black Panther, Book 1: A Nation Under Our Feet'
 isbn: '9781302900533'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/533/900/9781302900533.jpg'
 ---
 

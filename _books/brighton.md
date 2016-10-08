@@ -2,6 +2,7 @@
 title: Brighton
 isbn: '9780062442970'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/970/442/9780062442970.jpg'
 ---
 

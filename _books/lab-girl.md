@@ -2,6 +2,7 @@
 title: Lab Girl
 isbn: '9781101874936'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/936/874/9781101874936.jpg'
 ---
 

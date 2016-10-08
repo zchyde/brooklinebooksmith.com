@@ -2,6 +2,7 @@
 title: Commonwealth
 isbn: '9780062491794'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/794/491/9780062491794.jpg'
 ---
 

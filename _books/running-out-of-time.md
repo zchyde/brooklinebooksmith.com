@@ -2,6 +2,7 @@
 title: Running Out of Time
 isbn: '9780689812361'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/361/812/9780689812361.jpg'
 ---
 

@@ -2,6 +2,7 @@
 title: The Scandalous Sisterhood of Prickwillow Place
 isbn: '9781250073396'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/396/073/9781250073396.jpg'
 ---
 

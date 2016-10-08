@@ -2,6 +2,7 @@
 title: 'Girls & Sex: Navigating the Complicated New Landscape'
 isbn: '9780062209726'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/726/209/9780062209726.jpg'
 ---
 

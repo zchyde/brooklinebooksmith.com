@@ -2,6 +2,7 @@
 title: Gratitude
 isbn: '9780451492937'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/937/492/9780451492937.jpg'
 ---
 

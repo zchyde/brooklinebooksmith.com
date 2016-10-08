@@ -2,6 +2,7 @@
 title: Mayumi and the Sea of Happiness
 isbn: '9781609452698'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/698/452/9781609452698.jpg'
 ---
 

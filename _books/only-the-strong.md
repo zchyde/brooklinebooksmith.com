@@ -1,6 +1,7 @@
 ---
 title: "Only the Strong"
 isbn: "9781932841947"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/41qfFo9iZIL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "333"

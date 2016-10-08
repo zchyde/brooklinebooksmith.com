@@ -2,6 +2,7 @@
 title: The Pathless Sky
 isbn: '9781609452919'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/919/452/9781609452919.jpg'
 ---
 

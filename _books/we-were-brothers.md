@@ -2,6 +2,7 @@
 title: We Were Brothers
 isbn: '9781616204136'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/136/204/9781616204136.jpg'
 ---
 

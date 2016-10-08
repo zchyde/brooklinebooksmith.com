@@ -2,6 +2,7 @@
 title: Moonglow
 isbn: '9780062225559'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/559/225/9780062225559.jpg'
 ---
 

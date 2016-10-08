@@ -2,6 +2,7 @@
 title: The Raven King
 isbn: '9780545424981'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/981/424/9780545424981.jpg'
 ---
 

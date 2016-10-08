@@ -2,6 +2,7 @@
 title: The Dogs of Littlefield
 isbn: '9781476794242'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/242/794/9781476794242.jpg'
 ---
 

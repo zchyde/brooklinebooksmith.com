@@ -2,6 +2,7 @@
 title: "Kristy's Great Idea:"
 isbn: '9780545813877'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/877/813/9780545813877.jpg'
 ---
 

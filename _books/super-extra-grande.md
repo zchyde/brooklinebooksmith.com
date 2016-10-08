@@ -2,6 +2,7 @@
 title: Super Extra Grande
 isbn: '9781632060563'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/563/060/9781632060563.jpg'
 ---
 

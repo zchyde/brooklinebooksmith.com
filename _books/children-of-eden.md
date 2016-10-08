@@ -2,6 +2,7 @@
 title: Children of Eden
 isbn: '9781501146558'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/558/146/9781501146558.jpg'
 ---
 

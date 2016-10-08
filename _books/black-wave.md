@@ -2,6 +2,7 @@
 title: Black Wave
 isbn: '9781558619395'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/395/619/9781558619395.jpg'
 ---
 

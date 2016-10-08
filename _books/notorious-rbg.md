@@ -2,6 +2,7 @@
 title: 'Notorious RBG: The Life and Times of Ruth Bader Ginsburg'
 isbn: '9780062415837'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/837/415/9780062415837.jpg'
 ---
 

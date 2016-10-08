@@ -2,6 +2,7 @@
 title: 'Let Me Out: Unlock Your Creative Mind and Bring Your Ideas to Life'
 isbn: '9780143110958'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/958/110/9780143110958.jpg'
 ---
 

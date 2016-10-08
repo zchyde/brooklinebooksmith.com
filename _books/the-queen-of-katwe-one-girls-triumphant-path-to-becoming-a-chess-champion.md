@@ -2,6 +2,7 @@
 title: "The Queen of Katwe: One Girl's Triumphant Path to Becoming a Chess Champion"
 isbn: '9781451657821'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/821/657/9781451657821.jpg'
 ---
 

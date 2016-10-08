@@ -2,6 +2,7 @@
 title: M Train pb
 isbn: '9781101910160'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/160/910/9781101910160.jpg'
 ---
 

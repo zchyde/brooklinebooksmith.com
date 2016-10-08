@@ -2,6 +2,7 @@
 title: 'Finding Fontainebleau: An American Boy in France'
 isbn: '9780525428800'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/800/428/9780525428800.jpg'
 ---
 

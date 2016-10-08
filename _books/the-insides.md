@@ -2,6 +2,7 @@
 title: The Insides
 isbn: '9781612195469'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/469/195/9781612195469.jpg'
 ---
 

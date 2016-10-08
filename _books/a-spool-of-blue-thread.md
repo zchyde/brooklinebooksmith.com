@@ -2,6 +2,7 @@
 title: A Spool of Blue Thread
 isbn: '9780553394399'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/399/394/9780553394399.jpg'
 ---
 

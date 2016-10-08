@@ -2,6 +2,7 @@
 title: Ridgerunner
 isbn: '9788293326861'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/861/326/9788293326861.jpg'
 ---
 

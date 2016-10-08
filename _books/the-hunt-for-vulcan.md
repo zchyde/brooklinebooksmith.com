@@ -1,6 +1,7 @@
 ---
 title: "The Hunt for Vulcan: . . . And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe"
 isbn: "9780812998986"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51Lj35c8BlL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "329"

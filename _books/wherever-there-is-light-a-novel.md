@@ -1,6 +1,7 @@
 ---
 title: "Wherever There Is Light: A Novel"
 isbn: "9781476705583"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51F3mGFUJIL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "331"

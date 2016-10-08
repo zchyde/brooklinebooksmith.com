@@ -2,6 +2,7 @@
 title: Born to Run
 isbn: '9781501141515'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/515/141/9781501141515.jpg'
 ---
 

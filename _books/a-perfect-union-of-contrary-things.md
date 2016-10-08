@@ -2,6 +2,7 @@
 title: A Perfect Union of Contrary Things
 isbn: '9781495024429'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/429/024/9781495024429.jpg'
 ---
 

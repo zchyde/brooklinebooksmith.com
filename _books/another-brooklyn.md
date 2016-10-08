@@ -2,6 +2,7 @@
 title: Another Brooklyn
 isbn: '9780062359988'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/988/359/9780062359988.jpg'
 ---
 

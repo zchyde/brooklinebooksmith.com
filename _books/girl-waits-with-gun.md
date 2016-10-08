@@ -2,6 +2,7 @@
 title: Girl Waits with Gun
 isbn: '9780544800830'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/830/800/9780544800830.jpg'
 ---
 

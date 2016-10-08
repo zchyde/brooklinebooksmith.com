@@ -2,6 +2,7 @@
 title: Nutshell
 isbn: '9780385542074'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/074/542/9780385542074.jpg'
 ---
 

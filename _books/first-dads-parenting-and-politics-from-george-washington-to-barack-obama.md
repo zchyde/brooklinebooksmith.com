@@ -2,6 +2,7 @@
 title: 'First Dads: Parenting and Politics from George Washington to Barack Obama'
 isbn: '9781455551958'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/958/551/9781455551958.jpg'
 ---
 

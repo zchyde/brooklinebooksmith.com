@@ -2,6 +2,7 @@
 title: 'Dog Man: From the Creator of Captain Underpants'
 isbn: '9780545581608'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/608/581/9780545581608.jpg'
 ---
 

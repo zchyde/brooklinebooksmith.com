@@ -2,6 +2,7 @@
 title: 'The Trials of Apollo, Book One: The Hidden Oracle'
 isbn: '9781484732748'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/748/732/9781484732748.jpg'
 ---
 

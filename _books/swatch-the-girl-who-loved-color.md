@@ -2,6 +2,7 @@
 title: 'Swatch: The Girl Who Loved Color'
 isbn: '9780062366382'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/382/366/9780062366382.jpg'
 ---
 

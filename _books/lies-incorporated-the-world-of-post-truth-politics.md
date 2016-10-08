@@ -2,6 +2,7 @@
 title: 'Lies, Incorporated: The World of Post-Truth Politics'
 isbn: '9780307279590'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/590/279/9780307279590.jpg'
 ---
 

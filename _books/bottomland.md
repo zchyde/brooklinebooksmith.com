@@ -2,6 +2,7 @@
 title: Bottomland
 isbn: '9780802124715'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/715/124/9780802124715.jpg'
 ---
 

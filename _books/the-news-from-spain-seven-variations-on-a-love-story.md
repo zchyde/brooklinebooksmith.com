@@ -2,6 +2,7 @@
 title: 'The News from Spain: Seven Variations on a Love Story'
 isbn: '9780307949295'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/295/949/9780307949295.jpg'
 ---
 

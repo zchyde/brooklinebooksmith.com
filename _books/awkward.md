@@ -2,6 +2,7 @@
 title: Awkward
 isbn: '9780316381307'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/307/381/9780316381307.jpg'
 ---
 

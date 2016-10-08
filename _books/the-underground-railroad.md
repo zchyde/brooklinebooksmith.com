@@ -2,6 +2,7 @@
 title: The Underground Railroad
 isbn: '9780385542364'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/364/542/9780385542364.jpg'
 ---
 

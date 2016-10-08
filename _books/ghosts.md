@@ -2,6 +2,7 @@
 title: Ghosts
 isbn: '9780545540629'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/629/540/9780545540629.jpg'
 ---
 

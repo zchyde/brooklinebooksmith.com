@@ -1,6 +1,7 @@
 ---
 title: "Savage Lane"
 isbn: "9781940610641"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51fMIINcy-L.jpg"
 thumbnail_height: "500"
 thumbnail_width: "319"

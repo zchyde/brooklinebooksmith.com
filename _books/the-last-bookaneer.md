@@ -2,6 +2,7 @@
 title: The Last Bookaneer
 isbn: '9781594204920'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/920/204/9781594204920.jpg'
 ---
 

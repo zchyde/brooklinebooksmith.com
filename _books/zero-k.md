@@ -2,6 +2,7 @@
 title: Zero K
 isbn: '9781501135392'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/392/135/9781501135392.jpg'
 ---
 

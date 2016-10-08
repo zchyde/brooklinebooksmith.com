@@ -2,6 +2,7 @@
 title: "Oh, the Places You'll Go!"
 isbn: '9780679805274'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/274/805/9780679805274.jpg'
 ---
 

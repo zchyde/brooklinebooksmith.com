@@ -2,6 +2,7 @@
 title: Margaret the First
 isbn: '9781936787357'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/357/787/9781936787357.jpg'
 ---
 

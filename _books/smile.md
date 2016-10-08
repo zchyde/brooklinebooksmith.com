@@ -2,6 +2,7 @@
 title: Smile
 isbn: '9780545132060'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/060/132/9780545132060.jpg'
 ---
 

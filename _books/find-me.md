@@ -2,6 +2,7 @@
 title: Find Me
 isbn: '9780374536077'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/077/536/9780374536077.jpg'
 ---
 

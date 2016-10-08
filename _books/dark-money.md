@@ -2,6 +2,7 @@
 title: Dark Money
 isbn: '9780385535595'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/595/535/9780385535595.jpg'
 ---
 

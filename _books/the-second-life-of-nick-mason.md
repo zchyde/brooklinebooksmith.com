@@ -2,6 +2,7 @@
 title: The Second Life of Nick Mason
 isbn: '9780399574320'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/320/574/9780399574320.jpg'
 ---
 

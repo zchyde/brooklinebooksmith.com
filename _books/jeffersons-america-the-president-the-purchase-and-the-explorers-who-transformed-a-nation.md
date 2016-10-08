@@ -2,6 +2,7 @@
 title: "Jefferson's America: The President, the Purchase, and the Explorers Who Transformed a Nation"
 isbn: '9780307956484'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/484/956/9780307956484.jpg'
 ---
 

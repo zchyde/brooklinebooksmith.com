@@ -2,6 +2,7 @@
 title: The Thank You Book
 isbn: '9781423178286'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/286/178/9781423178286.jpg'
 ---
 

@@ -2,6 +2,7 @@
 title: Fates and Furies
 isbn: '9781594634482'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/482/634/9781594634482.jpg'
 ---
 

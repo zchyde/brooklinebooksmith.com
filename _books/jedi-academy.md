@@ -2,6 +2,7 @@
 title: Jedi Academy
 isbn: '9780545505178'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/178/505/9780545505178.jpg'
 ---
 

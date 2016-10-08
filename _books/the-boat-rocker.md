@@ -2,6 +2,7 @@
 title: The Boat Rocker
 isbn: '9780307911629'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/629/911/9780307911629.jpg'
 ---
 

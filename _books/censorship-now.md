@@ -1,6 +1,7 @@
 ---
 title: "Censorship Now!!"
 isbn: "9781617754098"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/31fAfkZVnSL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "324"

@@ -2,6 +2,7 @@
 title: Echo the Copycat
 isbn: '9781481450010'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/010/450/9781481450010.jpg'
 ---
 

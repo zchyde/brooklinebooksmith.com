@@ -2,6 +2,7 @@
 title: 'Soup Swap: Comforting Recipes to Make and Share'
 isbn: '9781452148366'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/366/148/9781452148366.jpg'
 ---
 

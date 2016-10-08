@@ -2,6 +2,7 @@
 title: 'The Art of Perspective: Who Tells the Story'
 isbn: '9781555977269'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/269/977/9781555977269.jpg'
 ---
 

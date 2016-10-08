@@ -2,6 +2,7 @@
 title: 'The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future'
 isbn: '9780525428084'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/084/428/9780525428084.jpg'
 ---
 

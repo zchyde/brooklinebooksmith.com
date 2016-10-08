@@ -2,6 +2,7 @@
 title: What Do You Do with an Idea?
 isbn: '9781938298073'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/073/298/9781938298073.jpg'
 ---
 

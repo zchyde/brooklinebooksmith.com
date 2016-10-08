@@ -2,6 +2,7 @@
 title: The Marvelous Magic of Miss Mabel
 isbn: '9781481465335'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/335/465/9781481465335.jpg'
 ---
 

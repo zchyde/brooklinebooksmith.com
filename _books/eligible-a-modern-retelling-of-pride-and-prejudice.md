@@ -2,6 +2,7 @@
 title: 'Eligible: A Modern Retelling of Pride and Prejudice'
 isbn: '9781400068326'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/326/068/9781400068326.jpg'
 ---
 

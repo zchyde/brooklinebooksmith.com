@@ -2,6 +2,7 @@
 title: Blueberries for Sal
 isbn: '9780140501698'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/698/501/9780140501698.jpg'
 ---
 

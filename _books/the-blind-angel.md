@@ -1,6 +1,7 @@
 ---
 title: "The Blind Angel"
 isbn: "9781592643592"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51Q0ddzpZ9L.jpg"
 thumbnail_height: "500"
 thumbnail_width: "323"

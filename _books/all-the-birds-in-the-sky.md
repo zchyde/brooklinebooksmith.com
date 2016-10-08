@@ -2,6 +2,7 @@
 title: All the Birds in the Sky
 isbn: '9780765379948'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/948/379/9780765379948.jpg'
 ---
 

@@ -2,6 +2,7 @@
 title: 'Hustling Hitler: The Jewish Vaudevillian Who Fooled the Fuhrer'
 isbn: '9780399161476'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/476/161/9780399161476.jpg'
 ---
 

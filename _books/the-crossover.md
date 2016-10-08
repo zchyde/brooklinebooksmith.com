@@ -2,6 +2,7 @@
 title: The Crossover
 isbn: '9780544107717'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/717/107/9780544107717.jpg'
 ---
 

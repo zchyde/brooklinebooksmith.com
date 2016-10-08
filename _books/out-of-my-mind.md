@@ -2,6 +2,7 @@
 title: Out of My Mind
 isbn: '9781416971719'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/719/971/9781416971719.jpg'
 ---
 

@@ -2,6 +2,7 @@
 title: The Sibley Field Guide to Birds of Eastern North America
 isbn: '9780307957917'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/917/957/9780307957917.jpg'
 ---
 

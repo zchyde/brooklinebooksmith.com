@@ -2,6 +2,7 @@
 title: Drawing Blood
 isbn: '9780062323644'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/644/323/9780062323644.jpg'
 ---
 

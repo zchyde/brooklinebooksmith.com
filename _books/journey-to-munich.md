@@ -2,6 +2,7 @@
 title: Journey to Munich
 isbn: '9780062220608'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/608/220/9780062220608.jpg'
 ---
 

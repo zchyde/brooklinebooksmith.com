@@ -2,6 +2,7 @@
 title: The Orphan Queen
 isbn: '9780062317384'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/384/317/9780062317384.jpg'
 ---
 

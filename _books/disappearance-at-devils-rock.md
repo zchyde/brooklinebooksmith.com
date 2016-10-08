@@ -2,6 +2,7 @@
 title: "Disappearance at Devil's Rock"
 isbn: '9780062363268'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/268/363/9780062363268.jpg'
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Accidents of Marriage: A Novel"
 isbn: "9781451673050"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51UKO5fZlbL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "331"

@@ -2,6 +2,7 @@
 title: The Heart Goes Last
 isbn: '9781101912362'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/362/912/9781101912362.jpg'
 ---
 

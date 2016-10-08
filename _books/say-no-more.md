@@ -2,6 +2,7 @@
 title: Say No More
 isbn: '9780765385352'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/352/385/9780765385352.jpg'
 ---
 

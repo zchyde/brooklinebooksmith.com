@@ -2,6 +2,7 @@
 title: Tell the Wind and Fire
 isbn: '9780544318175'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/175/318/9780544318175.jpg'
 ---
 

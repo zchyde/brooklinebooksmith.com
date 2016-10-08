@@ -2,6 +2,7 @@
 title: 'Valiant Ambition: George Washington, Benedict Arnold, and the Fate of the American Revolution'
 isbn: '9780525426783'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/783/426/9780525426783.jpg'
 ---
 

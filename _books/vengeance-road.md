@@ -2,6 +2,7 @@
 title: Vengeance Road
 isbn: '9780544466388'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/388/466/9780544466388.jpg'
 ---
 

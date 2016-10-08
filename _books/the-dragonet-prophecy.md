@@ -2,6 +2,7 @@
 title: The Dragonet Prophecy
 isbn: '9780545349239'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/239/349/9780545349239.jpg'
 ---
 

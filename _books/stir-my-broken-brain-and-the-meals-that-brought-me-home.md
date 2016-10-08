@@ -2,6 +2,7 @@
 title: 'Stir: My Broken Brain and the Meals That Brought Me Home'
 isbn: '9781594631320'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/320/631/9781594631320.jpg'
 ---
 

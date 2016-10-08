@@ -2,6 +2,7 @@
 title: "Miller's Valley"
 isbn: '9780812996081'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/081/996/9780812996081.jpg'
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Shadows of Self (Mistborn)"
 isbn: "9780765378552"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/51elU7hCehL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "329"

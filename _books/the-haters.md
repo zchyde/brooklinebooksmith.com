@@ -2,6 +2,7 @@
 title: The Haters
 isbn: '9781419720789'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/789/720/9781419720789.jpg'
 ---
 

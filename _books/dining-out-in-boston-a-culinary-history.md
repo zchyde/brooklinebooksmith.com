@@ -2,6 +2,7 @@
 title: 'Dining Out in Boston: A Culinary History'
 isbn: '9781611689105'
 binding:
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/105/689/9781611689105.jpg'
 ---
 

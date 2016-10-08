@@ -1,6 +1,7 @@
 ---
 title: "Safe Inside the Violence"
 isbn: "9788293326700"
+link_to_buy_page:
 image_path: "https://ecx.images-amazon.com/images/I/41Fm%2BZnUsNL.jpg"
 thumbnail_height: "500"
 thumbnail_width: "313"

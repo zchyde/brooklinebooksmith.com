@@ -2,6 +2,7 @@
 title: The Darkest Part of the Forest
 isbn: '9780316213073'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/073/213/9780316213073.jpg'
 ---
 

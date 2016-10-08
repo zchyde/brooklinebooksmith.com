@@ -2,6 +2,7 @@
 title: 'Incarceration Nations: A Journey to Justice in Prisons Around the World'
 isbn: '9781590517277'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/277/517/9781590517277.jpg'
 ---
 

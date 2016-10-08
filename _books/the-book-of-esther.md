@@ -2,6 +2,7 @@
 title: The Book of Esther
 isbn: '9781101904091'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/091/904/9781101904091.jpg'
 ---
 

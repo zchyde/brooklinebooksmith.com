@@ -2,6 +2,7 @@
 title: 'A Field Guide to Lies: Critical Thinking in the Information Age'
 isbn: '9780525955221'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/221/955/9780525955221.jpg'
 ---
 

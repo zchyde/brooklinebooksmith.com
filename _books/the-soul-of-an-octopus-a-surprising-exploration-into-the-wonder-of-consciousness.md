@@ -2,6 +2,7 @@
 title: 'The Soul of an Octopus: A Surprising Exploration Into the Wonder of Consciousness'
 isbn: '9781451697728'
 binding: Paperback
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/728/697/9781451697728.jpg'
 ---
 

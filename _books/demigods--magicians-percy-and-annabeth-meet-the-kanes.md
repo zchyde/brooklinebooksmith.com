@@ -2,6 +2,7 @@
 title: 'Demigods & Magicians: Percy and Annabeth Meet the Kanes'
 isbn: '9781484732786'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/786/732/9781484732786.jpg'
 ---
 

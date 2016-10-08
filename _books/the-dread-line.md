@@ -2,6 +2,7 @@
 title: The Dread Line
 isbn: '9780765374332'
 binding: Hardcover
+link_to_buy_page:
 image_path: 'https://images.booksense.com/images/332/374/9780765374332.jpg'
 ---
 
