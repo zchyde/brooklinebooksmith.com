@@ -21,4 +21,4 @@ books:
 
 Many of those garden-enthusiasts grasp inspiration from garden.&nbsp; If you're feeling a bit "under-whelmed" with your eco-inspiration, look to these two quote-collections. &nbsp;&nbsp;
 
-![](/uploads/versions/perma-promise---x----311-400x---.jpg)What can permaculture teach us about our futures? Coming out this November is Jono Neiger's book <u>The Permacutlure Promise</u>.&nbsp; In her book, Neiger looks at the core values of permaculture and seeks to utilize its core long-range focus of permaculture and looks to this gardening techniques for solutions to climate change, re-energizing our and creating more resilient communities.&nbsp;
+![](/uploads/versions/perma-promise---x----311-400x---.jpg)What can permaculture teach us about our futures? Coming out this November is Jono Neiger's book <u>The Permacutlure Promise</u>.&nbsp; In her book, Neiger looks at the core values of permaculture, and seeks to utilize its core long-range focus of permaculture and looks to this gardening techniques for solutions to climate change, re-energizing our and creating more resilient communities.&nbsp;
