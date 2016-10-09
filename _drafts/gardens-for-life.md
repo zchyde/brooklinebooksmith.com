@@ -19,6 +19,6 @@ books:
 
 ![](/uploads/versions/gaias-garden---x----320-400x---.jpg)Toby Hemenway, student of the father of permaculture, wrote 2 excellent guides on the garden phenomenon.&nbsp; His first focus guide on permaculture was <u>Gaia's Garden</u>.&nbsp; In his second book, Hemenway took the country-garden idea and brought it to the next level, our cities.&nbsp; ![](/uploads/versions/per---x----316-400x---.jpg)
 
-Many of those garden-enthusiasts grasp inspiration from garden.&nbsp; If you're feeling a bit "under-whelmed" with your eco-inspiration, look to these two quote-collections. &nbsp;&nbsp;
+Many garden-enthusiasts grasp inspiration from creating and planting their flowers, trees, and veggies.&nbsp; If you're feeling a bit "under-whelmed" with your eco-inspiration, look to these two beautiful quote-collections from Everday&nbsp; . &nbsp;&nbsp;
 
 ![](/uploads/versions/perma-promise---x----311-400x---.jpg)What can permaculture teach us about our futures? Coming out this November is Jono Neiger's book <u>The Permacutlure Promise</u>.&nbsp; In her book, Neiger looks at the core values of permaculture, and seeks to utilize its core long-range focus of permaculture and looks to this gardening techniques for solutions to climate change, re-energizing our and creating more resilient communities.&nbsp;
