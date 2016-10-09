@@ -17,4 +17,6 @@ books:
 
 ![](/uploads/versions/permaculture-city---x----341-400x---.jpg)Permaculture for the rest of us
 
-![](/uploads/versions/gaias-garden---x----320-400x---.jpg)Toby Hemenway, student of the father of permaculture, wrote 2 excellent guides on the garden phenomenon.&nbsp; His first focus guide on permaculture was <u>Gaia's Garden.</u>
+![](/uploads/versions/gaias-garden---x----320-400x---.jpg)Toby Hemenway, student of the father of permaculture, wrote 2 excellent guides on the garden phenomenon.&nbsp; His first focus guide on permaculture was <u>Gaia's Garden</u>.
+
+&nbsp;
