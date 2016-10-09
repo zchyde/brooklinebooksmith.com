@@ -27,6 +27,6 @@ Many garden-enthusiasts grasp inspiration from creating and planting their flowe
 
 [![](/uploads/versions/garden-poems---x----285-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780679447269)One of my favorite quotes from this collection is: "THTHTHTHTHTHT"
 
-[![](/uploads/versions/perma-for-rest-of-us---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780865718104)This guide also offers quick and simple advice and a really simple.&nbsp; What if we all could really live on just one acre of&nbsp;
+[![](/uploads/versions/perma-for-rest-of-us---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780865718104)This guide also offers quick and simple advice and a really simple.&nbsp; What if we all could really live on just one acre of land?&nbsp; [<u>Permaculture for the Rest of Us</u>](http://www.brooklinebooksmith-shop.com/book/9780865718104) by Jenni Blackmore&nbsp;
 
 ![](/uploads/versions/perma-promise---x----311-400x---.jpg)What can permaculture teach us about our futures? Coming out this November is Jono Neiger's book <u>The Permacutlure Promise</u>.&nbsp; In her book, Neiger looks at the core values of permaculture, and seeks to utilize its core long-range focus of permaculture and looks to this gardening techniques for solutions to climate change, re-energizing our and creating more resilient communities.&nbsp;
