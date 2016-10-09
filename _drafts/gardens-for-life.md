@@ -15,7 +15,7 @@ books:
 ---
 
 
-Permaculture was founded in 1968 by Bill Mollison and David Holmgren.&nbsp; It's appropriate to be talking about permaculture since we just lost the father of permacultre just last month.&nbsp; At the age of 88
+Permaculture was founded in 1968 by Bill Mollison and David Holmgren.&nbsp; It's appropriate to be talking about permaculture since we just lost the father of permacultre just last month.&nbsp; At the age of 88....&nbsp; Permaculture has 3 core values:&nbsp; .&nbsp; These ideas are ones for our everyday lives.&nbsp;
 
 ![](/uploads/versions/permaculture-city---x----341-400x---.jpg)
 
