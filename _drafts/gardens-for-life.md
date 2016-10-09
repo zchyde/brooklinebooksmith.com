@@ -2,7 +2,7 @@
 title: Gardens for Life
 published: false
 featured: false
-date: 2016-10-01 09:00:00
+date: 2016-10-11 09:00:00
 description:
 featured_image_path:
 featured_image_position: 50
@@ -11,5 +11,6 @@ fancy_font:
 category:
 staff:
 books:
-  -
 ---
+
+
