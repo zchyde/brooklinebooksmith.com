@@ -15,7 +15,9 @@ books:
 ---
 
 
-![](/uploads/versions/permaculture-city---x----341-400x---.jpg)Permaculture for the rest of us
+Permaculture was founded in 1968 by Bill Mollison and David Holmgren.&nbsp; It's appropriate to be talking about permaculture since we just lost the father of permacultre just last month.&nbsp; At the age of 88
+
+Permaculture for the rest of us
 
 ![](/uploads/versions/gaias-garden---x----320-400x---.jpg)Toby Hemenway, student of the father of permaculture, wrote 2 excellent guides on the garden phenomenon.&nbsp; His first focus guide on permaculture was <u>Gaia's Garden</u>.&nbsp; In his second book, Hemenway took the country-garden idea and brought it to the next level, our cities.&nbsp; ![](/uploads/versions/per---x----316-400x---.jpg)
 
