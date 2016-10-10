@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-Whether it's learning ragtime piano, losing 30 pounds, or starting an organic jelly bean company, Peter Himmelman will give you the science-based tools and confidence you need to harness your fear and take steps to make your goals a reality.*Let Me Out* will force you to stop listening to the negative thoughts that hold you back and achieve the professional and personal success you deserve.
+Whether it's learning ragtime piano, losing 30 pounds, or starting an organic jelly bean company, Peter Himmelman will give you the science-based tools and confidence you need to harness your fear and take steps to make your goals a reality.&nbsp;*Let Me Out* will force you to stop listening to the negative thoughts that hold you back and achieve the professional and personal success you deserve.
