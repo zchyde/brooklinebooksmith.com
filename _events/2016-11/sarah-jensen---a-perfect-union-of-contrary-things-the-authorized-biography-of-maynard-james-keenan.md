@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-*A Perfect Union of Contrary Things* is the authorized biography of musician, vintner, and Tool frontman, Maynard James Keenan. Until now, Maynard's fans have had access to only an abridged version of his story. Utilizing her 30-year friendship with Keenan, Sarah Jensen's *&nbsp;A Perfect Union of Contrary Things*presents the outtakes, the scenes of disappointment and triumph, and the events that led him to take one step after the next, to change direction, to explore and become the man he is today.
+*A Perfect Union of Contrary Things* is the authorized biography of musician, vintner, and Tool frontman, Maynard James Keenan. Until now, Maynard's fans have had access to only an abridged version of his story. Utilizing her 30-year friendship with Keenan, Sarah Jensen's *&nbsp;A Perfect Union of Contrary Things&nbsp;*presents the outtakes, the scenes of disappointment and triumph, and the events that led him to take one step after the next, to change direction, to explore and become the man he is today.
