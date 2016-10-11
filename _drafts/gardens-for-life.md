@@ -15,7 +15,7 @@ books:
 ---
 
 
-Permaculture was founded in 1968 by [Bill Mollison](https://en.wikipedia.org/wiki/Bill_Mollison) and [David Holmgren](https://en.wikipedia.org/wiki/David_Holmgren).&nbsp; Permaculture is a design system for ecological and sustainable living, integrating plants, animals, buildings, people, and communities.&nbsp; Permaculture has 3 core values: care for the planet, care for people, and return the surplus.&nbsp; It's appropriate to be talking about permaculture since we just lost the father of permacultre just last month.&nbsp; At the age of 88….&nbsp; &nbsp; These ideas are certainly ones for our everyday lives!&nbsp; Too, it's never too early to plant your garden for the spring.
+Gardens offer lessons on life; the whole-system approach of permaculture does just this.&nbsp; Permaculture was co-founded in 1968 by [Bill Mollison](https://en.wikipedia.org/wiki/Bill_Mollison) and [David Holmgren](https://en.wikipedia.org/wiki/David_Holmgren).&nbsp; Permaculture is a design system for ecological and sustainable living, integrating plants, animals, buildings, people, and communities.&nbsp; Permaculture has 3 core values: care for the planet, care for people, and return the surplus.&nbsp; It's appropriate to be talking about permaculture since we just lost the father of permacultre just last month.&nbsp; At the age of 88….&nbsp; &nbsp; These ideas are certainly ones for our everyday lives!&nbsp; Too, it's never too early to plant your garden for the spring.
 
 ![](/uploads/versions/permaculture-city---x----341-400x---.jpg)
 
