@@ -25,7 +25,7 @@ Gardens offer lessons on life; the whole-system approach of permaculture does ju
 
 Many garden-enthusiasts grasp inspiration from creating and planting their flowers, trees, and veggies.&nbsp; If you're feeling a bit "under-whelmed" with your eco-inspiration, look to these two beautiful quote-collections from Everyman's Library: [<u>Echoing Green: Poems of Fields, Meadows, and Grasses</u>](http://www.brooklinebooksmith-shop.com/book/9781101907733)&nbsp; and [<u>Garden Poems</u>](http://www.brooklinebooksmith-shop.com/book/9780679447269).&nbsp; [![](/uploads/versions/echoing-green---x----275-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781101907733)
 
-[![](/uploads/versions/garden-poems---x----285-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780679447269)You’ll unearth some seasonal poems, like “An October Garden” by Christina Rossetti&nbsp; or “Autumn Garden” by Dino Campana.of my favorite quotes from this collection is: "THTHTHTHTHTHT"
+[![](/uploads/versions/garden-poems---x----285-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780679447269)You’ll unearth some seasonal poems, like “An October Garden” by Christina Rossetti&nbsp; or “Autumn Garden” by Dino Campana.
 
 [![](/uploads/versions/perma-for-rest-of-us---x----267-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9780865718104)This guide also offers quick and simple advice and a really simple.&nbsp; What if we all could really live on just one acre of land?&nbsp; [<u>Permaculture for the Rest of Us</u>](http://www.brooklinebooksmith-shop.com/book/9780865718104) by Jenni Blackmore&nbsp;
 
