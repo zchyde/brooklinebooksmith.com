@@ -3,7 +3,7 @@ title: Gardens for Life
 published: false
 featured: false
 date: 2016-10-11 13:00:00
-description: Permaculture books for all of us.
+description: Gardens for Life - Permaculture books for all of us.
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
