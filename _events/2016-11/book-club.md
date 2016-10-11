@@ -1,6 +1,6 @@
 ---
 title: '**Book Club**'
-published: false
+published: true
 start_at: 2016-11-14 19:00:00
 image_path:
 book_category:
