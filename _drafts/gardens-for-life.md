@@ -19,7 +19,7 @@ Gardens offer lessons on life; the whole-system approach of permaculture does ju
 
 ![](/uploads/versions/permaculture-city---x----341-400x---.jpg)
 
-Permaculture for the rest of us!
+<u>Practical Perma-culture</u> by Jessi Bloom and Dave Boehnlein is an easy-to-use eco-guide.&nbsp; This book helps to break down the many aspects of permaculture into a "can do" opportunity instead of an overwhelming “job.”
 
 [![](/uploads/versions/gaias-garden---x----320-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781603580298)Toby Hemenway, student of the father of permaculture, wrote 2 excellent guides on this garden phenomenon.&nbsp; Mollison once revealed too Hemenway where he got the original concept for permaculture in 1959.&nbsp; while he was observing marsupials browsing in the Tasmanian rain forests, because he was "'inspired and awed by the life-giving abundance and rich interconnectedness of this eco-system."[11]&nbsp; It has been reported that Mollison penned in his diary the following [words](https://en.wikipedia.org/wiki/Bill_Mollison): "'I believe that we could build systems that would function as well as this one does.'"&nbsp; His first focus guide on permaculture was [<u>Gaia's Garden</u>](http://www.brooklinebooksmith-shop.com/book/9781603580298).&nbsp; In his second book [<u>The Permaculture City</u>](http://www.brooklinebooksmith-shop.com/book/9781603585262), Hemenway took the country-garden idea and brought it to the next level, our cities.[![](/uploads/versions/per---x----316-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781603585262)
 
