@@ -1,5 +1,5 @@
 ---
-title: Audiobooks from Amy
+title: An Introduction to Audiobooks
 published: false
 featured: false
 date: 2016-10-06 09:00:00
@@ -9,7 +9,6 @@ featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
 category:
-  - kidsmith
 staff:
   - amy
 books:
@@ -29,7 +28,7 @@ My solution to that, I mean, aside from giving up sleeping, which everyone tells
    <br>4. I don't mind looking a bit odd when I'm walking by myself and laughing at what appears to be nothing.
 
 
-<br>When it was suggested that the Booksmith partner with Libro.fm to provide a source for digital audiobooks. I was ecstatic. Yes. Brilliant. More sources for audiobooks. I will take them.&nbsp;
+<br>When it was suggested that the Booksmith partner with Libro.fm to provide a source for digital audiobooks. I was ecstatic. Yes. Brilliant. More sources for audiobooks. I will take them.
 <br>
 <br>It's pretty easy too, which is glorious because when I'm walking to work at 8:30 I don't want to have to think about it much. Also, the digital files are often cheaper than the discs and available instantly.
 <br>
@@ -45,20 +44,20 @@ My solution to that, I mean, aside from giving up sleeping, which everyone tells
 <br>
 <br>When their planet is attacked out of nowhere, Kady and Ezra become refugees at the mercy of the fleet that saved them and their attackers who are still following. To complicate matters, a deadly virus has broken out on one of the ships and the fleet's AI has started making decisions of its own.
 <br>
-<br>If you know anything about *Illuminae* you're probably raising your eyebrows at me. I know the look, I've seen the look when I've brought this up before. If you don't know anything about *Illuminae*, the look comes from the fact that *Illuminae* is a really design-heavy book.&nbsp;
+<br>If you know anything about *Illuminae* you're probably raising your eyebrows at me. I know the look, I've seen the look when I've brought this up before. If you don't know anything about *Illuminae*, the look comes from the fact that *Illuminae* is a really design-heavy book.
 <br>
-<br>![](/uploads/versions/illuminae-search-result-compressor---x----1642-688x---.png)&nbsp;(This is a screencap of a google image search for the book. That is actually what many of the pages look like.)
+<br>![](/uploads/versions/illuminae-search-result-compressor---x----1642-688x---.png) (This is a screencap of a google image search for the book. That is actually what many of the pages look like.)
 <br>
-<br>So, I mean, skepticism is understandable. BUT! This audio book is MIND-BLOWINGLY good. Seriously amazing. It's full cast and the narrators are all expertly chosen. They're witty and wondrous and the voice of AIDEN is brilliantly artificial.&nbsp;
+<br>So, I mean, skepticism is understandable. BUT! This audio book is MIND-BLOWINGLY good. Seriously amazing. It's full cast and the narrators are all expertly chosen. They're witty and wondrous and the voice of AIDEN is brilliantly artificial.
 <br>
 <br>I had read the book more than once before I picked up the audio and I still almost walked into traffic\* because I was so caught up in it. So, maybe just walk around the block or something but LISTEN TO THIS ONE.
 <br>
-<br>\*Don't do this.&nbsp;
+<br>\*Don't do this.
 
 ---
 
 <br>[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)
-<br>**[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater**
+<br>**[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) by Maggie Stiefvater**
 
 Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
 <br>
@@ -66,11 +65,11 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>The narrator for *The Raven Cycle* is Will Patton. If you spend enough time watching movies (or IMDBing them) you might be going 'oh…' if not look him up, I'll wait here a second.
 <br>
-<br>Great. Yes, [this guy](http://www.imdb.com/name/nm0001599/).&nbsp;
+<br>Great. Yes, [this guy](http://www.imdb.com/name/nm0001599/).
 <br>
-<br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great. But, oh man, did he grow on me. I was practically thinking in his voice by the end of the first disc.&nbsp;
+<br>I'll admit that I didn't love him as the narrator at first but the odds of me loving any narrator right off the bat wasn't great. But, oh man, did he grow on me. I was practically thinking in his voice by the end of the first disc.
 <br>
-<br>Bonus: Stiefvater composes all of the music used in her audiobooks, so you should listen to it as the credits play.&nbsp;
+<br>Bonus: Stiefvater composes all of the music used in her audiobooks, so you should listen to it as the credits play.
 <br>—
 
 [![](/uploads/versions/9780062224088---x----267-400x---.jpg)](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk)
@@ -79,7 +78,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>One day a dad steps out to get milk so that his kids can have their cereal and he is abducted by aliens. It gets weirder from there.
 <br>
-<br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.&nbsp;
+<br>I had the immense privilege of hearing Neil Gaiman read part of this once and it left the whole room (of mostly adults) a giggling mess. It's not until you hear it or try to read it out loud that you realize this is a book made to be read aloud. And Gaiman actually reads the audio himself. so all of pitches and tones are right on.
 <br>
 <br>It clocks in at about an hour so it's perfect for a short trip you don't mind giggling through.
 
@@ -90,7 +89,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
 <br>
-<br>I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself. &nbsp;It's nothing against Jim Dale as a narrator, he was great on *Pushing Daisies* (if you've never heard of it you need to google it) and he's great with The Night Circus.&nbsp;
+<br>I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself.  It's nothing against Jim Dale as a narrator, he was great on *Pushing Daisies* (if you've never heard of it you need to google it) and he's great with The Night Circus.
 <br>
 <br>*The Night Circus* is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind-the-scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
 <br>
@@ -108,7 +107,7 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>A story like this one wouldn't work with someone too sure of themselves and anyone too timid wouldn't be convincing so Eisenberg is oddly perfect.
 
 <br>Also:
-<br>[American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)&nbsp;by Neil Gaiman - It's full cast and perfectly so.
+<br>[American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition) by Neil Gaiman - It's full cast and perfectly so.
 <br>
 <br>[The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
 <br>
@@ -118,9 +117,9 @@ Blue Sargent has always known that the boys from Aglionby academy were the worst
 <br>
 <br>[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek.
 
-<br>A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.&nbsp;
+<br>A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.
 <br>
 <br>And based on my favorites it's pretty clear that I'm a big middle-grade and YA person but that might not be your thing. If you're big into celebrity memoirs and the like the writers often narrate the audio themselves so you know the tone should be right. How could Mindy Kaling narrating Mindy Kaling possibly go wrong?
 <br>
 <br>
-<br>&nbsp;
+<br>
