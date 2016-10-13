@@ -4,7 +4,7 @@ published: true
 featured: false
 date: 2016-10-12 09:00:00
 description:
-featured_image_path: /uploads/app launch - square.jpg
+featured_image_path: /uploads/versions/artboard-3audio-compressor.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
