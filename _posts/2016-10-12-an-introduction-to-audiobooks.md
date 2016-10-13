@@ -44,7 +44,7 @@ When their planet is attacked out of nowhere, Kady and Ezra become refugees at t
 
 If you know anything about *Illuminae* you're probably raising your eyebrows at me. I know the look, I've seen the look when I've brought this up before. If you don't know anything about *Illuminae*, the look comes from the fact that *Illuminae* is a really design-heavy book.
 
-![full-img](/uploads/versions/illuminae-search-result-compressor---x----1642-688x---.png)  (This is a screencap of a google image search for the book. That is actually what many of the pages look like.)
+![full-img](/uploads/versions/illuminae-search-result-compressor---x----1642-688x---.png)&nbsp; (This is a screencap of a google image search for the book. That is actually what many of the pages look like.)
 
 So, I mean, skepticism is understandable. BUT! This audio book is MIND-BLOWINGLY good. Seriously amazing. It's full cast and the narrators are all expertly chosen. They're witty and wondrous and the voice of AIDEN is brilliantly artificial.
 
@@ -56,7 +56,7 @@ I had read the book more than once before I picked up the audio and I still almo
 
 ---
 
-[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) **[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) by Maggie Stiefvater** Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
+[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) **[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater** Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
 
 My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. It makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as*The Raven Cycle* with a setting that's so vitally important to the story the narrator is REALLY important.
 
@@ -88,7 +88,7 @@ It clocks in at about an hour so it's perfect for a short trip you don't mind gi
 
 Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
 
-I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself.  It's nothing against Jim Dale as a narrator, he was great on *Pushing Daisies* (if you've never heard of it you need to google it) and he's great with The Night Circus.
+I'm going to say something potentially sacrilegious for a Harry Potter fan. I don't love the US audio books. I couldn't make it through the first and I've pushed through some less than stellar audio books out of love for the text itself. &nbsp;It's nothing against Jim Dale as a narrator, he was great on *Pushing Daisies* (if you've never heard of it you need to google it) and he's great with The Night Circus.
 
 *The Night Circus* is pure magic in a way that's really different than anything I've read before and Jim Dale's voice has a magically quality to it but when I heard it was him I immediately thought 'too easy, it's not going to work.' I wanted someone with a voice hushed and dusky to read it. Maybe that's because the behind-the-scenes pieces are my favorites and everything about Celia and Marco is hushed and dusky.
 
@@ -104,7 +104,7 @@ Okay, so love or hate Jesse Eisenberg (another [IMDB](http://www.imdb.com/name/n
 
 A story like this one wouldn't work with someone too sure of themselves and anyone too timid wouldn't be convincing so Eisenberg is oddly perfect.
 
-Also: [American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition) by Neil Gaiman - It's full cast and perfectly so.
+Also: [American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)&nbsp;by Neil Gaiman - It's full cast and perfectly so.
 
 [The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
 
@@ -112,6 +112,8 @@ Also: [American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-th
 
 [These Broken Stars](https://libro.fm/audiobooks/9780804123440-these-broken-stars) by Amie Kaufman and Meagan Spooner - The narrators are amazing (and the Johnathan McClain who reads Tarver's chapters is also in Illuminae as Ezra).
 
-[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek. A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.
+[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek.
+
+A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.
 
 And based on my favorites it's pretty clear that I'm a big middle-grade and YA person but that might not be your thing. If you're big into celebrity memoirs and the like the writers often narrate the audio themselves so you know the tone should be right. How could Mindy Kaling narrating Mindy Kaling possibly go wrong?
