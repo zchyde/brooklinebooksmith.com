@@ -7,7 +7,7 @@ regenerate: true
 {% assign related_blog_posts = site.posts | where: 'published', true | where_exp: 'item', 'item.categories contains slug' %}
 {% assign box_classes = site.box_classes  %}
 <div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
-  <div class="lg-mt4 col-12 col md-col-3 lg-col-3">
+  <aside class="lg-mt4 col-12 col md-col-3 lg-col-3">
     {% if page.description  %}
       <div class="h5 p2 col-12 rounded bg-primary-color near-white">
         {{ page.description | markdownify }}
@@ -23,7 +23,7 @@ regenerate: true
       </a>
       {% endfor %}
     {% endif %}
-  </div>
+  </aside>
 
   <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
     {% if page.staff %}

@@ -3,7 +3,7 @@ title: The Giftsmith
 featured_image_path: /uploads/banner_giftsmith_test_v2.jpg
 featured_image_position: 40
 featured_image_credit: '[Liz Linder](https://lizlinder.com)'
-description: '###### [![Facebook](/uploads/site/facebook-dreamstale25.png) Giftsmith on facebook](https://www.facebook.com/brooklinebooksmithgiftshop/)'
+description: '[![Facebook](/uploads/site/facebook-dreamstale25.png) **Giftsmith on facebook**](https://www.facebook.com/brooklinebooksmithgiftshop/)'
 fancy_font: Cabin-sketch
 ---
 
