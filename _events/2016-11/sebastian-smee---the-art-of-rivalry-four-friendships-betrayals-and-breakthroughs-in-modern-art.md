@@ -1,5 +1,5 @@
 ---
-title: '**Sebastian Smee** -  *The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art* <br> **Rachel Corbett** - *You Must Change Your Life: The Story of Rainer Maria Rilke and Auguste Rodin*'
+title: '**Sebastian Smee** -  *The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art* <br><br> **Rachel Corbett** - *You Must Change Your Life: The Story of Rainer Maria Rilke and Auguste Rodin*'
 published: true
 start_at: 2016-11-03 19:00:00
 image_path:
