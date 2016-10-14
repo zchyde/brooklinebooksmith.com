@@ -7,8 +7,7 @@ layout: listing
 
 {% assign posts = posts | sort: 'date', 'last' | reverse  %}
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
-{% assign box_classes = ' border rounded border-silver hover-bg-orange hover-white bg-transition' %}
-
+{% assign box_classes = site.box_classes  %}
 <div class="sm-col md-col ld-col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">
 
   <div class="px1 md-pr2 lg-pr2">

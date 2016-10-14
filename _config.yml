@@ -50,9 +50,9 @@ subscription_recurring_times:
 
 _comments:
   link_to_buy_page: "Only necessary if the buy page is not the BBS shop site."
-  featured_image_path: Upload images to the Uploads directory  
+  featured_image_path: Upload images to the Uploads directory
 
-
+box_classes: 'border rounded border-silver hover-bg-orange hover-white bg-transition'
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3
 image_url: https://brooklinebbs.imgix.net

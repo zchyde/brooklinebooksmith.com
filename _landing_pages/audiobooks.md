@@ -8,7 +8,7 @@ related_books:
 featured_image_path: /uploads/libro-image.jpeg
 featured_image_position: 40
 featured_image_credit:
-description: '<a href="https://libro.fm/brooklinebooksmith" class="btn btn-primary">Libro.fm</a>'
+description: 
 fancy_font:
 ---
 
