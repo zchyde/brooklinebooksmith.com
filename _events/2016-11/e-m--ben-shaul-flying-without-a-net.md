@@ -1,6 +1,6 @@
 ---
 title: '**E.M. Ben** - *Shaul Flying Without a Net*'
-published: false
+published: true
 start_at: 2016-11-22 19:00:00
 image_path:
 book_category:
