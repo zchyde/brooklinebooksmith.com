@@ -3,8 +3,8 @@ title: Flying Without a Net
 available:
 isbn: '9781945053115'
 binding: Paperback
-link_to_buy_page:
-image_path:
+link_to_buy_page: 'http://www.brooklinebooksmith-shop.com/product/em-ben-shaul-flying-without-net'
+image_path: /uploads/without a net.jpg
 link:
 ---
 
