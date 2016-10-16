@@ -22,9 +22,9 @@ This week when I was shelving, I watched a toddler gather several copies of Sand
 
 This happens *a lot* in our department. Especially three and unders find great satisfaction in picking up huge fistfuls of the same titles. Sometimes they will walk away with one copy and then go back for more, one copy after the next. (Sometimes they are lost in transit and make a small trail on the floor, but the obvious intent is HAVE EVERYTHING.)
 
-Maybe this is about color or shape or familiarity, but the key point is, their parents are patiently explaining that it's all the same book, and *they do not care*. If there is only one cool book in the world, they want the *ultimate amount of that book*.
+Maybe this is about color or shape or familiarity, but the key point is, their parents are patiently explaining that it's all the same book, and *they absolutely do not care*. This is, invariably, not even a tiny bit relevant to what they are doing. So it's one book over and over? AWESOME. GREAT. If that is the book they way, they want the *ultimate amount of that book*.
 
-I have on a lot more than one occasion seen
+Watching *Eek Halloween!*be lovingly gathered, I had this genuine rush of understanding. I have on a lot more than one occasion seen a book that I love, and definitely own, on the shelves of a bookstore or library and become momentarily obsessed by the thought that THIS is the book I MUST BRING HOME. I do not need it at all, because I have it already, but NO OTHER BOOK WILL DO. I just want that book that I've already got so much that having the whole entire book, when there is not even anything new in this other copy, is completely insufficient. All of a beloved book is not enough book. And that is basically what babies teach me is an okay way to feel.
 
 -kids want to buy books they've read before
 
