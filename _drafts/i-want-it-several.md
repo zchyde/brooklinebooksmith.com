@@ -16,3 +16,20 @@ books:
 ---
 
 
+-kids want to buy books they've read before
+
+-kids want to pick up MANY of the same book
+
+-joey graceffa fans give the best gifts and care the most
+
+-kids don't read like adults do
+
+-kids aren't fans like adults are
+
+-kid reading is special, kids love things is special
+
+It's easy for us to get tired of hearing the same thing over and over. I am sure that plenty of parents out there can give me the world's longest stare because they, not I, have read *The Little Blue Truck* two hundred times this week. I'm kidless. I don't get to comment on the exhaustion--and it makes perfect sense that when a family comes to the bookstore, the parents are the ones who please, please, please want to read something that they don't have at home.
+<br>
+<br>Adults read differently. It's not uncommon, among our returns and used book buybacks, to receive books from customers because the (adult) customer has read it before. Sometimes it's because the book was a gift, but sometimes someone has simply read a book, mostly forgotten it, and then accidentally bought the same book again. And they don't want it twice.
+
+That's a fine way to read, but kids don't read that way. They latch onto specific stories, sometimes inexplicably, sometimes to the chagrin of their adults. They read these books over and over, until the pages are covered in grime and start to fall out.
