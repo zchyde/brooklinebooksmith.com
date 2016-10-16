@@ -18,11 +18,11 @@ books:
 
 This week when I was shelving, I watched a toddler gather several copies of Sandra Boynton's *Eek Halloween!* and solemnly carry them across the children's department to the round table, where her mother was waiting.
 
-"We can read these--Oh, I see you got the same book twice," she said. (If you're this customer, by the way--your baby is just great.)
+"We can read these--Oh, I see you got the same book twice," she said. (If you're this customer, by the way--your baby is great.)
 
-This happens *a lot* in our department. Especially three and unders find great satisfaction in picking up huge fistfuls of the same titles. Sometimes they will walk away with one copy and then go back for more, one copy after the next. (Sometimes they are lost in transit and make a small trail on the floor, but the obvious intent is HAVE EVERYTHING.)
+This happens *a lot* in our department. Especially three and unders find great satisfaction in picking up huge fistfuls of the same title. Sometimes they will walk away with one copy and then go back for more, one after the next. (Sometimes they are lost in transit and make a small trail on the floor. They may not all make it to the same location, but the intent is obvious: HAVE EVERYTHING.)
 
-Maybe this is about color or shape or familiarity, but the key point is, their parents are patiently explaining that it's all the same book, and *they absolutely do not care*. This is, invariably, not even a tiny bit relevant to what they are doing. So it's one book over and over? AWESOME. GREAT. If that is the book they way, they want the *ultimate amount of that book*.
+The loving adults of these babies always patiently explain that it's all the same book, and more than one copy isn't strictly an improvement over *only* one copy. The adult tries to explain that taking out the same book over and over (one we have at home!) is a mess, or an inefficient use of bookstore time. This fact is, invariably, not even a tiny bit interesting to the babies. So it's one book over and over? AWESOME. GREAT. IT IS ONE BOOK, OVER AND OVER. If that is the book they way, they want the *ultimate amount of that book*.
 
 Watching *Eek Halloween!*be lovingly gathered, I had this genuine rush of understanding. I have on a lot more than one occasion seen a book that I love, and definitely own, on the shelves of a bookstore or library and become momentarily obsessed by the thought that THIS is the book I MUST BRING HOME. I do not need it at all, because I have it already, but NO OTHER BOOK WILL DO. I just want that book that I've already got so much that having the whole entire book, when there is not even anything new in this other copy, is completely insufficient. All of a beloved book is not enough book. And that is basically what babies teach me is an okay way to feel.
 
