@@ -22,6 +22,10 @@ This week when I was shelving, I watched a toddler gather several copies of Sand
 
 This happens *a lot* in our department. Especially three and unders find great satisfaction in picking up huge fistfuls of the same titles. Sometimes they will walk away with one copy and then go back for more, one copy after the next. (Sometimes they are lost in transit and make a small trail on the floor, but the obvious intent is HAVE EVERYTHING.)
 
+Maybe this is about color or shape or familiarity, but the key point is, their parents are patiently explaining that it's all the same book, and *they do not care*. If there is only one cool book in the world, they want the *ultimate amount of that book*.
+
+I have on a lot more than one occasion seen
+
 -kids want to buy books they've read before
 
 -kids want to pick up MANY of the same book
