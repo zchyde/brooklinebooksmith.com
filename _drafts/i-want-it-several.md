@@ -16,6 +16,12 @@ books:
 ---
 
 
+This week when I was shelving, I watched a toddler gather several copies of Sandra Boynton's *Eek Halloween!* and solemnly carry them across the children's department to the round table, where her mother was waiting.
+
+"We can read these--Oh, I see you got the same book twice," she said. (If you're this customer, by the way--your baby is just great.)
+
+This happens *a lot* in our department. Especially three and unders find great satisfaction in picking up huge fistfuls of the same titles. Sometimes they will walk away with one copy and then go back for more, one copy after the next. (Sometimes they are lost in transit and make a small trail on the floor, but the obvious intent is HAVE EVERYTHING.)
+
 -kids want to buy books they've read before
 
 -kids want to pick up MANY of the same book
