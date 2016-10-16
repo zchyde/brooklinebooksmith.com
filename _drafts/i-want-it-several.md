@@ -34,16 +34,8 @@ It's easy for us to get tired of hearing the same thing over and over. I am sure
 
 That's a fine way to read, but kids don't generally read that way. They latch onto specific stories, sometimes inexplicably, sometimes to the chagrin of their adults. They read these books over and over, until the pages are covered in grime and start to fall out. If you want to meet an expert, talk to a *Wings of Fire* fan about dragon clans and Animus magic. If you want to know what devotion looks like, watch a thousand teen and preteen fans deliver hand-made presents to their idol when they come to pick up Joey Graceffa's new book.
 
-I quite frequently hear negotiations between family members: you can get one book, but haven't you read that before? Find something you haven't read before. And again, I get it--adults want to be efficient. They want to make the most of their money and their reading time. Rereading doesn't on the face of it seem like a great use of either. But kids like to reread.
+I quite frequently hear negotiations between family members: *you can get one book, but haven't you read that one before? Find something you haven't read before.* And again, I get it--adults want to be efficient. They want to make the most of their money and their reading time. They want new experiences and expanded horizons. Rereading doesn't on the face of it seem like a great use of either time or money. It doesn't seem to expand anything.
 
--kids want to buy books they've read before
+But kids like to reread. Kid reading is special, and their hunger for the same story, over and over, is special. Their desire to gather every single *Snowy Day* is--well, it has to get picked up afterwords, but it's *special*. It's important. Because reading a lot of good stuff is a wonderful way to read--but loving a book so much you lose your indoor voice and ignore everything else on the shelf and wreck your copy and stand for hours to get the next one and know more than the author even does--wanting more than everything is an incredibly powerful kind of reading.
 
--kids want to pick up MANY of the same book
-
--joey graceffa fans give the best gifts and care the most
-
--kids don't read like adults do
-
--kids aren't fans like adults are
-
--kid reading is special, kids love things is special
+Books are pretty much my life, but the way I read has changed since I was a kid. Wanting to buy the book I already own reminds me of reading like that. It's rarer now, and when I can catch it, I hold on tight. Loving a book so much that everything is not enough Kids who love books know where it's at.
