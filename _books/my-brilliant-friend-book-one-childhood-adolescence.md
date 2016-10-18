@@ -1,9 +1,9 @@
 ---
-title: 'My Brilliant Friend, Book One: Childhood, Adolescence'
+title: 'My Brilliant Friend, Book One: Childhood, Adolescence (AUDIO)'
 available:
 isbn: '9781483080703'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781483080703-my-brilliant-friend'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781483080703-my-brilliant-friend?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/786/450/9781609450786.jpg'
 link:
 ---
