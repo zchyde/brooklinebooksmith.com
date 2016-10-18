@@ -2,9 +2,36 @@
 title: Audiobooks
 related_books:
   - a-gentleman-in-moscow-audio
-  - a-long-walk-to-water-based-on-a-true-story
-  - a-new-class
-  - a-little-life
+  - my-brilliant-friend-book-one-childhood-adolescence
+  - between-the-world-and-me-audio
+  - me-before-you-audio
+  - everything-i-never-told-you-audio
+  - the-examined-life-how-we-lose-and-find-ourselves
+  - all-the-light-we-cannot-see-audio
+  - h-is-for-hawk-audio
+  - the-boston-girl-audio
+  - the-story-of-a-new-name-audio
+  - the-last-apprentice-revenge-of-the-witch-audio
+  - aristotle-and-dante-discover-the-secrets-of-the-universe-audio
+  - whered-you-go-bernadette-audio
+  - the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-audio
+  - homegoing-audio
+  - being-mortal-audio
+  - the-raven-boys
+  - the-slow-regard-of-silent-things
+  - the-shining
+  - the-girl-who-loved-tom-gordon
+  - get-in-trouble
+  - without-you-there-is-no-us-undercover-among-the-sons-of-north-koreas-elite
+  - the-muse-audio
+  - lily-and-the-octopus-audio
+  - this-savage-song-audio
+  - dreamers-often-lie-audio
+  - another-brooklyn-audio
+  - illuminae-audio
+  - fortunately-the-milk-audio
+  - series-of-unfortunate-events-1-multi-voice-a-the-bad-beginning-audio
+  - scorpio-races-audio
 featured_image_path: /uploads/libro-image.jpeg
 featured_image_position: 40
 featured_image_credit:
@@ -32,7 +59,6 @@ We are thrilled to have partnered with [Libro.fm](https://libro.fm/brooklinebook
 1. Visit [libro.fm/BrooklineBooksmith](https://libro.fm/brooklinebooksmith) and purchase your digital audiobook. Use promo code **LISTENUP** 20% off.
 2. You’ll receive a confirmation email with instructions to [download the iOS](https://itunes.apple.com/us/app/libro.fm/id1057776523) or Android App, for easy listening on your mobile device.
 3. **Start listening.** Sign into the app and download your book(s) to your device.
-
 
 ---
 
