@@ -3,7 +3,7 @@ title: 'Series of Unfortunate Events #1 Multi-Voice, A: The Bad Beginning (AUDIO
 available:
 isbn: '9780060817916'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780060817916-series-of-unfortunate-events-1-multi-voice-a-the-bad-beginning-abridged'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780060817916-series-of-unfortunate-events-1-multi-voice-a-the-bad-beginning-abridged?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/798/765/9780060765798.jpg'
 link:
 ---
