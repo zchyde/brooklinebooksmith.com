@@ -3,7 +3,7 @@ title: Another Brooklyn (AUDIO)
 available:
 isbn: '9780062472663'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780062472663-another-brooklyn'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780062472663-another-brooklyn?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/988/359/9780062359988.jpg'
 link:
 ---
