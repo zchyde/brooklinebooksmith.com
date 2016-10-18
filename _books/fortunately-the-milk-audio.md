@@ -3,7 +3,7 @@ title: 'Fortunately, the Milk (AUDIO)'
 available:
 isbn: '9780062305886'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780062305886-fortunately-the-milk'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780062305886-fortunately-the-milk?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/088/224/9780062224088.jpg'
 link:
 ---
