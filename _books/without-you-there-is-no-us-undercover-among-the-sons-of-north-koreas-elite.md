@@ -3,7 +3,7 @@ title: "Without You, There Is No Us: Undercover Among the Sons of North Korea's 
 available:
 isbn: '9781101912751'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781101912751-without-you-there-is-no-us'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781101912751-without-you-there-is-no-us?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/665/720/9780307720665.jpg'
 link:
 ---
