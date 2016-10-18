@@ -3,7 +3,7 @@ title: Me Before You (AUDIO)
 available:
 isbn: '9781101604991'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781101604991-me-before-you'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781101604991-me-before-youhttps://libro.fm/audiobooks/9780147520500-between-the-world-and-me?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/246/484/9780451484246.jpg'
 link:
 ---
