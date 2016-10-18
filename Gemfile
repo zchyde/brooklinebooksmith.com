@@ -3,10 +3,10 @@ gem 'jekyll'
 #gem 'github-pages'
 
 group :jekyll_plugins do
-  gem "html-proofer"  
+  #gem "html-proofer"  
   gem 'jekyll-paginate'
   gem 'jekyll-seo-tag'
-  # gem 'jekyll-paginate'    
+  # gem 'jekyll-paginate'
   # gem 'jekyll-sitemap'
   # gem 'jekyll-archives'
 end
