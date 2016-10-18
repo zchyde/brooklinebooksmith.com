@@ -3,7 +3,7 @@ title: This Savage Song (AUDIO)
 available:
 isbn: '9780062468116'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780062468116-this-savage-song'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780062468116-this-savage-song?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/852/380/9780062380852.jpg'
 link:
 ---
