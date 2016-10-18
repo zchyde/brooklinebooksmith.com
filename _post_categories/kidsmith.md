@@ -12,7 +12,7 @@ description: '[![twitter](/uploads/site/twitter@2x.png) Follow Kidsmith on Twitt
 follow: true
 Kids:
   - '9780142416723'
-  - '9870545540629'
+  - '9780545540629'
   - '9781423160922'
   - '9780694003617'
   - '9781419721373'
