@@ -3,7 +3,7 @@ title: The Story of a New Name (AUDIO)
 available:
 isbn: '9781483080543'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781483080543-the-story-of-a-new-name'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781483080543-the-story-of-a-new-name?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/349/451/9781609451349.jpg'
 link:
 ---
