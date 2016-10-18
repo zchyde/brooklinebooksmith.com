@@ -3,7 +3,7 @@ title: Between the World and Me (AUDIO)
 available:
 isbn: '978014750500'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780147520500-between-the-world-and-me'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780147520500-between-the-world-and-me?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/547/993/9780812993547.jpg'
 link:
 ---
