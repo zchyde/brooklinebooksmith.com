@@ -3,7 +3,7 @@ title: H Is for Hawk (AUDIO)
 available:
 isbn: '9781481530927'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781481530927-h-is-for-hawk'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781481530927-h-is-for-hawk?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/739/124/9780802124739.jpg'
 link:
 ---
