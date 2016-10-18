@@ -3,7 +3,7 @@ title: All the Light We Cannot See (AUDIO)
 available:
 isbn: '9781442369375'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781442369375-all-the-light-we-cannot-see'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781442369375-all-the-light-we-cannot-see?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/586/746/9781476746586.jpg'
 link:
 ---
