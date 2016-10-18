@@ -6,9 +6,22 @@ layout: default
 {% assign posts = site.posts %}
 {% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
-{% assign todays_date = site.time | date: "%Y%m%d"  %}
-{% assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %}
-{% assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %}
+ <!-- assign todays_date = site.time | date: "%Y%m%d"  %} -->
+ <!-- assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %} -->
+ <!-- assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %} -->
+
+{% assign events = "" | split: "|" %}
+{% assign current_date = site.time | date: "%Y%m%d"  %}
+{% for item in site.events %}
+  {% assign postdate = item.start_at | date: "%Y%m%d"  %}
+  {% if postdate > current_date %}
+    {% assign events = events | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign events_upcoming = events | sort: 'start_at', 'last'  %}
+
+
 
 {% include hero.html %}
 <div class="px3 col-12 my4 clearfix">
