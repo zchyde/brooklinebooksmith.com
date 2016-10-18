@@ -3,7 +3,7 @@ title: The Muse (AUDIO)
 available:
 isbn: '9780062472427'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9780062472427-the-muse'
+link_to_buy_page: 'https://libro.fm/audiobooks/9780062472427-the-muse?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/928/409/9780062409928.jpg'
 link:
 ---
