@@ -1,9 +1,9 @@
 ---
-title: 'The Examined Life: How We Lose and Find Ourselves'
+title: 'The Examined Life: How We Lose and Find Ourselves (AUDIO)'
 available:
 isbn: '9781481596541'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781481596541-the-examined-life'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781481596541-the-examined-life?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/548/079/9780393079548.jpg'
 link:
 ---
