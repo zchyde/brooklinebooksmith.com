@@ -1,14 +1,12 @@
 {% if jekyll.environment == "development" %}
   {% if page.related_books %}
     <hr />
+    <h2>Recommended Audiobooks</h2>
     {% for object in page.related_books %}
-      <div class="col-12 md-col col-3">
-        {% assign book = site.books | where: 'slug', object | first %}
-        <h2>
-          {{ book.title }}
-        </h2>
-        <img src="{{ book.image_path }}" class="fit" alt="" />
-      </div>
+      {% assign book = site.books | where: 'slug', object | first %}
+      <a href="{% if book.link_to_buy_page %}{{ book.link_to_buy_page }}{% else %}{{ site.shop_domain }}/book/{{ book.isbn }}{% endif %}"   class="col-12 md-col md-col-3">
+        <img src="{{ book.image_path }}" class="fit" alt="image for {{ book.title }}" />
+      </a>
     {% endfor %}
   {% endif %}
 
