@@ -30,7 +30,7 @@ When it was suggested that the Booksmith partner with Libro.fm to provide a sour
 
 It's pretty easy too, which is glorious because when I'm walking to work at 8:30 I don't want to have to think about it much. Also, the digital files are often cheaper than the discs and available instantly.
 
-Instructions on getting started are conveniently located on the [Audiobooks page](https://www.brooklinebooksmith.com/audio-books/) of our website, along with a code to get a discount.
+Instructions on getting started are conveniently located on the [Audiobooks page](https://www.brooklinebooksmith.com/audiobooks/) of our website, along with a code to get a discount.
 
 Take a gander around their ever-growing selection and try one out.
 
@@ -38,7 +38,7 @@ If you're not sure where to start, I'm happy to offer you a couple of my favorit
 
 ---
 
-[![](/uploads/versions/9780553499117---x----266-400x---.jpg)](https://libro.fm/audiobooks/9781101916636-illuminae) **[Illuminae](https://libro.fm/audiobooks/9781101916636-illuminae) by Amie Kaufman and Jay Kristoff**
+[![](/uploads/versions/9780553499117---x----266-400x---.jpg)](https://libro.fm/audiobooks/9781101916636-illuminae?bookstore=brooklinebooksmith) **[Illuminae](https://libro.fm/audiobooks/9781101916636-illuminae?bookstore=brooklinebooksmith) by Amie Kaufman and Jay Kristoff**
 
 When their planet is attacked out of nowhere, Kady and Ezra become refugees at the mercy of the fleet that saved them and their attackers who are still following. To complicate matters, a deadly virus has broken out on one of the ships and the fleet's AI has started making decisions of its own.
 
@@ -56,7 +56,7 @@ I had read the book more than once before I picked up the audio and I still almo
 
 ---
 
-[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) **[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle)&nbsp;by Maggie Stiefvater** Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
+[![](/uploads/versions/9780545424929---x----266-400x---.jpg)](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle) **[The Raven Cycle](https://libro.fm/audiobooks/9780545530491-raven-boys-the-book-1-of-the-raven-cycle?bookstore=brooklinebooksmith)&nbsp;by Maggie Stiefvater** Blue Sargent has always known that the boys from Aglionby academy were the worst sort. But then she meets the Raven Boys. Gansey, Ronan, Adam, and Noah are looking for the old mythic king Owain Glendower, who was supposedly brought to rest in Virginia. Stories say whoever wakes Glendower gets a wish.
 
 My love for Maggie Stiefvater is well known in the store and this is the series of hers that I have a tattoo from so it might seem like that makes me predisposed to liking the audio. That's not exactly true. It makes me WANT to like the audio more but it also makes me way pickier about it. The narrator has to be just right. With a series as dark and magical as*The Raven Cycle* with a setting that's so vitally important to the story the narrator is REALLY important.
 
@@ -74,7 +74,7 @@ Bonus: Stiefvater composes all of the music used in her audiobooks, so you shoul
 
 [![](/uploads/versions/9780062224088---x----267-400x---.jpg)](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk)
 
-**[Fortunately, The Milk](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk) by Neil Gaiman**
+**[Fortunately, The Milk](https://libro.fm/audiobooks/9780062305886-fortunately-the-milk?bookstore=brooklinebooksmith) by Neil Gaiman**
 
 One day a dad steps out to get milk so that his kids can have their cereal and he is abducted by aliens. It gets weirder from there.
 
@@ -84,7 +84,7 @@ It clocks in at about an hour so it's perfect for a short trip you don't mind gi
 
 ---
 
-<br>[![](/uploads/versions/9780307744432---x----259-400x---.jpg)](https://libro.fm/audiobooks/9780307938916-the-night-circus) **[The Night Circus](https://libro.fm/audiobooks/9780307938916-the-night-circus) by Erin Morgenstern**
+<br>[![](/uploads/versions/9780307744432---x----259-400x---.jpg)](https://libro.fm/audiobooks/9780307938916-the-night-circus) **[The Night Circus](https://libro.fm/audiobooks/9780307938916-the-night-circus?bookstore=brooklinebooksmith) by Erin Morgenstern**
 
 Le Cirque des Reves travels around the world, appearing without notice or warning. It is a place of things more enchanting than anyone thought possible. But behind the circus is an old rivalry and power so tangled none of the players can get out.
 
@@ -98,21 +98,21 @@ But somehow Dale does it. Maybe there's just something about Morgenstern's prose
 
 ---
 
-[![](/uploads/versions/9780307711816---x----347-400x---.jpg)](https://libro.fm/audiobooks/9780307711823-white-cat) **[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat) by Holly Black** With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
+[![](/uploads/versions/9780307711816---x----347-400x---.jpg)](https://libro.fm/audiobooks/9780307711823-white-cat) **[The Curse Workers](https://libro.fm/audiobooks/9780307711823-white-cat?bookstore=brooklinebooksmith) by Holly Black** With just a touch someone could give you good luck or bad. They could make you forget something or remember something that never happened. You could fall in love or suddenly hate someone. They could kill you. Enter Cassel Sharpe. The one member of his family of con artists who has no power. But having no power doesn't mean Cassel is an easy mark. He runs planet of cons on his own.
 
 Okay, so love or hate Jesse Eisenberg (another [IMDB](http://www.imdb.com/name/nm0251986/)/Google moment for you if you need it) but he can definitely talk. More than that he can do the right mix of self-deprecation and fast-talking wit that's needed for a teenage boy unsure of his place in his family but still able to run a con. He does a really awesome job with *The Curse Workers* trilogy.
 
 A story like this one wouldn't work with someone too sure of themselves and anyone too timid wouldn't be convincing so Eisenberg is oddly perfect.
 
-Also: [American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition)&nbsp;by Neil Gaiman - It's full cast and perfectly so.
+Also: [American Gods](https://libro.fm/audiobooks/9780062101914-american-gods-the-tenth-anniversary-edition?bookstore=brooklinebooksmith)&nbsp;by Neil Gaiman - It's full cast and perfectly so.
 
-[The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
+[The Scorpio Races](https://libro.fm/audiobooks/9780545448550-the-scorpio-races?bookstore=brooklinebooksmith) by Maggie Stiefvater - Sean's voice sounds a bit too old at first but it's the perfect amount of flat and disdainful.
 
-[This Savage Song](https://libro.fm/audiobooks/9780062468116-this-savage-song) by Victoria Schwab - There's a certain amount of creepy-sounding sing-song needed for this and the narrator gave me chills.
+[This Savage Song](https://libro.fm/audiobooks/9780062468116-this-savage-song?bookstore=brooklinebooksmith) by Victoria Schwab - There's a certain amount of creepy-sounding sing-song needed for this and the narrator gave me chills.
 
-[These Broken Stars](https://libro.fm/audiobooks/9780804123440-these-broken-stars) by Amie Kaufman and Meagan Spooner - The narrators are amazing (and the Johnathan McClain who reads Tarver's chapters is also in Illuminae as Ezra).
+[These Broken Stars](https://libro.fm/audiobooks/9780804123440-these-broken-stars?bookstore=brooklinebooksmith) by Amie Kaufman and Meagan Spooner - The narrators are amazing (and the Johnathan McClain who reads Tarver's chapters is also in Illuminae as Ezra).
 
-[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek.
+[Percy Jackson and the Olympian](https://libro.fm/audiobooks/9780307245328-the-lightning-thief?bookstore=brooklinebooksmith)s by Rick Riordan - The perfect narrator for Percy's straightforward logic and biting humor. Also, the ideal chance to hear the pronunciation of some of that Greek.
 
 A big thing to remember with audio is that the narrator is NEVER going to sound like the voice in your head so it's probably going to take you a little while to get used to them. Just give it a shot. If you listen to enough of them you'll start to recognize narrator names and you can check out other ones they've read.
 

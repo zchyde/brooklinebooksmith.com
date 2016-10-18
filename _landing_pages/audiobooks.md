@@ -19,7 +19,7 @@ fancy_font:
 
 **Digital audiobooks are now available from Brookline Booksmith!**
 
-We are thrilled to have partnered with [Libro.fm](https://libro.fm/Brookline Booksmithjp) to bring you the best digital audiobooks. You’ll find bestsellers and great books hand picked by Brookline Booksmith and other independent bookstores. You can easily listen on any device (phone, tablet, PC) as all our books are DRM-free.
+We are thrilled to have partnered with [Libro.fm](https://libro.fm/brooklinebooksmith) to bring you the best digital audiobooks. You’ll find bestsellers and great books hand picked by Brookline Booksmith and other independent bookstores. You can easily listen on any device (phone, tablet, PC) as all our books are DRM-free.
 
 [Start Exploring](https://libro.fm/brooklinebooksmith){: .btn.btn-primary}
 
