@@ -10,7 +10,6 @@ featured_hardcover_books:
   - hillbilly-elegy-a-memoir-of-a-family-and-culture-in-crisis
   - the-underground-railroad
 featured_paperback_books:
-  - m-train
   - the-girl-on-the-train
   - modern-romance
   - unknown-caller
@@ -30,7 +29,6 @@ Paperback:
   - '9780143128755'
   - '9781626723153'
   - '9780143109792'
-  - '9781451697728'
 ---
 
 
