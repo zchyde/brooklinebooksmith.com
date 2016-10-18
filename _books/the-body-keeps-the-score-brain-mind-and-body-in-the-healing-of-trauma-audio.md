@@ -3,7 +3,7 @@ title: 'The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
 available:
 isbn: '9781469092355'
 binding:
-link_to_buy_page: 'https://libro.fm/audiobooks/9781469092355-the-body-keeps-the-score'
+link_to_buy_page: 'https://libro.fm/audiobooks/9781469092355-the-body-keeps-the-score?bookstore=brooklinebooksmith'
 image_path: 'https://images.booksense.com/images/741/127/9780143127741.jpg'
 link:
 ---
