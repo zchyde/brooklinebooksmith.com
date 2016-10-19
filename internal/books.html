@@ -1,0 +1,13 @@
+---
+title: books
+sitemap: false
+regenerate: false
+---
+{% assign landing_page = site.landing_pages | where: 'slug', 'audiobooks' | first %}
+
+
+<h1>Books for {{ landing_page.title }}</h1>
+
+{% for object in site.books  %}
+  <h2>{{ object.title }}</h2>
+{% endfor %}

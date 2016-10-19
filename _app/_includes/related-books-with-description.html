@@ -1,13 +1,13 @@
-{% if jekyll.environment == "development" %}
+
   {% if page.related_books %}
     <hr />
-    <h2>Recommended Audiobooks</h2>
-    {% for object in page.related_books %}
-      {% assign book = site.books | where: 'slug', object | first %}
-      <a href="{% if book.link_to_buy_page %}{{ book.link_to_buy_page }}{% else %}{{ site.shop_domain }}/book/{{ book.isbn }}{% endif %}"   class="col-12 md-col md-col-3">
-        <img src="{{ book.image_path }}" class="fit" alt="image for {{ book.title }}" />
-      </a>
-    {% endfor %}
+    <h2>We Recommend</h2>
+    <div class="flex flex-wrap">
+      {% for object in page.related_books %}
+        {% assign book = site.books | where: 'slug', object | first %}
+        <a href="{% if book.link_to_buy_page %}{{ book.link_to_buy_page }}{% else %}{{ site.shop_domain }}/book/{{ book.isbn }}{% endif %}"   class="col-12 md-col-4 md-pr2" target="_blank">
+          <img src="{{ book.image_path }}" class="fit" alt="image for {{ book.title }}" />
+        </a>
+      {% endfor %}
+    </div>
   {% endif %}
-
-{% endif %}
