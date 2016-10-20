@@ -14,9 +14,9 @@ layout: default
 
 
 {% assign events = "" | split: "|" %}
-{% assign current_date = site.time | date: "%Y%m%d"  %}
+{% assign current_date = site.time | date: "%Y%m%d%H%M"  %}
 {% for item in kids_events %}
-  {% assign postdate = item.start_at | date: "%Y%m%d"  %}
+  {% assign postdate = item.start_at | date: "%Y%m%d%H%M"  %}
   {% if postdate > current_date %}
     {% assign events = events | push: item %}
   {% endif %}
