@@ -1,6 +1,6 @@
 ---
 title: '**Elissa Altman** - **Treyf: My Life as an Unorthodox Outlaw**'
-published: false
+published: true
 start_at: 2016-10-20 19:00:00
 image_path:
 book_category:
