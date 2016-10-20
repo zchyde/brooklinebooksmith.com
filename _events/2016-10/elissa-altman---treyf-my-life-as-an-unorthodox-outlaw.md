@@ -12,6 +12,6 @@ book_isbn:
 ---
 
 
-From Elissa Altman, the Washington Post columnist and James Beard Award-winning author of Poor Man’s Feast, comes Treyf: My Life as an Unorthodox Outlaw, spanning from 1940s wartime Brooklyn to 1970s Queens to present-day rural New England.
+From Elissa Altman, the Washington Post columnist and James Beard Award-winning author of *Poor Man’s Feast*, comes *Treyf: My Life as an Unorthodox Outlaw*, spanning from 1940s wartime Brooklyn to 1970s Queens to present-day rural New England.
 
 **This event is co-sponsored by the Jewish Women’s Archive. Please visit them at http://jwa.org/**
