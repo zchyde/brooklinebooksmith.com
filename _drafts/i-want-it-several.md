@@ -40,4 +40,6 @@ But kids know how to do that. It's just that they also like to reread. Kids want
 
 I, too, am an adult, and my way of reading has changed from when I was a kid. But I get to see a lot of young readers. I get to watch them adore books. And I have to tell you–I'd happily ignore a hundred award-plastered, lauded, bestselling, exquisitely crafted good books just to find one pretty good book that makes me read like that. Again and again. With my whole heart. Every copy.
 
+*Cover photo:*[A Child of Books](http://www.brooklinebooksmith-shop.com/book/9780763690779)* by Oliver Jeffers.*
+
 &nbsp;
