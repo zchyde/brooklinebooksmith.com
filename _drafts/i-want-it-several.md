@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-10-20 09:00:00
 description: "Being young, reading books, and loving things so much that all isn't enough."
-featured_image_path:
+featured_image_path: /uploads/3035.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -16,7 +16,7 @@ books:
 ---
 
 
-This week when I was shelving, I watched a toddler gather several copies of Sandra Boynton's[ *Eek! Halloween!*](http://www.brooklinebooksmith-shop.com/book/9780761193005)and solemnly carry them across the children's department to the round table, where her mother was waiting.
+This week when I was shelving, I watched a toddler gather several copies of Sandra Boynton's[ *Eek! Halloween!*](http://www.brooklinebooksmith-shop.com/book/9780761193005) band solemnly carry them across the children's department to the round table, where her mother was waiting.
 
 "We can read these–Oh, I see you got the same book twice," she said. (If you're this customer, by the way–your baby is great.)
 
@@ -39,7 +39,5 @@ I quite frequently hear negotiations between family members: *you can get one bo
 But kids know how to do that. It's just that they also like to reread. Kids want to trace the familiar lines of color and story. They want to sink into characters who are their comrades and their other halves. It makes kid reading special. Their obsessive rereading is special. Their desire to gather every single [*Snowy Day*](http://www.brooklinebooksmith-shop.com/book/9780670867332) is–well, it has to get picked up afterwards, but it's *special*. It's important. Because reading a lot of good stuff is a wonderful way to read–but loving a book so much you lose your indoor voice and ignore everything else on the shelf and wreck your copy and stand for hours to get the next one and know more than the author even does–wanting a book so much that all is not enough is an incredibly powerful kind of reading.
 
 I, too, am an adult, and my way of reading has changed from when I was a kid. But I get to see a lot of young readers. I get to watch them adore books. And I have to tell you–I'd happily ignore a hundred award-plastered, lauded, bestselling, exquisitely crafted good books just to find one pretty good book that makes me read like that. Again and again. With my whole heart. Every copy.
-
-*Cover photo:*[A Child of Books](http://www.brooklinebooksmith-shop.com/book/9780763690779)* by Oliver Jeffers.*
 
 &nbsp;
