@@ -1,6 +1,6 @@
 ---
 title: I Want It Several
-published: false
+published: true
 featured: false
 date: 2016-10-20 09:00:00
 description: "Being young, reading books, and loving things so much that all isn't enough."
@@ -24,7 +24,7 @@ This happens *a lot* in our department. Especially three and unders find great s
 
 The loving adults of these babies always patiently explain that it's all the same book, and more than one copy isn't strictly an improvement over *only* one copy. The adult tries to explain that taking out the same book over and over (one we have at home!) is a mess, or an inefficient use of bookstore time. This fact is, invariably, not even a tiny bit interesting to the babies. So it's one book over and over? AWESOME. GREAT. IT IS ONE BOOK, OVER AND OVER. If that is the book they want, they want the ULTIMATE AMOUNT OF THAT BOOK.
 
-Watching *Eek! Halloween!&nbsp;*be lovingly gathered, I had a thought: I, too, shop for books like this.
+Watching *Eek! Halloween!*be lovingly gathered, I had a thought: I, too, shop for books like this.
 <br>
 <br>I have on a lot more than one occasion seen a book that I love, and definitely own, on the shelves of a bookstore or library and become momentarily obsessed by the thought that THIS is the book I MUST BRING HOME. I do not need it, because I have it already, but there is this buzzer going off in my head: YOU FOUND THE CORRECT BOOK, NO OTHER BOOK WILL DO. Practicality is irrelevant. The heart wants the book it already owns because all of a beloved book is simply not enough. And that, basically, is what babies teach me is an okay way to feel.
 
@@ -39,5 +39,3 @@ I quite frequently hear negotiations between family members: *you can get one bo
 But kids know how to do that. It's just that they also like to reread. Kids want to trace the familiar lines of color and story. They want to sink into characters who are their comrades and their other halves. It makes kid reading special. Their obsessive rereading is special. Their desire to gather every single [*Snowy Day*](http://www.brooklinebooksmith-shop.com/book/9780670867332) is–well, it has to get picked up afterwards, but it's *special*. It's important. Because reading a lot of good stuff is a wonderful way to read–but loving a book so much you lose your indoor voice and ignore everything else on the shelf and wreck your copy and stand for hours to get the next one and know more than the author even does–wanting a book so much that all is not enough is an incredibly powerful kind of reading.
 
 I, too, am an adult, and my way of reading has changed from when I was a kid. But I get to see a lot of young readers. I get to watch them adore books. And I have to tell you–I'd happily ignore a hundred award-plastered, lauded, bestselling, exquisitely crafted good books just to find one pretty good book that makes me read like that. Again and again. With my whole heart. Every copy.
-
-&nbsp;
