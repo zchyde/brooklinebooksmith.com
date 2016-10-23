@@ -18,17 +18,17 @@ This November we will arrive at the end of the most contentious presidential ele
 
 These titles got the popular vote:
 
-Harry Potter series by J.K. Rowling
+Harry Potter series by J.K. Rowling (6)
 
 Kafka on the Shore by Haruki Murakami
 
-Book Thief by Mark Zusak
+Book Thief by Mark Zusak (3)
 
-Ella Enchanted by Gail Carson Levine
+Ella Enchanted by Gail Carson Levine (2)
 
 Fire in the Heart by Deepak Chopra
 
-Wuthering Heights by Emily Bronte
+Wuthering Heights by Emily Bronte (2)
 
 Let Us Now Praise Famous Men by James Agee
 
@@ -38,7 +38,7 @@ Little Women by Louisa May Alcott
 
 A Thousand Splendid Suns by Khaled Hosseini
 
-Great Gatsby by F. Scott Fitzgerald
+Great Gatsby by F. Scott Fitzgerald (3)
 
 The Glass Castle by Jeanette Walls
 
