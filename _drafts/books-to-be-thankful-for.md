@@ -24,6 +24,8 @@ Kafka on the Shore by Haruki Murakami
 
 Book Thief by Mark Zusak
 
+Ella Enchanted by Gail Carson Levine
+
 Fire in the Heart by Deepak Chopra
 
 Wuthering Heights by Emily Bronte
@@ -81,5 +83,7 @@ Number 9 Dream by David Mitchell
 The Joy of Cooking by Irma S. Rombauer
 
 Tris's Book by Tamora Pierce
+
+The Shallows by Nicholas G. Carr
 
 thankfully from now on we can focus on what we can all agree on – good books.
