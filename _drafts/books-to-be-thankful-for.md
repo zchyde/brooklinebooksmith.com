@@ -14,6 +14,36 @@ books:
 ---
 
 
-It's November.&nbsp; While there are some things that we can't seem to agree on there's one thing that's universally true -- we love books.
+This November we will arrive at the end of the most contentious presidential election since [1800.](http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel) In the spirit of democracy I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
 
-We love books old and new and we are so thankful for them and for what they have brought into our lives.&nbsp; Books show us who we are before we can even see it for ourselves.&nbsp;
+These titles got the popular vote:
+
+ella enchanted
+
+hp
+
+book thief
+
+fire in the heart
+
+wuthering heights
+
+bunnicula
+
+let us now praise famous men
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+thankfully from now on we can focus on what we can all agree on -- good books.
+
+&nbsp;
