@@ -18,32 +18,58 @@ This November we will arrive at the end of the most contentious presidential ele
 
 These titles got the popular vote:
 
-ella enchanted
+Harry Potter series
 
-hp
+Book Thief
 
-book thief
+Fire in the Heart
 
-fire in the heart
+Wuthering Heights
 
-wuthering heights
+Let Us Now Praise Famous Men
 
-bunnicula
+Franny & Zoey
 
-let us now praise famous men
+Little Women
 
-&nbsp;
+A Thousand Splendid Suns
 
-&nbsp;
+Great Gatsby
 
-&nbsp;
+The Glass Castle
 
-&nbsp;
+Snow Falling On Cedars
 
-&nbsp;
+The Outsiders
 
-&nbsp;
+Anne of Green Gables
 
-thankfully from now on we can focus on what we can all agree on -- good books.
+The Immortal Life of Henrietta Lacks
 
-&nbsp;
+Brief and Wondrous Life of Oscar Wao
+
+Blood Meridian
+
+To The Lighthouse
+
+The Jessica Darling series
+
+Mrs. Dalloway
+
+Up In The Old Hotel
+
+Howard's End
+
+Jane Eyre
+
+A Confederacy of Dunces
+
+Don Quixote
+
+James and the Giant Peach
+
+The Little Prince
+
+The Voyage of the Basset
+
+thankfully from now on we can focus on what we can all agree on – good books.
