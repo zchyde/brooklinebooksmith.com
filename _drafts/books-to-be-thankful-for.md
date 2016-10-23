@@ -46,7 +46,7 @@ Snow Falling On Cedars by David Guterson
 
 The Outsiders by S. E. Hinton
 
-Anne of Green Gables Lucy Maud Montgomery
+Anne of Green Gables by Lucy Maud Montgomery
 
 The Immortal Life of Henrietta Lacks
 
