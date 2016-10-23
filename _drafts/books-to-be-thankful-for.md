@@ -18,62 +18,68 @@ This November we will arrive at the end of the most contentious presidential ele
 
 These titles got the popular vote:
 
-Harry Potter series
+Harry Potter series by J.K. Rowling
 
-Book Thief
+Kafka on the Shore by Haruki Murakami
 
-Fire in the Heart
+Book Thief by Mark Zusak
 
-Wuthering Heights
+Fire in the Heart by Deepak Chopra
 
-Let Us Now Praise Famous Men
+Wuthering Heights by Emily Bronte
 
-Franny & Zoey
+Let Us Now Praise Famous Men by James Agee
 
-Little Women
+Franny & Zoey by F. Scott Fitzgerald
 
-A Thousand Splendid Suns
+Little Women by Louisa May Alcott
 
-Great Gatsby
+A Thousand Splendid Suns by Khaled Hosseini
 
-The Glass Castle
+Great Gatsby by F. Scott Fitzgerald
 
-Snow Falling On Cedars
+The Glass Castle by Jeanette Walls
 
-The Outsiders
+Snow Falling On Cedars by David Guterson
 
-Anne of Green Gables
+The Outsiders by S. E. Hinton
+
+Anne of Green Gables Lucy Maud Montgomery
 
 The Immortal Life of Henrietta Lacks
 
-Brief and Wondrous Life of Oscar Wao
+Brief and Wondrous Life of Oscar Wao by Junot Diaz
 
-Blood Meridian
+Blood Meridian by Cormac McCarthy
 
-To The Lighthouse
+To The Lighthouse by Virginia Woolf
 
-The Jessica Darling series
+The Jessica Darling series by Megan McCafferty
 
-Mrs. Dalloway
+Mrs. Dalloway by Virginia Woolf
 
-Up In The Old Hotel
+Howard's End by E.M. Forster
 
-Howard's End
+Jane Eyre by Charlotte Bronte
 
-Jane Eyre
+A Confederacy of Dunces by John Kennedy Toole
 
-A Confederacy of Dunces
+Don Quixote by Miguel de Cervantes
 
-Don Quixote
+James and the Giant Peach by Roald Dahl
 
-James and the Giant Peach
+The Little Prince by Antoine de Saint-Exup&eacute;ry
 
-The Little Prince
+The Voyage of the Basset by John Christensen
 
-The Voyage of the Basset
+The Phantom Tollbooth by Norton Juster
 
-The Phantom Toll booth
+Girls Mans Up by M-E Girard
 
-Girls mans up
+Number 9 Dream by David Mitchell
+
+The Joy of Cooking by Irma S. Rombauer
+
+Tris's Book by Tamora Pierce
 
 thankfully from now on we can focus on what we can all agree on – good books.
