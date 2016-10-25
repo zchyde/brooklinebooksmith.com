@@ -10,11 +10,10 @@ show_featured_image_in_post: false
 fancy_font:
 category:
 staff:
+  - india
 related_books:
 ---
 
-
-&nbsp;
 
 ---
 
@@ -24,7 +23,7 @@ Born on 28 July 1866, the world-renowned children's book author and illustrator 
 
 During the month of June, I spent a bit of time in England and Scotland studying British libraries and archives with the University of Southern Mississippi. A fascinating trip all around, but one of the things that truly made my childlike heart soar was the day we visited the Beatrix Potter archives at Blythe House!
 
-Though Beatrix Potter is often portrayed as having a rather sad childhood, archivist Emma Laws brought up a rather interesting point, "You can't believe everything people say in a journal because when people write their personal thoughts, it can often be a load of nonsense."&nbsp; As a young girl who kept journals of her own, I have to say I believe her! Emotions do not translate well to paper, and the things we write in their midst are often absurdly one-sided.
+Though Beatrix Potter is often portrayed as having a rather sad childhood, archivist Emma Laws brought up a rather interesting point, "You can't believe everything people say in a journal because when people write their personal thoughts, it can often be a load of nonsense."  As a young girl who kept journals of her own, I have to say I believe her! Emotions do not translate well to paper, and the things we write in their midst are often absurdly one-sided.
 
 Laws went on to explain a bit about Potter's life. She had a rather fortunate, and quite typical, middle-class upbringing for the time–holidaying in Scotland every summer, and treated to the best education her parents could find. Potter did not move away from London, where she lived with her parents until she was 47 years old. As a child, she was not overly sentimental and often drew dead animals. She was fascinated by the natural world around her, and as her artistic talents grew, so did her imagination. Her stories of Peter Rabbit, Squirrel Nutkin, et al. started as letters to the children of her much-beloved governess. As you can see from the pictures below, they grew very organically. She had a natural ability to know where to insert pictures. There were few changes between the letters and the stories themselves.
 
