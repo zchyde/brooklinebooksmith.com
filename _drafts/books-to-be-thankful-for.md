@@ -58,7 +58,7 @@ To The Lighthouse by Virginia Woolf
 
 The Jessica Darling series by Megan McCafferty
 
-Mrs. Dalloway by Virginia Woolf
+Mrs. Dalloway by Virginia Woolf (3)
 
 Howard's End by E.M. Forster
 
@@ -85,5 +85,25 @@ The Joy of Cooking by Irma S. Rombauer
 Tris's Book by Tamora Pierce
 
 The Shallows by Nicholas G. Carr
+
+A Wrinkle in Time by Madeline L'engle
+
+The Bhagavad Gita
+
+Cutting for Stone by Abraham Vergese
+
+Knocking on Heaven's Door by Katy Butler
+
+Encyclopedia Brown by Donald J. Sobol
+
+Cheaper by the Dozen by Ernestine Gilbreth Carey and Frank Bunker Gilbreth Jr.
+
+Bluets by Maggie Nelson
+
+The Jitters by Anne Cecilia Holmes
+
+Brown Bear Bron Bear by eric carle
+
+Archie and Mehitabel by
 
 thankfully from now on we can focus on what we can all agree on – good books.
