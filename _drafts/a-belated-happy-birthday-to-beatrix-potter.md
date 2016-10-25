@@ -2,9 +2,9 @@
 title: 'India visits the Beatrix Potter Archives!'
 published: false
 featured: false
-date: 2016-01-15 09:00:00
-description:
-featured_image_path:
+date: 2016-10-27 11:00:00
+description: "Born on 28 July 1866, the world-renowned children's book author and illustrator just celebrated her 150th birthday!"
+featured_image_path: /uploads/headerpotter.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
