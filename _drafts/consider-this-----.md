@@ -15,7 +15,7 @@ books:
 ---
 
 
-Consider asking yourself which animals you love most.&nbsp; Which ones have been your favorites all When was the last time you read an eco-book you were thankful about?&nbsp; Consider finding one again.
+Consider asking yourself which animals you love most.&nbsp; Which creatures have been your favorite your whole life?&nbsp; Which critters are you most thankful for?
 
 ![](/uploads/versions/9781632170255---x----292-400x---.jpg)If owls are hooo-hoo you like the best, look to [The Hidden Lives of Owls](http://www.brooklinebooksmith-shop.com/book/9781632170255) by Leigh Calvez.&nbsp;
 
