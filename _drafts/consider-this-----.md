@@ -19,7 +19,7 @@ Consider asking yourself which animals you love most.&nbsp; Which ones have been
 
 ![](/uploads/versions/9781632170255---x----292-400x---.jpg)If owls are hooo-hoo you like the best, look to [The Hidden Lives of Owls](http://www.brooklinebooksmith-shop.com/book/9781632170255) by Leigh Calvez.&nbsp;
 
-[![](/uploads/versions/9781476795997---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781476795997)Most of us love dogs, and would love to know exactly what they think!&nbsp; Lucky for us, we've got Alexandra Horowitz.&nbsp; Horowitz became instantly popular with the release of [<u>Inside of a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781416583431).&nbsp; Her newest puppy-prose is [<u>Being a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781476795997) which explores the scent-skills of a man's, well people's, best friend.
+[![](/uploads/versions/9781476795997---x----265-400x---.jpg)](http://www.brooklinebooksmith-shop.com/book/9781476795997)Most of us love dogs, and would love to know exactly what they think!&nbsp; Lucky for us, we've got Alexandra Horowitz.&nbsp; Horowitz became instantly popular with the release of [<u>Inside of a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781416583431).&nbsp; Her newest puppy-prose is [<u>Being a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781476795997) which explores the scent-skills of a man's, well people's, best friend.&nbsp; Kids will enjoy
 
 Maybe cats are more your style&nbsp; Kids will enjoy [<u>Pete the Cat</u>](http://www.brooklinebooksmith-shop.com/book/9780062304254)by James Dean or [They All Saw a Cat](http://www.brooklinebooksmith-shop.com/book/9781452150130) written and illustrated by Brendan Wenzel.
 
