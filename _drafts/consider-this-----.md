@@ -25,4 +25,4 @@ Maybe cats are more your style&nbsp; Kids will enjoy [<u>Pete the Cat</u>](http:
 
 Additional notes:&nbsp; If you don't have just one favorite critter, consider picking up book about your favorite ecosystem, core classics like Edward Abbey's [<u>Desert Solitaire</u>](http://www.brooklinebooksmith-shop.com/book/9780345326492) or Bill Bryson's [<u>A Walk in the Woods</u>](http://www.brooklinebooksmith-shop.com/book/9780767902526) or Aldo Leopold's [<u>A Sand County Almanac</u>](http://www.brooklinebooksmith-shop.com/book/9780345345059) or
 
-If you're
+&nbsp;
