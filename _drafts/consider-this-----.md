@@ -17,7 +17,7 @@ books:
 
 Consider asking yourself which animals you love most.&nbsp; Which ones have been your favorites all When was the last time you read an eco-book you were thankful about?&nbsp; Consider finding one again.
 
-If owls are hooo-hoo you like the best, look to [The Hidden Lives of Owls](http://www.brooklinebooksmith-shop.com/book/9781632170255) by Leigh Calvez
+![](/uploads/versions/9781632170255---x----292-400x---.jpg)If owls are hooo-hoo you like the best, look to [The Hidden Lives of Owls](http://www.brooklinebooksmith-shop.com/book/9781632170255) by Leigh Calvez
 
 Additional notes:&nbsp; If you don't have just one favorite critter, consider picking up book about your favorite ecosystem, core classics like Edward Abbey's [<u>Desert Solitaire</u>](http://www.brooklinebooksmith-shop.com/book/9780345326492) or Bill Bryson's [<u>A Walk in the Woods</u>](http://www.brooklinebooksmith-shop.com/book/9780767902526) or
 
