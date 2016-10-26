@@ -15,4 +15,4 @@ books:
 ---
 
 
-When was the last time you read an eco-book you were thankful about?&nbsp; Consider finding one again.
+Consider asking yourself which animals you love most.&nbsp; Which ones have been your favorites all When was the last time you read an eco-book you were thankful about?&nbsp; Consider finding one again.
