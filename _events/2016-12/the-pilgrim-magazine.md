@@ -1,10 +1,10 @@
 ---
-title: '*The Pilgrim Magazine*'
+title: The Pilgrim Magazine
 published: true
 start_at: 2016-12-07 19:00:00
-image_path: /uploads/0pPilgrim.png
+image_path: /uploads/0pilgrim.jpg
 book_category:
-program: '-writers-and-readers'
+program:
 ticketed: false
 test:
 book_isbn:
