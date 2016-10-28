@@ -2,7 +2,7 @@
 title: '*The Pilgrim Magazine*'
 published: true
 start_at: 2016-12-07 19:00:00
-image_path: /uploads/0Large_pilgrim.jpg
+image_path: /uploads/0pilgrim.jpg
 book_category:
 program:
 ticketed: false
