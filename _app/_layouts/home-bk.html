@@ -69,21 +69,17 @@ layout: default
   </div>
 
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
-    <h1 class="p2 m0 white">Latest Blog Posts</h1>
-    {% for object in posts  limit:8 %}
+    <h1 class="p2 m0 white">Upcoming Events</h1>
+    {% for object in events_upcoming  limit:8 %}
+      {% assign start_at =  object.start_at | date: "%A %b %-d" | replace: ' 0', '' %}
+      {% assign start_time =  object.start_at | date: "-  %I:%M %p" | replace: ' 0', '' | downcase %}
       <a href="{{ object.url }}" class="block col-12 px2 pt2 pb3 hover-bg-primary-color hover-light-primary-color">
+        <time class="h5 primary-text-colorTK white m0">
+          {{ start_at }} {{ start_time }}
+        </time>
         <h3 class="h3 near-white m0">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
         </h3>
-        <span class="h5 gray">
-          {% if date %}
-          Posted {% include components/date.html date=date %}
-          {% endif %}
-          {% if object.staff %}
-            {% assign theauthor = site.staff | where: 'slug', object.staff[0] %}
-            by {{ theauthor[0].title }}
-          {% endif %}
-        </span>
       </a>
     {% endfor %}
   </div>
