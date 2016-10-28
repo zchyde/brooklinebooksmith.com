@@ -53,11 +53,16 @@ layout: default
       </h1>
     </div>
 
-    <div class="col-12 flex flex-wrap">
-      {% for object in posts limit:second_row_limit offset:second_row_offset %}
-        <a href="{{ object.url }}" class="sm-col md-col lg-col col-12 sm-col-12 md-col-4 lg-col-4 pr2 mb2 text-decoration-none relative black">
-          {% include components/card-image-top-bg.html classes=box_classes %}
-        </a>
+
+
+
+
+    <div class="col-12 flex flex-wrap md-pr2">
+      {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
+          {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
+
+          {% include components/card-image-side.html classes=box_classes start_at=start_at %}
+
       {% endfor %}
     </div>
 
@@ -67,6 +72,11 @@ layout: default
       </a>
     </div>
   </div>
+
+
+
+
+
 
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
     <h1 class="p2 m0 white">Latest Blog Posts</h1>
