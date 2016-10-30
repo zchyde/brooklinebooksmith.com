@@ -25,7 +25,7 @@ layout: default
 
 {% include hero.html %}
 <div class="px3 col-12 my4 clearfix">
-
+{{ current_date}}
   <div class="col lg-col-9">
 
     {% if campaign.size > 0 %}
@@ -52,7 +52,7 @@ layout: default
     <div class="col-12 flex flex-wrap md-pr2">
       {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
           {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-
+{{postdate}}
           {% include components/card-image-side.html classes=box_classes start_at=start_at %}
 
       {% endfor %}

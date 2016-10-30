@@ -1,51 +1,7 @@
 {% assign related_books_isbn = object.book_isbn %}
-<div class="card event col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
+<div class="col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
 
-
-  <div class="card-header bg-primary-color text-on-primary-color h4 px2 py1">
-    {% if start_at %}
-      {% include components/date.html %}
-    {% endif %}
-    {% if object.ticketed %}
-      <div class="btn btn-primary">
-        Ticketed Event
-      </div>
-    {% endif %}
-  </div>
-
-
-  <div class="p2">
-    {% if object.book_category or object.program %}
-      <h5>
-        {% if object.book_category %}
-          {{object.book_category}}
-        {% comment %}
-        elsif object.program
-          capture related_program/programs/{{ object.program }}/endcapture
-          assign program = site.programs | where: 'url', related_program
-          assign program_title = program[0].title
-          {{ program_title }}
-         {% endcomment %}
-        {% endif %}
-      </h5>
-    {% endif %}
-    {% if object.title  %}
-      <h3 class="event_title">
-        <a href="{{ object.url }}" class="h3 lg-h2 black hover-gray">
-          {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
-        </a>
-      </h3>
-    {% endif %}
-  </div>
-
-
-
-  <div class="card-copy flexTK px2 col-12 clearfix">
-    {% comment %}
-      looking for events with books. using the book_isbn value
-      Using "...size > 0" to capture null values and entries where no field is present
-      size, oddly, returns "8" where there is only one isbn (which is 13 digits)
-    {% endcomment %}
+<div class="col-12 clearfix">
 
     <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-4{% else %} lg-col-3{% endif %} pr2">
       {% if object.image_path and object.image_path !='' %}
@@ -77,8 +33,56 @@
     {% endif %}
 
     </div>
+
+    <!-- //end book cover(s)} -->
+
     {% if object.content %}
       <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-8{% else %} lg-col-9{% endif %} h4">
+
+        <div class="bg-primary-color text-on-primary-color rounded-right h4 px2 py1">
+          {% if start_at %}
+            {% include components/date.html %}
+          {% endif %}
+          {% if object.ticketed %}
+            <div class="btn btn-primary">
+              Ticketed Event
+            </div>
+          {% endif %}
+        </div>
+
+
+
+
+
+          <div class="p2">
+            {% if object.book_category or object.program %}
+              <h5>
+                {% if object.book_category %}
+                  {{object.book_category}}
+                {% comment %}
+                elsif object.program
+                  capture related_program/programs/{{ object.program }}/endcapture
+                  assign program = site.programs | where: 'url', related_program
+                  assign program_title = program[0].title
+                  {{ program_title }}
+                 {% endcomment %}
+                {% endif %}
+              </h5>
+            {% endif %}
+            {% if object.title  %}
+              <h3 class="event_title">
+                <a href="{{ object.url }}" class="h3 lg-h2 black hover-gray">
+                  {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+                </a>
+              </h3>
+            {% endif %}
+          </div>
+
+
+
+
+
+
         {{ object.content | markdownify }}
       </div>
     {% endif %}
