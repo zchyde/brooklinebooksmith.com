@@ -26,8 +26,6 @@ Book Thief by Mark Zusak (3)
 
 Ella Enchanted by Gail Carson Levine (2)
 
-Fire in the Heart by Deepak Chopra
-
 Wuthering Heights by Emily Bronte (2)
 
 Let Us Now Praise Famous Men by James Agee
@@ -56,8 +54,6 @@ Blood Meridian by Cormac McCarthy
 
 To The Lighthouse by Virginia Woolf
 
-The Jessica Darling series by Megan McCafferty
-
 Mrs. Dalloway by Virginia Woolf (3)
 
 Howard's End by E.M. Forster
@@ -72,11 +68,7 @@ James and the Giant Peach by Roald Dahl
 
 The Little Prince by Antoine de Saint-Exup&eacute;ry
 
-The Voyage of the Basset by John Christensen
-
 The Phantom Tollbooth by Norton Juster
-
-Girls Mans Up by M-E Girard
 
 Number 9 Dream by David Mitchell
 
@@ -88,22 +80,12 @@ The Shallows by Nicholas G. Carr
 
 A Wrinkle in Time by Madeline L'engle
 
-The Bhagavad Gita
-
 Cutting for Stone by Abraham Vergese
-
-Knocking on Heaven's Door by Katy Butler
-
-Encyclopedia Brown by Donald J. Sobol
-
-Cheaper by the Dozen by Ernestine Gilbreth Carey and Frank Bunker Gilbreth Jr.
 
 Bluets by Maggie Nelson
 
-The Jitters by Anne Cecilia Holmes
+Brown Bear Brown Bear by eric carle
 
-Brown Bear Bron Bear by eric carle
-
-Archie and Mehitabel by
+&nbsp;
 
 thankfully from now on we can focus on what we can all agree on – good books.
