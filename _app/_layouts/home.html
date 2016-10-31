@@ -54,7 +54,6 @@ layout: default
   </div>
 
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
-
     <h1 class="p2 m0 white">Upcoming Events</h1>
     {% for object in events_upcoming  limit:8 %}
       {% assign start_at =  object.start_at | date: "%A %b %-d" | replace: ' 0', '' %}
