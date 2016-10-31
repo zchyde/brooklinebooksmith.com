@@ -12,4 +12,4 @@ book_isbn:
 ---
 
 
-Do you love picture books? Join us in our children’s section for drop-in storytime every first Saturday and third Sunday of the month.
+Do you love picture books?"Join us in our children’s section for drop-in storytime!
