@@ -10,7 +10,6 @@ layout: default
 
 {% include hero.html %}
 <div class="px3 col-12 my4 clearfix">
-{{ current_date}}
   <div class="col lg-col-9">
 
     {% if campaign.size > 0 %}
@@ -21,9 +20,9 @@ layout: default
           {% include _campaigns-image.html %}
         </div>
         <div class="md-col lg-col col-12 md-col-5 lg-col-5 md-px2 lg-px2">
-          {% for object in posts limit:1 %}
+          {% for object in events_upcoming limit:1 %}
           <a href="{{ object.url }}" class="col col-12 md-pl2 lg-pl2 mb2 text-decoration-none relative black">
-            {% include components/card-image-top-bg.html classes=box_classes %}
+            {% include components/card-image-side.html classes=box_classes start_at=start_at %}
           </a>
           {% endfor %}
         </div>
@@ -36,16 +35,14 @@ layout: default
 
     <div class="col-12 flex flex-wrap md-pr2">
       {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
-          {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-{{postdate}}
-          {% include components/card-image-side.html classes=box_classes start_at=start_at %}
-
+        {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
+        {%  include components/card-image-side.html classes=box_classes start_at=start_at %}
       {% endfor %}
     </div>
 
     <div class="col-12 clearfix right-align px2 mb3 md-mb0 lg-mb0">
-      <a href="/blog/" class=" block btn btn-primary">
-        more from the blog
+      <a href="/events/#event-{{second_row_limit}}" class=" block btn btn-primary">
+        more events
       </a>
     </div>
   </div>
@@ -57,7 +54,7 @@ layout: default
 
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
     <h1 class="p2 m0 white">Latest Blog Posts</h1>
-    {% for object in posts  limit:8 %}
+    {% for object in posts  limit:15 %}
       <a href="{{ object.url }}" class="block col-12 px2 pt2 pb3 hover-bg-primary-color hover-light-primary-color">
         <h3 class="h3 near-white m0">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
