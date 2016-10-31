@@ -8,19 +8,8 @@ layout: default
  <!-- assign events_past = site.events | where_exp: 'item', 'item.start_at < todays_date' %}
  assign events_past = events_upcoming | sort: 'start_at', 'last' | reverse %} -->
 {% include hero.html %}
-
-{% assign events = "" | split: "|" %}
-{% assign current_date = site.time | date: "%Y%m%d%H%M"  %}
-{% for item in site.events %}
-  {% assign postdate = item.start_at | date: "%Y%m%d%H%M"  %}
-  {% if postdate > current_date %}
-    {% assign events = events | push: item %}
-  {% endif %}
-{% endfor %}
-
-{% assign events_upcoming = events | sort: 'start_at', 'last'  %}
-
-
+{% assign page_events = site.events  %}
+{% include events/filter-events_upcoming.html %}
 
 
 
