@@ -1,7 +1,7 @@
 ---
 title: '**Tania Unsworth** - *Brightwood*, **Natasha Lowe** - *The Marvelous Magic of Miss Mabel*'
 published: true
-start_at: 2016-10-30T17:00:00.000Z
+start_at: 2016-10-30 21:00:00
 image_path:
 book_category: kidsmith
 program: childrens-story-time

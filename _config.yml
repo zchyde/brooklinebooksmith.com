@@ -71,7 +71,7 @@ gems:
   - jekyll-seo-tag
 env: development
 sitename: brookline booksmith
-timezone: Etc/Zulu
+timezone: Etc/GMT
 paginate: 40
 paginate_path: "/blog/page-:num/"
 exclude:

@@ -4,24 +4,9 @@ layout: default
 {% assign campaign = site.campaigns | where: 'show', true %}
 {% assign featured_posts = site.posts | where: 'featured', true %}
 {% assign posts = site.posts %}
-{% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
- <!-- assign todays_date = site.time | date: "%Y%m%d"  %} -->
- <!-- assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %} -->
- <!-- assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %} -->
-
-{% assign events = "" | split: "|" %}
-{% assign current_date = site.time | date: "%Y%m%d%H%M"  %}
-{% for item in site.events %}
-  {% assign postdate = item.start_at | date: "%Y%m%d%H%M"  %}
-  {% if postdate > current_date %}
-    {% assign events = events | push: item %}
-  {% endif %}
-{% endfor %}
-
-{% assign events_upcoming = events | sort: 'start_at', 'last'  %}
-
-
+{% assign page_events = site.events  %}
+{% include events/filter-events_upcoming.html %}
 
 {% include hero.html %}
 <div class="px3 col-12 my4 clearfix">

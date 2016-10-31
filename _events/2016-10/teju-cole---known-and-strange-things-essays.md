@@ -1,7 +1,7 @@
 ---
 title: '**Teju Cole** -  *Known and Strange Things: Essays*'
 published: true
-start_at: 2016-10-31T19:00:00.000Z
+start_at: 2016-10-31 19:00:00
 image_path:
 book_category:
 program: '-writers-and-readers'
