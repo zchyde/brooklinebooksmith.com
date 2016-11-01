@@ -1,5 +1,5 @@
 ---
-title: Books to be thankful for
+title: Thankful for books
 published: false
 featured: false
 date: 2016-10-01 09:00:00
@@ -14,17 +14,21 @@ books:
 ---
 
 
-This November we will arrive at the end of the most contentious presidential election since [1800.](http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel) In the spirit of democracy I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
+It is no surprise that we are book lovers here at the 'smith. &nbsp; Books can transport us, can inspire us, and can change us.&nbsp; Those are the books that we don't just *like* but **LOVE.&nbsp;**They are books we are truly grateful for.&nbsp; With thanksgiving around the bend (and in the spirit of democracy) I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
 
-![](/uploads/versions/g-10---x----1395-2093x---.jpg)---
+These are some of our favorites:
 
-![](/uploads/versions/g-1---x----1264-1645x---.jpg)---
+![](/uploads/versions/g-10---x----1395-2093x---.jpg)—
 
-![](/uploads/versions/g-2---x----1164-1149x---.jpg)----
+Responses ranged from kid's books to adult non fiction
 
-![](/uploads/versions/g-5---x----1360-1546x---.jpg)---
+![](/uploads/versions/g-1---x----1264-1645x---.jpg)—
 
-![](/uploads/versions/g-11---x----2184-1456x---.jpg)---
+![](/uploads/versions/g-2---x----1164-1149x---.jpg)—-
+
+![](/uploads/versions/g-5---x----1360-1546x---.jpg)—
+
+![](/uploads/versions/g-11---x----2184-1456x---.jpg)—
 
 ![](/uploads/versions/g-12---x----2023-1349x---.jpg)
 
