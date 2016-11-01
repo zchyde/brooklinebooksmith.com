@@ -16,4 +16,4 @@ In celebration of Elena Ferrante's first collection of nonficiton, ***Frantumagl
 <br>&nbsp;
 <br>***Frantumaglia&nbsp;***invites readers into Elena Ferrante’s workshop. It offers a glimpse into the drawers of her writing desk, those drawers from which emerged her three early standalone novels and the four installments of\* My Brilliant Friend*, known in English as the \*Neapolitan Quartet*. Consisting of over 20 years of letters, essays, reflections, and interviews, it is a unique depiction of an author who embodies a consummate passion for writing.
 <br>&nbsp;
-<br>[Tickets are $5 each or free with the purchase of Frantumaglia. Tickets can be purchased here.](https://www.eventbrite.com/e/a-night-of-ferrante-fever-1129-tickets-28726025315)
+<br>**[Tickets are $5 each or free with the purchase of Frantumaglia. Tickets can be purchased here.](https://www.eventbrite.com/e/a-night-of-ferrante-fever-1129-tickets-28726025315)**
