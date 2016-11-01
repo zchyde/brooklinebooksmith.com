@@ -1,9 +1,12 @@
 {% assign related_books_isbn = object.book_isbn %}
-<div class="card event col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
+<div class="card event col col-12 sm-col-12 md-col-12 lg-col-3 bg-white border border-silver rounded mb2" id="event-{{count}}">
 
-  <div class="card-header bg-primary-color text-on-primary-color h4 px2 py1 mb3">
+  <div class="card-header bg-primary-color text-on-primary-color h5 px2 py1 mb1">
     {% if start_at %}
-      {% include components/date.html %}
+    <time>
+      <span class="inline-block">{{ object.start_at | date: "%A %m/%d" }}</span>
+      <span class="right-align ml3 inline-block">{{ object.start_at | date: "%l:%M %p" }}</span>
+    </time>
     {% endif %}
     {% if object.ticketed %}
       <div class="btn btn-primary">
@@ -20,9 +23,46 @@
     {% endcomment %}
 
     <!-- image -->
-    <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-4{% else %} lg-col-3{% endif %} pr2">
+    <div class="col col-12 pr2">
+       <!-- if related_books_isbn.size > 1 %} lg-col-4 else %} lg-col-3endif %} -->
+
+
+
+      {% if object.book_category or object.program %}
+        <h5>
+          {% if object.book_category %}
+            {{object.book_category}}
+          {% comment %}
+          elsif object.program
+            capture related_program/programs/{{ object.program }}/endcapture
+            assign program = site.programs | where: 'url', related_program
+            assign program_title = program[0].title
+            {{ program_title }}
+           {% endcomment %}
+          {% endif %}
+        </h5>
+      {% endif %}
+
+      {% if object.title  %}
+
+          <a href="{{ object.url }}" class="h4 block mb1 clearfix black hover-gray">
+            {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+          </a>
+
+      {% endif %}
+
+
+
+
       {% if object.image_path and object.image_path !='' %}
         <img class="image-small" src="{{ object.image_path }}"  class="left mr2" alt="{{ event_title }} image" style="width:14em;"/>
+      {% endif %}
+
+      {% if object.program %}
+        {% assign program = site.programs | where_exp: 'item', 'item.slug contains object.program' | first %}
+        {% if program.image_path %}
+          <img class="image-small" src="{{ program.image_path }}"  class="col-12" alt="{{ event_title }} image"/>
+        {% endif %}
       {% endif %}
 
       {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
@@ -50,48 +90,24 @@
     {% endif %}
     </div>
     <!-- //image -->
-    <!-- copy -->
-      <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-8{% else %} lg-col-9{% endif %} h4">
-        {% if object.title  %}
-          <h3 class="event_title my0">
-            <a href="{{ object.url }}" class="h3 lg-h2 black hover-gray">
-              {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
-            </a>
-          </h3>
-        {% endif %}
 
-        {% if object.book_category or object.program %}
-          <h5>
-            {% if object.book_category %}
-              {{object.book_category}}
-            {% comment %}
-            elsif object.program
-              capture related_program/programs/{{ object.program }}/endcapture
-              assign program = site.programs | where: 'url', related_program
-              assign program_title = program[0].title
-              {{ program_title }}
-             {% endcomment %}
-            {% endif %}
-          </h5>
-        {% endif %}
-
-        {{ object.content | markdownify }}
-      </div>
-    <!-- //copy -->
   </div>
 
 
   <!-- footer -->
   <div class="card-footer col-12 mt3 clearfix relative">
-    <div class="absolute bottom-0 right-0 mb2 mr2">
+    <div class="absolutetk center bottom-0 left-0 mb2 mr2">
        {% include events/add-to-calendar.html %}
     </div>
-    <div class="addthis_sharing_toolbox addthis_default_styleTK lg-absolute lg-bottom-0 lg-left-0 mb2 ml2"
-    data-url="{{ site.url }}/{{ object.url }}"
-    data-title="{% if object.title %}{{ object.title | remove: '*' }}{% endif %}"
-    data-media="{{ image_path }}"
-    >
-    </div>
+    {% comment %}<!--
+      <div class="addthis_sharing_toolbox addthis_default_styleTK lg-absolute lg-bottom-0 lg-left-0 mb2 ml2"
+      data-url="{{ site.url }}/{{ object.url }}"
+      data-title="{% if object.title %}{{ object.title | remove: '*' }}{% endif %}"
+      data-media="{{ image_path }}"
+      >
+      </div>
+ -->{% endcomment %}
+
   </div>
   <!-- //footer -->
 

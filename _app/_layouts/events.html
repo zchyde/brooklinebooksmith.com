@@ -26,8 +26,8 @@ layout: default
   <div class="line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-9 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
        {% for object in events_upcoming  %}
         {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-       <!-- include events/output-format-cards.html classes=box_classes start_at=start_at %} -->
-      {%  include components/card-image-side.html classes=box_classes start_at=start_at %}
+       {% include events/output-format-cards.html classes=box_classes start_at=start_at %}
+
       {% endfor %}
   </div>
 

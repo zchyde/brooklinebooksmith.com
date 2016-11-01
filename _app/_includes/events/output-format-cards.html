@@ -51,7 +51,12 @@
       {% if object.image_path and object.image_path !='' %}
         <img class="image-small" src="{{ object.image_path }}"  class="left mr2" alt="{{ event_title }} image" style="width:14em;"/>
       {% endif %}
-
+      {% if object.program %}
+        {% assign program = site.programs | where_exp: 'item', 'item.slug contains object.program' | first %}
+        {% if program.image_path %}
+          <img class="image-small" src="{{ program.image_path }}"  class="left mr2" alt="{{ event_title }} image" style="width:14em;"/>
+        {% endif %}
+      {% endif %}
       {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
 
         {% for isbn in related_books_isbn %}
