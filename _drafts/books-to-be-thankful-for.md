@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-10-01 09:00:00
 description: This month revisit old favorites and new classics to be thankful for
-featured_image_path:
+featured_image_path: /uploads/g-9.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -16,47 +16,55 @@ books:
 
 This November we will arrive at the end of the most contentious presidential election since [1800.](http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel) In the spirit of democracy I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
 
-&nbsp;
+![](/uploads/versions/g-10---x----1395-2093x---.jpg)---
 
-A Wrinkle in Time by Madeline L'engle
+![](/uploads/versions/g-1---x----1264-1645x---.jpg)---
 
-Cutting for Stone by Abraham Vergese
+![](/uploads/versions/g-2---x----1164-1149x---.jpg)----
 
-Harry Potter series by J.K. Rowling (6)
+![](/uploads/versions/g-5---x----1360-1546x---.jpg)---
 
-Kafka on the Shore by Haruki Murakami
+![](/uploads/versions/g-11---x----2184-1456x---.jpg)---
 
-Ella Enchanted by Gail Carson Levine (2)
+![](/uploads/versions/g-12---x----2023-1349x---.jpg)
 
-Wuthering Heights by Emily Bronte (2)
+[A Wrinkle in Time by Madeline L'engle](http://www.brooklinebooksmith-shop.com/book/9780312367541)
 
-Little Women by Louisa May Alcott
+[Cutting for Stone by Abraham Vergese](http://www.brooklinebooksmith-shop.com/book/9780375714368)
 
-A Thousand Splendid Suns by Khaled Hosseini
+[Harry Potter series by J.K. Rowling](http://www.brooklinebooksmith-shop.com/book/9780590353427)
 
-Great Gatsby by F. Scott Fitzgerald (3)
+[Kafka on the Shore by Haruki Murakami](http://www.brooklinebooksmith-shop.com/book/9781400079278)
 
-The Outsiders by S. E. Hinton
+[Ella Enchanted by Gail Carson Levine](http://www.brooklinebooksmith-shop.com/book/9780064407052)
 
-Don Quixote by Miguel de Cervantes
+[Wuthering Heights by Emily Bronte](http://www.brooklinebooksmith-shop.com/book/9780375756443)
 
-The Immortal Life of Henrietta Lacks
+[Little Women by Louisa May Alcott](http://www.brooklinebooksmith-shop.com/book/9780147514011)
 
-Brief and Wondrous Life of Oscar Wao by Junot Diaz
+[A Thousand Splendid Suns by Khaled Hosseini](http://www.brooklinebooksmith-shop.com/book/9781594483851)
 
-Blood Meridian by Cormac McCarthy
+[The Great Gatsby by F. Scott Fitzgerald](http://www.brooklinebooksmith-shop.com/book/9780743273565)
 
-To The Lighthouse by Virginia Woolf
+[The Outsiders by S. E. Hinton](http://www.brooklinebooksmith-shop.com/book/9780140385724)
 
-A Wrinkle in Time by Madeline L'engle
+[Don Quixote by Miguel de Cervantes](http://www.brooklinebooksmith-shop.com/book/9780060934347)
 
-Cutting for Stone by Abraham Vergese
+[The Immortal Life of Henrietta Lacks by Rebecca Skloot](http://www.brooklinebooksmith-shop.com/book/9781400052189)
 
-The Little Prince by Antoine de Saint-Exup&eacute;ry
+[Brief and Wondrous Life of Oscar Wao by Junot Diaz](http://www.brooklinebooksmith-shop.com/book/9781594483295)
 
-The Phantom Tollbooth by Norton Juster
+[Blood Meridian by Cormac McCarthy](http://www.brooklinebooksmith-shop.com/book/9780679728757)
 
-Number 9 Dream by David Mitchell
+[To The Lighthouse by Virginia Woolf](http://www.brooklinebooksmith-shop.com/book/9780156907392)
+
+[The Little Prince by Antoine de Saint-Exup&eacute;ry](http://www.brooklinebooksmith-shop.com/book/9780156012195)
+
+[The Phantom Tollbooth by Norton Juster](http://www.brooklinebooksmith-shop.com/book/9780394820378)
+
+[The Very Hungry Caterpillar by Eric Carle](http://www.brooklinebooksmith-shop.com/book/9780399226908)
+
+[Number 9 Dream by David Mitchell](http://www.brooklinebooksmith-shop.com/book/9780812966923)
 
 &nbsp;
 
@@ -70,7 +78,7 @@ Bluets by Maggie Nelson
 
 Brown Bear Brown Bear by eric carle
 
-Book Thief by Mark Zusak (3)
+Book Thief by Mark Zusak
 
 Let Us Now Praise Famous Men by James Agee
 
@@ -82,7 +90,7 @@ Snow Falling On Cedars by David Guterson
 
 Anne of Green Gables by Lucy Maud Montgomery
 
-Mrs. Dalloway by Virginia Woolf (3)
+Mrs. Dalloway by Virginia Wool
 
 Howard's End by E.M. Forster
 
