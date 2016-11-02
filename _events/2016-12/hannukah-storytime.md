@@ -12,5 +12,5 @@ book_isbn:
 ---
 
 
-Do you love picture books? Join us in our children’s section for drop-in storytime every first Saturday and third Sunday of the month. Special Hannukah Theme at this storytime!
+Do you love picture books? Join us in our children’s section for drop-in storytime. Special Hannukah Theme at this storytime!
 <br>&nbsp;
