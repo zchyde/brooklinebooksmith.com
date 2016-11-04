@@ -1,4 +1,6 @@
 ---
 title: Between the Lines Book Club
-image_path: '/uploads/site/icon-between-the-lines-book-club.png'
+image_path: /uploads/site/between-compressor.jpg
 ---
+
+
