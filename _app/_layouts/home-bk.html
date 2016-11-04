@@ -4,12 +4,28 @@ layout: default
 {% assign campaign = site.campaigns | where: 'show', true %}
 {% assign featured_posts = site.posts | where: 'featured', true %}
 {% assign posts = site.posts %}
+{% comment %}{% assign posts_limit = site.paginate %}{% endcomment %}
 {% assign posts_limit = 5 %}
-{% assign page_events = site.events  %}
-{% include events/filter-events_upcoming.html %}
+ <!-- assign todays_date = site.time | date: "%Y%m%d"  %} -->
+ <!-- assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %} -->
+ <!-- assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %} -->
+
+{% assign events = "" | split: "|" %}
+{% assign current_date = site.time | date: "%Y%m%d%H%M"  %}
+{% for item in site.events %}
+  {% assign postdate = item.start_at | date: "%Y%m%d%H%M"  %}
+  {% if postdate > current_date %}
+    {% assign events = events | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign events_upcoming = events | sort: 'start_at', 'last'  %}
+
+
 
 {% include hero.html %}
 <div class="px3 col-12 my4 clearfix">
+
   <div class="col lg-col-9">
 
     {% if campaign.size > 0 %}
@@ -20,54 +36,50 @@ layout: default
           {% include _campaigns-image.html %}
         </div>
         <div class="md-col lg-col col-12 md-col-5 lg-col-5 md-px2 lg-px2">
-          {% for object in events_upcoming limit:1 %}
+          {% for object in posts limit:1 %}
           <a href="{{ object.url }}" class="col col-12 md-pl2 lg-pl2 mb2 text-decoration-none relative black">
-            {% include events/output-format-small-cards.html classes=box_classes start_at=start_at %}
+            {% include components/card-image-top-bg.html classes=box_classes %}
           </a>
           {% endfor %}
         </div>
       </div>
       {% else %}
-      {% assign second_row_limit = '8' %}
+      {% assign second_row_limit = '6' %}
     {% endif %}
 
+    <div class="col-12 clearfix">
+      <h1 class="mt0">
+        Latest from the Blog
+      </h1>
+    </div>
 
-
-    <div class="col-12 flex flex-wrap md-pr2">
-      {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
-        {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-        {%  include events/output-format-small-cards.html classes=box_classes start_at=start_at %}
+    <div class="col-12 flex flex-wrap">
+      {% for object in posts limit:second_row_limit offset:second_row_offset %}
+        <a href="{{ object.url }}" class="sm-col md-col lg-col col-12 sm-col-12 md-col-4 lg-col-4 pr2 mb2 text-decoration-none relative black">
+          {% include components/card-image-top-bg.html classes=box_classes %}
+        </a>
       {% endfor %}
     </div>
 
     <div class="col-12 clearfix right-align px2 mb3 md-mb0 lg-mb0">
-      <a href="/events/#event-{{second_row_limit}}" class=" block btn btn-primary bg-primary-color">
-        more events
+      <a href="/blog/" class=" block btn btn-primary">
+        more from the blog
       </a>
     </div>
   </div>
 
-
-
-
-
-
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
-    <h1 class="p2 m0 white">Latest Blog Posts</h1>
-    {% for object in posts  limit:10 %}
-      <a href="{{ object.url }}" class="block col-12 px2 py2  hover-bg-dark-primary-color">
-        <h3 class="h3 near-white hover-light-primary-color m0">
+    <h1 class="p2 m0 white">Upcoming Events</h1>
+    {% for object in events_upcoming  limit:8 %}
+      {% assign start_at =  object.start_at | date: "%A %b %-d" | replace: ' 0', '' %}
+      {% assign start_time =  object.start_at | date: "-  %I:%M %p" | replace: ' 0', '' | downcase %}
+      <a href="{{ object.url }}" class="block col-12 px2 pt2 pb3 hover-bg-primary-color hover-light-primary-color">
+        <time class="h5 primary-text-colorTK white m0">
+          {{ start_at }} {{ start_time }}
+        </time>
+        <h3 class="h3 near-white m0">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
         </h3>
-        <span class="h5 gray">
-          {% if date %}
-          Posted {% include components/date.html date=date %}
-          {% endif %}
-          {% if object.staff %}
-            {% assign theauthor = site.staff | where: 'slug', object.staff[0] %}
-            by {{ theauthor[0].title }}
-          {% endif %}
-        </span>
       </a>
     {% endfor %}
   </div>
