@@ -22,7 +22,7 @@ layout: default
         <div class="md-col lg-col col-12 md-col-5 lg-col-5 md-px2 lg-px2">
           {% for object in events_upcoming limit:1 %}
           <a href="{{ object.url }}" class="col col-12 md-pl2 lg-pl2 mb2 text-decoration-none relative black">
-            {% include components/card-image-side.html classes=box_classes start_at=start_at %}
+            {% include events/output-format-small-cards.html classes=box_classes start_at=start_at %}
           </a>
           {% endfor %}
         </div>
@@ -36,7 +36,7 @@ layout: default
     <div class="col-12 flex flex-wrap md-pr2">
       {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
         {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
-        {%  include components/card-image-side.html classes=box_classes start_at=start_at %}
+        {%  include events/output-format-small-cards.html classes=box_classes start_at=start_at %}
       {% endfor %}
     </div>
 
