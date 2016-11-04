@@ -14,4 +14,4 @@ book_isbn:
 
 Join our kids’ book club on the second Tuesday of every month from 4:30-5:30pm to discuss a great book! No sign-up needed. **Ask a kids’ bookseller about this month’s pick or email alex@brooklinebooksmith.com for more information.**
 
-**This month we are reading&nbsp;*Brightwood*by Tania Unsworth.**
+**This month we are reading&nbsp;*Brightwood&nbsp;*by Tania Unsworth.**

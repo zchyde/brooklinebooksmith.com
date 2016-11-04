@@ -1,10 +1,10 @@
 ---
-title: Books to be thankful for
+title: Thankful for books
 published: false
 featured: false
 date: 2016-10-01 09:00:00
 description: This month revisit old favorites and new classics to be thankful for
-featured_image_path:
+featured_image_path: /uploads/g-9.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -14,51 +14,87 @@ books:
 ---
 
 
-This November we will arrive at the end of the most contentious presidential election since [1800.](http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel) In the spirit of democracy I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
+It is no surprise that we are book lovers here at the 'smith. &nbsp; Books can transport us, can inspire us, and can change us.&nbsp; Those are the books that we don't just *like* but **LOVE.&nbsp;**They are books we are truly grateful for.&nbsp; With thanksgiving around the bend (and in the spirit of democracy) I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
 
-These titles got the popular vote:
+These are some of our favorites:
 
-Harry Potter series by J.K. Rowling (6)
+![](/uploads/versions/g-10---x----1395-2093x---.jpg)—
 
-Kafka on the Shore by Haruki Murakami
+Responses ranged from kid's books to adult non fiction
 
-Book Thief by Mark Zusak (3)
+![](/uploads/versions/g-1---x----1264-1645x---.jpg)—
 
-Ella Enchanted by Gail Carson Levine (2)
+![](/uploads/versions/g-2---x----1164-1149x---.jpg)—-
 
-Fire in the Heart by Deepak Chopra
+![](/uploads/versions/g-5---x----1360-1546x---.jpg)—
 
-Wuthering Heights by Emily Bronte (2)
+![](/uploads/versions/g-11---x----2184-1456x---.jpg)—
+
+![](/uploads/versions/g-12---x----2023-1349x---.jpg)
+
+[A Wrinkle in Time by Madeline L'engle](http://www.brooklinebooksmith-shop.com/book/9780312367541)
+
+[Cutting for Stone by Abraham Vergese](http://www.brooklinebooksmith-shop.com/book/9780375714368)
+
+[Harry Potter series by J.K. Rowling](http://www.brooklinebooksmith-shop.com/book/9780590353427)
+
+[Kafka on the Shore by Haruki Murakami](http://www.brooklinebooksmith-shop.com/book/9781400079278)
+
+[Ella Enchanted by Gail Carson Levine](http://www.brooklinebooksmith-shop.com/book/9780064407052)
+
+[Wuthering Heights by Emily Bronte](http://www.brooklinebooksmith-shop.com/book/9780375756443)
+
+[Little Women by Louisa May Alcott](http://www.brooklinebooksmith-shop.com/book/9780147514011)
+
+[A Thousand Splendid Suns by Khaled Hosseini](http://www.brooklinebooksmith-shop.com/book/9781594483851)
+
+[The Great Gatsby by F. Scott Fitzgerald](http://www.brooklinebooksmith-shop.com/book/9780743273565)
+
+[The Outsiders by S. E. Hinton](http://www.brooklinebooksmith-shop.com/book/9780140385724)
+
+[Don Quixote by Miguel de Cervantes](http://www.brooklinebooksmith-shop.com/book/9780060934347)
+
+[The Immortal Life of Henrietta Lacks by Rebecca Skloot](http://www.brooklinebooksmith-shop.com/book/9781400052189)
+
+[Brief and Wondrous Life of Oscar Wao by Junot Diaz](http://www.brooklinebooksmith-shop.com/book/9781594483295)
+
+[Blood Meridian by Cormac McCarthy](http://www.brooklinebooksmith-shop.com/book/9780679728757)
+
+[To The Lighthouse by Virginia Woolf](http://www.brooklinebooksmith-shop.com/book/9780156907392)
+
+[The Little Prince by Antoine de Saint-Exup&eacute;ry](http://www.brooklinebooksmith-shop.com/book/9780156012195)
+
+[The Phantom Tollbooth by Norton Juster](http://www.brooklinebooksmith-shop.com/book/9780394820378)
+
+[The Very Hungry Caterpillar by Eric Carle](http://www.brooklinebooksmith-shop.com/book/9780399226908)
+
+[Number 9 Dream by David Mitchell](http://www.brooklinebooksmith-shop.com/book/9780812966923)
+
+&nbsp;
+
+&nbsp;
+
+Tris's Book by Tamora Pierce
+
+The Shallows by Nicholas G. Carr
+
+Bluets by Maggie Nelson
+
+Brown Bear Brown Bear by eric carle
+
+Book Thief by Mark Zusak
 
 Let Us Now Praise Famous Men by James Agee
 
 Franny & Zoey by F. Scott Fitzgerald
 
-Little Women by Louisa May Alcott
-
-A Thousand Splendid Suns by Khaled Hosseini
-
-Great Gatsby by F. Scott Fitzgerald (3)
-
 The Glass Castle by Jeanette Walls
 
 Snow Falling On Cedars by David Guterson
 
-The Outsiders by S. E. Hinton
-
 Anne of Green Gables by Lucy Maud Montgomery
 
-The Immortal Life of Henrietta Lacks
-
-Brief and Wondrous Life of Oscar Wao by Junot Diaz
-
-Blood Meridian by Cormac McCarthy
-
-To The Lighthouse by Virginia Woolf
-
-The Jessica Darling series by Megan McCafferty
-
-Mrs. Dalloway by Virginia Woolf (3)
+Mrs. Dalloway by Virginia Wool
 
 Howard's End by E.M. Forster
 
@@ -66,44 +102,6 @@ Jane Eyre by Charlotte Bronte
 
 A Confederacy of Dunces by John Kennedy Toole
 
-Don Quixote by Miguel de Cervantes
-
 James and the Giant Peach by Roald Dahl
-
-The Little Prince by Antoine de Saint-Exup&eacute;ry
-
-The Voyage of the Basset by John Christensen
-
-The Phantom Tollbooth by Norton Juster
-
-Girls Mans Up by M-E Girard
-
-Number 9 Dream by David Mitchell
-
-The Joy of Cooking by Irma S. Rombauer
-
-Tris's Book by Tamora Pierce
-
-The Shallows by Nicholas G. Carr
-
-A Wrinkle in Time by Madeline L'engle
-
-The Bhagavad Gita
-
-Cutting for Stone by Abraham Vergese
-
-Knocking on Heaven's Door by Katy Butler
-
-Encyclopedia Brown by Donald J. Sobol
-
-Cheaper by the Dozen by Ernestine Gilbreth Carey and Frank Bunker Gilbreth Jr.
-
-Bluets by Maggie Nelson
-
-The Jitters by Anne Cecilia Holmes
-
-Brown Bear Bron Bear by eric carle
-
-Archie and Mehitabel by
 
 thankfully from now on we can focus on what we can all agree on – good books.
