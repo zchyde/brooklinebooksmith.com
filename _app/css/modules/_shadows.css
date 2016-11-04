@@ -1,5 +1,5 @@
 .box-shadow-small-black {box-shadow: .25em .25em .25em rgba(20,20,20,.4)}
-.box-shadow-small-black:hover {box-shadow: 0 30px 5px 0 rgba(0,0,0,0.1)}
+/*.box-shadow-small-black:hover {box-shadow: 0 30px 5px 0 rgba(0,0,0,0.1)}*/
 .hover-box-shadow-small-black:hover {box-shadow: 0 30px 5px 0 rgba(0,0,0,0.1)}
 /*
 .box-shadow-large-black {box-shadow: .5em 1.2em 3em rgba(20,20,20,.6)}
