@@ -28,7 +28,7 @@
       {% endif %}
 
       {% if object.program %}
-        {% assign program = site.programs | where_exp: 'item', 'item.slug contains object.program' | first %}
+        {% assign program = site.programs | where_exp: 'item', 'item.slug == object.program' | first %}
         {% if program.image_path %}
           <img class="image-small" src="{{ program.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image"/>
         {% endif %}
