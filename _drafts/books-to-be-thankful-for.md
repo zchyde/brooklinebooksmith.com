@@ -28,14 +28,14 @@ One series of books got the highest number of votes:
 
 ---
 
-It comes as no surprise that **Harry Potter is the book for which folks are most thankful**.&nbsp; For some, the series started a fire.&nbsp; For others, the series provided a safe space during tumultuous times.&nbsp;
+It comes as no surprise that Harry Potter is the book for which folks are most thankful.&nbsp; For some, the series started a fire.&nbsp; For others, the series provided a safe space during tumultuous times.&nbsp;
 
 ---
 
 ![](/uploads/versions/g-11---x----2184-1456x---.jpg)
 <br>---
 <br>
-<br>The Harry Potter series is a unique experience for all.&nbsp; For myself it was a journey over time -- I grew as Harry grew.&nbsp; And as things got darker in the world around me things got dark at Hogwarts, too.&nbsp; All along, however,&nbsp; I knew that if they could make it I could, too.&nbsp; Rowling's epic series changed the world of literature and we are all grateful.
+<br>Harry Potter is a unique experience for all.&nbsp; For myself it was a journey over time -- I grew as Harry grew.&nbsp; And as things got darker in the world around me things got dark at Hogwarts, too.&nbsp; All along, however,&nbsp; I knew that if they could make it I could, too.&nbsp; Rowling's epic series changed the world of literature and we are all grateful.
 
 [Harry Potter series by J.K. Rowl](http://www.brooklinebooksmith-shop.com/book/9780590353427)[ing](http://www.brooklinebooksmith-shop.com/book/9780590353427)
 
@@ -43,7 +43,9 @@ It comes as no surprise that **Harry Potter is the book for which folks are most
 
 ![](/uploads/versions/g-5---x----1360-1546x---.jpg)—
 
-Many of the books people expressed gratitude for were ones from their childhood.&nbsp; It makes sense -- a kid's perspective of the world can change in an instant and be changed forever.&nbsp; These books expressed to us a new way of seeing the world.&nbsp; Levine's Ella Enchanted taught a young woman about saving herself. Eric Carle's The Very Hungry Caterpillar inspired one bookseller to become an illustrator.&nbsp; The Outsiders showed me the dark truth about being 'cool'.&nbsp; *A Wrinkle in Time* proved to one young man that he was never too young or too old to fight.
+Many of the books people expressed gratitude for were ones from their childhood.&nbsp; It makes sense -- a kid's perspective of the world can change in an instant and be changed forever.&nbsp;
+
+These books expressed to us a new way of seeing the world.&nbsp; Levine's *Ella Enchanted* taught a young woman about saving herself. Eric Carle's *The Very Hungry Caterpillar* inspired one bookseller to become an illustrator.&nbsp; *The Outsiders* showed me the dark truth about being 'cool'.&nbsp; *A Wrinkle in Time* proved to one young man that he was never too young or too old to fight.
 
 [A Wrinkle in Time by Madeline L'engle](http://www.brooklinebooksmith-shop.com/book/9780312367541)
 
@@ -63,7 +65,7 @@ Many of the books people expressed gratitude for were ones from their childhood.
 
 ![](/uploads/versions/g-1---x----1264-1645x---.jpg)—
 
-Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; All kinds of themes inspire us as we get older&nbsp; Chivalry, imagination, circumstance, and morality
+Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; All kinds of themes inspire us as we get older.&nbsp; Here chivalry, imagination, circumstance, and morality take center stage.
 
 [Number 9 Dream by David Mitchell](http://www.brooklinebooksmith-shop.com/book/9780812966923)
 
@@ -91,9 +93,9 @@ Surrealism, tragedy, obsession, perception, empathy, identity
 
 &nbsp;
 
-&nbsp;
+There are many, *many*more books we are thankful for but not all are photographed.&nbsp; Altogether, though, these titles make on heck of a reading list -- my TBR pile just increased 10-fold. &nbsp; Come on in and pick up any one of these incredible titles -- you never know -- it might change your life.
 
-There are many, many more books we are thankful for but not all are photographed.&nbsp; Altogether, though, these titles make on heck of a reading list -- my TBR pile just increased 10-fold. &nbsp; Come on in and pick up any one of these incredible titles -- you never know -- it might change your life
+Additonal titles:
 
 *Tris's Book* by Tamora Pierce
 
