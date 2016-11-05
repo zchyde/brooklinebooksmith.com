@@ -81,7 +81,7 @@ Lots of people chose old and new classic fiction as their grateful-for-books.&nb
 
 Surrealism, tragedy, obsession, perception, empathy, identity
 
-[Cutting for Stone by Abraham Vergese](http://www.brooklinebooksmith-shop.com/book/9780375714368)
+[Cutting for Stone by Abraham Verghese](http://www.brooklinebooksmith-shop.com/book/9780375714368)
 
 [To The Lighthouse by Virginia Woolf](http://www.brooklinebooksmith-shop.com/book/9780156907392)
 
