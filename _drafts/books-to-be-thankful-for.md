@@ -63,7 +63,7 @@ Many of the books people expressed gratitude for were ones from their childhood.
 
 ![](/uploads/versions/g-1---x----1264-1645x---.jpg)—
 
-Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; Chivalry, imagination, circumstance, and morality
+Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; All kinds of themes inspire us as we get older&nbsp; Chivalry, imagination, circumstance, and morality
 
 [Number 9 Dream by David Mitchell](http://www.brooklinebooksmith-shop.com/book/9780812966923)
 
