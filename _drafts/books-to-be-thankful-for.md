@@ -14,7 +14,9 @@ books:
 ---
 
 
-It is no surprise that we are book lovers here at the 'smith. &nbsp; Books can transport us, can inspire us, and can change us.&nbsp; These are books that we don't just *like* but **LOVE.&nbsp;**They are books we are truly grateful for.&nbsp; With Thanksgiving around the bend (and in the spirit of democracy) I polled booksellers and book lovers from all over the country and asked, "What book(s) are you most thankful for?"
+It is no surprise that we are book lovers here at the 'smith. &nbsp; Books can transport us, can inspire us, and can change us.&nbsp; These are books that we don't just *like* but **LOVE.&nbsp;**They are books we are truly grateful for.&nbsp; With Thanksgiving around the bend (and in the spirit of democracy) I polled booksellers and book lovers from all over the country and asked,
+
+"What book(s) are you most thankful for?"
 
 —![](/uploads/versions/g-10---x----1395-2093x---.jpg)
 
@@ -53,7 +55,7 @@ These books expressed to us a new way of seeing the world.&nbsp; Levine's *Ella 
 
 ![](/uploads/versions/g-1---x----1264-1645x---.jpg)—
 
-Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; All kinds of themes inspire us as we get older.&nbsp; Here chivalry, imagination, circumstance, and morality take center stage.
+Lots of people chose old and new classic fiction as their grateful-for-books.&nbsp; All kinds of themes inspire us as we get older.&nbsp; Here chivalry, imagination, circumstance, and morality take center stage.&nbsp;
 
 [(Number 9 Dream by David Mitchell](http://www.brooklinebooksmith-shop.com/book/9780812966923)[, The Great Gatsby by F. Scott Fitzgerald](http://www.brooklinebooksmith-shop.com/book/9780743273565)[, Don Quixote by Miguel de Cervantes](http://www.brooklinebooksmith-shop.com/book/9780060934347)[, Blood Meridian by Cormac McCarthy)](http://www.brooklinebooksmith-shop.com/book/9780679728757)
 
@@ -61,40 +63,28 @@ Lots of people chose old and new classic fiction as their grateful-for-books.&nb
 
 ![](/uploads/versions/g-2---x----1164-1149x---.jpg)—-
 
-Some books are so captivating that we can't shake them no matter how hard we try.&nbsp; Murakami's *Kafka on the Shore* introduced me to the subtlety and power of magical realism.&nbsp; Others here try to make sense of tragedy, obsession, perception, empathy, and identity.&nbsp; Heavy topics and beautiful prose make these highlighted titles.
+Some books are so captivating that we can't shake them no matter how hard we try.&nbsp; Murakami's *Kafka on the Shore* introduced me to the subtlety and power of magical realism.&nbsp; Others here try to make sense of tragedy, obsession, perception, empathy, and identity.&nbsp; Heavy topics and beautiful prose make us grateful for these books.
 
 [(Cutting for Stone by Abraham Verghese](http://www.brooklinebooksmith-shop.com/book/9780375714368)[,<u> </u>To The Lighthouse by Virginia Woolf](http://www.brooklinebooksmith-shop.com/book/9780156907392)[, A Thousand Splendid Suns by Khaled Hosseini](http://www.brooklinebooksmith-shop.com/book/9781594483851)[, Wuthering Heights by Emily Bronte](http://www.brooklinebooksmith-shop.com/book/9780375756443)[, The Brief and Wondrous Life of Oscar Wao by Junot Diaz)](http://www.brooklinebooksmith-shop.com/book/9781594483295)
 
-There are many, *many* more books we are thankful for but not all are photographed.&nbsp; Altogether, though, these titles make on heck of a reading list – my TBR pile just increased exponentially. &nbsp; Come on in and pick up any one of these incredible titles.&nbsp; You never know – it could change your life.
+There are many, *many* more books we are thankful for but not all are photographed.&nbsp; Altogether, though, these titles make one heck of a reading list – my TBR pile just increased exponentially.&nbsp;
 
-Additonal titles we are grateful for:
+Here's a list of more titles we are grateful for:
 
-*Tris's Book* by Tamora Pierce
+* *Tris's Book* by Tamora Pierce
+* *The Shallows* by Nicholas G. Carr
+* *Bluets* by Maggie Nelson
+* *Book Thief* by Mark Zusak
+* *Let Us Now Praise Famous Men* by James Agee
+* *Franny & Zoey* by F. Scott Fitzgerald
+* *The Glass Castle* by Jeanette Walls
+* *Snow Falling On Cedars* by David Guterson
+* *Anne of Green Gables* by Lucy Maud Montgomery
+* *Mrs. Dalloway* by Virginia Woolf
+* *Howard's End* by E.M. Forster
+* *Jane Eyre* by Charlotte Bronte
+* *A Confederacy of Dunces* by John Kennedy Toole
+* *James and the Giant Peach* by Roald Dahl
+* *Fire in the Heart* by Deepak Chopra
 
-*The Shallows* by Nicholas G. Carr
-
-*Bluets* by Maggie Nelson
-
-*Book Thief* by Mark Zusak
-
-*Let Us Now Praise Famous Men* by James Agee
-
-*Franny & Zoey* by F. Scott Fitzgerald
-
-*The Glass Castle* by Jeanette Walls
-
-*Snow Falling On Cedars* by David Guterson
-
-*Anne of Green Gables* by Lucy Maud Montgomery
-
-*Mrs. Dalloway* by Virginia Woolf
-
-*Howard's End* by E.M. Forster
-
-*Jane Eyre* by Charlotte Bronte
-
-*A Confederacy of Dunces* by John Kennedy Toole
-
-*James and the Giant Peach* by Roald Dahl
-
-*Fire in the Heart* by Deepak Chopra
+Come on in and pick up any one of these incredible titles.&nbsp; You never know – it could change your life.
