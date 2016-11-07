@@ -3,7 +3,7 @@ title: Consider This.....
 published: false
 featured: false
 date: 2016-11-08 11:00:00
-description: Consider this
+description: Consider this .... Animals to be Thankful for
 featured_image_path:
 featured_image_position: 50
 show_featured_image_in_post: false
