@@ -1,0 +1,31 @@
+{% if object.image_path and object.image_path !='' %}
+  <img class="image-small" src="{{ object.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image" />
+{% endif %}
+
+{% if object.program %}
+  {% assign program = site.programs | where_exp: 'item', 'item.slug == object.program' | first %}
+  {% if program.image_path %}
+    <img class="image-small" src="{{ program.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image"/>
+  {% endif %}
+{% endif %}
+
+{% if related_books_isbn !='' and related_books_isbn.size > 0 %}
+  {% for isbn in related_books_isbn %}
+    {% if isbn %}
+      {% assign related_books = site.books | where: 'isbn', isbn %}
+      {% for book in related_books %}
+        {% if book.image_path %}
+          {% assign image_path =  book.image_path %}
+          <a href="{{ object.url }}">
+            <img class="mb2 mt1 fit center inline-block transition{% if related_books_isbn.size > 1 %} col col-6 pr1{% else %} col-12 box-shadow-small-black{% endif %}" src="{{ image_path }}" alt="{{ book.title }} image_path{{ the_isbn }}"  />
+          </a>
+        {% elsif book.isbn %}
+        {% capture image_path %}{{ site.images_domain }}/{{ book.isbn }}.jpg{% endcapture %}
+          <a href="{{ object.url }}">
+            <img class="mb2 fit center inline-block transition{% if related_books_isbn.size > 1 %} col col-6 pr1{% else %} col-12 box-shadow-small-black{% endif %}" src="{{ site.images_domain }}/{{ book.isbn }}.jpg" alt="{{ object.title }} {{ the_isbn }} image_cdn"  />
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
