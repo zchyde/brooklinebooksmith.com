@@ -21,6 +21,8 @@ Consider asking yourself which animals you love most.&nbsp; Which creatures have
 
 ---
 
+---
+
 ​![](/uploads/versions/9781476795997---x----265-400x---.jpg)Most of us love dogs, and would love to know exactly what they think!&nbsp; Lucky for us, we've got [Alexandra Horowitz](http://www.brooklinebooksmith-shop.com/search/author/%22Horowitz%2C%20Alexandra%22).&nbsp; Horowitz became instantly popular with the release of [<u>Inside of a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781416583431).&nbsp; Her newest puppy-prose is [<u>Being a Dog</u>](http://www.brooklinebooksmith-shop.com/book/9781476795997) which explores the scent-skills of man's (well, people's) best friend.&nbsp; Celebrate our dogs with&nbsp;[Mary Oliver](http://www.brooklinebooksmith-shop.com/search/site/Mary%20Oliver)'s collection of poetry entitled [<u>Dog Songs</u>](http://www.brooklinebooksmith-shop.com/book/9780143125839).
 
 ---
