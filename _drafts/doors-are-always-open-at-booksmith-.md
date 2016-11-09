@@ -14,13 +14,12 @@ books:
 ---
 
 
-**
-<br>dedicated to the fine art of browsing**&nbsp;
+<br>**dedicated to the fine art of browsing**
 <br>
 <br>That's been Booksmith's driving philosophy since 1961.&nbsp;
 <br>In easy times the phrase "..the fine art of browsing" might evoke a sense of solitary pleasure, of leisure and of quiet exploration. But in uncertain times it says something else.
 <br>A "fine art" isn't anyone's birthright, and it isn't some impulse to be indulged on a lazy afternoon. Fine art is the result of focused effort over time. And "browsing" - when done right, when done artfully - is not a leisurely pursuit. Browsing in a bookstore amounts to lending your ear to a multitude of voices, and holding in your hands the fruit of another person's experience. Examining, considering, and then making your choice.&nbsp;
-<br>As always, and even more so now, Brookline Booksmith is&nbsp;*dedicated*&nbsp;to the fine art of browsing. So bring your friends, bring your family, and invite your enemies, too. Among people, among their stories, is the place to be.
+<br>As always, and even more so now, Brookline Booksmith is*&nbsp;**dedicated&nbsp;*to the fine art of browsing. So bring your friends, bring your family, and invite your enemies, too. Among people, among their stories, is the place to be.
 
 And should you despair, please remember what&nbsp;[Kevin Garnett](https://www.youtube.com/watch?v=Wcz_kDCBTBk)&nbsp;once told us.
 <br>
