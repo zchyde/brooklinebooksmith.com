@@ -1,6 +1,7 @@
 ---
 title: Breakwater Reading Series
-image_path: /uploads/site/Breakwater-compressor.jpg
+image_path: /uploads/programs-breakwater-reading-series-sm.jpg
+featured_image_path: /uploads/programs-breakwater-reading-series-lg.jpg
 ---
 
 

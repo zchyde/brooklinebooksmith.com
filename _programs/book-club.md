@@ -1,6 +1,7 @@
 ---
 title: Book Club
-image_path: /uploads/site/bookclub-compressor.jpg
+image_path: /uploads/programs-book-club-sm.jpg
+featured_image_path: /uploads/programs-book-club-lg.jpg
 ---
 
 

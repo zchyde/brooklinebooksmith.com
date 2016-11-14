@@ -29,6 +29,5 @@ Paperback:
   - '9780735212169'
   - '9780812984965'
   - '9781891743153'
+hide_title_over_banner: true
 ---
-
-

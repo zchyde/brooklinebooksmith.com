@@ -1,6 +1,7 @@
 ---
 title: Childrens Story Time
-image_path: /uploads/site/kids-compressor.jpg
+image_path: /uploads/programs-childrens-story-time-sm.jpg
+featured_image_path: /uploads/programs-childrens-story-time-lg.jpg
 ---
 
 
