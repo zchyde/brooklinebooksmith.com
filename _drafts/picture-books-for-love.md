@@ -4,7 +4,7 @@ published: false
 featured: false
 date: 2016-11-17 09:00:00
 description: For when someone small (or large) needs a quick dose of the good in this world.
-featured_image_path:
+featured_image_path: /uploads/9781938298998.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
@@ -30,4 +30,6 @@ Without preamble, here are some books your family might like to read this month.
 
 *You Belong Here* by M.H. Clark, Isabelle Arsenault--This dusk-drenched lullaby, with lovely pictures by Arsenault, is a tight hug of a reminder that the listener is good and loved and deeply belongs.
 
-*The Lion Inside* by
+*The Lion Inside* by Rachel Bright, Jim Field--A rhyming fable about wishing you weren't so small--and finding that you have a voice.
+
+*Last Stop on Market Street* by Matt de la Pe
