@@ -13,6 +13,4 @@ book_isbn:
 ---
 
 
-A tornado of brutal Americana, ***Patricide*** is a heavy metal Huck Finn, a novel of introspection and youth in its corruption. Beyond the story of a boy growing up in a family derailed by a hapless father, Patricide is a search for meaning and identity within the strange secrecy of the family.
-
-Joy has no one. But when a sickness that begins with memory loss and ends with death sweeps the country, Joy, for the first time in her life, seems to have an advantage: she is immune. Laura van den Berg's novel, ***Find Me***, was selected as a “Best Book of 2015” by NPR, Time Out New York, and BuzzFeed, among others. Her next novel is forthcoming from FSG.
+#### *We are sorry to announce that this event has been canceled. Please call 617.566.6660 for more information.*
