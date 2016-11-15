@@ -16,7 +16,7 @@ books:
 ---
 
 
-Without preamble, here are some picture books books your family--those with babies and young children, or anyone else--might like to read this month.
+Without preamble, here are some picture books books your family--those with babies and young children, but also anyone else--might like to read this month.
 
 ***[Be Who You Are](http://www.brooklinebooksmith-shop.com/book/9780316265232)***by Todd Parr–Parr's books have always been simple, bold, bright messages of care and acceptance. His brand new book is no different–and if you are three, or the parent of a three-year-old, or simply a person feeling shaky, you're equally likely to take solace in its gentle reminders.
 
@@ -28,7 +28,7 @@ Without preamble, here are some picture books books your family--those with babi
 
 [*Miss Rumphius*](http://www.brooklinebooksmith-shop.com/book/9780140505399) by Barbara Cooney–A classic with good reason, *Miss Rumphius* has a lesson decked in flowers: your job on this Earth is to make the world more beautiful.
 
-[*You Belong Here*](http://www.brooklinebooksmith-shop.com/book/9781938298998) by M.H. Clark, Isabelle Arsenault–This dusk-drenched lullaby, with lovely pictures by Arsenault, is a tight hug of a reminder that the listener is good and loved and deeply belongs.
+[*You Belong Here*](http://www.brooklinebooksmith-shop.com/book/9781938298998) by M.H. Clark, Isabelle Arsenault–This dusk-drenched lullaby, with lovely pictures by Arsenault, is a tight hug of a reminder that the listener is good, and right, and wanted.
 
 [*The Lion Inside*](http://www.brooklinebooksmith-shop.com/book/9780545873505) by Rachel Bright, Jim Field–A rhyming fable about wishing you weren't so small–and finding that you have a voice.
 
