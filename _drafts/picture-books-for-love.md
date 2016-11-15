@@ -26,4 +26,8 @@ Without preamble, here are some books your family might like to read this month.
 
 *Big Bob, Little Bob* by James Howe--This is a lovely new book that tackles how kids react to gender norms--how to be okay with yourself, and okay with other people, and how to be a staunch defender when someone decides that different isn't okay.
 
-*Miss Rumphius* by Barbara Cooney
+*Miss Rumphius* by Barbara Cooney--A classic with good reason, *Miss Rumphius* has a lesson decked in flowers: your job on this Earth is to make the world more beautiful.
+
+*You Belong Here* by M.H. Clark, Isabelle Arsenault--This dusk-drenched lullaby, with lovely pictures by Arsenault, is a tight hug of a reminder that the listener is good and loved and deeply belongs.
+
+*The Lion Inside* by
