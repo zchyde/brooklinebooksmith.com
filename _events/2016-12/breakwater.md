@@ -1,7 +1,7 @@
 ---
 title: Breakwater
 published: true
-start_at: 2016-12-16 19:00:00
+start_at: 2016-12-09 19:00:00
 image_path:
 book_category:
 program: breakwater-reading-series
