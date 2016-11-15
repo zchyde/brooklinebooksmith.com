@@ -16,12 +16,12 @@ featured_paperback_books:
   - my-grandmother-asked-me-to-tell-you-shes-sorry
   - romeo-andor-juliet-a-chooseable-path-adventure
 Hardcover:
-  - '9780812994803'
-  - '9781501141515'
-  - '9781594206702'
   - '9780062300546'
+  - '9781620972250'
+  - '9780670785971'
+  - '9780399578861'
   - '9781771642484'
-  - '9781609452926'
+  - '9781594206702'
 Paperback:
   - '9781250083258'
   - '9780812989786'
@@ -31,3 +31,5 @@ Paperback:
   - '9781891743153'
 hide_title_over_banner: true
 ---
+
+
