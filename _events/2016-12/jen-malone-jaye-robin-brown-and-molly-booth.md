@@ -14,7 +14,7 @@ book_isbn:
 ---
 
 
-In ***Saving Hamlet***by Molly Booth, a rift in space-time puts teenager Emma Allen in charge of stage-managing her drama club’s production of Hamlet…but also Shakespeare’s debut in 1601! Booth’s debut is a revelry of time travel, theatre, and romance.
+In ***Saving Hamlet&nbsp;***by Molly Booth, a rift in space-time puts teenager Emma Allen in charge of stage-managing her drama club’s production of Hamlet…but also Shakespeare’s debut in 1601! Booth’s debut is a revelry of time travel, theatre, and romance.
 
 Jen Malone’s ***Wanderlost*** is the story of Aubree, a girl with boring plans for the summer until she assumes her sister’s identity and takes over her job leading a tour of seniors across Europe–and there’s budding romance, too, but how do you admit a crush under an alias?
 
