@@ -1,6 +1,6 @@
 ---
 title: 'Picture books for love, safety, beauty'
-published: false
+published: true
 featured: false
 date: 2016-11-17 09:00:00
 description: For when someone small (or large) needs a quick dose of the good in this world.
@@ -16,9 +16,9 @@ books:
 ---
 
 
-Without preamble, here are some picture books books your family--those with babies and young children, but also anyone else--might like to read this month.
+Without preamble, here are some picture books books your family–those with babies and young children, but also anyone else–might like to read this month.
 
-***[Be Who You Are](http://www.brooklinebooksmith-shop.com/book/9780316265232)***by Todd Parr–Parr's books have always been simple, bold, bright messages of care and acceptance. His brand new book is no different–and if you are three, or the parent of a three-year-old, or simply a person feeling shaky, you're equally likely to take solace and joy in its gentle reminders.
+***[Be Who You Are](http://www.brooklinebooksmith-shop.com/book/9780316265232)&nbsp;***by Todd Parr–Parr's books have always been simple, bold, bright messages of care and acceptance. His brand new book is no different–and if you are three, or the parent of a three-year-old, or simply a person feeling shaky, you're equally likely to take solace and joy in its gentle reminders.
 
 [*Maybe Something Beautiful: How Art Transformed a Neighborhood*](http://www.brooklinebooksmith-shop.com/book/9780544357693) by F. Isabel Campoy, Theresa Howell, Rafael Lopez–This true story reminds us that every hand is able to build, and that creativity and ownership and cooperation can change ugly things into something lovely and powerful.
 
