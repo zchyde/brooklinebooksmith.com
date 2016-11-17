@@ -1,0 +1,28 @@
+---
+layout: listing
+---
+{% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
+{% assign box_classes = site.box_classes  %}
+{% assign page_events = site.events | where: 'program', page.slug %}
+{% include events/filter-events_upcoming.html %}
+
+
+<div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
+  <aside class="lg-mt4 col-12 col md-col-3 lg-col-3">
+      <div class="h5 p2 col-12 rounded bg-primary-color near-white">
+        {{ page.content | markdownify }}
+      </div>
+    {% if related_blog_posts.size > 0 %}
+      {% include components/related-blog-posts.html %}
+    {% endif %}
+  </aside>
+  <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
+    <h2>Upcoming Events</h2>
+
+    {% for object in events_upcoming  %}
+     {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
+    {% include events/output-format-cards.html classes=box_classes start_at=start_at %}
+
+   {% endfor %}
+
+  </article>
