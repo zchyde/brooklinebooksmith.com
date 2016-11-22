@@ -1,9 +1,8 @@
 ---
 title:
-available:
+available: true
 isbn:
 binding:
-link_to_buy_page:
+link_to_blog_post:
 image_path:
-link:
 ---
