@@ -1,13 +1,42 @@
+{% if page.related_books %}
+  <hr />
+  <h2>We Recommend</h2>
+  <div class="flex flex-wrap">
+    {% for object in page.related_books %}
+      {% assign book = site.books | where: 'slug', object | first %}
+      <a href="{% if book.link_to_buy_page %}{{ book.link_to_buy_page }}{% else %}{{ site.shop_domain }}/book/{{ book.isbn }}{% endif %}"   class="col-12 md-col-4 md-pr2" target="_blank">
+        <img src="{{ book.image_path }}" class="fit" alt="image for {{ book.title }}" />
+      </a>
+    {% endfor %}
+  </div>
+{% endif %}
 
-  {% if page.related_books %}
-    <hr />
-    <h2>We Recommend</h2>
-    <div class="flex flex-wrap">
-      {% for object in page.related_books %}
-        {% assign book = site.books | where: 'slug', object | first %}
-        <a href="{% if book.link_to_buy_page %}{{ book.link_to_buy_page }}{% else %}{{ site.shop_domain }}/book/{{ book.isbn }}{% endif %}"   class="col-12 md-col-4 md-pr2" target="_blank">
-          <img src="{{ book.image_path }}" class="fit" alt="image for {{ book.title }}" />
-        </a>
-      {% endfor %}
-    </div>
-  {% endif %}
+{% if page.related_used-books %}
+  <hr />
+  <h2>
+    From the Used Book Cellar
+  </h2>
+  <div class="flex flex-wrap">
+    {% for object in page.related_used-books %}
+      {% assign book = site.used-books | where: 'slug', object | first %}
+      <div class="border-bottom border-divider-color py4">
+
+        <img src="{{ book.image_path }}" class="col-12 sm-col-4 mt2 md-mr2 box-shadow-small-black pb0 fit" alt="image for {{ book.title }}" style="padding-bottom: 0;"/>
+
+        {% if book.available == true %}
+          <small class="font-family-primary rounded py1 px3 bg-accent-color text-on-primary-color h6">&#x2713; available</small>
+        {% endif %}
+
+        {% if book.content %}
+          {{ book.content | markdownify }}
+        {% endif %}
+
+        {% if book.related_blog_postTK %}
+          {% assign slug = book.related_blog_post %}
+          {% assign data = site.posts | where_exp: 'item', 'item.slug contains "2016-10-05-gift-books-and-sheep"' %}
+          {{ data }}
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
