@@ -1,8 +1,6 @@
 ---
 title: Test
 available: true
-isbn:
-binding:
-related_post:
+related_posts:
 image_path:
 ---
