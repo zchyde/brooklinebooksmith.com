@@ -12,7 +12,7 @@ book_isbn:
 ---
 
 
-In celebration of Elena Ferrante's first collection of nonfiction, ***Frantumaglia***, join best-selling novelist **Claire Messud**, Vogue book critic\*\* Megan O’Grady**\*\*, Elena Ferrante’s U.S. publisher Michael Reynolds**, her translator **Ann Goldstein**, and WBUR’s **Christopher Lydon**, host of Radio Open Source, for an evening of conversation about the elusive author of the ***Neapolitan Quartet***.
+In celebration of Elena Ferrante's first collection of nonfiction, ***Frantumaglia***, join best-selling novelist **Claire Messud**, Vogue book critic **Megan O’Grady****, Elena Ferrante’s U.S. publisher Michael Reynolds**, her translator **Ann Goldstein**, and WBUR’s **Christopher Lydon**, host of Radio Open Source, for an evening of conversation about the elusive author of the ***Neapolitan Quartet***.
 <br>&nbsp;
 <br>***Frantumaglia&nbsp;***invites readers into Elena Ferrante’s workshop. It offers a glimpse into the drawers of her writing desk, those drawers from which emerged her three early standalone novels and the four installments of&nbsp;***My Brilliant Friend****,* known in English as th*e **Neapolitan Quartet***. Consisting of over 20 years of letters, essays, reflections, and interviews, it is a unique depiction of an author who embodies a consummate passion for writing.
 <br>
