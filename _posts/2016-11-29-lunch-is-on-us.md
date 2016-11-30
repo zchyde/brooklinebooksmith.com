@@ -15,7 +15,9 @@ books:
 ---
 
 
-![](/uploads/versions/bento1_compress---x0-0-600-750-960-1200x---.jpg)Keep an eye on&nbsp;[#BooksmithBento](https://www.instagram.com/explore/tags/booksmithbento/) this month. With ingredients pulled from every corner of the Booksmith pantry, our booksellers and giftsellers have whipped up a full menu of bento box gift arrangements. There will be a new box each day through the holidays!&nbsp;
+![](/uploads/versions/bento1_compress---x----600-750x---.jpg)
+
+Keep an eye on&nbsp;[#BooksmithBento](https://www.instagram.com/explore/tags/booksmithbento/) this month. With ingredients pulled from every corner of the Booksmith pantry, our booksellers and giftsellers have whipped up a full menu of bento box gift arrangements. There will be a new box each day through the holidays!&nbsp;
 
 "My grandson likes rocks, something called Poptropica and I think an athlete, Curry? Jeff Curry? He says he's bored by books that are about real or made-up things, and his parents want me to get him a book that will keep him away from the iPad."
 <br>Our kids booksellers can handle whatever you throw at them. These people read kids and young adult books in their spare time for fun, and then come in and get paid to tell you about them. Have you checked out our great&nbsp;[Kidsmith](https://www.brooklinebooksmith.com/kidsmith/) blog? Don't hesitate to ask for help from one of our ace kids booksellers this season.
