@@ -1,8 +1,8 @@
 ---
 title: '**Stairwell Art Gallery Reception**'
-published: false
+published: true
 start_at: 2017-01-03 07:00:00
-image_path:
+image_path: /uploads/stairwell_comp.png
 book_category:
 program: '-writers-and-readers'
 ticketed: false
