@@ -13,3 +13,6 @@ book_isbn:
 ---
 
 
+In *Siren Sisters*, three sisters sing ships to their doom on the coast of Maine--until they’re captured by vengeful sailors and their little sister has to save them.
+
+In *Earth Force Rising*, Jasper Adams continues to seek the truth about an interplanetary threat that endangers Earth itself. Middle grade.
