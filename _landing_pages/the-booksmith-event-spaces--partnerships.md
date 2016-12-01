@@ -5,6 +5,7 @@ featured_image_position: 20
 banner_height: 450
 fancy_font: null
 description: null
+_script: https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js
 ---
 
 ## Brookline Booksmith Programs and Partnerships
@@ -38,7 +39,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 </div>
 
-
+---
 
 ### Brookline Booksmith Store Level (Upstairs Signing Only)
 

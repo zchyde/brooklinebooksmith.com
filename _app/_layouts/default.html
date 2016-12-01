@@ -57,5 +57,8 @@ layout: compress
       </main>
       {% include global/navigation-side.html %}
     {% include global/scripts.html %}
+    {% if page._script %}
+        <script src="{{ page._script }}"{% unless page.load_script_async == false %} async{% endunless %}></script>
+    {% endif %}
   </body>
 </html>
