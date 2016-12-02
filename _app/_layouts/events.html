@@ -17,9 +17,22 @@ layout: default
 
 <div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
 
-  <aside class="lg-mt4 p2 mb3 white h5 col-12 col md-col-3 lg-col-3 rounded{% if page.description  %} bg-dark-primary-color {% endif %}">
+  <aside class="lg-mt4 mb3 white h5 col-12 col md-col-3 lg-col-3">
     {% if page.description  %}
-      {{ page.description  | markdownify }}
+      <div class="p2 bg-dark-primary-color  rounded">
+        {{ page.description  | markdownify }}
+      </div>
+    {% endif %}
+    {% assign programs = site.programs | where_exp: 'item', "item.slug != '-writers-and-readers'"   %}
+    {% if programs.size > 0 %}
+      <h2 class="black pl2">Our Programs</h2>
+      {% for object in programs  %}
+        <a href="{{ object.url }}" class="">
+          <h3 class="h3 dark-gray hover-bg-dark-primary-color hover-white pl2 pr1 py1 m0">
+            {{ object.title }}
+          </h3>
+        </a>
+      {% endfor %}
     {% endif %}
   </aside>
 
