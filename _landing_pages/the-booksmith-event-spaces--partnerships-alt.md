@@ -1,6 +1,6 @@
 ---
 title: 'Brookline Booksmith Programs and Partnerships TEST'
-published: true
+published: false
 featured_image_path: /uploads/wow-compressor.jpg
 featured_image_position: 50
 fancy_font: null
