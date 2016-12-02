@@ -5,6 +5,7 @@ featured_image_position: 20
 banner_height: 450
 fancy_font: null
 description: null
+_script: https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js
 ---
 
 ## Brookline Booksmith Programs and Partnerships
@@ -18,7 +19,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ### Brookline Booksmith Readers and Writers Room (Downstairs)
 
-![](https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-4-compressor.jpg) **Capacity Readings/Signing**: 110-130 seated, plus standing room for 40+.
+![](https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-4-compressor.jpg) **Capacity Readings/Signing**: 110-130 seated, plus standing room for 40+.
 
 **Recent Events**: Cheryl Strayed, JoJo Moyes, Joe Hill, Mark Z. Danielewski, Colm Toibin, Jeanette Winterson, Alice Hoffman, Ha Jin.
 
@@ -27,22 +28,22 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 {% include flickity-start.html %}
 
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg" alt="">
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-2-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-3-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-5-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-6-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-7-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-8-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Downstairs/bb-downstairs-1-compressor.jpg" alt="">
 
 
 </div>
 
-
+---
 
 ### Brookline Booksmith Store Level (Upstairs Signing Only)
 
-![](https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-1-compressor.jpg) **Capacity Signing Only**: 750 best to date.
+![](https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-1-compressor.jpg) **Capacity Signing Only**: 750 best to date.
 
 **Recent Events**: Mindy Kaling, Neil Patrick Harris, Grace Helbig, Joey Graceffa, Bill Nye, Sara Bareilles, Ree Drummond.
 
@@ -52,13 +53,13 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 {% include flickity-start.html %}
 
-<img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-upstairs-2-compressor.jpg" alt=""><img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-UPstairs-3-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-4-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-5-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-6-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-7-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-8-compressor.jpg" alt=""></div>
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-upstairs-2-compressor.jpg" alt=""><img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-UPstairs-3-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-4-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-5-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-6-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/BB-Upstairs-7-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Brookline-Booksmith-Upstairs/bb-Upstairs-8-compressor.jpg" alt=""></div>
 
 ---
 
 ### Coolidge Corner Theatre Event Space
 
-![](https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-1-compressor.jpg) **Capacity**: Moviehouse 1 can hold 440; Moviehouse 2 can hold 220.
+![](https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-1-compressor.jpg) **Capacity**: Moviehouse 1 can hold 440; Moviehouse 2 can hold 220.
 
 **Recent Events**: Michael Chabon, Jhumpa Lahiri, Richard Ford, Junot Diaz, Felicia Day, John Waters, Caroline Kennedy, Judy Blume, Brandon Sanderson, Christopher Moore, Joe Perry of Aerosmith.
 
@@ -67,14 +68,14 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 {% include flickity-start.html %}
 
-<img src="https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-2-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-3-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-4-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-5-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-6-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-2-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-3-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-4-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-5-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Coolidge-Corner-Theatre/Coolidge-Corner-Theatre-6-compressor.jpg" alt="">
 </div>
 
 ---
 
 ### Berklee Performance Center Event Space
 
-![](https://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-1-compressor.jpg) **Capacity**: 1,215 (732 Orchestra Level + 432 Balcony Level).
+![](https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/Berklee-1-compressor.jpg) **Capacity**: 1,215 (732 Orchestra Level + 432 Balcony Level).
 
 **Recent Events**: Elvis Costello in conversation with Peter Guralnick.
 
@@ -83,7 +84,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 {% include flickity-start.html %}
 
-<img src="https://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-2-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/Berklee-3-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/berklee-4-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/berklee-7-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/berklee-5-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Berklee/berklee-6-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/Berklee-2-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/Berklee-3-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/berklee-4-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/berklee-8-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/berklee-7-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/berklee-5-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Berklee/berklee-6-compressor.jpg" alt="">
 
 </div>
 
@@ -91,7 +92,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 ### Wilbur Theatre Event Space
 
-![](https://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-1-compressor.jpg) **Capacity**: 1,200.
+![](https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-1-compressor.jpg) **Capacity**: 1,200.
 
 **Recent Events**: Lena Dunham, Nick Offerman, Rainn Wilson.
 
@@ -99,7 +100,7 @@ Events are promoted on social media (12,200 Twitter followers, 9,300 Facebook Li
 
 {% include flickity-start.html %}
 
-<img src="https://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg" alt=""> <img src="https://images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg" alt="">
+<img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-3-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Wilbur-Theater/wilbur-4-compressor.jpg" alt=""> <img src="https://storage.googleapis.com/images.brooklinebooksmith.com/event-venues/Wilbur-Theater/Wilbur-2-compressor.jpg" alt="">
 </div>
 ---
 

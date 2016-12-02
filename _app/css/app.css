@@ -14,7 +14,7 @@
 @import 'modules/_expandable';
 @import 'modules/_transitions';
 /*@import 'modules/_debug';*/
-
+@import 'src/_flickity';
 /*
 TODO:
 - hide sidebar < 1024px and use menu button

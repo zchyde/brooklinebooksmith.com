@@ -1,6 +1,6 @@
 ---
 title: Used Book Cellar
-related_books:
+related_used-books:
 featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
 featured_image_credit: '[Liz Linder](https://lizlinder.com)'
