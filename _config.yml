@@ -131,7 +131,7 @@ collections:
   #   output: false
   #   commerce: 'subscription'
   programs:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
 
 defaults:
@@ -167,7 +167,8 @@ defaults:
       path: ''
       type: programs
     values:
-      layout: page-single
+      layout: listing-programs
+      hide_title_over_banner: true
   - scope:
       path: ''
       type: staff

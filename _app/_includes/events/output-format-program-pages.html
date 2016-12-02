@@ -1,0 +1,43 @@
+{% assign related_books_isbn = object.book_isbn %}
+<div class="card event col col-12 sm-col-12 md-col-12 lg-col-12 bg-white border border-silver rounded mb2" id="event-{{count}}">
+
+
+  <h1>
+    {% if start_at %}
+      {% include components/date.html %}
+    {% endif %}
+    {% if object.ticketed %}
+      <div class="btn btn-primary">
+        Ticketed Event
+      </div>
+    {% endif %}
+  </h1>
+
+
+  <div class="card-copy flexTK px2 col-12 clearfix">
+    {% comment %}
+      looking for events with books. using the book_isbn value
+      Using "...size > 0" to capture null values and entries where no field is present
+      size, oddly, returns "8" where there is only one isbn (which is 13 digits)
+    {% endcomment %}
+
+    <div class="col col-12{% if related_books_isbn.size > 1 %} lg-col-4{% else %} lg-col-3{% endif %} pr2">
+      {% include events/event-images.html %}
+    </div>
+  </div>
+
+
+
+  <div class="card-footer col-12 mt3 clearfix relative">
+    <div class="absolute bottom-0 right-0 mb2 mr2">
+       {% include events/add-to-calendar.html %}
+    </div>
+    <div class="addthis_sharing_toolbox addthis_default_styleTK lg-absolute lg-bottom-0 lg-left-0 mb2 ml2"
+    data-url="{{ site.url }}/{{ object.url }}"
+    data-title="{% if object.title %}{{ object.title | remove: '*' }}{% endif %}"
+    data-media="{{ image_path }}"
+    >
+    </div>
+  </div>
+
+</div>

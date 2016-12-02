@@ -1,12 +1,14 @@
 {% if object.image_path and object.image_path !='' %}
   <img class="image-small" src="{{ object.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image" />
 {% endif %}
-
+  
 {% if object.program %}
-  {% assign program = site.programs | where_exp: 'item', 'item.slug == object.program' | first %}
-  {% if program.image_path %}
-    <img class="image-small" src="{{ program.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image"/>
-  {% endif %}
+  {% unless page.collection == 'programs' %}
+    {% assign program = site.programs | where_exp: 'item', 'item.slug == object.program' | first %}
+      {% if program.image_path %}
+        <img class="image-small" src="{{ program.image_path }}"  class="fit center col-12 box-shadow-small-black" alt="{{ event_title }} image"/>
+      {% endif %}
+  {% endunless %}
 {% endif %}
 
 {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
