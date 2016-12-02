@@ -1,0 +1,11 @@
+{% assign past_events = "" | split: "|" %}
+{% assign current_dateTK = site.time | date: "%s"  %}
+{% capture current_date %}{{ 'now' | date: "%s" | minus: '14400' }}{% endcapture %}
+{% for item in page_events %}
+  {% capture postdate %}{{ item.start_at | date: "%s"  }}{% endcapture %}
+  {% if postdate < current_date %}
+    {% assign past_events = past_events | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign events_past = past_events | sort: 'start_at', 'last'  %}
