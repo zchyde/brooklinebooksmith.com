@@ -1,7 +1,7 @@
 ---
 title: '**Erica Ferencik** -  *The River at Night*'
 published: true
-start_at: 2017-01-15 19:00:00
+start_at: 2017-01-13 19:00:00
 image_path:
 book_category:
 program: '-writers-and-readers'
