@@ -5,11 +5,10 @@ featured: false
 date: 2016-10-20 09:00:00
 description: "Being young, reading books, and loving things so much that all isn't enough."
 featured_image_path: /uploads/3035.jpg
-featured_image_position: 50
+featured_image_position: 15
 show_featured_image_in_post: false
 fancy_font:
-category:
-  - kidsmith
+category: kidsmith
 staff:
   - alex-s
 books:
