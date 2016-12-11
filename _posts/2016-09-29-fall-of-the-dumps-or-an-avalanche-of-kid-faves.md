@@ -2,10 +2,10 @@
 title: 'Fall of the Dumps (or, an Avalanche of Kid Faves)'
 published: true
 featured: false
-date: 2016-09-29T09:00:00.000Z
+date: 2016-09-29 09:00:00
 description: We get a lot of books in the autumn.
 featured_image_path: /uploads/9781627792134.jpg
-featured_image_position: 50
+featured_image_position: 100
 show_featured_image_in_post: false
 fancy_font:
 category: kidsmith
