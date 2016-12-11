@@ -1,5 +1,7 @@
 ---
-title: test 1
+title: Curious George 1st Edition
 available: true
-image_path:
+image_path: /uploads/cropped-george.jpg
 ---
+
+
