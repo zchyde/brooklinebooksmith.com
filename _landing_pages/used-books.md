@@ -1,6 +1,8 @@
 ---
 title: Used Book Cellar
 related_used-books:
+  - test-1
+  - the-sun-also-rises-1926
 featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
 featured_image_credit: '[Liz Linder](https://lizlinder.com)'
@@ -24,7 +26,6 @@ Wondering if we’ll buy something specific? Feel free to call during buying hou
 * Gently used and up-to-date paperback fiction and non-fiction.
 * At the buyer’s discretion we consider hardcovers in graphic novels, art, cooking (published post-2010) and unique vintage editions (published pre-1980).
 
-
 ### What don’t we take?
 
 * Donations
@@ -36,7 +37,6 @@ Wondering if we’ll buy something specific? Feel free to call during buying hou
 * Books sold from our $1 racks
 * Rare, antiquarian or collectible editions
 * Wholesale lots or estates
-
 
 Our buyers reserve the right to pass on any book they deem unusable.
 
