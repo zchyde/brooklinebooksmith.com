@@ -33,19 +33,19 @@ books:
 ![full-img](/uploads/versions/tasteofpersia-compressor---x----800-800x---.jpg)*10" Turkish Bowl, Tribal Home - $69.95; Turkish Wallet, Derin - $29.95; Turkish Soap in Tin (Round and Rectangle) - $7.95; Handpainted Turkish Mug, Tribal Home - $16.95; 8" Turkish Bowl, Tribal Home - $49.95;*[&nbsp;Taste of Persia: A Cook's Travels Through Armenia, Azerbaijan, Georgia, Iran and Kurdistan](__notset__)*[by Naomi Duguid](__notset__) - $35*
 {: .present-before-paste}
 
-![full-img](/uploads/versions/epicrides-compressor---x----800-650x---.jpg)*Danica Linen Mini Cosmetic Case - $16.95; Bicycles Zipper Pouch, BlueQ - $6.95; Danica Small Zip Pouch - $12.95; Cuppa This Cuppa That Mug, Ore - $8.95; Bicycle Bookends, Time Concept - $60;*&nbsp;Epic Bike Rides of the World by Lonely Planet - $35
+![full-img](/uploads/versions/epicrides-compressor---x----800-650x---.jpg)*Danica Linen Mini Cosmetic Case - $16.95; Bicycles Zipper Pouch, BlueQ - $6.95; Danica Small Zip Pouch - $12.95; Cuppa This Cuppa That Mug, Ore - $8.95; Bicycle Bookends, Time Concept - $60;*&nbsp;[Epic Bike Rides of the World by Lonely Planet](http://www.brooklinebooksmith-shop.com/book/9781760340834) - $35
 {: .present-before-paste}
 
-![full-img](/uploads/versions/achildofbooks-compressor---x----800-800x---.jpg)*Ellembee Cotton Dishtowel - $12.95; Blithe and Bonny Soap - $8.95; Definition Words Necklace, Zad - $12; Recycled Book Spine Keychain, Attic Journal - $18.95; Penmanship Mug, Unemployed Philosopher - $14.95; Sugarbooger Lunch Sack, Ore - $22; Read a Book Puzzle, Gibbssmith - $22.00;*&nbsp;A Child of Books *by Oliver Jeffers and Sam Winston - $17.99*
+![full-img](/uploads/versions/achildofbooks-compressor---x----800-800x---.jpg)*Ellembee Cotton Dishtowel - $12.95; Blithe and Bonny Soap - $8.95; Definition Words Necklace, Zad - $12; Recycled Book Spine Keychain, Attic Journal - $18.95; Penmanship Mug, Unemployed Philosopher - $14.95; Sugarbooger Lunch Sack, Ore - $22; Read a Book Puzzle, Gibbssmith - $22.00;*&nbsp;[A Child of Books](http://www.brooklinebooksmith-shop.com/book/9780763690779) *by Oliver Jeffers and Sam Winston - $17.99*
 {: .present-before-paste}
 
-![full-img](/uploads/versions/cookiefiasco-compressor---x----800-916x---.jpg)*Cozy Critter Herbal Neck Warmers - $19.95; Pizza Money Coin Pouch - $5.00; Tin Yoyo - $4.95; Animal Match Memory Game - $29.95; Color in Puzzle - $9.95;*&nbsp;Elephant & Piggie Like Reading! The Cookie Fiasco\* by Mo Willems and Dan Santat - $9.99\*
+![full-img](/uploads/versions/cookiefiasco-compressor---x----800-916x---.jpg)*Cozy Critter Herbal Neck Warmers - $19.95; Pizza Money Coin Pouch - $5.00; Tin Yoyo - $4.95; Animal Match Memory Game - $29.95; Color in Puzzle - $9.95;*&nbsp;[Elephant & Piggie Like Reading! The Cookie Fiasco by Mo Willems and Dan Santat](http://www.brooklinebooksmith-shop.com/book/9781484726365) - $9.99
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/madeoficeland-compressor---x----800-820x---.jpg)
 {: .present-before-paste}
 
-*Chemistry of Whiskey Glass - $16.95; Whiskey stones - $22; G Clamp Bottle Opener - $12.95; Cuppa This Cuppa That Mug - $8.95; Bear Magnetic Bottle Opener $24.95; Nordic Dreams Potholders - $12.95; Medium Wood Inlay Spoon - $12.95; Small Stoneware Serving Plate - $26; Short Stoneware Goblet - $12; Large Stoneware Serving Plate - $29.95; Small Stoneware Bowl - $15.95;*&nbsp;Made of Iceland: A Drink & Draw Book *by Reyka and Snorri Sturluson - $24.95*
+*Chemistry of Whiskey Glass - $16.95; Whiskey stones - $22; G Clamp Bottle Opener - $12.95; Cuppa This Cuppa That Mug - $8.95; Bear Magnetic Bottle Opener $24.95; Nordic Dreams Potholders - $12.95; Medium Wood Inlay Spoon - $12.95; Small Stoneware Serving Plate - $26; Short Stoneware Goblet - $12; Large Stoneware Serving Plate - $29.95; Small Stoneware Bowl - $15.95;*&nbsp;[Made of Iceland: A Drink & Draw Book](__notset__)*[by Reyka and Snorri Sturluson](__notset__) - $24.95*
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/101waystolivewell-compressor---x----800-958x---.jpg)*Quotable Framed Quote - $15.95; Natural Life Art Collection Medium Tray, $14.95; Get Happy Tea, Republic of Tea - $12.95; Peace of Mind Tea, Flying Bird Botanicals - $15.95; Wish Bracelet, Two's Company - $4.50; Seltzer Zipper Pouch - $12.95; Cup of Happy, Natural Life - $15.95;*&nbsp;101 Ways to Live Well *by Lonely Planet - $11.99*
