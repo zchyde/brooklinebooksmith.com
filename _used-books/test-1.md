@@ -11,6 +11,6 @@ Price:** $40.00**
 
 Status: Available
 
-Condition: Fair. Dust jacket is price-clipped, has some tears. Book has some fading to cloth cover.&nbsp;
+Condition: Fair. Dust jacket is price-clipped w/some tearing. Book has some fading to cloth cover.&nbsp;
 
 ![](/uploads/versions/img-2528---x----480-640x---.JPG)![](/uploads/versions/img-2527---x----480-640x---.JPG)![](/uploads/versions/img-2525-1---x----480-640x---.JPG)![](/uploads/versions/img-2524---x----480-640x---.JPG)![](/uploads/versions/img-2526---x----480-640x---.JPG)
