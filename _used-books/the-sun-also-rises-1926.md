@@ -13,8 +13,9 @@ Condition: Good. Dust jacket has some tearing on front (see photos). Book and pa
 
 Status: Available
 
-![](/uploads/versions/img-2549---x----480-640x---.JPG)
+&nbsp;
 
-![](/uploads/versions/img-2542---x----508-640x---.JPG)![](/uploads/versions/img-2544---x----480-640x---.JPG)![](/uploads/versions/img-2541---x----480-640x---.JPG)
+<br>
+<br>&nbsp;
 
-![](/uploads/versions/img-2543---x----640-426x---.JPG)
+&nbsp;
