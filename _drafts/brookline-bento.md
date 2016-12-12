@@ -45,7 +45,7 @@ books:
 ![full-img](/uploads/versions/madeoficeland-compressor---x----800-820x---.jpg)
 {: .present-before-paste}
 
-*Chemistry of Whiskey Glass - $16.95; Whiskey stones - $22; G Clamp Bottle Opener - $12.95; Cuppa This Cuppa That Mug - $8.95; Bear Magnetic Bottle Opener $24.95; Nordic Dreams Potholders - $12.95; Medium Wood Inlay Spoon - $12.95; Small Stoneware Serving Plate - $26; Short Stoneware Goblet - $12; Large Stoneware Serving Plate - $29.95; Small Stoneware Bowl - $15.95;*&nbsp;[Made of Iceland: A Drink & Draw Book](__notset__)*[by Reyka and Snorri Sturluson](__notset__) - $24.95*
+*Chemistry of Whiskey Glass - $16.95; Whiskey stones - $22; G Clamp Bottle Opener - $12.95; Cuppa This Cuppa That Mug - $8.95; Bear Magnetic Bottle Opener $24.95; Nordic Dreams Potholders - $12.95; Medium Wood Inlay Spoon - $12.95; Small Stoneware Serving Plate - $26; Short Stoneware Goblet - $12; Large Stoneware Serving Plate - $29.95; Small Stoneware Bowl - $15.95;*&nbsp;[Made of Iceland: A Drink & Draw Book](__notset__)[by Reyka and Snorri Sturluson](__notset__)* - $24.95*
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/101waystolivewell-compressor---x----800-958x---.jpg)*Quotable Framed Quote - $15.95; Natural Life Art Collection Medium Tray, $14.95; Get Happy Tea, Republic of Tea - $12.95; Peace of Mind Tea, Flying Bird Botanicals - $15.95; Wish Bracelet, Two's Company - $4.50; Seltzer Zipper Pouch - $12.95; Cup of Happy, Natural Life - $15.95;*&nbsp;101 Ways to Live Well *by Lonely Planet - $11.99*
