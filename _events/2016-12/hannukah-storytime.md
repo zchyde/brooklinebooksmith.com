@@ -5,7 +5,7 @@ start_at: 2016-12-11 10:30:00
 image_path:
 category: kidsmith
 book_category:
-post_categories:
+category: kidsmith
 program: '-writers-and-readers'
 ticketed: false
 test:
