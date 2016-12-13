@@ -1,5 +1,5 @@
 ---
-title: 'Brookline Bento: A Daily Holiday Gift Guide'
+title: 'Booksmith Bento: A Daily Holiday Gift Guide'
 published: true
 featured: true
 date: 2016-12-13 09:00:00
@@ -15,6 +15,11 @@ books:
 ---
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en){:target="_blank"}, for new ideas every day!
+
+
+
+*Marvel Superhero Socks - $24.95; Bat Signal Mighty Wallet - $16.95; Superman Cufflinks - $65; Superhero Tie - $52; Headline T-shirt - $26; Wonder Woman Action Figure - $9.95; Superman Action Figure - $9.95;* [The Best American Comics 2016](http://www.brooklinebooksmith-shop.com/book/9780544750357), edited by Roz Chast - $25
+{: .present-before-paste}
 
 ![full-img](/uploads/versions/creaturesofthedeep---x----800-1200x---.jpg)
 {: .present-before-paste}
