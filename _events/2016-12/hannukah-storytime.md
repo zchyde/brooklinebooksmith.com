@@ -4,6 +4,7 @@ published: true
 start_at: 2016-12-11 10:30:00
 image_path:
 book_category:
+category:
 program: '-writers-and-readers'
 ticketed: false
 test:
