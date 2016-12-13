@@ -1,3 +1,4 @@
+
 lib-cov
 *.seed
 *.log
@@ -8,6 +9,7 @@ lib-cov
 *.gz
 .DS_Store
 .sass-cache
+.rbenv-gemsets
 bower_components
 
 pids
@@ -20,5 +22,4 @@ node_modules
 /.build
 /.firebase.conf
 _site
-
-
+/.gems
