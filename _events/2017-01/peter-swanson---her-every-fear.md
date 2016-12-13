@@ -3,6 +3,7 @@ title: '**Peter Swanson** -  *Her Every Fear*'
 published: true
 start_at: 2017-01-10 19:00:00
 image_path:
+category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false

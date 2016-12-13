@@ -3,6 +3,7 @@ title: '**Alex Beam** -  *The Feud: Vladimir Nabokov, Edmund Wilson, and the End
 published: true
 start_at: 2016-12-06 19:00:00
 image_path:
+category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false

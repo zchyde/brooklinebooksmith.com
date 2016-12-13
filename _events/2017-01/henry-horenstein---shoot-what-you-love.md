@@ -3,6 +3,7 @@ title: '**Henry Horenstein** -  *Shoot What You Love*'
 published: true
 start_at: 2017-01-17 19:00:00
 image_path:
+category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
