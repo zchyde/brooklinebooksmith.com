@@ -9,7 +9,7 @@ featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
 category: Holiday-Gift-Guide
-staff:
+staff: Booksmith
   - '-staff-'
 books:
 ---
