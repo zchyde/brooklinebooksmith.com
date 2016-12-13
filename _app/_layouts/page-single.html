@@ -6,6 +6,7 @@ regenerate: true
 {% assign slug = page.slug  %}
 {% assign related_blog_posts = site.posts | where: 'published', true | where_exp: 'item', 'item.categories contains slug' %}
 {% assign box_classes = site.box_classes  %}
+
 <div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
   <aside class="lg-mt4 col-12 col md-col-3 lg-col-3">
     {% if page.description  %}
@@ -18,9 +19,9 @@ regenerate: true
         From the Blog
       </h2>
       {% for object in related_blog_posts limit: 10 %}
-      <a href="{{ object.url }}" class="col-12 block mb2 text-decoration-none black">
-      {% include components/card-image-top-bg.html classes=box_classes %}
-      </a>
+        <a href="{{ object.url }}" class="col-12 block mb2 text-decoration-none black">
+          {% include components/card-image-top-bg.html classes=box_classes %}
+        </a>
       {% endfor %}
     {% endif %}
   </aside>
@@ -37,18 +38,16 @@ regenerate: true
       {% include _format-article.html %}
     {% endif %}
 
-
     {% include related-books-with-description.html %}
-
 
   </article>
 
 
-  <aside class="cf w-100{% if page.aside-bottom or page.include_description %} content-aside{% endif %}" style="display:none;">
+  <aside class="cf w-100  p2{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
     {% if page.include_description %}
         {% include {{ page.include_description }} %}
     {% endif %}
-    &nbsp;
+      &nbsp;
     {% if page.featured_image_credit %}
       <div class="caption cf w-100 f6">
         image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
