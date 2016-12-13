@@ -1,7 +1,7 @@
-{% assign new_arrivals = page[include.type] %}
+{% assign bestsellers = page[include.type] %}
 {% assign cover_classes = 'fit col-12 pr2 m0' %}
 {% assign limit = include.limit %}
-{% for book in new_arrivals limit:limit %}
+{% for book in bestsellers limit:limit %}
   {% assign books = site.books | where: 'isbn', book %}
   {% for object in books  %}
     {% if object.image_path and object.image_path != '' %}
@@ -12,7 +12,5 @@
       <a href="{{ site.shop_domain }}/book/{{ object.isbn }}" target="_blank" class="{{ include.image_classes }}">
         <img class="{{ cover_classes }}" src="{{ image }}" alt="cover for {{ object.title }}"/>
       </a>
-
   {% endfor %}
-
 {% endfor %}
