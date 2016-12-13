@@ -15,7 +15,7 @@ books:
 ---
 
 
-![full-img](/uploads/versions/creaturesofthedeep---x----800-1200x---.jpg)*Sock It To Me Men's Crew - $9.95; Coolamari Ice Cube Tray, Fred; Finger Tentacles - $2.50; Seaweed Soap, Kala Style - $7.95; Spiked Tea, Fred - $10.95; Headline Men's Shirts - $26;&nbsp;*[Creatures of the Deep: The Pop-Up Book](http://www.brooklinebooksmith-shop.com/book/9783791372310)[*by Ernst Haeckel and Maike Biederstaedt*](__notset__)[&nbsp;- $29.95](__notset__)
+![full-img](/uploads/versions/creaturesofthedeep---x----800-1200x---.jpg)*Sock It To Me Men's Crew - $9.95; Coolamari Ice Cube Tray, Fred; Finger Tentacles - $2.50; Seaweed Soap, Kala Style - $7.95; Spiked Tea, Fred - $10.95; Headline Men's Shirts - $26;&nbsp;*[Creatures of the Deep: The Pop-Up Book](http://www.brooklinebooksmith-shop.com/book/9783791372310)[*by Ernst Haeckel and Maike Biederstaedt*](http://www.brooklinebooksmith-shop.com/book/9783791372310)[&nbsp;- $29.95](__notset__)
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/footnotes-compressor---x----800-633x---.jpg)*Greatest Last Lines Mug, Unemployed Philosophers - $14.95; Books Magnet, Ephemera - $5; Roz Chast Puzzle, NY Puzzle Company - $16.95; Bookworm Shoulder Tote, BlueQ - $16.95; Enamel Book Pin, Andrew Brozyna - $10.95;*&nbsp;[Footnotes from the World's Greatest Bookstores: True Tales from book Buyers, Booksellers, and Book Lovers\* by Bob Eckstein, foreword by Garrison Keillor - $22](http://www.brooklinebooksmith-shop.com/book/9780553459272)
@@ -30,13 +30,13 @@ books:
 ![full-img](/uploads/versions/artisthehighest-compressor---x----800-533x---.jpg)*Holiday Boxed Cards, Retrospect - $16; Quotable Mug - $12.00; Raw Materials Jumbo Zipper Pouch, BlueQ - $9.95; Fantastic Colors: 10 Colored Pencils - $14.95; Vive Le Color! Mandala Adult Coloring Book by Abrams Noterie - $9.95;*&nbsp;[Art Is the Highest Form of Hope & Other Quotes by Artists](http://www.brooklinebooksmith-shop.com/book/9780714872438) *&nbsp;- $24.95*
 {: .present-before-paste}
 
-![full-img](/uploads/versions/tasteofpersia-compressor---x----800-800x---.jpg)*10" Turkish Bowl, Tribal Home - $69.95; Turkish Wallet, Derin - $29.95; Turkish Soap in Tin (Round and Rectangle) - $7.95; Handpainted Turkish Mug, Tribal Home - $16.95; 8" Turkish Bowl, Tribal Home - $49.95;*[&nbsp;Taste of Persia: A Cook's Travels Through Armenia, Azerbaijan, Georgia, Iran and Kurdistan](__notset__)*[by Naomi Duguid](__notset__) - $35*
+![full-img](/uploads/versions/tasteofpersia-compressor---x----800-800x---.jpg)*10" Turkish Bowl, Tribal Home - $69.95; Turkish Wallet, Derin - $29.95; Turkish Soap in Tin (Round and Rectangle) - $7.95; Handpainted Turkish Mug, Tribal Home - $16.95; 8" Turkish Bowl, Tribal Home - $49.95;*&nbsp;[Taste of Persia: A Cook's Travels Through Armenia, Azerbaijan, Georgia, Iran and Kurdistan&nbsp;](http://www.brooklinebooksmith-shop.com/book/9781579655488)*[by Naomi Duguid](__notset__) - $35*
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/epicrides-compressor---x----800-650x---.jpg)*Danica Linen Mini Cosmetic Case - $16.95; Bicycles Zipper Pouch, BlueQ - $6.95; Danica Small Zip Pouch - $12.95; Cuppa This Cuppa That Mug, Ore - $8.95; Bicycle Bookends, Time Concept - $60;*&nbsp;[Epic Bike Rides of the World by Lonely Planet](http://www.brooklinebooksmith-shop.com/book/9781760340834) - $35
 {: .present-before-paste}
 
-![full-img](/uploads/versions/achildofbooks-compressor---x----800-800x---.jpg)*Ellembee Cotton Dishtowel - $12.95; Blithe and Bonny Soap - $8.95; Definition Words Necklace, Zad - $12; Recycled Book Spine Keychain, Attic Journal - $18.95; Penmanship Mug, Unemployed Philosopher - $14.95; Sugarbooger Lunch Sack, Ore - $22; Read a Book Puzzle, Gibbssmith - $22.00;*&nbsp;[A Child of Books](http://www.brooklinebooksmith-shop.com/book/9780763690779) *by Oliver Jeffers and Sam Winston - $17.99*
+![full-img](/uploads/versions/achildofbooks-compressor---x----800-800x---.jpg)*Ellembee Cotton Dishtowel - $12.95; Blithe and Bonny Soap - $8.95; Definition Words Necklace, Zad - $12; Recycled Book Spine Keychain, Attic Journal - $18.95; Penmanship Mug, Unemployed Philosopher - $14.95; Sugarbooger Lunch Sack, Ore - $22; Read a Book Puzzle, Gibbssmith - $22.00;*&nbsp;[A Child of Books](http://www.brooklinebooksmith-shop.com/book/9780763690779)[](__notset__)*[by Oliver Jeffers and Sam Winston](__notset__) - $17.99*
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/cookiefiasco-compressor---x----800-916x---.jpg)*Cozy Critter Herbal Neck Warmers - $19.95; Pizza Money Coin Pouch - $5.00; Tin Yoyo - $4.95; Animal Match Memory Game - $29.95; Color in Puzzle - $9.95;*&nbsp;[Elephant & Piggie Like Reading! The Cookie Fiasco by Mo Willems and Dan Santat](http://www.brooklinebooksmith-shop.com/book/9781484726365) - $9.99
@@ -48,7 +48,7 @@ books:
 *Chemistry of Whiskey Glass - $16.95; Whiskey stones - $22; G Clamp Bottle Opener - $12.95; Cuppa This Cuppa That Mug - $8.95; Bear Magnetic Bottle Opener $24.95; Nordic Dreams Potholders - $12.95; Medium Wood Inlay Spoon - $12.95; Small Stoneware Serving Plate - $26; Short Stoneware Goblet - $12; Large Stoneware Serving Plate - $29.95; Small Stoneware Bowl - $15.95;*&nbsp;[Made of Iceland: A Drink & Draw Book](__notset__)[by Reyka and Snorri Sturluson](__notset__)\* - $24.95
 {: .present-before-paste}
 
-![full-img](/uploads/versions/101waystolivewell-compressor---x----800-958x---.jpg)*Quotable Framed Quote - $15.95; Natural Life Art Collection Medium Tray, $14.95; Get Happy Tea, Republic of Tea - $12.95; Peace of Mind Tea, Flying Bird Botanicals - $15.95; Wish Bracelet, Two's Company - $4.50; Seltzer Zipper Pouch - $12.95; Cup of Happy, Natural Life - $15.95;*[&nbsp;101 Ways to Live Well](http://www.brooklinebooksmith-shop.com/book/9781786572127)[](__notset__)*[by Lonely Planet](__notset__) - $11.99*
+![full-img](/uploads/versions/101waystolivewell-compressor---x----800-958x---.jpg)*Quotable Framed Quote - $15.95; Natural Life Art Collection Medium Tray, $14.95; Get Happy Tea, Republic of Tea - $12.95; Peace of Mind Tea, Flying Bird Botanicals - $15.95; Wish Bracelet, Two's Company - $4.50; Seltzer Zipper Pouch - $12.95; Cup of Happy, Natural Life - $15.95;*[&nbsp;101 Ways to Live Well](http://www.brooklinebooksmith-shop.com/book/9781786572127)[](**notset**)*[by Lonely Planet](__notset__) - $11.99*
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/foodanatomy-compressor---x----800-663x---.jpg)*Socksmith Women's Socks - $8.95; Bamboo Color Dipped Utensil Set - $18.95; Funny Side Up Cat Egg Shaper- $10.95; Le Crock Coq Herb Infuser - $10.95; Papersharks Herb Dishtowel - $10.95;*&nbsp;Food Anatomy: The Curious Parts & Pieces of Our Edible World *by Julia Rothman and Rachel Wharton - $16.95&nbsp;*
