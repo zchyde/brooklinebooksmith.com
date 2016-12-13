@@ -1,7 +1,7 @@
 ---
 title: 'Brookline Bento: A Daily Holiday Gift Guide'
 published: true
-featured: false
+featured: true
 date: 2016-12-13 09:00:00
 description:
 featured_image_path: /uploads/atlasobscura-compressor.jpg
@@ -10,6 +10,7 @@ show_featured_image_in_post: false
 fancy_font:
 category: Holiday-Gift-Guide
 staff:
+  - '-staff-'
 books:
 ---
 
@@ -17,7 +18,7 @@ books:
 ![full-img](/uploads/versions/creaturesofthedeep---x----800-1200x---.jpg)
 {: .present-before-paste}
 
-*Sock It To Me Men's Crew - $9.95; Coolamari Ice Cube Tray, Fred; Finger Tentacles - $2.50; Seaweed Soap, Kala Style - $7.95; Spiked Tea, Fred - $10.95; Headline Men's Shirts - $26;*[Creatures of the Deep: The Pop-Up Book](http://www.brooklinebooksmith-shop.com/book/9783791372310) by Ernst Haeckel and Maike Biederstaedt - $29.95
+*Sock It To Me Men's Crew - $9.95; Coolamari Ice Cube Tray, Fred; Finger Tentacles - $2.50; Seaweed Soap, Kala Style - $7.95; Spiked Tea, Fred - $10.95; Headline Men's Shirts - $26;&nbsp;*[Creatures of the Deep: The Pop-Up Book](http://www.brooklinebooksmith-shop.com/book/9783791372310) by Ernst Haeckel and Maike Biederstaedt - $29.95
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/footnotes-compressor---x----800-633x---.jpg)
@@ -89,7 +90,7 @@ books:
 ![full-img](/uploads/versions/celtictales-compressor---x----800-800x---.jpg)
 {: .present-before-paste}
 
-*Mermaid Mug, Seltzer - 14.95; Felt Fairy Ornaments, Homart - $9.95; Kei and Molly Silkscreened Dishtowel - $12.95; Danica Mug - $12.00; Mermaid Zipper Pouch, BlueQ - $6.95; Mermaid Shoulder Tote, BlueQ - $16.95; Mermaid Scarf, JCSunny - $16.95;[Celtic Tales: Fairy Tales and stories of Enchantment from Ireland, Scotland, Brittany, and Wales](http://www.brooklinebooksmith-shop.com/book/9781452151755) by Kate Forrester - $22.95; [Mythic Creatures: And the Impossibly Real Animals Who Inspired Them](http://www.brooklinebooksmith-shop.com/book/9781454922193) by Dr. Mark A. Norell, Laurel Kendall, and Richard Ellis - $24.95
+\*Mermaid Mug, Seltzer - 14.95; Felt Fairy Ornaments, Homart - $9.95; Kei and Molly Silkscreened Dishtowel - $12.95; Danica Mug - $12.00; Mermaid Zipper Pouch, BlueQ - $6.95; Mermaid Shoulder Tote, BlueQ - $16.95; Mermaid Scarf, JCSunny - $16.95;[Celtic Tales: Fairy Tales and stories of Enchantment from Ireland, Scotland, Brittany, and Wales](http://www.brooklinebooksmith-shop.com/book/9781452151755) by Kate Forrester - $22.95; [Mythic Creatures: And the Impossibly Real Animals Who Inspired Them](http://www.brooklinebooksmith-shop.com/book/9781454922193) by Dr. Mark A. Norell, Laurel Kendall, and Richard Ellis - $24.95
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/anatomy-compressor---x----800-1023x---.jpg)
@@ -101,13 +102,13 @@ books:
 ![full-img](/uploads/versions/atlasobscura-compressor---x----800-1200x---.jpg)
 {: .present-before-paste}
 
-*Air Mail Zipper Pouch, BlueQ - $6.95; Travel Journal, Peter Pauper - $10.99; Large Book Box - $24.00; World Map Scarf, Two's Company - $14.00; Bag Tags 2pc, Girl of All Work - $12.95; Air Portfolio Passport Cover, Flight 001 - $15.95;[Map Stories: The Art of Discovery](http://www.brooklinebooksmith-shop.com/book/9781781573778) by Francisca Matteoli - $29.99; [Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders](http://www.brooklinebooksmith-shop.com/book/9780761169086) by Joshua Foer, Dylan Thuras, and Ella Morton - $35
+\*Air Mail Zipper Pouch, BlueQ - $6.95; Travel Journal, Peter Pauper - $10.99; Large Book Box - $24.00; World Map Scarf, Two's Company - $14.00; Bag Tags 2pc, Girl of All Work - $12.95; Air Portfolio Passport Cover, Flight 001 - $15.95;[Map Stories: The Art of Discovery](http://www.brooklinebooksmith-shop.com/book/9781781573778) by Francisca Matteoli - $29.99; [Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders](http://www.brooklinebooksmith-shop.com/book/9780761169086) by Joshua Foer, Dylan Thuras, and Ella Morton - $35
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/monocleguidetodrinking-compressor---x----800-663x---.jpg)
 {: .present-before-paste}
 
-*Massachusetts Laser Cut Bottle Opener - $10.95; Cast Iron Bottle Opener - $12.00; Luchador Bottle Opener - $7.95; Day of the Dead Corkscrew - $24; Bottled Up Decanter - $22.00; Waiter's Friend Corkscrew - $14.95;[The Monocle Guide to Drinking an Dining](http://www.brooklinebooksmith-shop.com/book/9783899556681) by Monocle - $60
+\*Massachusetts Laser Cut Bottle Opener - $10.95; Cast Iron Bottle Opener - $12.00; Luchador Bottle Opener - $7.95; Day of the Dead Corkscrew - $24; Bottled Up Decanter - $22.00; Waiter's Friend Corkscrew - $14.95;[The Monocle Guide to Drinking an Dining](http://www.brooklinebooksmith-shop.com/book/9783899556681) by Monocle - $60
 {: .present-before-paste}
 
 ![full-img](/uploads/versions/graces-compressor---x----800-904x---.jpg)
@@ -119,5 +120,5 @@ books:
 ![full-img](/uploads/versions/newenglandkitchen-compressor---x----800-958x---.jpg)
 {: .present-before-paste}
 
-*Boston Tea Towel by Gooseberry Designs - $16; Bamboo Massachusetts Cutting Board - $24.00; Massachusetts Wine Stopper- $12.00; Lantern Press Boston Coasters - $5.95; Boston Baked Beans - $8.95; Boston Tea Towel by Maptote - $16.95; [The New England Kitchen: Fresh Takes on Seasonal Recipes](http://www.brooklinebooksmith-shop.com/book/9780789327475) by Jeremy Sewall - $39.95
+\*Boston Tea Towel by Gooseberry Designs - $16; Bamboo Massachusetts Cutting Board - $24.00; Massachusetts Wine Stopper- $12.00; Lantern Press Boston Coasters - $5.95; Boston Baked Beans - $8.95; Boston Tea Towel by Maptote - $16.95; [The New England Kitchen: Fresh Takes on Seasonal Recipes](http://www.brooklinebooksmith-shop.com/book/9780789327475) by Jeremy Sewall - $39.95
 {: .present-before-paste}
