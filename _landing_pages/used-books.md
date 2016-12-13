@@ -1,7 +1,7 @@
 ---
 title: Used Book Cellar
 related_used-books:
-  - test-1
+  - curious-george-first-edition
   - the-sun-also-rises-1926
 featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
