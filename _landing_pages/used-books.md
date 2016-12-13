@@ -13,6 +13,14 @@ description: "Buying Hours: \n**Wednesday through Saturday 10am-4pm**\n\nNo appo
 
 Since 2004, the Used Book Cellar, located in the basement of Brookline Booksmith, has been Boston’s best-kept secret. With over 25,000 books in our inventory, you’re guaranteed to find something to pique your interest. Whether you’re looking for a good mystery to get you through the commute home, a picture book for your family story time, or some hard-hitting cultural analysis, there’s always a good reason to stop by!
 
+[Read More &#65516;](#how-does-it-work)
+
+---
+
+{% include related-books-with-description.html %}
+
+---
+
 ### How does it work?
 
 Bring your books to the desk in the Used Book Cellar anytime during our buying hours (Wed-Sat from 10am-4pm) and our experienced buyers will go through them. We’ll tally the original price of the books we buy and give you either 15% of that total in cash (check if over $50) or 20% in store credit. You are welcome to browse the stacks while we go through your books.

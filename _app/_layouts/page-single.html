@@ -24,6 +24,11 @@ regenerate: true
         </a>
       {% endfor %}
     {% endif %}
+    {% if page.featured_image_credit %}
+      <div class="caption cf w-100 f6 mt3">
+        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
   </aside>
 
   <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
@@ -38,7 +43,7 @@ regenerate: true
       {% include _format-article.html %}
     {% endif %}
 
-    {% include related-books-with-description.html %}
+
 
   </article>
 
@@ -48,11 +53,6 @@ regenerate: true
         {% include {{ page.include_description }} %}
     {% endif %}
       &nbsp;
-    {% if page.featured_image_credit %}
-      <div class="caption cf w-100 f6">
-        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
-      </div>
-    {% endif %}
   </aside>
 
 </div>
