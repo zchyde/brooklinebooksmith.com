@@ -1,7 +1,7 @@
 ---
 title: Used Book Cellar
 related_used-books:
-  - test-1
+  - curious-george-first-edition
   - the-sun-also-rises-1926
 featured_image_path: /uploads/banner-used-book-cellar_wr16x9.jpg
 featured_image_position: 50
@@ -12,6 +12,14 @@ description: "Buying Hours: \n**Wednesday through Saturday 10am-4pm**\n\nNo appo
 
 
 Since 2004, the Used Book Cellar, located in the basement of Brookline Booksmith, has been Boston’s best-kept secret. With over 25,000 books in our inventory, you’re guaranteed to find something to pique your interest. Whether you’re looking for a good mystery to get you through the commute home, a picture book for your family story time, or some hard-hitting cultural analysis, there’s always a good reason to stop by!
+
+[Read More &#65516;](#how-does-it-work)
+
+---
+
+{% include related-books-with-description.html %}
+
+---
 
 ### How does it work?
 
