@@ -4,7 +4,7 @@ published: true
 start_at: 2017-01-31 19:00:00
 image_path:
 book_category:
-program: childrens-story-time
+program:
 ticketed: false
 test:
 book_isbn:
