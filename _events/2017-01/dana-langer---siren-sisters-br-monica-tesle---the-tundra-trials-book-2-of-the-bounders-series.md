@@ -5,7 +5,7 @@ start_at: 2017-01-08 14:00:00
 image_path:
 category: kidsmith
 book_category:
-program: childrens-story-time
+program:
 ticketed: false
 test:
 book_isbn:
