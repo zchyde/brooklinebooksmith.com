@@ -3,6 +3,7 @@ title: "**Children's Storytime**"
 published: true
 start_at: 2017-01-15 10:30:00
 image_path:
+category: kidsmith
 book_category:
 program: childrens-story-time
 ticketed: false

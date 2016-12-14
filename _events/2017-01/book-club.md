@@ -3,6 +3,7 @@ title: '**Book Club**'
 published: true
 start_at: 2017-01-09 19:30:00
 image_path:
+category:
 book_category:
 program: book-club
 ticketed: false

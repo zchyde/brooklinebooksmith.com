@@ -3,6 +3,7 @@ title: '**Jason Diamond  in conversation with Isaac Fitzgerald (and a screening 
 published: true
 start_at: 2017-01-12 19:00:00
 image_path:
+category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false

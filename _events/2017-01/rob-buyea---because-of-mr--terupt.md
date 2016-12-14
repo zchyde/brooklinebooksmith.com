@@ -3,6 +3,7 @@ title: '**Between The Lines Book Club**'
 published: true
 start_at: 2017-01-10 16:30:00
 image_path:
+category:
 book_category:
 program: between-the-lines-book-club
 ticketed: false

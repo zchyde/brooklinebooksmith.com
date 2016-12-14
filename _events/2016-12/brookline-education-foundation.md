@@ -3,6 +3,7 @@ title: '**Brookline Education Foundation** - *What Have I Learned? Eighteen  Tea
 published: true
 start_at: 2016-12-08 19:30:00
 image_path:
+category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false

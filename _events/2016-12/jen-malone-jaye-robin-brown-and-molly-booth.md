@@ -3,8 +3,8 @@ title: 'Jen Malone, Jaye Robin Brown and Molly Booth'
 published: true
 start_at: 2016-12-02 19:00:00
 image_path:
+category:
 book_category:
-post_categories:
 program: '-writers-and-readers'
 ticketed: false
 test:
