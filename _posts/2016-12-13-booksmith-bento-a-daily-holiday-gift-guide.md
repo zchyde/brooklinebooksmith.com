@@ -16,11 +16,11 @@ books:
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en), for new ideas every day!
 
-![](/uploads/versions/allblackcats1-compressor---x----800-1200x---.jpg)
+![full-img](/uploads/versions/allblackcats1-compressor---x----800-1200x---.jpg)
 
 Mighty Wallet - $15; Danica Studios Large Mug - $12; I'm Not Bossy Soap, BlueQ - $4.95; Here Kitty Zipper Pouch - $6.95;[&nbsp;All Black Cats Are Not Alike](http://www.brooklinebooksmith-shop.com/book/9781452158716) by Amy Goldwasser and Peter Arkle - $15.95
 
-![](/uploads/versions/scandinaviadreaming-compressor---x----800-533x---.jpg)
+![full-img](/uploads/versions/scandinaviadreaming-compressor---x----800-533x---.jpg)
 
 Cotton Blanket by Rym - $68; Porcelain Pattern Teacups - $15.95; Sponge Cloth Dishtowel by Kei & Molly - $6.95; Wood Inlay 4"x4" Frame - $22;&nbsp;[Scandinavia Dreaming: Nordic Homes, Interiors and Design](http://www.brooklinebooksmith-shop.com/book/9783899556704) by Angel Trinidad - $60
 
