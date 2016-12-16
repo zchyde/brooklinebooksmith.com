@@ -1,4 +1,4 @@
-{% for cat in site.post_categories  %}
+{% for cat in site.post_category  %}
   {% if cat.landing_page %}
     {% assign landing_page_url = site.landing_pages | where: 'slug', cat.landing_page | first %}
     {% assign url = landing_page_url.url %}
