@@ -7,9 +7,7 @@ category:
 book_category:
 program: breakwater-reading-series
 ticketed: false
-test:
-book_isbn:
-  -
+related_books:
 ---
 
 

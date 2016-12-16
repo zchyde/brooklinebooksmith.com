@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9781501141096'
+related_books:
+  - a-woman-looking-at-men-looking-at-women-essays-on-art-sex-and-the-mind
 ---
 
 

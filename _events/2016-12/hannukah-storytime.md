@@ -8,9 +8,7 @@ book_category:
 category: kidsmith
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  -
+related_books:
 ---
 
 

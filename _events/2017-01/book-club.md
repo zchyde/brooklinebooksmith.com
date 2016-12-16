@@ -7,9 +7,8 @@ category:
 book_category:
 program: book-club
 ticketed: false
-test:
-book_isbn:
-  - '9781101872079'
+related_books:
+  - last-things
 ---
 
 

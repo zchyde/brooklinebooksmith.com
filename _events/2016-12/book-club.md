@@ -7,7 +7,7 @@ category:
 book_category:
 program: book-club
 ticketed: false
-test:
+related_books:
 book_isbn:
   -
 ---

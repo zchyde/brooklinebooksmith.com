@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9781501143199'
+related_books:
+  - the-river-at-night
 ---
 
 

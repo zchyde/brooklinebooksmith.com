@@ -7,9 +7,7 @@ category: kidsmith
 book_category:
 program: childrens-story-time
 ticketed: false
-test:
-book_isbn:
-  -
+related_books:
 ---
 
 

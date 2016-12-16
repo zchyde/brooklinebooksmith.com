@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9781580934558'
+related_books:
+  - shoot-what-you-love-tips-and-tales-from-a-working-photographer
 ---
 
 

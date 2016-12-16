@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - wegothim
+related_books:
+  - we-got-him
 ---
 
 

@@ -7,11 +7,10 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9781484752746'
-  - '9780062380159'
-  - '9780062270986'
+related_books:
+  - saving-hamlet
+  - wanderlost
+  - georgia-peaches-and-other-forbidden-fruit
 ---
 
 

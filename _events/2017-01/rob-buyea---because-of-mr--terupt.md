@@ -7,9 +7,8 @@ category:
 book_category:
 program: between-the-lines-book-club
 ticketed: false
-test:
-book_isbn:
-  - '9780375858246'
+related_books:
+  - because-of-mr--terupt
 ---
 
 

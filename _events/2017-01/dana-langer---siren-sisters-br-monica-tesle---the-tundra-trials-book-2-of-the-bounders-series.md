@@ -7,10 +7,9 @@ category: kidsmith
 book_category:
 program:
 ticketed: false
-test:
-book_isbn:
-  - '9781481466868'
-  - '9781481445962'
+related_books:
+  - siren-sisters
+  - the-tundra-trials
 ---
 
 

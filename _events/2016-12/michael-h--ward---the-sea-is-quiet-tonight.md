@@ -1,7 +1,7 @@
 ---
 title: '**Michael H. Ward** -  *The Sea is Quiet Tonight*'
 published: true
-start_at: 2017-12-01 19:00:00
+start_at: 2016-12-01 19:00:00
 image_path:
 category:
 book_category:
@@ -9,8 +9,6 @@ program: '-writers-and-readers'
 ticketed: false
 related_books:
   - the-sea-is-quiet-tonight-a-memoir
-book_isbn:
-  - '9780996710336'
 ---
 
 

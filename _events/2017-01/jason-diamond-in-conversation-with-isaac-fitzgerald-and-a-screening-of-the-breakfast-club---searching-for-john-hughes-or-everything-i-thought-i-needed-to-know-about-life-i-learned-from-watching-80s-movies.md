@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9780062424839'
+related_books:
+  - searching-for-john-hughes-or-everything-i-thought-i-needed-to-know-about-life-i-learned-from-watching-80s-movies
 ---
 
 

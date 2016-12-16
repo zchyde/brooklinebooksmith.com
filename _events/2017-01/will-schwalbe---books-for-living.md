@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9780385353540'
+related_books:
+  - books-for-living
 ---
 
 

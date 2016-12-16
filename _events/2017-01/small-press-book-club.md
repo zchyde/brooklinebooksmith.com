@@ -7,9 +7,8 @@ category:
 book_category:
 program: small-press-book-club
 ticketed: false
-test:
-book_isbn:
-  - '9781937402983'
+related_books:
+  - what-becomes-us
 ---
 
 

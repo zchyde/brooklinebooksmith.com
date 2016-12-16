@@ -7,9 +7,7 @@ category:
 book_category:
 program:
 ticketed: false
-test:
-book_isbn:
-  -
+related_books:
 ---
 
 

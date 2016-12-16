@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9780062427021'
+related_books:
+  - her-every-fear
 ---
 
 

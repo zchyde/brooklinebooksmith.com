@@ -7,9 +7,8 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
-book_isbn:
-  - '9781530381135'
+related_books:
+ - what-have-i-learned-eighteen-teachers-reflect-on-teaching-and-the-wisdom-theyve-gained-along-the-way
 ---
 
 

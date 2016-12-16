@@ -7,9 +7,7 @@ category:
 book_category:
 program: between-the-lines-book-club
 ticketed: false
-test:
-book_isbn:
-  -
+related_books:
 ---
 
 

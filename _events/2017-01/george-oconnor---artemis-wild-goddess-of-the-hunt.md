@@ -7,9 +7,8 @@ category:
 book_category:
 program:
 ticketed: false
-test:
-book_isbn:
-  - '9781626725225'
+related_books:
+  - artemis-wild-goddess-of-the-hunt
 ---
 
 

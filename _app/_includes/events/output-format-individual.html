@@ -17,7 +17,7 @@
     {% endcase %} {{ page.start_at | date: " %I:%M %p" | replace: ' 0', '' | downcase}}
   {% endcapture %}
 {% capture event_title %}{{ page.title }}{% endcapture %}
-{% assign related_books_isbn = page.book_isbn %}
+{% assign related_books_isbn = page.book_isbn or related_books = page.related_books %}
 <div class="card event" id="event-{{count}}">
   <div class="card-header">
     <div class="flagged">
@@ -59,29 +59,35 @@
         <img class="image-small" src="{{ page.image_path }}" alt="{{ event_title | markdownify | strip_html | escape }} image" />
       </div>
     {% endif %}
-    {% if related_books_isbn !='' and related_books_isbn.size > 0 %}
-    {% assign image_classes = 'inline-block lg-left'  %}
+    {% if related_books !='' or related_books_isbn.size > 0 %}
+      {% assign image_classes = 'inline-block lg-left'  %}
       <div class="lg-left lg-mr2">
-        {% for isbn in related_books_isbn %}
-          {% if isbn != '' %}
-            {% assign related_books = site.books | where: 'isbn', isbn %}
-            {% for book in related_books %}
-              {% if book.image_path %}
-              {% assign image_path =  book.image_path %}
-                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="{{ image_classes }}" src="{{ image_path }}" alt="Book cover image_path{{ the_isbn }}" />
-                </a>
-              {% elsif book.isbn %}
-                {% capture image_path %}{{ site.images_domain }}/{{ book.isbn }}.jpg{% endcapture %}
-                <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
-                  <img class="{{ image_classes }}" src="{{ image_path }}" alt="Book Cover {{ the_isbn }} image_cdn" />
-                </a>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
+        {% comment %}<!-- TODO: this section: related_books_isbn can be deleted in the future when we are no longer displaying events that use ISBN for related books-->{% endcomment %}
+        {% if related_books_isbn %}
+          {% for isbn in related_books_isbn %}
+            {% if isbn != '' %}
+              {% assign related_books = site.books | where: 'isbn', isbn %}
+              {% for book in related_books %}
+                {% if book.image_path %}
+                {% assign image_path =  book.image_path %}
+                  <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
+                    <img class="{{ image_classes }}" src="{{ image_path }}" alt="Book cover image_path{{ the_isbn }}" />
+                  </a>
+                {% elsif book.isbn %}
+                  {% capture image_path %}{{ site.images_domain }}/{{ book.isbn }}.jpg{% endcapture %}
+                  <a href="{{ site.shop_domain }}/book/{{ book.isbn }}" target="_blank">
+                    <img class="{{ image_classes }}" src="{{ image_path }}" alt="Book Cover {{ the_isbn }} image_cdn" />
+                  </a>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          {% assign related_books = page.related_books %}
+            {% include events/event-images-individual.html %}
+        {% endif %}
+
       </div>
-      {% else %}
     {% endif %}
 
     {% if page.content %}

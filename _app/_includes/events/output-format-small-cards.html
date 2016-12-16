@@ -1,4 +1,4 @@
-{% assign related_books_isbn = object.book_isbn %}
+{% assign related_books = object.related_books %}
 <div class="relative card event col col-12 sm-col-12 md-col-4 lg-col-3 bg-white border border-silver rounded mb2" id="event-{{count}}">
 
   <div class="card-header bg-primary-color text-on-primary-color h5 px2 py1 mb2">
@@ -22,7 +22,7 @@
       size, oddly, returns "8" where there is only one isbn (which is 13 digits)
     {% endcomment %}
     <div class="col col-12">
-       <!-- if related_books_isbn.size > 1 %} lg-col-4 else %} lg-col-3endif %} -->
+       
        {% include events/event-images.html %}
 
       {% if object.book_category or object.program %}
