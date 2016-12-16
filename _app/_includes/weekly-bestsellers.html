@@ -1,8 +1,9 @@
 {% assign bestsellers = page[include.type] %}
-{% assign cover_classes = 'fit col-12 pr2 m0' %}
 {% assign limit = include.limit %}
+{% assign cover_classes = 'fit col-12 pr2 m0' %}
+
 {% for book in bestsellers limit:limit %}
-  {% assign books = site.books | where: 'isbn', book %}
+  {% assign books = site.books | where: 'slug', book %}
   {% for object in books  %}
     {% if object.image_path and object.image_path != '' %}
       {% capture image %}{{ object.image_path }}{% endcapture %}
