@@ -1,0 +1,59 @@
+---
+layout: default
+regenerate: true
+---
+{% include hero.html %}
+{% assign slug = page.slug  %}
+{% assign related_blog_posts = site.posts | where: 'published', true | where_exp: 'item', 'item.categories contains page.category' %}
+{% assign box_classes = site.box_classes  %}
+
+<div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">
+  <aside class="lg-mt4 col-12 col md-col-3 lg-col-3">
+    {% if page.description  %}
+      <div class="h5 p2 col-12 rounded bg-primary-color near-white">
+        {{ page.description | markdownify }}
+      </div>
+    {% endif %}
+
+    {% if page.featured_image_credit %}
+      <div class="caption cf w-100 f6 mt3">
+        image credit: {{ page.featured_image_credit | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+  </aside>
+
+  <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
+    {% if page.staff %}
+      {% assign theauthor = site.staff | where: 'slug', page.staff[0] %}
+      <h4>by {{ theauthor[0].title }}</h4>
+    {% endif %}
+
+    {% if page.collection == 'events' %}
+      {% include events/output-format-individual.html %}
+    {% else %}
+      {% include _format-article.html %}
+    {% endif %}
+    {% if related_blog_posts.size > 0 %}
+      <h2 class="mt5">
+        Related
+      </h2>
+      <div class="clearfix mt3 flex flex-wrap">
+        {% for object in related_blog_posts limit: 5 %}
+          {% unless object.url == page.url  %}
+            <div class="mr1 mb2" style="width:32%;">
+              {% include components/card-image-top-bg.html classes=box_classes %}
+            </div>
+          {% endunless  %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </article>
+
+  <aside class="cf w-100  p2{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
+    {% if page.include_description %}
+        {% include {{ page.include_description }} %}
+    {% endif %}
+      &nbsp;
+  </aside>
+
+</div>
