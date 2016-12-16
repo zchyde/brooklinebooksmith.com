@@ -9,18 +9,18 @@ layout: kidsmith
 include_description: events/kids.html
 description: '[![twitter](/uploads/site/twitter@2x.png) Follow Kidsmith on Twitter](https://twitter.com/kidsmithbooks)'
 follow: true
-Kids:
-  - '9781419723445'
-  - '9780763656003'
-  - '9780399257742'
-  - '9781452150130'
-  - '9781481439787'
-  - '9780545873505'
-  - '9780544580145'
-  - '9780553513370'
-  - '9780545540629'
-  - '9780140564341'
-  - '9781419721373'
-  - '9780763678883'
+featured_kids_books:
+  - diary-of-a-wimpy-kid--11-double-down
+  - we-found-a-hat
+  - last-stop-on-market-street
+  - they-all-saw-a-cat
+  - the-night-gardener
+  - the-lion-inside
+  - polar-express-30th-anniversary-edition
+  - penguin-problems
+  - ghosts
+  - make-way-for-ducklings
+  - ada-twist-scientist
+  - the-princess-in-black
 regenerate: true
 ---
