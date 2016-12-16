@@ -116,8 +116,6 @@ collections:
     future: true
   books:
     output: false
-  used-books:
-    output: false
   weekly_bestsellers:
     output: false
     hide_content: true

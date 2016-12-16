@@ -1,7 +1,18 @@
 ---
 title: 'The Sun Also Rises, 1926'
-available: true
+published: true
+featured: false
+date: 2016-12-14 09:00:00
+description:
+featured_image_path: /uploads/img-2542-1.JPG
+featured_image_position: 50
 image_path: /uploads/img-2542-1.JPG
+show_featured_image_in_post: false
+fancy_font:
+category: first-edition-books
+book_available: true
+staff:
+books:
 ---
 
 

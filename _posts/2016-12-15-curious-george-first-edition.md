@@ -1,9 +1,19 @@
 ---
 title: Curious George 1st Edition
-available: true
+published: true
+featured: false
+date: 2016-12-15 09:00:00
+description:
+featured_image_path: /uploads/cropped-george.jpg
+featured_image_position: 50
 image_path: /uploads/cropped-george.jpg
+show_featured_image_in_post: false
+fancy_font:
+category: first-edition-books
+book_available: true
+staff:
+books:
 ---
-
 
 ***Curious George*** by H. A. Rey // 1st Edition, 15th Printing, with dust jacket
 
