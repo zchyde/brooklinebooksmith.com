@@ -10,6 +10,7 @@ image_path: /uploads/cropped-george.jpg
 show_featured_image_in_post: false
 fancy_font:
 category: first-edition-books
+categories: first-edition-books
 book_available: true
 staff:
 books:
