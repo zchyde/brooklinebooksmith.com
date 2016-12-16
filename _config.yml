@@ -51,6 +51,7 @@ subscription_recurring_times:
 _comments:
   link_to_buy_page: "Only necessary if the buy page is not the BBS shop site."
   featured_image_path: Upload images to the Uploads directory
+  book_available: "For the first-edition-books category only"
 
 box_classes: 'border rounded border-silver hover-bg-orange hover-white bg-transition'
 ## DO NOT EDIT BELOW THIS LINE
