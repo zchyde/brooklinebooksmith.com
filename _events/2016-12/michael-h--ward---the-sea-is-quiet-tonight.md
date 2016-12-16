@@ -7,7 +7,7 @@ category:
 book_category:
 program: '-writers-and-readers'
 ticketed: false
-test:
+related_books:
 book_isbn:
   - '9780996710336'
 ---
