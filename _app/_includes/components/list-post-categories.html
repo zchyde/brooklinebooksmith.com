@@ -1,6 +1,11 @@
 {% for cat in site.post_categories  %}
-  {% capture slug %}/{{ page.slug }}/{% endcapture %}
-  <a href="{{ cat.url }}" class="btn btn-primary col-12f block sm-mb2 md-mb1 lg-mb1">
+  {% if cat.landing_page %}
+    {% assign landing_page_url = site.landing_pages | where: 'slug', cat.landing_page | first %}
+    {% assign url = landing_page_url.url %}
+  {% else %}
+    {% assign url = cat.url %}
+  {% endif %}
+  <a href="{{ url }}" class="btn btn-primary col-12f block sm-mb2 md-mb1 lg-mb1">
     {{ cat.title }}
   </a>
 {% endfor %}
