@@ -13,7 +13,7 @@ ol li {
   margin-bottom: 1.5em;
 }
 
-article.hentry img {
+.prose img {
   float: left;
   max-height: 15em;
   margin: .75em 1.5em .75em 0;

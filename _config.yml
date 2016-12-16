@@ -109,6 +109,10 @@ collections:
     output: true
     permalink: '/:collection/:path/'
     future: true
+  events-archive:
+    output: true
+    permalink: '/events/:path/'
+    future: true
   books:
     output: false
   used-books:
@@ -156,6 +160,11 @@ defaults:
   - scope:
       path: ''
       type: events
+    values:
+      layout: page-single
+  - scope:
+      path: ''
+      type: events-archive
     values:
       layout: page-single
   - scope:

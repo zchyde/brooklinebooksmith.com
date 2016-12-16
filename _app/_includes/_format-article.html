@@ -1,6 +1,8 @@
 <div class="entry-content">
+
   {% if page.image_path and page.image_path != '' %}
-    <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;width:100%;"/>
+    <img src="{{ page.image_path }}" alt="{{ page.title }} featured image" style="max-width:100%;" class="clearfix"/>
+
   {% endif %}
 
   {% if page.lede %}
@@ -13,11 +15,10 @@
     <img src="{{ page.featured_image_path }}" alt="{{ page.title }} Featured Image" style="max-width:100%;margin:bottom:2em;" />
   {% endif %}
 
+  <div class="prose">
+    {{ content }}
+  </div>
 
-      {{ content }}
-
-
-  
   {% if page.category %}
     <div class="cards">
       {% for object in category_posts %}
@@ -25,4 +26,5 @@
       {% endfor %}
     </div>
   {% endif %}
+
 </div>
