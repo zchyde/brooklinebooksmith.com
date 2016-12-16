@@ -4,7 +4,7 @@ regenerate: true
 ---
 {% include hero.html %}
 {% assign slug = page.slug  %}
-{% assign related_blog_posts = site.posts | where: 'published', true | where_exp: 'item', 'item.categories contains slug' %}
+{% assign related_blog_posts = site.posts | where: 'published', true | where_exp: 'item', 'item.categories contains page.category' %}
 {% assign box_classes = site.box_classes  %}
 
 <div class="content height-100 md-mx3 lg-mx3 mb4 clearfix">

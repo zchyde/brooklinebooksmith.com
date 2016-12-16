@@ -8,7 +8,7 @@ featured_image_path: /uploads/img_5115-compressor-1.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category: kidsmith
+category: kids-books
 staff:
   - carl
 books:

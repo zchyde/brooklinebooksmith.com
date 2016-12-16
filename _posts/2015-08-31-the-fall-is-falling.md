@@ -1,7 +1,7 @@
 ---
 title: 'The Fall Is Falling!'
 date: 2015-08-31T20:28:00.000Z
-category: kidsmith
+category: kids-books
 featured_image_path: /uploads/1441214423977_IMG_1046.jpg
 page_heading: 'Still time for some last-minute vacation reading!'
 staff: alex-s

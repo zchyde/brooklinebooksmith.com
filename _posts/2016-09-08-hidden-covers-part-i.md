@@ -8,7 +8,7 @@ featured_image_path: /uploads/detective-compressor.jpg
 featured_image_position: 25
 show_featured_image_in_post: false
 fancy_font:
-category: kidsmith
+category: kids-books
 staff:
   - alex-s
 related_books:

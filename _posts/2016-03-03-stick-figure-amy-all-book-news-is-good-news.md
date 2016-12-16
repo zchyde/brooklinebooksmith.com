@@ -8,7 +8,7 @@ featured_image_path: /uploads/book-news-amy.jpg
 featured_image_position: 50
 show_featured_image_in_post: true
 fancy_font: null
-category: kidsmith
+category: kids-books
 staff:
   - amy
 ---

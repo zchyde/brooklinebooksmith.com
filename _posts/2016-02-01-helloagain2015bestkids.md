@@ -8,7 +8,7 @@ featured_image_path: /uploads/img_2116_v2.jpg
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font: ''
-category: kidsmith
+category: kids-books
 staff: alex-s
 books:
   - ''

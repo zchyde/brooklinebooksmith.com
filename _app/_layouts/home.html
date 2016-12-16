@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign campaign = site.campaigns | where: 'show', true %}
 {% assign featured_posts = site.posts | where: 'featured', true %}
-{% assign posts = site.posts %}
+{% assign posts = site.posts | where_exp: 'item', 'item.category != "first-edition-books"' %}
 {% assign posts_limit = 5 %}
 {% assign page_events = site.events  %}
 {% include events/filter-events_upcoming.html %}
@@ -12,9 +12,9 @@ layout: default
 <div class="px3 col-12 my4 clearfix">
   <div class="col lg-col-9">
 
-<h3 class="h1 mt0 col-12">
-    Upcoming Events
-  </h3>
+    <h3 class="h1 mt0 col-12">
+      Upcoming Events
+    </h3>
 
     {% if campaign.size > 0 %}
       {% assign second_row_offset = '1' %}
@@ -35,8 +35,6 @@ layout: default
       {% assign second_row_limit = '8' %}
     {% endif %}
 
-
-
     <div class="col-12 flex flex-wrap md-pr2">
       {% for object in events_upcoming limit:second_row_limit offset:second_row_offset %}
         {% assign start_at =  object.start_at | date: "%A %b %-d - %I:%M %p" | replace: ' 0', '' | downcase %}
@@ -49,12 +47,8 @@ layout: default
         more events
       </a>
     </div>
+
   </div>
-
-
-
-
-
 
   <div class="col col-12 lg-col-3 bg-primary-color rounded">
     <h1 class="p2 m0 white">Latest Blog Posts</h1>
@@ -78,26 +72,13 @@ layout: default
 
 </div>
 
-
 <div class="px3 my4 clearfix">
-{% assign image_classes = 'inline-block sm-col md-col lg-col col-12 sm-col-4 md-col-2 lg-col-2 pb3'  %}
+  {% assign image_classes = 'inline-block sm-col md-col lg-col col-12 sm-col-4 md-col-2 lg-col-2 pb3'  %}
   <h3 class="h1 col-12">
     Weekly Bestsellers — Hardcover
   </h3>
   <div class="flex flex-wrap">
     {% include weekly-bestsellers.html type="featured_hardcover_books" image_classes=image_classes limit=7 %}
-    {% comment %}
-    <!--
-    assign weekly_bestsellers = site.weekly_bestsellers | where: 'slug', 'home-page' %}
-     for  item in weekly_bestsellers %}
-     assign hardcover_bestsellers = site.books | where: 'slug', item.featured_hardcover_books %}
-     for object in hardcover_bestsellers  %}
-      {{ object.title }}<br />
-    {% endfor %}
-    {% endfor %}
-  -->
-     {% endcomment %}
-
   </div>
 
   <h3 class="h1 col-12 mt3">
@@ -108,81 +89,3 @@ layout: default
   </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{% comment %}
-
-
-
-<div class="has-layout home">
-{% include _slideshow-new-arrivals.html type="Hardcover" %}
-<hr class="row" />
-{% include _slideshow-new-arrivals.html type="Paperback" %}
-</div>
-
-
-
-
-<h4 class="brand blocked">
-Latest from the Blog
-</h4>
-{% if featured_posts %}
-{% for object in featured_posts limit:1 %}
-{% include components/card-image-top.html %}
-{% endfor %}
-{% endif %}
-{% for object in posts limit:posts_limit %}
-{% unless object.featured == true %}
-{% include components/card-image-top.html %}
-{% endunless %}
-{% endfor %}
-
-
-
-
-
-
-
-
-
-<h4 class="brand blocked">
-Upcoming Events
-</h4>
-{% include events/list-future.html format_output="long" %}
-
-
-<a href="/events/">
-<button>
-More Events
-</button>
-</a>
-
-
-{% endcomment %}

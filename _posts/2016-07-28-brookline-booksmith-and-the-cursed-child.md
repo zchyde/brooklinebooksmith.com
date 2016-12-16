@@ -8,7 +8,7 @@ featured_image_path: /uploads/screen-shot-2015-10-23-at-4.31.13-pm-compressor.pn
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category: kidsmith
+category: kids-books
 staff:
   - alex-s
 related_books:

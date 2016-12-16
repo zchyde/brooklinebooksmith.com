@@ -2,12 +2,11 @@
 layout: listing
 ---
 
-{% assign posts = paginator.posts %}
-
-
+{% assign posts = paginator.posts | where_exp: 'item', 'item.category != "first-edition-books"' %}
 {% assign posts = posts | sort: 'date', 'last' | reverse  %}
 {% assign link_classes = 'block text-decoration-none hover-gray px2 py1 black hover-bg-black hover-white' %}
 {% assign box_classes = site.box_classes  %}
+
 <div class="sm-col md-col ld-col col-12 sm-col-10 md-col-10 lg-col-10 sm-px1 pb4" id="filter">
 
   <div class="px1 md-pr2 lg-pr2">
@@ -23,8 +22,8 @@ layout: listing
   </div>
 
   {% include components/pagination.html %}
-</div>
 
+</div>
 
 <div class="sm-col md-col lg-col col-12 sm-col-2 md-col-2 lg-col-2 px2 py4">
   {% include components/list-post-categories.html %}

@@ -8,7 +8,7 @@ featured_image_path: 'https://images-na.ssl-images-amazon.com/images/G/01/books/
 featured_image_position: 70
 show_featured_image_in_post: false
 fancy_font:
-category: kidsmith
+category: kids-books
 staff:
   - clarissa
 books:
