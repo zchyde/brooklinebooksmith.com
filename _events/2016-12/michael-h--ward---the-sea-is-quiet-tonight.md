@@ -8,6 +8,7 @@ book_category:
 program: '-writers-and-readers'
 ticketed: false
 related_books:
+  - the-sea-is-quiet-tonight-a-memoir
 book_isbn:
   - '9780996710336'
 ---
