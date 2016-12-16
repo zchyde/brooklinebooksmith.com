@@ -21,13 +21,7 @@ venues:
   - In-store
   - "Coolidge Corner Theater"
   - Other
-categories:
-  - ''
-  - kidsmith
-  - this-week-in-books
-  - Holiday-Gift-Guide
-  - Used-Book-Cellar
-  - Giftsmith
+
 bindings:
   - Hardcover
   - Paperback
@@ -125,7 +119,7 @@ collections:
   landing_pages:
     output: true
     permalink: '/:path/'
-  post_categories:
+  post_category:
     output: true
     permalink: '/:path/'
   campaigns:

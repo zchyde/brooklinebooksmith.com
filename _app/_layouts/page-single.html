@@ -42,6 +42,10 @@ regenerate: true
     {% else %}
       {% include _format-article.html %}
     {% endif %}
+    {% if page.related_books %}
+      {% include related-books-with-description.html %}
+    {% endif  %}
+
   </article>
 
   <aside class="cf w-100  p2{% if page.aside-bottom or page.include_description %} content-aside{% endif %}">
