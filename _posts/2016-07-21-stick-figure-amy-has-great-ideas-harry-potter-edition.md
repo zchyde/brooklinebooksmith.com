@@ -8,7 +8,7 @@ featured_image_path: /uploads/harry-potter-quotes-compressor.png
 featured_image_position: 50
 show_featured_image_in_post: true
 fancy_font:
-category: kids-books
+category: kidsmith
 staff:
   - amy
 related_books:

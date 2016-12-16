@@ -8,7 +8,7 @@ featured_image_path: /uploads/9781627792134.jpg
 featured_image_position: 100
 show_featured_image_in_post: false
 fancy_font:
-category: kids-books
+category: kidsmith
 staff:
   - alex-s
 related_books:

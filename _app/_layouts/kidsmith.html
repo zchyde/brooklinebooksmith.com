@@ -2,8 +2,8 @@
 layout: default
 ---
 {% assign campaign = site.campaigns | where: 'show', true %}
-{% assign featured_posts = site.posts | where: 'category', 'kids-books' | where: 'featured', true %}
-{% assign posts = site.posts | where: 'category', 'kids-books' %}
+{% assign featured_posts = site.posts | where: 'category', 'kidsmith' | where: 'featured', true %}
+{% assign posts = site.posts | where: 'category', 'kidsmith' %}
 {% assign posts_limit = 5 %}
 
 {% assign page_events = site.events | where: 'category', 'kidsmith' %}

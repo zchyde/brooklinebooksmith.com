@@ -8,7 +8,7 @@ featured_image_path: /uploads/pea_0001.png
 featured_image_position: 50
 show_featured_image_in_post: false
 fancy_font:
-category: kids-books
+category: kidsmith
 staff:
   - clarissa
 books:

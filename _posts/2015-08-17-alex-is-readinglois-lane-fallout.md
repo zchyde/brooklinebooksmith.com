@@ -1,7 +1,7 @@
 ---
 title: 'Alex Is Reading...LOIS LANE: FALLOUT'
 date: 2015-08-17T20:29:00.000Z
-category: kids-books
+category: kidsmith
 featured_image_path: /uploads/1444597535074_cover-lois-lane-fallout.jpg
 ---
 

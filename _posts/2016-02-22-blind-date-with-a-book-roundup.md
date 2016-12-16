@@ -8,7 +8,7 @@ featured_image_path: /uploads/blinddate_banner.jpg
 featured_image_position: 0
 show_featured_image_in_post: false
 fancy_font: ''
-category: kids-books
+category: kidsmith
 staff: clarissa
 books:
   - ''
