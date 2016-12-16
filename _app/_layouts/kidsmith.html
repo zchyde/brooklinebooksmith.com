@@ -6,7 +6,7 @@ layout: default
 {% assign posts = site.posts | where: 'category', 'kidsmith' %}
 {% assign posts_limit = 5 %}
 
-{% assign page_events = site.events | where: 'program', 'childrens-story-time'  %}
+{% assign page_events = site.events | where: 'category', 'kidsmith' %}
 {% include events/filter-events_upcoming.html %}
 
 {% include hero.html %}

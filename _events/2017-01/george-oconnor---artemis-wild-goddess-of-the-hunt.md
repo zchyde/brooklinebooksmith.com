@@ -3,6 +3,7 @@ title: '**George O’Connor** - *Artemis: Wild Goddess of the Hunt*'
 published: true
 start_at: 2017-01-31 19:00:00
 image_path:
+category:
 book_category:
 program:
 ticketed: false
