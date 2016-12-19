@@ -10,6 +10,9 @@ featured_kids_books:
   - the-princess-in-black
   - make-way-for-ducklings
   - the-very-hungry-caterpillar
+  - the-giving-tree
+  - what-do-you-do-with-a-problem
+  - home-»-the-way-things-work-now-hardcover-the-way-things-work-now
 featured_image_path: /uploads/1442843154579_boy-reading.jpg
 featured_image_position: 21
 featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
