@@ -16,6 +16,10 @@ books:
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en), for new ideas every day!
 
+![](/uploads/versions/yourcabin-compressor---x----800-1200x---.jpg)
+
+Duke Cannon Bar Soap - $8.95; Duke Cannon Beard Oil - $30; Motel Keychain -6.95; All Man Gentleman's Soap, Grain & Root - $12.95; FuwaFuwa Large Blanket - $24.95; 12oz Mason Jar Candles - $18; Stainless Steel Food Flask - $34; Scott & Lawson Multi-tool - $22;&nbsp;[Your Cabin In the Woods by Conrad E. Meinecke and Victor Aures](http://www.brooklinebooksmith-shop.com/book/9780316395502) - $19.99
+
 ![](/uploads/versions/-mg-5506-compressor---x----973-648x---.jpg)
 
 Pocket Magic Tricks - $5.00; Harry Potter Tie - $52.00; Crazy Aaron's Putty - $15.95; Harry Potter Cufflinks set - $65.00;&nbsp;[Harry Potter and the Chamber of Secrets: The Illustrated Edition](http://www.brooklinebooksmith-shop.com/book/9780545791328) - $39.99
