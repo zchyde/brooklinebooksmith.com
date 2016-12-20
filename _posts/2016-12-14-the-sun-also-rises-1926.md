@@ -27,4 +27,7 @@ Status: Available
 ![](/uploads/versions/img-2549---x----480-640x---.JPG)
 
 ![](/uploads/versions/img-2544---x----480-640x---.JPG)![](/uploads/versions/img-2541---x----480-640x---.JPG)![](/uploads/versions/img-2542---x----508-640x---.JPG)![](/uploads/versions/img-2543---x----640-426x---.JPG)
-<br>To purchase call Brookline Booksmith at 617-566-6660 or visit 279 Harvard St. Brookline, MA.
+
+---
+
+To purchase call Brookline Booksmith at 617-566-6660 or visit 279 Harvard St. Brookline, MA.
