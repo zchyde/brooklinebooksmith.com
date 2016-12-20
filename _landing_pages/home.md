@@ -8,6 +8,7 @@ featured_hardcover_books:
   - the-undoing-project-a-friendship-that-changed-our-minds
   - moonglow
   - rad-women-worldwide-artists-and-athletes-pirates-and-punks-and-other-revolutionaries-who-shaped-history
+  - born-a-crime-stories-from-a-south-african-childhood
 featured_paperback_books:
   - prisoners-of-geography-ten-maps-that-explain-everything-about-the-world
   - the-u-s--constitution-and-fascinating-facts-about-it
