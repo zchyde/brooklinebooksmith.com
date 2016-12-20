@@ -16,6 +16,10 @@ books:
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en), for new ideas every day!
 
+![full-img](/uploads/versions/-mg-5498-compressor---x----586-648x---.jpg)
+
+Handmade Fleece Mittens - $30.00; Felt Frontier Fox Ornament - $10.95; Screen printed Banner - $12.95;&nbsp;[The Wolves of Currumpaw](http://www.brooklinebooksmith-shop.com/book/9781909263833) by William Grill - $24.00
+
 ![full-img](/uploads/versions/frenchcountrycooking-compressor---x----800-1040x---.jpg)
 
 Natural Olive Wood 3 Section Tray - $26; Stoneware Sugar Bowl - $12.95; Stoneware Creamer - $12; Kei & Molly Silk Screened Dishtowel - $12.95; Designer Oven Mitt - $9.95; Floral Handpainted Tin Tray by Karma Living - $29.95;&nbsp;[French Country Cooking: Meals and Moments from a Village in the Vineyards](http://www.brooklinebooksmith-shop.com/book/9780553459586) by Mimi Thorisson - $40
