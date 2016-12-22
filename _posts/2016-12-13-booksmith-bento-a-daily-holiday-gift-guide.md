@@ -16,6 +16,10 @@ books:
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en), for new ideas every day!
 
+![full-img](/uploads/versions/companyofwomen1-compressor---x----800-851x---.jpg)
+
+Hey Girl Hey Soap, BlueQ - $4.95; Emily McDowell Mug - $16.95; Soul Sister Soap, BlueQ - $4.95; Secular Saints Candle, Unemployed Philosopher - $12.95; Women's Ankle Socks, BlueQ - $9.95; Color Dipped Canvas Pouch, About Face - $16; About Face Mug - $12.00;&nbsp;[In the Company of Women: Inspiration and Advice from Over 100 Makers, Artists, and Entrepreneurs](http://www.brooklinebooksmith-shop.com/book/9781579655976) by Grace Bonney - $35
+
 ![full-img](/uploads/versions/curatedcloset-compressor-1---x----800-829x---.jpg)
 
 Paisley Ombre Scarf - $18.95; Wool Touchscreen Gloves by Shireen - $26.95; Colorblock Touchscreen Gloves by Verloop - $28; Enamel Flower Stones Bracelet by Kole - $28; Oval Stone Necklace - $22.95; Wood Bead Stretch Bracelet by Jane Marie - $16.95; Mosaic Embroidered Wallet by Lavishy - $26;&nbsp;[The Curated Closet: A Simple System for Discovering Your Personal Style and Building Your Dream Wardrobe](http://www.brooklinebooksmith-shop.com/book/9781607749486) by Anuschka Rees - $24.99; [The Art of the Scarf: From Classic Knots and Chic Neckties, to Stylish Turbans, Makeshift Bags, and More](http://www.brooklinebooksmith-shop.com/book/9781784880583) by Libby VanderPLoeg - $14.99
