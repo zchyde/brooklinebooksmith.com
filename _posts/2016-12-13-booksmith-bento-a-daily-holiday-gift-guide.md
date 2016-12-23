@@ -16,6 +16,10 @@ books:
 
 Need some gift buying inspiration? Our book buyers and gift buyers have pulled ingredients from every corner of the Booksmith pantry to offer you a full menu of bento box gift arrangements. Check this space, or our [#bookmsithbento](https://www.instagram.com/explore/tags/booksmithbento/?hl=en), for new ideas every day!
 
+![full-img](/uploads/versions/polska-compressor---x----800-666x---.jpg)
+
+Bandana 18oz Mug - $12.95; Stamped Print Bowl - $9.95; Folklore Dishtowels - $14.95; Sponge Cloth Dishtowel by Kei & Molly - $6.95; Designer Oven Mitt by Mu - $9.95;[&nbsp;Polska: New Polish Cooking](http://www.brooklinebooksmith-shop.com/book/9781849497268) by Zuza Zak -$35
+
 ![full-img](/uploads/versions/companyofwomen1-compressor---x----800-851x---.jpg)
 
 Hey Girl Hey Soap, BlueQ - $4.95; Emily McDowell Mug - $16.95; Soul Sister Soap, BlueQ - $4.95; Secular Saints Candle, Unemployed Philosopher - $12.95; Women's Ankle Socks, BlueQ - $9.95; Color Dipped Canvas Pouch, About Face - $16; About Face Mug - $12.00;&nbsp;[In the Company of Women: Inspiration and Advice from Over 100 Makers, Artists, and Entrepreneurs](http://www.brooklinebooksmith-shop.com/book/9781579655976) by Grace Bonney - $35
