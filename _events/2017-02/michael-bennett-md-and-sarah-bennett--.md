@@ -1,5 +1,5 @@
 ---
-title: '**Michael Bennett, MD and Sarah Bennett** - *F*ck Love*'
+title: '**Michael Bennett, MD and Sarah Bennett** - *F * ck Love*'
 published: true
 start_at: 2017-02-07 19:00:00
 image_path:
