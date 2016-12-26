@@ -1,10 +1,13 @@
 ---
 title: '**Kids Storytime**'
-published: false
-start_at: 2016-01-15 09:00:00
+published: true
+start_at: 2017-02-04 22:30:00
 image_path:
 book_category:
-program: '-writers-and-readers'
+program: childrens-story-time
 ticketed: false
 related_books:
 ---
+
+
+Do you love picture books? Join us in our children’s section every first Saturday and third Sunday of the month for drop-in storytime!
