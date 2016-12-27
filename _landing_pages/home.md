@@ -14,6 +14,8 @@ featured_paperback_books:
   - sellout
   - the-road-to-little-dribbling-adventures-of-an-american-in-britain
   - black-panther-book-1-a-nation-under-our-feet
+  - yuge-30-years-of-doonesbury-on-trump
+  - hidden-figures-the-american-dream-and-the-untold-story-of-the-black-women-mathematicians-who-helped-win-the-space-race
 hide_title_over_banner: true
 ---
 
