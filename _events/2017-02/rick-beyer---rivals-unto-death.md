@@ -11,4 +11,4 @@ related_books:
 ---
 
 
-<br>From the bestselling author of* The Greatest Stories Never Told* series comes* Rivals Unto Death*, Rick Beyer's historical account of Alexander Hamilton and Aaron Burr's three-decade relationship – from their illustrious and eccentric political careers to their fateful and now infamous duel.
+<br>From the bestselling author of&nbsp;*The Greatest Stories Never Told*&nbsp;series comes&nbsp;*Rivals Unto Death*, Rick Beyer's historical account of Alexander Hamilton and Aaron Burr's three-decade relationship – from their illustrious and eccentric political careers to their fateful and now infamous duel.
