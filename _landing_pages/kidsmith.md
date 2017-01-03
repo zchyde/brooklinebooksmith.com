@@ -1,18 +1,15 @@
 ---
 title: Kidsmith
 featured_kids_books:
-  - ada-twist-scientist
   - diary-of-a-wimpy-kid--11-double-down
-  - they-all-saw-a-cat
-  - polar-express-30th-anniversary-edition
-  - we-found-a-hat
-  - the-inquisitors-tale-or-the-three-magical-children-and-their-holy-dog
-  - the-princess-in-black
-  - make-way-for-ducklings
-  - the-very-hungry-caterpillar
-  - the-giving-tree
+  - ghosts
+  - harold-and-the-purple-crayon
   - what-do-you-do-with-a-problem
-  - home-»-the-way-things-work-now-hardcover-the-way-things-work-now
+  - sticker-dolly-dressing-ice-skaters
+  - shh-we-have-a-plan
+  - make-way-for-ducklings
+  - we-found-a-hat
+  - dork-diaries-11-tales-from-a-not-so-friendly-frenemy
 featured_image_path: /uploads/1442843154579_boy-reading.jpg
 featured_image_position: 21
 featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
