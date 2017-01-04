@@ -10,6 +10,9 @@ featured_kids_books:
   - make-way-for-ducklings
   - we-found-a-hat
   - dork-diaries-11-tales-from-a-not-so-friendly-frenemy
+  - talons-of-power-wings-of-fire-book-9
+  - pokemon-legendary-sticker-collection-regional-pass
+  - the-lost-house-a-seek-and-find-book
 featured_image_path: /uploads/1442843154579_boy-reading.jpg
 featured_image_position: 21
 featured_image_credit: '[Tim Pierce](https://www.flickr.com/photos/qwrrty/)'
