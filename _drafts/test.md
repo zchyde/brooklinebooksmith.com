@@ -12,4 +12,7 @@ category:
 book_available: false
 staff:
 related_books:
+  - ghosts
 ---
+
+
