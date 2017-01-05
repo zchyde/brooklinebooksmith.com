@@ -8,7 +8,7 @@ featured_hardcover_books:
   - the-undoing-project-a-friendship-that-changed-our-minds
   - the-hidden-life-of-trees-what-they-feel-how-they-communicate--discoveries-from-a-secret-world
   - swing-time
-  - the-underground-railroad-national-book-award-winner
+  - our-revolution-a-future-to-believe-in
 featured_paperback_books:
   - the-u-s--constitution-and-fascinating-facts-about-it
   - sellout
