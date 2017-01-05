@@ -6,16 +6,15 @@ featured_hardcover_books:
   - the-underground-railroad
   - hillbilly-elegy-a-memoir-of-a-family-and-culture-in-crisis
   - the-undoing-project-a-friendship-that-changed-our-minds
-  - moonglow
-  - born-a-crime-stories-from-a-south-african-childhood
-  - our-revolution-a-future-to-believe-in
+  - the-hidden-life-of-trees-what-they-feel-how-they-communicate--discoveries-from-a-secret-world
+  - swing-time
 featured_paperback_books:
   - the-u-s--constitution-and-fascinating-facts-about-it
   - sellout
-  - the-road-to-little-dribbling-adventures-of-an-american-in-britain
+  - my-name-is-lucy-barton
+  - the-vegetarian
+  - the-association-of-small-bombs
   - black-panther-book-1-a-nation-under-our-feet
-  - yuge-30-years-of-doonesbury-on-trump
-  - hidden-figures-the-american-dream-and-the-untold-story-of-the-black-women-mathematicians-who-helped-win-the-space-race
 hide_title_over_banner: true
 ---
 
