@@ -1,5 +1,9 @@
   <hr />
-  <h2>We Recommend</h2>
+  {% unless page.collection == 'posts'  %}
+    <h2>
+      We Recommend
+    </h2>
+  {% endunless  %}
   <div class="flex flex-wrap">
     {% for object in page.related_books %}
       {% assign book = site.books | where: 'slug', object | first %}

@@ -25,7 +25,9 @@ regenerate: true
   <article class="hentry font-family-para line-height-4 h3 mx-auto dark-gray bg-grafy col col-12 md-col-11 lg-col-7 px2 pb4 sm-p4 lg-p3 mb4 pb4{% if page.description  %} fn fl-ns {% endif %}">
     {% if page.staff %}
       {% assign theauthor = site.staff | where: 'slug', page.staff[0] %}
-      <h4>by {{ theauthor[0].title }}</h4>
+      {% if theauthor.size > 0 %}
+        <h4>by {{ theauthor[0].title }}</h4>
+      {% endif %}
     {% endif %}
 
     {% if page.collection == 'events' %}

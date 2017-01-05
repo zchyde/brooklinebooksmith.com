@@ -11,6 +11,6 @@ fancy_font:
 category:
 book_available: false
 staff:
-books:
- -
+related_books:
+
 ---
